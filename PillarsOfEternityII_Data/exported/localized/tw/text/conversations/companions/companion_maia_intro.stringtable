@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「你在捫心自問，『我是怎麼讓亡焰皇家商行在我的船員之中安插了一個線人的？』」
+      <DefaultText>「你在捫心自問，『我是怎麼讓 &lt;g&gt;亡焰皇家商行&lt;/g&gt;在我的船員之中安插了一個線人的？』」
 
 她笑了起來，不過笑聲中流露著順從的意味。</DefaultText>
       <FemaleText />
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「如果我的行為會損害亡焰皇家商行的利益呢？」</DefaultText>
+      <DefaultText>「如果我的行為會損害 &lt;g&gt;亡焰皇家商行&lt;/g&gt;的利益呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,7 +53,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「如果沒有什麼該死的好理由，亡焰皇家商行是不會為指揮官重新安排任務的。」</DefaultText>
+      <DefaultText>「如果沒有什麼該死的好理由，亡焰皇家商行 是不會為指揮官重新安排任務的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,7 +65,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「既然胡亞納人似乎沒什麼能耐，那麼就由努瓦泰人來做些有益的事情吧。或許你可以盡量不要干擾我們？」</DefaultText>
+      <DefaultText>「既然 &lt;g&gt;胡亞納&lt;/g&gt;人似乎沒什麼能耐，那麼就由 &lt;g&gt;努瓦泰&lt;/g&gt;人來做些有益的事情吧。或許你可以盡量不要干擾我們？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@
       <ID>18</ID>
       <DefaultText>「應該和你介紹一下小鳥了。伊希比他看起來更聰明，不過表演雜技什麼的還是算了。」
 
-她低著頭，看著那只色彩斑斕的小鳥在你的腳腕附近跳來跳去。</DefaultText>
+她低著頭，看著那隻色彩斑斕的小鳥在你的腳腕附近跳來跳去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「我正在尋找俄撒斯，我不想和什麼商行扯上關係。」</DefaultText>
+      <DefaultText>「我正在尋找 俄撒斯，我不想和什麼商行扯上關係。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,12 +177,12 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>[朝伊希薩咕咕叫。]</DefaultText>
+      <DefaultText>[朝伊希薩咕咕叫]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>[像麥婭一樣打個響舌。]</DefaultText>
+      <DefaultText>[像麥婭一樣打個響舌]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,24 +261,24 @@
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>「就這麼說吧，假如你的大廚打算糾集所有其它的船員發動暴亂。」
+      <DefaultText>「就這麼說吧，假如你的廚子正準備組織其它船員發動叛變。」
 
 「你會怎麼解決這個問題？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>「我會比她更快一步，先和船員達成協議。」</DefaultText>
+      <DefaultText>「我會搶先一步，先和船員達成協議。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>「我會殺了她，給剩下的船員一個警告。」</DefaultText>
+      <DefaultText>「我會殺了她，以作警誡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>「如果她更能振奮大家的士氣，我願意在入港之前把船交給她管。」</DefaultText>
+      <DefaultText>「如果她更受大家愛戴，我願意在入港之前把船交給她管。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,12 +402,12 @@
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>「我是個靠得住的人，船長。我是不會拖你們後退的，而且伊希也能照顧好自己。」</DefaultText>
+      <DefaultText>「沒問題，船長。我不會拖你們後腿，而且伊希也能照顧好自己。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>「不過，跟著他後面清理打掃，可就是另一回事了。來吧，小傢伙。」
+      <DefaultText>「不過，跟著牠後面清理打掃，可就是另一回事了。來吧，小傢伙。」
 
 她彈了一下舌頭，擔了擔背包。</DefaultText>
       <FemaleText />
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>「現在亡焰列島局勢這樣子，與一個政客相比努瓦泰更加需要一名射手。
+      <DefaultText>「現在 &lt;g&gt;亡焰列島&lt;/g&gt;局勢這樣子，與一個政客相比 &lt;g&gt;努瓦泰&lt;/g&gt;更加需要一名射手。
 
 「你怎麼看？」
 

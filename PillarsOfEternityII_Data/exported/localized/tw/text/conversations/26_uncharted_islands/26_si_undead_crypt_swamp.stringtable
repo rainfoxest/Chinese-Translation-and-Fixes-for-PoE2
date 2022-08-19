@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[努力向沼澤深處前進。]</DefaultText>
+      <DefaultText>[努力向沼澤深處前進]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[轉身原路折回。]</DefaultText>
+      <DefaultText>[轉身原路折回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>你碰到一片特別的沼澤地，被茂密的樹林環繞著，視線範圍內看不到一塊干地。因為前面沒有路了，但必須穿過，所以你只能努力向沼澤深處前進。</DefaultText>
+      <DefaultText>你碰到一片特別的沼澤地，被茂密的樹林環繞著，視線範圍內看不到一塊乾地。因為前面沒有路了，但必須穿過，所以你只能努力向沼澤深處前進。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,17 +66,17 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[走向小路。]</DefaultText>
+      <DefaultText>[走向小路]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[站立不動。]</DefaultText>
+      <DefaultText>[站立不動]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>憑著敏捷的思維能力和良好的領導能力，[Specified 0]將你們安全地帶上了路。你停下來喘口氣，然後再繼續前進，但沒有很長時間來休息了——嘶吼聲越來越響，越來越近了。你被包圍了。</DefaultText>
+      <DefaultText>憑著敏捷的思維能力和良好的領導能力，[Specified 0]將你們安全地帶上了路。你停下來喘口氣，然後再繼續前進，但沒有很長時間來休息了—嘶吼聲越來越響，越來越近了。你被包圍了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,17 +123,17 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>只剩骨頭的手太多、太頑強了——你們無法衝破包圍。骷髏們從水裡浮起來，成群結隊地蹣跚著向你們走來。</DefaultText>
+      <DefaultText>只剩骨頭的手太多、太頑強了—你們無法衝破包圍。骷髏們從水裡浮起來，成群結隊地蹣跚著向你們走來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[幫助 [SkillCheck 0]。]</DefaultText>
+      <DefaultText>[幫助 [SkillCheck 0]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[趁著骷髏們被[SkillCheck 0]分心時逃走。]</DefaultText>
+      <DefaultText>[趁著骷髏們被[SkillCheck 0]分心時逃走]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,12 +185,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>憑著敏捷的思維能力和良好的領導能力，你成功帶隊返回了正路。你停下來喘口氣，然後再繼續前進，但沒有很長時間來休息了——嘶吼聲越來越響，越來越近了。你被包圍了。</DefaultText>
+      <DefaultText>憑著敏捷的思維能力和良好的領導能力，你成功帶隊返回了正路。你停下來喘口氣，然後再繼續前進，但沒有很長時間來休息了—嘶吼聲越來越響，越來越近了。你被包圍了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[走向小路。]</DefaultText>
+      <DefaultText>[走向小路]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

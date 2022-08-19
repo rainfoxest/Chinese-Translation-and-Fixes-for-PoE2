@@ -35,12 +35,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「我是亞柯彌的客人。他要我在休息室等他。」</DefaultText>
+      <DefaultText>「我是 &lt;g&gt;亞柯彌&lt;/g&gt;的客人。他要我在休息室等他。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「那塊水晶——你從哪弄到的？」</DefaultText>
+      <DefaultText>「那塊水晶—你從哪弄到的？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「成交——一大堆閃閃亮的硬幣換一塊水晶。」</DefaultText>
+      <DefaultText>「成交—一大堆閃閃亮的硬幣換一塊水晶。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -137,7 +137,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[撒謊並指向你的同伴。]「我是亞柯彌的客人，在幫他測試新的幻術。」</DefaultText>
+      <DefaultText>[撒謊並指向你的同伴]「我是 &lt;g&gt;亞柯彌&lt;/g&gt;的客人，在幫他測試新的幻術。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,7 +159,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「你認識我，我乃亞柯彌。我會讀書，還會施展有意思的法術。」</DefaultText>
+      <DefaultText>「你認識我，我乃 亞柯彌。我會讀書，還會施展有意思的法術。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>「你知道亞柯彌何時會回來嗎？」</DefaultText>
+      <DefaultText>「你知道 &lt;g&gt;亞柯彌&lt;/g&gt;何時會回來嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -272,12 +272,12 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[拍拍妖精的肩膀。]</DefaultText>
+      <DefaultText>[拍拍妖精的肩膀]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[再觀察一下妖精。]</DefaultText>
+      <DefaultText>[再觀察一下妖精]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,7 +287,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>地板發出一陣嘎吱聲，妖精抬起頭看向你，把寶石握的更緊了一些。他咧開嘴——露出成排的尖牙。</DefaultText>
+      <DefaultText>地板發出一陣嘎吱聲，妖精抬起頭看向你，把寶石握的更緊了一些。他咧開嘴—露出成排的尖牙。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,34 +391,34 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「啊喔。你沒發現你握著的是亞柯彌的詛咒稜鏡？」</DefaultText>
+      <DefaultText>「啊喔。你沒發現你握著的是 &lt;g&gt;亞柯彌&lt;/g&gt;的詛咒稜鏡？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>「亞柯彌會大發慈悲嗎？」</DefaultText>
+      <DefaultText>「亞柯彌 會大發慈悲嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
       <DefaultText>「呃……什麼？水晶會傷害黃眼三號？你什麼意思？」
 
-他仔細掂量著水晶——閉上一隻眼把水晶湊到另一隻眼前。</DefaultText>
+他仔細掂量著水晶—閉上一隻眼把水晶湊到另一隻眼前。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>[撒謊]「沒錯——握著它太久的話翅膀會腐爛掉。」</DefaultText>
+      <DefaultText>[撒謊]「沒錯—握著它太久的話翅膀會腐爛掉。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[趁黃眼三號分心時拍他的爪子。]</DefaultText>
+      <DefaultText>[趁黃眼三號分心時拍他的爪子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>「見鬼！拿走拿走——這可怕的東西會傷到黃眼！」
+      <DefaultText>「見鬼！拿走拿走—這可怕的東西會傷到黃眼！」
 
 他把水晶塞進你手裡，然後開始把自己的爪子舔乾淨。</DefaultText>
       <FemaleText />
@@ -432,7 +432,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>「不……主人會對黃眼三號放『亞柯彌滴腸術』的……再一次。」
+      <DefaultText>「不……主人會對黃眼三號放『亞柯彌 滴腸術』的……再一次。」
 
 妖精閉上眼睛發出煩亂的歎息，將水晶遞了回來然後抽回手去。</DefaultText>
       <FemaleText />
@@ -449,7 +449,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[模仿說話。]「呃。給我水晶。」</DefaultText>
+      <DefaultText>[模仿說話]「呃。給我水晶。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -510,7 +510,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>「昂德拉的水之擁召我歸鄉。」</DefaultText>
+      <DefaultText>「&lt;g&gt;昂德拉&lt;/g&gt;的水之擁召我歸鄉。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -520,7 +520,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>「惡人傾慕瓦利亞之美德。」</DefaultText>
+      <DefaultText>「惡人傾慕 &lt;g&gt;瓦利亞&lt;/g&gt;之美德。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -532,7 +532,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>「對啊。沒錯。我就是有名的亞柯彌。現在……在我眼前消失！」
+      <DefaultText>「對啊。沒錯。我就是有名的 亞柯彌。現在……在我眼前消失！」
 
 泰克胡狡猾地向你眨眨眼。</DefaultText>
       <FemaleText />
@@ -554,7 +554,7 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>「噢。是你。不過你聞起來不像亞柯彌。」
+      <DefaultText>「噢。是你。不過你聞起來不像 亞柯彌。」
 
 妖精隨翅膀上下擺動著。</DefaultText>
       <FemaleText />
@@ -585,7 +585,7 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>「既然亞柯彌回來了，就別想再欺騙我們。哈。！」</DefaultText>
+      <DefaultText>「既然 &lt;g&gt;亞柯彌&lt;/g&gt;回來了，就別想再欺騙我們。哈。！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

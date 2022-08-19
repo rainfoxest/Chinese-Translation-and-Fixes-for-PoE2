@@ -28,12 +28,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[讓她幹活。]</DefaultText>
+      <DefaultText>[讓她幹活]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[趁她不注意偷她的東西。]</DefaultText>
+      <DefaultText>[趁她不注意偷她的東西]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,7 +53,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「這是啥，從某種怪物嘴裡拔下來的牙齒嗎？」她拿著托墨弗艾的牙齒仔細端詳一番，然後交還給你。</DefaultText>
+      <DefaultText>「這是啥，從某種怪物嘴裡拔下來的牙齒嗎？」她拿著 &lt;g&gt;托墨弗艾&lt;/g&gt;的牙齒仔細端詳一番，然後交還給你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,7 +109,7 @@
       <ID>25</ID>
       <DefaultText>「你也有一本夢境日記？沒必要難為情，跟我的比起來，你這故事太平淡了。」
 
-她笑了笑，把酒醉的俄撒斯信徒所寫的胡亂日記放在一邊。</DefaultText>
+她笑了笑，把酒醉的 &lt;g&gt;俄撒斯&lt;/g&gt;信徒所寫的胡亂日記放在一邊。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,7 +145,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[交出奈瑞思賽拉絲的希望、托墨弗艾的牙齒與啟示砝碼。]「這三件遺物可以整出什麼東西來？」</DefaultText>
+      <DefaultText>[交出奈瑞思賽拉絲的希望、托墨弗艾 的牙齒與啟示砝碼]「這三件遺物可以整出什麼東西來？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[交出奈瑞思賽拉絲的希望。] 「你能把這個跟合法權利鎖鏈熔合在一起嗎？」</DefaultText>
+      <DefaultText>[交出奈瑞思賽拉絲的希望] 「你能把這個跟合法權利鎖鏈熔合在一起嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,17 +174,17 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[交出奈瑞思賽拉絲的希望和托墨弗艾的牙齒。] 「這兩件遺物可以整出什麼東西來？」</DefaultText>
+      <DefaultText>[交出奈瑞思賽拉絲的希望和 &lt;g&gt;托墨弗艾&lt;/g&gt;的牙齒] 「這兩件遺物可以整出什麼東西來？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[交出啟示砝碼和托墨弗艾的牙齒。] 「這兩件遺物可以整出什麼東西來？」</DefaultText>
+      <DefaultText>[交出啟示砝碼和 &lt;g&gt;托墨弗艾&lt;/g&gt;的牙齒] 「這兩件遺物可以整出什麼東西來？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[交出奈瑞思賽拉絲的希望和啟示砝碼。] 「這兩件遺物可以整出什麼東西來？」</DefaultText>
+      <DefaultText>[交出奈瑞思賽拉絲的希望和啟示砝碼] 「這兩件遺物可以整出什麼東西來？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -278,17 +278,17 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>「當我受到亞拜登的啟發之時，我在製作奇珍異寶方面早已經是家喻戶曉的人物了。只要給我適當的材料就行。」</DefaultText>
+      <DefaultText>「當我受到 &lt;g&gt;亞拜登&lt;/g&gt;的啟發之時，我在製作奇珍異寶方面早已經是家喻戶曉的人物了。只要給我適當的材料就行。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[交出托墨弗艾的牙齒。] 「你能把這個跟合法權利鎖鏈熔合在一起嗎？」</DefaultText>
+      <DefaultText>[交出 &lt;g&gt;托墨弗艾&lt;/g&gt;的牙齒] 「你能把這個跟合法權利鎖鏈熔合在一起嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>[交出啟示砝碼。] 「你能把這個跟合法權利鎖鏈熔合在一起嗎？」</DefaultText>
+      <DefaultText>[交出啟示砝碼] 「你能把這個跟合法權利鎖鏈熔合在一起嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,7 +308,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>「特殊材料、稀有金屬——尤其是那種顏色猶如午夜一般的&lt;i&gt;黑&lt;/i&gt;，充斥某種&lt;i&gt;沉睡力量殘留的材料！」&lt;/i&gt;
+      <DefaultText>「特殊材料、稀有金屬—尤其是那種顏色猶如午夜一般的&lt;i&gt;黑&lt;/i&gt;，充斥某種&lt;i&gt;沉睡力量殘留的材料！」&lt;/i&gt;
 
 「只要帶給我就行了。」
 
@@ -372,17 +372,17 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>[交出奈瑞思賽拉絲的希望和托墨弗艾的牙齒。] 「組合這兩件。」</DefaultText>
+      <DefaultText>[交出奈瑞思賽拉絲的希望和 &lt;g&gt;托墨弗艾&lt;/g&gt;的牙齒] 「組合這兩件。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>[交出啟示砝碼和托墨弗艾的牙齒。] 「把它們組合一下。」</DefaultText>
+      <DefaultText>[交出啟示砝碼和 &lt;g&gt;托墨弗艾&lt;/g&gt;的牙齒] 「把它們組合一下。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>[交出啟示砝碼和奈瑞思賽拉絲的希望。] 「把它們組合一下。」</DefaultText>
+      <DefaultText>[交出啟示砝碼和奈瑞思賽拉絲的希望] 「把它們組合一下。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -447,7 +447,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>「你剛才有一陣子臉色不大好。要我說的話，你那兩條腿得緩一緩了。」她笑著搖了搖頭。 </DefaultText>
+      <DefaultText>「你剛才有一陣子臉色不大好。要我說的話，你那兩條腿得緩一緩了。」她笑著搖了搖頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

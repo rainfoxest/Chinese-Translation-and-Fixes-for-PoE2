@@ -38,7 +38,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[拿出海浪號角。]「我拿到了你要的東西。」</DefaultText>
+      <DefaultText>[拿出海浪號角]「我拿到了你要的東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,7 +53,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「幹得漂亮，我保證不會再有人對其不利。」
+      <DefaultText>「幹得漂亮，我會保證不會再有人打擾這地方。」
 
 她拍拍你的肩膀。</DefaultText>
       <FemaleText />
@@ -70,7 +70,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「還以為我們都心裡有數了。我在這等你拿回東西，這樣我們就能找到德理奧的嵌板然後離開這。」她的目光環視四周，似乎在提防有什麼東西會從陰影中突然竄出。</DefaultText>
+      <DefaultText>「還以為我們都心裡有數了。我在這等你拿回東西，這樣我們就能找到德理奧的碎錦畫然後離開這。」她的目光環視四周，似乎在提防有什麼東西會從陰影中突然竄出。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,7 +125,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「德理奧派我拿的是一件古老的胡亞納神器，不是什麼鑰匙。」</DefaultText>
+      <DefaultText>「德理奧派我拿的是一件古老的 &lt;g&gt;胡亞納&lt;/g&gt;神器，不是什麼鑰匙。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -155,7 +155,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「你應該去見見我們的朋友高野。他手上有些古老的聖物。」</DefaultText>
+      <DefaultText>「你應該去見見我們的朋友塔卡努。解放他手上的古董。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,22 +165,22 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[拿出深淵號角。]「我拿到了你要的東西。」</DefaultText>
+      <DefaultText>[拿出深淵號角]「我拿到了你要的東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>「不過德理奧為什麼想要這塊嵌板？」</DefaultText>
+      <DefaultText>「不過德理奧為什麼想要這塊碎錦畫？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>「這塊嵌板一定十分重要。很明顯你不喜歡呆在這。」</DefaultText>
+      <DefaultText>「這塊碎錦畫一定十分重要。很明顯你不喜歡呆在這。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>「涅克塔卡有一部分曾在很久之前塌陷在這。我想遺跡中肯定有不少之前的寶貝……」</DefaultText>
+      <DefaultText>「&lt;g&gt;涅克塔卡&lt;/g&gt;有一部分曾在很久之前塌陷在這。我想遺跡中肯定有不少之前的寶貝……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,12 +200,12 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>「我們趕快打開那扇門，就能回去享受新鮮空氣與溫暖的商行了。」</DefaultText>
+      <DefaultText>「我們越快打開那扇門，就能越快回去享受新鮮的空氣和溫暖的陽光。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>「這地方到處都是月神教的意象——海浪，貝殼以及雕像。這裡難道是教派儀式的會所？」</DefaultText>
+      <DefaultText>「這地方到處都是月神教的意象—海浪，貝殼以及雕像。這裡難道是教派儀式的會所？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,9 +240,9 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「就是那個？」
+      <DefaultText>「是這樣哦？」
 
-她的目光越過你的身影，惱怒地咆哮著。</DefaultText>
+她看了看你，惱怒地咆哮著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -252,7 +252,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>「有一座古老的昂德拉神廟。德理奧說就在這扇門後面。」她環顧四周，彷彿想找到什麼自己遺漏的東西。</DefaultText>
+      <DefaultText>「有一座古老的 &lt;g&gt;昂德拉&lt;/g&gt;神廟。德理奧說就在這扇門後面。」她環顧四周，彷彿想找到什麼自己遺漏的東西。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +302,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>「很有趣。」她向你冷笑著。</DefaultText>
+      <DefaultText>「笑死。」她向你冷笑著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -317,7 +317,7 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>「你知道胡亞納人會把一些人丟下來讓怪物吃掉的事吧？」她皺起眉頭。</DefaultText>
+      <DefaultText>「你知道 &lt;g&gt;胡亞納&lt;/g&gt;人會把一些人丟下來讓怪物吃掉的事吧？」她皺起眉頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,14 +347,14 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>「我們需要的那個更大，而且上面應該有……很特別的嵌板圖案。你找到的時候肯定就知道了。」
+      <DefaultText>「我們需要的那個更大，而且上面應該有……很特別的碎錦畫圖案。你找到的時候肯定就知道了。」
 
 她看向發霉的牆壁，又用手臂抱住雙肩。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>「他要一塊烏凱佐的嵌板做什麼？」</DefaultText>
+      <DefaultText>「他要一塊 &lt;g&gt;烏凱佐&lt;/g&gt;的碎錦畫做什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,7 +391,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>「好吧，也許我們可以搬一些到博物館去？」</DefaultText>
+      <DefaultText>「Ekera，也許我們可以搬一些到博物館去？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -443,7 +443,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>「一般人不是這個反應……」</DefaultText>
+      <DefaultText>「人們一般不是這個反應……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,7 +493,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>「如果你要偷取或是毀壞恩加蒂的神龕，那麼你的航路將永遠伴隨著驚濤駭浪。」</DefaultText>
+      <DefaultText>「如果你要偷取或是毀壞 &lt;g&gt;恩加蒂&lt;/g&gt;的神龕，那麼你的航路將永遠伴隨著驚濤駭浪。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -542,7 +542,7 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>「恩加蒂寧可將島嶼沉入海底，也不會將其交給海盜。」</DefaultText>
+      <DefaultText>「&lt;g&gt;恩加蒂&lt;/g&gt;寧可將島嶼沉入海底，也不會將其交給海盜。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -557,7 +557,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>「如果德理奧因為一點誘餌就要派他的船隊前往娥狄卡的大灰洞去，我們又有什麼本事阻止他呢？」</DefaultText>
+      <DefaultText>「如果德理奧因為一點誘餌就要派他的船隊前往 &lt;g&gt;娥狄卡&lt;/g&gt;的大灰洞去，我們又有什麼本事阻止他呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

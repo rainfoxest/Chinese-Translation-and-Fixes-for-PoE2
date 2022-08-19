@@ -11,7 +11,7 @@
 		</Entry>
 		<Entry>
 			<ID>1</ID>
-			<DefaultText>遊戲開始時攜帶能夠購買更高等級裝備，消耗品與艦船升級的額外金錢。</DefaultText>
+			<DefaultText>遊戲開始時攜帶能夠購買更高等級裝備、消耗品與艦船升級的額外金錢。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -31,7 +31,7 @@
 		</Entry>
 		<Entry>
 			<ID>5</ID>
-			<DefaultText>遊戲開始時獲得力量、體質、敏捷、智力、感知與決心加成。與只針對玩家起效的加成疊加。</DefaultText>
+			<DefaultText>遊戲開始時獲得力量、體質、敏捷、智力、感知與決心加成。與僅限玩家加成疊加。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -41,7 +41,7 @@
 		</Entry>
 		<Entry>
 			<ID>7</ID>
-			<DefaultText>額外屬性（只針對玩家角色）</DefaultText>
+			<DefaultText>額外屬性（僅限玩家）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -71,12 +71,12 @@
 		</Entry>
 		<Entry>
 			<ID>13</ID>
-			<DefaultText>力量等級加成（全隊伍）</DefaultText>
+			<DefaultText>威力等級加成（全隊伍）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>14</ID>
-			<DefaultText>使用高於你角色的實際力量等級的戰技與法術。與玩家加成疊加。</DefaultText>
+			<DefaultText>使用高於你角色的實際威力等級的戰技與法術。與玩家加成疊加。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -166,12 +166,12 @@
 		</Entry>
 		<Entry>
 			<ID>32</ID>
-			<DefaultText>力量等級加成（只針對玩家）</DefaultText>
+			<DefaultText>威力等級加成（只針對玩家）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>33</ID>
-			<DefaultText>使用高於你角色的實際力量等級的戰技與法術。與隊伍加成疊加。</DefaultText>
+			<DefaultText>使用高於你角色的實際威力等級的戰技與法術。與隊伍加成疊加。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -276,7 +276,7 @@
 		</Entry>
 		<Entry>
 			<ID>54</ID>
-			<DefaultText>工藝與附魔貨幣花費降低。</DefaultText>
+			<DefaultText>製造和強化所花費的貨幣降低。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>

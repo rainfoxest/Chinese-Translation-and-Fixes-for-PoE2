@@ -10,12 +10,12 @@
 
 船隻的前桅只剩下一些光禿禿的木樁殘片，而船首斜桅也被切斷了。
 
-「看看她都成了什麼樣子？這就是那些海盜幹的好事。最有可能是皇族海盜，而且也許是新崛起的勢力，考慮到他們敢在距離瓦利亞巡邏航線這麼近的地方犯案。」</DefaultText>
+「看看她都成了什麼樣子？這就是那些海盜幹的好事。最有可能是皇族海盜，而且也許是新崛起的勢力，考慮到他們敢在距離 &lt;g&gt;瓦利亞&lt;/g&gt;巡邏航線這麼近的地方犯案。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「在她旁邊停一下。我們得找找還有什麼剩下的東西。</DefaultText>
+      <DefaultText>「在旁邊停一下。看看我們能打撈出什麼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,21 +48,21 @@
       <ID>13</ID>
       <DefaultText>[Specified 2]湊近過來。「他們會拿走所有黃金，不過也許會留下點補給。」
 
-[Specified 1]的眉毛上掛著汗珠。「我們不該在這裡逗留。如果瓦利亞看到我們在掠奪他們的船，我們可沒機會解釋了。」</DefaultText>
+[Specified 1]的眉毛上掛著汗珠。「我們不該在這裡逗留。如果 &lt;g&gt;瓦利亞&lt;/g&gt;看到我們在掠奪他們的船，我們可沒機會解釋了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>儘管[Specified 0]發出了警告，你還是決定登上大帆船。
 
-有一艘瓦利亞私掠船向你這裡加速駛來。
+有一艘 &lt;g&gt;瓦利亞&lt;/g&gt;私掠船向你這裡加速駛來。
 
 在[Player Ship]上的船員們趕緊將船調整至戰鬥準備。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>不過當私掠船接近時，你發現他們指向你掛起的瓦利亞商行旗幟。</DefaultText>
+      <DefaultText>不過當私掠船接近時，你發現他們指向你掛起的 &lt;g&gt;瓦利亞商行&lt;/g&gt;旗幟。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <DefaultText>[使用小型望遠鏡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -92,7 +92,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>一面天平與群星——代表瓦利亞商行的旗幟從主桅升起。</DefaultText>
+      <DefaultText>一面天平與群星—代表 &lt;g&gt;瓦利亞商行&lt;/g&gt;的旗幟從主桅升起。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,7 +113,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>你率領一支小隊登上了大帆船。大部分貨物與船員都不見了蹤影，不過你還是找到了幾桶淡水與一些干米和樸素的食物。
+      <DefaultText>你率領一支小隊登上了大帆船。大部分貨物與船員都不見了蹤影，不過你還是找到了幾桶淡水與一些乾米和樸素的食物。
 
 由於你經驗不足，花了大半天才將船上的東西清理乾淨。</DefaultText>
       <FemaleText />
@@ -125,7 +125,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「我並不熱衷於掠奪瓦利亞人的船，但就算我們不搶他們的貨物，也有其他人會搶。」
+      <DefaultText>「我並不熱衷於掠奪 &lt;g&gt;瓦利亞&lt;/g&gt;人的船，但就算我們不搶他們的貨物，也有其他人會搶。」
 
 她不悅地審視著那艘船，搖了搖長著羽毛的腦袋。</DefaultText>
       <FemaleText />

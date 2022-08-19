@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「離開。在我的看守下， 不會有瓦利亞間諜混進來的。」</DefaultText>
+      <DefaultText>「離開。在我的看守下，不會有 &lt;g&gt;瓦利亞&lt;/g&gt;間諜混進來的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>一個衣著考究的瓦利亞人和一個年輕但頑固的護衛在門邊爭吵。</DefaultText>
+      <DefaultText>一個衣著考究的 &lt;g&gt;瓦利亞&lt;/g&gt;人和一個年輕但頑固的護衛在門邊爭吵。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「你們兩個能安靜下來嗎？！」你們的聲音真惹人煩！」</DefaultText>
+      <DefaultText>「你們兩個能安靜下來嗎？！你們的聲音真惹人煩！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「這些&lt;i&gt;瓦利亞人&lt;/i&gt;一直輸送間諜前來窺探，我不能容忍這樣的事。」
+      <DefaultText>「這些&lt;i&gt; &lt;g&gt;瓦利亞&lt;/g&gt;人&lt;/i&gt;一直輸送間諜前來窺探，我不能容忍這樣的事。」
 
 甚至和你說話時，護衛也在瞪著商人。
 
@@ -60,26 +60,26 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「是，你做對了&lt;i&gt;一件&lt;/i&gt;事。」</DefaultText>
+      <DefaultText>「Ac，你至少猜對了&lt;i&gt;一點&lt;/i&gt;。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「亡焰皇家商行是一家貿易商行，不是嗎？」而你在卡罕加的土地上。你不能把我拒之門外！」
+      <DefaultText>「&lt;g&gt;亡焰皇家商行&lt;/g&gt;是一家貿易商行，不是嗎？而你在卡罕加的土地上。你不能把我拒之門外！」
 
-瓦利亞人的話只會讓護衛更加生氣。她的臉暗沉下來，磨著她尖尖的牙齒。</DefaultText>
+瓦利亞 人的話只會讓護衛更加生氣。她的臉暗沉下來，磨著她尖尖的牙齒。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「黃銅堡和亡焰皇家商行都在努瓦泰獲得了蘭迦努伊的允許，是正常營業的。」
+      <DefaultText>「黃銅堡和 &lt;g&gt;亡焰皇家商行&lt;/g&gt;都獲得了 &lt;g&gt;努瓦泰&lt;/g&gt;的 蘭迦努伊 授權運作。」
 
 她挺直肩部，把前臂交叉在胸前，僵硬的敬了個禮。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「我們針對的是&lt;i&gt;他&lt;/i&gt;，不是你，也不是涅克塔卡某些部落的女王！」</DefaultText>
+      <DefaultText>「我們聽從的是&lt;i&gt;他&lt;/i&gt;的命令，不是你，更不是 &lt;g&gt;涅克塔卡&lt;/g&gt;某個部落的女王！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,7 +89,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,12 +99,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「如果你覺得我們安全，那是你在亡焰列島呆的不夠久。幾乎沒有哪一片海域是沒有海盜或私掠船潛伏在附近的。」她意味深長的看了看瓦利亞。</DefaultText>
+      <DefaultText>「如果你覺得我們安全，那是你在 &lt;g&gt;亡焰列島&lt;/g&gt;呆的不夠久。幾乎沒有哪一片海域是沒有海盜或私掠船潛伏在附近的。」她意味深長的看了看那名 &lt;g&gt;瓦利亞&lt;/g&gt;人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「而這些&lt;i&gt;努瓦泰人&lt;/i&gt;覺得，只要他們堆兩塊石頭做標記，那件東西就屬於他們了。我是來這裡經營生意的，不是來參與瑣碎的權力之爭的。」</DefaultText>
+      <DefaultText>「而這些 &lt;i&gt;努瓦泰 人&lt;/i&gt;覺得，只要他們堆兩塊石頭做標記，那件東西就屬於他們了。我是來這裡經營生意的，不是來參與瑣碎的權力之爭的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,12 +124,12 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「幹嘛？！她在做壞事，我知道！」</DefaultText>
+      <DefaultText>「幹嘛？！她不懷好意，我知道！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「什麼？！我應該怎麼經營我的生意？」</DefaultText>
+      <DefaultText>「Cuè？！我應該怎麼經營我的生意？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +139,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「為什麼要惹亡焰列島最大的貿易派系之一生氣？優雅的離開，然後再找其他更方便的入口。」</DefaultText>
+      <DefaultText>「為什麼要惹 &lt;g&gt;亡焰列島&lt;/g&gt;最大的貿易派系之一生氣？優雅地離開，然後再找其他更方便的入口。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -154,7 +154,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>瓦利亞衝你使了個眼色，然後退出去，臉上故意做出憤慨的表情。</DefaultText>
+      <DefaultText>&lt;g&gt;瓦利亞&lt;/g&gt;人衝你使了個眼色，然後退出去，臉上故意做出憤慨的表情。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,7 +174,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「不，你就是不信任瓦利亞人。她說的對——沒辦法以貿易商行的名頭做事。」</DefaultText>
+      <DefaultText>「不，只是你不信任 &lt;g&gt;瓦利亞&lt;/g&gt;人。她說得對—這不是一間商行該有的處事方式。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -194,7 +194,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>「我想這件事裡面蘊藏著智慧。很好。祝你平安。」她向你點點頭，以嘲弄的態度向護衛深深的鞠了一躬，然後離開。</DefaultText>
+      <DefaultText>「我想這句話裡面蘊藏著智慧。很好。Corès。」她向你點點頭，以嘲弄的態度向護衛深深的鞠了一躬，然後離開。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,8 +204,8 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「哼，我敢打賭你會讓&lt;i&gt;他&lt;/i&gt;溜進去的！」</DefaultText>
-      <FemaleText>「哼，我敢打賭你會讓&lt;i&gt;她&lt;/i&gt;溜進去的！」</FemaleText>
+      <DefaultText>「Ac，我敢打賭你會讓&lt;i&gt;他&lt;/i&gt;溜進去的！」</DefaultText>
+      <FemaleText>「Ac，我敢打賭你會讓&lt;i&gt;她&lt;/i&gt;溜進去的！」</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -229,12 +229,12 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>「好吧。但如果你是錯的，我們還會見面的。」她瞪著你，然後沖瓦利亞點點頭。</DefaultText>
+      <DefaultText>「好吧。但如果你是錯的，我們還會見面的。」她瞪著你，然後沖 &lt;g&gt;瓦利亞&lt;/g&gt;點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>「感謝你，朋友。」她離開前向你脫帽致敬。</DefaultText>
+      <DefaultText>「Agracima，朋友。」她離開前向你脫帽致敬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,7 +244,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>護衛向你點點頭， 她的睜大眼睛，表示明白你的意思。
+      <DefaultText>護衛向你點點頭，她的睜大眼睛，表示明白你的意思。
 
 她清了清嗓子，故意皺著眉頭轉向商人。</DefaultText>
       <FemaleText />
@@ -261,19 +261,19 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>「周圍的其他人都信任你，所以我想你也應該信任他們。」她歎息著，揮手示意瓦利亞商人進去。</DefaultText>
+      <DefaultText>「周圍的其他人都信任你，所以我想你也應該信任他們。」她歎息著，揮手示意 &lt;g&gt;瓦利亞&lt;/g&gt;人進去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>「我絕不會冒險，這事兒沒得談。」她盯著你們兩個不敢直視。
 
-瓦利亞商人最終轉過身去，深深歎息一聲，然後離開。</DefaultText>
+瓦利亞 人最終轉過身去，深深歎息一聲，然後離開。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>「至少瓦利亞現在不煩我了。」</DefaultText>
+      <DefaultText>「至少那名 &lt;g&gt;瓦利亞&lt;/g&gt;人現在不煩我了。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

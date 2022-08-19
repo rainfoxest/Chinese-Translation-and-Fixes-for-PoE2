@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「貝拉斯的使者，我們很少有機會面對面交流。不過現在恐怕不是聊天的時候。」
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;的使者，我們很少有機會面對面交流。不過現在恐怕不是聊天的時候。」
 
 「你得離開。」
 
@@ -22,7 +22,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「貝拉斯的使者。你摧毀了我在席格納斯·莫爾的造物，還不滿足？難道還想插足此地？」
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;的使者。你摧毀了我在席格納斯·莫爾的造物，還不滿足？難道還想插足此地？」
 
 「走吧。一刻也不能留。」
 
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「貝拉斯的使者，此地容不得你。走吧。」
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;的使者，此地容不得你。走吧。」
 
 一股血腥味沉積了多天的汗酸味從他身上飄過來。</DefaultText>
       <FemaleText />
@@ -75,7 +75,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「有人要我來尋求托墨弗艾的庇佑。你是托墨弗艾嗎？」</DefaultText>
+      <DefaultText>「有人要我來尋求 &lt;g&gt;托墨弗艾&lt;/g&gt;的庇佑。你是托墨弗艾嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -100,7 +100,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「你獵捕的是另一種獵物——沒有在這座島上留下任何蹤跡的獵物。」</DefaultText>
+      <DefaultText>「你獵捕的是另一種獵物—沒有在這座島上留下任何蹤跡的獵物。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,9 +122,9 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「一隻猛獸，同時也是此島上將要挑戰你的眾多生物之一——如果你拒絕離開的話。」
+      <DefaultText>「一隻猛獸，同時也是此島上將要挑戰你的眾多生物之一—如果你拒絕離開的話。」
 
-伽拉溫的獅尾虎伸著舌頭，口水流到地面上。即使沒有強烈的陽光，它那長長的獠牙也閃著亮光。</DefaultText>
+ 伽拉溫 的獅尾虎伸著舌頭，口水流到地面上。即使沒有強烈的陽光，它那長長的獠牙也閃著亮光。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
       <ID>25</ID>
       <DefaultText>「你就把我的話當成措辭強烈的建議吧……而且是有後果的。」
 
-「我不介意向貝拉斯解釋為什麼他最鍾愛的靈視者會被我的野獸撕成碎片。」</DefaultText>
+「我不介意向 &lt;g&gt;貝拉斯&lt;/g&gt;解釋為什麼他最鍾愛的靈視者會被我的野獸撕成碎片。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「寒冬巨獸跟你戰鬥，是因為它想滿足睿姆岡一窺你實力的慾望。如果你認為自己真的傷了它，那就大錯特錯了。」
+      <DefaultText>「寒冬巨獸跟你戰鬥，是因為它想滿足 &lt;g&gt;睿姆岡&lt;/g&gt;一窺你實力的慾望。如果你認為自己真的傷了它，那就大錯特錯了。」
 
 「如果跟我的寵物對陣，就沒那麼輕鬆了。」
 
@@ -165,7 +165,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[聳肩。]</DefaultText>
+      <DefaultText>[聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,7 +177,7 @@
       <ID>35</ID>
       <DefaultText>「我會盯著你。」
 
-伽拉溫雙手抱在胸前。他瞇著雙眼盯著你，身旁的野獸發出嘶嘶聲。</DefaultText>
+ 伽拉溫 雙手抱在胸前。他瞇著雙眼盯著你，身旁的野獸發出嘶嘶聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,9 +204,9 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>「我不是睿姆岡，我不以人們的恐懼為樂，而是他們的力量和機智。我的目的也不是要嚇你。」
+      <DefaultText>「我不是 &lt;g&gt;睿姆岡&lt;/g&gt;，我不以人們的恐懼為樂，而是他們的力量和機智。我的目的也不是要嚇你。」
 
-「就當作是我盡心盡責的體現吧，而且是代替貝拉斯干的工作。」</DefaultText>
+「就當作是我盡心盡責的體現吧，而且是代替 &lt;g&gt;貝拉斯&lt;/g&gt;幹的工作。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,7 +223,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>「我最不關心的就是你跟貝拉斯的關係。」</DefaultText>
+      <DefaultText>「我最不關心的就是你跟 &lt;g&gt;貝拉斯&lt;/g&gt;的關係。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,8 +254,8 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>「你是貝拉斯的人，此地不歸他管轄。」</DefaultText>
-      <FemaleText>「你是貝拉斯的人，此地不歸他管轄。」</FemaleText>
+      <DefaultText>「你是 &lt;g&gt;貝拉斯&lt;/g&gt;的人，此地不歸他管轄。」</DefaultText>
+      <FemaleText>「你是 &lt;g&gt;貝拉斯&lt;/g&gt;的人，此地不歸他管轄。」</FemaleText>
     </Entry>
     <Entry>
       <ID>60</ID>
@@ -269,7 +269,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>「我們一族可能是基斯所創造，但我們的力量不遜於創造者。」
+      <DefaultText>「我們一族可能是 &lt;g&gt;基斯&lt;/g&gt;所創造，但我們的力量不遜於創造者。」
 
 「不管是否正當，我們仍然是神明。」</DefaultText>
       <FemaleText />
@@ -293,7 +293,7 @@
       <ID>72</ID>
       <DefaultText>「卡茲瓦里島上潛伏著諸多凶殘嗜血的猛獸。」
 
-「&lt;i&gt;我&lt;/i&gt;不必阻止你——有它們就足夠了。」</DefaultText>
+「&lt;i&gt;我&lt;/i&gt;不必阻止你—有它們就足夠了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,7 +308,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>「你不承認按照貝拉斯的要求，殺害大德魯伊雷斯丁和無倫會的人？」</DefaultText>
+      <DefaultText>「你不承認按照 &lt;g&gt;貝拉斯&lt;/g&gt;的要求，殺害大德魯伊睿斯汀和無倫會的人？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,7 +347,7 @@
       <ID>88</ID>
       <DefaultText>「你抱怨我們麻木不仁、殘酷無情，但你卻不明白一個簡單的真理。」
 
-他突然放低了聲音。似乎從四面八方傳來各種聲音——樹枝的咯吱作響，昆蟲的低沉蜂鳴。</DefaultText>
+他突然放低了聲音。似乎從四面八方傳來各種聲音—樹枝的咯吱作響，昆蟲的低沉蜂鳴。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -367,7 +367,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>伽拉溫發出一陣低沉的笑聲。</DefaultText>
+      <DefaultText>伽拉溫 發出一陣低沉的笑聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -382,7 +382,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -404,7 +404,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>伽拉溫。</DefaultText>
+      <DefaultText>伽拉溫 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,7 +476,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>伽拉溫身旁的雪狼發出低沉的吼叫聲。</DefaultText>
+      <DefaultText>伽拉溫 身旁的雪狼發出低沉的吼叫聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,7 +486,7 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>伽拉溫身旁的獅尾虎發出低沉的吼叫聲。</DefaultText>
+      <DefaultText>伽拉溫 身旁的獅尾虎發出低沉的吼叫聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -500,7 +500,7 @@
       <ID>130</ID>
       <DefaultText>「如果不聽我警告，那一天很快就會到來。」
 
-伽拉溫的其中一隻野獸發出低沉的吼叫聲。</DefaultText>
+ 伽拉溫 的其中一隻野獸發出低沉的吼叫聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -520,27 +520,27 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>「你是瑪珈嵐的星光，但她的光照不到此地。」</DefaultText>
+      <DefaultText>「你是 &lt;g&gt;瑪珈嵐&lt;/g&gt;的星光，但她的光照不到此地。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>「你是昂德拉的諸多浪潮之一，但我的海岸不歡迎她的浪潮。」</DefaultText>
+      <DefaultText>「你是 &lt;g&gt;昂德拉&lt;/g&gt;的諸多浪潮之一，但我的海岸不歡迎她的浪潮。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>「你是沃艾珥之眼，但我費了很大功夫不讓他的目光觸及此地。」</DefaultText>
+      <DefaultText>「你是 &lt;g&gt;沃艾珥&lt;/g&gt;之眼，但我費了很大功夫不讓他的目光觸及此地。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>「你是司坎的復仇之手。這裡不能容忍你的惡意。」</DefaultText>
+      <DefaultText>「你是 司坎 的復仇之手。這裡不能容忍你的惡意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>「你帶有俄撒斯之光。你當然能理解我為什麼不想讓他的光降臨在我的土地上。」</DefaultText>
+      <DefaultText>「你帶有 &lt;g&gt;俄撒斯&lt;/g&gt;之光。你當然能理解我為什麼不想讓他的光降臨在我的土地上。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -555,14 +555,14 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>「貝拉斯似乎認為我相當重要。」</DefaultText>
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;似乎認為我相當重要。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>「貝拉斯在&lt;i&gt;利用&lt;/i&gt;你。你不過是她的工具，用來彰顯她的力量而已。就如同這隻野獸之於我一樣。」
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;在&lt;i&gt;利用&lt;/i&gt;你。你不過是她的工具，用來彰顯她的力量而已。就如同這隻野獸之於我一樣。」
 
-伽拉溫身邊大貓的耳朵折成了飛機耳。</DefaultText>
+ 伽拉溫 身邊大貓的耳朵折成了飛機耳。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

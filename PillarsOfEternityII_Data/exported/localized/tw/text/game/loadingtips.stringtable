@@ -61,7 +61,7 @@
 		</Entry>
 		<Entry>
 			<ID>11</ID>
-			<DefaultText>如果隊伍成員在戰鬥中被打倒，或在腳本事件中遭遇事故，就會陷入受傷狀態。傷勢會帶來各種各樣的負面效果。另外，如果隊伍成員傷勢超過三處，甚至會有生命危險。在休息時食用食物，可以移除角色所有傷勢。</DefaultText>
+			<DefaultText>如果隊伍成員在戰鬥中被打倒，或在腳本事件中遭遇事故，就會陷入受傷狀態。傷勢會帶來各種各樣的減益效果。另外，如果隊伍成員傷勢超過三處，甚至會有生命危險。在休息時食用食物，可以移除角色所有傷勢。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -106,12 +106,12 @@
 		</Entry>
 		<Entry>
 			<ID>20</ID>
-			<DefaultText>力量等級</DefaultText>
+			<DefaultText>威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>21</ID>
-			<DefaultText>所有主動戰技的效果都會隨角色的力量等級提升，其中包括飛彈數量、傷害、持續時間、穿透等。這樣就能保證低等級戰技也會隨著角色成長而有所效果。</DefaultText>
+			<DefaultText>所有主動戰技的效果都會隨角色的威力等級提升，其中包括飛彈數量、傷害、持續時間、穿透等。這樣就能保證低等級戰技也會隨著角色成長而有所效果。</DefaultText>
 			<FemaleText/>
 		</Entry>
 	</Entries>

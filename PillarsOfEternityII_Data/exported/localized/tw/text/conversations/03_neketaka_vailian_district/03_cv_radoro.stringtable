@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「你覺得我喝不了剩下的？看好，朋友。」一名瓦利亞水手舉起酒杯，將背彎成弓形，往嘴裡倒入麥芽酒。</DefaultText>
+      <DefaultText>「你覺得我喝不了剩下的？看好，aimico。」一名 &lt;g&gt;瓦利亞&lt;/g&gt;水手舉起酒杯，將背彎成弓形，往嘴裡倒入麥芽酒。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,17 +46,17 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>「該死，我好像把酒灑了。」</DefaultText>
+      <DefaultText>「Merla，我好像把酒灑了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「你回來啦。」拉多魯向你點點頭。</DefaultText>
+      <DefaultText>「Ado，你回來啦。」拉多魯向你點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「該死，他居然雇了打手。」拉多魯搖搖晃晃地後退一步。</DefaultText>
+      <DefaultText>「Merla，他居然雇了打手。」拉多魯搖搖晃晃地後退一步。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「抱歉，但你來遲一步，討不到了！「她攤開雙手，畏縮地等待著挨打，但沒人打她。</DefaultText>
+      <DefaultText>「Sientere，但你來遲一步，討不到了！」她攤開雙手，畏縮地等待著挨打。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[在拉多魯頭上塗治療藥膏。]</DefaultText>
+      <DefaultText>[在拉多魯頭上塗治療藥膏]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,12 +101,12 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>「太好了！眾神保佑你。」她剛說完，笑容就凝固了。</DefaultText>
+      <DefaultText>「Belfetto！眾神保佑你。」她剛說完，笑容就凝固了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>「你好。我們聽到北邊傳來的打鬥聲蓋過了喧囂。」拉多魯將啤酒杯舉到嘴邊，一邊喝一邊審視著你。</DefaultText>
+      <DefaultText>「Ado。我們聽到北邊傳來的打鬥聲蓋過了喧囂。」拉多魯將啤酒杯舉到嘴邊，一邊喝一邊審視著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,17 +141,17 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>「好吧。真相總會不言自明。」拉多魯詭秘地點點頭，輕拍了兩下鼻子以示理解。</DefaultText>
+      <DefaultText>「Ac。真相總會不言自明。」拉多魯詭秘地點點頭，輕拍了兩下鼻子以示理解。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>「太好了，為了共和國！」拉多魯一口幹掉麥芽酒，朝野牝的其他顧客行禮。</DefaultText>
+      <DefaultText>「Belfetto，為了共和國！」拉多魯一口幹掉麥芽酒，朝野牝的其他顧客行禮。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,8 +181,8 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>「可不是嘛，朋友。」</DefaultText>
-      <FemaleText>「可不是嘛，朋友。」</FemaleText>
+      <DefaultText>「可不是嘛，aimico。」</DefaultText>
+      <FemaleText>「可不是嘛，aimica。」</FemaleText>
     </Entry>
     <Entry>
       <ID>135</ID>
@@ -198,7 +198,7 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>「天啊，怪不得我渴呢。」她用手背擦嘴的同時，睜大眼睛與你四目相對。</DefaultText>
+      <DefaultText>「Madiccho，怪不得我渴呢。」她用手背擦嘴的同時，睜大眼睛與你四目相對。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,17 +208,17 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>「你好，帕蕾吉娜姐妹。」拉多魯點了點頭。</DefaultText>
+      <DefaultText>「Ado，sérre 帕蕾吉娜。」拉多魯點了點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>「你好。盯著我看幹嘛？」</DefaultText>
+      <DefaultText>「Ado。盯著我看幹嘛？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>「太感謝了！在這片綠洲我卻渴得要命。」他把錢幣收入衣袋，朝你身後的吧檯瞥了一眼。</DefaultText>
+      <DefaultText>「Agracima！在這片綠洲我卻渴得要命。」他把錢幣收入衣袋，朝你身後的吧檯瞥了一眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,7 +250,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>「恕難從命啊，我已經是[Player Ship]的船長了。」</DefaultText>
+      <DefaultText>「恕難從命啊，我是 [Player Ship] 的船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,8 +260,8 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>「抱歉，兄弟。」拉多魯點了點頭。</DefaultText>
-      <FemaleText>「抱歉，姐妹。」拉多魯點了點頭。</FemaleText>
+      <DefaultText>「Sientere, frero.」拉多魯點了點頭。</DefaultText>
+      <FemaleText>「Sientere, sérre.」拉多魯點了點頭。</FemaleText>
     </Entry>
     <Entry>
       <ID>156</ID>
@@ -280,12 +280,12 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>「聖母恩加蒂連你在這種美妙場所的禱告也能聽見。」泰克胡四下瞥了一眼妓院，面帶呆滯的笑容。</DefaultText>
+      <DefaultText>「聖母 &lt;g&gt;恩加蒂&lt;/g&gt;連你在這種美妙場所的禱告也能聽見。」泰克胡四下瞥了一眼妓院，面帶呆滯的笑容。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>「對，也有空間放魚呢。」拉多魯朝泰克胡一笑，將徽章收了起來。</DefaultText>
+      <DefaultText>「Ac，也有空間放魚呢。」拉多魯朝泰克胡一笑，將徽章收了起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,7 +295,7 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>「姐妹，我們中很多人已經墮落了。」
+      <DefaultText>「Sérre，我們中很多人已經墮落了。」
 
 「我這話沒有針對誰。」</DefaultText>
       <FemaleText />
@@ -307,17 +307,17 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>「可不是嘛！它嚎聲如雷，還把口水淌在我的衣服上。」拉多魯拍了拍肩膀上的一處污漬。</DefaultText>
+      <DefaultText>「Ac！它嚎聲如雷，還把口水淌在我的衣服上。」拉多魯拍了拍肩膀上的一處污漬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>「糟糕，這樣一來我又清醒了。」</DefaultText>
+      <DefaultText>「Complanca，這樣一來我又清醒了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>「等我用炮對準這幫混蛋的桅桿，他們就要後悔了。」拉多魯舉起空酒杯，信誓旦旦地說道。</DefaultText>
+      <DefaultText>「等我用炮對準這幫 Bazzos 的桅桿，他們就要後悔了。」拉多魯舉起空酒杯，信誓旦旦地說道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,12 +339,12 @@
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>「女士，你在佩瑞琪之望放鬆的話消費更低。」</DefaultText>
+      <DefaultText>「女士，你在 &lt;g&gt;佩瑞琪&lt;/g&gt;之望放鬆的話消費更低。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>「是啊，可我才不想為此而爬到半山腰呢。」拉多魯揮揮手，對此不予考慮。</DefaultText>
+      <DefaultText>「Ac，可我才不想為此而爬到半山腰呢。」拉多魯揮揮手，對此不予考慮。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,34 +354,34 @@
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>「這一次我的敵人是個混蛋。」她伸手去拿武器，向你攻來。</DefaultText>
+      <DefaultText>「這一次我的敵人是個 postenago。」她伸手去拿武器，向你攻來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>「什麼？！就因為別人欠債，你就要取人性命嗎？」</DefaultText>
+      <DefaultText>「Cuè？！就因為別人欠債，你就要取人性命嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>「姐妹，我違背了誓言。曾經我的話也是有份量的。」
+      <DefaultText>「Sérre，我違背了誓言。曾經我的話也是有份量的。」
 
 「我的榮譽和未來，都成了一場空。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>「是啊。錢沒了，快樂也就結束了。」她擠出一個無力的微笑。</DefaultText>
+      <DefaultText>「Ac。錢沒了，快樂也就結束了。」她擠出一個無力的微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>「Per mil annis！」</DefaultText>
+      <DefaultText>「Per mil annis!」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>「祝你健康，姐妹。希望有一天我站在旗幟下時能有一半自豪。」</DefaultText>
+      <DefaultText>「祝你健康，sérre。希望有一天我站在旗幟下時能有一半自豪。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,7 +391,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>「對，可是……我頭受了傷。」拉多魯低頭看著腳。</DefaultText>
+      <DefaultText>「Ac，可是……我頭受了傷。」拉多魯低頭看著腳。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>「好吧。人各有志，我不會耽誤你。」</DefaultText>
+      <DefaultText>「Ac。人各有志，我不會耽誤你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

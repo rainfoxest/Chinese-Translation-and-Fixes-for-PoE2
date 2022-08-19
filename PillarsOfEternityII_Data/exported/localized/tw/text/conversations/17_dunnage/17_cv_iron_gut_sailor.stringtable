@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「該死！現在就殺了我吧……」這個水手膚色蒼白，上唇掛滿汗珠，身體搖晃並呻吟著。</DefaultText>
+      <DefaultText>「該死我的肚子！殺了我算吧……」這個水手膚色蒼白，上唇掛滿汗珠，身體搖晃並呻吟著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「見鬼吧上帝，該死的靈魂，蠢貨！昂德拉在上啊！」</DefaultText>
+      <DefaultText>「見鬼吧上帝，該死的靈魂，蠢貨！昂德拉 在上啊！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「哦……，神啊，可憐可憐我吧！」</DefaultText>
+      <DefaultText>「哦……神啊，可憐可憐我吧！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「我的船遭到攻擊，海盜獵人們登船了。因為不知道能否逃脫，所以我吞掉了最值錢的東西，恩加蒂的黑色眼淚——一種寶石——有我拳頭大小。」</DefaultText>
+      <DefaultText>「我的船遭到攻擊，海盜獵人們登船了。因為不知道能否逃脫，所以我吞掉了最值錢的東西，&lt;g&gt;恩加蒂&lt;/g&gt;的黑淚—一種寶石—有我拳頭大小。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「兩天前開始感覺到劇痛。我想——我想我可能要死了。我甚至都爬不動了。」</DefaultText>
+      <DefaultText>「兩天前開始感覺到劇痛。我想—我想我可能要死了。我甚至都爬不動了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,9 +66,9 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「羅瑟奈拉在流明之庭已獲得一席之地。她一直在向我提供一種，嗯啊，實驗性藥粉。稍後要調整的那種。
+      <DefaultText>「羅瑟奈拉在璀璨廣場有個攤位。她一直在向我提供一種…嗯…實驗性藥粉。稍後要調整的那種。
 
-「告訴她最終實際上幾乎要起作用的是那一種藥粉。」</DefaultText>
+「告訴她上次那個好像差一點就行了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -100,17 +100,17 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「相信我——猛吐會是一種相當好的解脫！但那不會發生。如沒有幫助的話。」</DefaultText>
+      <DefaultText>「相信我—猛吐會是一種相當好的解脫！但那不會發生。如沒有幫助的話。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[給他昂德拉膽汁的配方成分。]「羅瑟奈拉說這個可能有用。」</DefaultText>
+      <DefaultText>[給他 &lt;g&gt;昂德拉&lt;/g&gt;膽汁的配方成分]「羅瑟奈拉說這個可能有用。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>彼得羅顫抖著雙手，猶豫著將藥粉混到裝了半杯水的木杯中。他最後緊張地吞了下口水，將杯子放到唇邊，喝下了藥粉混合物。
+      <DefaultText>皮埃羅顫抖著雙手，猶豫著將藥粉混到裝了半杯水的木杯中。他最後緊張地吞了下口水，將杯子放到唇邊，喝下了藥粉混合物。
 
 幾分鐘之後，什麼事兒都沒有，他搖了搖頭，神情沮喪。</DefaultText>
       <FemaleText />
@@ -122,7 +122,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「哦，天哪——它現在就要從另一頭出來了！」
+      <DefaultText>「哦，天哪—它現在就要從另一頭出來了！」
 
 鋼鐵雄心舀出還沾有嘔吐物的寶石，它看起來像一顆黑珍珠，有一小塊岩石大小。他迅速擦了一下，然後將它塞到你的手裡。</DefaultText>
       <FemaleText />

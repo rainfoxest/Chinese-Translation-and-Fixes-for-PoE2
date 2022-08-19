@@ -11,37 +11,37 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>為你的船隻購買補給品。</DefaultText>
+      <DefaultText>為你的&lt;b&gt;船隻&lt;/b&gt;購買補給品。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>我需要為我的船隻囤積遠航需要的必須補給品——彈藥，藥品以及修理材料。</DefaultText>
+      <DefaultText>我需要為我的&lt;b&gt;船隻&lt;/b&gt;囤積遠航需要的必須補給品—&lt;b&gt;彈藥&lt;/b&gt;、&lt;b&gt;藥品&lt;/b&gt;以及&lt;b&gt;修理材料&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>為你的航船購買修理補給，炮彈以及醫療物資。我能夠在任何海港城鎮上找到出售這些道具的商販。</DefaultText>
+      <DefaultText>為你的航船購買&lt;b&gt;修理補給&lt;/b&gt;、&lt;b&gt;炮彈&lt;/b&gt;以及&lt;b&gt;醫療物資&lt;/b&gt;。我能夠在任何&lt;b&gt;海港城鎮&lt;/b&gt;上找到出售這些道具的商販。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>我給我的船搞到了一些炮彈。</DefaultText>
+      <DefaultText>我給我的船搞到了一些&lt;b&gt;炮彈&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>我給我的船搞到了一些修理補給。</DefaultText>
+      <DefaultText>我給我的船搞到了一些&lt;b&gt;修理補給&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>我給我的船搞到了一些醫療物資。</DefaultText>
+      <DefaultText>我給我的船搞到了一些&lt;b&gt;醫療物資&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>我已經給船上囤積了遠航需要的必須補給品。</DefaultText>
+      <DefaultText>我補給了遠航需要的必須補給品。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

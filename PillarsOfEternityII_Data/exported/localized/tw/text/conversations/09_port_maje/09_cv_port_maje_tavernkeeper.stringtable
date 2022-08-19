@@ -45,12 +45,12 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「關於國王港，有什麼可以告訴我的嗎？」</DefaultText>
+      <DefaultText>「關於 國王港，有什麼可以告訴我的嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,7 +72,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「不過沒想到，你口袋裡居然還有幾個錢。」 
+      <DefaultText>「不過沒想到，你口袋裡居然還有幾個錢。」
 
 「無意冒犯。」</DefaultText>
       <FemaleText />
@@ -123,7 +123,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[聳聳肩。]</DefaultText>
+      <DefaultText>[聳聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,7 +145,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「沒得選擇？貝拉斯在上啊，當初請你幫忙之前，我真應該好好想想！」
+      <DefaultText>「沒得選擇？貝拉斯 在上啊，當初請你幫忙之前，我真應該好好想想！」
 
 托雷爾雙手摀住了臉，額頭上滿是汗珠。</DefaultText>
       <FemaleText />
@@ -203,7 +203,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「好吧，確切地說，有一個房間按理說應該能空出來，但房間裡的住客不打算走人。」 
+      <DefaultText>「好吧，確切地說，有一個房間按理說應該能空出來，但房間裡的住客不打算走人。」
 
 「真正的問題在於，他一直都沒有結清房費。」</DefaultText>
       <FemaleText />
@@ -284,7 +284,7 @@
       <ID>63</ID>
       <DefaultText>「什麼？不！我說的是『把他攆走』，而不是『殺了我的客人』
 
-「……老實說，我現在也記不清當時是怎麼說的了……」</DefaultText>
+……老實說，我現在也記不清當時是怎麼說的了……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -294,7 +294,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「你以為你傷了我的客人，還能大搖大擺地在這裡待著嗎？！趕緊滾蛋，否則我就要叫警衛了！」</DefaultText>
+      <DefaultText>「你以為你傷了我的客人，還能大搖大擺地在這裡待著嗎？！趕緊滾蛋，否則我就要叫衛兵了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,7 +333,7 @@
       <ID>74</ID>
       <DefaultText>「嘿，幹得漂亮！這種時候，我可受不了別人一直拖著賬單不付。
 
-「要是這種事情傳開了，這座城市裡的每一個乞丐都會擠到我的門前了。」</DefaultText>
+要是這種事情傳開了，這座城市裡的每一個乞丐都會擠到我的門前了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,7 +380,7 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>「……昂德拉在上啊。好吧，但我是不會讓我的人去清理那個爛攤子的，這是我的底線。」</DefaultText>
+      <DefaultText>「…… &lt;g&gt;昂德拉&lt;/g&gt;在上啊。好吧，但我是不會讓我的人去清理那個爛攤子的，這是我的底線。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -439,7 +439,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>「莫克哈？你說的應該就是那個大打出手的胡亞納傻瓜吧？我猜。
+      <DefaultText>「莫克哈？你說的應該就是那個大打出手的 &lt;g&gt;胡亞納&lt;/g&gt;傻瓜吧？我猜。
 
 「沒錯，我看到了，他們真的是搞得一團糟。」</DefaultText>
       <FemaleText />
@@ -448,7 +448,7 @@
       <ID>99</ID>
       <DefaultText>「就我看到的情況，他們兩個一開始在打牌。打著打著，他們兩個突然起了爭執。
 
-「我把那個胡亞納人攆了出去，剩下幾個人把半死不活的林克抬回了家。」</DefaultText>
+「我把那個 &lt;g&gt;胡亞納&lt;/g&gt;人攆了出去，剩下幾個人把半死不活的林克抬回了家。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,7 +468,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>「啊，什麼事情都有可能發生。林克這個人，就是不知道什麼時候該閉嘴，而有些胡亞納人又確實很容易較真。就我所知，風語者保護了這個鎮子沒被撕成碎片，我們還欠他一個人情呢。
+      <DefaultText>「啊，什麼事情都有可能發生。林克這個人，就是不知道什麼時候該閉嘴，而有些 &lt;g&gt;胡亞納&lt;/g&gt;人又確實很容易較真。就我所知，風語者 保護了這個鎮子沒被撕成碎片，我們還欠他一個人情呢。
 
 「這倒不意味著我打算請她的人來品品茶。」</DefaultText>
       <FemaleText />
@@ -497,12 +497,12 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>[把海怪之眼還回去。] 「抱歉！我只是想看看它。」</DefaultText>
+      <DefaultText>[把海怪之眼還回去]「抱歉！我只是想看看它。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>[偷走海怪之眼。]</DefaultText>
+      <DefaultText>[偷走海怪之眼]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -519,7 +519,7 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>「是啊，沒錯，我猜林克估計沒想到，一個胡亞納居然打牌打得這麼好。
+      <DefaultText>「是啊，沒錯，我猜林克估計沒想到，一個 &lt;g&gt;胡亞納&lt;/g&gt;居然打牌打得這麼好。
 
 「打到最後，他看起來明顯很緊張。」</DefaultText>
       <FemaleText />
@@ -535,7 +535,7 @@
       <ID>118</ID>
       <DefaultText>「說真的，這裡絕大多數時候都是個好地方。生意做得很不錯，克拉里奧的投資人也賺了不少錢。
 
-「這該死的地方比家裡那邊還安靜，不過鹿林的事情，應該輪不到我來告訴&lt;i&gt;你&lt;/i&gt;才對。」</DefaultText>
+「這該死的地方比家裡那邊還安靜，不過 &lt;g&gt;鹿林&lt;/g&gt;的事情，應該輪不到我來告訴&lt;i&gt;你&lt;/i&gt;才對。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,7 +556,7 @@
       <ID>121</ID>
       <DefaultText>「我猜你上岸之後，還沒見到這地方的漂亮景色，是吧？
 
-「除了風祝之里——我們西邊那個胡亞納小村子之外，這裡是這個島上唯一的城鎮。」</DefaultText>
+「除了風祝之里—我們西邊那個 &lt;g&gt;胡亞納&lt;/g&gt;小村子之外，這裡是這個島上唯一的城鎮。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -101,12 +101,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「我想對偉大的瓦哈奇首領表達我滔滔江水般的敬仰之情。」</DefaultText>
+      <DefaultText>「我想對偉大的 &lt;g&gt;瓦哈奇&lt;/g&gt;首領表達我滔滔江水般的敬仰之情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「嗯，若賽爾會喜歡的！我們已經很久沒有看過小丑的滑稽表演了，最後一次看的是索波魯喝了柯基果酒後從瀑布上跳下去。」</DefaultText>
+      <DefaultText>「嗯，若賽爾會喜歡的！我們已經很久沒有看過小丑的滑稽表演了，最後一次看的是索波魯喝了柯爾奇果酒後從瀑布上跳下去。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「只有瓦哈奇族人能進入奧里奧柯基。」</DefaultText>
+      <DefaultText>「只有 &lt;g&gt;瓦哈奇&lt;/g&gt;族人能進入奧里奧柯爾奇。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「你或許是亡焰列島本地人，但你依然是外來者。」</DefaultText>
+      <DefaultText>「你或許是 &lt;g&gt;亡焰列島&lt;/g&gt;本地人，但你依然是外來者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,7 +223,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「外來者，無數雙眼睛在盯著你。你要合理利用在奧里奧柯基的時間。」</DefaultText>
+      <DefaultText>「外來者，無數雙眼睛在盯著你。你要合理利用在奧里奧柯爾奇的時間。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -238,12 +238,12 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>「我想瞭解亡焰列島最令人敬畏、名氣最大的部落。」</DefaultText>
+      <DefaultText>「我想瞭解 &lt;g&gt;亡焰列島&lt;/g&gt;最令人敬畏、名氣最大的部落。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「我想研究瓦哈奇部落的人民和生活方式。」</DefaultText>
+      <DefaultText>「我想研究 &lt;g&gt;瓦哈奇&lt;/g&gt;部落的人民和生活方式。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,12 +273,12 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>「我們記得與涅克塔卡城的女王訂立的古老契約。契約的密語是什麼？」</DefaultText>
+      <DefaultText>「我們記得與 &lt;g&gt;涅克塔卡&lt;/g&gt;城的女王訂立的古老契約。契約的密語是什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「亡焰列島必勝。」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;必勝。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,7 +288,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>「受詛咒的柯基果。」</DefaultText>
+      <DefaultText>「受詛咒的柯爾奇果。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,7 +318,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>「你面前的是瓦哈奇部落的大本營。這是我們的堡壘、避難所和神廟。這裡不歡迎外來者。」</DefaultText>
+      <DefaultText>「你面前的是 &lt;g&gt;瓦哈奇&lt;/g&gt;部落的大本營。這是我們的堡壘、避難所和神廟。這裡不歡迎外來者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,7 +335,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>[聽下去。]</DefaultText>
+      <DefaultText>[聽下去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -405,14 +405,14 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「對這份看起來怪怪的柯基酒有什麼瞭解嗎？」</DefaultText>
+      <DefaultText>「對這份看起來怪怪的柯爾奇酒有什麼瞭解嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
       <DefaultText>她皺著眉，仔細審視你手中的果實，並用食指輕輕的戳了它幾下。
 
-柯基果被戳得搖搖晃晃。</DefaultText>
+柯爾奇果被戳得搖搖晃晃。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,7 +422,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「這個果子已經長蟲了。林中的害蟲黃蜂將幼蟲產在了這顆柯基果內。」她朝林中瞥了一眼。</DefaultText>
+      <DefaultText>「這個果子已經長蟲了。林中的害蟲黃蜂將幼蟲產在了這顆柯爾奇果內。」她朝林中瞥了一眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -497,7 +497,7 @@
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>「有東西吸引著我一次次回到奧里奧柯基。」泰克胡朝她眨眨眼睛。</DefaultText>
+      <DefaultText>「有東西吸引著我一次次回到奧里奧柯爾奇。」泰克胡朝她眨眨眼睛。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

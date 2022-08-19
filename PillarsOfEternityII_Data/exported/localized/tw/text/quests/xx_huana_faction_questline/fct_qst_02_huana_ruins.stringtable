@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>前往遺跡。</DefaultText>
+      <DefaultText>前往&lt;b&gt;遺跡&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>更換石盤的缺失部分。</DefaultText>
+      <DefaultText>更換&lt;b&gt;石盤&lt;/b&gt;的缺失部分。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>對完成此任務至關重要的角色已被擊殺</DefaultText>
+      <DefaultText>對此任務至關重要的人物已死</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,19 +6,19 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>瓦哈奇的戰士交叉著雙臂，用批判的眼光看著你。臉上的彩妝使他原本就很明顯的五官變得更加清晰。
+      <DefaultText>&lt;g&gt;瓦哈奇&lt;/g&gt;的戰士交叉著雙臂，用批判的眼光看著你。臉上的彩妝使他原本就很明顯的五官變得更加清晰。
 
 他張開嘴巴，打了一個很長的哈欠。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>瓦哈奇的戰士抓住他的武器，凝視著你。</DefaultText>
+      <DefaultText>&lt;g&gt;瓦哈奇&lt;/g&gt;的戰士抓住他的武器，凝視著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[向他衝鋒，並攻擊他。]</DefaultText>
+      <DefaultText>[向他衝鋒，並攻擊他]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,12 +28,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「我正在尋找一個失蹤的探險隊，及瞭解烏凱佐島的知識。</DefaultText>
+      <DefaultText>「我正在尋找一個失蹤的探險隊，及瞭解 &lt;g&gt;烏凱佐&lt;/g&gt;島的知識。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「瓦哈奇為什麼要保護這個島？」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦哈奇&lt;/g&gt;為什麼要保護這個島？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,7 +97,7 @@
       <ID>27</ID>
       <DefaultText>「神的觸摸不允許你進入這個島。」
 
-不管他說什麼，瓦哈奇戰鬥機都會將你吞噬。</DefaultText>
+不管他說什麼，&lt;g&gt;瓦哈奇&lt;/g&gt;戰鬥機都會將你吞噬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,12 +117,12 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「我不關心你稱之為家的島嶼。這個島嶼是瓦哈奇的。」</DefaultText>
+      <DefaultText>「我不關心你稱之為家的島嶼。這個島嶼是 &lt;g&gt;瓦哈奇&lt;/g&gt;的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「如果只需要把你的兩隻耳朵帶出去，我倒是很樂意。瓦哈奇在保護這個島嶼。」</DefaultText>
+      <DefaultText>「如果只需要把你的兩隻耳朵帶出去，我倒是很樂意。&lt;g&gt;瓦哈奇&lt;/g&gt;在保護這個島嶼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -137,7 +137,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「我們計劃有一天我們會找回那些遺失的過去——就在消失的烏凱佐的海岸邊。「</DefaultText>
+      <DefaultText>「我們計劃有一天我們會找回那些遺失的過去—就在消失的 &lt;g&gt;烏凱佐&lt;/g&gt;的海岸邊。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +152,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -182,7 +182,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,12 +192,12 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>「不， 我現在就要阻止你，不然後果很嚴重。」</DefaultText>
+      <DefaultText>「不，我現在就要阻止你，不然後果很嚴重。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「我認為我給胡亞納親王的訊息很明確。需要提醒他的是，非法侵入叢林廢墟是死罪。」因貝塔瞇起眼睛看著你。</DefaultText>
+      <DefaultText>「我認為我給 &lt;g&gt;胡亞納&lt;/g&gt;親王的訊息很明確。需要提醒他的是，非法侵入叢林廢墟是死罪。」因貝塔瞇起眼睛看著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -257,7 +257,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>「我們不冒險進入叢林更深處，但我們知道它是一個什麼樣的地方——一個本性已經變得瘋狂的地方。」
+      <DefaultText>「我們不冒險進入叢林更深處，但我們知道它是一個什麼樣的地方—一個本性已經變得瘋狂的地方。」
 
 他會繼續沉默下去，直到這句話引起大家的重視。</DefaultText>
       <FemaleText />
@@ -274,14 +274,14 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>「隨便想個數字——肯定會比它更多。」</DefaultText>
+      <DefaultText>「隨便想個數字—肯定會比它更多。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
       <DefaultText>「在那個部族尚不強大而骨肉必須分離的年代，這座島嶼已經墮落了。它在以前沒有長牙的地方長出了牙齒。
 
-「想像一下為投機取巧的貪吃者準備的盛宴。「</DefaultText>
+「想像一下為投機取巧的貪吃者準備的盛宴。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>「涅克塔卡的探險家到過這裡。你得明白，他們到現在都還沒有回去。」</DefaultText>
+      <DefaultText>「涅克塔卡 的探險家到過這裡。你得明白，他們到現在都還沒有回去。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>「你什麼也沒做就贏得瓦哈奇的信任。我不能直視酋長的眼睛，再跟她解釋一下我為什麼讓你走進叢林。」他瞇起眼睛，緊緊抓住武器。</DefaultText>
+      <DefaultText>「你什麼也沒做就贏得 &lt;g&gt;瓦哈奇&lt;/g&gt;的信任。我不能直視酋長的眼睛，再跟她解釋一下我為什麼讓你走進叢林。」他瞇起眼睛，緊緊抓住武器。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,7 +375,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>「我為胡亞納所做的一切都沒有意義嗎？」</DefaultText>
+      <DefaultText>「我為 &lt;g&gt;胡亞納&lt;/g&gt;所做的一切都沒有意義嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -415,7 +415,7 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>「讓外來者參觀涅克塔卡，並給予幫助…… 這是機率太低了，不應該施以懲罰的。」</DefaultText>
+      <DefaultText>「讓外來者參觀 涅克塔卡，並給予幫助…… 這是機率太低了，不應該施以懲罰的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,7 +450,7 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>「我知道它對你的祖先來說意味著什麼。這是古老的胡亞納疏散路線的一部分。」</DefaultText>
+      <DefaultText>「我知道它對你的祖先來說意味著什麼。這是古老的 &lt;g&gt;胡亞納&lt;/g&gt;疏散路線的一部分。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -465,7 +465,7 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「我知道它對你的祖先來說意味著什麼。這是古老的胡亞納疏散路線的一部分。」</DefaultText>
+      <DefaultText>「我知道它對你的祖先來說意味著什麼。這是古老的 &lt;g&gt;胡亞納&lt;/g&gt;疏散路線的一部分。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -475,7 +475,7 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>「這真像一個真正的外來者說的話——你不會關心這些島嶼以前的主人會怎麼樣。」他緩緩地搖了搖頭。</DefaultText>
+      <DefaultText>「這真像一個真正的外來者說的話—你不會關心這些島嶼以前的主人會怎麼樣。」他緩緩地搖了搖頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -490,7 +490,7 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>「你有瓦哈奇來保護你，這也是我為什麼通過語言告訴你而不是直接殺了你。不要踏入莫塔勒奧柯茲的叢林。
+      <DefaultText>「你有 &lt;g&gt;瓦哈奇&lt;/g&gt;來保護你，這也是我為什麼通過語言告訴你而不是直接殺了你。不要踏入莫塔勒奧柯茲的叢林。
 
 「這會違背我們的傳統，而且還要穿過理庫胡的肚子去找尋跟你一樣的人。」</DefaultText>
       <FemaleText />
@@ -502,7 +502,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>他與其他戰士一起守著看。有些隱秘的東西——透過他們互看的表情和心領神會——在他們之間默默地傳遞著。</DefaultText>
+      <DefaultText>他與其他戰士一起守著看。有些隱秘的東西—透過他們互看的表情和心領神會—在他們之間默默地傳遞著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -512,7 +512,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>「涅克塔卡的親王，應心繫人民。」</DefaultText>
+      <DefaultText>「涅克塔卡 的親王，應心繫人民。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

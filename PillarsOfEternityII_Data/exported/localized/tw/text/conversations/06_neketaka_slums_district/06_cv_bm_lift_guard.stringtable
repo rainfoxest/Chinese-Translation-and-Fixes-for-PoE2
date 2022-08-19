@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「潛民街有不少好東西。不過是在那邊。」他伸出一根明顯經過保養的手指示意你的肩後。他的另一隻手握在武器柄上。</DefaultText>
+      <DefaultText>「&lt;g&gt;潛民街&lt;/g&gt;有不少好東西。不過是在那邊。」他伸出一根明修剪整齊的手指示意你的肩後。他的另一隻手放在武器柄上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「繼續走。升降機會帶你前往地下室。」</DefaultText>
+      <DefaultText>「繼續走。升降機會帶你前往地下洞室。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,12 +46,12 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「你覺得我站在這就能告訴你了？趕緊走開。」他用手指做出一個噓聲的動作。他的指甲在火光下閃閃發亮。</DefaultText>
+      <DefaultText>「你覺得我站在這就要告訴你了？趕緊走開。」他彈了彈手指做出一個驅趕的動作。他的指甲在火光下閃閃發亮。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[出示金陽幣。]</DefaultText>
+      <DefaultText>[出示金陽幣]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「你離開潛民街後，從畜欄向右走，在十字路口左轉，然後沿著小巷一路向前。」</DefaultText>
+      <DefaultText>「你離開 &lt;g&gt;潛民街&lt;/g&gt;後，從畜欄向右走，在十字路口左轉，然後沿著小巷一路向前。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「我在找瘋狂的莫萊娜。」她在地下室工作。」</DefaultText>
+      <DefaultText>「我在找瘋狂的莫萊娜。她在地下洞室工作。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,12 +111,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「錢財對死人沒什麼用。這點錢在涅克塔卡還犯不上冒背叛德理奧的風險。」他將硬幣丟回你手裡。</DefaultText>
+      <DefaultText>「錢財對死人沒什麼用。這點錢在 &lt;g&gt;涅克塔卡&lt;/g&gt;還犯不上冒背叛德理奧的風險。」他將硬幣丟回你手裡。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[出示徽章。]「這東西能否作為通行信物？」</DefaultText>
+      <DefaultText>[出示徽章]「這東西能否作為通行信物？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,24 +133,24 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「你在這上面幹什麼？」他打量著泰克胡，嘶嘶說道。</DefaultText>
+      <DefaultText>「你在這裡幹什麼？」他打量著泰克胡，嘶嘶說道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「嗯，在調查本地……建立的……」
+      <DefaultText>「Ekera，在……調查本地……建立的……」
 
 泰克胡想了想還是閉上了嘴。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「嗯，趕緊下樓，別讓人瞧見了。」他點點頭，不再擋住泰克胡的去路。</DefaultText>
+      <DefaultText>「行啦，在其他人看到前趕緊下去。」他點點頭，不再擋住泰克胡的去路。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>泰克胡猶豫地看了你一眼，向前邁出一步。</DefaultText>
+      <DefaultText>泰克胡猶豫地看了你一眼，向前走了一步。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,7 +165,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[放他走。]</DefaultText>
+      <DefaultText>[讓他走]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,17 +180,17 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>「等下。我記得這張臉。」他斜眼看著泰克胡，慢慢點頭。</DefaultText>
+      <DefaultText>「等下。我認得這張臉。」他斜眼看著泰克胡，慢慢點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>「你要問的話……」他來回看著你和泰克胡</DefaultText>
+      <DefaultText>「既然你問到……」他來回看著你和泰克胡</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「你要放他下樓了。為什麼？」</DefaultText>
+      <DefaultText>「你才剛要放他下樓。為什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,17 +200,17 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>「不應該是這樣的。」</DefaultText>
+      <DefaultText>「你這樣子沒用的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「解釋一下你的事情或者轉身離開。我今天不想再玩什麼遊戲了。」</DefaultText>
+      <DefaultText>「解釋你來的目的或者轉身離開。我今天已經受夠了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +240,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>「掉頭返回。」</DefaultText>
+      <DefaultText>「你的死期。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,7 +260,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「什麼？！我的天——」
+      <DefaultText>「Cuè?! Madi-」
 
 帕蕾吉娜說到一半停止了，然後將你拉到一邊。</DefaultText>
       <FemaleText />

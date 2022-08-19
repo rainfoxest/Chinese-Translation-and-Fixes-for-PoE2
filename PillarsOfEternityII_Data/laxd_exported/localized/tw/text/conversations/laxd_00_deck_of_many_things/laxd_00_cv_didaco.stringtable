@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「歡迎你，朋友！」圓滾滾的矮人深鞠一躬，兩手分別攤在身側。</DefaultText>
-      <FemaleText>「歡迎你，朋友！」圓滾滾的矮人深鞠一躬，兩手分別攤在身側。</FemaleText>
+      <DefaultText>「Ado 歡迎你，aimico！」圓滾滾的矮人深鞠一躬，兩手分別攤在身側。</DefaultText>
+      <FemaleText>「Ado 歡迎你，aimica！」圓滾滾的矮人深鞠一躬，兩手分別攤在身側。</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[離開。]「好吧，我該走了。」</DefaultText>
+      <DefaultText>[離開]「好吧，我該走了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「你的意思是它打哪兒來？這還真不清楚，朋友。我更相信昂德拉親身從深淵中造出了這艘船，為了讓某些深海中的東西得以重見天日。」</DefaultText>
+      <DefaultText>「你的意思是它打哪兒來？這還真不清楚，朋友。我更相信 &lt;g&gt;昂德拉&lt;/g&gt;親身從深淵中造出了這艘船，為了讓某些深海中的東西得以重見天日。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「我在瓦利亞的時候，曾給著名織匠塞拉娜·梅斯·奎因特拉當過學徒。她派我乘船護送一批相當重要的貨物前往共和國。那本來該是一場偉大的冒險。」</DefaultText>
+      <DefaultText>「我在 &lt;g&gt;瓦利亞&lt;/g&gt;的時候，曾給著名織匠塞拉娜·梅斯·奎因特拉當過學徒。她派我乘船護送一批相當重要的貨物前往共和國。那本來該是一場偉大的冒險。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「結果那艘船居然沉沒了，全靠昂德拉的恩惠，讓我在淹死之前登上了萬寶屋號。那是……兩年前的事了吧。」</DefaultText>
+      <DefaultText>「結果那艘船居然沉沒了，全靠 &lt;g&gt;昂德拉&lt;/g&gt;的恩惠，讓我在淹死之前登上了萬寶屋號。那是……兩年前的事了吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「祝你平安。」</DefaultText>
+      <DefaultText>「Corès.」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

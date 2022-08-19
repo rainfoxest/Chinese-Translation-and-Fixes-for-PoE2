@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[攻擊]「夠了。</DefaultText>
+      <DefaultText>[攻擊]「夠了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -74,7 +74,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「其實，我一開始的志向和現在不同。露西亞·利文想要一支軍隊助她東征西討。這隻軍隊無懼傷痛或疾病。」
+      <DefaultText>「Ac，我一開始的志向和現在不同。露西亞·利文想要一支軍隊助她東征西討。這支軍隊無懼傷痛或疾病。」
 
 「她說得簡單，但當那麼多人都開始腐爛時，該怎麼處理呢？」</DefaultText>
       <FemaleText />
@@ -100,7 +100,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「什麼？我為什麼要拋下自己的心血？為了她嗎？」</DefaultText>
+      <DefaultText>「Eccosi？我為什麼要拋下自己的心血？為了她嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,7 +110,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「此話當真？你是為他們而來的嗎？我的獵人們確實在海上掠奪那些遊蕩得離陸地太遠的蠢貨。」
+      <DefaultText>「Di verus？你是為他們而來的嗎？我的獵人們確實在海上掠奪那些遊蕩得離陸地太遠的蠢貨。」
 
 「總能遇到這樣的蠢貨。」</DefaultText>
       <FemaleText />
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「你已經活很久了。你有沒有聽說過烏凱佐的事？」</DefaultText>
+      <DefaultText>「你已經活很久了。你有沒有聽說過 &lt;g&gt;烏凱佐&lt;/g&gt;的事？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -199,7 +199,7 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>「我們接待過不少胡亞納客人，但他們中很少有自己開著船來的。」
+      <DefaultText>「我們接待過不少 &lt;g&gt;胡亞納&lt;/g&gt;客人，但他們中很少有自己開著船來的。」
 
 「拜託，別告訴我你是受你們牧師之托而來的。」</DefaultText>
       <FemaleText />
@@ -216,12 +216,12 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>「我是貝拉斯的使者。」</DefaultText>
+      <DefaultText>「我是 &lt;g&gt;貝拉斯&lt;/g&gt;的使者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>「你是來把我送回貝拉斯之輪的嗎？」
+      <DefaultText>「你是來把我送回神輪的嗎？」
 
 「抱歉。如果你是來復仇的，那我必須承認我不認識你這張臉。」</DefaultText>
       <FemaleText />
@@ -245,12 +245,12 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>「不過你有什麼話可以但說無妨。」</DefaultText>
+      <DefaultText>「不過 per complanca - 你有什麼話無妨說出來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>「我打算佔領烏凱佐。那裡的魂珀夠碎礁用到下輩子了。」</DefaultText>
+      <DefaultText>「我打算佔領 烏凱佐。那裡的魂珀夠碎礁用到下輩子了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -267,12 +267,12 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>「我有瓦利亞商行的支援。」</DefaultText>
+      <DefaultText>「我有 &lt;g&gt;瓦利亞商行&lt;/g&gt;的支援。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>「我有亡焰皇家商行的支援。」</DefaultText>
+      <DefaultText>「我有 &lt;g&gt;亡焰皇家商行&lt;/g&gt;的支援。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -282,19 +282,19 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>「此話當真？你……你竟是漂浮吊死鬼號的船長？」
+      <DefaultText>「Di verus？你……你竟是 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;的船長？」
 
 門扎格將懶洋洋的神情一掃而空，取而代之的事目瞪口呆的表情。還有難以掩飾的羨慕。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>「好吧。我答應你，朋友。一言為定。」</DefaultText>
-      <FemaleText>「好吧。我答應你，朋友。一言為定。」</FemaleText>
+      <DefaultText>「好吧。我答應你，aimico。一言為定。」</DefaultText>
+      <FemaleText>「好吧。我答應你，aimica。一言為定。」</FemaleText>
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>「你駛向烏凱佐時，我們會與你同行。」</DefaultText>
+      <DefaultText>「你駛向 &lt;g&gt;烏凱佐&lt;/g&gt;時，我們會與你同行。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>「有了光魂珀，你就用不著吃基斯了。瓦利亞商行大量生產藥水，我可以和他們商量向你供貨的事。」</DefaultText>
+      <DefaultText>「有了光魂珀，你就用不著吃 &lt;g&gt;基斯&lt;/g&gt;了。瓦利亞商行 大量生產藥水，我可以和他們商量向你供貨的事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>[給他一份光魂珀藥水。]「你自己試試吧。」</DefaultText>
+      <DefaultText>[給他一份光魂珀藥水]「你自己試試吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -367,7 +367,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>[撒謊並給他一瓶毒藥。]「給。這是一瓶魂珀液體。」</DefaultText>
+      <DefaultText>[撒謊並給他一瓶毒藥]「給。這是一瓶魂珀液體。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -389,14 +389,14 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>「……有意思。很有意思。」
+      <DefaultText>「……有意思。Ac，很有意思。」
 
 「比等待運氣時好時壞的獵人帶回食物好多了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>「我不會把基斯帶到這裡來給你吃的！」</DefaultText>
+      <DefaultText>「我不會把 &lt;g&gt;基斯&lt;/g&gt;帶到這裡來給你吃的！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>「嗯。好吧，狡猾的小東西。維持軍隊的戰鬥力並非易事。你有什麼辦法嗎？」</DefaultText>
+      <DefaultText>「嗯。好吧，vulpinet。維持軍隊的戰鬥力並非易事。你有什麼辦法嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,7 +431,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>「抱歉，但假如我認為你會滿足於在小籠子裡度過餘生，那我在一開始就會提出這一點。」</DefaultText>
+      <DefaultText>「Sientere，但假如我認為你會滿足於在小籠子裡度過餘生，那我在一開始就會提出這一點。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -446,7 +446,7 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>「銅頭……？啊，當然，那個小個子拾荒者。他才剛來沒多久。他是個不幸誤入英格維仙遺跡的探索者。」</DefaultText>
+      <DefaultText>「銅頭……？啊，當然，那個小個子拾荒者。他才剛來沒多久。他是個不幸誤入 &lt;g&gt;英格維仙&lt;/g&gt;遺跡的探索者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,26 +456,26 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>「我是一名金盟騎士。只要價錢合適，我會為你消滅任何敵人。」</DefaultText>
+      <DefaultText>「我是一名 金盟 騎士。只要價錢合適，我會為你消滅任何敵人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
       <DefaultText>「啊，過去我也許會感興趣……但你晚來了幾百年。我的敵人已經死光了。」
 
-「我會在埋著你白骨的墳頭放上幾個銅板。就當我謝謝你的好意。」</DefaultText>
+「我會在埋著你白骨的墳頭放上幾個 銅板。就當我謝謝你的好意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>「我是貝拉斯的使者。你怎麼也得給我個面子吧。」</DefaultText>
+      <DefaultText>「我是 &lt;g&gt;貝拉斯&lt;/g&gt;的使者。你怎麼也得給我個面子吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>「我和貝拉斯已經幾百年沒說過話了。」
+      <DefaultText>「我和 &lt;g&gt;貝拉斯&lt;/g&gt;已經幾百年沒說過話了。」
 
-「如果你真的是她的人，那我沒理由與你交好，就像我沒理由和亡焰列島海中的利維坦交好一樣。」</DefaultText>
+「如果你真的是她的人，那我沒理由與你交好，就像我沒理由和 &lt;g&gt;亡焰列島&lt;/g&gt;海中的利維坦交好一樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -485,7 +485,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>「哈。很好。我向你保證，有人會付出代價。」</DefaultText>
+      <DefaultText>「哈。Belfetto。我向你保證，有人會付出代價。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -519,7 +519,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>「荒唐。你什麼都不用做就可以幫到我。我向來發現矮人血液十分提神。」</DefaultText>
+      <DefaultText>「Sciòderie。你什麼都不用做就可以幫到我。我向來發現矮人血液十分提神。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -560,8 +560,8 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>「朋友，我佩服你的膽量。」</DefaultText>
-      <FemaleText>「朋友，我佩服你的膽量。」</FemaleText>
+      <DefaultText>「我佩服你的膽量，aimico。」</DefaultText>
+      <FemaleText>「我佩服你的膽量，aimica。」</FemaleText>
     </Entry>
     <Entry>
       <ID>160</ID>
@@ -613,7 +613,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>「我有胡亞納女王的支援。」</DefaultText>
+      <DefaultText>「我有 &lt;g&gt;胡亞納&lt;/g&gt;女王的支援。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -642,7 +642,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>「該死，這玩意兒真難喝，不過……」
+      <DefaultText>「Merla，這玩意兒真難喝，不過……」
 
 門扎格話音戛然而止，取而代之的是痛苦的嘶嘶聲。他扶住胸膛，狂怒地翹起嘴唇。</DefaultText>
       <FemaleText />
@@ -671,14 +671,14 @@
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>「真的嗎？這麼說你確實是個精神錯亂的食人者。」
+      <DefaultText>「Di verus？這麼說你確實是個精神錯亂的食人者。」
 
 「真有意思。這兒的居民或許能令你滿意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>「真的嗎？……對，你的表情告訴我是真的。」
+      <DefaultText>「Di verus？……Ac，你的表情告訴我是真的。」
 
 「多麼淒涼的結局啊。等了一百年，到頭來只是一場空。全都灰飛煙滅了。」</DefaultText>
       <FemaleText />
@@ -714,12 +714,12 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>「好吧。我答應你，朋友。一言為定。」</DefaultText>
-      <FemaleText>「好吧。我答應你，朋友。一言為定。」</FemaleText>
+      <DefaultText>「好吧。我答應你，aimico。一言為定。」</DefaultText>
+      <FemaleText>「好吧。我答應你，aimica。一言為定。」</FemaleText>
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>「啊，是我們共和國的表親啊……太棒了。」</DefaultText>
+      <DefaultText>「啊，是我們共和國的表親啊……Belfetto。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,7 +764,7 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>「呵，哈！哦……神啊……抱歉——哈！哦……昂德拉啊……嘿嘿，抱歉不好意思。我只是……只是想到了弗蘭特臉上的表情而已。」他輕輕地笑了起來。</DefaultText>
+      <DefaultText>「呵，哈！哦……神啊……抱歉—哈！哦…… &lt;g&gt;昂德拉&lt;/g&gt;啊……嘿嘿，抱歉不好意思。我只是……只是想到了弗蘭特臉上的表情而已。」他輕輕地笑了起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -774,7 +774,7 @@
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>「實際上，我並不喜歡別人觀點和我不同。我知道我這種把手下困在擾亂思維的魔法中的人說出這種話肯定讓你覺得很吃驚吧。」</DefaultText>
+      <DefaultText>「實際上，我並不喜歡別人觀點和我不同。Ac，我知道我這種把手下困在擾亂思維的魔法中的人說出這種話肯定讓你覺得很吃驚吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

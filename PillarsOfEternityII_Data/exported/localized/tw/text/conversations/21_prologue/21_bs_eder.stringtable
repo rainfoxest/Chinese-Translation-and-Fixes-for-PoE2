@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\21_prologue\21_bs_eder</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>7</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>1</ID>
-      <DefaultText>「櫃子裡有兵器，需要什麼就拿罷。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2</ID>
-      <DefaultText>「拿好武器準備出發。咱們到甲板上去。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3</ID>
-      <DefaultText>隨著你接近，艾德爾的胳膊上起了雞皮疙瘩，但他似乎並沒有意識到你的存在。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4</ID>
-      <DefaultText>「咱們可以遲些再動手。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5</ID>
-      <DefaultText>「看得出來，你真是特別想死。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>6</ID>
-      <DefaultText>「你聽到了吧？武器就在衣櫃裡，沒時間耽擱了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>7</ID>
-      <DefaultText>「不趁現在趕緊出去，咱們就要錯失良機了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>conversations\21_prologue\21_bs_eder</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>7</EntryCount>
+ <Entries>
+  <Entry>
+   <ID>1</ID>
+   <DefaultText>「櫃子裡有兵器，需要什麼就拿罷。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>2</ID>
+   <DefaultText>「拿好武器準備出發。咱們到甲板上去。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>3</ID>
+   <DefaultText>隨著你接近，艾德爾的胳膊上起了雞皮疙瘩，但他似乎並沒有意識到你的存在。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>4</ID>
+   <DefaultText>「咱們可以遲些再動手。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>5</ID>
+   <DefaultText>「看得出來，你真是特別想死。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>6</ID>
+   <DefaultText>「你聽到了吧？武器就在衣櫃裡，沒時間耽擱了。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>7</ID>
+   <DefaultText>「不趁現在趕緊出去，咱們就要錯失良機了。」</DefaultText>
+   <FemaleText />
+  </Entry>
+ </Entries>
 </StringTableFile>

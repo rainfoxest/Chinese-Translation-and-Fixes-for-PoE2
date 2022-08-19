@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>巴達托和瓦雷拉兩家的代表整齊地站在餐桌旁，臉上帶著焦慮和厭惡的表情。從房間的溫度可以看出從討論開始到現在，氣氛並沒有變得友好。</DefaultText>
+      <DefaultText>巴達托和瓦雷拉兩家的代表站在餐桌周圍，臉上帶著焦慮和怨恨的表情。從現場的氣氛來看，討論開始至今一點進展也沒有。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「有何貴幹？」</DefaultText>
+      <DefaultText>「我才不想邀請一個巴達托家的人來就是為了聽笑話。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「這也行？」馬蒂諾匆忙地翻著口袋。</DefaultText>
+      <DefaultText>「那方案你還接受的吧？」馬蒂諾匆忙地翻著口袋。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,12 +46,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「我們所有人在這裡的目的是拓展商行在涅克塔卡城的業務。」</DefaultText>
+      <DefaultText>「我們所有人在這裡的目的是拓展商行在 &lt;g&gt;涅克塔卡&lt;/g&gt;城的業務。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,17 +61,17 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「我現在知道為什麼亡焰皇家商行總能領先你們一步了。」</DefaultText>
+      <DefaultText>「我現在知道為什麼 &lt;g&gt;亡焰皇家商行&lt;/g&gt;總能領先你們一步了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「只要瓦雷拉家族守好本分，我們應該就沒什麼問題了。」</DefaultText>
+      <DefaultText>「只要瓦雷拉家守好本分，我們應該就沒什麼問題了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「我在決鬥場里特別守本分。巴達托夫人，要不我們讓眾神決定吧？「
+      <DefaultText>「我在決鬥場裡特別守本分。巴達托夫人，要不我們讓眾神決定吧？」
 
 馬蒂諾舔了舔嘴唇，撫摸著細劍劍柄上的圓頭。</DefaultText>
       <FemaleText />
@@ -108,7 +108,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「你們倆有很多共同之處。你倆都為商行效力，都是單親……」</DefaultText>
+      <DefaultText>「你們倆有很多共同之處！例如你倆都為商行效力，又都是單親……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,7 +150,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「你好大的狗膽——」</DefaultText>
+      <DefaultText>「你好大的狗膽—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「你太小看我的財力了。但就算你說得對，那也只能證明涅克塔卡城的人不值得信任。」</DefaultText>
+      <DefaultText>「你太小看我的財力了。但就算你說得對，那也只能證明 &lt;g&gt;涅克塔卡&lt;/g&gt;城的人不值得信任。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「什麼？我又沒同意！」</DefaultText>
+      <DefaultText>「Cuè？我又沒同意！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>「只是一群無業遊民而已。阿泰羅唯一值得稱道的一點是他是如假包換的共和國人。」</DefaultText>
+      <DefaultText>「只是一群無業遊民而已。阿泰羅唯一值得稱道的一點是他一位共和國人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -373,7 +373,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>「伊扎莉，你曾經是金盟騎士團的一員，對吧？」</DefaultText>
+      <DefaultText>「伊扎莉，你曾經是 金盟 騎士團的一員，對吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -393,7 +393,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>「該死，人人都知道我們中有個人和皇族海盜狼狽為奸。」</DefaultText>
+      <DefaultText>「當然可以。只是，人人都知道你和皇族海盜狼狽為奸，所以你這句實在是令人想不透。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -403,7 +403,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>「真的嗎？據我所知你是努瓦泰的人。」</DefaultText>
+      <DefaultText>「Di verus？據我所知你是 &lt;g&gt;努瓦泰&lt;/g&gt;的人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -418,7 +418,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>「我的家族沒有財力同時對付兩個敵人。這場家族恩怨已經害得我無法回本了。「
+      <DefaultText>「我的家族沒有財力同時對付兩個敵人。這場家族恩怨已經害得我無法回本了。」
 
 他抬頭瞥了一眼伊扎莉，又低下頭看自己的雙腳。</DefaultText>
       <FemaleText />
@@ -470,7 +470,7 @@
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>「我們確實很感激你參與這件事，但我已經說過了，並不是我們沒有——」
+      <DefaultText>「我們確實很感激你參與這件事，但我已經說過了，並不是我們沒有—」
 
 桌子另一側的伊扎莉心照不宣而意味深長地看了阿泰羅一眼，阿泰羅隨即陷入沉默。</DefaultText>
       <FemaleText />
@@ -519,17 +519,17 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>「我的目的？從這次世仇中爭取到一絲尊嚴，然後玩完。」</DefaultText>
+      <DefaultText>「我的目的？從這世仇中爭取到一絲尊嚴，然後玩完。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「我們證明了你們不需要近親繁殖也能把事情辦好。巴達托家族因此而耿耿於懷。」</DefaultText>
+      <DefaultText>「還有什麼？我們證明了你們不需要近親繁殖也能把事情辦好。巴達托家族因此而耿耿於懷。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>「阿泰羅·瓦雷拉當著總督的面羞辱我。他的兒子弄殘了我的一名守衛。」</DefaultText>
+      <DefaultText>「你挺適合當個小人物，你知不知道。阿泰羅·瓦雷拉當著總督的面羞辱我。他的兒子弄殘了我的一名守衛。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,7 +556,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>「對，在白際山鬧出了不小的騷動。在這裡也可以搞這麼一出。」</DefaultText>
+      <DefaultText>「Ac，在 &lt;g&gt;白際山&lt;/g&gt;鬧出了不小的騷動。在這裡也可以搞這麼一出。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -566,12 +566,12 @@
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>「殺光皇族海盜、努瓦泰和一切與我們為敵者！」</DefaultText>
+      <DefaultText>「殺光皇族海盜、&lt;g&gt;努瓦泰&lt;/g&gt;和一切與我們為敵者！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>「目的只有一個——利益。」</DefaultText>
+      <DefaultText>「目的只有一個—利益。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>「我想幫助這座城裡的胡亞納人。我想讓商行成為真誠的盟友。」</DefaultText>
+      <DefaultText>「我想幫助這座城裡的 &lt;g&gt;胡亞納&lt;/g&gt;人。我想讓商行成為真誠的盟友。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,7 +591,7 @@
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>「商行會慢慢放幹我們的血。我們拚死拚活，他們卻連動動手指幫我們一把都不肯。」</DefaultText>
+      <DefaultText>「商行會慢慢搾幹我們的血。我們拚死拚活，他們卻連動動手指幫我們一把都不肯。巴達托家族對這些事也視而不見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -669,7 +669,7 @@
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>「如果這麼說的話……允許我們在涅克塔卡城做生意就足夠了。我們井水不犯河水。」
+      <DefaultText>「如果這麼說的話……允許我們在 &lt;g&gt;涅克塔卡&lt;/g&gt;城做生意就足夠了。我們井水不犯河水。」
 
 阿泰羅說話的語氣彷彿在期待著他的提議被當面回絕。</DefaultText>
       <FemaleText />
@@ -715,7 +715,7 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>「嗯。我看得出來。「伊扎莉懷疑地瞇起雙眼。</DefaultText>
+      <DefaultText>「嗯。我看得出來。」伊扎莉懷疑地瞇起雙眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -747,7 +747,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>「當然想，可是——」阿泰羅本想繼續說，但伊扎莉打斷了他。</DefaultText>
+      <DefaultText>「當然想，可是—」阿泰羅本想繼續說，但伊扎莉打斷了他。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -772,7 +772,7 @@
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>「豈有此理。我們家不該向她家低頭！這算什麼停戰——」
+      <DefaultText>「豈有此理。我們家不該向她家低頭！這算什麼停戰—」
 
 馬蒂諾還想繼續說下去，但阿泰羅抬手將他制止。</DefaultText>
       <FemaleText />
@@ -791,7 +791,7 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>「可以這麼說。暫時就這樣吧。「伊扎莉聳聳肩。</DefaultText>
+      <DefaultText>「可以這麼說。暫時就這樣吧。」伊扎莉聳聳肩。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -842,7 +842,7 @@
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>「你們也可以滾回鳥不生蛋的艾歐拉東域，別他媽在亡焰列島惹是生非。」塞拉芬交叉起雙臂，一臉怒容地嘟噥著。</DefaultText>
+      <DefaultText>「你們也可以滾回鳥不生蛋的艾歐拉東域，別他媽在 &lt;g&gt;亡焰列島&lt;/g&gt;惹是生非。」塞拉芬交叉起雙臂，一臉怒容地嘟噥著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -857,7 +857,7 @@
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -932,7 +932,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -952,7 +952,7 @@
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>「先生，夫人，如兩位所知，五陽兄弟會的成員經常接受請求調停公爵之間、貴族議政團之間和今天這種共和國顯赫家族之間的矛盾。」</DefaultText>
+      <DefaultText>「先生，夫人，如兩位所知，五陽兄弟會的成員經常接受請求調停 &lt;g&gt;公爵&lt;/g&gt;之間、貴族議政團之間和今天這種共和國顯赫家族之間的矛盾。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -962,7 +962,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>「你們這些笨蛋居然傾聽這隻穿盔甲的鳥兒的歌聲。」
+      <DefaultText>「你們這些 postenago 居然肯聽這隻穿盔甲的小鳥的歌。」
 
 馬蒂諾向帕蕾吉娜投去嚴厲的目光，但對方的怒目而視令他敗下陣來。</DefaultText>
       <FemaleText />
@@ -988,7 +988,7 @@
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>「說得好，但這些貪得無厭的傢伙並沒有同情心。」泰克胡清了清嗓子，後退一步。</DefaultText>
+      <DefaultText>「Ekera，但這些貪得無厭的傢伙並沒有同情心。」泰克胡清了清嗓子，後退一步。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1010,12 +1010,12 @@
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>「我不會自作主張地認為你們之間的矛盾很容易解決，但說真的，在我任職期間，我見過更血腥的夙怨都隨著時間和耐心而化解。」</DefaultText>
+      <DefaultText>「我不會自作主張地認為你們之間的矛盾很容易解決，但 di verus，在我任職期間，我見過更血腥的夙怨都隨著時間和耐心而化解。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>「我也見過那些為了仇殺而令我們國家蒙受重大經濟損失的人遭到了大公們的嚴懲。我懇求你們為所有人的利益著想，尋求一種能帶來持久和平的方式彌補給對方造成的傷害。」
+      <DefaultText>「我也見過那些為了仇殺而令我們國家蒙受重大經濟損失的人遭到了五大公們的嚴懲。我懇求你們為所有人的利益著想，尋求一種能帶來持久和平的方式彌補給對方造成的傷害。」
 
 她滿懷敬意地點了點長著羽毛的頭。</DefaultText>
       <FemaleText />

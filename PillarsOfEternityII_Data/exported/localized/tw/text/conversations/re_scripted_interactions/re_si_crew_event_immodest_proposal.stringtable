@@ -13,7 +13,7 @@
       <ID>4</ID>
       <DefaultText>你打開門，發現[Specified 1]正醉眼朦朧的衝你微笑。船員散發的海盜烈酒味幾乎足以把你熏醉。
 
-「你好啊，船長。我想你可能喜歡在這舊舖位上找點陪伴，如果你明白我的意思。」 [Specified 1]的手指暗示性地玩弄著醉醺醺的水手的腰帶扣子。</DefaultText>
+「你好啊，船長。我想你可能喜歡在這舊舖位上找點陪伴，如果你明白我的意思。」[Specified 1]的手指暗示性地玩弄著醉醺醺的水手的腰帶扣子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@
 
 「船長，」水手呆板地向你打招呼。「我只想說，呃，我羨慕你為這艘船所做的一切。和船員一起。我想向你表達我的感激……如果你願意的話。」
 
-[Specified 5]的眼神從你移開——看向你的床——又看著你。</DefaultText>
+[Specified 5]的眼神從你移開—看向你的床—又看著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[脫下衣服，示意[Specified 0]靠近。]</DefaultText>
+      <DefaultText>[脫下衣服，示意[Specified 0]靠近]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +147,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[親吻[Specified 0]。]</DefaultText>
+      <DefaultText>[親吻[Specified 0]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「怎麼發生的？」 [Specified 1]眨了眨眼睛。「呃，還有啥沒發生？我的意思是，你認為還需要怎麼做才能讓人注意到你？」
+      <DefaultText>「怎麼發生的？」[Specified 1]眨了眨眼睛。「呃，還有啥沒發生？我的意思是，你認為還需要怎麼做才能讓人注意到你？」
 
 水手皺了皺眉。「真不知道這是不是我想要的。」</DefaultText>
       <FemaleText />
@@ -260,12 +260,12 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[任[Specified 1]那樣。]</DefaultText>
+      <DefaultText>[任[Specified 1]那樣]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[讓[Specified 1]與你同睡床鋪。]</DefaultText>
+      <DefaultText>[讓[Specified 1]與你同睡床鋪]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -309,7 +309,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>」當然了。「</DefaultText>
+      <DefaultText>「當然了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,7 +319,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>[吻可憐的傻瓜。]</DefaultText>
+      <DefaultText>[吻可憐的傻瓜]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>[親吻[Specified 4]。]</DefaultText>
+      <DefaultText>[親吻[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,7 +391,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>[親吻[Specified 5]。]</DefaultText>
+      <DefaultText>[親吻[Specified 5]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

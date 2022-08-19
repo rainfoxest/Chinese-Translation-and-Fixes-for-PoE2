@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「瑪珈嵐的奶子啊！」[Specified 0]後退了一大步，手掌也張開了。「對不起，船長！我以為不會有人來這裡！更沒想到你會來，船長！」
+      <DefaultText>「&lt;g&gt;瑪珈嵐&lt;/g&gt;的奶子啊！」[Specified 0]後退了一大步，手掌也張開了。「對不起，船長！我以為不會有人來這裡！更沒想到你會來，船長！」
 
 [Specified 1]慌慌張張地把第二把匕首塞了回去。</DefaultText>
       <FemaleText />
@@ -72,7 +72,7 @@
       <ID>54</ID>
       <DefaultText>[Specified 0]嚥了口口水。「絨精頭，船長。」
 
-[Specified 1]攤開手笑了起來。「這隻是個遊戲的名字而已。如果你想要投兩把的話就一起吧！」</DefaultText>
+[Specified 1]攤開手笑了起來。「這只是個遊戲的名字而已。如果你想要投兩把的話就一起吧！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>[瞄準『絨精』耳朵。]</DefaultText>
+      <DefaultText>[瞄準『絨精』耳朵]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>[嘗試瞄準『絨精』鼻子。]</DefaultText>
+      <DefaultText>[嘗試瞄準『絨精』鼻子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,7 +179,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>[直接走開。]</DefaultText>
+      <DefaultText>[直接走開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,7 +220,7 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>[作弊。]</DefaultText>
+      <DefaultText>[作弊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

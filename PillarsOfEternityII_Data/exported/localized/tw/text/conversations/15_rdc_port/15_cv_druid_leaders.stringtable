@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[攻擊]「我是來結果你們的！」</DefaultText>
+      <DefaultText>[攻擊]「我是來了結你們！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「我是來調停你們與亡焰皇家商行之間的衝突的。」</DefaultText>
+      <DefaultText>「我是來調停你們與 &lt;g&gt;亡焰皇家商行&lt;/g&gt;之間的衝突的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「你們與亡焰皇家商行之間的不和威脅到了這座島。我想要調停你們之間的糾紛。」</DefaultText>
+      <DefaultText>「你們與 &lt;g&gt;亡焰皇家商行&lt;/g&gt;之間的不和威脅到了這座島。我想要調停你們之間的糾紛。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「胡亞納人，你走吧。我們不願與這片土地的原住民戰鬥，但如果你苦苦相逼，那我們也不會遲疑。」
+      <DefaultText>「&lt;g&gt;胡亞納&lt;/g&gt;人，你走吧。我們不願與這片土地的原住民戰鬥，但如果你苦苦相逼，那我們也不會遲疑。」
 
 儘管春說話的語氣近乎傷感，但同時也不失強硬。</DefaultText>
       <FemaleText />
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,7 +153,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>「可假如我殺了艦隊指揮，整個亡焰皇家商行都會追殺我！」</DefaultText>
+      <DefaultText>「可假如我殺了艦隊指揮，整個 &lt;g&gt;亡焰皇家商行&lt;/g&gt;都會追殺我！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>「我願意替你們殺掉艦隊指揮。」</DefaultText>
+      <DefaultText>「我願意替你們殺掉艦隊指揮官奧卡耶。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,7 +178,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>「那就跪下並接受伽拉溫的祝福吧。」夏嗤笑了一聲。</DefaultText>
+      <DefaultText>「那就跪下並接受 伽拉溫 的祝福吧。」夏嗤笑了一聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,7 +198,7 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>「狩獵大師、機敏狡詐的野獸摯愛之神伽拉溫，傾聽我的訴求……」</DefaultText>
+      <DefaultText>「狩獵大師、機敏狡詐的野獸摯愛之神 伽拉溫，傾聽我的訴求……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,7 +218,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>「伽拉溫的勇士，收下我的弓。去兌現你的承諾，懲戒擅闖者吧。」</DefaultText>
+      <DefaultText>「伽拉溫 的勇士，收下我的弓。去兌現你的承諾，懲戒擅闖者吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -238,7 +238,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>「……我們以伽拉溫之名祝福你，並賜予你最後一件禮物。」春將一捆樹葉按在你的掌中，向你露出熱情而快樂的笑容。</DefaultText>
+      <DefaultText>「……我們以 伽拉溫 之名祝福你，並賜予你最後一件禮物。」春將一捆樹葉按在你的掌中，向你露出熱情而快樂的笑容。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -253,12 +253,12 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>「亡焰皇家商行會把這片森林夷為平地。」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰皇家商行&lt;/g&gt;會把這片森林夷為平地。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>「萬物皆有終期，我們不畏懼努瓦泰入侵者，也不怕你！」</DefaultText>
+      <DefaultText>「萬物皆有終期，我們不畏懼 &lt;g&gt;努瓦泰&lt;/g&gt;入侵者，也不怕你！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>「抱歉，船長……但堅守自己土地、堅決不向努瓦泰屈服的人並沒有錯啊。」
+      <DefaultText>「抱歉，船長……但堅守自己土地、堅決不向 &lt;g&gt;努瓦泰&lt;/g&gt;屈服的人並沒有錯啊。」
 
 「我們中必須有更多人學會反抗。」</DefaultText>
       <FemaleText />
@@ -290,7 +290,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>「努瓦泰入侵者擅闖進了我們的聖地，無視我們的友好提議。這場衝突錯不在我們！」
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;入侵者擅闖進了我們的聖地，無視我們的友好提議。這場衝突錯不在我們！」
 
 夏頭髮上的火焰一時間燃燒得更亮了。秋溫柔地安撫著她暴躁的同伴。</DefaultText>
       <FemaleText />

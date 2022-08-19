@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>玩家正在接近某個森林營地。你可以聽到食人魔們交談時的濃重喉音。</DefaultText>
+      <DefaultText>玩家正在接近某個森林營地。你可以聽到巨魔們交談時的濃重喉音。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>玩家返回了食人魔叢林營地。</DefaultText>
+      <DefaultText>玩家返回了巨魔叢林營地。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[接近營地。]</DefaultText>
+      <DefaultText>[接近營地]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

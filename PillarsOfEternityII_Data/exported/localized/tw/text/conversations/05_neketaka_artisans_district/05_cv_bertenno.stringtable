@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「走開。我沒時間跟你瞎聊。」那個瘦瘦的瓦利亞人期待的皺著眉頭，朝你身後望了望。</DefaultText>
+      <DefaultText>「走開。我沒時間跟你瞎聊。」那個瘦瘦的 &lt;g&gt;瓦利亞&lt;/g&gt;人期待的皺著眉頭，朝你身後望了望。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>這個年輕的瓦利亞人一門心思都在快點逃離黑暗櫥櫃上，連你們差點撞上都沒注意到。</DefaultText>
+      <DefaultText>這個年輕的 &lt;g&gt;瓦利亞&lt;/g&gt;人一門心思都在快點逃離黑暗櫥櫃上，連你們差點撞上都沒注意到。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,8 +51,8 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>「想都別想，朋友。」他瞇著眼睛看著你。</DefaultText>
-      <FemaleText>「想都別想，朋友。」他瞇起眼睛看著你。</FemaleText>
+      <DefaultText>「想都別想，aimico。」他瞇著眼睛看著你。</DefaultText>
+      <FemaleText>「想都別想，aimica。」他瞇起眼睛看著你。</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>
@@ -61,9 +61,9 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>「費西娜派你來的，對不對？蠢貨，就為了這個嗎？」
+      <DefaultText>「費西娜派你來的，對不對？Postenago，就為了這個嗎？」
 
-他搖了搖頭，從口袋裡掏出一副手套，一臉失望的盯著它。</DefaultText>
+他搖了搖頭，從口袋裡掏出一副手套，一臉失望的研究著它。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,12 +88,12 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>「早該猜到這是燙手的買賣。呃，現在做出明智的決定是不是有點晚了？」</DefaultText>
+      <DefaultText>「早該猜到這是個爛東西。呃，現在做出明智的決定是不是有點晚了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,12 +138,12 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>[試圖絆倒他。]</DefaultText>
+      <DefaultText>[試圖絆倒他]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>[什麼都不做。]</DefaultText>
+      <DefaultText>[什麼都不做]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,7 +158,7 @@
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>[一把抓住他。]</DefaultText>
+      <DefaultText>[一把抓住他]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>就在他想從你的手中掙脫的時候，他被什麼東西給纏住了，然後散在了你的手裡-金陽幣。他慌不擇路地朝出口跑去。</DefaultText>
+      <DefaultText>就在他想從你的手中掙脫的時候，他被什麼東西給纏住了，然後在你的手裡掉下枚金陽幣。他慌不擇路地朝出口跑去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,7 +208,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>「我自己會出去的。」</DefaultText>
+      <DefaultText>「我告退了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,7 +228,7 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>「見鬼——？我掉到哪裡去了？」</DefaultText>
+      <DefaultText>「見鬼—？我掉到哪裡去了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -238,7 +238,7 @@
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>「見鬼——？我掉到哪裡去了？」</DefaultText>
+      <DefaultText>「見鬼—？我掉到哪裡去了？」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

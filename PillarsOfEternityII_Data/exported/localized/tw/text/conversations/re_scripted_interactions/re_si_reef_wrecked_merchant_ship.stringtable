@@ -69,7 +69,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>但你的力量不足，船向下沉了一下 ，你摔到了旁邊。你沒有抓住船緣，落入了水中。一陣尖銳的刺痛傳遍了你的身體，你游回了淺灘上。你的身上被刺出了深深的一道傷口，鮮血流到了石頭上。你從肋骨之間拔出了一條長長的珊瑚刺，把它丟進了水裡。</DefaultText>
+      <DefaultText>但你的力量不足，船向下沉了一下，你摔到了旁邊。你沒有抓住船緣，落入了水中。一陣尖銳的刺痛傳遍了你的身體，你游回了淺灘上。你的身上被刺出了深深的一道傷口，鮮血流到了石頭上。你從肋骨之間拔出了一條長長的珊瑚刺，把它丟進了水裡。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,12 +106,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <DefaultText>[使用小型望遠鏡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[Specified 1]帶著沉思的目光，看著船隻的殘骸。「無意冒犯，船長。那些人是昂德拉的僕人，他們負責收集人們不要的東西，將它們託付給大海。巡禮者的船上裝著的，一般都是沒人想要的東西。」</DefaultText>
+      <DefaultText>[Specified 1]帶著沉思的目光，看著船隻的殘骸。「無意冒犯，船長。那些人是 &lt;g&gt;昂德拉&lt;/g&gt;的僕人，他們負責收集人們不要的東西，將它們託付給大海。巡禮者的船上裝著的，一般都是沒人想要的東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,12 +157,12 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[再次試圖爬上去。]</DefaultText>
+      <DefaultText>[再次試圖爬上去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[回自己船上去。]</DefaultText>
+      <DefaultText>[回自己船上去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,27 +177,27 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[搜索物資。]</DefaultText>
+      <DefaultText>[搜索物資]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[搜索走私者的證據。]</DefaultText>
+      <DefaultText>[搜索走私船的證據]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>你找到了幾箱補給，還有一些亂七八糟的小東西——手帕、念珠、壞掉的貝雕以及一個小孩子玩的人偶。</DefaultText>
+      <DefaultText>你找到了幾箱補給，還有一些亂七八糟的小東西—手帕、念珠、壞掉的貝雕以及一個小孩子玩的人偶。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[回自己船上去。]</DefaultText>
+      <DefaultText>[回自己船上去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>你回想起[Specified 1]說的話，不禁懷疑這到底是不是一艘走私者的船。</DefaultText>
+      <DefaultText>你回想起[Specified 1]說的話，不禁懷疑這到底是不是一艘走私船。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -214,7 +214,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Specified 4]吹起口哨。「到底是走私者。」</DefaultText>
+      <DefaultText>[Specified 4]吹起口哨。「結果還是走私船。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,7 +229,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>[爬上去。]</DefaultText>
+      <DefaultText>[爬上去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「我能用鐮刀輕而易舉地斬殺基斯。也許斬殺走私者更容易一些。」
+      <DefaultText>「我能用鐮刀輕而易舉地斬殺 基斯。也許斬殺走私船更容易一些。」
 
 裘荻舔了舔下嘴唇，審視著那艘似乎擱淺的船隻。</DefaultText>
       <FemaleText />

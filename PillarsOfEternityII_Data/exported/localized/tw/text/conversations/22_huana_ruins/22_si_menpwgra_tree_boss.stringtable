@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>這棵腐爛的樹在其自身重量下慢慢彎曲。每一個枝幹都淌著濃稠的腐臭的汁液。它的籐蔓纏繞著魂珀之柱的尖端， 似乎在腐蝕柱子，就像腐蝕周圍叢林一樣。</DefaultText>
+      <DefaultText>這棵腐爛的樹在其自身重量下慢慢彎曲。每一個枝幹都淌著濃稠的腐臭的汁液。它的籐蔓纏繞著魂珀之柱的尖端，似乎在腐蝕柱子，就像腐蝕周圍叢林一樣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[小聲對樹說話，說服它放棄其核心處的腐爛。]</DefaultText>
+      <DefaultText>[小聲對樹說話，說服它放棄其核心處的腐爛]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[德魯伊小聲對樹說話，說服它放棄其心中的腐爛。]</DefaultText>
+      <DefaultText>[德魯伊小聲對樹說話，說服它放棄其心中的腐爛]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[使用叢林叢綠色的脊骨來治癒樹的腐爛。]</DefaultText>
+      <DefaultText>[使用叢林叢綠色的脊骨來治癒樹的腐爛]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[摧毀樹。]</DefaultText>
+      <DefaultText>[摧毀樹]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>你用樹能理解的語言召喚樹——成長、時間、水——吸引著它古老而又被遺忘的本性。
+      <DefaultText>你用樹能理解的語言召喚樹—成長、時間、水—吸引著它古老而又被遺忘的本性。
 
 你命令它驅除內心的黑暗。
 
@@ -50,7 +50,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>這棵樹的樹心給你呈現出健康、長壽和食物這些人人渴求的畫面——全部是無法實現的承諾。
+      <DefaultText>這棵樹的樹心給你呈現出健康、長壽和食物這些人人渴求的畫面—全部是無法實現的承諾。
 
 誘惑和慾望是樹似所能理解的唯一動機。</DefaultText>
       <FemaleText />
@@ -69,7 +69,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>你用樹能理解的語言召喚樹——成長、時間、水——吸引著它古老而又被遺忘的本性。
+      <DefaultText>你用樹能理解的語言召喚樹—成長、時間、水—吸引著它古老而又被遺忘的本性。
 
 你命令它驅除內心的黑暗。
 
@@ -88,7 +88,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>你感覺到這棵樹的生命力追隨著一個遙遠的身影——某種古老、野蠻而瘋狂的東西。
+      <DefaultText>你感覺到這棵樹的生命力追隨著一個遙遠的身影—某種古老、野蠻而瘋狂的東西。
 
 你毫不懷疑，與樹接觸會提醒它你的存在。</DefaultText>
       <FemaleText />
@@ -120,7 +120,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[更近距離調查腐爛。]</DefaultText>
+      <DefaultText>[更近距離調查腐爛]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -137,12 +137,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>[屈服於誘惑。]</DefaultText>
+      <DefaultText>[屈服於誘惑]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>[考慮另一種方法。]</DefaultText>
+      <DefaultText>[考慮另一種方法]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>[拒絕虛假的承諾。]</DefaultText>
+      <DefaultText>[拒絕虛假的承諾]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
       <ID>54</ID>
       <DefaultText>&lt;ispeech&gt;不。我給了你其他的。這個是我的。&lt;/ispeech&gt;
 
-貝拉斯的聲音甚至使樹忘記了飢餓。奇怪的是，她並沒有對你說話。</DefaultText>
+ &lt;g&gt;貝拉斯&lt;/g&gt;的聲音甚至使樹忘記了飢餓。奇怪的是，她並沒有對你說話。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[拾起法杖。]「什麼……」</DefaultText>
+      <DefaultText>[拾起法杖]「什麼……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,7 +212,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>[將法杖傾倒。]「你哪也別想去。」</DefaultText>
+      <DefaultText>[將法杖傾倒]「你哪也別想去。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,29 +224,29 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>[緊握法杖。]「到底是什麼……」</DefaultText>
+      <DefaultText>[緊握法杖]「到底是什麼……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>[檢視魂珀之柱。]</DefaultText>
+      <DefaultText>[檢視魂珀之柱]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>它的表面坑坑窪窪，沾滿了樹液。儘管柱子仍然與貝拉斯之輪相連，但這棵樹已經適應了通過汲取原始精粹餵食自己的根莖。
+      <DefaultText>它的表面坑坑窪窪，沾滿了樹液。儘管柱子仍然與 &lt;g&gt;貝拉斯之輪&lt;/g&gt;相連，但這棵樹已經適應了通過汲取原始精粹餵食自己的根莖。
 
 只要給這棵樹足夠維生的精粹，就可以終結這種寄生式的聯繫。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[為樹提供足夠的靈魂精粹使其自愈。]</DefaultText>
+      <DefaultText>[為樹提供足夠的靈魂精粹使其自愈]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[考慮其他方式。]</DefaultText>
+      <DefaultText>[考慮其他方式]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

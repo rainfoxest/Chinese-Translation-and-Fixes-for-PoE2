@@ -11,44 +11,44 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[小心翼翼地繼續前進。]</DefaultText>
+      <DefaultText>[小心翼翼地繼續前進]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[仔細聽。]</DefaultText>
+      <DefaultText>[仔細聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>[原路返回。]</DefaultText>
+      <DefaultText>[原路返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>那聲音漸漸分解成了有節奏的嗒嗒聲，週期性的、緩慢的上升和下降。那聲音聽起來像是齊聲唱歌的聲音——不是基斯的聲音。</DefaultText>
+      <DefaultText>那聲音漸漸分解成了有節奏的嗒嗒聲，週期性的、緩慢的上升和下降。那聲音聽起來像是齊聲唱歌的聲音—不是 &lt;g&gt;基斯&lt;/g&gt;的聲音。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
       <DefaultText>你小心翼翼地進入沙漠峽谷，在高處石頭投下的陰影裡穿行。
 
-在你的前方，一隊蜥人在歌唱，搖晃著他們的短矛，兩隻小細腿不住的前後跳躍。在他們中間有一隻通體黑色、外皮堅韌如革的亞龍。在那個生物撕扯腳下那只死野豬的時候，它的雙翼高高揚起。</DefaultText>
+在你的前方，一隊蜥人在歌唱，搖晃著他們的短矛，兩隻小細腿不住的前後跳躍。在他們中間有一隻通體黑色、外皮堅韌如革的亞龍。在那個生物撕扯腳下那隻死野豬的時候，它的雙翼高高揚起。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <DefaultText>[拔出武器攻擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>[趁他們分心偷偷靠近。]</DefaultText>
+      <DefaultText>[趁他們分心偷偷靠近]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>你輕輕的從一塊石頭穿梭到另一塊石頭上，在不被那個生物發現的情況下進入了峽谷......</DefaultText>
+      <DefaultText>你輕輕的從一塊石頭穿梭到另一塊石頭上，在不被那個生物發現的情況下進入了峽谷……</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,12 +67,12 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>在涅克塔卡的西邊，平原綿延起伏延伸向群山。帶有鮮艷花朵的尖刺植物點綴著翠綠的高草。這如畫的風景中散落著幾棵大樹，寬大的樹冠像遮陽傘一樣在地上投出大片陰影。</DefaultText>
+      <DefaultText>在 &lt;g&gt;涅克塔卡&lt;/g&gt;的西邊，平原綿延起伏延伸向群山。帶有鮮艷花朵的尖刺植物點綴著翠綠的高草。這如畫的風景中散落著幾棵大樹，寬大的樹冠像遮陽傘一樣在地上投出大片陰影。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>[偷偷靠近觀察。]</DefaultText>
+      <DefaultText>[偷偷靠近觀察]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>[揮舞武器大聲叫喊。]</DefaultText>
+      <DefaultText>[揮舞武器大聲叫喊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -92,7 +92,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <DefaultText>[拔出武器攻擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>[逃跑。]</DefaultText>
+      <DefaultText>[逃跑]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,12 +144,12 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>[派遣伊希薩去偵查。]</DefaultText>
+      <DefaultText>[派遣伊希薩去偵查]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>[搜尋其他意識的存在。]</DefaultText>
+      <DefaultText>[搜尋其他意識的存在]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -182,7 +182,7 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>「沒有十足的把握，不過我感覺到前方大約有四個意識。不是基斯，也比動物複雜的多。其中之一非常......飢餓。」
+      <DefaultText>「沒有十足的把握，不過我感覺到前方大約有四個意識。不是 基斯，也比動物複雜的多。其中之一非常......飢餓。」
 
 伊德溫眉頭緊鎖。</DefaultText>
       <FemaleText />
@@ -211,12 +211,12 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>[繼續觀察。]</DefaultText>
+      <DefaultText>[繼續觀察]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>[迷惑亞龍。]</DefaultText>
+      <DefaultText>[迷惑亞龍]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,22 +248,22 @@
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>[讓亞龍攻擊蜥人。]</DefaultText>
+      <DefaultText>[讓亞龍攻擊蜥人]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>[命令它離開。]</DefaultText>
+      <DefaultText>[命令它離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>[釋放亞龍。]</DefaultText>
+      <DefaultText>[釋放亞龍]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>亞龍有條不紊的把蜥人挨個叼起，一口一個吃了下去。它似乎在考慮怎麼處理這最後一個——蜥人太瘦小了，這一隊還不夠亞龍塞牙縫的呢。
+      <DefaultText>亞龍有條不紊的把蜥人挨個叼起，一口一個吃了下去。它似乎在考慮怎麼處理這最後一個—蜥人太瘦小了，這一隊還不夠亞龍塞牙縫的呢。
 
 它蜷曲了身體，閉上眼睛，吃飽喝足沐浴在陽光下。</DefaultText>
       <FemaleText />
@@ -282,12 +282,12 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>[殺死它。]</DefaultText>
+      <DefaultText>[殺死它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>[不去管它。]</DefaultText>
+      <DefaultText>[不去管它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,7 +304,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <DefaultText>[使用小型望遠鏡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>[大搖大擺靠近。]</DefaultText>
+      <DefaultText>[大搖大擺靠近]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -353,7 +353,7 @@
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>[進行伏擊。]</DefaultText>
+      <DefaultText>[進行伏擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,7 +363,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>[潛行穿過該區域。]</DefaultText>
+      <DefaultText>[潛行穿過該區域]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -399,12 +399,12 @@
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>[把它們留在原處。]</DefaultText>
+      <DefaultText>[把它們留在原處]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>[迷惑蛆蟲。]</DefaultText>
+      <DefaultText>[迷惑蛆蟲]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -424,17 +424,17 @@
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>[讓蛆蟲爬走。]</DefaultText>
+      <DefaultText>[讓蛆蟲爬走]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>[讓蛆蟲攻擊蜥人。]</DefaultText>
+      <DefaultText>[讓蛆蟲攻擊蜥人]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>[讓蛆蟲跳一支搖擺舞。]</DefaultText>
+      <DefaultText>[讓蛆蟲跳一支搖擺舞]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,7 +476,7 @@
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>[耍點花招讓他們驚訝。]</DefaultText>
+      <DefaultText>[耍點花招讓他們驚訝]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,7 +493,7 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>蜥人目不轉睛的盯著[Specified 4]複雜的硬幣戲法。當銅幣消失之後再次出現時，他們高興的大聲尖叫。</DefaultText>
+      <DefaultText>蜥人目不轉睛的盯著[Specified 4]複雜的硬幣戲法。當 銅幣 消失之後再次出現時，他們高興的大聲尖叫。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -538,7 +538,7 @@
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>[向它們點頭。]</DefaultText>
+      <DefaultText>[向它們點頭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -567,14 +567,14 @@
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>你用一隻手撫摸了[Player Animal Companion]的背，讓它上前。在蜥人把一隻蛆蟲放在地上的時候，你那只帶毛的夥伴走進了圈子裡。
+      <DefaultText>你用一隻手撫摸了[Player Animal Companion]的背，讓它上前。在蜥人把一隻蛆蟲放在地上的時候，你那隻帶毛的夥伴走進了圈子裡。
 
 [Player Animal Companion]圍著蛆蟲，只見它緩緩向你的夥伴移動，使勁張開它微小的下顎。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>你用一隻手撫摸了[Player Animal Companion]的背，讓它上前。在蜥人把一隻蛆蟲放在地上的時候，你那只帶毛的夥伴走進了圈子裡。
+      <DefaultText>你用一隻手撫摸了[Player Animal Companion]的背，讓它上前。在蜥人把一隻蛆蟲放在地上的時候，你那隻帶毛的夥伴走進了圈子裡。
 
 [Player Animal Companion]圍著蛆蟲，只見它緩緩向你的夥伴移動，使勁張開它微小的下顎。</DefaultText>
       <FemaleText />

@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>你意識到你一開始誤以為是幾塊大石頭的東西，實際上是雙頭魔——兩個頭的怪物。你看著他們當中的一個漫不經心地舉起一塊巨石扔進海中。雙頭魔狂笑，他們的笑聲粗啞。</DefaultText>
+      <DefaultText>你意識到你一開始誤以為是幾塊大石頭的東西，實際上是雙頭魔—兩個頭的怪物。你看著他們當中的一個漫不經心地舉起一塊巨石扔進海中。雙頭魔狂笑，他們的笑聲粗啞。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <DefaultText>[拔出武器攻擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[觀察雙頭魔。]</DefaultText>
+      <DefaultText>[觀察雙頭魔]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[用能力致盲雙頭魔。]</DefaultText>
+      <DefaultText>[用能力致盲雙頭魔]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[偷偷接近雙頭魔。]</DefaultText>
+      <DefaultText>[偷偷接近雙頭魔]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,22 +90,22 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[對魔物說話。]</DefaultText>
+      <DefaultText>[對魔物說話]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[尋找替代路線。]</DefaultText>
+      <DefaultText>[尋找替代路線]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[原路返回。]</DefaultText>
+      <DefaultText>[原路返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[偷偷接近雙頭魔。]</DefaultText>
+      <DefaultText>[偷偷接近雙頭魔]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -137,7 +137,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[嘗試通過。]</DefaultText>
+      <DefaultText>[嘗試通過]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,17 +284,17 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>[提供甜蜜堅果。]「這又美味又健康。」</DefaultText>
+      <DefaultText>[提供甜蜜堅果]「這又美味又健康。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>[提供硬麵包。]「我這裡有一些好吃的……麵包……。」</DefaultText>
+      <DefaultText>[提供硬麵包]「我這裡有一些好吃的……麵包……。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[提供船長的美食。]「我有各種美味海鮮可以給你。」</DefaultText>
+      <DefaultText>[提供船長的美食]「我有各種美味海鮮可以給你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,12 +321,12 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>[提供陳年鯊魚肉。] 「你喜歡鯊魚肉嗎？我有一些精製陳年鯊魚肉。」</DefaultText>
+      <DefaultText>[提供熟成鯊魚肉]「你喜歡鯊魚肉嗎？我有一些精製熟成鯊魚肉。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>[提供蔬菜。]「看起來你可能想吃些蔬菜。從涅克塔卡新鮮採來的。」</DefaultText>
+      <DefaultText>[提供蔬菜]「看起來你可能想吃些蔬菜。從 &lt;g&gt;涅克塔卡&lt;/g&gt;新鮮採來的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,7 +365,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>「麵包？」雙頭魔的鼻孔——一共四個——因吸氣而擴張開。「不……&lt;i&gt;硬麵包&lt;/i&gt;。你要給我們吃硬麵包？！」崖壁隨著這聲咆哮的提問而搖晃。
+      <DefaultText>「麵包？」雙頭魔的鼻孔—一共四個—因吸氣而擴張開。「不……&lt;i&gt;硬麵包&lt;/i&gt;。你要給我們吃硬麵包？！」崖壁隨著這聲咆哮的提問而搖晃。
 
 第二隻雙頭魔捶打著自己的胸脯。「我們將用這小傢伙的血來軟化硬麵包！」</DefaultText>
       <FemaleText />
@@ -391,12 +391,12 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>[繼續前進。]</DefaultText>
+      <DefaultText>[繼續前進]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>[返回。]</DefaultText>
+      <DefaultText>[返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -425,7 +425,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>[爬上去。]</DefaultText>
+      <DefaultText>[爬上去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -494,17 +494,17 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>[拉[Specified 0]上來。]</DefaultText>
+      <DefaultText>[拉[Specified 0]上來]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>[用魔法強化[Specified 0]。]</DefaultText>
+      <DefaultText>[用魔法強化[Specified 0]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>[給[Specified 0]繩索。]「抓住！」</DefaultText>
+      <DefaultText>[給[Specified 0]繩索]「抓住！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -528,14 +528,14 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>[Specified 0]放開壁架，用一隻手去抓繩索。你正打算將繩索纏繞在你身上，此時[Specified 0]握著的手鬆開了——隨著一聲驚恐的尖叫，你的同伴掉向大海。
+      <DefaultText>[Specified 0]放開壁架，用一隻手去抓繩索。你正打算將繩索纏繞在你身上，此時[Specified 0]握著的手鬆開了—隨著一聲驚恐的尖叫，你的同伴掉向大海。
 
 你的手指抓緊繩索，但繩索撕扯著你的手掌，燒灼著你的手。你看到鮮血從你的手指間流了出來……</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>[Specified 0]放開壁架，用一隻手去抓繩索。你正打算將繩索纏繞在你身上，此時[Specified 0]握著的手鬆開了——隨著一聲驚恐的尖叫，你的同伴掉向大海。
+      <DefaultText>[Specified 0]放開壁架，用一隻手去抓繩索。你正打算將繩索纏繞在你身上，此時[Specified 0]握著的手鬆開了—隨著一聲驚恐的尖叫，你的同伴掉向大海。
 
 你的手指抓緊繩索，但繩索撕扯著你的手掌，燒灼著你的手。你看到鮮血從你的手指間流了出來……</DefaultText>
       <FemaleText />
@@ -579,7 +579,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>[原路返回。]</DefaultText>
+      <DefaultText>[原路返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -612,7 +612,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>[繼續觀察。]</DefaultText>
+      <DefaultText>[繼續觀察]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

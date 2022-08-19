@@ -58,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「哦，在下&lt;i&gt;榮幸之至&lt;/i&gt;。當然，錢還是要付的。三千銅幣如何？」</DefaultText>
+      <DefaultText>「哦，在下&lt;i&gt;榮幸之至&lt;/i&gt;。當然，錢還是要付的。三千 銅幣 如何？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,7 +70,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,17 +85,17 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「你在亡焰列島做什麼？」</DefaultText>
+      <DefaultText>「你在 &lt;g&gt;亡焰列島&lt;/g&gt;做什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「旅人們不遠萬里來亡焰列島是為了什麼？當然是冒險了！我從小就很喜歡英雄們的傳說。」</DefaultText>
+      <DefaultText>「旅人們不遠萬里來 &lt;g&gt;亡焰列島&lt;/g&gt;是為了什麼？當然是冒險了！我從小就很喜歡英雄們的傳說。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,7 +110,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「好！「</DefaultText>
+      <DefaultText>「好！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,7 +130,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「好吧。」他微笑著將銅幣收走了。</DefaultText>
+      <DefaultText>「好吧。」他微笑著將 銅幣 收走了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,7 +150,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,7 +165,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>[強化歷史與秘法]「給你。」</DefaultText>
+      <DefaultText>[提高 &lt;g&gt;歷史&lt;/g&gt;和 &lt;g&gt;秘法&lt;/g&gt;]「給你。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

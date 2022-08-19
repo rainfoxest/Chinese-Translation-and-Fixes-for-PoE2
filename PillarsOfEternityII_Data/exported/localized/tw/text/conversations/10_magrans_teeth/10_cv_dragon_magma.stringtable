@@ -18,7 +18,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>&lt;ispeech&gt;再會了，闖入者。願我有朝一日再度吃——我是說，見到——你。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;再會了，闖入者。願我有朝一日再度吃—我是說，見到—你。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[攻擊]「回歸輪迴去吧，怪物。」</DefaultText>
+      <DefaultText>[攻擊]「回歸神輪去吧，怪物。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,27 +75,27 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「我需要布蘭提斯隨身攜帶的比瑟阿坎飾環。」</DefaultText>
+      <DefaultText>「我需要 布蘭提斯 隨身攜帶的比瑟阿坎飾環。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「那邊的就是布蘭提斯，對嗎？」</DefaultText>
+      <DefaultText>「那邊的就是 布蘭提斯，對嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「我必須去深處見俄撒斯。」</DefaultText>
+      <DefaultText>「我必須去深處見 俄撒斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>為何拉紳要在俄撒斯入侵時召喚你？</DefaultText>
+      <DefaultText>為何拉紳要在 &lt;g&gt;俄撒斯&lt;/g&gt;入侵時召喚你？</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「為了阻止俄撒斯，瑪珈嵐會不擇手段。如果她讓這座火山噴發，你也會隨之喪生。」</DefaultText>
+      <DefaultText>「為了阻止 俄撒斯，&lt;g&gt;瑪珈嵐&lt;/g&gt;會不擇手段。如果她讓這座火山噴發，你也會隨之喪生。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,12 +115,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[高舉雙手。]「好吧，忘了這件事。」</DefaultText>
+      <DefaultText>[高舉雙手]「好吧，忘了這件事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>&lt;ispeech&gt;拿去吧。我一點也不在乎什麼飾環——或是什麼屍體。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;拿去吧。我一點也不在乎什麼飾環—或是什麼屍體。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,7 +132,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>&lt;ispeech&gt;幾個紀元之前……我們達成了一個協議，我和一個狡猾的布蘭提斯。確實……拉紳……有很長一段時間都讓我盡享珍饈美味。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;幾個紀元之前……我們達成了一個協議，我和一個狡猾的 布蘭提斯。確實……拉紳……有很長一段時間都讓我盡享珍饈美味。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +152,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>&lt;ispeech&gt;你想騎在我——偉大的火焰風暴——身上去見一個狂暴的神？&lt;/ispeech&gt;
+      <DefaultText>&lt;ispeech&gt;你想騎在我—偉大的火焰風暴—身上去見一個狂暴的神？&lt;/ispeech&gt;
 
 巨獸發出如滾滾轟雷般的笑聲，但她鼻孔中冒出的刺鼻煙霧表明了她的憤怒。</DefaultText>
       <FemaleText />
@@ -164,12 +164,12 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>&lt;ispeech&gt;但現在他們想把我的雙翼當做火焰風暴一樣去戰鬥——想讓我的利齒像滾燙的長矛一樣刺穿一個神。&lt;/ispeech&gt; </DefaultText>
+      <DefaultText>&lt;ispeech&gt;但現在他們想把我的雙翼當做火焰風暴一樣去戰鬥—想讓我的利齒像滾燙的長矛一樣刺穿一個神。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>&lt;ispeech&gt;我這麼說是只為了讓你滾遠點。你要見到俄撒斯必須先通過瑪珈嵐……通過她在拉紳要塞內的神殿。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;我這麼說是只為了讓你滾遠點。你要見到 &lt;g&gt;俄撒斯&lt;/g&gt;必須先通過 &lt;g&gt;瑪珈嵐&lt;/g&gt;……通過她在拉紳要塞內的神殿。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -184,7 +184,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「那是……那是神聖的飾環嗎？我正好想要一個！拜託，讓我們做筆交易吧。「</DefaultText>
+      <DefaultText>「那是……那是神聖的飾環嗎？我正好想要一個！拜託，讓我們做筆交易吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -194,7 +194,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>&lt;ispeech&gt;就憑你，小東西？連巨人們都沒能終結我不朽的生命——你覺得你可以？&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;就憑你，小東西？連巨人們都沒能終結我不朽的生命—你覺得你可以？&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -214,12 +214,12 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>&lt;ispeech&gt;幾個紀元之前……我們達成了一個協議，我和一個狡猾的布蘭提斯。確實……拉紳……有很長一段時間都讓我盡享珍饈美味。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;幾個紀元之前……我們達成了一個協議，我和一個狡猾的 布蘭提斯。確實……拉紳……有很長一段時間都讓我盡享珍饈美味。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>&lt;ispeech&gt;但現在他們想把我的雙翼當做火焰風暴一樣去戰鬥——想讓我的利齒像滾燙的長矛一樣刺穿一個神。&lt;/ispeech&gt; </DefaultText>
+      <DefaultText>&lt;ispeech&gt;但現在他們想把我的雙翼當做火焰風暴一樣去戰鬥—想讓我的利齒像滾燙的長矛一樣刺穿一個神。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,7 +239,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>&lt;ispeech&gt;拉紳向我進貢血與肉，火焰與黃金——而我則在他們發出召喚之時與他們並肩作戰。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;拉紳向我進貢血與肉，火焰與黃金—而我則在他們發出召喚之時與他們並肩作戰。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -259,7 +259,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[揮動你的武器。]「你馬上就能見識到了。」</DefaultText>
+      <DefaultText>[揮動你的武器]「你馬上就能見識到了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,12 +316,12 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>&lt;ispeech&gt;就算你說的是真的——火焰只會強化我。它們無法傷害我。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;就算你說的是真的—火焰只會強化我。它們無法傷害我。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「你持有一個瑪珈嵐聖物的想法很明智，畢竟她對火焰具有無上的掌控力。」</DefaultText>
+      <DefaultText>「你持有一個 &lt;g&gt;瑪珈嵐&lt;/g&gt;聖物的想法很明智，畢竟她對火焰具有無上的掌控力。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「瑪伽嵐的火焰連神之軀都能毀滅，她曾殺死了俄撒斯。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瑪珈嵐&lt;/g&gt;的火焰連神之軀都能毀滅，她曾殺死了 俄撒斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「您是如此可敬！您的高貴並非來自冷酷無情的屠殺——並不是，任何龍都能做到這點——而是對你忠誠的追隨者表現出仁慈。」</DefaultText>
+      <DefaultText>「您是如此可敬！您的高貴並非來自冷酷無情的屠殺—並不是，任何龍都能做到這點—而是對你忠誠的追隨者表現出仁慈。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>&lt;ispeech&gt;偷竊我的東西吧——假如你想和她一樣死無全屍的話！&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;偷竊我的東西吧—假如你想和她一樣死無全屍的話！&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -448,7 +448,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>&lt;ispeech&gt;說我珍視一件瑪珈嵐的下賤小玩意兒？！沒有這回事，混蛋！她的垃圾對我來說一文不值！&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;說我珍視一件 &lt;g&gt;瑪珈嵐&lt;/g&gt;的下賤小玩意兒？！沒有這回事，混蛋！她的垃圾對我來說一文不值！&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -458,7 +458,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>&lt;ispeech&gt;拉紳是群蠢貨，盲目地崇拜瑪珈嵐。他們從未崇拜過我——他們應該這麼做。&lt;/ispeech&gt;
+      <DefaultText>&lt;ispeech&gt;拉紳是群蠢貨，盲目地崇拜 瑪珈嵐。他們從未崇拜過我—他們應該這麼做。&lt;/ispeech&gt;
 
 她發出滿意的咕嚕聲，滑行在岩漿中，火花四濺。</DefaultText>
       <FemaleText />
@@ -511,22 +511,22 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>[『一臉無辜』地朝麥婭吹口哨，以表明你的意圖。]</DefaultText>
+      <DefaultText>[『一臉無辜』地朝麥婭吹口哨，以表明你的意圖]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>[意味深長地看了泰克胡一眼，然後朝飾環點點頭。]</DefaultText>
+      <DefaultText>[意味深長地看了泰克胡一眼，然後朝飾環點點頭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>[示意某人悄悄去取飾環。]</DefaultText>
+      <DefaultText>[示意某人悄悄去取飾環]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>[什麼都不做。]</DefaultText>
+      <DefaultText>[什麼都不做]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -538,12 +538,12 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>[指指裘荻，然後拇指向下對著飾環。]</DefaultText>
+      <DefaultText>[指指裘荻，然後拇指向下對著飾環]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>[搖搖頭示意他別動。]「沒什麼。」</DefaultText>
+      <DefaultText>[搖搖頭示意他別動]「沒什麼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -555,27 +555,27 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>[清清喉嚨，目光銳利地看一眼亞洛斯。]</DefaultText>
+      <DefaultText>[清清喉嚨，目光銳利地看一眼亞洛斯]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>[朝艾德爾抬抬下巴，示意他去偷。]</DefaultText>
+      <DefaultText>[朝艾德爾抬抬下巴，示意他去偷]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>[偷偷朝帕蕾吉娜揮手，示意她悄悄去拿飾環。]</DefaultText>
+      <DefaultText>[偷偷朝帕蕾吉娜揮手，示意她悄悄去拿飾環]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>[沖塞拉芬打個響指，讓他注意到飾環。]</DefaultText>
+      <DefaultText>[沖塞拉芬打個響指，讓他注意到飾環]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>[搖搖頭示意她別動。]「沒什麼。」</DefaultText>
+      <DefaultText>[搖搖頭示意她別動]「沒什麼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -612,7 +612,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>&lt;ispeech&gt;我這麼說是只為了讓你滾遠點。你要見到俄撒斯必須先通過瑪珈嵐……通過她在拉紳要塞內的神殿。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;我這麼說是只為了讓你滾遠點。你要見到 &lt;g&gt;俄撒斯&lt;/g&gt;必須先通過 &lt;g&gt;瑪珈嵐&lt;/g&gt;……通過她在拉紳要塞內的神殿。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -657,7 +657,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「那邊的就是布蘭提斯，對嗎？」</DefaultText>
+      <DefaultText>「那邊的就是 布蘭提斯，對嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -684,7 +684,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>[慢慢後退。]「事實上，我覺得那並不是我要找的女祭司。」</DefaultText>
+      <DefaultText>[慢慢後退]「事實上，我覺得那並不是我要找的女祭司。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>「詛咒恩加蒂賜予我這麼柔軟鮮嫩又美味的肉。」
+      <DefaultText>「詛咒 &lt;g&gt;恩加蒂&lt;/g&gt;賜予我這麼柔軟鮮嫩又美味的肉。」
 
 泰克胡緊張地笑起來，後退一小步。</DefaultText>
       <FemaleText />
@@ -735,7 +735,7 @@
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>「我起初還覺得這條龍不適合待在亡焰列島呢。」
+      <DefaultText>「我起初還覺得這條龍不適合待在 &lt;g&gt;亡焰列島&lt;/g&gt;呢。」
 
 他翻了個白眼。</DefaultText>
       <FemaleText />
@@ -747,21 +747,21 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>「難道亡焰列島的每一條龍都只能被別人的意願所束縛嗎？」
+      <DefaultText>「難道 &lt;g&gt;亡焰列島&lt;/g&gt;的每一條龍都只能被別人的意願所束縛嗎？」
 
 泰克胡長歎一聲，滿臉擔憂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>「你要知道，努瓦泰對類似的協議很感興趣，我可以幫你搭橋牽線。」
+      <DefaultText>「你要知道，&lt;g&gt;努瓦泰&lt;/g&gt;對類似的協議很感興趣，我可以幫你搭橋牽線。」
 
 麥婭眨眨眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>「真讓人寬慰。我還以為我們在跟龍打架咧，結果這隻不過是條很大的毒蛇而已。」</DefaultText>
+      <DefaultText>「真讓人寬慰。我還以為我們在跟龍打架咧，結果這只不過是條很大的毒蛇而已。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>「我起初還覺得這條龍不適合待在亡焰列島呢。」
+      <DefaultText>「我起初還覺得這條龍不適合待在 &lt;g&gt;亡焰列島&lt;/g&gt;呢。」
 
 他翻了個白眼。</DefaultText>
       <FemaleText />
@@ -788,14 +788,14 @@
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>「難道亡焰列島的每一條龍都只能被別人的意願所束縛嗎？」
+      <DefaultText>「難道 &lt;g&gt;亡焰列島&lt;/g&gt;的每一條龍都只能被別人的意願所束縛嗎？」
 
 泰克胡長歎一聲，滿臉擔憂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>「你要知道，努瓦泰對類似的協議很感興趣，我可以幫你搭橋牽線。」
+      <DefaultText>「你要知道，&lt;g&gt;努瓦泰&lt;/g&gt;對類似的協議很感興趣，我可以幫你搭橋牽線。」
 
 麥婭眨眨眼。</DefaultText>
       <FemaleText />
@@ -807,7 +807,7 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>「真讓人寬慰。我還以為我們在跟龍打架咧，結果這隻不過是條很大的毒蛇而已。」</DefaultText>
+      <DefaultText>「真讓人寬慰。我還以為我們在跟龍打架咧，結果這只不過是條很大的毒蛇而已。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -817,19 +817,19 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>「我要如何啟動拉紳要塞裡的瑪珈嵐神殿？」</DefaultText>
+      <DefaultText>「我要如何啟動拉紳要塞裡的 &lt;g&gt;瑪珈嵐&lt;/g&gt;神殿？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>&lt;ispeech&gt;我覺得布蘭提斯身上的東西有辦法解決這個問題。就是那個她試圖用來控制我的飾環。&lt;/ispeech&gt;
+      <DefaultText>&lt;ispeech&gt;我覺得 布蘭提斯 身上的東西有辦法解決這個問題。就是那個她試圖用來控制我的飾環。&lt;/ispeech&gt;
 
 上古龍嘉達菲拉絲舔了舔她的牙尖。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>&lt;ispeech&gt;遺憾的是，那東西的力量甚至不足以抵擋我的一束火焰。但這是布蘭提斯奉上給我的最終祭品，你也明白為什麼我不能允許它失竊。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;遺憾的是，那東西的力量甚至不足以抵擋我的一束火焰。但這是 布蘭提斯 奉上給我的最終祭品，你也明白為什麼我不能允許它失竊。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,7 +846,7 @@
       <ID>170</ID>
       <DefaultText>&lt;ispeech&gt;你還活著，入侵者？你想用你那迷人的味道誘惑我嗎？&lt;/ispeech&gt;
 
-她哈哈大笑，雙翼在灼熱的空氣中划動，有如枯死樹木的枝幹——乾涸龜裂，嘎嘎作響。</DefaultText>
+她哈哈大笑，雙翼在灼熱的空氣中划動，有如枯死樹木的枝幹—乾涸龜裂，嘎嘎作響。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -856,7 +856,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>[用後空翻和耍雜技吸引巨龍的注意力。]</DefaultText>
+      <DefaultText>[用後空翻和耍雜技吸引巨龍的注意力]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -898,12 +898,12 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>&lt;ispeech&gt;多麼有趣啊。真是一頓盛宴——晚餐在下肚前還會表演一番。&lt;/ispeech&gt;她低沉的笑聲在洞穴中迴盪。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;多麼有趣啊。真是一頓盛宴—晚餐在下肚前還會表演一番。&lt;/ispeech&gt;她低沉的笑聲在洞穴中迴盪。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>儘管話中帶有威脅，巨龍此時似乎很安寧，放鬆地躺坐著，眼神渙散——你有充足的時間撤退。</DefaultText>
+      <DefaultText>儘管話中帶有威脅，巨龍此時似乎很安寧，放鬆地躺坐著，眼神渙散—你有充足的時間撤退。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -930,7 +930,7 @@
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>&lt;ispeech&gt;就憑你，小東西？連巨人們都沒能終結我不朽的生命——你覺得你可以？&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;就憑你，小東西？連巨人們都沒能終結我不朽的生命—你覺得你可以？&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -962,7 +962,7 @@
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>&lt;ispeech&gt;是嗎？我這麼古老的生物，為何需要你這種——纖弱小東西的服務呢？&lt;/ispeech&gt;
+      <DefaultText>&lt;ispeech&gt;是嗎？我這麼古老的生物，為何需要你這種—纖弱小東西的服務呢？&lt;/ispeech&gt;
 
 她巨大的身軀低伏在岩漿中。</DefaultText>
       <FemaleText />
@@ -984,7 +984,7 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>[雙臂交叉抱在胸前。]「你覺得我像是獵物嗎？」</DefaultText>
+      <DefaultText>[雙臂交叉抱在胸前]「你覺得我像是獵物嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1004,7 +1004,7 @@
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>[揮動你的武器。]「你馬上就能見識到了。」</DefaultText>
+      <DefaultText>[揮動你的武器]「你馬上就能見識到了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1014,7 +1014,7 @@
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>[搖頭。]</DefaultText>
+      <DefaultText>[搖頭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1036,7 +1036,7 @@
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>「喂——喂，你當初可沒提到要把我交給龍啊！」</DefaultText>
+      <DefaultText>「喂—喂，你當初可沒提到要把我交給龍啊！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1055,7 +1055,7 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>「為什麼？「古老的巨龍，你為何違反契約？！布蘭提斯曾呼喚你加入戰鬥！」</DefaultText>
+      <DefaultText>「為什麼？古老的巨龍，你為何違反契約？！布蘭提斯 曾呼喚你加入戰鬥！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1104,12 +1104,12 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>「神聖而恐怖的上古龍！巴瑟派我來找……」</DefaultText>
+      <DefaultText>「神聖而恐怖的上古龍！巴瑟 派我來找……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>「為什麼？「古老的巨龍，你為何違反契約？！布蘭提斯曾呼喚你加入戰鬥！」</DefaultText>
+      <DefaultText>「為什麼？古老的巨龍，你為何違反契約？！布蘭提斯 曾呼喚你加入戰鬥！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1141,14 +1141,14 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>「你發誓會用死者的遺骸讓倖存者充飢，但鹿林的靈魂仍然發出飢餓的呻吟。」
+      <DefaultText>「你發誓會用死者的遺骸讓倖存者充飢，但 &lt;g&gt;鹿林&lt;/g&gt;的靈魂仍然發出飢餓的呻吟。」
 
 這雙眼睛瞇了起來。然後其焦點轉向了巨獸。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>「鹿林的靈魂散發著生命的光芒。死者應順從於生者的需求。」
+      <DefaultText>「鹿林 的靈魂散發著生命的光芒。死者應順從於生者的需求。」
 
 這雙眼睛隨著其主人贊許地點頭而上下擺動。</DefaultText>
       <FemaleText />
@@ -1157,7 +1157,7 @@
       <ID>235</ID>
       <DefaultText>「當我的勇士在你周圍合住下頜時，記住是&lt;i&gt;我的&lt;/i&gt;牙齒刺穿了你的皮膚。」
 
-伽拉溫向海龍點點頭，退回了暗影中。</DefaultText>
+ 伽拉溫 向海龍點點頭，退回了暗影中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1176,12 +1176,12 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>&lt;ispeech&gt;點燃瑪珈嵐的神龕把它放低到灰燼之胃中，使布倫蒂斯可以在魂珀之柱前禮拜，看見了。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;點燃 &lt;g&gt;瑪珈嵐&lt;/g&gt;的神龕把它放低到灰燼之胃中，使布倫蒂斯可以在魂珀之柱前禮拜，看見了。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>&lt;ispeech&gt;點燃瑪珈嵐的神龕把它放低到灰燼之胃中，使布倫蒂斯可以在魂珀之柱前禮拜，看見了。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;點燃 &lt;g&gt;瑪珈嵐&lt;/g&gt;的神龕把它放低到灰燼之胃中，使布倫蒂斯可以在魂珀之柱前禮拜，看見了。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

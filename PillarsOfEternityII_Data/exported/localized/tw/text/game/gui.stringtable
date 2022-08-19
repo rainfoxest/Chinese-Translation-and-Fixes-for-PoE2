@@ -6,42 +6,42 @@
 	<Entries>
 		<Entry>
 			<ID>0</ID>
-			<DefaultText>眾神之日</DefaultText>
+			<DefaultText>眾神日</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1</ID>
-			<DefaultText>國王之日</DefaultText>
+			<DefaultText>帝王日</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2</ID>
-			<DefaultText>耀後之日</DefaultText>
+			<DefaultText>耀后日</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3</ID>
-			<DefaultText>人民之日</DefaultText>
+			<DefaultText>民眾日</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4</ID>
-			<DefaultText>兒童之日</DefaultText>
+			<DefaultText>兒童日</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>5</ID>
-			<DefaultText>深冬（Foniverno）</DefaultText>
+			<DefaultText>深冬（Fonivèrno）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>6</ID>
-			<DefaultText>晚冬（Tariverno）</DefaultText>
+			<DefaultText>晚冬（Tarivèrno）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>7</ID>
-			<DefaultText>初春（Preprima）</DefaultText>
+			<DefaultText>初春（Préprima）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -61,7 +61,7 @@
 		</Entry>
 		<Entry>
 			<ID>11</ID>
-			<DefaultText>初夏（Preestu）</DefaultText>
+			<DefaultText>初夏（Préëstu）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -81,7 +81,7 @@
 		</Entry>
 		<Entry>
 			<ID>15</ID>
-			<DefaultText>初秋（Preauton）</DefaultText>
+			<DefaultText>初秋（Préauton）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -101,12 +101,12 @@
 		</Entry>
 		<Entry>
 			<ID>19</ID>
-			<DefaultText>初冬（Preiverno）</DefaultText>
+			<DefaultText>初冬（Préïvèrno）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>20</ID>
-			<DefaultText>正冬（Majiverno）</DefaultText>
+			<DefaultText>正冬（Majivèrno）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -256,7 +256,7 @@
 		</Entry>
 		<Entry>
 			<ID>52</ID>
-			<DefaultText>{0}的攻擊 {1} {2}造成{3}點 {4}傷害。</DefaultText>
+			<DefaultText>{0}{1}{2}造成{3}點{4}傷害。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -301,12 +301,12 @@
 		</Entry>
 		<Entry>
 			<ID>62</ID>
-			<DefaultText>未受傷</DefaultText>
+			<DefaultText>無傷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>63</ID>
-			<DefaultText>健康</DefaultText>
+			<DefaultText>輕微傷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -356,7 +356,7 @@
 		</Entry>
 		<Entry>
 			<ID>73</ID>
-			<DefaultText>冰凍</DefaultText>
+			<DefaultText>冰寒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -371,7 +371,7 @@
 		</Entry>
 		<Entry>
 			<ID>76</ID>
-			<DefaultText>需要{0} {1}。</DefaultText>
+			<DefaultText>需要 {0} {1}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -481,17 +481,17 @@
 		</Entry>
 		<Entry>
 			<ID>98</ID>
-			<DefaultText>{1}殺死了{0}。</DefaultText>
+			<DefaultText>{1}擊殺了{0}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>99</ID>
-			<DefaultText>{1}打倒了{0}。</DefaultText>
+			<DefaultText>{1}擊昏了{0}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>100</ID>
-			<DefaultText>{0}與{1}進行近身戰鬥。</DefaultText>
+			<DefaultText>{0}與{1}發生近身 交戰。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -521,7 +521,7 @@
 		</Entry>
 		<Entry>
 			<ID>106</ID>
-			<DefaultText>包裹</DefaultText>
+			<DefaultText>群組</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -531,7 +531,7 @@
 		</Entry>
 		<Entry>
 			<ID>108</ID>
-			<DefaultText>選擇所有</DefaultText>
+			<DefaultText>全選</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -601,47 +601,47 @@
 		</Entry>
 		<Entry>
 			<ID>122</ID>
-			<DefaultText>{0}受到{1}傷害。</DefaultText>
+			<DefaultText>{0}受到 {1} 傷害。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>123</ID>
-			<DefaultText>{2}對{0}造成{1}傷害。</DefaultText>
+			<DefaultText>{2}對{0}造成 {1} 傷害。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>124</ID>
-			<DefaultText>{0}啟動{1}。</DefaultText>
+			<DefaultText>{0}啟動了{1}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>125</ID>
-			<DefaultText>{0}施放{1}。</DefaultText>
+			<DefaultText>{0}施放了{1}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>126</ID>
-			<DefaultText>{0}通過治療恢復了{1}點生命值。</DefaultText>
+			<DefaultText>{0}被治療了{1}點 生命值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>127</ID>
-			<DefaultText>{2}通過治療為{0}恢復了{1}點生命值。</DefaultText>
+			<DefaultText>{2}治療了{0} {1}點 生命值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>128</ID>
-			<DefaultText>{0}恢復了{1}點生命值。</DefaultText>
+			<DefaultText>{0}恢復了{1}點 生命值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>129</ID>
-			<DefaultText>{2}通過治療為{0}恢復了{1}點生命值。</DefaultText>
+			<DefaultText>{2}治療了{0} {1}點 生命值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>130</ID>
-			<DefaultText>{0}復原了{1}。</DefaultText>
+			<DefaultText>{0}解除了{1}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -661,17 +661,17 @@
 		</Entry>
 		<Entry>
 			<ID>134</ID>
-			<DefaultText>專家模式關閉了遊戲中的很多「助手」功能。想要完全依靠自己的能力和直覺來玩遊戲的玩家，請選擇專家模式。</DefaultText>
+			<DefaultText>專家模式關閉了遊戲中的很多「輔助」功能。想要完全依靠自己的能力和直覺來玩遊戲的玩家，請選擇專家模式。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>135</ID>
-			<DefaultText>角色的生命值首次降到0之時，會陷入殘廢狀態，而不是永久地死去。</DefaultText>
+			<DefaultText>角色的生命值首次降到0之時，會陷入傷殘狀態，而不是永久地死去。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>136</ID>
-			<DefaultText>顯示區域效果法術的影響範圍。</DefaultText>
+			<DefaultText>顯示效應範圍法術的影響範圍。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -681,17 +681,17 @@
 		</Entry>
 		<Entry>
 			<ID>138</ID>
-			<DefaultText>顯示可以解鎖對話選項的對象。</DefaultText>
+			<DefaultText>顯示對話選項的先決條件。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>139</ID>
-			<DefaultText>顯示玩家的個性和聲望對每一個對話選項的影響效果。</DefaultText>
+			<DefaultText>顯示選擇對話選項對玩家聲望、個性的影響。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>140</ID>
-			<DefaultText>將游標移動到敵人身上，會彈出他們已知防禦值與攻擊者的精準的對比結果。</DefaultText>
+			<DefaultText>將游標移動到敵人身上，會彈出他們已知護甲值與攻擊者的精準的對比結果。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -711,7 +711,7 @@
 		</Entry>
 		<Entry>
 			<ID>144</ID>
-			<DefaultText>區域效果高亮</DefaultText>
+			<DefaultText>效應範圍高亮</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -721,7 +721,7 @@
 		</Entry>
 		<Entry>
 			<ID>146</ID>
-			<DefaultText>顯示解鎖互動者</DefaultText>
+			<DefaultText>顯示先決條件</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -752,7 +752,7 @@
 		<Entry>
 			<ID>152</ID>
 			<DefaultText>在&lt;b&gt;詛咒之路&lt;/b&gt;模式中，玩家將遭遇大批敵人，而且敵人實力更強，甚至會利用最狡猾的AI戰術。
-&lt;b&gt;警告：此選項僅適用於渴望最艱難遭遇戰的玩家！</DefaultText>
+&lt;b&gt;警告：此選項僅適用於渴望最艱難遭遇戰的玩家！&lt;/b&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -817,7 +817,7 @@
 		</Entry>
 		<Entry>
 			<ID>165</ID>
-			<DefaultText>被打倒</DefaultText>
+			<DefaultText>擊昏</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -832,7 +832,7 @@
 		</Entry>
 		<Entry>
 			<ID>168</ID>
-			<DefaultText>遊戲</DefaultText>
+			<DefaultText>遊戲性</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -892,7 +892,7 @@
 		</Entry>
 		<Entry>
 			<ID>180</ID>
-			<DefaultText>目標摧毀</DefaultText>
+			<DefaultText>消滅目標</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -907,7 +907,7 @@
 		</Entry>
 		<Entry>
 			<ID>183</ID>
-			<DefaultText>近戰開始</DefaultText>
+			<DefaultText>近戰交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -917,12 +917,12 @@
 		</Entry>
 		<Entry>
 			<ID>185</ID>
-			<DefaultText>生命值較低</DefaultText>
+			<DefaultText>低生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>186</ID>
-			<DefaultText>生命值較低</DefaultText>
+			<DefaultText>低生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1117,7 +1117,7 @@
 		</Entry>
 		<Entry>
 			<ID>225</ID>
-			<DefaultText>護甲</DefaultText>
+			<DefaultText>護甲值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1312,7 +1312,7 @@
 		</Entry>
 		<Entry>
 			<ID>264</ID>
-			<DefaultText>第{7}天，第{2}小時</DefaultText>
+			<DefaultText>第{7}天，{2}小時</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1402,12 +1402,12 @@
 		</Entry>
 		<Entry>
 			<ID>283</ID>
-			<DefaultText>已使用：{0}</DefaultText>
+			<DefaultText>已使用： {0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>284</ID>
-			<DefaultText>使用了器械技能解鎖。</DefaultText>
+			<DefaultText>使用了 器械 技能解鎖。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1422,7 +1422,7 @@
 		</Entry>
 		<Entry>
 			<ID>287</ID>
-			<DefaultText>需要器械技能：{0}。</DefaultText>
+			<DefaultText>需要 器械 技能：{0}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1432,7 +1432,7 @@
 		</Entry>
 		<Entry>
 			<ID>289</ID>
-			<DefaultText>中</DefaultText>
+			<DefaultText>中等</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1442,7 +1442,7 @@
 		</Entry>
 		<Entry>
 			<ID>291</ID>
-			<DefaultText>超難</DefaultText>
+			<DefaultText>極難</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1457,17 +1457,17 @@
 		</Entry>
 		<Entry>
 			<ID>294</ID>
-			<DefaultText>{0}銅幣</DefaultText>
+			<DefaultText>{0} 銅幣</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>295</ID>
-			<DefaultText>你獲得了{0}銅幣。</DefaultText>
+			<DefaultText>你獲得了 {0} 銅幣。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>296</ID>
-			<DefaultText>你失去了{0}銅幣。</DefaultText>
+			<DefaultText>你失去了 {0} 銅幣。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1482,12 +1482,12 @@
 		</Entry>
 		<Entry>
 			<ID>299</ID>
-			<DefaultText>你獲得了一件物品（{1}）：{0}。</DefaultText>
+			<DefaultText>你獲得了物品（{1}）：{0}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>300</ID>
-			<DefaultText>你失去了一件物品（{1}）：{0}。</DefaultText>
+			<DefaultText>你失去了物品（{1}）：{0}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1497,7 +1497,7 @@
 		</Entry>
 		<Entry>
 			<ID>302</ID>
-			<DefaultText>生物圖鑒</DefaultText>
+			<DefaultText>生物圖鑑</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1752,12 +1752,12 @@
 		</Entry>
 		<Entry>
 			<ID>353</ID>
-			<DefaultText>成功！已解除陷阱。</DefaultText>
+			<DefaultText>成功！陷阱 已被解除。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>354</ID>
-			<DefaultText>未能解除陷阱。</DefaultText>
+			<DefaultText>未能解除 陷阱。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1792,12 +1792,12 @@
 		</Entry>
 		<Entry>
 			<ID>363</ID>
-			<DefaultText>簡要統計</DefaultText>
+			<DefaultText>基礎屬性</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>364</ID>
-			<DefaultText>詳細統計</DefaultText>
+			<DefaultText>屬性詳情</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1812,12 +1812,12 @@
 		</Entry>
 		<Entry>
 			<ID>367</ID>
-			<DefaultText>{0}%傷害與治療，{1}強韌</DefaultText>
+			<DefaultText>{0}% &lt;g&gt;傷害&lt;/g&gt;與治療、{1} 強韌</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>368</ID>
-			<DefaultText>{0}%生命值，{1}強韌</DefaultText>
+			<DefaultText>{0}% 生命值、{1} 強韌</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1827,17 +1827,17 @@
 		</Entry>
 		<Entry>
 			<ID>370</ID>
-			<DefaultText>{0}精準，{1}反射</DefaultText>
+			<DefaultText>{0} 精準、{1} 反射</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>371</ID>
-			<DefaultText>{0}%效果範圍，{1}%戰技持續時間，{2}意志</DefaultText>
+			<DefaultText>{0}% 效應範圍、{1}% 戰技持續時間、{2} 意志</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>372</ID>
-			<DefaultText>{0}負面效果持續時間，{1}格擋，{2}意志</DefaultText>
+			<DefaultText>{0} 負面效果持續時間、{1} 格擋、{2} 意志</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1857,7 +1857,7 @@
 		</Entry>
 		<Entry>
 			<ID>376</ID>
-			<DefaultText>主動效果</DefaultText>
+			<DefaultText>生效中的效果</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1867,7 +1867,7 @@
 		</Entry>
 		<Entry>
 			<ID>378</ID>
-			<DefaultText>無法解除陷阱！要觸發它嗎？</DefaultText>
+			<DefaultText>&lt;g&gt;陷阱&lt;/g&gt;無法解除！要觸發它嗎？</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1892,32 +1892,32 @@
 		</Entry>
 		<Entry>
 			<ID>383</ID>
-			<DefaultText>擊敗敵人總數</DefaultText>
+			<DefaultText>擊殺總數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>384</ID>
-			<DefaultText>擊敗的最強敵人</DefaultText>
+			<DefaultText>擊殺最強</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>385</ID>
-			<DefaultText>組隊的最長時間</DefaultText>
+			<DefaultText>在隊最久</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>386</ID>
-			<DefaultText>擊敗敵人數最多</DefaultText>
+			<DefaultText>殺敵最多</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>387</ID>
-			<DefaultText>傷害總計最高</DefaultText>
+			<DefaultText>傷害最多</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>388</ID>
-			<DefaultText>單次傷害最高</DefaultText>
+			<DefaultText>最高傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2197,7 +2197,7 @@
 		</Entry>
 		<Entry>
 			<ID>446</ID>
-			<DefaultText>針對{0}防禦</DefaultText>
+			<DefaultText>攻擊 {0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2212,12 +2212,12 @@
 		</Entry>
 		<Entry>
 			<ID>449</ID>
-			<DefaultText>{0}次/遭遇</DefaultText>
+			<DefaultText>每次遭遇 {0}次</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>450</ID>
-			<DefaultText>{0}次/休息</DefaultText>
+			<DefaultText>每次休息 {0}次</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2227,17 +2227,17 @@
 		</Entry>
 		<Entry>
 			<ID>452</ID>
-			<DefaultText>沒有已學會的樂節。</DefaultText>
+			<DefaultText>無已學會的 樂節</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>453</ID>
-			<DefaultText>已學會的樂節</DefaultText>
+			<DefaultText>已學會的 樂節</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>454</ID>
-			<DefaultText>準備好的讚歌</DefaultText>
+			<DefaultText>準備好的 詠唱</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2267,17 +2267,17 @@
 		</Entry>
 		<Entry>
 			<ID>460</ID>
-			<DefaultText>魔典主動冷卻</DefaultText>
+			<DefaultText>魔典冷卻啟動</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>461</ID>
-			<DefaultText>禁用法術施放</DefaultText>
+			<DefaultText>禁止法術施放</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>462</ID>
-			<DefaultText>集中值不足</DefaultText>
+			<DefaultText>&lt;g&gt;集中值&lt;/g&gt;不足</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2297,7 +2297,7 @@
 		</Entry>
 		<Entry>
 			<ID>466</ID>
-			<DefaultText>{0}銅幣</DefaultText>
+			<DefaultText>{0} 銅幣</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2312,27 +2312,27 @@
 		</Entry>
 		<Entry>
 			<ID>469</ID>
-			<DefaultText>決心有助於縮短負面效果持續時間，以及提升意志和格擋防禦。它反映角色的內在動力、決心和英勇。
+			<DefaultText>決心 有助於縮短負面效果持續時間，以及提升 &lt;g&gt;意志&lt;/g&gt;和 格擋 防禦屬性。它反映角色的內在動力、決心 和英勇。
 
 5 - 膽小
 10 - 普通
-15 - &lt;xg&gt;堅&lt;/xg&gt;強
+15 - &lt;xg&gt;堅強&lt;/xg&gt;
 20 - 無畏</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>470</ID>
-			<DefaultText>力量提升傷害、治療效果和強韌防禦。它代表角色肉體和精神的力量、蠻力以及引導強大魔法的能力。
+			<DefaultText>力量提升傷害、治療效果和 強韌 防禦屬性。它代表角色肉體和精神的力量、蠻力以及引導強大魔法的能力。
 
-5 - 虛弱
+5 - &lt;xg&gt;虛弱&lt;/xg&gt;
 10 - 普通
 15 - &lt;xg&gt;強壯&lt;/xg&gt;
-20 - 力大無窮</DefaultText>
+20 - &lt;xg&gt;力大無窮&lt;/xg&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>471</ID>
-			<DefaultText>敏捷影響角色的所有攻擊、法術和戰技的行動速度，同時也影響反射屬性。它反映角色的手眼協調、迅捷和總體優雅程度。
+			<DefaultText>敏捷影響角色的所有攻擊、法術和戰技的行動速度，同時也影響 反射 防禦屬性。它反映角色的手眼協調、迅捷和總體優雅程度。
 
 5 - 笨拙
 10 - 普通
@@ -2342,97 +2342,97 @@
 		</Entry>
 		<Entry>
 			<ID>472</ID>
-			<DefaultText>智力影響意志屬性以及所有戰技的持續時間和區域效果。它反映角色的邏輯推理能力。
+			<DefaultText>智力影響 &lt;g&gt;意志&lt;/g&gt;防禦屬性 以及所有戰技的持續時間和效應範圍。它反映角色的邏輯推理能力。
 
 5 - 愚鈍
 10 - 普通
-15 - 機敏
-20 - 傑出</DefaultText>
+15 - &lt;xg&gt;聰敏&lt;/xg&gt;
+20 - 英明</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>473</ID>
-			<DefaultText>體質影響生命值和強韌屬性。它反映角色的總體生命值和耐力。
+			<DefaultText>體質影響 生命值 和 強韌 防禦屬性。它反映角色的總體生命和耐力。
 
-5 - 虛弱
+5 - 脆弱
 10 - 普通
-15 - 健康
+15 - 強悍
 20 - 堅不可摧</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>474</ID>
-			<DefaultText>感知影響精準和反射屬性。感知反映角色的判斷力以及觀察入微的直覺能力。
+			<DefaultText>感知影響 &lt;g&gt;精準&lt;/g&gt;和 反射 防禦屬性。它反映角色的判斷力以及觀察入微的直覺能力。
 
 5 - 遲鈍
 10 - 普通
 15 - 機警
-20 - 敏銳</DefaultText>
+20 - &lt;xg&gt;敏銳&lt;/xg&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>475</ID>
-			<DefaultText>人類（一般稱為「平民」）是鹿林、聚鹿帝國、舊瓦利亞和瓦利亞共和國中最常見的種族。雖然體型比不上高大健碩的海裔，但人類的力量和意志力極為出眾。</DefaultText>
+			<DefaultText>人類（一般稱為「平民」）是 鹿林、聚鹿帝國、&lt;g&gt;舊瓦利亞&lt;/g&gt;和 &lt;g&gt;瓦利亞共和國&lt;/g&gt;中最常見的種族。雖然體型比不上高大健碩的海裔，但人類的力量和意志力極為出眾。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>476</ID>
-			<DefaultText>精靈是艾爾·格蘭芬瑟和若移冰地的主流種族，在鹿林和聚鹿也極為常見。精靈族以迅捷和聰穎聞名於世，但生性不喜歡與其他種族打交道。</DefaultText>
+			<DefaultText>精靈是 &lt;g&gt;艾爾·格蘭芬瑟&lt;/g&gt;和 &lt;g&gt;若移冰地&lt;/g&gt;的主流種族，在 &lt;g&gt;鹿林&lt;/g&gt;和 &lt;g&gt;聚鹿&lt;/g&gt;也極為常見。精靈族以迅捷和聰穎聞名於世，但生性不喜歡與其他種族打交道。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>477</ID>
-			<DefaultText>矮人是世上最喜歡旅行的種族，其足跡走遍世界每一個角落，建立的殖民地不計其數。他們常見於鹿林、瓦利亞共和國，幾乎他們殖民過的土地上都能看到他們的身影。矮人以強大的力量和韌性而著稱。</DefaultText>
+			<DefaultText>矮人是世上最喜歡旅行的種族，其足跡走遍世界每一個角落，建立的殖民地不計其數。他們常見於 鹿林、瓦利亞共和國，幾乎他們殖民過的土地上都能看到他們的身影。矮人以強大的力量和韌性而著稱。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>478</ID>
-			<DefaultText>神嗣是獲得神明之祝福，身上帶有神祇元素的基斯（「文明」種族統稱）之子。不過有人並不認為這是神的祝福。這些元素可能會以多種形式表現出來，並且常常伴隨著神秘力量。典型例子是頭部生長異常，神嗣無法穿戴保護性頭盔，因為幾乎找不到合適的頭盔。由於不同尋常的特性，以及無法繁衍下一代，神嗣經常被視為可怕的異類。</DefaultText>
+			<DefaultText>神嗣是獲得神明之祝福，身上帶有神祇元素的 基斯（「文明」種族統稱）之子。不過有人並不認為這是神的祝福。這些元素可能會以多種形式表現出來，並且常常伴隨著神秘力量。典型例子是頭部生長異常，神嗣無法穿戴保護性頭盔，因為幾乎找不到合適的頭盔。由於不同尋常的特性，以及無法繁衍下一代，神嗣經常被視為可怕的異類。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>479</ID>
-			<DefaultText>絨精是體型最小的文明種族，但很多其他種族並不認可他們為文明種族。絨精的耳朵很大，膚色呈雙色調，體表多毛。常見於艾爾·格蘭芬瑟、以撒密陀以及鹿林的部分地區。他們心理承受能力強，感覺敏銳。</DefaultText>
+			<DefaultText>絨精是體型最小的 &lt;g&gt;基斯&lt;/g&gt;種族，但很多其他種族並不認可他們為文明種族。絨精的耳朵很大，膚色呈雙色調，體表多毛。常見於 艾爾·格蘭芬瑟、以撒密陀以及 &lt;g&gt;鹿林&lt;/g&gt;的部分地區。他們心理承受能力強，感知敏銳。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>480</ID>
-			<DefaultText>實力強大的海裔是最大的文明種族，常見於海上或瀕海地區。雖然他們不是水棲生物，但與水的聯繫密切，他們的眾多文明，諸如努瓦泰，便是有名的海上霸主。他們以無以倫比的力量聞名於世。</DefaultText>
+			<DefaultText>實力強大的海裔是最大的文明種族，常見於海上或瀕海地區。雖然他們不是水棲生物，但與水的聯繫密切，他們的眾多文明，諸如 努瓦泰，便是有名的海上霸主。他們以無以倫比的 力量 聞名於世。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>481</ID>
-			<DefaultText>草原民族（或稱「提坦人」）來自北半球的一個遠古文明，在過去幾千年前逐漸向南遷移到赤道附近的聚鹿叢林地區。他們常見於聚鹿及其之前的殖民領地—瑞德賽拉斯和鹿林。</DefaultText>
+			<DefaultText>草原民族（或稱「提坦」）來自北半球的一個遠古文明，在過去幾千年前逐漸向南遷移到赤道附近的 &lt;g&gt;聚鹿&lt;/g&gt;叢林地區。他們常見於聚鹿及其之前的殖民領地— 瑞德賽拉斯 和 鹿林。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>482</ID>
-			<DefaultText>海洋民族（卡班德拉人）起源於舊帝國西部版圖邊緣的赤道附近，後來慢慢分佈到東部和南部。海洋民族文化在舊瓦利亞、瓦利亞共和國中佔據主流地位，而且由於瓦利亞商行的對外活動而傳播到世界上的其他大部分地區。</DefaultText>
+			<DefaultText>海洋民族（卡班德拉）起源於舊帝國西部版圖邊緣的赤道附近，後來慢慢分佈到東部和南部。海洋民族文化在 舊瓦利亞、瓦利亞共和國 中佔據主流地位，而且由於 &lt;g&gt;瓦利亞商行&lt;/g&gt;的對外活動而傳播到世界上的其他大部分地區。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>483</ID>
-			<DefaultText>熱帶草原民族（納特蘭人）起源於艾歐拉東域北部的赤道正南方。在一萬多年間他們大部分留在原地生活。「納特蘭」一詞其實就是「忠於本源」之意。他們常見於以撒密陀、瑞德賽拉斯和艾歐拉東域的其他地區，但很少出現在舊帝國和亡焰列島。</DefaultText>
+			<DefaultText>熱帶草原民族（納特蘭）起源於 艾歐拉 東域北部的赤道正南方。在一萬多年間他們大部分留在原地生活。「納特蘭」一詞其實就是「忠於本源」之意。他們常見於以撒密陀、瑞德賽拉斯 和艾歐拉東域的其他地區，但很少出現在舊帝國和 亡焰列島。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>484</ID>
-			<DefaultText>木精靈的起源可以追溯到當今聚鹿的最北部，是後來才向南遷移到大陸的森林和叢林地帶的。在歷史上他們與草原民族有很深的淵源，兩者經常出現在同一個地區。有些歷史學家認為木精靈在過去某一時刻遷移到艾爾·格蘭芬瑟，不過他們在文化上與聚鹿、格蘭芬瑟的精靈完全不同。他們很少出現在聚鹿和艾歐拉東域之外的地方。</DefaultText>
+			<DefaultText>木精靈的起源可以追溯到當今 &lt;g&gt;聚鹿&lt;/g&gt;的最北部，是後來才向南遷移到大陸的森林和叢林地帶的。在歷史上他們與草原民族有很深的淵源，兩者經常出現在同一個地區。有些歷史學家認為木精靈在過去某一時刻遷移到 艾爾·格蘭芬瑟，不過他們在文化上與聚鹿、格蘭芬瑟的精靈完全不同。他們很少出現在聚鹿和艾歐拉東域之外的地方。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>485</ID>
-			<DefaultText>蒼精靈（格蘭費倫人）是在多久以前來到南極地帶的不清楚，但從他們與海裔商人的持續接觸來看，他們已經在那裡居住了至少12000年。他們是世上居住地點最固定的民族之一，僅在極地區域中遷移，很少向北方深入。他們很少進入北方地區，即便被外人看見，也會被視為異類。</DefaultText>
+			<DefaultText>蒼精靈（格蘭費倫）是在多久以前來到南極地帶的不清楚，但從他們與海裔商人的持續接觸來看，他們已經在那裡居住了至少12000年。他們是世上居住地點最固定的民族之一，僅在極地區域中遷移，很少向北方深入。他們很少進入北方地區，即便被外人看見，也會被視為異類。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>486</ID>
-			<DefaultText>山地矮人（艾塔波人）起源於舊帝國的聚鹿地區，但遠在人類和精靈抵達之前就離開了。出於探索和遷移的本能，他們在一千多年的時間裡快速散佈到世界各地。山地矮人也會建立定居地，甚至成立小國，但他們經常出現在其他文明當中，大部分是舊瓦利亞、瓦利亞共和國和鹿林。</DefaultText>
+			<DefaultText>山地矮人（艾塔波）起源於舊帝國的聚鹿地區，但遠在人類和精靈抵達之前就離開了。出於探索和遷移的本能，他們在一千多年的時間裡快速散佈到世界各地。山地矮人也會建立定居地，甚至成立小國，但他們經常出現在其他文明當中，大部分是 舊瓦利亞、瓦利亞共和國 和 鹿林。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>487</ID>
-			<DefaultText>大部分寒地矮人（恩努塔尼克人）居住在納斯塔寇的遙遠南方島嶼上，與遷移而來蒼精靈以及沿岸的海裔船隊共同生活在岩石苔原和白雪皚皚的森林之中。恩努塔尼克人與他們的北方遠親一樣，骨子裡流淌著探索之血。寒地矮人最常見於若移冰地或亡焰列島的南部邊地，很少出現在其他地區。</DefaultText>
+			<DefaultText>大部分寒地矮人（恩努塔尼克）居住在納斯塔寇的遙遠南方島嶼上，與遷移而來蒼精靈以及沿岸的海裔船隊共同生活在岩石苔原和白雪皚皚的森林之中。恩努塔尼克人與他們的北方遠親一樣，骨子裡流淌著探索之血。寒地矮人最常見於 若移冰地 或 &lt;g&gt;亡焰列島&lt;/g&gt;的南部邊地，很少出現在其他地區。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2442,7 +2442,7 @@
 		</Entry>
 		<Entry>
 			<ID>489</ID>
-			<DefaultText>火神嗣的屍體類似於炙熱的金屬、燒焦的木頭或石頭，他們的皮膚裂縫中會冒出於人無害的火焰。在亡焰列島，人們對於火神嗣是既尊敬又畏懼。很多當地人認為火神嗣具有喚醒火山的能力，也有人認為如果殺掉火神嗣會導致某一火山被喚醒。在鹿林，火神嗣通常被視為戰爭和火焰女神瑪珈嵐的祝福象徵。</DefaultText>
+			<DefaultText>火神嗣的軀體類似於炙熱的金屬、燒焦的木頭或石頭，他們的皮膚裂縫中會冒出於人無害的火焰。在 亡焰列島，人們對於火神嗣是既尊敬又畏懼。很多當地人認為火神嗣具有喚醒火山的能力，也有人認為如果殺掉火神嗣會導致某一火山被喚醒。在 鹿林，火神嗣通常被視為戰爭和火焰女神 &lt;g&gt;瑪珈嵐&lt;/g&gt;的祝福象徵。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2452,109 +2452,132 @@
 		</Entry>
 		<Entry>
 			<ID>491</ID>
-			<DefaultText>在各種神嗣之中，月神嗣是最容易被世人接納的。雖然對於某些人來說，他們的膚色以及前額上長出來的大塊月亮形狀突出物看起來挺怪異的，但在其他人看來他們的外貌還是比較順看的。水手比較信奉月神嗣，認為他們能帶來好運，但至於能帶來什麼樣的好運，誰也不清楚。</DefaultText>
+			<DefaultText>在各種神嗣之中，月神嗣是最容易被世人接納的。雖然對於某些人來說，他們的膚色以及前額上長出來的大塊月亮形狀突出物看起來挺怪異的，但在其他 &lt;g&gt;基斯&lt;/g&gt;看來他們的外貌還是比較順看的。水手比較信奉月神嗣，認為他們能帶來好運，但至於能帶來什麼樣的好運，誰也不清楚。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>492</ID>
-			<DefaultText>家絨精常見於艾歐拉東域（也是他們的發源地）的眾多森林地區，偶爾也會以奴隸身份出現在上述地區和舊帝國。與野絨精不同的是，家絨精的臉部和身體上的毛髮少很多，因此對於其他人類種族來說比較容易接受。雖然在亡焰列島上也有他們的蹤影，但數量並不多。</DefaultText>
+			<DefaultText>家絨精常見於艾歐拉東域（也是他們的發源地）的眾多森林地區，偶爾也會以奴隸身份出現在上述地區和舊帝國。與野絨精不同的是，家絨精的臉部和身體上的毛髮少很多，因此對於其他 &lt;g&gt;基斯&lt;/g&gt;來說比較容易接受。雖然在 &lt;g&gt;亡焰列島&lt;/g&gt;上也有他們的蹤影，但數量並不多。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>493</ID>
-			<DefaultText>野絨精是居住在熱帶之間的森林和叢林深處的「原始」絨精。雖然他們與家絨精完全獨立開來只有一千年時間，但還是很容易通過他們毛髮濃密的臉部和身體區分出來。野絨精通常生活在艾爾‧格蘭芬瑟最遠的邊地，由於他們是奴隸販子的重點關注對象，以及世人的偏見，所以他們很少出現在其他地方。</DefaultText>
+			<DefaultText>野絨精是居住在熱帶之間的森林和叢林深處的「原始」絨精。雖然他們與家絨精完全獨立開來只有一千年時間，但還是很容易通過他們毛髮濃密的臉部和身體區分出來。野絨精通常生活在 艾爾·格蘭芬瑟 最遠的邊地，由於他們是奴隸販子的重點關注對象，以及世人的偏見，所以他們很少出現在其他地方。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>494</ID>
-			<DefaultText>沿岸海裔人大部分來自於努瓦泰的北部國家，在舊帝國和艾歐拉東域的很多人眼中，他們是個好戰種族。他們於數千年前發源於亡焰列島，但由於時間久遠和距離太遠的緣故，他們早就與遙遠的同宗胡亞納人毫無瓜葛。沿岸海裔與大海的聯繫並沒有列島海裔那般密切，而且皮膚色調偏冷。</DefaultText>
+			<DefaultText>沿岸海裔人大部分來自於 &lt;g&gt;努瓦泰&lt;/g&gt;的北部國家，在舊帝國和艾歐拉東域的很多人眼中，他們是個好戰種族。他們於數千年前發源於 亡焰列島，但由於時間久遠和距離太遠的緣故，他們早就與遙遠的同宗 &lt;g&gt;胡亞納&lt;/g&gt;人毫無瓜葛。沿岸海裔與大海的聯繫並沒有列島海裔那般密切，而且皮膚色調偏冷。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>495</ID>
-			<DefaultText>列島海裔起源於亡焰列島，在一千多年的時間裡大部分留在該地。雖然在生理學方面與他們的沿岸表親相似，但列島海裔的膚色有著明顯的不同—色調偏暖，與沿岸海裔的冷藍、冷綠膚色形成鮮明對比。並非所有列島海裔都與亡焰列島的胡亞納族有聯繫，他們也很少涉足艾歐拉東域，舊帝國更為罕見。</DefaultText>
+			<DefaultText>列島海裔起源於 亡焰列島，在一千多年的時間裡大部分留在該地。雖然在生理學方面與他們的沿岸表親相似，但列島海裔的膚色有著明顯的不同—色調偏暖，與沿岸海裔的冷藍、冷綠膚色形成鮮明對比。並非所有列島海裔都與亡焰列島的 &lt;g&gt;胡亞納&lt;/g&gt;族有聯繫，他們也很少涉足艾歐拉東域，舊帝國更為罕見。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>496</ID>
-			<DefaultText>主要角色：防禦者
-次要角色：攻擊手
+			<DefaultText>主要崗位：防禦者
+次要崗位：攻擊手
+
+資源：紀律
 
 在艾歐拉東域各地訓練有素的軍隊中，戰士都是站在隊列最前排的。在軍事體制組織嚴明的國家中，戰士是最常見的兵種，但在四處遊蕩的僱傭兵、護衛以及其他類型的僱傭組織中也可以見到戰士角色。戰士的共同特徵是耐力超強、近戰防禦能力突出。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>497</ID>
-			<DefaultText>角色：攻擊手
+			<DefaultText>崗位：攻擊手
+
+資源：狡詐
 
 遊蕩者是凶狠的殺手，攻擊招式殘暴而令人畏懼。平時他們經常出現在城市陰暗角落中，在戰場上往往是與敵人展開游鬥的主力。遊蕩者難以捉摸、任意妄為，但常被用作突擊手或奇襲部隊，其極具毀滅性的攻擊可以突破敵方防線，重創敵方士氣。遊蕩者喜歡大批聚集在那些可以穩定地接到僱傭任務的城市中。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>498</ID>
-			<DefaultText>角色：支援
+			<DefaultText>崗位：支援
+ 
+資源：信仰法術
 
 牧師是艾歐拉的虔誠信徒，經常使用宗教魔法。雖然所有牧師都會全身心地信奉某個特定的神祇，但他們的力量源自於自身信仰。與大部分聖武士形成鮮明對比的是，牧師注重哲學、授業以及宗教組織與平民百姓之間的關係。牧師在某一地區的受歡迎程度，很大部分取決於他們本身信奉的神祇在當地人心目中是否受歡迎。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>499</ID>
-			<DefaultText>主要角色：控場
-次要角色：攻擊手
+			<DefaultText>主要崗位：控場
+次要崗位：攻擊手
+
+資源：神秘法術
 
 法師是學院系魔法的大師，同時也是歷史最悠久的秘法傳統的學員。法師組織嚴明，經常建立學院或公會來專門研究和創製魔法，喜歡呆在鼓勵研討、實驗、探究學識的地方。很多功成身就的法師最終也會變得脾氣古怪、自命不凡，而且對超自然的神秘事物有著不可遏止的興趣。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>500</ID>
-			<DefaultText>主要角色：控場
-次要角色：防禦者
+			<DefaultText>主要崗位：控場
+次要崗位：防禦者
+
+資源：怒氣
 
 暴徒。瘋子。狂戰士。城市居民經常使用帶點貶義的「野蠻人」來稱呼這些來自鄉間的戰士，但他們在戰場上的強悍勇猛著實令人敬佩。在一些文化中，野蠻人充當著一種特殊的、幾乎具有宗教色彩的角色，但在很多地方，野蠻人任意妄為、英勇無畏的作戰風格才是戰士的真我本色。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>501</ID>
-			<DefaultText>主要角色：攻擊手
-次要角色：防禦者
+			<DefaultText>主要崗位：攻擊手
+次要崗位：防禦者
+
+資源：羈絆
 
 遊俠是守護森林的戰士，同時也是狩獵大師。他們常見於世界各地的荒野之中，總有一個與之靈魂聯結的動物夥伴伴隨左右。由於喜歡獨立和離群索居的生活方式，遊俠很少加入到大規模戰鬥部隊中，不過他們經常被僱傭為斥候或嚮導。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>502</ID>
-			<DefaultText>主要角色：控場
-次要角色：支援、攻擊手
+			<DefaultText>主要崗位：控場
+次要崗位：支援、攻擊手
+
+資源：自然法術
 
 艾歐拉的所有生靈，包括動植物，有時甚至是活著的石頭，體內都流淌著一種靈力。而深信萬物有靈論的德魯伊可以利用這種力量。雖然宗教信仰對於德魯伊來說並不是必須的，但他們對自然世界有著敬畏之心，對於自然界的秘密也有著強烈的興趣。在大多數文明中，德魯伊被認為是原始型魔法師，但在格蘭芬瑟、納斯塔寇和很多田園文明當中，他們有著較高的影響力和權威。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>503</ID>
-			<DefaultText>主要角色：支援
-次要角色：防禦者
+			<DefaultText>主要崗位：支援
+次要崗位：防禦者
+
+資源：熱誠
 
 聖武士是軍事狂熱者，畢生獻身於某一位神衹或統治者，甚至是某種生活之道。在任何一個國家裡，只要有一群志氣相投的狂熱分子建立起一個致力於實現自己理想的武士社團，那麼肯定就有聖武士的存在。在志同道合的人當中，聖武士備受他人尊敬和欽佩，不過也有點畏懼。很多聖武士在軍隊和僱傭兵商行中擔當領袖角色，但在戰鬥白熱化之時他們的狂熱常常會打亂指揮體系，也會使他們失去理智。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>504</ID>
-			<DefaultText>主要角色：攻擊手
-次要角色：防禦者
+			<DefaultText>主要崗位：攻擊手
+次要崗位：防禦者
+
+資源：苦痛
+第二資源：禁慾
 
 在過去幾百年間，以撒密陀和艾歐拉東域如雨後春筍般出現了各種各樣的戰鬥團體，武僧便是其中主力。很多武僧組織都師承同一個不朽祖師特塔克，但個別組織在術業專攻、品德和倫理方面都有很大差異。平民百姓敬佩紀律嚴明的武僧，但同時又認為他們是一群捉摸不定、僅僅是保留著一點心智的怪人。就連僱傭兵和其他冒險者都不知道如何跟他們打交道。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>505</ID>
-			<DefaultText>角色：控場、攻擊手
+			<DefaultText>崗位：控場、攻擊手
+ 
+資源：集中值
 
-譯靈使是最近才出現在艾歐拉東域的，他們曾經被格蘭芬瑟人稱為「心靈獵手」。譯靈使能夠直接接觸並操控他人的靈魂和心智，利用盟友或敵人的精粹作為魔法能量來源。大部分譯靈使仍然呆在艾歐拉東域，但與他們類似的實踐者已經遍佈世界各地。時至今日他們已經慢慢為世人接受，但人們仍然普遍不信任，尤其是那些非文明種族。</DefaultText>
+譯靈使是最近才出現在艾歐拉東域的，他們曾經被格蘭芬瑟人稱為「心靈獵手」。譯靈使能夠直接接觸並操控他人的靈魂和心智，利用同伴或敵人的精粹作為魔法能量來源。大部分譯靈使仍然待在艾歐拉東域，但與他們類似的實踐者已經遍佈世界各地。時至今日他們已經慢慢為世人接受，但人們仍然普遍不信任，尤其是那些非文明種族。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>506</ID>
-			<DefaultText>角色：支援、控場
+			<DefaultText>崗位：支援、控場
+ 
+資源：樂節
 
 在艾歐拉的所有國家裡都存在有詠者。很多歷史學家認為詠者是最古老的魔法實踐者，因為他們詠唱的神聖樂節激起周圍遊魂的共同記憶，強迫他們以一種「重演記憶」的方式產生魔法效果。在某些社群裡，詠者會成立說書者和研究者組織，但在大部分地區他們只是一種歷史悠久的本地傳統職業。</DefaultText>
 			<FemaleText/>
@@ -2566,24 +2589,24 @@
 		</Entry>
 		<Entry>
 			<ID>508</ID>
-			<DefaultText>亡焰列島被認為是「已知世界」的東部邊緣。這個由橫跨數千里的數百個島嶼組成的島鏈，主要人口是列島海裔，他們建立了多個胡亞納部落。亡焰列島擁有各種各樣的氣候和生物群落，由此產生了令人眼花繚亂的生物種類。近百年來亡焰列島吸引了許多雄心勃勃的移民商人、探險家和海盜，但由於受到「昂德拉之臼」的毀滅性風暴阻擋，人們無法前往列島東部。
+			<DefaultText>亡焰列島 被認為是「已知世界」的東部邊緣。這個由橫跨數千里的數百個島嶼組成的島鏈，主要人口是 列島海裔，他們建立了多個 &lt;g&gt;胡亞納&lt;/g&gt;部落。亡焰列島擁有各種各樣的氣候和生物群落，由此產生了令人眼花繚亂的生物種類。近百年來亡焰列島吸引了許多雄心勃勃的移民商人、探險家和海盜，但由於受到「昂德拉之臼」的毀滅性風暴阻擋，人們無法前往列島東部。
 
-胡亞納傳說中提到在數千年前有一場遠古大災難，導致所有人喪生。這次事件的細節已經無從可考，但胡亞納敘事家聲稱那場災難摧毀了人們建造的一切，甚至連最龐大的城市也沉入到海底。</DefaultText>
+胡亞納 傳說中提到在數千年前有一場遠古大災難，導致所有人喪生。這次事件的細節已經無從可考，但胡亞納敘事家聲稱那場災難摧毀了人們建造的一切，甚至連最龐大的城市也沉入到海底。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>509</ID>
-			<DefaultText>以撒密陀平原位於艾歐拉東域的瑞德賽拉斯北部，是一個遼闊而肥沃的大草原，當地百姓和絨精居民在草原上耕作。以撒密陀文明是世上最古老的文明之一，同時也是最不具備帝國主義色彩的，因此在過去數千年時間裡很少向外擴張。以撒密陀社群非常注重學習和知識，以他們的哲學家和文人為尊。</DefaultText>
+			<DefaultText>以撒密陀位於艾歐拉東域的 瑞德賽拉斯 北部，是一個遼闊而肥沃的大草原，當地百姓和絨精居民在草原上耕作。以撒密陀文明是世上最古老的文明之一，同時也是最不具備帝國主義色彩的，因此在過去數千年時間裡很少向外擴張。以撒密陀社群非常注重學習和知識，以他們的哲學家和文人為尊。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>510</ID>
-			<DefaultText>舊瓦利亞曾經是南部海域的明珠，現在卻由於組成帝國的各個商業國家長期衝突而支離破碎。舊瓦利亞國家的人口由許多人類和矮人組成，仍然具有不容小覷的實力，其豐富的文化底蘊也足以引以為傲。作為舊帝國最南端之地，舊瓦利亞與其北方鄰居聚鹿的命運不謀而合，正逐漸失去他們最繁榮的殖民領地—瓦利亞共和國。許多身處亡焰列島的舊瓦利亞人與龐大的海盜聯合勢力—流亡皇族有著千絲萬縷的聯繫。</DefaultText>
+			<DefaultText>舊瓦利亞 曾經是南部海域的明珠，現在卻由於組成帝國的各個商業國家長期衝突而支離破碎。舊瓦利亞國家的人口由許多人類和矮人組成，仍然具有不容小覷的實力，其豐富的文化底蘊也足以引以為傲。作為舊帝國最南端之地，舊瓦利亞 與其北方鄰居 &lt;g&gt;聚鹿&lt;/g&gt;的命運不謀而合，正逐漸失去他們最繁榮的殖民領地— 瓦利亞共和國。許多身處 &lt;g&gt;亡焰列島&lt;/g&gt;的舊瓦利亞 人與龐大的海盜聯合勢力— 流亡皇族 有著千絲萬縷的聯繫。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>511</ID>
-			<DefaultText>實力強大的努瓦泰海上王國由沿岸海裔所控制，其統治者是一位蘭迦努伊。作為當代舊帝國之中最強盛的勢力，努瓦泰一直積極地向亡焰列島擴張，以奪取他們自己受風暴影響嚴重的土地上缺乏的自然資源。努瓦泰領地中有不少人類、矮人和絨精，但大部分是商人或者是數百年前被努瓦泰佔領的舊王國遺民。
+			<DefaultText>實力強大的 &lt;g&gt;努瓦泰&lt;/g&gt;海上王國由沿岸海裔所控制，其統治者是一位 蘭迦努伊。作為當代舊帝國之中最強盛的勢力，&lt;g&gt;努瓦泰&lt;/g&gt;一直積極地向亡焰列島擴張，以奪取他們自己受風暴影響嚴重的土地上缺乏的自然資源。努瓦泰領地中有不少人類、矮人和絨精，但大部分是商人或者是數百年前被努瓦泰佔領的舊王國遺民。
 
 根據傳說，努瓦泰人在一場可怕的大災難之後來到他們的領地，但是隨著時間的推移，這一事件的詳細經過早已不得而知。</DefaultText>
 			<FemaleText/>
@@ -2600,7 +2623,7 @@
 		</Entry>
 		<Entry>
 			<ID>514</ID>
-			<DefaultText>破碎的若移冰地是一大塊極地冰的南方部分，居住在這裡的是蒼精靈和一些勇敢的探險家、放逐者和冒險者建立的小型殖民地。若移冰地中沒有任何植物生長，卻有著很多生命力頑強的危險動物，它們以捕殺海中獵物或互相捕殺為生。</DefaultText>
+			<DefaultText>破碎的 若移冰地 是一大塊極地冰的南方部分，居住在這裡的是蒼精靈和一些勇敢的探險家、放逐者和冒險者建立的小型殖民地。若移冰地中沒有任何植物生長，卻有著很多生命力頑強的危險動物，它們以捕殺海中獵物或互相捕殺為生。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2720,7 +2743,7 @@
 		</Entry>
 		<Entry>
 			<ID>538</ID>
-			<DefaultText>流浪漢</DefaultText>
+			<DefaultText>流浪者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2765,7 +2788,7 @@
 		</Entry>
 		<Entry>
 			<ID>547</ID>
-			<DefaultText>襲擊者</DefaultText>
+			<DefaultText>劫掠者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2800,7 +2823,7 @@
 		</Entry>
 		<Entry>
 			<ID>554</ID>
-			<DefaultText>第{0}幕，{1}</DefaultText>
+			<DefaultText>第{0}幕, {1}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2860,7 +2883,7 @@
 		</Entry>
 		<Entry>
 			<ID>572</ID>
-			<DefaultText>鹹桅桿</DefaultText>
+			<DefaultText>咸桅杆</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2925,7 +2948,7 @@
 		</Entry>
 		<Entry>
 			<ID>586</ID>
-			<DefaultText>重玩</DefaultText>
+			<DefaultText>回放</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2950,7 +2973,7 @@
 		</Entry>
 		<Entry>
 			<ID>591</ID>
-			<DefaultText>統計：</DefaultText>
+			<DefaultText>數值：</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3050,7 +3073,7 @@
 		</Entry>
 		<Entry>
 			<ID>655</ID>
-			<DefaultText>{1}，（{0}/天）</DefaultText>
+			<DefaultText>{1}，({0}/日)</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3160,7 +3183,7 @@
 		</Entry>
 		<Entry>
 			<ID>690</ID>
-			<DefaultText>艾爾‧格蘭芬瑟</DefaultText>
+			<DefaultText>艾爾·格蘭芬瑟</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3270,22 +3293,22 @@
 		</Entry>
 		<Entry>
 			<ID>716</ID>
-			<DefaultText>最多暴擊</DefaultText>
+			<DefaultText>暴擊最多</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>717</ID>
-			<DefaultText>最多命中</DefaultText>
+			<DefaultText>命中最多</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>718</ID>
-			<DefaultText>受到最多的傷害</DefaultText>
+			<DefaultText>承傷最多</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>719</ID>
-			<DefaultText>被打倒最多次</DefaultText>
+			<DefaultText>昏迷最多</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3305,22 +3328,22 @@
 		</Entry>
 		<Entry>
 			<ID>723</ID>
-			<DefaultText>掌管輪迴、門扉和生死的神祇，聚鹿人稱呼他為「貝拉斯」，而瓦利亞人稱呼他為「希若洛」。人們通常會把貝拉斯的雕像或形象刻在門扉、窗戶或者通往另一處地點的「傳送門」處。貝拉斯的神職相對較小，這可能是因為他不常與信徒溝通的緣故。然而，貝拉斯擁有許許多多的請願者和臨時信徒。</DefaultText>
+			<DefaultText>掌管輪迴、門扉和生死的神祇，聚鹿 人稱呼衪為「貝拉斯」，而 &lt;g&gt;瓦利亞&lt;/g&gt;人稱呼他為「希若洛」。人們通常會把貝拉斯的雕像或形象刻在門扉、窗戶或者通往另一處地點的「傳送門」處。貝拉斯的神職相對較小，這可能是因為他不常與信徒溝通的緣故。然而，貝拉斯擁有許許多多的請願者和臨時信徒。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>724</ID>
-			<DefaultText>聚鹿人將光明、救贖和重生之神稱為「俄撒斯」。在聚鹿帝國和瑞德賽拉斯，信奉俄撒斯仍然是主流，但由於在聖戰中作為俄撒斯化身的聖維德溫入侵了鹿林（最終死在海歌特堡城下），因此在鹿林的大多數城市中禁止信奉俄撒斯。海歌特堡一戰後，俄撒斯便不知所蹤，大部分人都認為他已戰死。</DefaultText>
+			<DefaultText>&lt;g&gt;聚鹿&lt;/g&gt;人將光明、救贖和重生之神稱為「俄撒斯」。在聚鹿帝國和 瑞德賽拉斯，信奉俄撒斯仍然是主流，但由於在 &lt;g&gt;聖戰&lt;/g&gt;中作為俄撒斯化身的聖維德溫入侵了鹿林（最終死在海歌特堡城下），因此在鹿林的大多數城市中禁止信奉俄撒斯。海歌特堡一戰後，俄撒斯便不知所蹤，大部分人都認為衪已戰死。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>725</ID>
-			<DefaultText>瑪珈嵐是戰爭和火焰女神，其信徒人數以鹿林為最。瑪珈嵐的信徒都是最低層的普通士兵、軍官、戰術家和軍事家。他們也會製造戰爭工具，尤其是通過鍛造而來的武器和護甲。她的牧師將戰爭視為不可避免的人類活動，必須一心一意地追求效率。由此帶來的結果是，她並不是渴望或頌揚戰爭的女神，也不追求軍事優越性和富有激情的軍事紀律。</DefaultText>
+			<DefaultText>瑪珈嵐是戰爭和火焰女神，其信徒人數以 &lt;g&gt;鹿林&lt;/g&gt;為最。瑪珈嵐的信徒都是最低層的普通士兵、軍官、戰術家和軍事家。他們也會製造戰爭工具，尤其是通過鍛造而來的武器和護甲。衪的牧師將戰爭視為不可避免的人類活動，必須一心一意地追求效率。由此帶來的結果是，衪並不是渴望或頌揚戰爭的女神，也不追求軍事優越性和富有激情的軍事紀律。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>726</ID>
-			<DefaultText>司坎，又稱「沉默奴隸」，是秘密憎恨、怨恨和暴亂之神。在世人眼中，他通常被描繪成一個禿頂的小個子，全身佈滿傷痕，耳朵和鼻子都被割掉。他外表看起來唯唯諾諾，眼神沮喪。但是，他的雙眼中隱隱閃爍著仇恨之光，雙拳緊握。有時候他的信徒會在絕望之時，舉行慘絕人寰的儀式，召喚出可怕的司坎化身—傀儡。在鹿林，司坎的信徒人數翻倍，他們都是刑吏和劊子手，最喜歡的虐殺對象是那些高官達貴型犯人。</DefaultText>
+			<DefaultText>司坎，又稱「沉默奴隸」，是秘密憎恨、怨恨和暴亂之神。在世人眼中，他通常被描繪成一個禿頂的小個子，全身佈滿傷痕，耳朵和鼻子都被割掉。他外表看起來唯唯諾諾，眼神沮喪。但是，他的雙眼中隱隱閃爍著仇恨之光，雙拳緊握。有時候他的信徒會在絕望之時，舉行慘絕人寰的儀式，召喚出可怕的司坎化身—傀儡。在 鹿林，司坎的信徒人數翻倍，他們都是刑吏和劊子手，最喜歡的虐殺對象是那些高官達貴型犯人。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3390,7 +3413,7 @@
 		</Entry>
 		<Entry>
 			<ID>740</ID>
-			<DefaultText>達寇茨聖武團是歷史最悠久的聖武士組織，是2000多年前作為達寇茨宮的衛隊而成立的。由於瓦利亞大帝國崩潰，達寇茨聖武團轉型為聲名顯赫的達寇茨家族以及舊瓦利亞文明的保護者和使團。達寇茨聖武團勢力分佈廣泛，有時甚至會因為達寇茨家族的陰謀算計而互相殘殺。在世人心目中，聖武士足智多謀且熱愛生活，因此聞名遐邇。</DefaultText>
+			<DefaultText>達寇茨聖武團是歷史最悠久的聖武士組織，是2000多年前作為達寇茨宮的衛隊而成立的。由於瓦利亞大帝國崩潰，達寇茨聖武團轉型為聲名顯赫的達寇茨家族以及 &lt;g&gt;舊瓦利亞&lt;/g&gt;文明的保護者和使團。達寇茨聖武團勢力分佈廣泛，有時甚至會因為達寇茨家族的陰謀算計而互相殘殺。在世人心目中，聖武士足智多謀且熱愛生活，因此聞名遐邇。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3420,7 +3443,7 @@
 		</Entry>
 		<Entry>
 			<ID>746</ID>
-			<DefaultText>可用房間</DefaultText>
+			<DefaultText>客房</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3465,7 +3488,7 @@
 		</Entry>
 		<Entry>
 			<ID>755</ID>
-			<DefaultText>在{0}裡休息{1}？</DefaultText>
+			<DefaultText>花 {1}：在{0}裡休息？</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3500,37 +3523,37 @@
 		</Entry>
 		<Entry>
 			<ID>762</ID>
-			<DefaultText>組隊時間</DefaultText>
+			<DefaultText>在隊時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>763</ID>
-			<DefaultText>消滅敵人數量</DefaultText>
+			<DefaultText>擊殺總數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>764</ID>
-			<DefaultText>造成傷害總計</DefaultText>
+			<DefaultText>傷害總數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>765</ID>
-			<DefaultText>暴擊</DefaultText>
+			<DefaultText>暴擊次數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>766</ID>
-			<DefaultText>命中</DefaultText>
+			<DefaultText>命中次數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>767</ID>
-			<DefaultText>受到傷害數量</DefaultText>
+			<DefaultText>承傷總數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>768</ID>
-			<DefaultText>被打倒次數</DefaultText>
+			<DefaultText>昏迷次數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3560,12 +3583,12 @@
 		</Entry>
 		<Entry>
 			<ID>782</ID>
-			<DefaultText>付清款項</DefaultText>
+			<DefaultText>付款</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>783</ID>
-			<DefaultText>派出護衛隊</DefaultText>
+			<DefaultText>派出護衛</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3575,7 +3598,7 @@
 		</Entry>
 		<Entry>
 			<ID>785</ID>
-			<DefaultText>派出營救隊</DefaultText>
+			<DefaultText>派遣營救</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3695,12 +3718,12 @@
 		</Entry>
 		<Entry>
 			<ID>810</ID>
-			<DefaultText>在{0}裡休息？</DefaultText>
+			<DefaultText>在 {0} 休息？</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>811</ID>
-			<DefaultText>未命中</DefaultText>
+			<DefaultText>未命中（失手）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3740,7 +3763,7 @@
 		</Entry>
 		<Entry>
 			<ID>819</ID>
-			<DefaultText>冰凍</DefaultText>
+			<DefaultText>冰寒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4190,7 +4213,7 @@
 		</Entry>
 		<Entry>
 			<ID>932</ID>
-			<DefaultText>昂德拉贈禮</DefaultText>
+			<DefaultText>昂德拉福地</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4365,7 +4388,7 @@
 		</Entry>
 		<Entry>
 			<ID>984</ID>
-			<DefaultText>開啟此選項後，在擊殺敵人時將顯示斷肢效果。</DefaultText>
+			<DefaultText>開啟此選項後，在擊殺時將顯示斷肢效果。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4520,7 +4543,7 @@
 		</Entry>
 		<Entry>
 			<ID>1023</ID>
-			<DefaultText>賦予{0}。</DefaultText>
+			<DefaultText>賦予{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4540,7 +4563,7 @@
 		</Entry>
 		<Entry>
 			<ID>1027</ID>
-			<DefaultText>林中小徑是環繞在城堡外圍的道路。升級它們後，在歡愉莊園休息時可獲得體質和體能加成。</DefaultText>
+			<DefaultText>林中小徑是環繞在城堡外圍的道路。升級它們後，在歡愉莊園休息時可獲得 體質 和 體能 加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4775,7 +4798,7 @@
 		</Entry>
 		<Entry>
 			<ID>1074</ID>
-			<DefaultText>回聲石窟</DefaultText>
+			<DefaultText>迴聲石窟</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4820,12 +4843,12 @@
 		</Entry>
 		<Entry>
 			<ID>1083</ID>
-			<DefaultText>安納法沙議會</DefaultText>
+			<DefaultText>靈魂君主議會</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1084</ID>
-			<DefaultText>晨星大廳</DefaultText>
+			<DefaultText>群星之殿</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4845,7 +4868,7 @@
 		</Entry>
 		<Entry>
 			<ID>1088</ID>
-			<DefaultText>獸巢</DefaultText>
+			<DefaultText>鳥巢</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4875,7 +4898,7 @@
 		</Entry>
 		<Entry>
 			<ID>1094</ID>
-			<DefaultText>魂珀監獄</DefaultText>
+			<DefaultText>靈魂魂珀監獄</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4885,12 +4908,12 @@
 		</Entry>
 		<Entry>
 			<ID>1096</ID>
-			<DefaultText>附魔</DefaultText>
+			<DefaultText>強化</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1097</ID>
-			<DefaultText>附魔系</DefaultText>
+			<DefaultText>強化</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4915,77 +4938,77 @@
 		</Entry>
 		<Entry>
 			<ID>1102</ID>
-			<DefaultText>{0}最大生命值</DefaultText>
+			<DefaultText>{0} 最大 生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1104</ID>
-			<DefaultText>{0}生命值</DefaultText>
+			<DefaultText>{0} 生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1106</ID>
-			<DefaultText>{0}近戰精準</DefaultText>
+			<DefaultText>{0} 近戰 精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1107</ID>
-			<DefaultText>{0}遠程精準</DefaultText>
+			<DefaultText>{0} 遠程 精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1108</ID>
-			<DefaultText>{0}格擋</DefaultText>
+			<DefaultText>{0} 格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1109</ID>
-			<DefaultText>{0}強韌</DefaultText>
+			<DefaultText>{0} 強韌</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1110</ID>
-			<DefaultText>{0}反射</DefaultText>
+			<DefaultText>{0} 反射</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1111</ID>
-			<DefaultText>{0}意志</DefaultText>
+			<DefaultText>{0} 意志</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1112</ID>
-			<DefaultText>{0:Value}生命值恢復</DefaultText>
+			<DefaultText>{0:Value} 生命值 恢復</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1113</ID>
-			<DefaultText>{0}行動速度</DefaultText>
+			<DefaultText>{0} 行動速度</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1115</ID>
-			<DefaultText>作為{0:DamageType}時造成{0:Value:DamageProc}傷害</DefaultText>
+			<DefaultText>{0:Value:DamageProc} 傷害值的 {0:DamageType} 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1116</ID>
-			<DefaultText>{0}傷害減免（{1}）</DefaultText>
+			<DefaultText>{0} 傷害減免 ({1})</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1117</ID>
-			<DefaultText>{0}最小傷害</DefaultText>
+			<DefaultText>{0} 最小 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1118</ID>
-			<DefaultText>{0:Value}跨步</DefaultText>
+			<DefaultText>{0:Value} 步幅</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1119</ID>
-			<DefaultText>無法瞄準</DefaultText>
+			<DefaultText>無法指定</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5000,32 +5023,32 @@
 		</Entry>
 		<Entry>
 			<ID>1122</ID>
-			<DefaultText>與{0}個敵人交戰</DefaultText>
+			<DefaultText>{0} &lt;g&gt;交戰&lt;/g&gt;數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1123</ID>
-			<DefaultText>{0}交戰範圍</DefaultText>
+			<DefaultText>{0} &lt;g&gt;交戰&lt;/g&gt;範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1124</ID>
-			<DefaultText>對脫離戰鬥的敵人獲得{0}精準</DefaultText>
+			<DefaultText>{0} 精準【對脫戰的敵人】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1125</ID>
-			<DefaultText>對脫離戰鬥的敵人造成{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害【對脫戰的敵人】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1126</ID>
-			<DefaultText>對交戰免疫</DefaultText>
+			<DefaultText>免疫 交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1127</ID>
-			<DefaultText>{0} {1} 傷害</DefaultText>
+			<DefaultText>{0} &lt;g&gt;{1}&lt;/g&gt;傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5035,17 +5058,17 @@
 		</Entry>
 		<Entry>
 			<ID>1129</ID>
-			<DefaultText>{0}徒手傷害</DefaultText>
+			<DefaultText>{0} 徒手 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1130</ID>
-			<DefaultText>{0}近戰範圍</DefaultText>
+			<DefaultText>{0} 近戰範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1131</ID>
-			<DefaultText>{0}範圍</DefaultText>
+			<DefaultText>{0} 射程</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5055,82 +5078,82 @@
 		</Entry>
 		<Entry>
 			<ID>1133</ID>
-			<DefaultText>每一苦痛造成{0} {1}傷害</DefaultText>
+			<DefaultText>{0} {1} 傷害【每點 苦痛】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1134</ID>
-			<DefaultText>{0}護甲傷害減免</DefaultText>
+			<DefaultText>{0} 護甲傷害減免</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1135</ID>
-			<DefaultText>造成的傷害不低於{0}</DefaultText>
+			<DefaultText>{0} 至少 傷害 造成量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1137</ID>
-			<DefaultText>偷襲生命值低於{0}的敵人</DefaultText>
+			<DefaultText>偷襲 生命值 低於{0}的敵人</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1139</ID>
-			<DefaultText>已標記</DefaultText>
+			<DefaultText>標記</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1140</ID>
-			<DefaultText>敵對效應暫停</DefaultText>
+			<DefaultText>負面效果暫停</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1141</ID>
-			<DefaultText>{0}近戰傷害</DefaultText>
+			<DefaultText>{0} 近戰 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1142</ID>
-			<DefaultText>不因交戰而停止</DefaultText>
+			<DefaultText>不因 交戰 而停止</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1143</ID>
-			<DefaultText>{0}生命值損失</DefaultText>
+			<DefaultText>{0} 生命值 損失</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1144</ID>
-			<DefaultText>{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1145</ID>
-			<DefaultText>{0}命中所獲集中值</DefaultText>
+			<DefaultText>{0} 集中值【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1146</ID>
-			<DefaultText>{0}射線傷害</DefaultText>
+			<DefaultText>{0} 射線 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1147</ID>
-			<DefaultText>吸取{0}決心，獲得{1}格擋</DefaultText>
+			<DefaultText>吸取 {0} 決心，獲得 {1} 格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1148</ID>
-			<DefaultText>再次施加所有傷害的{0}</DefaultText>
+			<DefaultText>{0} 所受所有傷害再次施加</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1149</ID>
-			<DefaultText>對附近敵人再次施加所有傷害的{0}</DefaultText>
+			<DefaultText>{0} 所受所有傷害再次施加至附近敵人</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1150</ID>
-			<DefaultText>{0}裝填時間</DefaultText>
+			<DefaultText>{0} 裝填時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5145,32 +5168,32 @@
 		</Entry>
 		<Entry>
 			<ID>1153</ID>
-			<DefaultText>停用的增益狀態</DefaultText>
+			<DefaultText>有益效果暫停</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1154</ID>
-			<DefaultText>相對目標生命值損失比例{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害【相對目標 生命值 損失百分比】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1155</ID>
-			<DefaultText>{0}決心</DefaultText>
+			<DefaultText>{0} 決心</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1156</ID>
-			<DefaultText>{0}力量</DefaultText>
+			<DefaultText>{0} 力量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1157</ID>
-			<DefaultText>{0}敏捷</DefaultText>
+			<DefaultText>{0} 敏捷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1158</ID>
-			<DefaultText>{0}智力</DefaultText>
+			<DefaultText>{0} 智力</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5180,52 +5203,52 @@
 		</Entry>
 		<Entry>
 			<ID>1160</ID>
-			<DefaultText>{0}生命值吸取</DefaultText>
+			<DefaultText>{0} 生命值 吸取</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1161</ID>
-			<DefaultText>{0:Value:PercentBonus}生命值恢復</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 生命值 恢復</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1169</ID>
-			<DefaultText>對遠距離敵人獲得{0}精準、格擋、反射</DefaultText>
+			<DefaultText>{0} 精準、格擋、反射【對遠距離敵人】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1170</ID>
-			<DefaultText>對低生命值敵人造成{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害【對低 生命值 敵人】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1171</ID>
-			<DefaultText>與隊友攻擊同一目標時，{0}機率將命中轉為暴擊</DefaultText>
+			<DefaultText>{0} &lt;g&gt;命中&lt;/g&gt;轉為 暴擊【與友軍攻擊同一目標時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1172</ID>
-			<DefaultText>與隊友攻擊同一目標時，{0}隊友精準</DefaultText>
+			<DefaultText>{0} 同伴的 精準【攻擊同一目標時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1173</ID>
-			<DefaultText>{0}將受到的暴擊轉化為命中機率</DefaultText>
+			<DefaultText>{0} 所受 &lt;g&gt;暴擊&lt;/g&gt;轉為 命中</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1174</ID>
-			<DefaultText>{0:Value:PercentBonus}負面效果持續時間</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 負面效果持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1175</ID>
-			<DefaultText>{0}機率將受到的命中轉為擦傷（僅限針對格擋或反射的攻擊）</DefaultText>
+			<DefaultText>{0} 所受 &lt;g&gt;命中&lt;/g&gt;轉為 &lt;g&gt;擦傷&lt;/g&gt;(僅限 格擋 或 反射)</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1176</ID>
-			<DefaultText>{0}機率將受到的命中轉為擦傷（僅限針對強韌或意志的攻擊）</DefaultText>
+			<DefaultText>{0} 所受 &lt;g&gt;命中&lt;/g&gt;轉為 &lt;g&gt;擦傷&lt;/g&gt;(僅限 強韌 或 意志)</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5235,12 +5258,12 @@
 		</Entry>
 		<Entry>
 			<ID>1178</ID>
-			<DefaultText>所受的{0}傷害轉化為持續傷害</DefaultText>
+			<DefaultText>{0} 所受 傷害 轉化為持續傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1179</ID>
-			<DefaultText>對受持續傷害影響的目標造成{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害【對受持續傷害影響的目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5255,12 +5278,12 @@
 		</Entry>
 		<Entry>
 			<ID>1183</ID>
-			<DefaultText>繞過{0}持續</DefaultText>
+			<DefaultText>{0} 傷害減免無視</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1184</ID>
-			<DefaultText>竊取一項等級{0:ExtraValue:straight}以下的法術</DefaultText>
+			<DefaultText>竊取一項等級{0:ExtraValue:straight}或以下的法術</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5275,82 +5298,82 @@
 		</Entry>
 		<Entry>
 			<ID>1188</ID>
-			<DefaultText>{0}體能</DefaultText>
+			<DefaultText>{0} 體能</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1191</ID>
-			<DefaultText>{0}生存</DefaultText>
+			<DefaultText>{0} 生存</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1194</ID>
-			<DefaultText>震懾時{0}防禦屬性</DefaultText>
+			<DefaultText>{0} 防禦屬性【&lt;g&gt;震懾&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1195</ID>
-			<DefaultText>倒地時{0}防禦屬性</DefaultText>
+			<DefaultText>{0} 防禦屬性【&lt;g&gt;倒地&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1196</ID>
-			<DefaultText>與隊友攻擊同一目標時獲得{0}精準</DefaultText>
+			<DefaultText>{0} 精準【與同伴攻擊同一目標時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1197</ID>
-			<DefaultText>與隊友攻擊同一目標時造成{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害【與同伴攻擊同一目標時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1198</ID>
-			<DefaultText>{0}體質</DefaultText>
+			<DefaultText>{0} 體質</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1199</ID>
-			<DefaultText>{0}感知</DefaultText>
+			<DefaultText>{0} 感知</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1200</ID>
-			<DefaultText>{0:Value:PercentBonus}暴擊傷害倍率</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} &lt;g&gt;暴擊&lt;/g&gt;傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1201</ID>
-			<DefaultText>{0}機率將擦傷轉為命中</DefaultText>
+			<DefaultText>{0} &lt;g&gt;擦傷&lt;/g&gt;轉為 命中</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1203</ID>
-			<DefaultText>{0}機率將擦傷轉為失手</DefaultText>
+			<DefaultText>{0} &lt;g&gt;擦傷&lt;/g&gt;轉為 失手</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1204</ID>
-			<DefaultText>將{0}的暴擊轉為命中</DefaultText>
+			<DefaultText>{0} &lt;g&gt;暴擊&lt;/g&gt;轉為 命中</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1205</ID>
-			<DefaultText>{0}機率將失手轉為擦傷</DefaultText>
+			<DefaultText>{0} &lt;g&gt;失手&lt;/g&gt;轉為 擦傷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1206</ID>
-			<DefaultText>{0}機率將命中轉為暴擊</DefaultText>
+			<DefaultText>{0} &lt;g&gt;命中&lt;/g&gt;轉為 暴擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1207</ID>
-			<DefaultText>{0}機率將命中轉為擦傷</DefaultText>
+			<DefaultText>{0} &lt;g&gt;命中&lt;/g&gt;轉為 擦傷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1208</ID>
-			<DefaultText>作為{1}造成{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害量的 {1} 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5360,32 +5383,32 @@
 		</Entry>
 		<Entry>
 			<ID>1210</ID>
-			<DefaultText>{0}近戰傷害</DefaultText>
+			<DefaultText>{0} 近戰傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1211</ID>
-			<DefaultText>{0}遠程傷害</DefaultText>
+			<DefaultText>{0} 遠程傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1212</ID>
-			<DefaultText>遠程武器{0:Value:PercentBonus}冷卻時間</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 遠程武器 &lt;g&gt;復原&lt;/g&gt;時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1213</ID>
-			<DefaultText>附加效果</DefaultText>
+			<DefaultText>&lt;xg&gt;附加效果&lt;/xg&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1214</ID>
-			<DefaultText>即將遭受的擦傷的{0}轉化為失手（僅限反射）</DefaultText>
+			<DefaultText>{0} 所受 &lt;g&gt;擦傷&lt;/g&gt;轉為 &lt;g&gt;失手&lt;/g&gt;(僅限 反射)</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1216</ID>
-			<DefaultText>需要{0}個敵人來實現夾擊</DefaultText>
+			<DefaultText>{0} 所需敵人才觸發 夾擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5395,7 +5418,7 @@
 		</Entry>
 		<Entry>
 			<ID>1218</ID>
-			<DefaultText>命中時造成{0} {1}持續傷害</DefaultText>
+			<DefaultText>{0} {1} 持續傷害【被擊中時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5405,12 +5428,12 @@
 		</Entry>
 		<Entry>
 			<ID>1220</ID>
-			<DefaultText>禁用法術施放</DefaultText>
+			<DefaultText>禁止法術施放</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1221</ID>
-			<DefaultText>對{1}攻擊獲得{0}防禦屬性</DefaultText>
+			<DefaultText>{0} 防禦屬性【對{1}攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5420,27 +5443,27 @@
 		</Entry>
 		<Entry>
 			<ID>1223</ID>
-			<DefaultText>增益狀態獲得{0:Value:DurationBonus}持續時間</DefaultText>
+			<DefaultText>{0:Value:DurationBonus} 有益效果持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1224</ID>
-			<DefaultText>{0}持續傷害節率</DefaultText>
+			<DefaultText>{0} 持續 傷害 節率</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1225</ID>
-			<DefaultText>敵方效果獲得{0:Value:DurationBonus}持續時間</DefaultText>
+			<DefaultText>{0:Value:DurationBonus} 負面效果持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1226</ID>
-			<DefaultText>對{1}攻擊獲得{0}防禦屬性</DefaultText>
+			<DefaultText>{0} 防禦屬性【對 {1} 攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1228</ID>
-			<DefaultText>{0}點隨機屬性被竊取</DefaultText>
+			<DefaultText>{0} 點從隨機屬性竊取</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5450,7 +5473,7 @@
 		</Entry>
 		<Entry>
 			<ID>1230</ID>
-			<DefaultText>與{1}攻擊同一目標時獲得{0}精準</DefaultText>
+			<DefaultText>{0} 精準【與{1}攻擊同一目標時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5460,57 +5483,57 @@
 		</Entry>
 		<Entry>
 			<ID>1232</ID>
-			<DefaultText>傷害的{0}轉化為生命值</DefaultText>
+			<DefaultText>{0} 傷害轉化為 生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1234</ID>
-			<DefaultText>生命值低於{1}時獲得{0}精準</DefaultText>
+			<DefaultText>{0} 精準【&lt;g&gt;生命值&lt;/g&gt;低於{1}時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1235</ID>
-			<DefaultText>生命值低於{1}時造成{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害【&lt;g&gt;生命值&lt;/g&gt;低於{1}時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1236</ID>
-			<DefaultText>對處於倒地、震懾、夾擊狀態的敵人造成{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害【對&lt;g&gt;倒地&lt;/g&gt;、震懾、&lt;g&gt;夾擊&lt;/g&gt;的敵人】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1237</ID>
-			<DefaultText>持續造成{0}傷害</DefaultText>
+			<DefaultText>{0} 持續傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1238</ID>
-			<DefaultText>遠程擦傷反射回攻擊者</DefaultText>
+			<DefaultText>遠程 &lt;g&gt;擦傷&lt;/g&gt;反彈回攻擊者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1239</ID>
-			<DefaultText>即將遭受的命中的{0}轉化為擦傷</DefaultText>
+			<DefaultText>{0} 所受 &lt;g&gt;命中&lt;/g&gt;轉為 擦傷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1243</ID>
-			<DefaultText>對{1}時{0}精準</DefaultText>
+			<DefaultText>{0} 精準【對{1}】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1244</ID>
-			<DefaultText>對{1}時{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害【對{1}】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1245</ID>
-			<DefaultText>{0}疲勞</DefaultText>
+			<DefaultText>{0} 疲勞</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1246</ID>
-			<DefaultText>{0}武器範圍</DefaultText>
+			<DefaultText>{0} 武器範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5520,7 +5543,7 @@
 		</Entry>
 		<Entry>
 			<ID>1249</ID>
-			<DefaultText>對{0:AfflictionType}減益狀態免疫</DefaultText>
+			<DefaultText>免疫 {0:AfflictionType}熬煎</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5530,82 +5553,82 @@
 		</Entry>
 		<Entry>
 			<ID>1251</ID>
-			<DefaultText>{0}苦痛延遲</DefaultText>
+			<DefaultText>{0} &lt;g&gt;苦痛&lt;/g&gt;延遲</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1252</ID>
-			<DefaultText>{0}法術傷害</DefaultText>
+			<DefaultText>{0} 法術 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1253</ID>
-			<DefaultText>{0}終結傷害</DefaultText>
+			<DefaultText>{0} 終命一擊 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1254</ID>
-			<DefaultText>{0}狂熱光環區域效果</DefaultText>
+			<DefaultText>{0} 狂熱光環效應範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1255</ID>
-			<DefaultText>延遲昏迷{0:Value:Duration}</DefaultText>
+			<DefaultText>延遲 昏迷 {0:Value:Duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1256</ID>
-			<DefaultText>{0:Value:PercentBonus}跨步懲罰節率</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} &lt;g&gt;步幅&lt;/g&gt;懲罰節率</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1257</ID>
-			<DefaultText>對受夾擊目標造成{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害【對受 夾擊 目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1258</ID>
-			<DefaultText>{0}集中值獲取</DefaultText>
+			<DefaultText>{0} 集中值 獲取量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1259</ID>
-			<DefaultText>脫離戰鬥時獲得{0}防禦屬性</DefaultText>
+			<DefaultText> {0} 防禦屬性【脫戰時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1260</ID>
-			<DefaultText>對法術獲得{0}防禦屬性</DefaultText>
+			<DefaultText>{0} 防禦屬性【對法術】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1261</ID>
-			<DefaultText>對遠程攻擊獲得{0}格擋</DefaultText>
+			<DefaultText>{0} 格擋【對遠程攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1265</ID>
-			<DefaultText>{0}獵手聯結傷害</DefaultText>
+			<DefaultText>{0} 獵手聯結 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1266</ID>
-			<DefaultText>{1}傷害的{0}轉化為生命值</DefaultText>
+			<DefaultText>{0} {1} 傷害 轉化為 生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1267</ID>
-			<DefaultText>{0}詠唱區域效果</DefaultText>
+			<DefaultText>{0} 詠唱效應範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1268</ID>
-			<DefaultText>{0}治療效果</DefaultText>
+			<DefaultText>{0} 治療造成量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1269</ID>
-			<DefaultText>遭受{0}暴擊傷害</DefaultText>
+			<DefaultText>{0} 所受 &lt;g&gt;暴擊&lt;/g&gt;傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5615,27 +5638,27 @@
 		</Entry>
 		<Entry>
 			<ID>1271</ID>
-			<DefaultText>{0:Value:PercentBonus}區域效果</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 效應範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1272</ID>
-			<DefaultText>{0}狂暴持續時間</DefaultText>
+			<DefaultText>{0} 狂暴持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1274</ID>
-			<DefaultText>{0} 野性之擊傷害</DefaultText>
+			<DefaultText>{0} 野性強襲傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1275</ID>
-			<DefaultText>復活並獲得{0:Value:Straight}生命值</DefaultText>
+			<DefaultText>復活並獲得{0:Value:Straight} 生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1276</ID>
-			<DefaultText>所受傷害的{0}轉化為持續治療</DefaultText>
+			<DefaultText>{0} 所受 傷害 轉為持續治療</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5740,22 +5763,22 @@
 		</Entry>
 		<Entry>
 			<ID>1297</ID>
-			<DefaultText>完成{0}可獲得少量聲望</DefaultText>
+			<DefaultText>{0}的少量聲望</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1298</ID>
-			<DefaultText>完成{0}可獲得中量聲望</DefaultText>
+			<DefaultText>{0}的中量聲望</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1299</ID>
-			<DefaultText>完成{0}可獲得大量聲望</DefaultText>
+			<DefaultText>{0}的大量聲望</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1300</ID>
-			<DefaultText>完成{0}可獲得超多聲望</DefaultText>
+			<DefaultText>{0}的巨量聲望</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5765,7 +5788,7 @@
 		</Entry>
 		<Entry>
 			<ID>1302</ID>
-			<DefaultText>中望聲望獎勵</DefaultText>
+			<DefaultText>中量聲望獎勵</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5775,12 +5798,12 @@
 		</Entry>
 		<Entry>
 			<ID>1304</ID>
-			<DefaultText>超多聲望獎勵</DefaultText>
+			<DefaultText>巨量聲望獎勵</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1305</ID>
-			<DefaultText>寶藏裡的銅</DefaultText>
+			<DefaultText>寶箱中的銅幣</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5820,12 +5843,12 @@
 		</Entry>
 		<Entry>
 			<ID>1313</ID>
-			<DefaultText>{0}攻擊</DefaultText>
+			<DefaultText>{0} 攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1314</ID>
-			<DefaultText>生命值已隱藏</DefaultText>
+			<DefaultText>&lt;g&gt;生命值&lt;/g&gt;已隱藏</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5835,7 +5858,7 @@
 		</Entry>
 		<Entry>
 			<ID>1316</ID>
-			<DefaultText>{0}所有防禦屬性</DefaultText>
+			<DefaultText>{0} 所有 防禦屬性</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5870,7 +5893,7 @@
 		</Entry>
 		<Entry>
 			<ID>1324</ID>
-			<DefaultText>{0} {1} {2}.</DefaultText>
+			<DefaultText>{0}{1}{2}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5895,7 +5918,7 @@
 		</Entry>
 		<Entry>
 			<ID>1329</ID>
-			<DefaultText>{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5920,17 +5943,17 @@
 		</Entry>
 		<Entry>
 			<ID>1334</ID>
-			<DefaultText>材料不足，無法新增{0} 。</DefaultText>
+			<DefaultText>材料不足，無法新增{0}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1335</ID>
-			<DefaultText>資金不足，無法新增{0} 。</DefaultText>
+			<DefaultText>資金不足，無法新增{0}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1336</ID>
-			<DefaultText>沒有選擇要附魔的物品。</DefaultText>
+			<DefaultText>沒有選擇要強化的物品。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5945,22 +5968,22 @@
 		</Entry>
 		<Entry>
 			<ID>1339</ID>
-			<DefaultText>{0}已經擁有{1}附魔。</DefaultText>
+			<DefaultText>{0}已經擁有{1}強化。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1340</ID>
-			<DefaultText>{0}已經擁有一個品質附魔。</DefaultText>
+			<DefaultText>{0}已經擁有一個品質強化。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1341</ID>
-			<DefaultText>{0}已經達到附魔上限。</DefaultText>
+			<DefaultText>{0}已經達到強化上限。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1342</ID>
-			<DefaultText>{0}已經達到附魔值上限。</DefaultText>
+			<DefaultText>{0}已經達到強化值上限。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6030,12 +6053,12 @@
 		</Entry>
 		<Entry>
 			<ID>1356</ID>
-			<DefaultText>需要有{0}個敵人處於攻擊範圍</DefaultText>
+			<DefaultText>需要{0}個敵人在攻擊範圍內</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1357</ID>
-			<DefaultText>需要有{0}個隊友處於範圍內</DefaultText>
+			<DefaultText>需要{0}個同伴在範圍內</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6050,12 +6073,12 @@
 		</Entry>
 		<Entry>
 			<ID>1360</ID>
-			<DefaultText>不需要隊友在範圍內</DefaultText>
+			<DefaultText>不需要同伴在範圍內</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1361</ID>
-			<DefaultText>附近瞄準同一目標的隊友</DefaultText>
+			<DefaultText>同一目標的附近同伴</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6065,12 +6088,12 @@
 		</Entry>
 		<Entry>
 			<ID>1363</ID>
-			<DefaultText>需要詠唱{0}樂節</DefaultText>
+			<DefaultText>需要詠唱 {0} 樂節</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1364</ID>
-			<DefaultText>僅限隊友</DefaultText>
+			<DefaultText>僅限同伴</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6080,7 +6103,7 @@
 		</Entry>
 		<Entry>
 			<ID>1366</ID>
-			<DefaultText>需要生命值低於{0}</DefaultText>
+			<DefaultText>需要 &lt;g&gt;生命值&lt;/g&gt;低於{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6100,12 +6123,12 @@
 		</Entry>
 		<Entry>
 			<ID>1370</ID>
-			<DefaultText>需要至少{0}生命值</DefaultText>
+			<DefaultText>需要至少{0} 生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1371</ID>
-			<DefaultText>需要生命值低於{0}</DefaultText>
+			<DefaultText>需要 生命值 低於{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6191,18 +6214,18 @@
 		<Entry>
 			<ID>1397</ID>
 			<DefaultText>冒險是一項很累人的工作。除了無處不在的敵人，冒險者還要翻山越嶺、風餐露宿。
-每次戰鬥後，帶有體能戰技的角色可以使用「重振雄風」來恢復損失的生命值。體能值越高，重振雄風的效果越強。
+每次遭遇 一次，帶有 體能 的角色可以使用「重振雄風」來恢復損失的 生命值。體能越高，重振雄風的效果越強。
 在對話和劇情互動時，體能用來實現各種運動技巧，比如攀爬、游泳和跳躍。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1398</ID>
-			<DefaultText>學識代表角色各界的各種知識和資訊，通常是超自然的或玄奧的內容。除了對話和劇情互動，學識也用於啟動卷軸。學識值越高，角色可以使用的卷軸也越高級。</DefaultText>
+			<DefaultText>學識代表角色各界的各種知識和資訊，通常是超自然的或玄奧的內容。除了對話和劇情互動，學識也用於啟動 卷軸。學識值越高，角色可以使用的卷軸也越高級。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1399</ID>
-			<DefaultText>即便是對於最有經驗的冒險者，陷阱和鎖具也是令人頭痛的東西，因為它們會消耗冒險者的資源，弄傷甚至害死那些不小心觸發隱藏機關的人。器械技能可以讓角色更加輕鬆地開鎖和解除陷阱。此外，角色也可以使用器械技能來佈置自己的陷阱。器械技能越高，陷阱的精準度也越高。在對話和劇情互動中，器械可用來啟動或解除各種各樣的機器。</DefaultText>
+			<DefaultText>即便是對於最有經驗的冒險者，陷阱 和鎖具也是令人頭痛的東西，因為它們會消耗冒險者的資源，弄傷甚至害死那些不小心觸發隱藏機關的人。器械 技能可以讓角色更加輕鬆地開鎖和解除陷阱。此外，角色也可以使用 器械 技能來佈置自己的陷阱。器械 技能越高，陷阱的 &lt;g&gt;精準&lt;/g&gt;度也越高。在對話和劇情互動中，器械 可用來啟動或解除各種各樣的機器。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6217,7 +6240,7 @@
 		</Entry>
 		<Entry>
 			<ID>1402</ID>
-			<DefaultText>{0}在{1}之上</DefaultText>
+			<DefaultText>{0}於{1}內</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6227,7 +6250,7 @@
 		</Entry>
 		<Entry>
 			<ID>1404</ID>
-			<DefaultText>{0}精準</DefaultText>
+			<DefaultText>{0} 精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6302,7 +6325,7 @@
 		</Entry>
 		<Entry>
 			<ID>1419</ID>
-			<DefaultText>{0} 每{1}</DefaultText>
+			<DefaultText>每{1} {0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6497,7 +6520,7 @@
 		</Entry>
 		<Entry>
 			<ID>1460</ID>
-			<DefaultText>攻擊者精準</DefaultText>
+			<DefaultText>攻擊者 精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6507,27 +6530,27 @@
 		</Entry>
 		<Entry>
 			<ID>1462</ID>
-			<DefaultText>禱歌是詠者通過詠唱念出一定數量的樂節之後，製造出來的強大魔法效果。</DefaultText>
+			<DefaultText>禱歌 是詠者通過詠唱念出一定數量的 樂節 之後，製造出來的強大魔法效果。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1463</ID>
-			<DefaultText>所有德魯伊都掌握了一種動物形態。通過變化成動物形態可以讓德魯伊獲得強大的近戰能力，並且在變形時獲得額外的力量。</DefaultText>
+			<DefaultText>所有德魯伊都掌握了一種動物形態。通過變化成動物形態可以讓德魯伊獲得強大的近戰能力，並且在變形時獲得額外的 力量。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1464</ID>
-			<DefaultText>譯靈使可以直接對隊友和敵人施加專門針對靈魂的強大效果。這些靈威要消耗集中值，而譯靈使通過使用靈魂之鞭來積累集中值。</DefaultText>
+			<DefaultText>譯靈使可以直接對同伴和敵人施加專門針對靈魂的強大效果。這些靈威要消耗 集中值，而譯靈使通過使用靈魂之鞭來積累集中值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1465</ID>
-			<DefaultText>所有詠者可以持續地念出由魔法樂節組成的曲目。樂節會產生被動效果，幫助詠者積累靈威來詠唱出禱歌。</DefaultText>
+			<DefaultText>所有詠者可以持續地念出由魔法 樂節 組成的曲目。樂節會產生被動效果，幫助詠者積累靈威來詠唱出 禱歌。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1466</ID>
-			<DefaultText>德魯伊可以在任意攻擊上新增一種傷害類型（揮砍、穿刺、鈍擊、灼燒、腐蝕、冰凍或電擊），對目標造成該種類型的傷害。</DefaultText>
+			<DefaultText>德魯伊可以在任意攻擊上新增一種 傷害 類型（揮砍、穿刺、鈍擊、灼燒、腐蝕、冰寒 或 電擊），對目標造成該種類型的傷害。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6584,12 +6607,12 @@
 			<ID>1477</ID>
 			<DefaultText>所有遊俠都與他們的動物夥伴形成強烈的靈魂聯結。憑借這種聯結，遊俠可以和動物夥伴聯手發起攻擊，有效擊倒獵物。大部分情況下，動物夥伴負責干擾敵人，遊俠從遠程發起攻擊。
 
-雖然這種合作方式有一定的優勢，但也有不少風險。實際上遊俠與動物夥伴的命運也是相聯的。任何一方受傷，另一方都會有所感覺，情感上要承受強烈的痛楚。如果遊俠或動物夥伴被打昏，清醒的一方會遭受「聯結之殤」，影響精準和其他屬性，直至昏迷的夥伴復甦為止。如果遊俠被殺，動物夥伴會因為悲痛而立即死亡。</DefaultText>
+雖然這種合作方式有一定的優勢，但也有不少風險。實際上遊俠與動物夥伴的命運也是相聯的。任何一方受傷，另一方都會有所感覺，情感上要承受強烈的痛楚。如果遊俠或動物夥伴被打昏，清醒的一方會遭受「聯結之殤」，影響 &lt;g&gt;精準&lt;/g&gt;和其他屬性，直至昏迷的夥伴復甦為止。如果遊俠被殺，動物夥伴會因為悲痛而立即死亡。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1478</ID>
-			<DefaultText>法師精通各種各樣的攻擊性和個人防禦性法術。與牧師和德魯伊不同的是，法師將學會的法術記錄在自己的魔典中，並從魔典上直接施放法術。魔典只能記錄每個等級的4種法術，因此法師必須攜帶多本魔典以應付不同需要。每升2級，法師可獲得一組新的法術。但是，每次升級都可以自動學會任意等級的一項法術。法師也可以從找到或購買的魔典中學習法術。一開始，每次休息之後他們的法術只能施放一定次數。隨著等級提升，威力較弱的法術可以實現每次戰鬥均可使用。</DefaultText>
+			<DefaultText>法師精通各種各樣的攻擊性和個人防禦性法術。與牧師和德魯伊不同的是，法師將學會的法術記錄在自己的魔典中，並從魔典上直接施放法術。魔典只能記錄每個等級的4種法術，因此法師必須攜帶多本魔典以應付不同需要。每升2級，法師可獲得一組新的法術。但是，每次升級都可以自動學會任意等級的一項法術。法師也可以從找到或購買的魔典中學習法術。一開始，他們的法術只能在 每次休息 期間施放一定次數。隨著等級提升，威力較弱的法術可以實現 每次遭遇 均可使用。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6614,12 +6637,12 @@
 		</Entry>
 		<Entry>
 			<ID>1483</ID>
-			<DefaultText>{0}傷害減免</DefaultText>
+			<DefaultText>{0} 傷害減免</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1484</ID>
-			<DefaultText>竊取了{0}傷害減免</DefaultText>
+			<DefaultText>{0} &lt;g&gt;傷害減免&lt;/g&gt;竊取了</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6699,7 +6722,7 @@
 		</Entry>
 		<Entry>
 			<ID>1502</ID>
-			<DefaultText>{0}遭受苦痛。</DefaultText>
+			<DefaultText>{0}獲得 苦痛。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6719,7 +6742,7 @@
 		</Entry>
 		<Entry>
 			<ID>1506</ID>
-			<DefaultText>編輯魔典</DefaultText>
+			<DefaultText>檢閱魔典</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6729,7 +6752,7 @@
 		</Entry>
 		<Entry>
 			<ID>1508</ID>
-			<DefaultText>編輯曲目</DefaultText>
+			<DefaultText>編輯詠唱</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6849,7 +6872,7 @@
 		</Entry>
 		<Entry>
 			<ID>1532</ID>
-			<DefaultText>吸收{0} {1}傷害轉化為生命值</DefaultText>
+			<DefaultText>吸收{0} {1}傷害轉化為 生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6864,7 +6887,7 @@
 		</Entry>
 		<Entry>
 			<ID>1535</ID>
-			<DefaultText>區域效果：{0}</DefaultText>
+			<DefaultText>效應範圍：{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6889,7 +6912,7 @@
 		</Entry>
 		<Entry>
 			<ID>1540</ID>
-			<DefaultText>召喚一個{0}</DefaultText>
+			<DefaultText>召喚一個：{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6899,7 +6922,7 @@
 		</Entry>
 		<Entry>
 			<ID>1542</ID>
-			<DefaultText>冷卻時間</DefaultText>
+			<DefaultText>&lt;g&gt;復原&lt;/g&gt;時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6914,47 +6937,47 @@
 		</Entry>
 		<Entry>
 			<ID>1545</ID>
-			<DefaultText>敵人對你的攻擊失手時{0}</DefaultText>
+			<DefaultText>{0}【避開攻擊時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1546</ID>
-			<DefaultText>生命值低於{1}時{0}</DefaultText>
+			<DefaultText>{0}【&lt;g&gt;生命值&lt;/g&gt;低於{1}時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1547</ID>
-			<DefaultText>{1}之後{0}</DefaultText>
+			<DefaultText>{0}，持續{1}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1549</ID>
-			<DefaultText>移動時{0}</DefaultText>
+			<DefaultText>{0}【移動時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1550</ID>
-			<DefaultText>受傷害時{0}</DefaultText>
+			<DefaultText>{0}【受傷時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1551</ID>
-			<DefaultText>{0}的每次擊殺</DefaultText>
+			<DefaultText>{0}【擊殺時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1552</ID>
-			<DefaultText>生命值高於{1}時{0}</DefaultText>
+			<DefaultText>{0}【&lt;g&gt;生命值&lt;/g&gt;高於{1}時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1553</ID>
-			<DefaultText>生命值低於{1}時{0}</DefaultText>
+			<DefaultText>{0}【&lt;g&gt;生命值&lt;/g&gt;低於{1}時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1554</ID>
-			<DefaultText>更換武器時{0}</DefaultText>
+			<DefaultText>{0}【更換武器時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7074,12 +7097,12 @@
 		</Entry>
 		<Entry>
 			<ID>1581</ID>
-			<DefaultText>陷阱解除！</DefaultText>
+			<DefaultText>&lt;g&gt;陷阱&lt;/g&gt;解除！</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1582</ID>
-			<DefaultText>{0}%行動速度，{1}反射</DefaultText>
+			<DefaultText>{0}% &lt;g&gt;行動速度&lt;/g&gt;及 {1} 反射</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7089,12 +7112,12 @@
 		</Entry>
 		<Entry>
 			<ID>1584</ID>
-			<DefaultText>受到{0} {1}傷害</DefaultText>
+			<DefaultText>{0} {1} &lt;g&gt;傷害&lt;/g&gt;所受量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1585</ID>
-			<DefaultText>{0}護甲冷卻懲罰</DefaultText>
+			<DefaultText>{0} 護甲 &lt;g&gt;復原&lt;/g&gt;懲罰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7109,12 +7132,12 @@
 		</Entry>
 		<Entry>
 			<ID>1589</ID>
-			<DefaultText>危害區域效果</DefaultText>
+			<DefaultText>天險效應範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1590</ID>
-			<DefaultText>區域效果：{0}</DefaultText>
+			<DefaultText>效應範圍：{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7129,12 +7152,12 @@
 		</Entry>
 		<Entry>
 			<ID>1593</ID>
-			<DefaultText>{0}範圍</DefaultText>
+			<DefaultText>{0} 半徑</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1594</ID>
-			<DefaultText>{0}危害</DefaultText>
+			<DefaultText>{0} 天險</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7144,7 +7167,7 @@
 		</Entry>
 		<Entry>
 			<ID>1596</ID>
-			<DefaultText>{0}城牆</DefaultText>
+			<DefaultText>{0}牆</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7169,17 +7192,17 @@
 		</Entry>
 		<Entry>
 			<ID>1601</ID>
-			<DefaultText>{0} {1}跳躍目標</DefaultText>
+			<DefaultText>{0} {1}彈跳目標</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1602</ID>
-			<DefaultText>{0} {1}跳躍目標</DefaultText>
+			<DefaultText>{0} {1}彈跳目標</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1603</ID>
-			<DefaultText>{0}區域效果</DefaultText>
+			<DefaultText>{0} 效應範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7189,27 +7212,27 @@
 		</Entry>
 		<Entry>
 			<ID>1605</ID>
-			<DefaultText>{0}對抗{1}</DefaultText>
+			<DefaultText>{0} vs. {1}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1606</ID>
-			<DefaultText>區域效果</DefaultText>
+			<DefaultText>效應範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1607</ID>
-			<DefaultText>{0}跳躍目標</DefaultText>
+			<DefaultText>{0}彈跳目標</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1608</ID>
-			<DefaultText>{0}跳躍目標</DefaultText>
+			<DefaultText>{0}彈跳目標</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1609</ID>
-			<DefaultText>自己的</DefaultText>
+			<DefaultText>自身</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7229,7 +7252,7 @@
 		</Entry>
 		<Entry>
 			<ID>1613</ID>
-			<DefaultText>跳躍目標</DefaultText>
+			<DefaultText>彈跳目標</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7244,12 +7267,12 @@
 		</Entry>
 		<Entry>
 			<ID>1616</ID>
-			<DefaultText>主要攻擊</DefaultText>
+			<DefaultText>主武器攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1617</ID>
-			<DefaultText>{0}光環</DefaultText>
+			<DefaultText>{0} 光環</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7274,7 +7297,7 @@
 		</Entry>
 		<Entry>
 			<ID>1622</ID>
-			<DefaultText>持續</DefaultText>
+			<DefaultText>傷害減免</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7294,22 +7317,22 @@
 		</Entry>
 		<Entry>
 			<ID>1626</ID>
-			<DefaultText>{0}跳躍</DefaultText>
+			<DefaultText>{0}彈跳</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1627</ID>
-			<DefaultText>雙持時{0:Value:PercentBonus}行動速度</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 行動速度【雙持時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1628</ID>
-			<DefaultText>{0}護盾格擋</DefaultText>
+			<DefaultText>{0} 盾牌 格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1629</ID>
-			<DefaultText>護盾格擋加成也套用於反射。</DefaultText>
+			<DefaultText>盾牌的 格擋 加成也套用於 反射。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7329,7 +7352,7 @@
 		</Entry>
 		<Entry>
 			<ID>1633</ID>
-			<DefaultText>發現新地圖！獲得{0} - {1}經驗值。</DefaultText>
+			<DefaultText>發現新地圖！{0} - {1}經驗值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7339,7 +7362,7 @@
 		</Entry>
 		<Entry>
 			<ID>1635</ID>
-			<DefaultText>徘徊：{0}</DefaultText>
+			<DefaultText>餘音：{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7364,7 +7387,7 @@
 		</Entry>
 		<Entry>
 			<ID>1640</ID>
-			<DefaultText>火源</DefaultText>
+			<DefaultText>最初之火</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7374,17 +7397,17 @@
 		</Entry>
 		<Entry>
 			<ID>1642</ID>
-			<DefaultText>銅板</DefaultText>
+			<DefaultText>銅板巷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1643</ID>
-			<DefaultText>昂德拉贈禮</DefaultText>
+			<DefaultText>昂德拉福地</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1644</ID>
-			<DefaultText>遺產嶺</DefaultText>
+			<DefaultText>古蹟嶺</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7404,12 +7427,12 @@
 		</Entry>
 		<Entry>
 			<ID>1649</ID>
-			<DefaultText>陷阱解除！{0}難度 - 獲得{1}經驗值。</DefaultText>
+			<DefaultText>陷阱解除了！{0}難度 - 獲得{1}經驗值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1650</ID>
-			<DefaultText>鎖具已撬開！{0}難度 - 獲得{1}經驗值。</DefaultText>
+			<DefaultText>鎖具撬開了！{0}難度 - 獲得{1}經驗值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7434,27 +7457,27 @@
 		</Entry>
 		<Entry>
 			<ID>1655</ID>
-			<DefaultText>{0}隱匿</DefaultText>
+			<DefaultText>{0} 隱匿</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1656</ID>
-			<DefaultText>{0}%疲勞上限，獲得{1}%戰鬥疲勞</DefaultText>
+			<DefaultText>{0}% 疲勞 上限，獲得{1}%戰鬥疲勞</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1657</ID>
-			<DefaultText>使用等級{0}卷軸</DefaultText>
+			<DefaultText>使用等級 {0} 卷軸</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1658</ID>
-			<DefaultText>解除{0}難度陷阱，撬開{1}難度鎖具，{2}陷阱精準</DefaultText>
+			<DefaultText>解除{0}級難度陷阱，撬開{1}級難度鎖具，{2} &lt;g&gt;陷阱&lt;/g&gt;精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1659</ID>
-			<DefaultText>{0}消耗品持續</DefaultText>
+			<DefaultText>{0} 消耗品持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7484,7 +7507,7 @@
 		</Entry>
 		<Entry>
 			<ID>1665</ID>
-			<DefaultText>{1}內保持{0}</DefaultText>
+			<DefaultText>{0}，持續{1}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7514,87 +7537,87 @@
 		</Entry>
 		<Entry>
 			<ID>1671</ID>
-			<DefaultText>{0}苦痛</DefaultText>
+			<DefaultText>{0} 苦痛</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1673</ID>
-			<DefaultText>使用器具攻擊時對自己造成{0} {1}傷害</DefaultText>
+			<DefaultText> {0} 對自身 {1} 傷害【使用器具攻擊時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1674</ID>
-			<DefaultText>移動時{0:Value:InvertPercentBonus}遠程攻擊冷卻</DefaultText>
+			<DefaultText>{0:Value:InvertPercentBonus} 遠程攻擊 復原【移動時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1675</ID>
-			<DefaultText>擦傷的{0}轉化為單手近戰武器命中</DefaultText>
+			<DefaultText>{0} &lt;g&gt;擦傷&lt;/g&gt;轉為 命中【持單手近戰武器時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1676</ID>
-			<DefaultText>持雙手武器時{0}格擋</DefaultText>
+			<DefaultText>{0} 格擋【持雙手武器時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1677</ID>
-			<DefaultText>對{1}造成{0}傷害</DefaultText>
+			<DefaultText>{0} 傷害【對 {1}】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1678</ID>
-			<DefaultText>{0}打斷機率</DefaultText>
+			<DefaultText>{0} &lt;g&gt;打斷&lt;/g&gt;機率</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1679</ID>
-			<DefaultText>{0}藥水效力</DefaultText>
+			<DefaultText>{0} &lt;g&gt;藥水&lt;/g&gt;效力</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1681</ID>
-			<DefaultText>{0}武器套裝</DefaultText>
+			<DefaultText>{0} 武器套裝</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1682</ID>
-			<DefaultText>{0}快速物品槽</DefaultText>
+			<DefaultText>{0} 快速物品槽</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1683</ID>
-			<DefaultText>近戰武器{0:Value:PercentBonus}冷卻時間</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 近戰武器 &lt;g&gt;復原&lt;/g&gt;時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1684</ID>
-			<DefaultText>{0}遠程攻擊速度</DefaultText>
+			<DefaultText>{0} 遠程攻擊速度</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1685</ID>
-			<DefaultText>{0}陷阱精準</DefaultText>
+			<DefaultText>{0} 陷阱 精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1686</ID>
-			<DefaultText>繞過{0}近戰持續</DefaultText>
+			<DefaultText>{0} 近戰減免無視</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1687</ID>
-			<DefaultText>繞過{0}遠程持續</DefaultText>
+			<DefaultText>{0} 遠程減免無視</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1688</ID>
-			<DefaultText>{0}魔典冷卻</DefaultText>
+			<DefaultText>{0} 魔典冷卻</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1689</ID>
-			<DefaultText>{0}武器更換冷卻</DefaultText>
+			<DefaultText>{0} 武器更換 復原</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7604,32 +7627,32 @@
 		</Entry>
 		<Entry>
 			<ID>1691</ID>
-			<DefaultText>{0}最大集中值</DefaultText>
+			<DefaultText>{0} 最大 集中值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1692</ID>
-			<DefaultText>{0}陷阱效力</DefaultText>
+			<DefaultText>{0} 陷阱 效力</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1693</ID>
-			<DefaultText>命中的{0:Value:Percent}轉化為對生命值低於{0:ExtraValue:Percent}的目標的暴擊</DefaultText>
+			<DefaultText>{0:Value:Percent} &lt;g&gt;命中&lt;/g&gt;轉為 暴擊【對 &lt;g&gt;生命值&lt;/g&gt;低於{0:ExtraValue:Percent}目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1694</ID>
-			<DefaultText>對遠距離敵人獲得{0}精準</DefaultText>
+			<DefaultText>{0} 精準【對遠距離敵人】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1695</ID>
-			<DefaultText>對近距離敵人造成{0}遠程傷害</DefaultText>
+			<DefaultText>{0} 遠程 傷害【對近距離敵人】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1696</ID>
-			<DefaultText>終結</DefaultText>
+			<DefaultText>終命一擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7649,12 +7672,12 @@
 		</Entry>
 		<Entry>
 			<ID>1700</ID>
-			<DefaultText>{0}器械</DefaultText>
+			<DefaultText>{0} 器械</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1701</ID>
-			<DefaultText>{0}器械 + {1}開鎖器</DefaultText>
+			<DefaultText>{0} 器械 + {1}開鎖器</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7669,7 +7692,7 @@
 		</Entry>
 		<Entry>
 			<ID>1704</ID>
-			<DefaultText>撬鎖失敗。需要{0}器械或{1}器械和{2}開鎖器。</DefaultText>
+			<DefaultText>撬鎖失敗。需要{0} 器械 或{1} 器械 和{2}開鎖器。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7734,7 +7757,7 @@
 		</Entry>
 		<Entry>
 			<ID>1717</ID>
-			<DefaultText>角色統計</DefaultText>
+			<DefaultText>角色屬性</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7744,7 +7767,7 @@
 		</Entry>
 		<Entry>
 			<ID>1719</ID>
-			<DefaultText>減益狀態和傷勢</DefaultText>
+			<DefaultText>熬煎與傷勢</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7794,12 +7817,12 @@
 		</Entry>
 		<Entry>
 			<ID>1729</ID>
-			<DefaultText>專註：{0}</DefaultText>
+			<DefaultText>專注：{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1730</ID>
-			<DefaultText>，{0}</DefaultText>
+			<DefaultText>、{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7839,7 +7862,7 @@
 		</Entry>
 		<Entry>
 			<ID>1739</ID>
-			<DefaultText>{0}所有防禦屬性（格擋除外）</DefaultText>
+			<DefaultText>{0} 所有 防禦屬性 (格擋 除外)</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7951,7 +7974,7 @@
 		</Entry>
 		<Entry>
 			<ID>1761</ID>
-			<DefaultText>{0}直至受傷害</DefaultText>
+			<DefaultText>{0} 【直至受傷】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7971,12 +7994,12 @@
 		</Entry>
 		<Entry>
 			<ID>1765</ID>
-			<DefaultText>你失去了在{0}之中的聲望。</DefaultText>
+			<DefaultText>你失去了{0}的聲望。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1766</ID>
-			<DefaultText>你獲得了在{0}之中的聲望。</DefaultText>
+			<DefaultText>你獲得了{0}的聲望。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8021,12 +8044,12 @@
 		</Entry>
 		<Entry>
 			<ID>1775</ID>
-			<DefaultText>區域效果持續：{0}</DefaultText>
+			<DefaultText>效應範圍持續：{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1776</ID>
-			<DefaultText>{0}打斷</DefaultText>
+			<DefaultText>{0} 打斷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8071,7 +8094,7 @@
 		</Entry>
 		<Entry>
 			<ID>1785</ID>
-			<DefaultText>積極</DefaultText>
+			<DefaultText>正面</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8091,7 +8114,7 @@
 		</Entry>
 		<Entry>
 			<ID>1789</ID>
-			<DefaultText>脫離交戰</DefaultText>
+			<DefaultText>脫離 交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8136,12 +8159,12 @@
 		</Entry>
 		<Entry>
 			<ID>1798</ID>
-			<DefaultText>武僧戰技包含一系列增強近戰攻擊力、抵禦減益狀態或扭轉形態的增益狀態。大部分武僧戰技以苦難為動力，但一些則單純是在每次戰鬥時或每次休息後使用。</DefaultText>
+			<DefaultText>武僧戰技包含一系列增強近戰攻擊力、抵禦 熬煎 或扭轉形態的 啟迪。大部分武僧戰技以 &lt;g&gt;苦痛&lt;/g&gt;為動力，但一些則單純限制於 每次遭遇 或 每次休息 期間使用。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1799</ID>
-			<DefaultText>聖武士戰技包含有3個大類：近戰被動和作戰風格支援戰技、單一目標支援戰技和少量定向攻擊戰技。</DefaultText>
+			<DefaultText>聖武士戰技包含有3個大類：近戰被動和 作戰風格 支援戰技、單一目標支援戰技和少量定向攻擊戰技。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8156,7 +8179,7 @@
 		</Entry>
 		<Entry>
 			<ID>1802</ID>
-			<DefaultText>遊蕩者戰技注重遠程和近戰武器的攻擊。其中大部分戰技都可以讓遊蕩者的偷襲造成減益狀態。另一些則可以加強遊蕩者的偷襲或賦予戰術走位戰技。</DefaultText>
+			<DefaultText>遊蕩者戰技注重遠程和近戰武器的攻擊。其中大部分戰技都可以讓遊蕩者的偷襲造成 熬煎。另一些則可以加強遊蕩者的偷襲或賦予戰術走位戰技。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8196,7 +8219,7 @@
 		</Entry>
 		<Entry>
 			<ID>1810</ID>
-			<DefaultText>憑借各種技能，角色可以施展出特殊行動，比如隱匿、偵測陷阱、撬鎖或閱讀卷軸。技能也可以用來克服對話或劇情互動中的各種障礙。隨著角色等級的提升，技能也會越來越強，不過通過使用物品和其他加成也可以強化技能。</DefaultText>
+			<DefaultText>憑借各種技能，角色可以施展出特殊行動，比如 隱匿、偵測 陷阱、撬鎖或閱讀 卷軸。技能也可以用來克服對話或劇情互動中的各種障礙。隨著角色等級的提升，技能也會越來越強，不過通過使用物品和其他加成也可以強化技能。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8246,22 +8269,22 @@
 		</Entry>
 		<Entry>
 			<ID>1820</ID>
-			<DefaultText>昏迷後{0}</DefaultText>
+			<DefaultText>{0}【昏迷後】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1821</ID>
-			<DefaultText>暴擊後{0}</DefaultText>
+			<DefaultText>{0}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1822</ID>
-			<DefaultText>被暴擊命中時{0}</DefaultText>
+			<DefaultText>{0}【被 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1823</ID>
-			<DefaultText>如果無視：{0}</DefaultText>
+			<DefaultText>若無視：{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8411,7 +8434,7 @@
 		</Entry>
 		<Entry>
 			<ID>1853</ID>
-			<DefaultText>現在可以在每次戰鬥中使用等級{0}法術了。</DefaultText>
+			<DefaultText>等級{0}法術現在可以在 每次遭遇 中使用。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8471,7 +8494,7 @@
 		</Entry>
 		<Entry>
 			<ID>1865</ID>
-			<DefaultText>獎勵：{0}銅幣</DefaultText>
+			<DefaultText>獎勵：{0} 銅幣</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8596,7 +8619,7 @@
 		</Entry>
 		<Entry>
 			<ID>1890</ID>
-			<DefaultText>與動物夥伴攻擊同一目標時獲得{0}精準</DefaultText>
+			<DefaultText>{0} 精準【與動物夥伴攻擊同一目標時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8636,7 +8659,7 @@
 		</Entry>
 		<Entry>
 			<ID>1898</ID>
-			<DefaultText>{0}苦痛臨界值</DefaultText>
+			<DefaultText>{0} &lt;g&gt;苦痛&lt;/g&gt;臨界值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8656,7 +8679,7 @@
 		</Entry>
 		<Entry>
 			<ID>1902</ID>
-			<DefaultText>對標記目標{0}</DefaultText>
+			<DefaultText>{0}【對標記目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8781,7 +8804,7 @@
 		</Entry>
 		<Entry>
 			<ID>1927</ID>
-			<DefaultText>在隊伍成員頭像上以數字形式顯示當前的生命值及生命值上限。</DefaultText>
+			<DefaultText>在隊伍成員頭像上以數字形式顯示當前的 生命值 及 生命值 上限。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8806,7 +8829,7 @@
 		</Entry>
 		<Entry>
 			<ID>1932</ID>
-			<DefaultText>隊伍成員終結戰技</DefaultText>
+			<DefaultText>隊伍成員完成戰技</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8891,7 +8914,7 @@
 		</Entry>
 		<Entry>
 			<ID>1949</ID>
-			<DefaultText>{0}徒手精準</DefaultText>
+			<DefaultText>{0} 徒手 精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -8906,7 +8929,7 @@
 		</Entry>
 		<Entry>
 			<ID>1952</ID>
-			<DefaultText>對生命值少於{0:ExtraValue::Percent}的目標造成{0:Value:PercentBonus}暴擊傷害</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} &lt;g&gt;暴擊&lt;/g&gt;傷害【對 生命值 低於{0:ExtraValue::Percent}目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9071,12 +9094,12 @@
 		</Entry>
 		<Entry>
 			<ID>1987</ID>
-			<DefaultText>附魔</DefaultText>
+			<DefaultText>強化</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1988</ID>
-			<DefaultText>{0}機率反射遠程攻擊</DefaultText>
+			<DefaultText>{0} 機率反彈遠程攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9101,12 +9124,12 @@
 		</Entry>
 		<Entry>
 			<ID>1993</ID>
-			<DefaultText>附魔（從低到高）</DefaultText>
+			<DefaultText>強化（從低到高）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1994</ID>
-			<DefaultText>附魔（從高到低）</DefaultText>
+			<DefaultText>強化（從高到低）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9131,7 +9154,7 @@
 		</Entry>
 		<Entry>
 			<ID>1999</ID>
-			<DefaultText>自動升級夥伴</DefaultText>
+			<DefaultText>自動升級隊友</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9296,7 +9319,7 @@
 		</Entry>
 		<Entry>
 			<ID>2034</ID>
-			<DefaultText>綁定對像：{0}</DefaultText>
+			<DefaultText>綁定對象：{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9306,12 +9329,12 @@
 		</Entry>
 		<Entry>
 			<ID>2036</ID>
-			<DefaultText>，</DefaultText>
+			<DefaultText>、</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2037</ID>
-			<DefaultText>綁定到{0}</DefaultText>
+			<DefaultText>綁定到：{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9341,7 +9364,7 @@
 		</Entry>
 		<Entry>
 			<ID>2043</ID>
-			<DefaultText>已摧毀</DefaultText>
+			<DefaultText>屍骨無存</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9407,7 +9430,7 @@
 		</Entry>
 		<Entry>
 			<ID>2055</ID>
-			<DefaultText>至少 等級{1}的{0}</DefaultText>
+			<DefaultText>至少等級{1}的{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9487,12 +9510,12 @@
 		</Entry>
 		<Entry>
 			<ID>2071</ID>
-			<DefaultText>巨魔</DefaultText>
+			<DefaultText>巨怪</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2072</ID>
-			<DefaultText>食人魔</DefaultText>
+			<DefaultText>巨魔</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9767,12 +9790,12 @@
 		</Entry>
 		<Entry>
 			<ID>2127</ID>
-			<DefaultText>變形時{0}</DefaultText>
+			<DefaultText>{0}【變形時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2128</ID>
-			<DefaultText>命中時{0}</DefaultText>
+			<DefaultText>{0}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9882,17 +9905,17 @@
 		</Entry>
 		<Entry>
 			<ID>2150</ID>
-			<DefaultText>脫離戰鬥！</DefaultText>
+			<DefaultText>脫戰！</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2151</ID>
-			<DefaultText>無法與比自己低1級的敵人交戰</DefaultText>
+			<DefaultText>無法被比自己低1級以上的敵人 交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2152</ID>
-			<DefaultText>無法與比自己低{0}級的敵人交戰</DefaultText>
+			<DefaultText>無法被比自己低{0}級以上的敵人 交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9912,7 +9935,7 @@
 		</Entry>
 		<Entry>
 			<ID>2156</ID>
-			<DefaultText>通往峭巖絕壁</DefaultText>
+			<DefaultText>通往峭巖堡絕壁</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9942,22 +9965,22 @@
 		</Entry>
 		<Entry>
 			<ID>2162</ID>
-			<DefaultText>不管是否遭到直接攻擊，角色都會主動與附近敵人交戰。</DefaultText>
+			<DefaultText>不管是否遭到直接攻擊，角色都會主動與附近敵人 交戰。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2163</ID>
-			<DefaultText>不管是否遭到直接攻擊，角色都會主動與敵人交戰。</DefaultText>
+			<DefaultText>不管是否遭到直接攻擊，角色都會主動與敵人 交戰。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2164</ID>
-			<DefaultText>撬鎖失敗。{0}器械：{1}。需要開鎖器：{2}。</DefaultText>
+			<DefaultText>撬鎖失敗。{0} 器械 ：{1}。需要開鎖器：{2}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2165</ID>
-			<DefaultText>撬鎖失敗。{0}器械：{1}。</DefaultText>
+			<DefaultText>撬鎖失敗。{0} 器械 ：{1}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9992,7 +10015,7 @@
 		</Entry>
 		<Entry>
 			<ID>2172</ID>
-			<DefaultText>以{2}造成{1}減益狀態{0}次</DefaultText>
+			<DefaultText>以{2}造成 {1}熬煎 {0}次</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10007,7 +10030,7 @@
 		</Entry>
 		<Entry>
 			<ID>2175</ID>
-			<DefaultText>暴擊造成{0}</DefaultText>
+			<DefaultText>{0}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10032,7 +10055,7 @@
 		</Entry>
 		<Entry>
 			<ID>2180</ID>
-			<DefaultText>對{1}敵人造成{0}，並在戰鬥的首個{2}</DefaultText>
+			<DefaultText>{0}【對{1}敵人，並為戰鬥的首{2}】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10062,7 +10085,7 @@
 		</Entry>
 		<Entry>
 			<ID>2186</ID>
-			<DefaultText>基斯{0}</DefaultText>
+			<DefaultText>基斯 {0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10082,7 +10105,7 @@
 		</Entry>
 		<Entry>
 			<ID>2190</ID>
-			<DefaultText>遠程攻擊的{0}反射回攻擊者</DefaultText>
+			<DefaultText>{0} 遠程攻擊反彈回攻擊者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10092,7 +10115,7 @@
 		</Entry>
 		<Entry>
 			<ID>2194</ID>
-			<DefaultText>{0}單一武器速度懲罰</DefaultText>
+			<DefaultText>{0} 單一武器 &lt;g&gt;復原&lt;/g&gt;懲罰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10112,22 +10135,22 @@
 		</Entry>
 		<Entry>
 			<ID>2198</ID>
-			<DefaultText>每一苦痛{0}傷害減免</DefaultText>
+			<DefaultText>{0} 傷害減免【每點 苦痛】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2199</ID>
-			<DefaultText>從目標身上的每個增益狀態竊取{0}持續時間</DefaultText>
+			<DefaultText>從目標身上的每個有益效果竊取{0}持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2200</ID>
-			<DefaultText>使用{1}時獲得{0}精準</DefaultText>
+			<DefaultText>{0} 精準【使用{1}時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2201</ID>
-			<DefaultText>使用{1}時獲得{0}彈矢</DefaultText>
+			<DefaultText>{0} 彈矢【使用{1}時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10142,17 +10165,17 @@
 		</Entry>
 		<Entry>
 			<ID>2204</ID>
-			<DefaultText>所受傷害的{0:Value:Percent}作為{0:DamageType}傷害轉移到施放者身上</DefaultText>
+			<DefaultText>{0:Value:Percent} 所受傷害作為 {0:DamageType} 傷害轉移到施放者身上</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2206</ID>
-			<DefaultText>具有{0}精準的附加攻擊和每次攻擊造成{1}傷害</DefaultText>
+			<DefaultText>具有{0} &lt;g&gt;精準&lt;/g&gt;的附加攻擊和每次攻擊造成 {1} 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2207</ID>
-			<DefaultText>需要生命值高於{0}</DefaultText>
+			<DefaultText>需要 生命值 高於{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10202,12 +10225,12 @@
 		</Entry>
 		<Entry>
 			<ID>2217</ID>
-			<DefaultText>被打中時{0}</DefaultText>
+			<DefaultText>{0}【被擊中時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2218</ID>
-			<DefaultText>{0}直至被打中或被暴擊命中</DefaultText>
+			<DefaultText>{0}【直至被 &lt;g&gt;命中&lt;/g&gt;或被 暴擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10252,12 +10275,12 @@
 		</Entry>
 		<Entry>
 			<ID>2227</ID>
-			<DefaultText>對{0}效果免疫</DefaultText>
+			<DefaultText>免疫 {0} 效果</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2228</ID>
-			<DefaultText>無法使用食物、飲品或藥物</DefaultText>
+			<DefaultText>無法使用 食物、飲品或 藥物</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10267,7 +10290,7 @@
 		</Entry>
 		<Entry>
 			<ID>2230</ID>
-			<DefaultText>{0}無法使用食物、飲品或藥物。</DefaultText>
+			<DefaultText>{0}無法使用 食物、飲品或 藥物。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10302,17 +10325,17 @@
 		</Entry>
 		<Entry>
 			<ID>2237</ID>
-			<DefaultText>設置每週目遊戲中可以保留的自動存檔數量上限。</DefaultText>
+			<DefaultText>設置每輪遊戲中可以保留的自動存檔數量上限。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2238</ID>
-			<DefaultText>對{0}傷害免疫</DefaultText>
+			<DefaultText>免疫 {0} 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2239</ID>
-			<DefaultText>立即冷卻</DefaultText>
+			<DefaultText>立即 復原</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10322,22 +10345,22 @@
 		</Entry>
 		<Entry>
 			<ID>2241</ID>
-			<DefaultText>每{2}造成{0} {1}傷害</DefaultText>
+			<DefaultText>每{2} {0} {1} 傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2242</ID>
-			<DefaultText>移除所有{0}</DefaultText>
+			<DefaultText>移除所有 {0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2243</ID>
-			<DefaultText>至少造成{1}傷害時{0}</DefaultText>
+			<DefaultText>{0}【造成至少 {1} 傷害時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2247</ID>
-			<DefaultText>將所造成傷害的{0}作為集中值賦予{1}</DefaultText>
+			<DefaultText>{0} &lt;g&gt;傷害&lt;/g&gt;造成量作為 集中值 賦予{1}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10347,7 +10370,7 @@
 		</Entry>
 		<Entry>
 			<ID>2249</ID>
-			<DefaultText>-[{0}]-&gt;</DefaultText>
+			<DefaultText> -[{0}]-&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10377,17 +10400,17 @@
 		</Entry>
 		<Entry>
 			<ID>2255</ID>
-			<DefaultText>{0}擦傷轉化為失手</DefaultText>
+			<DefaultText>{0} &lt;g&gt;擦傷&lt;/g&gt;轉為 失手</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2256</ID>
-			<DefaultText>獲得{0}治療</DefaultText>
+			<DefaultText>{0} 治療所受量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2257</ID>
-			<DefaultText>精通某一法術後，可以在每次戰鬥中免消耗使用該法術一次。法師精通的法術不必記錄在魔典中就可以免消耗使用。</DefaultText>
+			<DefaultText>精通某一法術後，可以在 每次遭遇 中免消耗使用該法術一次。法師精通的法術不必記錄在魔典中就可以免消耗使用。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10397,7 +10420,7 @@
 		</Entry>
 		<Entry>
 			<ID>2259</ID>
-			<DefaultText>賦予重振雄風（{0}生命值）</DefaultText>
+			<DefaultText>賦予重振雄風（{0} 生命值）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10407,7 +10430,7 @@
 		</Entry>
 		<Entry>
 			<ID>2261</ID>
-			<DefaultText>生命值低於{1}時{0}</DefaultText>
+			<DefaultText>{0}【&lt;g&gt;生命值&lt;/g&gt;低於{1}時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10442,7 +10465,7 @@
 		</Entry>
 		<Entry>
 			<ID>2268</ID>
-			<DefaultText>禁用教學提示</DefaultText>
+			<DefaultText>停用教學提示</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10467,7 +10490,7 @@
 		</Entry>
 		<Entry>
 			<ID>2273</ID>
-			<DefaultText>竊取等級{0}以下的{1}法術</DefaultText>
+			<DefaultText>竊取等級{0}或以下的{1}法術</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10552,12 +10575,12 @@
 		</Entry>
 		<Entry>
 			<ID>2290</ID>
-			<DefaultText>無擊倒傷勢</DefaultText>
+			<DefaultText>無戰敗傷勢</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2291</ID>
-			<DefaultText>隊伍成員在戰鬥中生命值減為0之時不會遭受擊倒傷勢。</DefaultText>
+			<DefaultText>隊伍成員在戰鬥中 生命值 減為0之時不會遭受戰敗 傷勢。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10582,7 +10605,7 @@
 		</Entry>
 		<Entry>
 			<ID>2296</ID>
-			<DefaultText>狗捨</DefaultText>
+			<DefaultText>狗舍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10612,17 +10635,17 @@
 		</Entry>
 		<Entry>
 			<ID>2302</ID>
-			<DefaultText>紮營可以讓隊伍成員恢復損失的生命值，並獲得紮營加成。紮營要消耗紮營用品。</DefaultText>
+			<DefaultText>紮營可以讓隊伍成員恢復損失的 生命值，並獲得紮營加成。紮營要消耗紮營用品。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2303</ID>
-			<DefaultText>高等級法師、德魯伊和牧師的低等級每次戰鬥法術已被法術精通替換。升級你的施法者來選擇相應的法術。</DefaultText>
+			<DefaultText>高等級法師、德魯伊和牧師的低等級 每次遭遇 法術已被法術精通替換。升級你的施法者來選擇相應的法術。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2304</ID>
-			<DefaultText>{1}攻擊者獲得{0}精準</DefaultText>
+			<DefaultText>{1}攻擊者獲得{0} 精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10657,7 +10680,7 @@
 		</Entry>
 		<Entry>
 			<ID>2311</ID>
-			<DefaultText>{0}樂節詠唱時間</DefaultText>
+			<DefaultText>{0} 樂節 詠唱時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10672,12 +10695,12 @@
 		</Entry>
 		<Entry>
 			<ID>2314</ID>
-			<DefaultText>對處於困惑、魅惑、受控狀態的角色的最小傷害</DefaultText>
+			<DefaultText>對處於 困惑、魅惑、受控 狀態的角色的最小傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2315</ID>
-			<DefaultText>如果成功：{0}</DefaultText>
+			<DefaultText>若成功：{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10717,12 +10740,12 @@
 		</Entry>
 		<Entry>
 			<ID>2323</ID>
-			<DefaultText>{0}藥物效果持續時間</DefaultText>
+			<DefaultText>{0} 藥物 效果持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2324</ID>
-			<DefaultText>擊殺時{0}</DefaultText>
+			<DefaultText>{0}【擊殺時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10732,12 +10755,12 @@
 		</Entry>
 		<Entry>
 			<ID>2326</ID>
-			<DefaultText>施法者的{0}生命值轉移</DefaultText>
+			<DefaultText>{0} 生命值 從施法者轉移</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2327</ID>
-			<DefaultText>護盾穿刺</DefaultText>
+			<DefaultText>護罩穿刺</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -10937,7 +10960,7 @@
 		</Entry>
 		<Entry>
 			<ID>2368</ID>
-			<DefaultText>對{0}免疫</DefaultText>
+			<DefaultText>免疫 {0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11207,7 +11230,7 @@
 		</Entry>
 		<Entry>
 			<ID>2422</ID>
-			<DefaultText>《白際山：第2部分</DefaultText>
+			<DefaultText>《白際山：第2部分》</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11252,17 +11275,17 @@
 		</Entry>
 		<Entry>
 			<ID>2432</ID>
-			<DefaultText>擁有至少{1}生命值的{0}</DefaultText>
+			<DefaultText>{0}【擁有至少{1} 生命值】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2433</ID>
-			<DefaultText>擁有少於{1}生命值的{0}</DefaultText>
+			<DefaultText>{0}【擁有少於{1} 生命值】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2434</ID>
-			<DefaultText>防止{1}（{0}次）</DefaultText>
+			<DefaultText>防止{1} ((0}次)</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11302,7 +11325,7 @@
 		</Entry>
 		<Entry>
 			<ID>2446</ID>
-			<DefaultText>你可以在星痕谷使用貝拉剛的戰鬥號角召喚碎巖食人魔的幫助。</DefaultText>
+			<DefaultText>你可以在星痕谷使用貝拉剛的戰鬥號角召喚碎巖巨魔的幫助。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11327,7 +11350,7 @@
 		</Entry>
 		<Entry>
 			<ID>2451</ID>
-			<DefaultText>{0}近戰敵人</DefaultText>
+			<DefaultText>{0} 近戰敵人</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11342,7 +11365,7 @@
 		</Entry>
 		<Entry>
 			<ID>2454</ID>
-			<DefaultText>如果{1}較低，則攻擊{1}，而不是{0}</DefaultText>
+			<DefaultText>若 {1} 較低，則攻擊 {1}，而不是 {0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11352,7 +11375,7 @@
 		</Entry>
 		<Entry>
 			<ID>2456</ID>
-			<DefaultText>來自動物夥伴的{0}</DefaultText>
+			<DefaultText>{0}【來自動物夥伴】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11412,7 +11435,7 @@
 		</Entry>
 		<Entry>
 			<ID>2468</ID>
-			<DefaultText>電擊</DefaultText>
+			<DefaultText>雷電</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11477,7 +11500,7 @@
 		</Entry>
 		<Entry>
 			<ID>2481</ID>
-			<DefaultText>增益狀態</DefaultText>
+			<DefaultText>增益</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11527,7 +11550,7 @@
 		</Entry>
 		<Entry>
 			<ID>2491</ID>
-			<DefaultText>VTC營地</DefaultText>
+			<DefaultText>瓦利亞商行營地</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11652,17 +11675,17 @@
 		</Entry>
 		<Entry>
 			<ID>2516</ID>
-			<DefaultText>肉體</DefaultText>
+			<DefaultText>肉體熬煎</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2517</ID>
-			<DefaultText>心智</DefaultText>
+			<DefaultText>心智熬煎</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2518</ID>
-			<DefaultText>英格維仙小站</DefaultText>
+			<DefaultText>英格維仙中繼站</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11672,7 +11695,7 @@
 		</Entry>
 		<Entry>
 			<ID>2520</ID>
-			<DefaultText>VTC營地</DefaultText>
+			<DefaultText>瓦利亞商行營地</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11727,7 +11750,7 @@
 		</Entry>
 		<Entry>
 			<ID>2531</ID>
-			<DefaultText>作戰風格戰技已禁用</DefaultText>
+			<DefaultText>作戰風格 戰技已禁用</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11747,7 +11770,7 @@
 		</Entry>
 		<Entry>
 			<ID>2535</ID>
-			<DefaultText>無法打斷</DefaultText>
+			<DefaultText>無法 打斷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11757,7 +11780,7 @@
 		</Entry>
 		<Entry>
 			<ID>2537</ID>
-			<DefaultText>無法使用作戰風格戰技</DefaultText>
+			<DefaultText>無法使用 作戰風格 戰技</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11777,17 +11800,17 @@
 		</Entry>
 		<Entry>
 			<ID>2541</ID>
-			<DefaultText>攻擊可命中友方和敵方角色</DefaultText>
+			<DefaultText>攻擊會擊中友方和敵方角色</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2542</ID>
-			<DefaultText>無法脫離交戰</DefaultText>
+			<DefaultText>無法脫離 交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2543</ID>
-			<DefaultText>無法與敵人交戰</DefaultText>
+			<DefaultText>無法與敵人 交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11817,7 +11840,7 @@
 		</Entry>
 		<Entry>
 			<ID>2549</ID>
-			<DefaultText>有時候對話會很難進行。人們會迴避、說謊、驚慌或忙於其他事務。洞察用於領會對方的思想，理解他們的深層情感和動機。</DefaultText>
+			<DefaultText>如何引導對話進展並非易事。人們會迴避、說謊、驚慌或專注於其他事務。洞察用於領會對方的思想，理解他們的深層情感和動機。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12002,7 +12025,7 @@
 		</Entry>
 		<Entry>
 			<ID>2587</ID>
-			<DefaultText>打斷敵人條件</DefaultText>
+			<DefaultText>&lt;g&gt;打斷&lt;/g&gt;敵人條件</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12012,7 +12035,7 @@
 		</Entry>
 		<Entry>
 			<ID>2593</ID>
-			<DefaultText>戰爭召集者</DefaultText>
+			<DefaultText>戰呼人</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12062,12 +12085,12 @@
 		</Entry>
 		<Entry>
 			<ID>2603</ID>
-			<DefaultText>祭司</DefaultText>
+			<DefaultText>聖顯者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2604</ID>
-			<DefaultText>博學士</DefaultText>
+			<DefaultText>識古家</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12092,17 +12115,17 @@
 		</Entry>
 		<Entry>
 			<ID>2609</ID>
-			<DefaultText>拳擊手</DefaultText>
+			<DefaultText>搏擊者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2610</ID>
-			<DefaultText>教士</DefaultText>
+			<DefaultText>聖職員</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2611</ID>
-			<DefaultText>十字軍</DefaultText>
+			<DefaultText>聖戰軍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12117,12 +12140,12 @@
 		</Entry>
 		<Entry>
 			<ID>2614</ID>
-			<DefaultText>心靈追蹤者</DefaultText>
+			<DefaultText>心靈潛獵者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2615</ID>
-			<DefaultText>探路者</DefaultText>
+			<DefaultText>拓荒​者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12152,22 +12175,22 @@
 		</Entry>
 		<Entry>
 			<ID>2621</ID>
-			<DefaultText>傳令官</DefaultText>
+			<DefaultText>傳福者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2622</ID>
-			<DefaultText>審判者</DefaultText>
+			<DefaultText>聖裁者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2623</ID>
-			<DefaultText>解放者</DefaultText>
+			<DefaultText>解救者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2624</ID>
-			<DefaultText>崇拜者</DefaultText>
+			<DefaultText>獻道者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12177,7 +12200,7 @@
 		</Entry>
 		<Entry>
 			<ID>2626</ID>
-			<DefaultText>保護人</DefaultText>
+			<DefaultText>司牧</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12187,7 +12210,7 @@
 		</Entry>
 		<Entry>
 			<ID>2628</ID>
-			<DefaultText>司儀</DefaultText>
+			<DefaultText>頌禮司</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12197,7 +12220,7 @@
 		</Entry>
 		<Entry>
 			<ID>2630</ID>
-			<DefaultText>萬事通</DefaultText>
+			<DefaultText>普救論者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12207,7 +12230,7 @@
 		</Entry>
 		<Entry>
 			<ID>2632</ID>
-			<DefaultText>巡遊者</DefaultText>
+			<DefaultText>巡迴者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12217,12 +12240,12 @@
 		</Entry>
 		<Entry>
 			<ID>2634</ID>
-			<DefaultText>獨唱者</DefaultText>
+			<DefaultText>領唱者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2635</ID>
-			<DefaultText>卓越者</DefaultText>
+			<DefaultText>超越者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12262,7 +12285,7 @@
 		</Entry>
 		<Entry>
 			<ID>2643</ID>
-			<DefaultText>招魂術士</DefaultText>
+			<DefaultText>通靈者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12277,7 +12300,7 @@
 		</Entry>
 		<Entry>
 			<ID>2646</ID>
-			<DefaultText>暴風雨</DefaultText>
+			<DefaultText>暴風使</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12287,12 +12310,12 @@
 		</Entry>
 		<Entry>
 			<ID>2648</ID>
-			<DefaultText>苦痛不足</DefaultText>
+			<DefaultText>苦痛 不足</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2649</ID>
-			<DefaultText>鎖具已撬開！</DefaultText>
+			<DefaultText>鎖具撬開了！</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12312,7 +12335,7 @@
 		</Entry>
 		<Entry>
 			<ID>2653</ID>
-			<DefaultText>亞柯彌莊園</DefaultText>
+			<DefaultText>亞柯彌的莊園</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12322,7 +12345,7 @@
 		</Entry>
 		<Entry>
 			<ID>2655</ID>
-			<DefaultText>明亮澡堂</DefaultText>
+			<DefaultText>輝光澡堂</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12337,7 +12360,7 @@
 		</Entry>
 		<Entry>
 			<ID>2658</ID>
-			<DefaultText>狂暴</DefaultText>
+			<DefaultText>怒氣</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12392,7 +12415,7 @@
 		</Entry>
 		<Entry>
 			<ID>2669</ID>
-			<DefaultText>{0:Value}等級{0:ExtraValue:straight}{0:Class}法術</DefaultText>
+			<DefaultText>{0:Value} 等級{0:ExtraValue:straight}{0:Class}法術次數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12407,12 +12430,12 @@
 		</Entry>
 		<Entry>
 			<ID>2672</ID>
-			<DefaultText>巴達托莊園</DefaultText>
+			<DefaultText>巴達托宅邸</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2673</ID>
-			<DefaultText>瓦雷拉莊園</DefaultText>
+			<DefaultText>瓦雷拉宅邸</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12442,7 +12465,7 @@
 		</Entry>
 		<Entry>
 			<ID>2679</ID>
-			<DefaultText>桑扎的地圖市場</DefaultText>
+			<DefaultText>桑扎的製圖店</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12502,7 +12525,7 @@
 		</Entry>
 		<Entry>
 			<ID>2691</ID>
-			<DefaultText>退出到平台</DefaultText>
+			<DefaultText>通往露台的出口</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12587,7 +12610,7 @@
 		</Entry>
 		<Entry>
 			<ID>2708</ID>
-			<DefaultText>峽口</DefaultText>
+			<DefaultText>深巷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12627,7 +12650,7 @@
 		</Entry>
 		<Entry>
 			<ID>2716</ID>
-			<DefaultText>峽谷</DefaultText>
+			<DefaultText>邊沟區</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12647,7 +12670,7 @@
 		</Entry>
 		<Entry>
 			<ID>2720</ID>
-			<DefaultText>瘦削男人</DefaultText>
+			<DefaultText>紡錘人</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12667,7 +12690,7 @@
 		</Entry>
 		<Entry>
 			<ID>2724</ID>
-			<DefaultText>地下室</DefaultText>
+			<DefaultText>地下洞室</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12847,7 +12870,7 @@
 		</Entry>
 		<Entry>
 			<ID>2760</ID>
-			<DefaultText>走私者城堡</DefaultText>
+			<DefaultText>走私者要塞</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12892,7 +12915,7 @@
 		</Entry>
 		<Entry>
 			<ID>2769</ID>
-			<DefaultText>喚魂師</DefaultText>
+			<DefaultText>喚師</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12907,12 +12930,12 @@
 		</Entry>
 		<Entry>
 			<ID>2772</ID>
-			<DefaultText>享樂派</DefaultText>
+			<DefaultText>欺愚派</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2773</ID>
-			<DefaultText>激進派</DefaultText>
+			<DefaultText>飛昇派</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12927,7 +12950,7 @@
 		</Entry>
 		<Entry>
 			<ID>2776</ID>
-			<DefaultText>濟命德魯伊</DefaultText>
+			<DefaultText>濟命道</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -12937,12 +12960,12 @@
 		</Entry>
 		<Entry>
 			<ID>2778</ID>
-			<DefaultText>狂怒德魯伊</DefaultText>
+			<DefaultText>暴靈道</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2779</ID>
-			<DefaultText>變形德魯伊</DefaultText>
+			<DefaultText>變形道</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13047,7 +13070,7 @@
 		</Entry>
 		<Entry>
 			<ID>2800</ID>
-			<DefaultText>追蹤者</DefaultText>
+			<DefaultText>追獵者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13082,17 +13105,17 @@
 		</Entry>
 		<Entry>
 			<ID>2807</ID>
-			<DefaultText>咒法系學校</DefaultText>
+			<DefaultText>咒法系學派</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2808</ID>
-			<DefaultText>附魔系學校</DefaultText>
+			<DefaultText>附魔系學派</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2809</ID>
-			<DefaultText>塑能系學校</DefaultText>
+			<DefaultText>塑能系學派</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13102,150 +13125,148 @@
 		</Entry>
 		<Entry>
 			<ID>2811</ID>
-			<DefaultText>幻術系學校</DefaultText>
+			<DefaultText>幻術系學派</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2812</ID>
-			<DefaultText>變化系學校</DefaultText>
+			<DefaultText>變化系學派</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2813</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得「血肉聖餐」能力——瞄準一名昏迷的敵對基斯，魔物或者野獸，吞噬他們的血肉，永久性殺死他們。
-
-血肉聖餐能夠治療野蠻人並且賦予他們怒氣。
+獲得「血肉聖餐」能力 - 指定一名已死的敵對 基斯、魔物或者野獸，吞噬他們的屍體來治療野蠻人並且賦予他們 怒氣
 
 &lt;b&gt;懲罰&lt;/b&gt;
-所有怒氣能力費用增加1。</DefaultText>
+所有 怒氣 戰技費用增加1</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2814</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-成功的近戰武器攻擊可對目標施加法術打斷，導致法師、牧師、德魯伊、譯靈使或詠者在施法時有一定機率失敗。
+成功的近戰武器攻擊可對目標施加法術干擾，導致法師、牧師、德魯伊、譯靈使或詠者在施法時有一定機率失敗
 
-獲得被動法術&lt;xg&gt;抗性&lt;/xg&gt;。
+獲得被動法術 &lt;xg&gt;抗性&lt;/xg&gt;
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法使用藥水或卷軸。
+無法使用 &lt;g&gt;藥水&lt;/g&gt;或 卷軸
 
-被動法術&lt;xg&gt;抗性&lt;/xg&gt;影響友方和敵方法術。</DefaultText>
+被動法術&lt;xg&gt;抗性&lt;/xg&gt;影響友方和敵方法術</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2815</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-狂暴將賦予強硬與健壯增益狀態，取代強力與健康增益狀態。
+狂暴將賦予 強硬 與 健壯 啟迪，取代 強力 與 健朗
 
-狂暴狀態下近戰與屠戮攻擊的命中將獲得大量暴擊轉化率。
+狂暴狀態下大量近戰與屠戮攻擊 &lt;g&gt;命中&lt;/g&gt;轉為 暴擊
 
 &lt;b&gt;懲罰&lt;/b&gt;
-狂暴狀態下將處於困惑狀態。
+狂暴狀態下將處於 困惑 狀態
 
-狂暴狀態時無法看見生命值。
+狂暴狀態時無法看見 生命值 
 
-狂暴狀態時將持續承受真實傷害。</DefaultText>
+狂暴狀態時將持續承受 &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2818</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-禱歌召喚的生物翻倍。
+禱歌召喚的生物數量翻倍
 
 &lt;b&gt;懲罰&lt;/b&gt;
-詠者的召喚生物更小，生命值較少，持續時間較短。
+詠者的召喚生物體型較小，&lt;g&gt;生命值&lt;/g&gt;較少，持續時間較短
 
-召喚禱歌消耗樂節+1。</DefaultText>
+召喚禱歌消耗 樂節 +1</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2819</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-攻擊性禱歌消耗樂節-1。
+攻擊性禱歌消耗 樂節 -1
 
-近戰武器暴擊命中有50%的機率獲得一個樂節。
+近戰武器 &lt;g&gt;暴擊&lt;/g&gt;有50%的機率獲得一個 樂節
 
 &lt;b&gt;懲罰&lt;/b&gt;
-非攻擊性禱歌消耗樂節+1。</DefaultText>
+非攻擊性禱歌消耗 樂節 +1</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2820</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-樂節的徘徊效果大幅增加。
+&lt;g&gt;樂節&lt;/g&gt;的餘音大幅延長
 
-獲得「歡誦」作戰風格，可增加樂節詠唱速率，但縮短徘徊的時間。
+獲得「歡誦」作戰風格，可增加樂節產生速率，但取消餘音
 
 &lt;b&gt;懲罰&lt;/b&gt;
-所有禱歌消耗樂節+1。</DefaultText>
+所有禱歌消耗樂節 +1</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2821</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-譯靈使所有欺詐法術的範圍增加。
+所有「欺瞞」類譯靈使法術的範圍增加
 
-對易受偷襲的敵人成功施放欺詐法術時，恢復集中值。
+對易受偷襲的敵人成功施放「欺瞞」類譯靈使法術時，恢復 集中值
 
 &lt;b&gt;懲罰&lt;/b&gt;
-靈魂之鞭對不易受偷襲的目標輸出較少的加成傷害，集中值減少。</DefaultText>
+靈魂之鞭對不易受偷襲的目標提供較少 傷害 加成 及 減少獲得的 集中值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2822</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-增加集中值上限。
+集中值 上限增加
 
-集中值達到最大時，靈威總是以大幅增加的力量等級來施放。
+集中值達到最大時賦予短暫「飛昇」效果，大幅增加其法術 威力等級 及使戰技集中值消耗降為 0
 
-靈魂之鞭不會在最大集中值時停用，並在達到最大集中值時提供更多加成傷害。
+靈魂之鞭不會在飛昇狀態時停用，並在飛昇狀態時提供更多 傷害 加成
 
 &lt;b&gt;懲罰&lt;/b&gt;
-在未達到最大集中值之時，靈威總是以-1力量等級施放。
+未飛昇時，譯靈使的 威力等級 受到懲罰
 
-在未達到最大集中值之時，靈魂之鞭造成的傷害大幅降低，但會產生更多集中值。
+未飛昇時，靈魂之鞭造成的傷害大幅降低，但會產生更多集中值 
 
-集中值達到最大值之後，很快會降為0。</DefaultText>
+飛昇結束後，集中值降為 0</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2823</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得「靈魂湮沒」戰技：一種經過靈魂強化的近戰攻擊，可消耗譯靈使的剩餘力量並轉化為對目標的真實傷害。
+獲得「靈魂湮沒」戰技：一種以靈魂強化的近戰攻擊，可消耗譯靈使剩餘的 力量池 並轉化為對目標的 &lt;g&gt;真實&lt;/g&gt;傷害
 
-一些譯靈使法術消耗較少集中值。
+譯靈使「撕碎」類法術消耗較少 集中值
 
-用近戰武器打倒敵人可暫時獲得專注並提升集中值上限。
+用近戰武器打倒敵人可暫時獲得 專注 並提升集中值上限
 
 &lt;b&gt;懲罰&lt;/b&gt;
-集中值上限降低。（戰鬥初始數量亦然）</DefaultText>
+集中值上限降低（戰鬥初始數量亦然）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2825</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得「昂德拉之鞭」德魯伊法術。
+獲得「昂德拉之鞭」德魯伊法術
 
-到達新力量等級時能學習水塑者法術。
+到達新 威力等級 時能學習特定水塑者法術
 
-通過該方式施放的寒霜和水系法術只能作用在敵人身上。
+通過該方式施放的「寒霜」和「水」類法術只作用在敵人身上
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法使用火焰與生物系德魯伊法術。</DefaultText>
+無法使用「火焰」與「生物」類德魯伊法術</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2827</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-狂怒德魯伊變化成風暴魂怪，而不是動物形態。
+暴靈道德魯伊變形成風暴魂怪，而不是動物形態
 
-元素類德魯伊法術增加範圍和穿透。
+「元素」類德魯伊法術增加範圍和 穿透
 
-變形後擊殺敵人可延長變形時間。
+變形時擊殺敵人可延長變形時間
 
-到達新力量等級時自動習得以下德魯伊法術：
+到達新 威力等級 時自動習得以下德魯伊法術：
 1.舞電術
 2.爆焰術
 3.風暴再臨
@@ -13257,19 +13278,19 @@
 9.高級漩渦
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法施放復甦法術。</DefaultText>
+無法施放「復甦」類法術</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2828</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-在每次戰鬥中德魯伊可變化成任意動物一次。
+在每次戰鬥中德魯伊可變化成任意動物一次
 
-變形持續時間延長。
+變形持續時間延長
 
-變形結束時，德魯伊恢復一部分生命值。
+變形結束時，德魯伊恢復一部分 生命值
 
-到達新力量等級時自動習得以下德魯伊法術：
+到達新 威力等級 時自動習得以下德魯伊法術：
 1.自然印記
 2.蟲群術
 3.蛆疫術
@@ -13281,93 +13302,93 @@
 9.花粉圈
 
 &lt;b&gt;懲罰&lt;/b&gt;
-動物形態時無法施法。</DefaultText>
+動物形態時無法施法</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2829</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-一開始就擁有一個額外的武器套裝和武器熟練。
+一開始就擁有一個額外的武器套裝和武器熟練
 
-切換武器時的冷卻時間懲罰減少。
+切換武器時的 &lt;xg&gt;復原&lt;/xg&gt; 時間懲罰減少
 
 &lt;b&gt;懲罰&lt;/b&gt;
-持續&lt;xg&gt;恢復&lt;/xg&gt;能力減弱。</DefaultText>
+持續&lt;xg&gt;恢復&lt;/xg&gt;能力減弱</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2830</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-可以為自己的武器選擇一個武器熟練。
+可以選擇一個武器熟練作為他們的首選武器
 
-所選武器的穿透增加。
+首選武器的 穿透 增加
 
-所選武器的暴擊傷害增加。
+首選武器的 &lt;g&gt;暴擊&lt;/g&gt;傷害增加
 
 &lt;b&gt;懲罰&lt;/b&gt;
-在使用非所選武器時受精準懲罰。
+在使用非首選武器時受 &lt;g&gt;精準&lt;/g&gt;懲罰
 
-只能獲得一個武器熟練，升級時無法獲得新的武器熟練。</DefaultText>
+只能獲得一個武器熟練，升級時無法獲得新的武器熟練</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2832</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-+1交戰。
++1 交戰
 
-藉機攻擊的穿透增加。
+增加脫戰攻擊的 穿透
 
-攜帶盾牌時護甲值獲得加成。
+獲得「護盾精通」，攜帶盾牌時 &lt;g&gt;護甲值&lt;/g&gt;獲得加成
 
 &lt;b&gt;懲罰&lt;/b&gt;
-戰鬥中跨步能力降低。
+戰鬥中 步幅 降低
 
-反射屬性降低。</DefaultText>
+&lt;g&gt;反射&lt;/g&gt;降低</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2834</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-戰鬥一開始便擁有更多苦痛。
+戰鬥一開始便擁有更多 苦痛
 
-鬼門哲派武僧擁有的苦痛可換來力量。
+鬼門哲派武僧擁有的每點苦痛都會增加 力量
 
 &lt;b&gt;懲罰&lt;/b&gt;
-鬼門哲派武僧會因每一個苦痛遭受更多傷害。</DefaultText>
+鬼門哲派武僧擁有的每點苦痛都會增加所受傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2835</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-所有藥物效果持續更久。
+所有 藥物 效果持續更久
 
-獲得藥物的加成時產生苦痛。
+獲得藥物的加成時產生 苦痛
 
 &lt;b&gt;懲罰&lt;/b&gt;
-來自藥物的衝突性懲罰導致武僧無法獲得治療。
+來自藥物的戒斷症懲罰導致武僧無法獲得治療
 
-無法獲得藥物增益時，苦痛會惡化。</DefaultText>
+無法獲得藥物增益時，苦痛會下降</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2836</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-使用近戰武器造成傷害時獲得苦痛。（戰技不算在內）
+使用近戰武器造成傷害時獲得 苦痛（戰技不算在內）
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法從所受傷害中獲得苦痛。
+無法從受到傷害中獲得苦痛 
 
-獲得苦痛的所需臨界值提高。
+獲得苦痛的所需臨界值提高
 
-苦痛上限值降低。</DefaultText>
+苦痛上限值降低</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2837</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得「奉獻之焰」。
+獲得「奉獻之焰」
 
-「奉獻之焰」造成附加的腐蝕傷害（黑焰），並對目標施加「噁心」減益狀態。</DefaultText>
+「奉獻之焰」造成附加的 &lt;g&gt;腐蝕&lt;/g&gt;傷害（黑焰），並對目標施加「噁心」熬煎</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13375,37 +13396,37 @@
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
 獲得「聖療之手」。
 
-「聖療之手」對目標施加一個次級焰盾術。</DefaultText>
+「聖療之手」對目標施加一個次級焰盾術</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2839</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得「不共戴天」。
+獲得「不共戴天」
 
-「不共戴天」升級為「鍍金敵意」之後，會使聖武士在確定「不共戴天」目標時獲得全身鍍金的祝福效果。聖武士獲得額外的護甲值，直到被命中足夠多的次數導致金身被打破為止。</DefaultText>
+「不共戴天」升級為「鍍金敵意」之後，會使聖武士在確定「不共戴天」目標時獲得全身鍍金的祝福效果。聖武士獲得額外的 護甲值，直到被擊中一定次數導致金身被打破為止</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2840</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得「奉獻之焰」。
+獲得「奉獻之焰」
 
-「奉獻之焰」可治療附近隊友（白焰）。</DefaultText>
+「奉獻之焰」可治療附近隊友（白焰）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2841</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得「不共戴天」。
+獲得「不共戴天」
 
-「不共戴天」升級為「五陽之怒」。</DefaultText>
+「不共戴天」升級為「五陽之怒」</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2842</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-貝拉斯的牧師在適當的力量等級自動習得下列法術：
+貝拉斯 的牧師在適當的 威力等級 自動習得下列法術：
 1.腐化之手
 2.冥思術
 3.瘟疫術
@@ -13420,7 +13441,7 @@
 		<Entry>
 			<ID>2843</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-俄撒斯的牧師在適當的力量等級自動習得下列法術：
+俄撒斯 的牧師在適當的 威力等級 自動習得下列法術：
 1.陽炎術
 2.免難術
 3.憐憫化身
@@ -13435,7 +13456,7 @@
 		<Entry>
 			<ID>2844</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-瑪珈嵐的牧師在適當的力量等級自動習得下列法術：
+瑪珈嵐 的牧師在適當的 威力等級 自動習得下列法術：
 1.火焰扇
 2.靈武術
 3.火焰射線
@@ -13450,11 +13471,11 @@
 		<Entry>
 			<ID>2845</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-司坎的牧師在適當的力量等級自動習得下列法術：
+司坎 的牧師在適當的 威力等級 自動習得下列法術：
 1.責難術
 2.逃脫
 3.神印術
-4.終結
+4.終命一擊
 5.影襲
 6.靈友
 7.次級降世術
@@ -13465,13 +13486,13 @@
 		<Entry>
 			<ID>2846</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-沃艾珥的牧師在適當的力量等級自動習得下列法術：
+沃艾珥 的牧師在適當的 威力等級 自動習得下列法術：
 1.秘法護盾
 2.符文投影
 3.鏡影術
-4.郎歌世移形換影術
+4.郎歌世的移形換影術
 5.困惑術
-6.亞柯彌苦痛綿延術
+6.亞柯彌的苦痛綿延術
 7.魂珀凝絕術
 8.沃艾珥的符印
 9.沃艾珥之祝福</DefaultText>
@@ -13480,147 +13501,148 @@
 		<Entry>
 			<ID>2847</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-對「聯結之殤」免疫。
+對「聯結之殤」免疫
 
-動物夥伴對「交戰」免疫。
+動物夥伴對 交戰 免疫
 
 &lt;b&gt;懲罰&lt;/b&gt;
-在戰鬥中必須主動召喚動物夥伴（消耗綁定，且有一定的持續時間）。
+在戰鬥中必須主動召喚動物夥伴（消耗羈絆，且有一定的持續時間）
 
-夥伴被認定為靈體，受專門針對靈體的靈威影響。
+夥伴被認定為靈體，受專門針對靈體的靈威影響
 
-動物夥伴無法治療（無法學習「治療寵物」和「復活寵物」戰技）。</DefaultText>
+動物夥伴無法治療（無法學習「治療寵物」和「復活寵物」戰技）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2848</ID>
-			<DefaultText>{1}打斷了{0}，但被「專注」抵銷！</DefaultText>
+			<DefaultText>{1} &lt;g&gt;打斷&lt;/g&gt;了{0}，但被 &lt;g&gt;專注&lt;/g&gt;抵銷！</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2849</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-攻擊4米之外的目標時，「命中到暴擊」的轉化獲得加成。
+攻擊4米以外的目標時，「&lt;g&gt;命中&lt;/g&gt;轉為 暴擊」機率增加
 
-攻擊距離4米以內的目標時，獲得額外穿透。
+攻擊4米以內的目標時，獲得額外 穿透
 
 &lt;b&gt;懲罰&lt;/b&gt;
-冷卻時間延長。
+&lt;g&gt;復原&lt;/g&gt;時間較慢
 
-格擋降低。</DefaultText>
+&lt;g&gt;格擋&lt;/g&gt;較低</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2850</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-追蹤者和夥伴相隔4米以內時，獲得額外的格擋和護甲值。
+追獵者和其夥伴相隔4米以內時，獲得額外的 格擋 和 護甲值
 
 &lt;b&gt;懲罰&lt;/b&gt;
-追蹤者和夥伴相隔超過7米時，會遭受「聯結之殤」。</DefaultText>
+追獵者和夥伴相隔超過7米時，會遭受「聯結之殤」</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2852</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-習得&lt;xg&gt;「亞柯彌&lt;/xg&gt;炫光術」。
+習得「&lt;xg&gt;亞柯彌&lt;/xg&gt;的炫光術」
 
-在新力量等級時可自動選擇幻術系法師法術。（法術需要使用「狡詐」）
+在新 威力等級 時可自動選擇幻術系法師法術（法術使用「狡詐」）
 
 &lt;b&gt;懲罰&lt;/b&gt;
-偷襲造成的傷害大幅降低。</DefaultText>
+偷襲造成的傷害大幅降低</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2853</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-在隱匿模式下，攻擊獲得額外的穿透、精準和暴擊傷害。
+在隱匿模式下，攻擊獲得額外的 穿透、精準 和 &lt;g&gt;暴擊&lt;/g&gt;傷害
 
 &lt;b&gt;懲罰&lt;/b&gt;
-遭受的所有傷害增加。</DefaultText>
+遭受的所有傷害增加</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2854</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-正中眉心—遠程攻擊獲得更大的精準加成，在隱匿模式下使用則保證為暴擊。
+正中眉心 - 遠程攻擊獲得更大的 &lt;g&gt;精準&lt;/g&gt;加成，在隱匿模式下使用則保證為 暴擊
 
 &lt;b&gt;懲罰&lt;/b&gt;
--1狡詐。</DefaultText>
+-1 狡詐</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2855</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-街鬥士受夾擊或重傷時，偷襲更加致命，冷卻時間縮短。
+街鬥士受 &lt;g&gt;夾擊&lt;/g&gt;或 &lt;g&gt;重傷&lt;/g&gt;時，偷襲更加致命，&lt;g&gt;復原&lt;/g&gt;時間縮短
 
-街鬥士同時受夾擊和重傷時，武器暴擊傷害增加。
+街鬥士同時受夾擊和重傷時，武器 &lt;g&gt;暴擊&lt;/g&gt;傷害增加
 
 &lt;b&gt;懲罰&lt;/b&gt;
-當街鬥士既未受夾擊亦未重傷之時，冷卻時間更長。</DefaultText>
+當街鬥士既未受夾擊亦未重傷之時，復原時間更長</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2857</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-咒法系法術的力量等級增加。
+增加咒法系法術的 威力等級
 
-獲得「召喚魔寵」法術：召喚一個生物來協助法師。魔寵不擅長戰鬥，但可以為主人提供被動加成。
+獲得「召喚魔寵」法術：召喚一個生物來協助法師。魔寵不擅長戰鬥，但可以為主人提供被動加成
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法使用塑能系和幻術系法術。
-非咒法系法術的冷卻時間延長。</DefaultText>
+無法使用塑能系學派和幻術系學派法術
+
+非咒法系學派的法師法術 &lt;g&gt;復原&lt;/g&gt;時間延長</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2858</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-附魔系法術的力量等級增加。
+增加附魔系法術的 威力等級
 
-獲得「自由行動」被動效果：當法師受敏捷減益狀態影響時，他們會清除該減益狀態並短暫對該狀態免疫，每場戰鬥一次。
+獲得「解放行動」被動效果：每次遭遇 一次，當法師受 敏捷熬煎 影響時，他們會清除該 熬煎 並短暫對該狀態免疫
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法使用幻術系和變化系法術。
+無法使用幻術系學派和變化系學派法術
 
-非附魔系法術的冷卻時間延長。</DefaultText>
+非附魔系學派的法師法術 &lt;g&gt;復原&lt;/g&gt;時間延長</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2859</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-塑能系法術的力量等級增加。
+增加塑能系法術的 威力等級
 
-塑能系法術有較小几率產生「雙重施法」，即立即對目標再次施加法術的傷害和效果。
+塑能系法術有小機率產生「雙重施法」，即立即對目標再次施加法術的傷害和效果
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法使用變化系和咒法系法術。
+無法使用變化系學派學派和咒法系學派法術
 
-非塑能系法師法術的冷卻時間延長。</DefaultText>
+非塑能系學派的法師法術 &lt;g&gt;復原&lt;/g&gt;時間延長</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2861</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-幻術系法術的力量等級增加。
+增加幻術系法術的 威力等級
 
-獲得「反射鏡面」被動技能：首次遭到攻擊時，自動獲得「鏡影術」效果，每場戰鬥一次。
+獲得「反射鏡面」被動技能：每次遭遇 一次，首次被攻擊時，自動獲得「鏡影術」效果
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法使用咒法系和附魔系法術。
+無法使用咒法系學派和附魔系學派法術
 
-非幻術系法術冷卻時間延長。</DefaultText>
+非幻術系學派的法師法術 &lt;g&gt;復原&lt;/g&gt;時間延長</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2862</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-變化系法術的力量等級增加。
+增加變化系法術的 威力等級
 
-獲得「狂暴化身」法術：法師變身為食人魔。變身後，無法使用法術，但各項體能屬性增加。
+獲得「狂暴化身」法術：法師變身為巨魔。變身後，無法使用法術，但各項肉體能力屬性增加
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法使用附魔系和塑能系法術。
+無法使用附魔系學派和塑能系學派法術
 
-非變化系法術的冷卻時間延長。</DefaultText>
+非變化系學派的法師法術 &lt;g&gt;復原&lt;/g&gt;時間延長</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13661,7 +13683,7 @@
 		</Entry>
 		<Entry>
 			<ID>2870</ID>
-			<DefaultText>通往峽谷</DefaultText>
+			<DefaultText>通往邊沟區</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13716,7 +13738,7 @@
 		</Entry>
 		<Entry>
 			<ID>2881</ID>
-			<DefaultText>亡焰皇家商行總部</DefaultText>
+			<DefaultText>帝國總部</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13881,47 +13903,47 @@
 		</Entry>
 		<Entry>
 			<ID>2914</ID>
-			<DefaultText>秘法涵蓋了所有不屬於玄學範疇的魔法事物的知識。在戰鬥中，它可以用來增加卷軸的力量等級。</DefaultText>
+			<DefaultText>秘法涵蓋了所有不屬於玄學範疇的魔法事物的知識。在戰鬥中，它可以用來增加 卷軸 的 威力等級。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2915</ID>
-			<DefaultText>爆破提升炸彈、喧嘩者和類似裝置的的精準、傷害和效力。</DefaultText>
+			<DefaultText>爆破提升 炸彈、喧嘩者和類似裝置的的 精準、傷害 和效力。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2916</ID>
-			<DefaultText>有些場景會考驗到角色的平衡感，比如站在一根橫樑上或踩在一塊滾動的巨石上，此時就要依靠「特技」了。</DefaultText>
+			<DefaultText>有些場景會考驗到角色的平衡感，比如站在一根橫樑上或踩在一塊滾動的巨石上。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2917</ID>
-			<DefaultText>面對困難局面之時，可利用「外交」技能來協商得出合理的解決方案。這一技能強調的是耐心、尊重和細膩的品質，因此被艾歐拉某些性格粗獷的民族所唾棄。</DefaultText>
+			<DefaultText>面對困難局面之時，可利用外交技能來協商得出合理的解決方案。這一技能強調的是耐心、尊重和細膩的品質，因此被艾歐拉某些性格粗獷的民族所唾棄。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2918</ID>
-			<DefaultText>煉金術研究的是植物、寶石和人體部位的自然和超自然特性。它影響所有藥物、毒藥和解藥和使用。</DefaultText>
+			<DefaultText>煉金術研究的是植物、寶石和人體部位的自然和超自然特性。它影響所有 藥物、毒藥 和 解藥 和使用。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2919</ID>
-			<DefaultText>「歷史」是一項範圍廣泛的技能，涵蓋了被普遍接受的，關於艾歐拉各大文明形成與發展的知識。由於此技能借鑒了很多資源，因此角色所瞭解的諸多故事裡結合了一定程度的民間傳說。</DefaultText>
+			<DefaultText>歷史是一項範圍廣泛的技能，涵蓋了被普遍接受的，關於艾歐拉各大文明形成與發展的知識。由於此技能借鑒了很多資源，因此角色所瞭解的諸多故事裡結合了一定程度的民間傳說。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2920</ID>
-			<DefaultText>角色可以利用「恐嚇」技能對目標進行言語威脅、肢體唬嚇，使之產生動搖和畏懼心理。雖然這一技能並非對所有人都有效，但可以用作說服他人的有效手段。</DefaultText>
+			<DefaultText>角色可以利用恐嚇技能對目標進行言語威脅、肢體唬嚇，使之產生動搖和畏懼心理。雖然這一技能並非對所有人都有效，但可以用作說服他人的有效手段。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2921</ID>
-			<DefaultText>玄學算是一門年輕的學科，它研究的是鑄魂學、魂碧、貝拉斯之輪、暗界、異界以及所有關於靈魂的神秘知識。</DefaultText>
+			<DefaultText>玄學算是一門年輕的學科，它研究的是 鑄魂學、魂珀、神輪、暗界、異界以及所有關於靈魂的神秘知識。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2922</ID>
-			<DefaultText>「宗教」包含了艾歐拉各種宗教的神學理論，以及公眾信仰、聖人崇拜和世界各地的宗教組織等知識。</DefaultText>
+			<DefaultText>宗教包含了艾歐拉各種宗教的神學理論，以及公眾信仰、聖人崇拜和世界各地的宗教組織等知識。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13931,7 +13953,7 @@
 		</Entry>
 		<Entry>
 			<ID>2924</ID>
-			<DefaultText>「街頭智慧」涵蓋了角色在街頭、大城市角落裡學會的基本生存法則。它包含有城市適應能力以及對付流氓地痞時的適當禮儀。</DefaultText>
+			<DefaultText>街頭智慧涵蓋了角色在街頭、大城市角落裡學會的基本生存法則。它包含有城市適應能力以及對付流氓地痞時的適當禮儀。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13981,7 +14003,7 @@
 		</Entry>
 		<Entry>
 			<ID>2934</ID>
-			<DefaultText>高野的莊園</DefaultText>
+			<DefaultText>塔卡努的莊園</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13996,7 +14018,7 @@
 		</Entry>
 		<Entry>
 			<ID>2937</ID>
-			<DefaultText>打斷！</DefaultText>
+			<DefaultText>打斷 ！</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14051,7 +14073,7 @@
 		</Entry>
 		<Entry>
 			<ID>2948</ID>
-			<DefaultText>過量穿透</DefaultText>
+			<DefaultText>超穿透</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14321,77 +14343,77 @@
 		</Entry>
 		<Entry>
 			<ID>3002</ID>
-			<DefaultText>{0:Value}強效點數</DefaultText>
+			<DefaultText>{0:Value} &lt;g&gt;強效&lt;/g&gt;點數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3003</ID>
-			<DefaultText>{0:Value}集中值</DefaultText>
+			<DefaultText>{0:Value} 集中值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3004</ID>
-			<DefaultText>{0:Value}樂節</DefaultText>
+			<DefaultText>{0:Value} 樂節</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3005</ID>
-			<DefaultText>{0:Value}最大強效點數</DefaultText>
+			<DefaultText>{0:Value} 最大 &lt;g&gt;強效&lt;/g&gt;點數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3006</ID>
-			<DefaultText>獲得針對{0:AfflictionType}減益狀態的抗性</DefaultText>
+			<DefaultText>獲得針對 {0:AfflictionType}熬煎 的 抗性</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3007</ID>
-			<DefaultText>{0:Value}最大{0:Class:Pool}</DefaultText>
+			<DefaultText>{0:Value} 最大 {0:Class:Pool}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3008</ID>
-			<DefaultText>每個{0:Class}的資源{0:Value}</DefaultText>
+			<DefaultText>{0:Value} {0:Class}每個資源</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3009</ID>
-			<DefaultText>{0:Value:Duration} {0:AfflictionType}減益狀態持續時間</DefaultText>
+			<DefaultText>{0:Value:Duration} {0:AfflictionType}熬煎 持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3010</ID>
-			<DefaultText>{0:Value:PercentBonus} {0:AfflictionType}減益狀態持續時間</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} {0:AfflictionType}熬煎 持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3012</ID>
-			<DefaultText>{0:Value}護甲值</DefaultText>
+			<DefaultText>{0:Value} 護甲值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3013</ID>
-			<DefaultText>可造成擦傷</DefaultText>
+			<DefaultText>可造成 擦傷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3014</ID>
-			<DefaultText>打斷攻擊</DefaultText>
+			<DefaultText>打斷 攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3015</ID>
-			<DefaultText>打斷敵方暴擊</DefaultText>
+			<DefaultText>攻擊 打斷【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3016</ID>
-			<DefaultText>處於未察覺目標身後時獲得{0:Value}精準</DefaultText>
+			<DefaultText>{0:Value} 精準【處於未察覺目標身後時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3017</ID>
-			<DefaultText>命中的{0:Value:Percent}轉化為對至少{0:ExtraValue:Distance}以外的目標的暴擊</DefaultText>
+			<DefaultText>{0:Value:Percent} &lt;g&gt;命中&lt;/g&gt;轉為 暴擊【對至少{0:ExtraValue:Distance}以外的目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14406,7 +14428,7 @@
 		</Entry>
 		<Entry>
 			<ID>3020</ID>
-			<DefaultText>對{0:Race:Plural}造成{0:Value:PercentBonus}傷害</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 傷害【對{0:Race:Plural}】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14421,7 +14443,7 @@
 		</Entry>
 		<Entry>
 			<ID>3023</ID>
-			<DefaultText>將命中的{0:Value:Percent}轉化為暴擊</DefaultText>
+			<DefaultText>{0:Value:Percent} 所受 &lt;g&gt;命中&lt;/g&gt;轉為 暴擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14431,37 +14453,37 @@
 		</Entry>
 		<Entry>
 			<ID>3025</ID>
-			<DefaultText>對所有效果免疫，除{0:Keyword}之外</DefaultText>
+			<DefaultText>對所有效果 免疫，除{0:Keyword}之外</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3026</ID>
-			<DefaultText>{0:Class} {0:Keyword}戰技消耗{0:Value}</DefaultText>
+			<DefaultText>{0:Class} {0:Keyword} 戰技費用 {0:Value}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3027</ID>
-			<DefaultText>不會被低等級敵人鎖定交戰</DefaultText>
+			<DefaultText>不會被低等級敵人 交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3028</ID>
-			<DefaultText>{0:Value}穿透</DefaultText>
+			<DefaultText>{0:Value} 穿透</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3029</ID>
-			<DefaultText>{0:Value:PercentBonus}樂節徘徊時間</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 樂節 餘音時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3030</ID>
-			<DefaultText>{0:Value} {0:Class} {0:Keyword}力量等級</DefaultText>
+			<DefaultText>{0:Value} {0:Class} {0:Keyword} 威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3031</ID>
-			<DefaultText>{0:ExtraValue:Duration}之後有{0:Value:Percent}機率重複攻擊</DefaultText>
+			<DefaultText>{0:Value:Percent}機率重複攻擊，於{0:ExtraValue:Duration}後</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14471,37 +14493,37 @@
 		</Entry>
 		<Entry>
 			<ID>3033</ID>
-			<DefaultText>{0:WeaponType}專精</DefaultText>
+			<DefaultText>熟練{0:WeaponType}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3034</ID>
-			<DefaultText>武器精專獲得{0:Value}精準</DefaultText>
+			<DefaultText>{0:Value} 精準【使用熟練武器時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3035</ID>
-			<DefaultText>武器精專造成{0:Value:PercentBonus}傷害</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 傷害【使用熟練武器時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3036</ID>
-			<DefaultText>{0}對抗{1}</DefaultText>
+			<DefaultText>{0}【對 {1}】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3037</ID>
-			<DefaultText>使用{1}時{0}</DefaultText>
+			<DefaultText>{0}【使用 {1}時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3038</ID>
-			<DefaultText>{1}{0}</DefaultText>
+			<DefaultText>{0}【來自{1}】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3039</ID>
-			<DefaultText>區域效果</DefaultText>
+			<DefaultText>效應範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14526,12 +14548,12 @@
 		</Entry>
 		<Entry>
 			<ID>3044</ID>
-			<DefaultText>藉機</DefaultText>
+			<DefaultText>脫戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3045</ID>
-			<DefaultText>{0}攻擊</DefaultText>
+			<DefaultText>&lt;g&gt;{0}&lt;/g&gt;攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14541,7 +14563,7 @@
 		</Entry>
 		<Entry>
 			<ID>3047</ID>
-			<DefaultText>{0}武器精專</DefaultText>
+			<DefaultText>{0}熟練的武器</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14561,17 +14583,17 @@
 		</Entry>
 		<Entry>
 			<ID>3052</ID>
-			<DefaultText>對{1}{0}</DefaultText>
+			<DefaultText>{0}【對 {1}】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3053</ID>
-			<DefaultText>{0}被動</DefaultText>
+			<DefaultText>{0} 被動</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3054</ID>
-			<DefaultText>{0}戰技</DefaultText>
+			<DefaultText>{0} 戰技</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14586,7 +14608,7 @@
 		</Entry>
 		<Entry>
 			<ID>3057</ID>
-			<DefaultText>{0}作戰風格</DefaultText>
+			<DefaultText>{0} 作戰風格</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14631,12 +14653,12 @@
 		</Entry>
 		<Entry>
 			<ID>3066</ID>
-			<DefaultText>{0}力量池</DefaultText>
+			<DefaultText>{0} 力量池</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3067</ID>
-			<DefaultText>力量等級</DefaultText>
+			<DefaultText>威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14651,7 +14673,7 @@
 		</Entry>
 		<Entry>
 			<ID>3070</ID>
-			<DefaultText>{0} {1} {2}。使用{3}取消效果。</DefaultText>
+			<DefaultText>{0} {1} {2}。{3}取消掉效果。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14696,7 +14718,7 @@
 		</Entry>
 		<Entry>
 			<ID>3079</ID>
-			<DefaultText>{0}行為套組</DefaultText>
+			<DefaultText>{0}  行為套組</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14771,17 +14793,17 @@
 		</Entry>
 		<Entry>
 			<ID>3094</ID>
-			<DefaultText>使用物品獲得{0:Value:PercentBonus}冷卻時間</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} &lt;g&gt;復原&lt;/g&gt;時間【使用物品時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3096</ID>
-			<DefaultText>{0} {1} {2}，但對{2}免疫！</DefaultText>
+			<DefaultText>{0} {1} {2}，但對 {2} 免疫！</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3097</ID>
-			<DefaultText>不是</DefaultText>
+			<DefaultText>不是：</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14881,7 +14903,7 @@
 		</Entry>
 		<Entry>
 			<ID>3131</ID>
-			<DefaultText>{0}力量等級</DefaultText>
+			<DefaultText>{0} 威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14891,7 +14913,7 @@
 		</Entry>
 		<Entry>
 			<ID>3133</ID>
-			<DefaultText>隊友或自己</DefaultText>
+			<DefaultText>隊友或自身</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14911,7 +14933,7 @@
 		</Entry>
 		<Entry>
 			<ID>3137</ID>
-			<DefaultText>奧里奧柯基聖所</DefaultText>
+			<DefaultText>奧里奧柯爾奇聖所</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15001,7 +15023,7 @@
 		</Entry>
 		<Entry>
 			<ID>3155</ID>
-			<DefaultText>總數</DefaultText>
+			<DefaultText>總量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15021,17 +15043,17 @@
 		</Entry>
 		<Entry>
 			<ID>3160</ID>
-			<DefaultText>最高護甲</DefaultText>
+			<DefaultText>最高護甲值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3161</ID>
-			<DefaultText>最低護甲</DefaultText>
+			<DefaultText>最低護甲值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3162</ID>
-			<DefaultText>造成的最高傷害</DefaultText>
+			<DefaultText>最高傷害造成量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15116,7 +15138,7 @@
 		</Entry>
 		<Entry>
 			<ID>3179</ID>
-			<DefaultText>需花費{0}前往{2}。</DefaultText>
+			<DefaultText>需花費{0}進入城市並前往{2}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15151,27 +15173,27 @@
 		</Entry>
 		<Entry>
 			<ID>3185</ID>
-			<DefaultText>{0} ({1})</DefaultText>
+			<DefaultText>{0}（{1}）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3186</ID>
-			<DefaultText>無法使用藥水</DefaultText>
+			<DefaultText>無法使用 藥水</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3187</ID>
-			<DefaultText>{0}無法使用藥水。</DefaultText>
+			<DefaultText>{0}無法使用 藥水</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3188</ID>
-			<DefaultText>無法使用卷軸</DefaultText>
+			<DefaultText>無法使用 卷軸</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3189</ID>
-			<DefaultText>{0}無法使用卷軸.</DefaultText>
+			<DefaultText>{0}無法使用 卷軸</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15191,12 +15213,12 @@
 		</Entry>
 		<Entry>
 			<ID>3193</ID>
-			<DefaultText>{0:Value:PercentBonus}冷卻時間</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} &lt;g&gt;復原&lt;/g&gt;時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3195</ID>
-			<DefaultText>{2}抵抗了{0}。</DefaultText>
+			<DefaultText>{2}抵抗了 {0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15241,7 +15263,7 @@
 		</Entry>
 		<Entry>
 			<ID>3204</ID>
-			<DefaultText>測試：不要使用。</DefaultText>
+			<DefaultText>DEBUG: DO NOT USE.</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15251,7 +15273,7 @@
 		</Entry>
 		<Entry>
 			<ID>3206</ID>
-			<DefaultText>粗暴</DefaultText>
+			<DefaultText>粗魯</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15266,12 +15288,12 @@
 		</Entry>
 		<Entry>
 			<ID>3209</ID>
-			<DefaultText>{0}非武器精專</DefaultText>
+			<DefaultText>{0} 非熟練的武器</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3210</ID>
-			<DefaultText>優先行為：</DefaultText>
+			<DefaultText>行為優先權：</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15281,12 +15303,12 @@
 		</Entry>
 		<Entry>
 			<ID>3212</ID>
-			<DefaultText>按隊列順序</DefaultText>
+			<DefaultText>按列表順序</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3213</ID>
-			<DefaultText>按從高到低力量等級</DefaultText>
+			<DefaultText>按最高威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15316,7 +15338,7 @@
 		</Entry>
 		<Entry>
 			<ID>3219</ID>
-			<DefaultText>棕櫚油、米、可可豆、珍珠、柚木、柯基果、光魂珀</DefaultText>
+			<DefaultText>棕櫚油、米、可可豆、珍珠、柚木、柯爾奇果、光魂珀</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15371,12 +15393,12 @@
 		</Entry>
 		<Entry>
 			<ID>3230</ID>
-			<DefaultText>{0:Value:PercentBonus}跨步</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 步幅</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3231</ID>
-			<DefaultText>跨步</DefaultText>
+			<DefaultText>步幅</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15561,7 +15583,7 @@
 		</Entry>
 		<Entry>
 			<ID>3272</ID>
-			<DefaultText>大炮精準</DefaultText>
+			<DefaultText>大炮 精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15856,12 +15878,12 @@
 		</Entry>
 		<Entry>
 			<ID>3331</ID>
-			<DefaultText>選擇一項初始樂節</DefaultText>
+			<DefaultText>選擇一項初始 樂節</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3332</ID>
-			<DefaultText>選擇一項初始禱歌</DefaultText>
+			<DefaultText>選擇一項初始 禱歌</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15986,7 +16008,7 @@
 		</Entry>
 		<Entry>
 			<ID>3359</ID>
-			<DefaultText>回收戰利品數量</DefaultText>
+			<DefaultText>收穫的戰利品</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16001,12 +16023,12 @@
 		</Entry>
 		<Entry>
 			<ID>3362</ID>
-			<DefaultText>{0}將傷害轉化為{1}生命值。</DefaultText>
+			<DefaultText>{0} 傷害轉化為 {1} 生命值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3366</ID>
-			<DefaultText>官員休息室</DefaultText>
+			<DefaultText>軍官休息室</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16021,12 +16043,12 @@
 		</Entry>
 		<Entry>
 			<ID>3379</ID>
-			<DefaultText>最多遇敵數量</DefaultText>
+			<DefaultText>最多敵人數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3380</ID>
-			<DefaultText>最多隊友數量</DefaultText>
+			<DefaultText>最多同伴數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16081,27 +16103,27 @@
 		</Entry>
 		<Entry>
 			<ID>3393</ID>
-			<DefaultText>敵人對你的攻擊失手時</DefaultText>
+			<DefaultText>所受攻擊失手時</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3394</ID>
-			<DefaultText>敵人對你的攻擊造成擦傷時</DefaultText>
+			<DefaultText>所受攻擊擦傷時</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3395</ID>
-			<DefaultText>敵人對你攻擊時</DefaultText>
+			<DefaultText>被攻擊時</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3396</ID>
-			<DefaultText>被攻擊命中或暴擊時</DefaultText>
+			<DefaultText>被攻擊 &lt;g&gt;命中&lt;/g&gt;或 &lt;g&gt;暴擊&lt;/g&gt;時</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3397</ID>
-			<DefaultText>被暴擊時</DefaultText>
+			<DefaultText>被 &lt;g&gt;暴擊&lt;/g&gt;時</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16166,7 +16188,7 @@
 		</Entry>
 		<Entry>
 			<ID>3423</ID>
-			<DefaultText>武器精通可以讓角色在裝備武器時，使用特殊的作戰風格戰技。不過使用沒有對應精通的武器也不會有懲罰。</DefaultText>
+			<DefaultText>武器精通可以讓角色在裝備武器時，使用特殊的 作戰風格 戰技。不過使用沒有對應精通的武器也不會有懲罰。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16176,7 +16198,7 @@
 		</Entry>
 		<Entry>
 			<ID>3447</ID>
-			<DefaultText>庭院</DefaultText>
+			<DefaultText>大堂</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16496,7 +16518,7 @@
 		</Entry>
 		<Entry>
 			<ID>3557</ID>
-			<DefaultText>小販物品欄</DefaultText>
+			<DefaultText>商販物品欄</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16536,7 +16558,7 @@
 		</Entry>
 		<Entry>
 			<ID>3565</ID>
-			<DefaultText>每日淡水配給</DefaultText>
+			<DefaultText>每日食水配給</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16581,7 +16603,7 @@
 		</Entry>
 		<Entry>
 			<ID>3574</ID>
-			<DefaultText>按附魔值排序</DefaultText>
+			<DefaultText>按強化值排序</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16701,7 +16723,7 @@
 		</Entry>
 		<Entry>
 			<ID>3599</ID>
-			<DefaultText>{0:value}所有技能</DefaultText>
+			<DefaultText>{0:value} 所有技能</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16776,7 +16798,7 @@
 		</Entry>
 		<Entry>
 			<ID>3614</ID>
-			<DefaultText>大炮精準</DefaultText>
+			<DefaultText>大炮 精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16827,10 +16849,10 @@
 		<Entry>
 			<ID>3624</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-譯靈使法術有機會觸發意外效果，作用效果異常壯觀，通常（但不是百分百）能夠幫助到隊伍。
+譯靈使法術有機會觸發意外效果，作用效果異常壯觀，通常（但不是百分百）能夠幫助到隊伍
 
 &lt;b&gt;懲罰&lt;/b&gt;
-有時候狂野的效果會造成負面效果。</DefaultText>
+有時候狂野的效果會造成負面效果</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -16846,9 +16868,9 @@
 		<Entry>
 			<ID>3627</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-所有火器（火繩槍，手槍以及火銃）射程增加
+所有火器（火繩槍、手槍以及火銃）射程增加
 
-所有火器命中時都有可能造成打斷。
+所有火器擊中時都有可能造成 打斷
 
 &lt;b&gt;懲罰&lt;/b&gt;
 無</DefaultText>
@@ -16872,9 +16894,9 @@
 		<Entry>
 			<ID>3631</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得手斧熟練。
+獲得手斧熟練
 
-岡恩的牧師在適當的力量等級自動習得下列法術：
+岡恩 的牧師在適當的 威力等級 自動習得下列法術：
 1.祝福收割
 2.免難術
 3.毒棘叢生
@@ -16904,12 +16926,12 @@
 		<Entry>
 			<ID>3635</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得圓盾熟練。
+獲得圓盾熟練
 
-使用近戰攻擊擊敗敵人時獲得苦痛。
+使用近戰攻擊擊敗敵人時獲得 苦痛
 
 &lt;b&gt;懲罰&lt;/b&gt;
-所有苦痛戰技消耗+1。</DefaultText>
+所有 &lt;g&gt;苦痛&lt;/g&gt;戰技消耗+1</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17015,9 +17037,9 @@
 		<Entry>
 			<ID>3657</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得「聖療之手」。
+獲得「聖療之手」
 
-聖療之手變成「絞殺」。
+聖療之手變成「絞殺」
 
 &lt;b&gt;懲罰&lt;/b&gt;
 無</DefaultText>
@@ -17030,12 +17052,12 @@
 		</Entry>
 		<Entry>
 			<ID>3659</ID>
-			<DefaultText>你失去了在{0}之中的負面聲望。</DefaultText>
+			<DefaultText>你失去了在{0}的負面聲望</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3660</ID>
-			<DefaultText>你失去了在{0}之中的正面聲望。</DefaultText>
+			<DefaultText>你失去了在{0}的正面聲望</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17065,7 +17087,7 @@
 		</Entry>
 		<Entry>
 			<ID>3666</ID>
-			<DefaultText>器械總計：</DefaultText>
+			<DefaultText>器械 總計：</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17120,7 +17142,7 @@
 		</Entry>
 		<Entry>
 			<ID>3677</ID>
-			<DefaultText>器械技能太低</DefaultText>
+			<DefaultText>器械 技能太低</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17295,12 +17317,12 @@
 		</Entry>
 		<Entry>
 			<ID>3712</ID>
-			<DefaultText>小麥、絲綢、皮革、綿紡織品、鑄魂學裝備、大理石</DefaultText>
+			<DefaultText>小麥、絲綢、皮革、綿紡織品、鑄魂學 裝備、大理石</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3713</ID>
-			<DefaultText>棕櫚油、紫金草、燒酒、米、魚、英格維仙遺物</DefaultText>
+			<DefaultText>棕櫚油、紫金草、燒酒、米、魚、英格維仙 遺物</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17380,12 +17402,12 @@
 		</Entry>
 		<Entry>
 			<ID>3729</ID>
-			<DefaultText>欺騙</DefaultText>
+			<DefaultText>欺瞞</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3730</ID>
-			<DefaultText>回聲</DefaultText>
+			<DefaultText>迴聲</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17597,7 +17619,7 @@
 		</Entry>
 		<Entry>
 			<ID>3772</ID>
-			<DefaultText>命中機率</DefaultText>
+			<DefaultText>命中率</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17782,12 +17804,12 @@
 		</Entry>
 		<Entry>
 			<ID>3809</ID>
-			<DefaultText>暴擊命中時</DefaultText>
+			<DefaultText>&lt;g&gt;暴擊&lt;/g&gt;時</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3810</ID>
-			<DefaultText>攻擊命中時</DefaultText>
+			<DefaultText>攻擊 &lt;g&gt;命中&lt;/g&gt;時</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17817,22 +17839,22 @@
 		</Entry>
 		<Entry>
 			<ID>3816</ID>
-			<DefaultText>意志法術</DefaultText>
+			<DefaultText>意志 法術</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3817</ID>
-			<DefaultText>選擇職業。</DefaultText>
+			<DefaultText>為此同伴選擇單職業或多職業。以後&lt;i&gt;無法&lt;/i&gt;更改此選擇。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3818</ID>
-			<DefaultText>{0}衝撞了{1}，造成{2} {3}傷害。</DefaultText>
+			<DefaultText>{0}衝撞了{1}，造成{2} {3} 傷害。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3819</ID>
-			<DefaultText>{0}受到了{1} {2}傷害。</DefaultText>
+			<DefaultText>{0}受到了{1} {2} 傷害。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17852,7 +17874,7 @@
 		</Entry>
 		<Entry>
 			<ID>3823</ID>
-			<DefaultText>{0:Value:Percent}機率反射</DefaultText>
+			<DefaultText>{0:Value:Percent} 機率反彈</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17877,7 +17899,7 @@
 		</Entry>
 		<Entry>
 			<ID>3828</ID>
-			<DefaultText>{0}獲得{1}苦痛。</DefaultText>
+			<DefaultText>{0}獲得{1} 苦痛。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17893,23 +17915,23 @@
 		<Entry>
 			<ID>3831</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-獲得「聖療之手」。
+獲得「聖療之手」
 
-對隊友施放「聖療之手」可防止其被殺死。
+對隊友施放「聖療之手」可防止其死亡
 
-裝備盾牌時，+1交戰。</DefaultText>
+裝備盾牌時，+1 交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3832</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-德魯伊復甦法術施放時力量等級提升。
+德魯伊「復甦」類法術施放時 威力等級 提升
 
-變形術生效期間，德魯伊對復甦法術的力量等級加成大幅提升。
+變形時，「復甦」類法術施放時威力等級大幅提升
 
-到達新力量等級時自動習得以下德魯伊法術：
+到達新 威力等級 時自動習得以下德魯伊法術：
 1.自然生機
-2.溫愈月光
+2.溫癒月光
 3.自然之膏
 4.月池術
 5.清風術
@@ -17919,9 +17941,9 @@
 9.花粉圈
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法施放召喚生物法術。
+無法施放召喚生物法術
 
-變形後，德魯伊復甦法術將被大幅削弱，直到戰鬥結束。</DefaultText>
+變形結束後，德魯伊「復甦」類法術將被大幅削弱，直到戰鬥結束</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17936,7 +17958,7 @@
 		</Entry>
 		<Entry>
 			<ID>3835</ID>
-			<DefaultText>商行議會</DefaultText>
+			<DefaultText>Songretta mea Compresa</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -17981,7 +18003,7 @@
 		</Entry>
 		<Entry>
 			<ID>3844</ID>
-			<DefaultText>給予{0}銅幣</DefaultText>
+			<DefaultText>給予 {0} 銅幣</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18006,7 +18028,7 @@
 		</Entry>
 		<Entry>
 			<ID>3849</ID>
-			<DefaultText>通往指揮部</DefaultText>
+			<DefaultText>通往指揮室</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18026,7 +18048,7 @@
 		</Entry>
 		<Entry>
 			<ID>3853</ID>
-			<DefaultText>通往庭院</DefaultText>
+			<DefaultText>通往大堂</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18161,12 +18183,12 @@
 		</Entry>
 		<Entry>
 			<ID>3880</ID>
-			<DefaultText>{0:Value:PercentBonus}增益狀態持續時間</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 有益效果持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3881</ID>
-			<DefaultText>{0:Value:PercentBonus}向外施放的{0:AfflictionType}減益狀態持續時間</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 所造成的 {0:AfflictionType}熬煎 持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18386,7 +18408,7 @@
 		</Entry>
 		<Entry>
 			<ID>3925</ID>
-			<DefaultText>{0:Value}所有{0:Keyword} 力量等級</DefaultText>
+			<DefaultText>{0:Value} 所有{0:Keyword} 威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18451,7 +18473,7 @@
 		</Entry>
 		<Entry>
 			<ID>3938</ID>
-			<DefaultText>{0:Value} {0:DamageType}護甲值</DefaultText>
+			<DefaultText>{0:Value} {0:DamageType} 護甲值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18486,37 +18508,37 @@
 		</Entry>
 		<Entry>
 			<ID>3945</ID>
-			<DefaultText>與目標交戰時{0}</DefaultText>
+			<DefaultText>{0}【&lt;g&gt;交戰&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3946</ID>
-			<DefaultText>被一位攻擊者鎖定交戰時{0}</DefaultText>
+			<DefaultText>{0}【被 交戰 時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3947</ID>
-			<DefaultText>造成傷害時{0}</DefaultText>
+			<DefaultText>{0}【造成傷害時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3948</ID>
-			<DefaultText>主手武器命中時{0}</DefaultText>
+			<DefaultText>{0}【主手武器 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3949</ID>
-			<DefaultText>副手武器命中時{0}</DefaultText>
+			<DefaultText>{0}【副手武器 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3950</ID>
-			<DefaultText>主手武器暴擊命中時{0}</DefaultText>
+			<DefaultText>{0}【主手武器 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3951</ID>
-			<DefaultText>副手武器暴擊命中時{0}</DefaultText>
+			<DefaultText>{0}【副手武器 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18531,7 +18553,7 @@
 		</Entry>
 		<Entry>
 			<ID>3954</ID>
-			<DefaultText>你和隊友們抵達了一座常年風暴肆虐的邊遠島嶼&lt;b&gt;提卡瓦拉&lt;/b&gt;。居住在這座島嶼的是亡焰列島原住民—&lt;b&gt;胡亞納&lt;/b&gt;族的一個部落。殖民勢力&lt;b&gt;瓦利亞商行&lt;/b&gt;正與胡亞納人合作尋找貴重商品。
+			<DefaultText>你和隊友們抵達了一座常年風暴肆虐的邊遠島嶼&lt;b&gt; &lt;g&gt;提卡瓦拉&lt;/g&gt;&lt;/b&gt;。居住在這座島嶼的是 亡焰列島原住民— &lt;b&gt;胡亞納&lt;/b&gt; 族的一個部落。殖民勢力 &lt;b&gt;瓦利亞商行&lt;/b&gt; 正與胡亞納人合作尋找貴重商品。
 
 感謝你參加此次早期封測。你和隊友們將以等級6開始遊戲，因此在建立角色後先進行&lt;b&gt;升級&lt;/b&gt;並&lt;b&gt;檢查你的裝備&lt;/b&gt;。對於遊戲系統有什麼意見建議的話，歡迎向我們回饋。我們每個月都會在測試中增加新內容，直到遊戲正式發佈為止。請將你的回饋意見和發現的bug發佈到&lt;b&gt;&lt;link=https://forums.obsidian.net/forum/126-pillars-of-eternity-ii-deadfire-backer-beta/&gt;forums.obsidian.net&lt;/link&gt;&lt;/b&gt;。
 
@@ -18548,27 +18570,27 @@
 		</Entry>
 		<Entry>
 			<ID>3956</ID>
-			<DefaultText>攻擊時{0}</DefaultText>
+			<DefaultText>{0}【攻擊時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3957</ID>
-			<DefaultText>暴擊命中時{0}</DefaultText>
+			<DefaultText>{0}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3958</ID>
-			<DefaultText>被擦傷時{0}</DefaultText>
+			<DefaultText>{0}【被 &lt;g&gt;擦傷&lt;/g&gt;時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3959</ID>
-			<DefaultText>遭受攻擊時{0}</DefaultText>
+			<DefaultText>{0}【被攻擊時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3960</ID>
-			<DefaultText>無懲罰！</DefaultText>
+			<DefaultText>沒穿透！</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18638,7 +18660,7 @@
 		</Entry>
 		<Entry>
 			<ID>3976</ID>
-			<DefaultText>{0:value:percent}抗性</DefaultText>
+			<DefaultText>{0:value:percent} 抵抗</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18653,7 +18675,7 @@
 		</Entry>
 		<Entry>
 			<ID>3979</ID>
-			<DefaultText>已解鎖新的力量等級！</DefaultText>
+			<DefaultText>已解鎖新的 威力等級 ！</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18688,7 +18710,7 @@
 		</Entry>
 		<Entry>
 			<ID>3989</ID>
-			<DefaultText>學院的</DefaultText>
+			<DefaultText>學者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18698,12 +18720,12 @@
 		</Entry>
 		<Entry>
 			<ID>3991</ID>
-			<DefaultText>惡毒的</DefaultText>
+			<DefaultText>惡毒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3992</ID>
-			<DefaultText>神秘莫測</DefaultText>
+			<DefaultText>難以捉摸</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18733,7 +18755,7 @@
 		</Entry>
 		<Entry>
 			<ID>3998</ID>
-			<DefaultText>荒涼神龕</DefaultText>
+			<DefaultText>卡巴拉雷庫神龕</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18747,7 +18769,7 @@
 		</Entry>
 		<Entry>
 			<ID>4000</ID>
-			<DefaultText>開啟</DefaultText>
+			<DefaultText>啟用</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18792,7 +18814,7 @@
 		</Entry>
 		<Entry>
 			<ID>4010</ID>
-			<DefaultText>很好</DefaultText>
+			<DefaultText>Parfitto</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18802,7 +18824,7 @@
 		</Entry>
 		<Entry>
 			<ID>4012</ID>
-			<DefaultText>海盜</DefaultText>
+			<DefaultText>Principonet</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18837,12 +18859,12 @@
 		</Entry>
 		<Entry>
 			<ID>4019</ID>
-			<DefaultText>{0}{1}生命值</DefaultText>
+			<DefaultText>{0} {1} 生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4020</ID>
-			<DefaultText>{0}{1}距離</DefaultText>
+			<DefaultText>{0} {1}距離</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18902,7 +18924,7 @@
 		</Entry>
 		<Entry>
 			<ID>4036</ID>
-			<DefaultText>裘荻的母親是來自以撒密陀平原的熱帶草原民族，裘荻的父親是瑞德賽拉斯聚殖民者的草原民族後代。</DefaultText>
+			<DefaultText>裘荻的母親是來自以撒密陀平原的熱帶草原民族，裘荻的父親是 瑞德賽拉斯 聚殖民者的草原民族後代。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -18922,7 +18944,7 @@
 		</Entry>
 		<Entry>
 			<ID>4040</ID>
-			<DefaultText>{0:Value:PercentBonus}雙持時武器冷卻時間</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 武器 &lt;g&gt;復原&lt;/g&gt;時間【雙持時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19047,7 +19069,7 @@
 		</Entry>
 		<Entry>
 			<ID>4065</ID>
-			<DefaultText>英格維仙遺跡</DefaultText>
+			<DefaultText>英格維仙 遺跡</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19072,22 +19094,22 @@
 		</Entry>
 		<Entry>
 			<ID>4070</ID>
-			<DefaultText>廢船</DefaultText>
+			<DefaultText>船骸</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4071</ID>
-			<DefaultText>假面哀歌</DefaultText>
+			<DefaultText>假面哀歌號</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4072</ID>
-			<DefaultText>{0:Value:PercentBonus}彈丸數量</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} 彈丸數量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4073</ID>
-			<DefaultText>光魂珀磨坊[上鎖]</DefaultText>
+			<DefaultText>光魂珀磨坊 [上鎖]</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19152,7 +19174,7 @@
 		</Entry>
 		<Entry>
 			<ID>4090</ID>
-			<DefaultText>已解鎖新的力量等級！為所有職業選擇能力。</DefaultText>
+			<DefaultText>已解鎖新的 威力等級 ！為所有職業選擇能力。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19197,7 +19219,7 @@
 		</Entry>
 		<Entry>
 			<ID>4099</ID>
-			<DefaultText>假腿藝人</DefaultText>
+			<DefaultText>假腿劇團</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19212,42 +19234,42 @@
 		</Entry>
 		<Entry>
 			<ID>4102</ID>
-			<DefaultText>最多交戰人數</DefaultText>
+			<DefaultText>最多交戰者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4103</ID>
-			<DefaultText>最少交戰人數</DefaultText>
+			<DefaultText>最少交戰者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4104</ID>
-			<DefaultText>最多威脅</DefaultText>
+			<DefaultText>最多威脅者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4105</ID>
-			<DefaultText>最少威脅</DefaultText>
+			<DefaultText>最少威脅者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4106</ID>
-			<DefaultText>最多減益狀態</DefaultText>
+			<DefaultText>最多熬煎</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4107</ID>
-			<DefaultText>最少減益狀態</DefaultText>
+			<DefaultText>最少熬煎</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4108</ID>
-			<DefaultText>最多增益狀態</DefaultText>
+			<DefaultText>最多啟迪</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4109</ID>
-			<DefaultText>最少增益狀態</DefaultText>
+			<DefaultText>最少啟迪</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19272,7 +19294,7 @@
 		</Entry>
 		<Entry>
 			<ID>4114</ID>
-			<DefaultText>最高護甲（冰凍）</DefaultText>
+			<DefaultText>最高護甲（冰寒）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19302,7 +19324,7 @@
 		</Entry>
 		<Entry>
 			<ID>4120</ID>
-			<DefaultText>最低護甲（冰凍）</DefaultText>
+			<DefaultText>最低護甲（冰寒）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19332,7 +19354,7 @@
 		</Entry>
 		<Entry>
 			<ID>4126</ID>
-			<DefaultText>當前交戰人員</DefaultText>
+			<DefaultText>當前交戰者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19352,7 +19374,7 @@
 		</Entry>
 		<Entry>
 			<ID>4130</ID>
-			<DefaultText>行動設置冷卻</DefaultText>
+			<DefaultText>行動組冷卻</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19462,7 +19484,7 @@
 		</Entry>
 		<Entry>
 			<ID>4154</ID>
-			<DefaultText>{0:Value:PercentBonus}{0:DamageType}傷害</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} &lt;g&gt;{0:DamageType}&lt;/g&gt;傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19472,7 +19494,7 @@
 		</Entry>
 		<Entry>
 			<ID>4156</ID>
-			<DefaultText>受到{0:Value:PercentBonus} 傷害</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} &lt;g&gt;傷害&lt;/g&gt;所受量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19632,7 +19654,7 @@
 		</Entry>
 		<Entry>
 			<ID>4234</ID>
-			<DefaultText>食人魔</DefaultText>
+			<DefaultText>巨魔</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19727,7 +19749,7 @@
 		</Entry>
 		<Entry>
 			<ID>4253</ID>
-			<DefaultText>岡谷的房間</DefaultText>
+			<DefaultText>奧卡耶的房間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19737,7 +19759,7 @@
 		</Entry>
 		<Entry>
 			<ID>4258</ID>
-			<DefaultText>匯報給……</DefaultText>
+			<DefaultText>報到去……</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19792,17 +19814,17 @@
 		</Entry>
 		<Entry>
 			<ID>4275</ID>
-			<DefaultText>特基乎已不在船上。他給你留了一封信件。</DefaultText>
+			<DefaultText>泰克胡已不在船上。他給你留了一封信件。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4276</ID>
-			<DefaultText>力量等級不適合多職業角色。</DefaultText>
+			<DefaultText>多職業角色無法使用此 &lt;g&gt;威力等級&lt;/g&gt;。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4281</ID>
-			<DefaultText>{0}到達了等級{1}！</DefaultText>
+			<DefaultText>{0}達到等級{1}了！</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19812,7 +19834,7 @@
 		</Entry>
 		<Entry>
 			<ID>4283</ID>
-			<DefaultText>{0}或者{1}獲得了1項新能力</DefaultText>
+			<DefaultText>{0}或{1}獲得了1項新能力</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19822,17 +19844,17 @@
 		</Entry>
 		<Entry>
 			<ID>4285</ID>
-			<DefaultText>主動技能點數+1，被動技能點數+1。</DefaultText>
+			<DefaultText>主動技能點數+1、被動技能點數+1。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4286</ID>
-			<DefaultText>{0}新武器熟練</DefaultText>
+			<DefaultText>{0} 新武器熟練</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4289</ID>
-			<DefaultText>命名島</DefaultText>
+			<DefaultText>命名島嶼</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19852,7 +19874,7 @@
 		</Entry>
 		<Entry>
 			<ID>4298</ID>
-			<DefaultText>{0:Value:PercentBonus}樂節持續</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} &lt;g&gt;樂節&lt;/g&gt;持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19867,12 +19889,12 @@
 		</Entry>
 		<Entry>
 			<ID>4301</ID>
-			<DefaultText>心智增益狀態</DefaultText>
+			<DefaultText>心智啟迪</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4302</ID>
-			<DefaultText>{0:Value}最大力量池</DefaultText>
+			<DefaultText>{0:Value} &lt;g&gt;力量池&lt;/g&gt;上限</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -19982,17 +20004,17 @@
 		</Entry>
 		<Entry>
 			<ID>4324</ID>
-			<DefaultText>額外穿透</DefaultText>
+			<DefaultText>&lt;g&gt;穿透&lt;/g&gt;加成</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4325</ID>
-			<DefaultText>額外精準</DefaultText>
+			<DefaultText>&lt;g&gt;精準&lt;/g&gt;加成</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4326</ID>
-			<DefaultText>額外傷害</DefaultText>
+			<DefaultText>&lt;g&gt;傷害&lt;/g&gt;加成</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20017,7 +20039,7 @@
 		</Entry>
 		<Entry>
 			<ID>4335</ID>
-			<DefaultText>{0:Class}{0:Keyword}能力需消耗{0:Value:PercentBonus}</DefaultText>
+			<DefaultText>{0:Value:PercentBonus} {0:Class} {0:Keyword} 戰技費用</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20237,7 +20259,7 @@
 		</Entry>
 		<Entry>
 			<ID>4382</ID>
-			<DefaultText>貝拉斯的祝福是可選特性，允許你在獲得成就的同時解鎖加成。</DefaultText>
+			<DefaultText>貝拉斯的祝福是可選功能，允許你在獲得成就的同時解鎖加成。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20252,7 +20274,7 @@
 		</Entry>
 		<Entry>
 			<ID>4385</ID>
-			<DefaultText>你收到了一封印有瓦利亞商行印章的信件，裡面寫滿了佛羅恩的難看字跡。</DefaultText>
+			<DefaultText>你收到了一封印有 &lt;g&gt;瓦利亞商行&lt;/g&gt;印章的信件，裡面寫滿了佛羅恩的難看字跡。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20267,12 +20289,12 @@
 		</Entry>
 		<Entry>
 			<ID>4388</ID>
-			<DefaultText>奴隸主</DefaultText>
+			<DefaultText>奴隸販子</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4389</ID>
-			<DefaultText>峽谷</DefaultText>
+			<DefaultText>邊沟區</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20307,7 +20329,7 @@
 		</Entry>
 		<Entry>
 			<ID>4396</ID>
-			<DefaultText>白癡</DefaultText>
+			<DefaultText>Postenaga</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20317,7 +20339,7 @@
 		</Entry>
 		<Entry>
 			<ID>4398</ID>
-			<DefaultText>總計：</DefaultText>
+			<DefaultText>總量：</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20357,12 +20379,12 @@
 		</Entry>
 		<Entry>
 			<ID>4406</ID>
-			<DefaultText>在《永恆之柱》中，你遵循自己對貝拉斯的諾言，將迷失的空嬰靈魂送回了貝拉斯之輪。其他大部分的選擇都是平衡公正的，都是基於理性的思考與公正意識而不是出於憐憫或者情感。</DefaultText>
+			<DefaultText>在《永恆之柱》中，你遵循自己對 &lt;g&gt;貝拉斯&lt;/g&gt;的諾言，將迷失的 &lt;g&gt;空嬰&lt;/g&gt;靈魂送回了 貝拉斯之輪。其他大部分的選擇都是平衡公正的，都是基於理性的思考與公正意識而不是出於憐憫或者情感。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4407</ID>
-			<DefaultText>在《永恆之柱》中，你遵循自己對海麗婭的諾言，將迷失的空嬰靈魂送回給了鹿林的孩子們。你對自己認識的人都友好相待，對其苦痛富加同情，而對需要幫助者則不吝援手。</DefaultText>
+			<DefaultText>在《永恆之柱》中，你遵循自己對 &lt;g&gt;海麗婭&lt;/g&gt;的諾言，將迷失的 &lt;g&gt;空嬰&lt;/g&gt;靈魂送回給了 &lt;g&gt;鹿林&lt;/g&gt;的孩子們。你對自己認識的人都友好相待，對其苦痛富加同情，而對需要幫助者則不吝援手。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20372,7 +20394,7 @@
 		</Entry>
 		<Entry>
 			<ID>4409</ID>
-			<DefaultText>在《永恆之柱》中，你遵循自己對伽拉溫的諾言，將迷失的空嬰靈魂用於強化鹿林。其他大部分的選擇都是為了強化你自己和盟友，此外還有懲罰與弱化敵人。</DefaultText>
+			<DefaultText>在《永恆之柱》中，你遵循自己對 伽拉溫 的諾言，將迷失的 &lt;g&gt;空嬰&lt;/g&gt;靈魂用於強化 鹿林。其他大部分的選擇都是為了強化你自己和同伴，此外還有懲罰與弱化敵人。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20382,7 +20404,7 @@
 		</Entry>
 		<Entry>
 			<ID>4411</ID>
-			<DefaultText>在《永恆之柱》中，你遵循自己對睿姆岡的諾言，將迷失的空嬰靈魂全部湮滅。你所到之處造成的物質與精神上的破壞無數，只為將一切全部終結。</DefaultText>
+			<DefaultText>在《永恆之柱》中，你遵循自己對 &lt;g&gt;睿姆岡&lt;/g&gt;的諾言，將迷失的 &lt;g&gt;空嬰&lt;/g&gt;靈魂全部湮滅。你所到之處造成的物質與精神上的破壞無數，只為將一切全部終結。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20392,7 +20414,7 @@
 		</Entry>
 		<Entry>
 			<ID>4413</ID>
-			<DefaultText>你無惡不作。你向每位神明許下承諾，然後將空嬰靈魂放至了某個隨機地點。你的所有同伴都因你而死。你在每個任務中都取得了最壞的結果。在解決空嬰危機的過程中，你盡可能地犯下了所有錯誤。&lt;i&gt;不建議新玩家&lt;/i&gt;</DefaultText>
+			<DefaultText>你無惡不作。你向每位神明許下承諾，然後將 &lt;g&gt;空嬰&lt;/g&gt;靈魂放至了某個隨機地點。你的所有同伴都因你而死。你在每個任務中都取得了最壞的結果。在解決 &lt;g&gt;空嬰&lt;/g&gt;危機的過程中，你盡可能地犯下了所有錯誤。&lt;i&gt;不建議新玩家&lt;/i&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20417,7 +20439,7 @@
 		</Entry>
 		<Entry>
 			<ID>4418</ID>
-			<DefaultText>狂暴</DefaultText>
+			<DefaultText>怒氣</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20477,7 +20499,7 @@
 		</Entry>
 		<Entry>
 			<ID>4430</ID>
-			<DefaultText>裁決</DefaultText>
+			<DefaultText>審判</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20492,7 +20514,7 @@
 		</Entry>
 		<Entry>
 			<ID>4436</ID>
-			<DefaultText>暴擊命中</DefaultText>
+			<DefaultText>暴擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20559,17 +20581,17 @@
 		</Entry>
 		<Entry>
 			<ID>4449</ID>
-			<DefaultText>命中(不包括擦傷）後{0}</DefaultText>
+			<DefaultText>{0}【命中 (擦傷 除外)時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4450</ID>
-			<DefaultText>造成非擦傷命中時</DefaultText>
+			<DefaultText>當非 &lt;g&gt;擦傷&lt;/g&gt;擊中</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4451</ID>
-			<DefaultText>暴擊命中</DefaultText>
+			<DefaultText>暴擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20584,7 +20606,7 @@
 		</Entry>
 		<Entry>
 			<ID>4455</ID>
-			<DefaultText>命中機率</DefaultText>
+			<DefaultText>&lt;g&gt;命中&lt;/g&gt;機率</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20624,7 +20646,7 @@
 		</Entry>
 		<Entry>
 			<ID>4463</ID>
-			<DefaultText>基礎護甲值</DefaultText>
+			<DefaultText>基礎 護甲值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20634,7 +20656,7 @@
 		</Entry>
 		<Entry>
 			<ID>4465</ID>
-			<DefaultText>你收到了來自哈扎努伊卡魯的一封重要信件。</DefaultText>
+			<DefaultText>你收到了來自 &lt;g&gt;哈扎努伊&lt;/g&gt;卡魯的一封重要信件。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20689,7 +20711,7 @@
 		</Entry>
 		<Entry>
 			<ID>4480</ID>
-			<DefaultText>在《永恆之柱》中，你允諾睿姆岡會將迷失的空嬰靈魂全部湮滅，但你最終將靈魂全部交給了娥狄卡。你幫助眾神保守其秘密連同你自身的秘密。</DefaultText>
+			<DefaultText>在《永恆之柱》中，你允諾 &lt;g&gt;睿姆岡&lt;/g&gt;會將迷失的 &lt;g&gt;空嬰&lt;/g&gt;靈魂全部湮滅，但你最終將靈魂全部交給了 娥狄卡。你幫助眾神保守其秘密連同你自身的秘密。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20723,12 +20745,12 @@
 		</Entry>
 		<Entry>
 			<ID>4490</ID>
-			<DefaultText>共享防禦</DefaultText>
+			<DefaultText>共享 防禦屬性</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4491</ID>
-			<DefaultText>所有職業力量池{0:Value}</DefaultText>
+			<DefaultText>{0:Value} 所有職業 力量池</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20743,12 +20765,12 @@
 		</Entry>
 		<Entry>
 			<ID>4497</ID>
-			<DefaultText>力量等級</DefaultText>
+			<DefaultText>威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4498</ID>
-			<DefaultText>力量等級</DefaultText>
+			<DefaultText>威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20758,7 +20780,7 @@
 		</Entry>
 		<Entry>
 			<ID>4500</ID>
-			<DefaultText>{0:DamageType}傷害治療{0:Value:Percent}而非造成傷害。</DefaultText>
+			<DefaultText>{0:DamageType} 傷害 治療{0:Value:Percent}而非造成傷害。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20808,7 +20830,7 @@
 		</Entry>
 		<Entry>
 			<ID>4510</ID>
-			<DefaultText>已施加了更強大的減益狀態。</DefaultText>
+			<DefaultText>已施加了更強大的 熬煎。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20833,7 +20855,7 @@
 		</Entry>
 		<Entry>
 			<ID>4515</ID>
-			<DefaultText>已解鎖新的力量等級！選擇兩個新戰技。</DefaultText>
+			<DefaultText>已解鎖新的 威力等級 ！選擇兩個新戰技。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20912,7 +20934,7 @@
 		</Entry>
 		<Entry>
 			<ID>4531</ID>
-			<DefaultText>船長委員會</DefaultText>
+			<DefaultText>船長議會</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20992,7 +21014,7 @@
 		</Entry>
 		<Entry>
 			<ID>4547</ID>
-			<DefaultText>{0:Value}等級{0:ExtraValue:straight}法術</DefaultText>
+			<DefaultText>{0:Value} 等級{0:ExtraValue:straight}法術</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21002,7 +21024,7 @@
 		</Entry>
 		<Entry>
 			<ID>4549</ID>
-			<DefaultText>暴擊命中</DefaultText>
+			<DefaultText>暴擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21057,7 +21079,7 @@
 		</Entry>
 		<Entry>
 			<ID>4561</ID>
-			<DefaultText>船帆被摧毀。</DefaultText>
+			<DefaultText>船帆被摧毀</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21083,23 +21105,23 @@
 		<Entry>
 			<ID>4566</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-到達新力量等級時可學習法術，並能將其以禱歌的形式施放。
+到達新 威力等級 時可學習法術，並以禱歌的形式施放
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無法使用所有召喚禱歌。</DefaultText>
+無法使用所有召喚禱歌</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4567</ID>
-			<DefaultText>泛靈論者</DefaultText>
+			<DefaultText>物靈道</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4568</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-到達新力量等級時自動習得以下德魯伊法術：
+到達新 威力等級 時自動習得以下德魯伊法術：
 1.陽炎術
-2.溫愈月光
+2.溫癒月光
 3.風暴再臨
 4.召喚中型魂怪
 5.疫蟲術
@@ -21109,12 +21131,12 @@
 9.龍捲風暴
 
 &lt;b&gt;懲罰&lt;/b&gt;
-無。</DefaultText>
+無</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4569</ID>
-			<DefaultText>{0}法術施放</DefaultText>
+			<DefaultText>{0} 法術施放</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21134,7 +21156,7 @@
 		</Entry>
 		<Entry>
 			<ID>4575</ID>
-			<DefaultText>舷窗堡壘</DefaultText>
+			<DefaultText>死燈堡壘</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21184,12 +21206,12 @@
 		</Entry>
 		<Entry>
 			<ID>4586</ID>
-			<DefaultText>涅克塔卡——巨蛇王冠</DefaultText>
+			<DefaultText>涅克塔卡 - 巨蛇王冠</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4587</ID>
-			<DefaultText>涅克塔卡——峽谷</DefaultText>
+			<DefaultText>涅克塔卡 - 邊沟區</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21204,22 +21226,22 @@
 		</Entry>
 		<Entry>
 			<ID>4590</ID>
-			<DefaultText>涅克塔卡——聖梯</DefaultText>
+			<DefaultText>涅克塔卡 - 聖梯</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4591</ID>
-			<DefaultText>涅克塔卡——佩瑞琪之望</DefaultText>
+			<DefaultText>涅克塔卡 - 佩瑞琪之望</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4592</ID>
-			<DefaultText>涅克塔卡——女王港</DefaultText>
+			<DefaultText>涅克塔卡 - 女王港</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4593</ID>
-			<DefaultText>涅克塔卡——黃銅堡</DefaultText>
+			<DefaultText>涅克塔卡 - 黃銅堡</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21239,22 +21261,22 @@
 		</Entry>
 		<Entry>
 			<ID>4597</ID>
-			<DefaultText>亡焰列島——西南</DefaultText>
+			<DefaultText>亡焰列島 - 西南</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4598</ID>
-			<DefaultText>亡焰列島——東南</DefaultText>
+			<DefaultText>亡焰列島 - 東南</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4599</ID>
-			<DefaultText>亡焰列島——西北</DefaultText>
+			<DefaultText>亡焰列島 - 西北</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4600</ID>
-			<DefaultText>亡焰列島——東北</DefaultText>
+			<DefaultText>亡焰列島 - 東北</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21399,17 +21421,17 @@
 		</Entry>
 		<Entry>
 			<ID>4629</ID>
-			<DefaultText>艾歐拉：在這個世界中存在著名為&lt;b&gt;貝拉斯之輪&lt;/b&gt;的輪迴循環，眾神守護著這個依靠神秘的&lt;b&gt;魂珀&lt;/b&gt;之柱而實現的輪迴，世上凡人在此輪迴中出生、死亡並重生。
+			<DefaultText>艾歐拉：在這個世界中存在著名為 &lt;b&gt;貝拉斯之輪&lt;/b&gt; 的輪迴循環，眾神守護著這個依靠神秘的&lt;b&gt;魂珀&lt;/b&gt;之柱而實現的輪迴，世上凡人在此輪迴中出生、死亡並重生。
 
-五年前，你離開家鄉來到鹿林，而鹿林對具象化的光明之神&lt;b&gt;俄撒斯&lt;/b&gt;發動戰爭，最終將其毀滅。這個國家爆發了&lt;b&gt;空嬰&lt;/b&gt;瘟疫，即嬰兒剛出生便沒有靈魂。很多人相信這是弒神行為的懲罰。
+五年前，你離開家鄉來到 鹿林，而鹿林對具象化的光明之神 &lt;b&gt;俄撒斯 &lt;/b&gt; 發動戰爭，最終將其毀滅。這個國家爆發了&lt;b&gt; &lt;g&gt;空嬰&lt;/g&gt;&lt;/b&gt;瘟疫，即嬰兒剛出生便沒有靈魂。很多人相信這是弒神行為的懲罰。
 
 在一處偏僻的古代遺跡中，你目睹了一場秘密儀式，該儀式陰差陽錯將你變成了一名能看見靈魂並與靈魂溝通的&lt;b&gt;靈視者&lt;/b&gt;。
 
-儀式還令你能看到你前世噩夢般的可怕幻景，這蠶食著你的理智。為了將過去再次塵封，你開始追蹤儀式的進行者。他名為&lt;b&gt;撒奧斯·壹·阿卡農&lt;/b&gt;，似乎是個長生不老的眾神代言人。
+儀式還令你能看到你前世噩夢般的可怕幻景，這蠶食著你的理智。為了將過去再次塵封，你開始追蹤儀式的進行者。他名為&lt;b&gt;撒奧斯·伊克斯·阿卡農&lt;/b&gt;，似乎是個長生不老的眾神代言人。
 
-在眾神的幫助下，你找到並擊敗了撒奧斯，結束了你的幻景，還解決了空嬰危機。在此過程中，你瞭解到了撒奧斯一直保守著的驚天秘密：&lt;i&gt;英格維仙古帝國將自己變成了神。&lt;/i&gt;
+在眾神的幫助下，你找到並擊敗了 撒奧斯，結束了你的幻景，還解決了空嬰危機。在此過程中，你瞭解到了撒奧斯一直保守著的驚天秘密： &lt;i&gt;英格維仙 古帝國將自己變成了神。&lt;/i&gt;
 
-你終於不再受幻景的困擾，並回到了建於純魂珀雕像之上的&lt;b&gt;努亞堡&lt;/b&gt;。你作為統治者，在那裡過上了相對安寧的好日子……</DefaultText>
+你終於不再受幻景的困擾，並回到了建於純魂珀雕像之上的 &lt;b&gt;努亞堡&lt;/b&gt;。你作為統治者，在那裡過上了相對安寧的好日子……</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21419,7 +21441,7 @@
 		</Entry>
 		<Entry>
 			<ID>4631</ID>
-			<DefaultText>增益狀態</DefaultText>
+			<DefaultText>有益效果</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21524,7 +21546,7 @@
 		</Entry>
 		<Entry>
 			<ID>4652</ID>
-			<DefaultText>胡亞納部落在傳統上會將死者屍體堆放在柴堆上或直接沉入深海，但像這樣的土丘說明了附近埋葬著擁有榮耀、財富與優待的蘭迦。</DefaultText>
+			<DefaultText>&lt;g&gt;胡亞納&lt;/g&gt;部落在傳統上會將死者屍體堆放在柴堆上或直接沉入深海，但像這樣的土丘說明了附近埋葬著擁有榮耀、財富與優待的 蘭迦。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21589,7 +21611,7 @@
 		</Entry>
 		<Entry>
 			<ID>4673</ID>
-			<DefaultText>最近戰技</DefaultText>
+			<DefaultText>最近的戰技</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21604,7 +21626,7 @@
 		</Entry>
 		<Entry>
 			<ID>4676</ID>
-			<DefaultText>一間瓦利亞磨坊。這種地點很方便商人們在此見面。</DefaultText>
+			<DefaultText>一間 &lt;g&gt;瓦利亞&lt;/g&gt;磨坊。這種地點很方便商人們在此見面。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21619,7 +21641,7 @@
 		</Entry>
 		<Entry>
 			<ID>4679</ID>
-			<DefaultText>一片種滿了柯基樹的果園。毫無疑問是個交換食物與其他貨物的好地方。</DefaultText>
+			<DefaultText>一片種滿了柯爾奇樹的果園。毫無疑問是個交換食物與其他貨物的好地方。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21649,12 +21671,12 @@
 		</Entry>
 		<Entry>
 			<ID>4685</ID>
-			<DefaultText>{0}造成{1}影響</DefaultText>
+			<DefaultText>受 &lt;g&gt;{1}&lt;/g&gt;影響的{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4686</ID>
-			<DefaultText> {0}（每{1:Interval}）</DefaultText>
+			<DefaultText>{0}（每{1:Interval}）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21664,7 +21686,7 @@
 		</Entry>
 		<Entry>
 			<ID>4689</ID>
-			<DefaultText>哈，這種故事怕是講了有上百次了。</DefaultText>
+			<DefaultText>怕是講了有上百次了。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21724,7 +21746,7 @@
 		</Entry>
 		<Entry>
 			<ID>4701</ID>
-			<DefaultText>對單一職業的角色，力量等級{0}將在角色等級{1}解鎖。</DefaultText>
+			<DefaultText>對單一職業的角色，威力等級 {0}將在角色等級{1}解鎖。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21744,7 +21766,7 @@
 		</Entry>
 		<Entry>
 			<ID>4705</ID>
-			<DefaultText>對多職業的角色，力量等級{0}將在角色等級{1}解鎖。</DefaultText>
+			<DefaultText>對多職業的角色，威力等級 {0}將在角色等級{1}解鎖。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21819,12 +21841,12 @@
 		</Entry>
 		<Entry>
 			<ID>4720</ID>
-			<DefaultText>翼神嗣擁有海麗婭的印記，往往展現出鳥類的特徵，包括多彩的羽毛，有的還長著形似利爪的手指。有些文明視他們為藝術家以及天空之母的使者，有些文明僅僅將他們視為色彩鮮艷的怪人。</DefaultText>
+			<DefaultText>翼神嗣擁有 &lt;g&gt;海麗婭&lt;/g&gt;的印記，往往展現出鳥類的特徵，包括多彩的羽毛，有的還長著形似利爪的手指。有些文明視他們為藝術家以及天空之母的使者，有些文明僅僅將他們視為色彩鮮艷的怪人。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4721</ID>
-			<DefaultText>海神嗣的靈魂受到女神昂德拉的觸摸，作為基斯卻在外型上有著與海洋生物相似的鱗片與鰭。胡亞納部落將海神嗣視為女神恩加蒂的信使而崇敬，並且認為其帶來了巨大變革的徵兆。</DefaultText>
+			<DefaultText>海神嗣的靈魂受到女神 &lt;g&gt;昂德拉&lt;/g&gt;的觸摸，作為 &lt;g&gt;基斯&lt;/g&gt;卻在外型上有著與海洋生物相似的鱗片與鰭。&lt;g&gt;胡亞納&lt;/g&gt;部落將海神嗣視為女神恩加蒂的信使而崇敬，並且認為其帶來了巨大變革的徵兆。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21879,7 +21901,7 @@
 		</Entry>
 		<Entry>
 			<ID>4744</ID>
-			<DefaultText>《永恆之柱II：亡焰》——已安裝</DefaultText>
+			<DefaultText>《永恆之柱II：亡焰》—已安裝</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21894,7 +21916,7 @@
 		</Entry>
 		<Entry>
 			<ID>4747</ID>
-			<DefaultText>制鞋匠</DefaultText>
+			<DefaultText>鞋匠</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21924,7 +21946,7 @@
 		</Entry>
 		<Entry>
 			<ID>4753</ID>
-			<DefaultText>流明之庭雜貨</DefaultText>
+			<DefaultText>璀璨廣場雜貨</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21934,7 +21956,7 @@
 		</Entry>
 		<Entry>
 			<ID>4755</ID>
-			<DefaultText>流明之庭酒吧</DefaultText>
+			<DefaultText>璀璨廣場酒吧</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21944,7 +21966,7 @@
 		</Entry>
 		<Entry>
 			<ID>4757</ID>
-			<DefaultText>失去{2}的{0} {1}聲望</DefaultText>
+			<DefaultText>失去{2}的{0}{1}聲望</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21954,7 +21976,7 @@
 		</Entry>
 		<Entry>
 			<ID>4759</ID>
-			<DefaultText>你成功對{0}進行了{1}附魔。</DefaultText>
+			<DefaultText>你成功對{0}進行了{1}強化。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21969,12 +21991,12 @@
 		</Entry>
 		<Entry>
 			<ID>4762</ID>
-			<DefaultText>基礎精準</DefaultText>
+			<DefaultText>基礎 精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4763</ID>
-			<DefaultText>基礎生命值</DefaultText>
+			<DefaultText>基礎 生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21989,7 +22011,7 @@
 		</Entry>
 		<Entry>
 			<ID>4768</ID>
-			<DefaultText>開始並跳過開場</DefaultText>
+			<DefaultText>開始 &amp; 跳過開場</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22054,7 +22076,7 @@
 		</Entry>
 		<Entry>
 			<ID>4781</ID>
-			<DefaultText>{0}AI腳本僅為自動攻擊</DefaultText>
+			<DefaultText>{0}AI腳本為僅自動攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22079,7 +22101,7 @@
 		</Entry>
 		<Entry>
 			<ID>4786</ID>
-			<DefaultText>{0}（命中）</DefaultText>
+			<DefaultText>{0}（生效）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22134,7 +22156,7 @@
 		</Entry>
 		<Entry>
 			<ID>4802</ID>
-			<DefaultText>無法出售任務物品或將其放置在容器內。</DefaultText>
+			<DefaultText>無法將任務物品出售或放置在容器內。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22229,7 +22251,7 @@
 		</Entry>
 		<Entry>
 			<ID>4821</ID>
-			<DefaultText>新增進購物車</DefaultText>
+			<DefaultText>新增至待購</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22259,7 +22281,7 @@
 		</Entry>
 		<Entry>
 			<ID>4827</ID>
-			<DefaultText>[無效子職業{0}]</DefaultText>
+			<DefaultText>[子職業{0}不可用]</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22284,7 +22306,7 @@
 		</Entry>
 		<Entry>
 			<ID>4832</ID>
-			<DefaultText>新的消耗品與新助手：莫珂。</DefaultText>
+			<DefaultText>新的消耗品與新搭擋：莫珂。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22514,7 +22536,7 @@
 		</Entry>
 		<Entry>
 			<ID>4951</ID>
-			<DefaultText>無法招募同伴、助手或冒險者。</DefaultText>
+			<DefaultText>無法招募同伴、搭擋或冒險者。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22613,12 +22635,12 @@
 		</Entry>
 		<Entry>
 			<ID>4975</ID>
-			<DefaultText>選擇一件物品附魔</DefaultText>
+			<DefaultText>選擇一件物品強化</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4976</ID>
-			<DefaultText>沒有附魔物品。</DefaultText>
+			<DefaultText>沒有強化物品。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22633,7 +22655,7 @@
 		</Entry>
 		<Entry>
 			<ID>4979</ID>
-			<DefaultText>選擇一項附魔</DefaultText>
+			<DefaultText>選擇一項強化</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22653,7 +22675,7 @@
 		</Entry>
 		<Entry>
 			<ID>4990</ID>
-			<DefaultText>裝備會隨時間逐漸降級，必須通過附魔介面進行修理。</DefaultText>
+			<DefaultText>裝備會隨時間逐漸降級，必須通過強化介面進行修理。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22673,12 +22695,12 @@
 		</Entry>
 		<Entry>
 			<ID>4995</ID>
-			<DefaultText>給{1}新增{0}將防止你新增{2}。你要新增{0}嗎？</DefaultText>
+			<DefaultText>給{1}添加{0}將令你無法添加{2}。你要添加{0}嗎？</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4996</ID>
-			<DefaultText>{0}夜間和室內的迷霧揭示範圍</DefaultText>
+			<DefaultText>{0} 夜間和室內的迷霧揭示範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22703,17 +22725,17 @@
 		</Entry>
 		<Entry>
 			<ID>5001</ID>
-			<DefaultText>交戰中目標</DefaultText>
+			<DefaultText>交戰中的目標</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>5002</ID>
-			<DefaultText>被威脅的目標</DefaultText>
+			<DefaultText>威脅中的目標</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>5003</ID>
-			<DefaultText>交戰人數</DefaultText>
+			<DefaultText>交戰者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22758,7 +22780,7 @@
 		</Entry>
 		<Entry>
 			<ID>5015</ID>
-			<DefaultText>俄撒斯的挑戰</DefaultText>
+			<DefaultText>&lt;g&gt;俄撒斯&lt;/g&gt;的挑戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -22778,7 +22800,7 @@
 		</Entry>
 		<Entry>
 			<ID>5025</ID>
-			<DefaultText>允許施法者對範圍性法術塑形，修改其範圍和力量等級</DefaultText>
+			<DefaultText>允許施法者對範圍性法術塑形，修改其範圍和 威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -23152,7 +23174,7 @@
 		</Entry>
 		<Entry>
 			<ID>5154</ID>
-			<DefaultText>海麗婭的挑戰</DefaultText>
+			<DefaultText>海麗婭 的挑戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -23202,7 +23224,7 @@
 		</Entry>
 		<Entry>
 			<ID>5197</ID>
-			<DefaultText>哀歌女士</DefaultText>
+			<DefaultText>哀歌女士號</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -23257,17 +23279,17 @@
 		</Entry>
 		<Entry>
 			<ID>5226</ID>
-			<DefaultText>每次遭遇的資源變成每次休息。</DefaultText>
+			<DefaultText>每次遭遇 的資源變成 每次休息</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>5227</ID>
-			<DefaultText>兩次戰鬥之間隊伍的生命值不再再生。</DefaultText>
+			<DefaultText>戰鬥之間隊伍的 生命值 不再再生</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>5228</ID>
-			<DefaultText>紮營時，只有「烹製過的食物」才能令生命值、傷勢和資源恢復。</DefaultText>
+			<DefaultText>紮營時，只有「烹製過的食物」才能令 生命值、傷勢 和資源恢復。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -23302,7 +23324,7 @@
 		</Entry>
 		<Entry>
 			<ID>5312</ID>
-			<DefaultText>{0}%行動速度，{2}%移動速度與{1}反射</DefaultText>
+			<DefaultText>{0}% 行動速度、{2}% 步幅 和 {1} 反射</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -23313,12 +23335,12 @@
 		<Entry>
 			<ID>5314</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-樂節的徘徊效果大幅增加。
+&lt;g&gt;樂節&lt;/g&gt;的餘音大幅延長
 
-獲得「歡誦」作戰風格，可增加樂節詠唱速率，但縮短徘徊的時間。
+獲得「歡誦」作戰風格，可增加樂節產生速率，但取消餘音
 
 &lt;b&gt;懲罰&lt;/b&gt;
-所有禱歌消耗樂節+1。</DefaultText>
+所有禱歌消耗 +1 樂節</DefaultText>
 			<FemaleText/>
 		</Entry>
 	</Entries>

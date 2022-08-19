@@ -18,7 +18,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>「這個故事說來話長，暫時給你講個簡短一些的版本吧——我目前正在搜集關於當地鑄魂學進展的訊息。」
+      <DefaultText>「這個故事說來話長，暫時給你講個簡短一些的版本吧—我目前正在搜集關於當地 &lt;g&gt;鑄魂學&lt;/g&gt;進展的訊息。」
 
 他上上下下地打量著你。</DefaultText>
       <FemaleText />
@@ -40,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「俄撒斯摧毀了我的城堡，殺害了那裡絕大部分的人，而且差點要了我的命。他必須要為此負責。」</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;摧毀了我的城堡，殺害了那裡絕大部分的人，而且差點要了我的命。他必須要為此負責。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,7 +50,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「我下了決心，我要好好遊歷世界，尋找自我。或者說，尋找我被俄撒斯奪走的那部分靈魂。」</DefaultText>
+      <DefaultText>「我下了決心，我要好好遊歷世界，尋找自我。或者說，尋找我被 &lt;g&gt;俄撒斯&lt;/g&gt;奪走的那部分靈魂。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,7 +65,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「至少這裡的食物比飾金谷那裡好多了，這些瓦利亞人很會用調味料。」</DefaultText>
+      <DefaultText>「至少這裡的食物比飾金谷那裡好多了，這些 &lt;g&gt;瓦利亞&lt;/g&gt;人很會用調味料。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,14 +75,14 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「太好了！我們得救了。」一個年輕人從保護籠裡走了出來，眼睛放著光，拍著手，臉上掛滿了笑意。
+      <DefaultText>「Belfetto！我們得救了。」一個年輕人從保護籠裡走了出來，眼睛放著光，拍著手，臉上掛滿了笑意。
 
-不過他身邊的女人卻一言不發。</DefaultText>
+不過他身邊的女人依然板著臉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「肯定是克拉里奧總督派你來救我們的吧？但你看起來並不太像他的衛兵。」她站起身來看著你的身後，看起來像是在找其他人一樣。
+      <DefaultText>「應該是克拉里奧總督派你來救我們的吧？但你看起來並不太像他的衛兵。」她站起身來看著你的身後，看起來像是在找其他人一樣。
 
 她說不定只有三十五歲左右，不過她嚴肅的面孔讓她看起來比實際年齡要顯得老。</DefaultText>
       <FemaleText />
@@ -94,22 +94,22 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>[撒謊] 「他們依然在努力開闢道路，穿過森林。我是他們派來的先遣隊員。」</DefaultText>
+      <DefaultText>[撒謊]「他們依然在努力開闢道路，穿過森林。我是他們派來的先遣隊員。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>「我早就告訴過你，總督根本不關心我們的死活！他和那些瓦利亞人只在乎利益——」</DefaultText>
+      <DefaultText>「我早就告訴過你，總督根本不關心我們的死活！他和那些 &lt;g&gt;瓦利亞&lt;/g&gt;人只在乎利益—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>「你看，我早就告訴過你，總督會派人來找我們的！你老是說那些瓦利亞人只在乎利益什麼的——」</DefaultText>
+      <DefaultText>「你看，我早就告訴過你，總督會派人來找我們的！你老是說那些 &lt;g&gt;瓦利亞&lt;/g&gt;人只在乎利益什麼的—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「夠了！」她凌厲的目光讓所有人都閉了嘴。
+      <DefaultText>「Calloste!」她凌厲的目光讓所有人都閉了嘴。
 
 她轉向你，聽天由命地喘了口氣。</DefaultText>
       <FemaleText />
@@ -121,12 +121,12 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「我在找一位朋友。個子很高，身體是魂珀做的，渾身發光——說不定你已經見過他了？」</DefaultText>
+      <DefaultText>「我在找一位朋友。個子很高，身體是魂珀做的，渾身發光—說不定你已經見過他了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>「嗯？到底是風暴，還是說——」</DefaultText>
+      <DefaultText>「Cuè？到底是風暴，還是說—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,7 +183,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>他舔了舔嘴唇。「很有意思。那時，魂珀的光開始變得黯淡。大地搖晃起來，我們的儀器也發出了不尋常的振動——」</DefaultText>
+      <DefaultText>他舔了舔嘴唇。「很有意思。那時，魂珀的光開始變得黯淡。大地搖晃起來，我們的儀器也發出了不尋常的振動—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,17 +217,17 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>「很高興能幫上忙。」他睜大眼睛看著你，充滿期待。</DefaultText>
+      <DefaultText>「很高興能幫上忙。」他以睜得大大又充滿期待眼睛看著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>「關於這個『英格菲』，還有什麼可以告訴我的嗎？」</DefaultText>
+      <DefaultText>「你還能告訴我關於『英格菲』的什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>「很高興能得到他的幫助。」</DefaultText>
+      <DefaultText>「我很樂意接受他的幫助。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,7 +242,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>「嘿，他看起來可真像——」
+      <DefaultText>「嘿，他看起來可真像—」
 
 艾德爾出於某種原因，住了嘴，下巴一直張著。</DefaultText>
       <FemaleText />
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>「那個時候，叢林豹和幼龍都出現了，它們鑽進了我們的帳篷裡。當時真的太可怕了，不過英格菲——」</DefaultText>
+      <DefaultText>「那個時候，叢林豹和幼龍都出現了，它們鑽進了我們的帳篷裡。當時真的太可怕了，不過英格菲—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,7 +310,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>「等我們離開國王港之後，我們就可以盡情地大談特談了。不過就目前而言，還是先找奧德理斯吧。」</DefaultText>
+      <DefaultText>「等我們離開 國王港 之後，我們就可以盡情地大談特談了。不過就目前而言，還是先找奧德理斯吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,7 +322,7 @@
       <ID>95</ID>
       <DefaultText>他竊笑著。
 
-「說真的，我也會改個名字，如果——」
+「Di verus，我也會改個名字，如果—」
 
 但貝尼莎開始罵起了亞洛斯，年輕的鑄魂師也趕緊閉了嘴。</DefaultText>
       <FemaleText />
@@ -391,7 +391,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>「那個時候，叢林豹和幼龍都出現了，它們鑽進了我們的帳篷裡。當時真的太可怕了，不過——」</DefaultText>
+      <DefaultText>「那個時候，叢林豹和幼龍都出現了，它們鑽進了我們的帳篷裡。當時真的太可怕了，不過—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -413,7 +413,7 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,7 +428,7 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>「謝謝你。」她歎了口氣。</DefaultText>
+      <DefaultText>「Agracima.」她歎了口氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -458,7 +458,7 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「相當了不起，尤其是他的口音聽起來一點都不像瓦利亞人。」</DefaultText>
+      <DefaultText>「相當了不起，尤其是他的口音聽起來一點都不像 &lt;g&gt;瓦利亞&lt;/g&gt;人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,7 +468,7 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>「來自世界各地的人，都會去共和國學習鑄魂學，尤其像包括聚鹿的許多地方，鑄魂學都是被禁止的。」</DefaultText>
+      <DefaultText>「來自世界各地的人，都會去共和國學習 鑄魂學，尤其像包括 &lt;g&gt;聚鹿&lt;/g&gt;的許多地方，鑄魂學 都是被禁止的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,8 +493,8 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>「他後來去了鹿林，那裡有他來自[Player Culture]的叔叔，是個上了年紀的有錢人。他一直和他叔叔住在一起，後來他叔叔也去世了。」</DefaultText>
-      <FemaleText>「他後來去了鹿林，那裡有他來自[Player Culture]的姨媽，是個上了年紀的有錢人。他一直和他姨媽住在一起，後來他姨媽也去世了。」</FemaleText>
+      <DefaultText>「他後來去了 鹿林，那裡有他來自 [Player Culture] 的叔叔，是個上了年紀的有錢人。他一直和他叔叔住在一起，後來他叔叔也去世了。」</DefaultText>
+      <FemaleText>「他後來去了 鹿林，那裡有他來自 [Player Culture] 的嬸嬸，是個上了年紀的有錢人。他一直和他嬸嬸住在一起，後來他嬸嬸也去世了。」</FemaleText>
     </Entry>
     <Entry>
       <ID>134</ID>
@@ -537,12 +537,12 @@
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>「我就是他的有錢叔叔，來自[Player Culture]。」</DefaultText>
+      <DefaultText>「我就是他的有錢叔叔，來自 [Player Culture]。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>「我就是他的有錢嬸嬸，來自[Player Culture]。」</DefaultText>
+      <DefaultText>「我就是他的有錢嬸嬸，來自 [Player Culture]。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -569,10 +569,10 @@
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>「我的天啊，他還活著！這怎麼可能——」
+      <DefaultText>「我的天啊，他還活著！這怎麼可能—」
 
 但老婦人搖了搖頭，他慢慢地閉了嘴。</DefaultText>
-      <FemaleText>「我的天啊，她還活著！這怎麼可能——」
+      <FemaleText>「我的天啊，她還活著！這怎麼可能—」
 
 但老婦人搖了搖頭，他慢慢地閉了嘴。</FemaleText>
     </Entry>
@@ -585,7 +585,7 @@
       <ID>151</ID>
       <DefaultText>「去吧，英格菲，亞洛斯，隨便你是什麼人。
 
-「別讓我再妨礙你做『別的事情』了。」 
+「別讓我再妨礙你做『別的事情』了。」
 
 她朝你轉過頭，閉上了眼睛。</DefaultText>
       <FemaleText />
@@ -641,19 +641,19 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>「就像我說的那樣，我在亡焰列島上還有別的事情要做。」</DefaultText>
+      <DefaultText>「就像我說的那樣，我在 &lt;g&gt;亡焰列島&lt;/g&gt;上還有別的事情要做。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>「你肯定已經猜到了，我在亡焰列島上還有別的事情要做。」</DefaultText>
+      <DefaultText>「你肯定已經猜到了，我在 &lt;g&gt;亡焰列島&lt;/g&gt;上還有別的事情要做。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
       <DefaultText>「我很樂意和你再次一起旅行，我認為我們可以互利互惠。
 
-」不過決定權在你手上。」他一邊玩弄著肩帶的邊緣，一邊等待著你的回應。</DefaultText>
+「不過決定權在你手上。」他一邊玩弄著肩帶的邊緣，一邊等待著你的回應。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -663,7 +663,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>「小心點，朋友。」她快速地握了握亞洛斯的手，之後轉身離開了。</DefaultText>
+      <DefaultText>「小心點，aimico。」她快速地握了握亞洛斯的手，之後轉身離開了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -710,7 +710,7 @@
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>「我會想念他們的，雖然和他們在一起的日子，只會讓我更加確信鑄魂學是……一種危險的東西。」</DefaultText>
+      <DefaultText>「我會想念他們的，雖然和他們在一起的日子，只會讓我更加確信 &lt;g&gt;鑄魂學&lt;/g&gt;是……一種危險的東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -720,7 +720,7 @@
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>[握握他的手。] 「我希望你能找到想要找的東西。」</DefaultText>
+      <DefaultText>[握握他的手]「我希望你能找到想要找的東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -747,7 +747,7 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>「等我們離開國王港之後，我們就可以盡情地大談特談了。現在，我們還是回克拉里奧那裡吧。」</DefaultText>
+      <DefaultText>「等我們離開 國王港 之後，我們就可以盡情地大談特談了。現在，我們還是回克拉里奧那裡吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -757,7 +757,7 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>「那就是奧德理斯。」</DefaultText>
+      <DefaultText>「是奧德理斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -797,22 +797,22 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>「我不認為這樣真的——」</DefaultText>
+      <DefaultText>「我不認為這樣真的—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>「我們沒時間——」</DefaultText>
+      <DefaultText>「我們沒時間—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>「這可真是——」</DefaultText>
+      <DefaultText>「這可真是—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>「那太好了，我和伊莎彌兒有好多事兒要做了。」</DefaultText>
+      <DefaultText>「那太好了，我和 &lt;g&gt;伊莎彌兒&lt;/g&gt;有好多事兒要做了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -842,7 +842,7 @@
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>「我猜你要離開國王港了。既然風暴已經散了，過不了多久我應該也會離開這裡。」</DefaultText>
+      <DefaultText>「我猜你要離開 國王港 了。既然風暴已經散了，過不了多久我應該也會離開這裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -857,7 +857,7 @@
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>「這些事情我下次再和你說吧。不過，我在亡焰列島上還有別的事情要做，這不禁讓我有個想法。」</DefaultText>
+      <DefaultText>「這些事情我下次再和你說吧。不過，我在 &lt;g&gt;亡焰列島&lt;/g&gt;上還有別的事情要做，這不禁讓我有個想法。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -882,7 +882,7 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>「五年前，我們曾在鹿林一起對抗撒奧斯。」</DefaultText>
+      <DefaultText>「五年前，我們曾在 &lt;g&gt;鹿林&lt;/g&gt;一起對抗撒奧斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -897,7 +897,7 @@
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>「我猜你要離開國王港了。既然風暴已經散了，過不了多久我應該也會離開這裡。」</DefaultText>
+      <DefaultText>「我猜你要離開 國王港 了。既然風暴已經散了，過不了多久我應該也會離開這裡。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -11,34 +11,34 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[悄悄向前拿走他的硬幣錢袋。]</DefaultText>
+      <DefaultText>[悄悄向前拿走他的硬幣錢袋]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[不要讓貴族和侍衛看到。]</DefaultText>
+      <DefaultText>[不要讓貴族和侍衛看到]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[準備伏擊。]</DefaultText>
+      <DefaultText>[準備伏擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[別管貴族。]</DefaultText>
+      <DefaultText>[別管貴族]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>一個侍衛朝那個人探身向前。「這條街道不安全，大人。或許吧——」
+      <DefaultText>一個侍衛朝那個人探身向前。「這條街道不安全，大人。或許吧—」
 
 「你的&lt;i&gt;職責&lt;/i&gt;就是讓我安全……不要像個女人囉囉嗦嗦。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>一個侍衛朝那個人探身向前。「這條街道不安全，大人。或許吧——」
+      <DefaultText>一個侍衛朝那個人探身向前。「這條街道不安全，大人。或許吧—」
 
 「你的&lt;i&gt;職責&lt;/i&gt;就是讓我安全……不要像個女人囉囉嗦嗦。」</DefaultText>
       <FemaleText />
@@ -52,17 +52,17 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[什麼都不做。]</DefaultText>
+      <DefaultText>[什麼都不做]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>你輕握住硬幣錢袋，然後——熟練的用刀一劃——就把它從那人身上取走了。貴族和他的侍衛一無所知，繼續在街上走著。</DefaultText>
+      <DefaultText>你輕握住硬幣錢袋，然後—熟練的用刀一劃—就把它從那人身上取走了。貴族和他的侍衛一無所知，繼續在街上走著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>你握著硬幣錢袋，感覺它脫手而去，因為鹿林驚叫一聲，跳了起來。他顫抖著用毛茸茸彎曲的手指指著你。
+      <DefaultText>你握著硬幣錢袋，感覺它脫手而去，因為 &lt;g&gt;鹿林&lt;/g&gt;驚叫一聲，跳了起來。他顫抖著用毛茸茸彎曲的手指指著你。
 
 「小偷！殺了他們！」</DefaultText>
       <FemaleText />
@@ -71,7 +71,7 @@
       <ID>13</ID>
       <DefaultText>像影子一樣，[Specified 4] 摸到貴族身後。一通你搞不明白的戲法後，你的同伴手裡拿著錢袋回到了你身邊。
 
-鹿林和他的侍衛們消失在街道上。</DefaultText>
+ &lt;g&gt;鹿林&lt;/g&gt;和他的侍衛們消失在街道上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,7 +85,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[悄悄向前拿走他的硬幣錢袋。]</DefaultText>
+      <DefaultText>[悄悄向前拿走他的硬幣錢袋]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -95,22 +95,22 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[給貴族指示。]</DefaultText>
+      <DefaultText>[給貴族指示]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[拔出你的武器。]「要錢還是要命。」</DefaultText>
+      <DefaultText>[拔出你的武器]「要錢還是要命。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[離開。]「祝你好運。」</DefaultText>
+      <DefaultText>[離開]「祝你好運。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>憑借你對涅克塔卡的街道熟悉，你指示那個人回到女王港。
+      <DefaultText>憑借你對 &lt;g&gt;涅克塔卡&lt;/g&gt;的街道熟悉，你指示那個人回到女王港。
 
 「真誠感激你。」他深深鞠躬，給你一小袋金幣。就當你的辛苦費吧。」</DefaultText>
       <FemaleText />
@@ -122,7 +122,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「別站在那裡，蠢貨！[做些別的事情。]</DefaultText>
+      <DefaultText>「別站在那裡，蠢貨！[做些別的事情]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +139,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[清清喉嚨。]</DefaultText>
+      <DefaultText>[清清喉嚨]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -149,7 +149,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[不管他們，走開。]</DefaultText>
+      <DefaultText>[不管他們，走開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,7 +170,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「嗚——呃……」</DefaultText>
+      <DefaultText>「嗚—呃……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,12 +180,12 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[離開] 「那我就不管你們了。」</DefaultText>
+      <DefaultText>[離開]「那我就不管你們了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>[默不作聲地瞪著他。]</DefaultText>
+      <DefaultText>[默不作聲地瞪著他]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>環視角落發現一名草原民族老者，穿著奢華似鹿林貴族，他手指上戴著的戒指和瘦瘦的脖子上掛著的鏈子閃閃發光。
+      <DefaultText>環視角落發現一名草原民族老者，穿著奢華似 &lt;g&gt;鹿林&lt;/g&gt;貴族，他手指上戴著的戒指和瘦瘦的脖子上掛著的鏈子閃閃發光。
 
 「靠！你們這些弱智，我就跟你們說不是這條街！說的話含糊不清，好像那人的舌頭太大。
 
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>環視角落發現一名草原民族老者，穿著奢華似鹿林貴族，他手指上戴著的戒指和瘦瘦的脖子上掛著的鏈子閃閃發光。
+      <DefaultText>環視角落發現一名草原民族老者，穿著奢華似 &lt;g&gt;鹿林&lt;/g&gt;貴族，他手指上戴著的戒指和瘦瘦的脖子上掛著的鏈子閃閃發光。
 
 「靠！你們這些弱智，我就跟你們說不是這條街！說的話含糊不清，好像那人的舌頭太大。
 
@@ -256,19 +256,19 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText> [Specified 0]吐了一口濃痰沿著牆上慢慢滴下，[Specified 1] 趕緊退避。
+      <DefaultText>[Specified 0]吐了一口濃痰沿著牆上慢慢滴下，[Specified 1] 趕緊退避。
 
 「老天……是，船長。我們將回船上去。」兩人溜走。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>[接近那群人。]</DefaultText>
+      <DefaultText>[接近那群人]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>一個侍衛朝那個人探身向前。「這條街道不安全，大人。或許吧——」
+      <DefaultText>一個侍衛朝那個人探身向前。「這條街道不安全，大人。或許吧—」
 
 「你的&lt;i&gt;職責&lt;/i&gt;就是讓我安全……不要像個女人囉囉嗦嗦。」</DefaultText>
       <FemaleText />
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>「從聚鹿帝國進口的蜜酒」</DefaultText>
+      <DefaultText>「從 &lt;g&gt;聚鹿帝國&lt;/g&gt;進口的蜜酒」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,7 +390,7 @@
 
 侍衛不愉快地相互看了看。「他們看起來不是開玩笑，主人。或許你應把你的錢包給他們……」
 
-鹿林吐了口吐沫，把他的錢包從腰帶上解下來丟給了你。「好吧。但這些得從你的工資中扣！」</DefaultText>
+ &lt;g&gt;鹿林&lt;/g&gt;吐了口吐沫，把他的錢包從腰帶上解下來丟給了你。「好吧。但這些得從你的工資中扣！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -399,7 +399,7 @@
 
 侍衛不愉快地相互看了看。「他們看起來不是開玩笑，主人。或許你應把你的錢包給他們……」
 
-鹿林吐了口吐沫，把他的錢包從腰帶上解下來丟給了你。「好吧。但這些得從你的工資中扣！」</DefaultText>
+ &lt;g&gt;鹿林&lt;/g&gt;吐了口吐沫，把他的錢包從腰帶上解下來丟給了你。「好吧。但這些得從你的工資中扣！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>他接過酒瓶，歎了口氣。「給你——十金幣。就算是給你添麻煩的補償吧。俗話說，船遇風暴，不擇港口。」
+      <DefaultText>他接過酒瓶，歎了口氣。「給你—十金幣。就算是給你添麻煩的補償吧。俗話說，船遇風暴，不擇港口。」
 
 一名侍衛揚起眉毛。</DefaultText>
       <FemaleText />
@@ -503,7 +503,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>他站起來，眨了眨眼。「老天！就是說，你是努亞堡的靈視者，對吧？我出席過你的法庭。回聲灣的領主！」他哈哈大笑。「到處找你，原來你在這裡。」
+      <DefaultText>他站起來，眨了眨眼。「老天！就是說，你是 &lt;g&gt;努亞堡&lt;/g&gt;的靈視者，對吧？我出席過你的法庭。回聲灣的領主！」他哈哈大笑。「到處找你，原來你在這裡。」
 
 他撓撓頭。「我以為你已經死了……」</DefaultText>
       <FemaleText />

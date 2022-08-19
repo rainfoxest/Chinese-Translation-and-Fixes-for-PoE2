@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[把[Specified 0]踢下水。]</DefaultText>
+      <DefaultText>[把[Specified 0]踢下水]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,19 +33,19 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「相互殘殺只會產生更多問題。放下武器，讓我們像文明的基斯一樣討論這事兒。」</DefaultText>
+      <DefaultText>「相互殘殺只會產生更多問題。放下武器，讓我們像文明的 &lt;g&gt;基斯&lt;/g&gt;一樣討論這事兒。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「你們很多人都知道，我殺食人魔和亞龍取樂，對吧？」你們或許需要對此反思一下。」</DefaultText>
+      <DefaultText>「你們很多人都知道，我殺巨魔和亞龍取樂，對吧？」你們或許需要對此反思一下。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>[Specified 0]向前站了出來，你轉到右邊。叛變者跟蹤你，你將他們引到左舷欄杆，他們圍成一圈。
 
-「有些奇怪，是吧，船長？」[Specified 0]問道。「老實面對這後果吧——，」
+「有些奇怪，是吧，船長？」[Specified 0]問道。「老實面對這後果吧—，」
 
 你快速前衝。</DefaultText>
       <FemaleText />
@@ -56,7 +56,7 @@
 
 「幸運號三。」
 
-「上帝，不！」 [Specified 2]大叫著說。.「饒命，船長，饒命！」</DefaultText>
+「上帝，不！」[Specified 2]大叫著說。.「饒命，船長，饒命！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,7 +125,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>叛變者們舉起手。[Specified 1]走到你面前，手中拿著大棒。 
+      <DefaultText>叛變者們舉起手。[Specified 1]走到你面前，手中拿著大棒。
 
 「可不是輕易饒得了的事情，船長，」水手嘟噥道。</DefaultText>
       <FemaleText />
@@ -136,7 +136,7 @@
 
 [Specified 2]輕輕笑著，與[Specified 3]一致點著頭。[Specified 4]春風滿面，看著其他同伴，好像在計算每個人應得的銀幣一樣。
 
-「這『外交』手段如何，船長？」 [Specified 0]壞笑著問道。</DefaultText>
+「這『外交』手段如何，船長？」[Specified 0]壞笑著問道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[拔出[Specified 0]射擊。]</DefaultText>
+      <DefaultText>[拔出[Specified 0]射擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,7 +249,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[Specified 0]的眼睛瞇起，但並沒有表現出吃驚的眼神。「地獄見，船長。」
+      <DefaultText>[Specified 0]的眼睛瞇起，但並沒有表現出吃驚的眼神。「冥界 見，船長。」
 
 船員迅速綁起那名叛變者，這名水手的身體砸到水中的濺擊聲像槍聲一樣迴響在甲板上。</DefaultText>
       <FemaleText />
@@ -280,7 +280,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>你的航海圖在你面前展開，你奮力使自己不要在閃爍的光線和船艙的輕搖中睡著。奇怪的是，最終使你完全清醒的不是聲音，而是幾乎沒有噪聲的安靜——只有燭蠟燃燒的啪啪聲和大海的低語。</DefaultText>
+      <DefaultText>你的航海圖在你面前展開，你奮力使自己不要在閃爍的光線和船艙的輕搖中睡著。奇怪的是，最終使你完全清醒的不是聲音，而是幾乎沒有噪聲的安靜—只有燭蠟燃燒的啪啪聲和大海的低語。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,7 +330,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[用能力使他們的內心或心智屈服。]</DefaultText>
+      <DefaultText>[用能力使他們的內心或心智屈服]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -345,7 +345,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>[用戰技恐嚇它們。]</DefaultText>
+      <DefaultText>[用戰技恐嚇它們]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,7 +376,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>[考慮其它。]</DefaultText>
+      <DefaultText>[考慮其它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -413,7 +413,7 @@
 
 「看到這個了嗎，船長？」這就是我的名字的來由。」
 
-[Specified 4]點點頭。「當你從國王港第一次啟航時，你告訴船員要去掠奪亡焰列島的財富。現在看看你自己。」</DefaultText>
+[Specified 4]點點頭。「當你從 國王港 第一次啟航時，你告訴船員要去掠奪 &lt;g&gt;亡焰列島&lt;/g&gt;的財富。現在看看你自己。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -445,12 +445,12 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>「代我向貝拉斯問好。」</DefaultText>
+      <DefaultText>「代我向 &lt;g&gt;貝拉斯&lt;/g&gt;問好。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>[一言不發。]</DefaultText>
+      <DefaultText>[一言不發]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -539,7 +539,7 @@
       <ID>88</ID>
       <DefaultText>「你小心點，」[Specified 1]叛變者們嚴肅地警告道。
 
-「沒人跟你說話，」 [Specified 0]厲聲說。「當你準備為我們的忠誠度買單時，那重要的時刻也會很快成真的，[Specified 1]。」</DefaultText>
+「沒人跟你說話，」[Specified 0]厲聲說。「當你準備為我們的忠誠度買單時，那重要的時刻也會很快成真的，[Specified 1]。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

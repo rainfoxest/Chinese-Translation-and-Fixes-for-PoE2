@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\21_prologue\21_bs_narrator_fragments</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>9</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>1</ID>
-      <DefaultText>「被剝奪了城堡，從身體中抽離，你的靈魂在一個無眠的世界中甦醒了，生與死的暗空。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2</ID>
-      <DefaultText>「記憶的碎片在你眼前展開，引導著你。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3</ID>
-      <DefaultText>「是的，你是一名靈視者。這一名號本非天生，是你自己贏來的。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4</ID>
-      <DefaultText>「活著的時候，你會與徘徊於暗空的靈魂交談。都是與你現在一樣的失落靈魂。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5</ID>
-      <DefaultText>「&lt;i&gt;你的&lt;/i&gt;城堡，努亞堡。還有你的總管，都被封存於白色魂珀之中。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>6</ID>
-      <DefaultText>「神靈們的不朽代理人，撒奧斯。他發動了一次危機。你阻止了他。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>7</ID>
-      <DefaultText>「古代背叛者愛歐瓦拉，因為發現了真相而承受處罰。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>8</ID>
-      <DefaultText>「他守護了神靈們的秘密千年。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>9</ID>
-      <DefaultText>「在最後的時刻，你留下了那兩者並回歸到了凡人世界。直到現在。」</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>conversations\21_prologue\21_bs_narrator_fragments</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>9</EntryCount>
+ <Entries>
+  <Entry>
+   <ID>1</ID>
+   <DefaultText>「被剝奪了城堡，從身體中抽離，你的靈魂在一個無眠的世界中甦醒了，生與死的 暗空。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>2</ID>
+   <DefaultText>「記憶的碎片在你眼前展開，引導著你。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>3</ID>
+   <DefaultText>「是的，你是一名靈視者。這一名號本非天生，是你自己贏來的。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>4</ID>
+   <DefaultText>「活著的時候，你會與徘徊於 &lt;g&gt;暗空&lt;/g&gt;的靈魂交談。都是與你現在一樣的失落靈魂。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>5</ID>
+   <DefaultText>「&lt;i&gt;你的&lt;/i&gt;城堡，努亞堡。還有你的總管，都被封存於白色 魂珀 之中。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>6</ID>
+   <DefaultText>「神靈們的不朽代理人，撒奧斯。他發動了一次危機。你阻止了他。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>7</ID>
+   <DefaultText>「古代背叛者愛歐瓦拉，因為發現了真相而承受處罰。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>8</ID>
+   <DefaultText>「他守護了神靈們的秘密千年。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>9</ID>
+   <DefaultText>「在最後的時刻，你留下了那兩者並回歸到了凡人世界。直到現在。」</DefaultText>
+   <FemaleText />
+  </Entry>
+ </Entries>
 </StringTableFile>

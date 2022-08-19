@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\cyclopedia</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>7</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>1084</ID>
-      <DefaultText>在回合制模式下，施展行動使用角色的行動點。角色將立刻開始施展戰技。他們將在同一回合的晚些時候完成施展該戰技。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1085</ID>
-      <DefaultText>在回合制模式下，自由行動不消耗角色的行動點。角色在自己的回合中除了可執行&lt;link="glossary://GlossaryEntry_StandardAction"&gt;標準&lt;/link&gt;或&lt;link="glossary://GlossaryEntry_CastAction"&gt;施展&lt;/link&gt;行動外，還可執行任意次數的自由行動。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1086</ID>
-      <DefaultText>在回合制模式下，最為普通的一類行動是標準行動。標準行動消耗角色該回合的行動點，且立刻發生。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1096</ID>
-      <DefaultText>在回合制模式下，先手權決定各角色輪流行動的順序。先手權數值較低的角色將先於其他角色行動，且能更快完成施法。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1099</ID>
-      <DefaultText>行動速度較高的角色能更早完成施展行動，且將擁有較低的先手權。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1103</ID>
-      <DefaultText>影響感知的減益狀態。處於目盲狀態的角色遭受-5感知，被認定為受夾擊，+50%先手權，-10精準，所有遠程攻擊的距離減半。處於目盲狀態的角色無法使用凝視攻擊，也不受該攻擊影響。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1104</ID>
-      <DefaultText>影響感知的減益狀態。迷離的角色感知-5，並被視為處於夾擊狀態，其行動後的先手權+50%。</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>game\cyclopedia</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>7</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>1084</ID>
+     <DefaultText>在回合制模式下，施展行動使用角色的行動點。角色將立刻開始施展戰技。他們將在同一回合的晚些時候完成施展該戰技。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1085</ID>
+     <DefaultText>在回合制模式下，自由行動不消耗角色的行動點。角色在自己的回合中除了可執行&lt;link="glossary://GlossaryEntry_StandardAction"&gt;標準&lt;/link&gt;或&lt;link="glossary://GlossaryEntry_CastAction"&gt;施展&lt;/link&gt;行動外，還可執行任意次數的自由行動。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1086</ID>
+     <DefaultText>在回合制模式下，最為普通的一類行動是標準行動。標準行動消耗角色該回合的行動點，且立刻發生。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1096</ID>
+     <DefaultText>在回合制模式下，先手權 決定各角色輪流行動的順序。先手權 數值較低的角色將先於其他角色行動，且能更快完成施法。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1099</ID>
+     <DefaultText>行動速度較高的角色能更早完成施展行動，且將擁有較低的 先手權</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1103</ID>
+     <DefaultText>感知熬煎。目盲角色遭受 -5 感知、被認定為受 夾擊、+50% 先手權、-10 精準、所有遠程攻擊的距離減半。處於目盲狀態的角色無法使用凝視攻擊，也不受該攻擊影響</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1104</ID>
+     <DefaultText>感知熬煎。迷離角色 感知 -5、被認定為受 夾擊，其行動後的 &lt;g&gt;先手權&lt;/g&gt;+50%</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

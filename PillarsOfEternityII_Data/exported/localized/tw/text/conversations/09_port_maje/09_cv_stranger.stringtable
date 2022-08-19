@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[仔細地打量他。]</DefaultText>
+      <DefaultText>[仔細地打量他]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「好好喝一杯吧，國王港還沒有禁酒呢。」他對你做了個乾杯的手勢，朝你眨眨眼睛。</DefaultText>
+      <DefaultText>「好好喝一杯吧，國王港 還沒有禁酒呢。」他對你做了個乾杯的手勢，朝你眨眨眼睛。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[攻擊] 「你以為我會在乎你的死活，你肯定也把我弄錯了。」</DefaultText>
+      <DefaultText>[攻擊]「你以為我會在乎你的死活，你肯定也把我弄錯了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[撒謊] 「因為他們不相信你的能力，兄弟，你的偽裝早就暴露了。」</DefaultText>
+      <DefaultText>[撒謊]「因為他們不相信你的能力，兄弟，你的偽裝早就暴露了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>「我只知道這些事情。雖然不知道努瓦泰人有什麼計劃，但她只是這個計劃的一部分。」他搖搖頭，皺起了眉。</DefaultText>
+      <DefaultText>「我只知道這些事情。雖然不知道 &lt;g&gt;努瓦泰&lt;/g&gt;人有什麼計劃，但她只是這個計劃的一部分。」他搖搖頭，皺起了眉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「如你所言。」他點點頭，最後看了國王港一眼，然後就跑向最近的船了。</DefaultText>
+      <DefaultText>「如你所言。」他點點頭，最後看了 國王港 一眼，然後就跑向最近的船了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,12 +201,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[攻擊] 「你已經無藥可救了，到靈界去贖罪吧。」</DefaultText>
+      <DefaultText>[攻擊]「你已經無藥可救了，到靈界去贖罪吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>[撒謊] 「是我和他們力爭要留你一命的，別逼我改主意。」</DefaultText>
+      <DefaultText>[撒謊]「是我和他們力爭要留你一命的，別逼我改主意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>「那些胡亞納人密謀禍害他們自己的人民…….他們會為我們的未來蒙上陰影。和商行相比，你們這些人是更加深重的禍患。」他搖著頭，上下打量著麥婭。</DefaultText>
+      <DefaultText>「那些 &lt;g&gt;胡亞納&lt;/g&gt;人密謀禍害他們自己的人民…….他們會為我們的未來蒙上陰影。和商行相比，你們這些人是更加深重的禍患。」他搖著頭，上下打量著麥婭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,17 +303,17 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>[攻擊] 「說得好，我還是當著你面開槍吧。」</DefaultText>
+      <DefaultText>[攻擊]「說得好，我還是當著你面開槍吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>「好吧……在這沒有朋友的日子裡，這已經是我能得到的最好保證了。」他長長地吐了口氣，轉過身，從你身邊走開，腳步中充滿了不安。</DefaultText>
+      <DefaultText>「Ekera……在這單槍匹馬的日子這大概就是我能得到最大的保證了。」他長長地吐了口氣，轉過身，從你身邊走開，腳步中充滿了不安。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,12 +323,12 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>「我們生活在和平之中，努瓦泰人並不知道未來的景象。如果你打算為那些叛徒和內應效力，我是不會讓你走的。」他點點頭，下定了決心。</DefaultText>
+      <DefaultText>「我們生活在和平之中，&lt;g&gt;努瓦泰&lt;/g&gt;人並不知道未來的景象。如果你打算為那些叛徒和內應效力，我是不會讓你走的。」他點點頭，下定了決心。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>[攻擊] 「這可是你自找的。」</DefaultText>
+      <DefaultText>[攻擊]「這可是你自找的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -348,12 +348,12 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>[攻擊] 「我就是你這輩子見到的最後一個人了。」</DefaultText>
+      <DefaultText>[攻擊]「我就是你這輩子見到的最後一個人了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>[攻擊] 「該死的叛徒。」</DefaultText>
+      <DefaultText>[攻擊]「該死的間諜。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,12 +363,12 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>[攻擊] 「哦，不，看起來某個人要遭遇不測了。」</DefaultText>
+      <DefaultText>[攻擊]「哦，不，看起來某個人要遭遇不測了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[放他走。]</DefaultText>
+      <DefaultText>[放他走]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -480,7 +480,7 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>「更糟糕的是，你會把恩加蒂的神選者變得和你一樣。」他抿住了嘴唇，以失望的眼神看了泰克胡一眼。</DefaultText>
+      <DefaultText>「更糟糕的是，你會把 &lt;g&gt;恩加蒂&lt;/g&gt;的神選者變得和你一樣。」他抿住了嘴唇，以失望的眼神看了泰克胡一眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

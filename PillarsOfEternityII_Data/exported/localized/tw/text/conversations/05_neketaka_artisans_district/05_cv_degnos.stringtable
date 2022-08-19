@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「你好，朋友！你去過明亮澡堂了，是嗎？」</DefaultText>
-      <FemaleText>「你好，朋友！你去過明亮澡堂了，是嗎？」</FemaleText>
+      <DefaultText>「Ado，fentre！你打算去輝光澡堂嗎？」</DefaultText>
+      <FemaleText>「Ado，tella！你打算去輝光澡堂嗎？」</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -16,27 +16,27 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「明亮什麼？」</DefaultText>
+      <DefaultText>「輝光什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[離開]「不管你有什麼要求，我的答案都是不。再見。」</DefaultText>
+      <DefaultText>[離開]「不管你想要什麼，我的答案都是不。再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「我犯傻了……把背包落在裡面了。」</DefaultText>
+      <DefaultText>「是我的背包—我犯傻了，落在裡面了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「真的嗎，你確定不知道？就是那片散發著光魂珀光芒的水域。我聽說它幾乎能夠治癒所有的疾病！」</DefaultText>
+      <DefaultText>「Di verus，你真的不知道？那兒的水都散發著光魂珀光芒。我聽說它甚至能夠治癒所有疾病！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「我是想自己去，可是……唉，那些守衛說沒有我隊長的陪同就不放我。他們覺得我是個小偷。」
+      <DefaultText>「我是想自己去，可是……唉，那些守衛說沒有我的 casità 的陪同就不放我。他們覺得我是個小偷。」
 
 他盯著自己的腳，兩隻手焦慮地打著衣服的結。</DefaultText>
       <FemaleText />
@@ -48,14 +48,14 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「太好了！你沒騙我吧？謝謝，謝謝，我欠你個人情！」
+      <DefaultText>「Gellarde！你沒騙我吧？Agracima，agracima，我欠你個人情！」
 
 他滿臉的愁容稍微緩和了一點。他眼睛睜得大大的，笑了笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>你注意到他的上嘴唇上布著一小層汗珠。他從一隻腳墊到另一隻腳，專心致志地盯著你。</DefaultText>
+      <DefaultText>你注意到他的上嘴唇上布著一小層汗珠。重心不停從一隻腳移去另一隻地盯著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,8 +67,8 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「不好意思，朋友-你找到背包了嗎？」</DefaultText>
-      <FemaleText>「不好意思，朋友-你找到背包了嗎？」</FemaleText>
+      <DefaultText>「Eccosi，fentre - 你找到背包了嗎？」</DefaultText>
+      <FemaleText>「Eccosi，tella - 你找到背包了嗎？」</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -87,14 +87,14 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「我的船-啊，我隊長的船-隨時都會離開。我必須拿到那個背包。」
+      <DefaultText>「我的船 - 啊，我 casità 的船 - 隨時都會離開。我必須拿到那個背包。」
 
 他開始踱步，匆忙地走了幾步後又轉身朝別的方向走去，期間雙手不停地轉著圈。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「真的嗎？太好了！真是太棒了。」戴格諾斯的臉上綻開了笑容。</DefaultText>
+      <DefaultText>「Di verus？Belfetto！真是太棒了。」戴格諾斯的臉上綻開了笑容。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -104,14 +104,14 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「不是你想的那樣。求求你了，聽我解釋。」
+      <DefaultText>「不是你想的那樣。Complanca，聽我解釋。」
 
 他的目光從你臉上移開，就好像不敢與你對視似的。一點汗水從他的額頭滴落，他扯了扯外衣的下擺。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[交還物品。]「干涉你的計劃好像不太合適。」</DefaultText>
+      <DefaultText>[交還物品]「我無意干涉你的計劃。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,19 +148,19 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「該死的，好吧！只要你不告訴艾薇塔，我就按你說的做！」他雙手緊握在一起，猛地點點頭。</DefaultText>
+      <DefaultText>「Merla，好吧！只要你不告訴艾薇塔，我就按你說的做！」他雙手緊握在一起，猛地點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>「蠢貨，這次真是栽進去了！」</DefaultText>
+      <DefaultText>「Postenago，這次真是栽進去了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>「請收下這個。你不知道你幫了我多大的忙。」
 
-他遞給你幾個銅幣，臉上露出羞怯的笑容。</DefaultText>
+他遞給你幾個 銅幣，臉上露出羞怯的笑容。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,34 +170,34 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>「就在佩瑞琪之望的明亮澡堂裡面。十有八九，還在二樓的臥室裡。」
+      <DefaultText>「就在 &lt;g&gt;佩瑞琪&lt;/g&gt;之望的輝光澡堂裡面。十有八九，還在二樓的臥室裡。」
 
 他扯著右手的倒刺，避開你的視線。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>「抱歉，我沒有時間閒扯。我必須幫助艾薇塔打點她的存貨。」</DefaultText>
+      <DefaultText>「Eccosi，我沒有時間閒扯。我必須幫助艾薇塔打點她的存貨。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「拜託！拜託！別擋我的道！」</DefaultText>
+      <DefaultText>「Apretta！Apretta！別擋我的道！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>「海麗婭賜予我翅膀吧！」</DefaultText>
+      <DefaultText>「海麗婭 賜予我翅膀吧！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「隊長，她會撕了我的皮的！」</DefaultText>
+      <DefaultText>「Casità，她會撕了我的皮的！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>「混蛋！」他低聲罵了一句，然後轉過身去。
+      <DefaultText>「Bazzo！」他低聲罵了一句，然後轉過身去。
 
 他瞇著眼睛盯著街上，好像是在等人，想要在他被看見之前先看到他們。</DefaultText>
       <FemaleText />
@@ -219,7 +219,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>「嗯，現在我到是&lt;i&gt;等&lt;/i&gt;不及想看看裡面有什麼東西了。」</DefaultText>
+      <DefaultText>「嗯，現在我倒是&lt;i&gt;等&lt;/i&gt;不及想看看裡面有什麼東西了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,8 +229,8 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>「不不不，我怎麼敢呢！你是真的幫了我大忙，朋友！」他著急地猛揮著手。</DefaultText>
-      <FemaleText>「不不不，我怎麼敢呢！你是真的幫了我大忙，朋友！」他著急地猛揮著手。</FemaleText>
+      <DefaultText>「不不不，我怎麼敢呢！你是真的幫了我大忙，aimico！」他著急地猛揮著手。</DefaultText>
+      <FemaleText>「不不不，我怎麼敢呢！你是真的幫了我大忙，aimica！」他著急地猛揮著手。</FemaleText>
     </Entry>
     <Entry>
       <ID>82</ID>
@@ -254,12 +254,12 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>「當然，朋友。你真是幫了我大忙。」他用那一隻顫抖的手，拍著自己的胸膛。</DefaultText>
-      <FemaleText>「當然，朋友。你真是幫了我大忙。」他用那一隻顫抖的手，拍著自己的胸膛。</FemaleText>
+      <DefaultText>「當然，aimico。你真是幫了我大忙。」他用那一隻顫抖的手，拍著自己的胸膛。</DefaultText>
+      <FemaleText>「當然，aimica。你真是幫了我大忙。」他用那一隻顫抖的手，拍著自己的胸膛。</FemaleText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>「那你怎麼不讓你隊長去取回來呢？」</DefaultText>
+      <DefaultText>「那你怎麼不讓你船長去取回來呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>「我肯定她會知道的。」</DefaultText>
+      <DefaultText>「我肯定她早就發現了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,12 +281,12 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>「我的船在下次漲潮的時候就要離開涅克塔卡了。要是找不到的話，隊長肯定會把我扔到海裡的。」</DefaultText>
+      <DefaultText>「我的船在下次漲潮的時候就要離開 &lt;g&gt;涅克塔卡&lt;/g&gt;了。要是找不到的話，船長肯定會把我扔到海裡的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>「要死，我不會游泳啊！」他臉上佈滿了恐懼的表情。</DefaultText>
+      <DefaultText>「Merla，我不會游泳啊！」他臉上佈滿了恐懼的表情。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>「拜託你了！我求求你快點找到它！」</DefaultText>
+      <DefaultText>「Per complanca, apretta！我求求你快點找到它！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,12 +311,12 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>「我欠你個人情，朋友。真的。」他緊緊地握著你的手，手心全是汗。</DefaultText>
-      <FemaleText>「我欠你個人情，朋友。真的。」他緊緊地握著你的手，手心全是汗。</FemaleText>
+      <DefaultText>「我欠你個人情，aimico。真的。」他緊緊地握著你的手，手心全是汗。</DefaultText>
+      <FemaleText>「我欠你個人情，aimica。真的。」他緊緊地握著你的手，手心全是汗。</FemaleText>
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>「不過，我求求你-不要告訴艾薇塔。」</DefaultText>
+      <DefaultText>「不過，我求求你 - 不要告訴艾薇塔。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>「我的聚鹿語不太好，對吧？請見諒我這笨拙的口語。」他緊緊地握著你的手。</DefaultText>
+      <DefaultText>「我的 &lt;g&gt;聚鹿&lt;/g&gt;語不太好，對吧？請見諒我這笨拙的口語。」他緊緊地握著你的手。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>「拜託了，我隊長-裡面有她的商業秘密。要是被她知道我給別人看來，即便是無意的，我也肯定死定了。」
+      <DefaultText>「拜託了，我的 casità - 裡面有她的商業秘密。要是被她知道我給別人看來，即便是無意的，我也肯定死定了。」
 
 他用他那雙粘滑的手緊緊地拽著你，搖得就像風中的落葉一樣。</DefaultText>
       <FemaleText />
@@ -353,7 +353,7 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>「你是小偷嗎？」</DefaultText>
+      <DefaultText>「所以你是小偷嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,7 +363,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>[撒謊]「那我是&lt;i&gt;萬萬不能&lt;/i&gt;答應的呀！」</DefaultText>
+      <DefaultText>[撒謊]「我&lt;i&gt;當然&lt;/i&gt;不會！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

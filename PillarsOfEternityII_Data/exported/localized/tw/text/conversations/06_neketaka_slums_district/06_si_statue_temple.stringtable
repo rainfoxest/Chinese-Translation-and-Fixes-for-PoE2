@@ -11,22 +11,22 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[查看雕像。]</DefaultText>
+      <DefaultText>[查看雕像]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[將海螺殼放在雕像的手掌上。]</DefaultText>
+      <DefaultText>[將海螺殼放在雕像的手掌上]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>看起來像是一位代表著昂德拉的胡亞納人。她的長袍像激流一般翻捲著，但她的面容仍像大海般溫和平靜。
+      <DefaultText>看起來像是一位代表著 &lt;g&gt;昂德拉&lt;/g&gt;的 &lt;g&gt;胡亞納&lt;/g&gt;人。她的長袍像激流一般翻捲著，但她的面容仍像大海般溫和平靜。
 
 她將一隻手伸向你，似乎在等待著什麼。</DefaultText>
       <FemaleText />
@@ -65,7 +65,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>是海螺殼——那兩個海螺殼。一陣輕柔的浪花拍岸聲從兩個貝殼中傳來。</DefaultText>
+      <DefaultText>是海螺殼—那兩個海螺殼。一陣輕柔的浪花拍岸聲從兩個貝殼中傳來。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

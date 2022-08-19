@@ -11,13 +11,13 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「不要殺我……幫幫我！」荊棘覆蓋的葡萄籐緊緊地束縛著這個瓦利亞女人。</DefaultText>
+      <DefaultText>「不要殺我……幫幫我！」荊棘覆蓋的葡萄籐緊緊地束縛著這個 &lt;g&gt;瓦利亞&lt;/g&gt;女人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「救我……救我出去吧，兄弟！」瓦利亞探索者懇求你。</DefaultText>
-      <FemaleText>「救我……救我出去吧，姐妹！」瓦利亞探索者懇求你。</FemaleText>
+      <DefaultText>「救我……救我出去吧，兄弟！」瓦利亞 探索者懇求你。</DefaultText>
+      <FemaleText>「救我……救我出去吧，姐妹！」瓦利亞 探索者懇求你。</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「卡斯托爾主管派我們來的。我們……我們正在尾隨胡亞納探險隊，想要弄清楚他們在做什麼。」她的目光徘徊在廢墟的邊界。</DefaultText>
+      <DefaultText>「卡斯托爾主管派我們來的。我們……我們正在尾隨 &lt;g&gt;胡亞納&lt;/g&gt;探險隊，想要弄清楚他們在做什麼。」她的目光徘徊在廢墟的邊界。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「 有……有什麼東西趁著我們休息，給我們動了手腳。哦，我的天啊……我醒來，發現隊長嘴裡長出一朵花。我開始拔他的牙齒之間的雜草……」</DefaultText>
+      <DefaultText>「有……有什麼東西趁著我們休息，給我們動了手腳。哦，我的天啊……我醒來，發現隊長嘴裡長出一朵花。我開始拔他的牙齒之間的雜草……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[在葡萄籐上使用腐化之手。]</DefaultText>
+      <DefaultText>[在葡萄籐上使用腐化之手]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[接受她的提議。]「歡迎你，船員。那咱們就船上見吧。」</DefaultText>
+      <DefaultText>[接受她的提議]「歡迎你，船員。那咱們就船上見吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[拒絕她的提議。]」實際上我們要養活很多人。」</DefaultText>
+      <DefaultText>[拒絕她的提議]「實際上我們要養活很多人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「也許獨木舟上預備瓦哈奇的位置。真該死，他們可能會打暴我的腦袋來警告外來者。」</DefaultText>
+      <DefaultText>「也許獨木舟上預備 &lt;g&gt;瓦哈奇&lt;/g&gt;的位置。真該死，他們可能會打暴我的腦袋來警告外來者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[用手拉籐蔓。]</DefaultText>
+      <DefaultText>[用手拉籐蔓]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>你仍然緊握葡萄籐。當你將它撕開猛拉時，樹枝上的東西就像它自己的肌肉一樣扭動。有時它也會鬆開 ——讓瓦利亞探索者不那麼難受。</DefaultText>
+      <DefaultText>你仍然緊握葡萄籐。當你將它撕開猛拉時，樹枝上的東西就像它自己的肌肉一樣扭動。有時它也會鬆開 —讓 &lt;g&gt;瓦利亞&lt;/g&gt;探索者不那麼難受。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>[對籐蔓使用祛毒術。]</DefaultText>
+      <DefaultText>[對籐蔓使用祛毒術]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[與籐蔓交流，告訴它要釋放水分，並接受死亡。]</DefaultText>
+      <DefaultText>[與籐蔓交流，告訴它要釋放水分，並接受死亡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,7 +263,7 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>但艾德爾的力量無法對抗籐蔓， 它仍將自己的獵物捆得緊緊的。雖然他極力拉扯著籐蔓，但徒勞無功，而且一排可惡的棘刺還割破了他的手掌。</DefaultText>
+      <DefaultText>但艾德爾的力量無法對抗籐蔓，它仍將自己的獵物捆得緊緊的。雖然他極力拉扯著籐蔓，但徒勞無功，而且一排可惡的棘刺還割破了他的手掌。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -275,12 +275,12 @@
       <ID>129</ID>
       <DefaultText>籐蔓把巴爾蒂婭越纏越緊，她開始聲嘶力竭地慘叫，她的骨頭幾乎被壓碎，鮮血四散飛濺，最後看見她的手從一團綠色的腐爛物裡伸出來。
 
-沒有多久， 她那柔和的尖叫聲消逝殆盡。</DefaultText>
+沒有多久，她那柔和的尖叫聲消逝殆盡。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>「在這裡的北面，有一塊金色的圓盤 ——又大又重。我的一個同伴拿了一塊。然後，一切都搞砸了。」</DefaultText>
+      <DefaultText>「在這裡的北面，有一塊金色的圓盤 —又大又重。我的一個同伴拿了一塊。然後，一切都搞砸了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,7 +290,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>「這裡有什麼東西引導著這些生物 ——我認為是一個女人？她……鑽到你的皮膚裡了。」巴爾蒂婭顫抖著，抬起手，放至太陽穴。</DefaultText>
+      <DefaultText>「這裡有什麼東西引導著這些生物 —我認為是一個女人？她……鑽到你的皮膚裡了。」巴爾蒂婭顫抖著，抬起手，放至太陽穴。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,7 +325,7 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>&lt;ispeech&gt;你無言、喘息的懇求讓我們如此高興。入侵者 。&lt;/ispeech&gt;虛無縹緲的聲音隨著期待而顫抖。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;你無言、喘息的懇求讓我們如此高興。入侵者。&lt;/ispeech&gt;虛無縹緲的聲音隨著期待而顫抖。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,7 +335,7 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>&lt;ispeech&gt;你擅自闖入我們家幹什麼？馬上走，否則後果自負 ！&lt;/ispeech&gt;你腦海裡的煩思愁緒隨著樹葉的沙沙聲而漸行漸遠。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;你擅自闖入我們家幹什麼？馬上走，否則後果自負！&lt;/ispeech&gt;你腦海裡的煩思愁緒隨著樹葉的沙沙聲而漸行漸遠。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -370,7 +370,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>「我們瞭解得不多。我們到這兒的時候，圓盤已經缺了一塊了。我見到最多的就是一堆胡亞納人的亂塗亂畫。」</DefaultText>
+      <DefaultText>「我們瞭解得不多。我們到這兒的時候，圓盤已經缺了一塊了。我見到最多的就是一堆 &lt;g&gt;胡亞納&lt;/g&gt;人的亂塗亂畫。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,7 +380,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>「那些 『塗鴉』是千百年前我的人做的！我想你只是為了戰利品才想要它？」</DefaultText>
+      <DefaultText>「那些『塗鴉』是千百年前我的人做的！我想你只是為了戰利品才想要它？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,7 +395,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>「自從我被抓後，她一直在我的腦海裡吱吱喳喳地叫。這些樹、 籐蔓……這場噩夢 ！我的天啊， 是都是她造成的 ！」</DefaultText>
+      <DefaultText>「自從我被抓後，她一直在我的腦海裡吱吱喳喳地叫。這些樹、籐蔓……這場噩夢！我的天啊，是都是她造成的！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -477,7 +477,7 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>「靈視者，快，我們必須幫助她 ！」
+      <DefaultText>「靈視者，快，我們必須幫助她！」
 
 帕蕾吉娜的眼睛飛快地從巴爾蒂婭轉到籐蔓，然後再轉向你。</DefaultText>
       <FemaleText />
@@ -558,7 +558,7 @@
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>[觸摸籐蔓，探尋到核心處的生命。]</DefaultText>
+      <DefaultText>[觸摸籐蔓，探尋到核心處的生命]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「該死。如果你沒有預約，那你就是在浪費我的時間。」</DefaultText>
+      <DefaultText>「Merla。如果你沒有預約，那你就是在浪費我的時間。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,17 +21,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「我和外面的泰溫談過了。你要求佔領他們部落的土地？」</DefaultText>
+      <DefaultText>「我和外面的泰溫談過了。你有他們部落土地的所有權？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「沒錯，而且不管這個當地人怎麼狡辯，我的這個要求也是合法的。」</DefaultText>
+      <DefaultText>「Ac，容我補充那是份是合法的所有權，不管那個當地人怎麼狡辯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「算泰溫走運，因為我只是沒收了他偽造的合同。把他種人趕進峽谷都便宜他了。」</DefaultText>
+      <DefaultText>「算泰溫走運，因為我只是沒收了他偽造的合同。把他種人趕進 &lt;g&gt;邊沟區&lt;/g&gt;都便宜他了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[打量盧卡。]</DefaultText>
+      <DefaultText>[打量盧卡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>盧卡的襯衣上面沾滿了幹掉以後變成紫色的葡萄酒漬。那些酒漬看來是洗不掉了。</DefaultText>
+      <DefaultText>盧卡的襯衫上有一些褪色的紫色污漬，你可以認出這是酒漬。有人曾試圖將它們洗掉，但沒有成功。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「旅店裡的傭人們真是太笨了。笨手笨腳的一群傢伙。」他清了清嗓子朝脖子扇了扇風。</DefaultText>
+      <DefaultText>「旅店裡的服務員真是太笨了。笨手笨腳的一群傢伙。」他清了清嗓子朝脖子扇了扇風。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「從街上摔進來的吧。」盧卡嗤笑著瞟了你一眼。</DefaultText>
+      <DefaultText>「你是從街上誤打誤撞進來的吧。」盧卡嗤笑著瞟了你一眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,22 +86,22 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「不要讓你的農村朋友妨礙商行的利益。」</DefaultText>
+      <DefaultText>「你那土著朋友最好不要妨礙商行的利益。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「商行有權利以任何手段處理問題，泰溫現在對於我們來說就是個問題。」</DefaultText>
+      <DefaultText>「商行有權利以任何手段處理問題，而現在對於我們來說泰溫就是個問題。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「而且，蘭迦和他愚昧的客人都是天生的騙子。」</DefaultText>
+      <DefaultText>「而且，蘭迦 和他愚昧的客人都是天生的騙子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「我們在說的可是杜阿佩人的家鄉。不能這麼做。」</DefaultText>
+      <DefaultText>「我們在說的可是杜阿佩人的家鄉。這是不對的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「好，明白了。」盧卡瞟向一旁，視線躲閃著你。</DefaultText>
+      <DefaultText>「Ac，明白了。」盧卡瞟向一旁，視線躲閃著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「難道這個「家鄉」不是他們為了錢賣掉的嗎？」</DefaultText>
+      <DefaultText>「而這個『家鄉』他們已經為了錢而賣掉，ac？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>[捏響關節。]「關於那份合同……」</DefaultText>
+      <DefaultText>[捏響關節]「關於那份合同……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「你是在威脅我嗎，混蛋？」盧卡斜眼打量著你。</DefaultText>
+      <DefaultText>「你是在威脅我嗎，bazzo？」盧卡斜眼打量著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>「行吧行吧。」盧卡揮了揮手表示不耐煩，他起身去拿合同。</DefaultText>
+      <DefaultText>「Merla，行吧行吧。」盧卡揮了揮手表示不耐煩，他起身去拿合同。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「不可能，我肯定是看錯了什麼東西。」</DefaultText>
+      <DefaultText>「Sciòderie，我肯定是看錯了什麼東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「我要研究一下這件事情。不好意思。」盧卡輕咳了兩下示意你離開。</DefaultText>
+      <DefaultText>「我要研究一下這件事情。Eccosi。」盧卡輕咳了兩下示意你離開。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>「非常好。我們不能讓任何東西阻擋商行的道路。」盧卡朝你扔了一袋子錢幣。</DefaultText>
+      <DefaultText>「Gellarde。我們不能讓任何東西阻擋商行的道路。」盧卡朝你扔了一袋子錢幣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,7 +293,7 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>[趁他不注意的時候行竊。]</DefaultText>
+      <DefaultText>[趁他不注意的時候行竊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,7 +325,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>「真的嗎？亡焰皇家商行也太遲鈍了，怎麼會派&lt;i&gt;你&lt;/i&gt;過來。」他搖了搖頭表示自己有點失望。</DefaultText>
+      <DefaultText>「Di verus？亡焰皇家商行 也太遲鈍了，怎麼會派&lt;i&gt;你&lt;/i&gt;過來。」他搖了搖頭表示自己有點失望。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -350,12 +350,12 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>「我相信你肯定想出點「創造性」的方法來解決一切問題的。」盧卡雙唇緊閉打量著你。</DefaultText>
+      <DefaultText>「Ac，我相信你肯定想出點『有創意』的方法來解決一切問題的。」盧卡雙唇緊閉打量著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>「你繼續照這樣子談判，胡亞納人肯定會去亡焰皇家商行的懷抱的。」</DefaultText>
+      <DefaultText>「你繼續照這樣子談判，&lt;g&gt;胡亞納&lt;/g&gt;人肯定會去 &lt;g&gt;亡焰皇家商行&lt;/g&gt;的懷抱的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,7 +365,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>「太荒唐了。在擁有絕對自治權的情況下讓步就是示弱。」</DefaultText>
+      <DefaultText>「Sciòderie。在擁有絕對自治權的情況下讓步就是示弱。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,7 +375,7 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>「這……，是有幾分道理。」</DefaultText>
+      <DefaultText>「這…… ac，是有幾分道理。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -405,7 +405,7 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>「很好。這件事就這麼結束了。」盧卡拿走了你的錢，他指了指大門打發了你。</DefaultText>
+      <DefaultText>「Belfetto。這件事就這麼結束了。」盧卡拿走了你的錢，他指了指大門打發了你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,12 +432,12 @@
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>「好，你應該是個很喜歡威脅和勒索的人。」</DefaultText>
+      <DefaultText>「Ac，你應該是個很喜歡威脅和勒索的人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>「好，你應該是個很喜歡威脅和勒索的人。」</DefaultText>
+      <DefaultText>「Ac，你應該是個很喜歡威脅和勒索的人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -457,12 +457,12 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>「胡亞納人有可能是不理解合同的概念，但是他們知道自己是被騙了。」</DefaultText>
+      <DefaultText>「&lt;g&gt;胡亞納&lt;/g&gt;人有可能是不理解合同的概念，但是他們知道自己是被騙了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>「那樣子的話……。我們倒也還是希望胡亞納人能夠配合我們。」</DefaultText>
+      <DefaultText>「那樣子的話……。我們倒也還是希望 &lt;g&gt;胡亞納&lt;/g&gt;人能夠配合我們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -472,7 +472,7 @@
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>「很好。部落可以留著他們的島嶼，這樣的話我也少一件煩心事。」</DefaultText>
+      <DefaultText>「Belfetto。部落可以留著他們的島嶼，這樣的話我也少一件煩心事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -492,7 +492,7 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>[抓住他的領子拎起來。]</DefaultText>
+      <DefaultText>[抓住他的領子拎起來]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -539,7 +539,7 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>「怎麼又是你？請別再煩我了。」</DefaultText>
+      <DefaultText>「又來了？Per complancanet。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -549,7 +549,7 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>「抱歉。那個小騙子非常狡猾。」</DefaultText>
+      <DefaultText>「Sientere。那個小騙子非常狡猾。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -564,7 +564,7 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>「真的嗎？你確定你這麼做沒有任何好處？」盧卡輕蔑地笑了笑。</DefaultText>
+      <DefaultText>「Di verus？你確定你這麼做沒有任何好處？」盧卡輕蔑地笑了笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,12 +594,12 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>「蠢貨！商行沒有做過任何需要感到羞恥的事情！」</DefaultText>
+      <DefaultText>「Postenago！商行沒有做過任何需要感到羞恥的事情！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>「我們不允許地方性問題影響到我們與努瓦泰的博弈。」</DefaultText>
+      <DefaultText>「我們不允許地方性問題影響到我們與 &lt;g&gt;努瓦泰&lt;/g&gt;的博弈。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -654,7 +654,7 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>「好，走好了。識相的話就不要再靠近商行總部了。」</DefaultText>
+      <DefaultText>「Ac，走好了。識相的話就不要再靠近商行總部了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -679,19 +679,19 @@
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>「帕蕾吉娜，你能幫幫這位可憐酒鬼嗎？」</DefaultText>
+      <DefaultText>「帕蕾吉娜，你能幫幫這位可憐的酒鬼嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>「能啊。盧卡，聽我說。別惹商行。不要給這傢伙說服了。」
+      <DefaultText>「Ac。盧卡，聽我說。你不會想惹怒商行。不要給這傢伙說服了。」
 
 她朝你偏了偏頭，惡狠狠地瞟著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>「哈！你自己的夥伴知道你是什麼樣的貨色。
+      <DefaultText>「哈！你自己的夥伴知道你是什麼樣的貨色。」
 
 「我選擇聽從理智。」
 
@@ -705,7 +705,7 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>[握緊拳頭。]「我不渴。」</DefaultText>
+      <DefaultText>[握緊拳頭]「我不渴。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -730,7 +730,7 @@
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>「是，這倒是對的。」盧卡搖搖晃晃站起身，看著你的眼神中透露出了片刻的尊敬。</DefaultText>
+      <DefaultText>「Gellarde，這倒是對的。」盧卡搖搖晃晃站起身，看著你的眼神中透露出了片刻的尊敬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -740,7 +740,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>「什麼？這是你的提價？」盧卡朝你眨了眨眼，醉意暫時性被困惑與恐懼所替代。</DefaultText>
+      <DefaultText>「Cuè？這是你的提價？」盧卡朝你眨了眨眼，醉意暫時性被困惑與恐懼所替代。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -750,7 +750,7 @@
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>「胡亞納人的記憶力非常好。他們以後不會再善待商行了。」</DefaultText>
+      <DefaultText>「&lt;g&gt;胡亞納&lt;/g&gt;人的記憶非常好。他們以後不會再善待商行。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -760,7 +760,7 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>[觀察盧卡。]</DefaultText>
+      <DefaultText>[觀察盧卡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -790,7 +790,7 @@
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>「泰溫太過天真了，他以為自己的部落在這種時代還能夠依靠一名蘭迦繁榮起來。」</DefaultText>
+      <DefaultText>「泰溫太過天真了，他以為自己的部落在這種時代還能夠依靠一名 &lt;g&gt;蘭迦&lt;/g&gt;繁榮起來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -825,12 +825,12 @@
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>「我們不必用暴力解決這件事。貝拉斯在上，這隻是合同協商而已。」</DefaultText>
+      <DefaultText>「我們不必用暴力解決這件事。貝拉斯 在上，這只是合同協商而已。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>「好，你說的都對。我不會看人，而且我……我是最糟糕的職員。」</DefaultText>
+      <DefaultText>「Ac，你說的都對。我不會看人，而且我……我是最糟糕的職員。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -850,7 +850,7 @@
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>「別犯傻……我們不會在亡焰列島呆很久。」盧卡笑了笑，他舉杯向你的天真致敬。</DefaultText>
+      <DefaultText>「別犯傻……我們不會在 &lt;g&gt;亡焰列島&lt;/g&gt;呆很久。」盧卡笑了笑，他舉杯向你的天真致敬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -865,7 +865,7 @@
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>「我一定遵守！」他畏縮了一下，但還是點了點頭。</DefaultText>
+      <DefaultText>「Ac，我一定遵守！」他畏縮了一下，但還是點了點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -885,27 +885,27 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>「祝你平安。我早就沒在想這事情了。」</DefaultText>
+      <DefaultText>「Corès。我早就沒在想這事情了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>「不要殺我。我知道你已經殺了我的守衛們。不要因為……因為一張紙就殺了我。」</DefaultText>
+      <DefaultText>「Complanca。我知道你已經殺了我的守衛們。不要因為……因為一張羊皮紙就殺了我。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>「這裡是瓦利亞商行的中樞。如果沒有什麼事情請不要來這裡。」</DefaultText>
+      <DefaultText>「這裡是 &lt;g&gt;瓦利亞商行&lt;/g&gt;的中樞。如果沒有什麼事情請不要來這裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>「阿爾瓦瑞總督在她自己的官邸中執行著商行議會的意志。」</DefaultText>
+      <DefaultText>「阿爾瓦瑞總督在她自己的官邸中執行著 Songretta mea Compresa 的意志。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>「而我們這些職員就是他們的得力助手。」他握拳放於胸口，深深地鞠了一躬。</DefaultText>
+      <DefaultText>「而我們這些職員就是他們意志的延伸。」他握拳放於胸口，深深地鞠了一躬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -915,7 +915,7 @@
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>「呸。你比杜阿佩蘭迦還要無能。」</DefaultText>
+      <DefaultText>「呸。你比杜阿佩 &lt;g&gt;蘭迦&lt;/g&gt;還要無能。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -940,7 +940,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>「比一整座島上的光魂珀還要值錢嗎？」盧卡整個身子朝後仰，他懷疑地看了你·一眼。</DefaultText>
+      <DefaultText>「比一整座島上的光魂珀還要值錢嗎？」盧卡整個身子朝後仰，他懷疑地看了你一眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -960,12 +960,12 @@
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>「歡迎回來。」他對著帕蕾吉娜鞠了一躬。</DefaultText>
+      <DefaultText>「歡迎回來，sérre。」他對著帕蕾吉娜鞠了一躬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>「盧卡你好。」
+      <DefaultText>「Ado，盧卡。」
 
 她輕輕點頭回應。</DefaultText>
       <FemaleText />
@@ -977,12 +977,12 @@
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>「該死怎麼又是你。滾開，我現在不做公事。」</DefaultText>
+      <DefaultText>「Merla，怎麼又是你。滾開，我現在不做公事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>「盧卡，我知道你有命令在身，但是商行有時候自己也不清楚該做什麼。奪取這個部落的土地有可能會損害公爵的長遠利益。」</DefaultText>
+      <DefaultText>「盧卡，我知道你有命令在身，但是商行有時候自己也不清楚該做什麼。奪取這個部落的土地有可能會損害 &lt;g&gt;公爵&lt;/g&gt;的長遠利益。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -992,7 +992,7 @@
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>「他給我惹的麻煩已經夠多了。」</DefaultText>
+      <DefaultText>「Per complanca，他給我惹的麻煩已經夠多了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1004,7 +1004,7 @@
       <ID>296</ID>
       <DefaultText>「我為商行打拼了這麼多年啊！我本來都已經有自己的辦公室了。
 
-「我現在是毀了……」</DefaultText>
+「我現在完蛋了……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1031,7 +1031,7 @@
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>「我現在被困在這座小島上，很快我就會變得一文不名。
+      <DefaultText>「我現在被困在這座小島上，很快我就會變得一貧如洗。」
 
 「我……我什麼都願意幹。也許我求饒的話最起碼能當個侍從。」
 
@@ -1055,14 +1055,14 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>「運氣！我現在是涅克塔卡里面最不走運的傻瓜了。」
+      <DefaultText>「好運！我現在是 &lt;g&gt;涅克塔卡&lt;/g&gt;裡面最不走運的傻瓜了。」
 
 盧卡以手掩面。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>「什麼？
+      <DefaultText>「什麼？」
 
 「你是在說笑吧。你害的我被商行開除，然後又給我提供一份……一份水手的工作？」</DefaultText>
       <FemaleText />
@@ -1084,7 +1084,7 @@
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>「我……去你的，靈視者，我接受。
+      <DefaultText>「我……去你的，靈視者，我接受。」
 
 「我……去收拾行李了。」
 
@@ -1093,7 +1093,7 @@
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>「不，等等，我……我接受。
+      <DefaultText>「不，等等，我……我接受。」
 
 「我……去收拾行李了。」
 

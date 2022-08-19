@@ -1,138 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\itemmods</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>26</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>1535</ID>
-      <DefaultText>千變萬化</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1536</ID>
-      <DefaultText>拯救命運</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1537</ID>
-      <DefaultText>暗影形態</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1538</ID>
-      <DefaultText>毫不可靠</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1539</ID>
-      <DefaultText>智慧灌注</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1540</ID>
-      <DefaultText>惡作劇者</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1541</ID>
-      <DefaultText>無知</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1542</ID>
-      <DefaultText>極樂</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1543</ID>
-      <DefaultText>金錢之力</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1546</ID>
-      <DefaultText>瑪珈嵐的憤怒</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1547</ID>
-      <DefaultText>烈焰聯結</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1548</ID>
-      <DefaultText>萬物均衡</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1550</ID>
-      <DefaultText>封鎖</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1551</ID>
-      <DefaultText>陋村愚民</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1552</ID>
-      <DefaultText>太陽之祝福</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1553</ID>
-      <DefaultText>晨光反射</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1554</ID>
-      <DefaultText>午夜之願</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1555</ID>
-      <DefaultText>年度收割</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1556</ID>
-      <DefaultText>孤獨旅者</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1557</ID>
-      <DefaultText>烈火沉降</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1558</ID>
-      <DefaultText>窮困潦倒</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1559</ID>
-      <DefaultText>上挑</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1560</ID>
-      <DefaultText>脆弱</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1561</ID>
-      <DefaultText>笨重</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1562</ID>
-      <DefaultText>斜柄</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1613</ID>
-      <DefaultText>套接</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>game\itemmods</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>26</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>1535</ID>
+     <DefaultText>千變萬化</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1536</ID>
+     <DefaultText>拯救命運</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1537</ID>
+     <DefaultText>暗影形態</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1538</ID>
+     <DefaultText>毫不可靠</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1539</ID>
+     <DefaultText>智慧灌注</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1540</ID>
+     <DefaultText>惡作劇者</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1541</ID>
+     <DefaultText>無知</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1542</ID>
+     <DefaultText>極樂</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1543</ID>
+     <DefaultText>金錢之力</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1546</ID>
+     <DefaultText>瑪珈嵐的憤怒</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1547</ID>
+     <DefaultText>烈焰聯結</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1548</ID>
+     <DefaultText>萬物均衡</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1550</ID>
+     <DefaultText>封鎖</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1551</ID>
+     <DefaultText>陋村愚民</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1552</ID>
+     <DefaultText>太陽之祝福</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1553</ID>
+     <DefaultText>晨光反射</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1554</ID>
+     <DefaultText>午夜之願</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1555</ID>
+     <DefaultText>年度收割</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1556</ID>
+     <DefaultText>孤獨旅者</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1557</ID>
+     <DefaultText>烈火沉降</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1558</ID>
+     <DefaultText>窮困潦倒</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1559</ID>
+     <DefaultText>上挑</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1560</ID>
+     <DefaultText>脆弱</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1561</ID>
+     <DefaultText>笨重</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1562</ID>
+     <DefaultText>斜柄</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1613</ID>
+     <DefaultText>套接</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

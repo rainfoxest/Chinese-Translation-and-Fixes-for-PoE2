@@ -1,463 +1,463 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\items</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>81</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>4563</ID>
-      <DefaultText>死者頭骨</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4564</ID>
-      <DefaultText>這顆不同尋常的頭骨上散發著凝重的靈魂精華，頭骨表面用古代染料畫著某種宗教符號。頭骨中不斷滲出濃稠的紅色液體，液體中充滿了能量。
+ <Name>game\items</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>81</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>4563</ID>
+     <DefaultText>死者頭骨</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4564</ID>
+     <DefaultText>這顆不同尋常的頭骨上散發著凝重的靈魂精粹，頭骨表面用古代染料畫著某種宗教符號。頭骨中不斷滲出濃稠的紅色液體，液體中充滿了能量。
 
 尼羅認為你應該拿著它喝上一口。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4700</ID>
-      <DefaultText>這頂頭盔用一整塊木頭雕刻而成，上面刻著胡亞納風格的圖案，代表著托墨弗艾的野豬之形。豬鼻子與眼睛用明亮的顏料繪製而成，而上面的小斑點而暗示著它非自然的一面。這頂頭盔充滿了精華的力量，哪怕是能砍倒大樹的猛烈一擊，它也能承受得住。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4701</ID>
-      <DefaultText>盔甲保護獵者，皇冠發號施令。求生者侍奉於生者，侍奉於守護者。它會擋開那些致命的攻擊，偏轉那些奪命的毒箭。這頂頭飾裝飾著漂亮的羽毛，它不僅僅像頭盔一樣保護使用者，還會引導使用者前進。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4700</ID>
+     <DefaultText>這頂頭盔用一整塊木頭雕刻而成，上面刻著 &lt;g&gt;胡亞納&lt;/g&gt;風格的圖案，代表著 &lt;g&gt;托墨弗艾&lt;/g&gt;的野豬之形。豬鼻子與眼睛用明亮的顏料繪製而成，而上面的小斑點而暗示著它非自然的一面。這頂頭盔充滿了精粹的力量，哪怕是能砍倒大樹的猛烈一擊，它也能承受得住。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4701</ID>
+     <DefaultText>盔甲保護獵者，皇冠發號施令。求生者侍奉於生者，侍奉於守護者。它會擋開那些致命的攻擊，偏轉那些奪命的毒箭。這頂頭飾裝飾著漂亮的羽毛，它不僅僅像頭盔一樣保護使用者，還會引導使用者前進。
 
-歌唱吧，胡亞納人；咆哮吧，狩獵之面。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4702</ID>
-      <DefaultText>這條千回百轉的道路上，還有千回百轉的分岔路口。求生者並不會指揮它的守護者，而是會主動迎接每條分叉路口上的艱難險阻，從而證明自己更加卓越。因此而言，旅人會侍奉求生者，將精神集中防禦之中，以抵抗最為嚴酷的威脅。
+歌唱吧，&lt;g&gt;胡亞納&lt;/g&gt;人；咆哮吧，狩獵之面。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4702</ID>
+     <DefaultText>這條千回百轉的道路上，還有千回百轉的分岔路口。求生者並不會指揮它的守護者，而是會主動迎接每條分叉路口上的艱難險阻，從而證明自己更加卓越。因此而言，旅人會侍奉求生者，將精神集中防禦之中，以抵抗最為嚴酷的威脅。
 
-歌唱吧，胡亞納人；咆哮吧，狩獵之面。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4705</ID>
-      <DefaultText>受到{0}傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4707</ID>
-      <DefaultText>使用{0}個牧師法術</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5006</ID>
-      <DefaultText>泰坦之心</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5026</ID>
-      <DefaultText>維德溫的日晷</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5029</ID>
-      <DefaultText>這種日晷通常被白天出門在外的牧羊人或農夫拿來查看時間。將中心軸對準某個月份，然後讓陽光穿過針尖大小的孔洞，指向內環上雕刻的某個數字。
+歌唱吧，&lt;g&gt;胡亞納&lt;/g&gt;人；咆哮吧，狩獵之面。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4705</ID>
+     <DefaultText>受到{0}傷害</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4707</ID>
+     <DefaultText>使用{0}個牧師法術</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5006</ID>
+     <DefaultText>泰坦之心</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5026</ID>
+     <DefaultText>維德溫的日晷</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5029</ID>
+     <DefaultText>這種日晷通常被白天出門在外的牧羊人或農夫拿來查看時間。將中心軸對準某個月份，然後讓陽光穿過針尖大小的孔洞，指向內環上雕刻的某個數字。
 
-維德溫肯定攜帶它參與了聖戰，因為它周圍的空氣中還湧動著力量。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5045</ID>
-      <DefaultText>雙生鰻</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5046</ID>
-      <DefaultText>一名庫亞魯鐵匠鍛造了這件傑作，並用它刺穿了坦格羅亞，稱任何敵人都會葬身在巨鰻口中。在他四處兜售自己的得意之作後，理庫胡在他的夢裡表達了自己對他讓神明蒙羞的失望之情。半是慚愧半是驚恐的鐵匠隨即按照這位神明的指示鍛造了另一把武器科赫帕。他將兩把武器的鋒刃扭合在一起。
+維德溫肯定攜帶它參與了 聖戰，因為它周圍的空氣中還湧動著力量。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5045</ID>
+     <DefaultText>雙生鰻</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5046</ID>
+     <DefaultText>一名 庫亞魯 鐵匠鍛造了這件傑作，並用它刺穿了 &lt;g&gt;坦格羅亞&lt;/g&gt;，稱任何敵人都會葬身在巨鰻口中。在他四處兜售自己的得意之作後，理庫胡在他的夢裡表達了自己對他讓神明蒙羞的失望之情。半是慚愧半是驚恐的鐵匠隨即按照這位神明的指示鍛造了另一把武器科赫帕。他將兩把武器的鋒刃扭合在一起。
 
 之後他盡快賣掉了這把劍，並且此生再未以神之名義鍛造武器。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5058</ID>
-      <DefaultText>湍流衝擊</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5059</ID>
-      <DefaultText>根據某個傳說，有一名烏凱佐的水塑者在海床之上鍛造了這把權杖。杖桿使用了最上等的檀香木。尖端則鑲有一顆上千年老蚌中溫潤的珍珠。水塑者靠著昂德拉的祝福才能將其取出而自己也能全身而退。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5058</ID>
+     <DefaultText>湍流衝擊</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5059</ID>
+     <DefaultText>根據某個傳說，有一名 &lt;g&gt;烏凱佐&lt;/g&gt;的水塑者在海床之上鍛造了這把權杖。杖桿使用了最上等的檀香木。尖端則鑲有一顆上千年老蚌中溫潤的珍珠。水塑者靠著 &lt;g&gt;昂德拉&lt;/g&gt;的祝福才能將其取出而自己也能全身而退。
 
 據說這把權杖是取悅恩加蒂的儀式中的一部分，不過這其中更多淫亂的細節已經失落於歷史之中了。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5062</ID>
-      <DefaultText>終冬胸針</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5063</ID>
-      <DefaultText>這件牛頭墜飾的黯淡金屬上已經沒有一絲光澤。它戴在胸上有些沉重，刺骨之感噬咬著蹭到的皮肉。作為牛眼的寶石律動著模糊的藍色光芒，一陣微風偶爾也會吹拂在佩戴者的耳邊。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5064</ID>
-      <DefaultText>終結宣告</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5065</ID>
-      <DefaultText>若是有人盯著這枚戒指上誘惑般的深淵越久，就越能感到其中傳來的牽引之力，好像觸手拖拽著佩戴者的靈魂。這樣一盯下來可能就過去了好幾個小時，甚至在移開目光後世界彷彿也變得黑暗了。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5062</ID>
+     <DefaultText>終冬胸針</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5063</ID>
+     <DefaultText>這件牛頭墜飾的黯淡金屬上已經沒有一絲光澤。它戴在胸上有些沉重，刺骨之感噬咬著蹭到的皮肉。作為牛眼的寶石律動著模糊的藍色光芒，一陣微風偶爾也會吹拂在佩戴者的耳邊。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5064</ID>
+     <DefaultText>終結宣告</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5065</ID>
+     <DefaultText>若是有人盯著這枚戒指上誘惑般的深淵越久，就越能感到其中傳來的牽引之力，好像觸手拖拽著佩戴者的靈魂。這樣一盯下來可能就過去了好幾個小時，甚至在移開目光後世界彷彿也變得黑暗了。
 
 這枚戒指好像在渴求著虛空碎片。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5069</ID>
-      <DefaultText>巨獸足跡</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5070</ID>
-      <DefaultText>這雙好像裂蹄一般的靴子會讓走過的大地盡數枯萎。製作它的格蘭費倫人將這雙非同尋常的靴子交給部族的女祭司，後者為其以睿姆岡的名義施加了祝福。隨後她將這雙靴子賜給了部族中最英勇的戰士，使其帶著寒冬巨獸的榮耀征戰。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5069</ID>
+     <DefaultText>巨獸足跡</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5070</ID>
+     <DefaultText>這雙好像裂蹄一般的靴子會讓走過的大地盡數枯萎。製作它的 格蘭費倫 人將這雙非同尋常的靴子交給部族的女祭司，後者為其以 &lt;g&gt;睿姆岡&lt;/g&gt;的名義施加了祝福。隨後她將這雙靴子賜給了部族中最英勇的戰士，使其帶著 寒冬巨獸 的榮耀征戰。
 
-儘管這位戰士花了數月時間才掌握到靴子中附帶的神明恩惠，不過她最終還是——或者說早晚必然——成為了戰場上的災厄之人。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5071</ID>
-      <DefaultText>高階先驅的長袍</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5072</ID>
-      <DefaultText>儘管與其他先驅長袍較為相似，這件皮草卻有著一項「刺激」的差別：向周圍散發的惡臭簡直如同光環一般。這使得除了瓦特尼爾之外沒有人敢進行穿戴，除非他們對味覺與嗅覺完全隔絕。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5122</ID>
-      <DefaultText>野牛之角</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5123</ID>
-      <DefaultText>一名邪惡的海裔曾經侵入亞拜登侍從的鍛造廠並將其中工匠屠殺殆盡——只剩一名鐵匠躲在補給貨箱中逃過一劫。矮人向海裔呼喊，希望能做筆交易。她願意為這名入侵者打造一件最上等的頭盔，只要後者能饒過自己的性命。入侵者給了她一周時間，並且要求這件頭盔要用來紀念自己的神明——寒冬巨獸。
+儘管這位戰士花了數月時間才掌握到靴子中附帶的神明恩惠，不過她最終還是—或者說早晚必然—成為了戰場上的災厄之人。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5071</ID>
+     <DefaultText>高階先驅的長袍</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5072</ID>
+     <DefaultText>儘管與其他先驅長袍較為相似，這件皮草卻有著一項「刺激」的差別：向周圍散發的惡臭簡直如同光環一般。這使得除了瓦特尼爾之外沒有人敢進行穿戴，除非他們對味覺與嗅覺完全隔絕。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5122</ID>
+     <DefaultText>野牛之角</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5123</ID>
+     <DefaultText>一名邪惡的海裔曾經侵入 &lt;g&gt;亞拜登&lt;/g&gt;侍從的鍛造廠並將其中工匠屠殺殆盡—只剩一名鐵匠躲在補給貨箱中逃過一劫。矮人向海裔呼喊，希望能做筆交易。她願意為這名入侵者打造一件最上等的頭盔，只要後者能饒過自己的性命。入侵者給了她一周時間，並且要求這件頭盔要用來紀念自己的神明—寒冬巨獸。
 
-鐵匠不眠不休地鍛造直至最後一晚，她將這件頭盔放在了鍛爐未上鎖的門外。次日清晨，頭盔不知所蹤，而亞拜登的聖所也再未受到掠奪。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5147</ID>
-      <DefaultText>腐蝕臂甲</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5148</ID>
-      <DefaultText>在亡焰列島的海域之下潛藏著一隻巨大的甲殼生物，其表殼比基斯鍛造的任何鋼鐵都要堅硬。它悄悄等在淺灘之中，對毫無防備敢於靠近其地盤的船隻痛下殺手。這對使用此巨獸蛻殼製成的護手在重量與耐用性方面均十分出色。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5152</ID>
-      <DefaultText>蠟封信函</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5153</ID>
-      <DefaultText>這封巨大的卷函像是曬乾的血液書寫在鞣皮上一般，上面還有著野牛的印記。細長銳利的筆鋒說明寫信者當時手在顫抖。
+鐵匠不眠不休地鍛造直至最後一晚，她將這件頭盔放在了鍛爐未上鎖的門外。次日清晨，頭盔不知所蹤，而 &lt;g&gt;亞拜登&lt;/g&gt;的聖所也再未受到掠奪。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5147</ID>
+     <DefaultText>腐蝕臂甲</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5148</ID>
+     <DefaultText>在 &lt;g&gt;亡焰列島&lt;/g&gt;的海域之下潛藏著一隻巨大的甲殼生物，其表殼比 &lt;g&gt;基斯&lt;/g&gt;鍛造的任何鋼鐵都要堅硬。它悄悄等在淺灘之中，對毫無防備敢於靠近其地盤的船隻痛下殺手。這對使用此巨獸蛻殼製成的護手在重量與耐用性方面均十分出色。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5152</ID>
+     <DefaultText>蠟封信函</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5153</ID>
+     <DefaultText>這封巨大的卷函像是曬乾的血液書寫在鞣皮上一般，上面還有著野牛的印記。細長銳利的筆鋒說明寫信者當時手在顫抖。
 
-&lt;i&gt;「榮耀滿身的努亞堡靈視者，
+&lt;i&gt;「榮耀滿身的 &lt;g&gt;努亞堡&lt;/g&gt;靈視者，
 
 我誠摯地邀請您前來參加一次為您舉辦的宴席。吾等志同道合之人聚集在先驅之守望，亡焰列島南部海域的一處小哨站，來見證死亡浮冰的快速擴張。
 
-寒冰很快將吞噬一切，睿姆岡也將統治整片死亡的艾歐拉。
+寒冰很快將吞噬一切，睿姆岡 也將統治整片死亡的艾歐拉。
 
 我們都渴望能夠參與您的壯舉。
 
 欽羨您無數成就的，
 
 黃昏高階先驅瓦特尼爾」&lt;/i&gt;</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5154</ID>
-      <DefaultText>瓦特尼爾的冰鎬</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5155</ID>
-      <DefaultText>一對簡單的鐵製冰鎬，上面裝有木質把手，用於攀爬冰壁。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5190</ID>
-      <DefaultText>背叛</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5199</ID>
-      <DefaultText>冰錘</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5205</ID>
-      <DefaultText>失落旅行之護符</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5245</ID>
-      <DefaultText>無限可能之項鏈</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5246</ID>
-      <DefaultText>因為癡迷於武學與機率，一名非常具有創新精神的附魔師鍛造了這枚鑰匙。在戰場上，它會發出鋼鐵似逐漸增強的鳴響聲，直至召喚出一把自己選定的武器用來支援主人。召喚出的武器僅限於附魔師的想像，其自身並無更多拓展空間。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5249</ID>
-      <DefaultText>重置戒指</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5250</ID>
-      <DefaultText>刺客便鞋</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5251</ID>
-      <DefaultText>這雙便鞋屬於著名的努瓦泰刺客堪派奇，其曾取下了不少大唱反叛論調者與流浪軍首領的項上人頭。她的最後一名合約目標是曾襲擊努瓦泰商船的一名招搖的彎刀海盜船長。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5154</ID>
+     <DefaultText>瓦特尼爾的冰鎬</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5155</ID>
+     <DefaultText>一對簡單的鐵製冰鎬，上面裝有木質把手，用於攀爬冰壁。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5190</ID>
+     <DefaultText>背叛</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5199</ID>
+     <DefaultText>冰錘</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5205</ID>
+     <DefaultText>失落旅行之護符</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5245</ID>
+     <DefaultText>無限可能之項鏈</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5246</ID>
+     <DefaultText>因為癡迷於武學與機率，一名非常具有創新精神的附魔師鍛造了這枚鑰匙。在戰場上，它會發出鋼鐵似逐漸增強的鳴響聲，直至召喚出一把自己選定的武器用來支援主人。召喚出的武器僅限於附魔師的想像，其自身並無更多拓展空間。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5249</ID>
+     <DefaultText>重置戒指</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5250</ID>
+     <DefaultText>刺客便鞋</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5251</ID>
+     <DefaultText>這雙便鞋屬於著名的 &lt;g&gt;努瓦泰&lt;/g&gt;刺客堪派奇，其曾取下了不少大唱反叛論調者與流浪軍首領的項上人頭。她的最後一名合約目標是曾襲擊努瓦泰商船的一名招搖的彎刀海盜船長。
 
-這雙便鞋讓她悄然無聲地登船，並來到了船長室。據說她剛好見到了這名惡棍在享用傍晚時分的美酒。沒有人知道那一晚在船艙中發生了什麼，而海盜船長堪派奇在之後的數年中開始在亡焰列島興風作浪。不再需要這雙便鞋的她將其丟下了船——還有之前的那位船長。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5252</ID>
-      <DefaultText>愚人之鞋</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5253</ID>
-      <DefaultText>儘管這雙鞋的樣子並不好看，上面卻附帶了睿智與狡詐的祝福。之前的持有者都出現了各種症狀，例如高聲大笑，想對旅行夥伴耍詭計，以及各種無聊的舉動等等。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5254</ID>
-      <DefaultText>蠢驢智慧之戒指</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5255</ID>
-      <DefaultText>一名脾氣火爆的附魔師厭倦了其領主對魔法娛樂的不停要求，於是製作了這枚戒指使其永遠安靜了下來。他將戒指帶給領主，聲稱這是從某個驢子代表堅定的遙遠之地獲得的遺物。領主毫不猶豫地將它戴上了手指。在發現這枚戒指毫無任何作用之後，貴族大人失望地將它丟了回來。而對自己的主人沒能陷入昏迷而感到同樣失望的附魔師決定自己試一試。結果他永遠安息了。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5256</ID>
-      <DefaultText>這枚戒指無數次救下了聚鹿法師泰甘的性命。與這名傳說中的法師相遇的人均稱她被致命一擊打倒在地後又毫髮無傷地重新站起。
+這雙便鞋讓她悄然無聲地登船，並來到了船長室。據說她剛好見到了這名惡棍在享用傍晚時分的美酒。沒有人知道那一晚在船艙中發生了什麼，而海盜船長堪派奇在之後的數年中開始在亡焰列島興風作浪。不再需要這雙便鞋的她將其丟下了船—還有之前的那位船長。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5252</ID>
+     <DefaultText>愚人之鞋</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5253</ID>
+     <DefaultText>儘管這雙鞋的樣子並不好看，上面卻附帶了睿智與狡詐的祝福。之前的持有者都出現了各種症狀，例如高聲大笑，想對旅行夥伴耍詭計，以及各種無聊的舉動等等。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5254</ID>
+     <DefaultText>蠢驢智慧之戒指</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5255</ID>
+     <DefaultText>一名脾氣火爆的附魔師厭倦了其領主對魔法娛樂的不停要求，於是製作了這枚戒指使其永遠安靜了下來。他將戒指帶給領主，聲稱這是從某個驢子代表堅定的遙遠之地獲得的遺物。領主毫不猶豫地將它戴上了手指。在發現這枚戒指毫無任何作用之後，貴族大人失望地將它丟了回來。而對自己的主人沒能陷入昏迷而感到同樣失望的附魔師決定自己試一試。結果他永遠安息了。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5256</ID>
+     <DefaultText>這枚戒指無數次救下了聚鹿法師泰甘的性命。與這名傳說中的法師相遇的人均稱她被致命一擊打倒在地後又毫髮無傷地重新站起。
 
-在一次次逃離貝拉斯之輪後，負擔開始加重。她知道自己大限不遠了。在一次旅行中她遇到一名騎士站在面前向她伸出一隻手。泰甘微微一笑摘下戒指，將它交至了蒼白騎士的手中。她隨後繼續向前，從此不知所蹤。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5257</ID>
-      <DefaultText>繁榮富強之戒指</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5258</ID>
-      <DefaultText>一名瓦利亞貴族意外繼承了價值自己領地二十年生產總值的財富。他希望能打造一枚戒指，以此紀念這筆天降橫財。
+在一次次逃離 &lt;g&gt;貝拉斯之輪&lt;/g&gt;後，負擔開始加重。她知道自己大限不遠了。在一次旅行中她遇到一名騎士站在面前向她伸出一隻手。泰甘微微一笑摘下戒指，將它交至了蒼白騎士的手中。她隨後繼續向前，從此不知所蹤。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5257</ID>
+     <DefaultText>繁榮富強之戒指</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5258</ID>
+     <DefaultText>一名瓦利亞貴族意外繼承了價值自己領地二十年生產總值的財富。他希望能打造一枚戒指，以此紀念這筆天降橫財。
 
 貴族找來了一名能夠鍛造此類物品的法師，並給予她任意調配自己資源的權利。法師警告稱這樣做的代價異常昂貴，但貴族並沒放在心上。
 
-半年後，法師帶著戒指歸來，上面的寶石光芒萬丈。除了戒指之外，法師還丟給貴族一個小錢包——裡面是這筆遺產的僅存之物。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5264</ID>
-      <DefaultText>瑪珈嵐選中者的腰帶</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5265</ID>
-      <DefaultText>胡亞納傳說中有警告過燃燒的劫掠者，這些身材高大的水手能夠輕易召喚火焰，就像水塑者翻江倒海一般。很少有可靠的水手聲稱見過這些罕見的生物，更少有商人稱自己手上有著從這種敵人手中奪來的寶貝。然而這根對於海裔都顯寬大的閃耀著精華光芒的腰帶無疑對水手們的故事增添了不少可信度。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5268</ID>
-      <DefaultText>貝拉斯的骨骰</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5269</ID>
-      <DefaultText>有不少基斯曾經做過這些骨頭的主人。然而每一位擁有者最終都慘遭悲劇，屍體也被吸乾了生氣。他們很可能是因為某個願望招致了貝拉斯的怒火——或是賭上了自己的性命。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5270</ID>
-      <DefaultText>裁決肩帶</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5271</ID>
-      <DefaultText>一名聚鹿領主獲得了這件火焚之後祝福過的肩帶，作為公正嚴明斷案的獎賞。領主謙卑地接受了這份禮物並發誓他不會讓娥狄卡失望。一年過後，這位聚鹿領主發現自己的兒子被指控謀殺了當地的旅店老闆。儘管領主知曉自己必須公正地審判自己的孩子，但他卻無法大義滅親將兒子送往貝拉斯之輪。他選擇了從寬處理，於是將兒子放逐。
+半年後，法師帶著戒指歸來，上面的寶石光芒萬丈。除了戒指之外，法師還丟給貴族一個小錢包—裡面是這筆遺產的僅存之物。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5264</ID>
+     <DefaultText>瑪珈嵐選中者的腰帶</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5265</ID>
+     <DefaultText>&lt;g&gt;胡亞納&lt;/g&gt;傳說中有警告過燃燒的劫掠者，這些身材高大的水手能夠輕易召喚火焰，就像水塑者翻江倒海一般。很少有可靠的水手聲稱見過這些罕見的生物，更少有商人稱自己手上有著從這種敵人手中奪來的寶貝。然而這根對於海裔都顯寬大的閃耀著精粹光芒的腰帶無疑對水手們的故事增添了不少可信度。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5268</ID>
+     <DefaultText>貝拉斯的骨骰</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5269</ID>
+     <DefaultText>有不少 &lt;g&gt;基斯&lt;/g&gt;曾經做過這些骨頭的主人。然而每一位擁有者最終都慘遭悲劇，屍體也被吸乾了生氣。他們很可能是因為某個願望招致了 &lt;g&gt;貝拉斯&lt;/g&gt;的怒火—或是賭上了自己的性命。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5270</ID>
+     <DefaultText>裁決肩帶</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5271</ID>
+     <DefaultText>一名聚鹿領主獲得了這件火焚之後祝福過的肩帶，作為公正嚴明斷案的獎賞。領主謙卑地接受了這份禮物並發誓他不會讓 &lt;g&gt;娥狄卡&lt;/g&gt;失望。一年過後，這位聚鹿領主發現自己的兒子被指控謀殺了當地的旅店老闆。儘管領主知曉自己必須公正地審判自己的孩子，但他卻無法大義滅親將兒子送往 貝拉斯之輪。他選擇了從寬處理，於是將兒子放逐。
 
 那一晚扼殺者親自造訪了領主，次日清晨他便被發現被肩帶吊死在城堡的高牆上。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5272</ID>
-      <DefaultText>地牢守望者的手套</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5273</ID>
-      <DefaultText>這副手套原本是某位非常殘忍的聚鹿地牢看守者的所有物，用於讓危險的罪犯們面對劊子手時安分一點。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5272</ID>
+     <DefaultText>地牢守望者的手套</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5273</ID>
+     <DefaultText>這副手套原本是某位非常殘忍的聚鹿地牢看守者的所有物，用於讓危險的罪犯們面對劊子手時安分一點。
 
 一名十分聰明的囚犯在通往絞刑架的路上從分心的獄卒身上偷到了這副手套。在後者還沒反應過來時，她就戴上了這副皮手套並發動了其力量，將他凍在原地從而使自己永遠逃脫了死刑的懲罰。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5274</ID>
-      <DefaultText>笑柄帽</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5275</ID>
-      <DefaultText>一小隊冒險者在水面上發現了這頂漂浮著的帽子。隊中一名頑皮的海裔戴上了它，隨後他發現面前的每個敵人一看到他頭上的鈴鐺都會顫抖。他的同伴兩周後也發現這頂帽子上持續不斷的鈴鐺聲讓人忍俊不禁。在盛怒之下他們將這頂帽子丟下了海——還有戴著它正在熟睡的海裔。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5276</ID>
-      <DefaultText>俄撒斯之光頸圈</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5277</ID>
-      <DefaultText>這件頸圈上的每粒珠子都代表著製作它的俄撒斯信徒牧師的救贖之旅。他在旅程中見到了一群因為聖戰而流離失所的鹿林人。他們同意接受他的道歉，條件是拿頸圈來交換。他祈求這些人再三考慮，但後者開始刀劍相向。最後牧師引發了俄撒斯的力量，釋放出一圈火焰。地上只剩下了一灘灰燼。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5274</ID>
+     <DefaultText>笑柄帽</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5275</ID>
+     <DefaultText>一小隊冒險者在水面上發現了這頂漂浮著的帽子。隊中一名頑皮的海裔戴上了它，隨後他發現面前的每個敵人一看到他頭上的鈴鐺都會顫抖。他的同伴兩周後也發現這頂帽子上持續不斷的鈴鐺聲讓人忍俊不禁。在盛怒之下他們將這頂帽子丟下了海—還有戴著它正在熟睡的海裔。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5276</ID>
+     <DefaultText>俄撒斯之光頸圈</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5277</ID>
+     <DefaultText>這件頸圈上的每粒珠子都代表著製作它的俄撒斯信徒牧師的救贖之旅。他在旅程中見到了一群因為 &lt;g&gt;聖戰&lt;/g&gt;而流離失所的 &lt;g&gt;鹿林&lt;/g&gt;人。他們同意接受他的道歉，條件是拿頸圈來交換。他祈求這些人再三考慮，但後者開始刀劍相向。最後牧師引發了俄撒斯的力量，釋放出一圈火焰。地上只剩下了一灘灰燼。
 
-為了對自己造成的罪過悔改，牧師將自己送往了貝拉斯之輪，帶著頸圈與鹿林人的灰燼投向了昂德拉。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5278</ID>
-      <DefaultText>收割之月的項鏈</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5279</ID>
-      <DefaultText>一名瑞德賽鐵匠在收割之月的光輝之下利用岡恩牧師祝福過的製作了這條簡單的項鏈，想把它送給自己的兒子。
+為了對自己造成的罪過悔改，牧師將自己送往了 貝拉斯之輪，帶著頸圈與 &lt;g&gt;鹿林&lt;/g&gt;人的灰燼投向了 昂德拉。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5278</ID>
+     <DefaultText>收割之月的項鏈</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5279</ID>
+     <DefaultText>一名瑞德賽鐵匠在收割之月的光輝之下利用 &lt;g&gt;岡恩&lt;/g&gt;牧師祝福過的製作了這條簡單的項鏈，想把它送給自己的兒子。
 
-然而兒子沒能從聖戰中歸來接受父親的禮物，悲痛的鐵匠打算將這條項鏈一點點扯碎。可惜他自己還是無法親手摧毀這份凝聚了自己對兒子感情的信物，於是最終將它交給了昂德拉的巡禮者。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5280</ID>
-      <DefaultText>隕星披風</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5281</ID>
-      <DefaultText>受瓦利亞法師弗拉維奧之托，女裁縫塞拉娜·梅斯·奎因特拉用自己靈巧的雙手編織了這條精緻的披風。在完成之後，她為它附上了靡奧塔本人的祝福，讓這條披風上映出了天堂中閃耀的群星。
+然而兒子沒能從 &lt;g&gt;聖戰&lt;/g&gt;中歸來接受父親的禮物，悲痛的鐵匠打算將這條項鏈一點點扯碎。可惜他自己還是無法親手摧毀這份凝聚了自己對兒子感情的信物，於是最終將它交給了 &lt;g&gt;昂德拉&lt;/g&gt;的巡禮者。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5280</ID>
+     <DefaultText>隕星披風</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5281</ID>
+     <DefaultText>受瓦利亞法師弗拉維奧之托，女裁縫塞拉娜·梅斯·奎因特拉用自己靈巧的雙手編織了這條精緻的披風。在完成之後，她為它附上了靡奧塔本人的祝福，讓這條披風上映出了天堂中閃耀的群星。
 
 當塞拉娜將自己的傑作交給弗拉維奧索要報酬時，法師卻因為沒有足夠的錢財而躊躇了。憤怒之下的塞拉娜懷著惡意將這條披風送給了自己完全沒有魔法才能的學徒柴達科，後者自此也一直打算將它倒賣出手。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5282</ID>
-      <DefaultText>貧窮斗篷</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5283</ID>
-      <DefaultText>這件斗篷曾經穿在一名受到貧窮誓言的牧師身邊，第一眼看成出似乎平淡無奇。斗篷表面的粗麻布破破爛爛的，邊緣也磨碎開口。只有沒幾個錢的人才會考慮買下這件斗篷，享受一下牧師曾經以其神明的名義帶來的工作力。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5289</ID>
-      <DefaultText>睡蓮便鞋</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5290</ID>
-      <DefaultText>這雙便鞋可以讓穿戴者的移動更加優雅，不受對手的阻礙。其曾經在胡亞納水塑者中是主人向學徒代代傳遞的聖物，作為工匠技藝與優雅的獎賞。讓水塑者們感到氣憤的是，它們後來被從公會中竊走，落入了私掠船團的手中。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5292</ID>
-      <DefaultText>海麗婭之爪</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5293</ID>
-      <DefaultText>這對護手以天空之女神為名，對持有者與其敵人有著同樣的危險。創造者在製作護手時並沒有完全考慮到海麗婭的意志，更注重審美而忽視了功能性。由於這份短視，他並未獲得女神的青睞，取而代之的則是怒火。之後他只得在旅行中以布蒙面，以此躲避海麗婭之羽的憤怒。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5294</ID>
-      <DefaultText>星光藥劑</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5295</ID>
-      <DefaultText>這瓶滿溢著薄荷香味的藥劑可以讓飲用者得到全方位的增強。由於其效果轉瞬即逝，所以一定要倍加愛惜。遺憾的是，它嘗起來很像鹽水醃過的盲鰻。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5296</ID>
-      <DefaultText>心愛的騎士人偶</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5297</ID>
-      <DefaultText>填充物從這件難看人偶的破爛邊緣與扭曲縫合處透漏出來。仔細查看一下，這位騎士好像很需要一個長久的擁抱。緊握時它會散發出溫暖與深情的感覺。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5298</ID>
-      <DefaultText>無限可能之飾品</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5299</ID>
-      <DefaultText>許多人在猜測這件飾品的真正起源，不過有人說它真正的創造者只可能是古怪的聚鹿大法師泰恩。這位大法師的大部分工作都不為人所知（很可能是因為各種災難性的失敗），不過這件飾品仍然是他天才技術的證明。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5282</ID>
+     <DefaultText>貧窮斗篷</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5283</ID>
+     <DefaultText>這件斗篷曾經穿在一名受到貧窮誓言的牧師身邊，第一眼看成出似乎平淡無奇。斗篷表面的粗麻布破破爛爛的，邊緣也磨碎開口。只有沒幾個錢的人才會考慮買下這件斗篷，享受一下牧師曾經以其神明的名義帶來的工作力。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5289</ID>
+     <DefaultText>睡蓮便鞋</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5290</ID>
+     <DefaultText>這雙便鞋可以讓穿戴者的移動更加優雅，不受對手的阻礙。其曾經在 &lt;g&gt;胡亞納&lt;/g&gt;水塑者中是主人向學徒代代傳遞的聖物，作為工匠技藝與優雅的獎賞。讓水塑者們感到氣憤的是，它們後來被從公會中竊走，落入了私掠船團的手中。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5292</ID>
+     <DefaultText>海麗婭之爪</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5293</ID>
+     <DefaultText>這對護手以天空之女神為名，對持有者與其敵人有著同樣的危險。創造者在製作護手時並沒有完全考慮到 &lt;g&gt;海麗婭&lt;/g&gt;的意志，更注重審美而忽視了功能性。由於這份短視，他並未獲得女神的青睞，取而代之的則是怒火。之後他只得在旅行中以布蒙面，以此躲避海麗婭之羽的憤怒。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5294</ID>
+     <DefaultText>星光藥劑</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5295</ID>
+     <DefaultText>這瓶滿溢著薄荷香味的藥劑可以讓飲用者得到全方位的增強。由於其效果轉瞬即逝，所以一定要倍加愛惜。遺憾的是，它嘗起來很像鹽水醃過的盲鰻。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5296</ID>
+     <DefaultText>心愛的騎士人偶</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5297</ID>
+     <DefaultText>填充物從這件難看人偶的破爛邊緣與扭曲縫合處透漏出來。仔細查看一下，這位騎士好像很需要一個長久的擁抱。緊握時它會散發出溫暖與深情的感覺。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5298</ID>
+     <DefaultText>無限可能之飾品</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5299</ID>
+     <DefaultText>許多人在猜測這件飾品的真正起源，不過有人說它真正的創造者只可能是古怪的聚鹿大法師泰恩。這位大法師的大部分工作都不為人所知（很可能是因為各種災難性的失敗），不過這件飾品仍然是他天才技術的證明。
 
-泰恩的一些同事推測他故意將自己的一點精華注入了飾品，使其帶有了混沌的天性與各種強力的效果。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5466</ID>
-      <DefaultText>泰尼克船長的鑰匙</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5467</ID>
-      <DefaultText>這把招搖的黃銅鑰匙是泰尼克船長的財產。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5468</ID>
-      <DefaultText>聖塔拉的鑰匙</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5469</ID>
-      <DefaultText>這把簡樸的鑰匙比起箱子更像是用來打開鐘錶或是音樂盒的。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5470</ID>
-      <DefaultText>柴達科的鑰匙</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5471</ID>
-      <DefaultText>這把鑰匙一看就是精湛的工匠之作。其高雅的造型也說明了主人對於精良物品的愛好。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5492</ID>
-      <DefaultText>萬寶屋號旗幟</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5493</ID>
-      <DefaultText>海上旗幟可以表明船隻的來源與效忠勢力，用以在公海上區分敵友。這是萬寶屋號船長泰尼克的私人旗幟。</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+泰恩的一些同事推測他故意將自己的一點精粹注入了飾品，使其帶有了混沌的天性與各種強力的效果。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5466</ID>
+     <DefaultText>泰尼克船長的鑰匙</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5467</ID>
+     <DefaultText>這把招搖的黃銅鑰匙是泰尼克船長的財產。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5468</ID>
+     <DefaultText>聖塔拉的鑰匙</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5469</ID>
+     <DefaultText>這把簡樸的鑰匙比起箱子更像是用來打開鐘錶或是音樂盒的。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5470</ID>
+     <DefaultText>柴達科的鑰匙</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5471</ID>
+     <DefaultText>這把鑰匙一看就是精湛的工匠之作。其高雅的造型也說明了主人對於精良物品的愛好。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5492</ID>
+     <DefaultText>萬寶屋號旗幟</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5493</ID>
+     <DefaultText>海上旗幟可以表明船隻的來源與效忠勢力，用以在公海上區分敵友。這是萬寶屋號船長泰尼克的私人旗幟。</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

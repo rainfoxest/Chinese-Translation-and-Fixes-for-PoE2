@@ -18,7 +18,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「昂德拉將是這事的審判者。綁在船底拖曳[Specified 1]。」</DefaultText>
+      <DefaultText>「&lt;g&gt;昂德拉&lt;/g&gt;將是這事的審判者。綁在船底拖曳[Specified 1]。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,7 +52,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「到此為止。」 [Specified 3]肩上扛著短棒說道。「船長有令。散了散了，回去幹活！」</DefaultText>
+      <DefaultText>「到此為止。」[Specified 3]肩上扛著短棒說道。「船長有令。散了散了，回去幹活！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「我記得你說[Specified 2]是被勒死的。「</DefaultText>
+      <DefaultText>「我記得你說[Specified 2]是被勒死的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@
       <ID>37</ID>
       <DefaultText>"[Specified 1]在甲板下面勒死了[Specified 2]。我們會把化神崇拜者扔下船，但是……你的船，你說了算。」
 
-[Specified 4]在甲板上大叫：「而且還說你應該比老混蛋船長更加睿智。「</DefaultText>
+[Specified 4]在甲板上大叫：「而且還說你應該比老混蛋船長更加睿智。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,7 +172,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[Specified 3]莊嚴地把皮鞭遞給你，皮鞭是馬革做的握把，綁著分層的皮革，每條皮革釘有鯊魚牙齒和魚鉤。 
+      <DefaultText>[Specified 3]莊嚴地把皮鞭遞給你，皮鞭是馬革做的握把，綁著分層的皮革，每條皮革釘有鯊魚牙齒和魚鉤。
 
 [Specified 0]和[Specified 4]控制住了[Specified 1]。被定罪者伸長脖子，絕望地看著你，尖叫聲因嘴被堵著而聽不清。</DefaultText>
       <FemaleText />
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[繼續鞭打。]</DefaultText>
+      <DefaultText>[繼續鞭打]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,7 +205,7 @@
       <ID>45</ID>
       <DefaultText>水手們相視而笑。
 
-「老天，」 [Specified 4]說道，「我就告訴你說船長知道如何處理這事！」
+「老天，」[Specified 4]說道，「我就告訴你說船長知道如何處理這事！」
 
 「你說的是綁在船底拖曳？」[Specified 0]咧嘴笑道。</DefaultText>
       <FemaleText />
@@ -217,7 +217,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>「按慣例，[Specified 0]。讓昂德拉判決。」</DefaultText>
+      <DefaultText>「按慣例，[Specified 0]。讓 &lt;g&gt;昂德拉&lt;/g&gt;判決。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,7 +232,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「如你所願，船長。」皺了皺眉，[Specified 0]轉向另一名船員。「讓我們看看昂德拉的意志是怎樣的。」
+      <DefaultText>「如你所願，船長。」皺了皺眉，[Specified 0]轉向另一名船員。「讓我們看看 &lt;g&gt;昂德拉&lt;/g&gt;的意志是怎樣的。」
 
 其他水手齊聲喊著：「船底拖曳！船底拖曳！船底拖曳！」</DefaultText>
       <FemaleText />
@@ -283,7 +283,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[搜索[Specified 2]的靈魂。]</DefaultText>
+      <DefaultText>[搜索[Specified 2]的靈魂]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +302,7 @@
       <ID>64</ID>
       <DefaultText>"[Specified 1]在甲板下面勒死了[Specified 2]。我們會把化神崇拜者扔下船，但是……你的船，你說了算。」
 
-[Specified 4]在甲板上大叫：「而且還說你應該比老混蛋船長更加睿智。「</DefaultText>
+[Specified 4]在甲板上大叫：「而且還說你應該比老混蛋船長更加睿智。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[繼續鞭打。]</DefaultText>
+      <DefaultText>[繼續鞭打]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,7 +380,7 @@
 
 [Specified 3]皺著眉頭說。「聽起來可能是意外。」
 
-「不是意外，」 [Specified 4]咕噥說，「[Specified 1]是個殺人犯。」</DefaultText>
+「不是意外，」[Specified 4]咕噥說，「[Specified 1]是個殺人犯。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

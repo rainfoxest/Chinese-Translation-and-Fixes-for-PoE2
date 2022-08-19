@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>屍體遭受了不少爪子與牙齒的毀傷。上面懸著一大片精粹。
 
-你意識到這就是伯塔洛，早前你在峽谷中見到的那個男子。
+你意識到這就是伯塔洛，早前你在 &lt;g&gt;邊沟區&lt;/g&gt;中見到的那個男子。
 
 他的靈魂殘片急促地躍動著。</DefaultText>
       <FemaleText />
@@ -32,33 +32,33 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[讀取他的靈魂。]</DefaultText>
+      <DefaultText>[讀取他的靈魂]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>你正在被拽向囚籠。但你沒有看向籠子，或是下方的黑暗——不久後你的周圍便會只剩下黑暗。
+      <DefaultText>你正在被拽向囚籠。但你沒有看向籠子，或是下方的黑暗—不久後你的周圍便會只剩下黑暗。
 
-工頭希滕卡正握著有標記的硬幣——金陽幣——盯著你看。你試圖作出解釋，但毫無作用——他知道這東西的來處。
+工頭希滕卡正握著有標記的硬幣—金陽幣—盯著你看。你試圖作出解釋，但毫無作用—他知道這東西的來處。
 
 他將它揣進了自己的口袋。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[回想自己需要告訴她的東西。]</DefaultText>
+      <DefaultText>[回想自己需要告訴她的東西]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>幸運的是，你附近有不少可以藏東西的碎石堆。趁著沒人注意，你在角落裡撬開幾塊石頭，將錢包塞到了下面。
 
-搞定。等你和努瓦泰人達成交易後再回來取它。你開始感覺好些了。</DefaultText>
+搞定。等你和 &lt;g&gt;努瓦泰&lt;/g&gt;人達成交易後再回來取它。你開始感覺好些了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,19 +70,19 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>你看向守衛那邊憤怒而心碎的比哈。
+      <DefaultText>你看向比哈，她站在守衛之外那邊，憤怒而心碎。
 
-你有什麼東西想要告訴她，但她正變得越來越遠……</DefaultText>
+你有什麼東西想要告訴她，但她變你很遠，變得越來越遠……</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[接受。]</DefaultText>
+      <DefaultText>[接受]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>好重——也許比你這輩子掙的錢都多。你盡力不讓自己臉上露出表情。</DefaultText>
+      <DefaultText>好重—也許比你這輩子掙的都要多。你盡力不讓自己流露出破綻。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,7 +102,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「你可以在魂珀磨坊附近見到我們的線人。她會給你一個包裹。把錢付給她，然後把包裹帶到地下室。」
+      <DefaultText>「你可以在魂珀磨坊附近見到我們的線人。她會給你一個包裹。把錢付給她，然後把包裹帶到地下洞室。」
 
 他注視著你，打算等你理解後再繼續。</DefaultText>
       <FemaleText />
@@ -123,14 +123,14 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>你離開了瘦子德理奧的老窩，通過滑索穿過了峽口。穿過一群嚼著幻葉果的守衛，在四向路口左轉，再次左轉就到了峽谷。你的手在顫抖，你想起了比哈對你講過的傳言——一位在酒館的商人船長。
+      <DefaultText>你離開了瘦子德理奧的老窩，通過滑索穿過了深巷。穿過一群嚼著幻葉果的守衛，在四向路口左轉，再次左轉就到了 邊沟區。你的手在顫抖，你想起了比哈對你講過的傳言—一位在酒館的商人船長。
 
 你手中的錢沉重無比。這是一項風險，但你明白自己已經決定好要接受它了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「現在走吧。我會指引你通過貝拉斯之輪。」
+      <DefaultText>「現在走吧。我會指引你通過神輪。」
 
 裘荻的燈籠劃過聚集的精粹，發出輕柔的聲音，收割著失落的靈魂。</DefaultText>
       <FemaleText />

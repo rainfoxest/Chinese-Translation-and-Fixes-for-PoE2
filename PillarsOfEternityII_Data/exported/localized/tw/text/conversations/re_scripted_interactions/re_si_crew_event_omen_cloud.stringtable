@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[儀式性地將 1000 銅幣拋入海中。]「我想我們可以拿點什麼獻給哀歌女士。」</DefaultText>
+      <DefaultText>[儀式性地將 1000  銅幣 拋入海中]「我想我們可以拿點什麼獻給哀歌女士。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,7 +23,7 @@
       <ID>6</ID>
       <DefaultText>[Specified 0]吸了一口氣。
 
-「但是船長，這樣你是對昂德拉不敬……</DefaultText>
+「但是船長，這樣你是對 &lt;g&gt;昂德拉&lt;/g&gt;不敬……</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,16 +33,16 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[把[Specified 0]扔下船。] 「這作為祭品如何？」</DefaultText>
+      <DefaultText>[把[Specified 0]扔下船]「這作為祭品如何？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>你帶著一箱硬幣走到甲板上，把船員們集合起來，你站在船邊。
 
-很快地念過對昂德拉的禱詞後，你將錢倒入大海。
+很快地念過對 &lt;g&gt;昂德拉&lt;/g&gt;的禱詞後，你將錢倒入大海。
 
-船員們點頭唱著簡短的水手號子，慶祝昂德拉的仁慈。水手們返回工作時，[Specified 0]感謝你表達對女神的尊敬。</DefaultText>
+船員們點頭唱著簡短的水手號子，慶祝 &lt;g&gt;昂德拉&lt;/g&gt;的仁慈。水手們返回工作時，[Specified 0]感謝你表達對女神的尊敬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,26 +61,26 @@
       <ID>14</ID>
       <DefaultText>走到甲板上，你帶領船員舉行幾個小時的月神教儀式，祈求她保佑你的船和船員。
 
-你呼喚著昂德拉的諸多名字——恩加蒂、哀歌女士、鹽婦、失落者的情人—— 承認她對大海、所有航海者，以及大海中的所有沉睡者的權力和統治。
+你呼喚著 &lt;g&gt;昂德拉&lt;/g&gt;的諸多名字— 恩加蒂、哀歌女士、鹽婦、失落者的情人— 承認她對大海、所有航海者，以及大海中的所有沉睡者的權力和統治。
 
 在你的指示下，每個船員站在船邊，面對黑色的海水輕聲懺悔。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[花時間帶領船員舉行儀式祈求昂德拉的佑護。]「我們欠她一份尊重，我們應給予她。」</DefaultText>
+      <DefaultText>[花時間帶領船員舉行儀式祈求 &lt;g&gt;昂德拉&lt;/g&gt;的佑護]「我們欠她一份尊重，我們應給予她。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[解釋科學] 「風是自然現象，沒什麼可擔心的。」</DefaultText>
+      <DefaultText>[解釋科學]「風是自然現象，沒什麼可擔心的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>雖然船員擺脫了憂鬱的情緒，但[Specified 0]還告訴他們，你已對女神表達極大尊重，保護船隻免受她的憤怒懲罰。
 
-為舉行儀式你花了好幾個小時，但第二天，風減小了，船員們鬆了一口氣，很多人說感謝昂德拉——還有你——饒恕了船隻。</DefaultText>
+為舉行儀式你花了好幾個小時，但第二天，風減小了，船員們鬆了一口氣，很多人說感謝 &lt;g&gt;昂德拉&lt;/g&gt;—還有你—饒恕了船隻。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -92,7 +92,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>第二天，寒風消失了。船員們似乎很滿意，但不免擔心因你堅定相信科學而蔑視了昂德拉。</DefaultText>
+      <DefaultText>第二天，寒風消失了。船員們似乎很滿意，但不免擔心因你堅定相信科學而蔑視了 昂德拉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「作為船長，我要存錢用於像這樣的緊急情況。難道你們覺得你們是昂德拉嗎？」</DefaultText>
+      <DefaultText>「作為船長，我要存錢用於像這樣的緊急情況。難道你們覺得你們是 &lt;g&gt;昂德拉&lt;/g&gt;嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@
       <ID>27</ID>
       <DefaultText>[Specified 1]舉著手，後退一步，緊張的笑著。
 
-「呃……我是半開玩笑的。我的意思是，我們當然希望能獲得薪水——」
+「呃……我是半開玩笑的。我的意思是，我們當然希望能獲得薪水—」
 
 其他船員離開甲板，留下你們兩個。
 
@@ -177,12 +177,12 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[狂笑。]「那你們還等什麼呢？給昂德拉唱讚歌吧！」</DefaultText>
+      <DefaultText>[狂笑]「那你們還等什麼呢？給 &lt;g&gt;昂德拉&lt;/g&gt;唱讚歌吧！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[靜靜地看著[Specified 0]被淹死。]</DefaultText>
+      <DefaultText>[靜靜地看著[Specified 0]被淹死]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -234,7 +234,7 @@
       <ID>41</ID>
       <DefaultText>[Specified 0]羞怯地敲著你艙室的門。進來後，她的皮膚蒼白，額頭冒著汗珠。
 
-「對不起，船長，但這是昂德拉派來的邪風。我們已經航行很久，卻沒有給她貢物。如果我們不給她應得的東西，她肯定會懲罰我們的。
+「對不起，船長，但這是 &lt;g&gt;昂德拉&lt;/g&gt;派來的邪風。我們已經航行很久，卻沒有給她貢物。如果我們不給她應得的東西，她肯定會懲罰我們的。
 
 她把頭傾向艙口，示意你跟隨她到甲板。</DefaultText>
       <FemaleText />
@@ -243,7 +243,7 @@
       <ID>42</ID>
       <DefaultText>[Specified 0]羞怯地敲著你艙室的門。進來後，他的皮膚蒼白，額頭冒著汗珠。
 
-「對不起，船長，但這是昂德拉派來的邪風。我們已經航行很久，卻沒有給她貢物。如果我們不給她應得的東西，她肯定會懲罰我們的。
+「對不起，船長，但這是 &lt;g&gt;昂德拉&lt;/g&gt;派來的邪風。我們已經航行很久，卻沒有給她貢物。如果我們不給她應得的東西，她肯定會懲罰我們的。
 
 他把頭傾向艙口，示意你跟隨他到甲板。</DefaultText>
       <FemaleText />

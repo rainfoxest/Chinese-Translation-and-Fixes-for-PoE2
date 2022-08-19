@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>籠子裡關著一名胡亞納女性，衣服破破爛爛，身上滿是抓痕。她看到你過來時緊緊扒在欄杆上。</DefaultText>
+      <DefaultText>籠子裡關著一名 &lt;g&gt;胡亞納&lt;/g&gt;女性，衣服破破爛爛，身上滿是抓痕。她看到你過來時緊緊扒在欄杆上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「我叫巴德瑪。我們有一輛物資馬車——我們三個人是做買賣的。求你了，要沒時間了。」</DefaultText>
+      <DefaultText>「我叫巴德瑪。我們有一輛物資馬車—我們三個人是做買賣的。求你了，要沒時間了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「我們本來和其他商人一起旅行，但蜥人襲擊了我們。我們被那些傢伙截斷，單獨拖來了這裡——包括馬車在內的一切。
+      <DefaultText>「我們本來和其他商人一起旅行，但蜥人襲擊了我們。我們被那些傢伙截斷，單獨拖來了這裡—包括馬車在內的一切。
 
 那些野獸已經把我的朋友們從籠子裡帶走了。我不敢想像它們會做些什麼。」</DefaultText>
       <FemaleText />
@@ -75,7 +75,7 @@
       <ID>14</ID>
       <DefaultText>「那麼你是真的完成了？天哪，我都沒想過這種事。
 
-請問——其他人情況如何？」</DefaultText>
+請問—其他人情況如何？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -100,7 +100,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「這裡曾經是一片聖地。現在我會離開此處，永不返回。願恩加蒂原諒我。」</DefaultText>
+      <DefaultText>「這裡曾經是一片聖地。現在我會離開此處，永不返回。願 &lt;g&gt;恩加蒂&lt;/g&gt;原諒我。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,7 +110,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「願恩加蒂保護你。我欠你一份大人情。我今天已經失去太多了。」
+      <DefaultText>「願 &lt;g&gt;恩加蒂&lt;/g&gt;保護你。我欠你一份大人情。我今天已經失去太多了。」
 
 她用前臂蹭蹭眉毛。</DefaultText>
       <FemaleText />
@@ -149,7 +149,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

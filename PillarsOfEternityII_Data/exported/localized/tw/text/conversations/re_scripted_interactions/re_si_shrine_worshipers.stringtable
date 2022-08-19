@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>你注意到了路旁的一尊飽經風霜的巨大石像。似乎是一尊胡亞納神龕。</DefaultText>
+      <DefaultText>你注意到了路旁的一尊飽經風霜的巨大石像。似乎是一尊 &lt;g&gt;胡亞納&lt;/g&gt;神龕。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[褻瀆神龕。]</DefaultText>
+      <DefaultText>[褻瀆神龕]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[攻擊。]</DefaultText>
+      <DefaultText>[攻擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「這些胡亞納人的信仰真有趣——竟然會認為整個世界都在貝拉斯體內。我想他們有件事情是對的……這世界上只有兩種人——活著的，和死了的。」
+      <DefaultText>「這些 &lt;g&gt;胡亞納&lt;/g&gt;人的信仰真有趣—竟然會認為整個世界都在 &lt;g&gt;貝拉斯&lt;/g&gt;體內。我想他們有件事情是對的……這世界上只有兩種人—活著的，和死了的。」
 
 他看著你歎了口氣。「諸神在上，我老了肯定變心軟了。小的們，走吧。讓這些可憐蟲去禱告吧。」</DefaultText>
       <FemaleText />
@@ -50,14 +50,14 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「為坦格羅亞獻上褻瀆者！」</DefaultText>
+      <DefaultText>「為 &lt;g&gt;坦格羅亞&lt;/g&gt;獻上褻瀆者！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>雕像上纏繞著一對石鰻。每一條鰻魚嘴裡都貼著另一條的尾巴，兩條石鰻形成了一個無法打破的循環。
 
-雕像描繪的是理庫胡-胡亞納版本的貝拉斯。
+雕像描繪的是理庫胡- &lt;g&gt;胡亞納&lt;/g&gt;版本的 貝拉斯。
 
 雕像底座上寫著一條銘文。「有些人跑。有些人戰。理庫胡吞噬一切。」</DefaultText>
       <FemaleText />
@@ -91,14 +91,14 @@
       <ID>56</ID>
       <DefaultText>雕像的外形是一個長著怪魚頭的裸體女人。
 
-雕像描繪的是恩加蒂-胡亞納版本的昂德拉。
+雕像描繪的是 恩加蒂 - &lt;g&gt;胡亞納&lt;/g&gt;版本的 昂德拉。
 
 神龕底座上面寫著一條銘文。「海浪打磨岩石但是也會將它們粉碎成沙礫。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>胡亞納人沉思地望向彼此，最終他們的首領點點頭。「那你就去獻上祭品進行祈禱吧。在你完成後就離開此處。回到城市裡去。」
+      <DefaultText>&lt;g&gt;胡亞納&lt;／g&gt;人沉思地望向彼此，最終他們的首領點點頭。「那你就去獻上祭品進行祈禱吧。在你完成後就離開此處。回到城市裡去。」
 
 你跪在神龕前，胡亞納信徒們也加入其中。你開始向諸神祈禱。
 
@@ -107,7 +107,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>胡亞納人沉思地望向彼此，最終他們的首領點點頭。「那你就去獻上祭品進行祈禱吧。在你完成後就離開此處。回到城市裡去。」
+      <DefaultText>&lt;g&gt;胡亞納&lt;／g&gt;人沉思地望向彼此，最終他們的首領點點頭。「那你就去獻上祭品進行祈禱吧。在你完成後就離開此處。回到城市裡去。」
 
 你跪在神龕前，胡亞納信徒們也加入其中。你開始向諸神祈禱。
 
@@ -116,14 +116,14 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>[休息之前向神龕祈禱。]</DefaultText>
+      <DefaultText>[休息之前向神龕祈禱]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>你跪在神龕前開始祈禱。
 
-僅僅過了一小會，你就聽到身後傳來腳步聲。有一群從城市裡來的胡亞納人在接近神龕。他們全副武裝，很明顯是打算借此次朝聖對付強盜。
+僅僅過了一小會，你就聽到身後傳來腳步聲。有一群從城市裡來的 &lt;g&gt;胡亞納&lt;/g&gt;人在接近神龕。他們全副武裝，很明顯是打算借此次朝聖對付強盜。
 
 「我的天！你在這裡做什麼？」其中一人愁眉不展地問你。</DefaultText>
       <FemaleText />
@@ -137,26 +137,26 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>你從碎石堆轉過身來，發現後面站著一群胡亞納人，其身上的武器裝備表明他們是馬塔魯種姓的成員。有些人瞇起眼睛露出憎恨的表情，但大多數人臉上都寫著難以置信。
+      <DefaultText>你從碎石堆轉過身來，發現後面站著一群 &lt;g&gt;胡亞納&lt;/g&gt;人，其身上的武器裝備表明他們是 &lt;g&gt;馬塔魯&lt;/g&gt;種姓的成員。有些人瞇起眼睛露出憎恨的表情，但大多數人臉上都寫著難以置信。
 
-「我的天，你怎麼敢！那座神龕已經在此矗立數百年了！」一名身材高大的海裔向你咆哮著，並拔出了武器。「你要為此向恩加蒂好好交代！我們現在就把你丟下海去！」
+「我的天，你怎麼敢！那座神龕已經在此矗立數百年了！」一名身材高大的海裔向你咆哮著，並拔出了武器。「你要為此向 &lt;g&gt;恩加蒂&lt;/g&gt;好好交代！我們現在就把你丟下海去！」
 
 他向你衝來，餘下的人也拔出武器緊隨其後。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[調查週遭。]</DefaultText>
+      <DefaultText>[調查週遭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>[靠近檢查。]</DefaultText>
+      <DefaultText>[靠近檢查]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>[繼續旅程。]</DefaultText>
+      <DefaultText>[繼續旅程]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>胡亞納人看著你離開，臉上寫滿了懷疑的表情。
+      <DefaultText>&lt;g&gt;胡亞納&lt;/g&gt;人看著你離開，臉上寫滿了懷疑的表情。
 
 當你離開神龕一段距離後，你聽到他們唱響的海之樂歌。</DefaultText>
       <FemaleText />
@@ -178,7 +178,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[冥想休息。]</DefaultText>
+      <DefaultText>[冥想休息]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,7 +208,7 @@
 
 僅僅過了一小會，你就聽到身後傳來腳步聲。一群臉上堆滿笑容的奴隸販子接近了。每個人都全副武裝，似乎他們也都習慣了苦戰。
 
-「看看這個吧，兄弟們？」一個人開口問道，他的口音明顯是瑞德賽人。你注意到他的襯衫上縫有一塊徽章，這說明他是貝拉斯的追隨者。「看起來我們有祭品了。」</DefaultText>
+「看看這個吧，兄弟們？」一個人開口問道，他的口音明顯是瑞德賽人。你注意到他的襯衫上縫有一塊徽章，這說明他是 &lt;g&gt;貝拉斯&lt;/g&gt;的追隨者。「看起來我們有祭品了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,14 +220,14 @@
       <ID>100</ID>
       <DefaultText>在你起身回應時，另一名海裔說話了。「你為何要向他們大喊大叫？要我說，這名信徒與你自己一樣從列島而來。」
 
-第一個人怒目而視。「對我來說可不像是胡亞納人。」</DefaultText>
+第一個人怒目而視。「對我來說可不像是 &lt;g&gt;胡亞納&lt;/g&gt;人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
       <DefaultText>「一個男孩來看望母親有這麼奇怪嗎？」
 
-泰克胡攔在你和胡亞納人之間，舉起一隻手試圖調停。</DefaultText>
+泰克胡攔在你和 &lt;g&gt;胡亞納&lt;/g&gt;人之間，舉起一隻手試圖調停。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -247,12 +247,12 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>胡亞納人張大眼睛，拔出了他們的武器……</DefaultText>
+      <DefaultText>&lt;g&gt;胡亞納&lt;/g&gt;人張大眼睛，拔出了他們的武器……</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>胡亞納人並沒有受到什麼觸動，而是開始緩緩移動包圍你。</DefaultText>
+      <DefaultText>&lt;g&gt;胡亞納&lt;/g&gt;人並沒有受到什麼觸動，而是開始緩緩移動包圍你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -262,16 +262,16 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>胡亞納人向後退去，臉上的血色逐漸消失，表情也鬆懈下來。一名體形較小的海裔轉向後方，嘟囔著「我們要不就把這些人留這算了。」
+      <DefaultText>&lt;g&gt;胡亞納&lt;/g&gt;人向後退去，臉上的血色逐漸消失，表情也鬆懈下來。一名體形較小的海裔轉向後方，嘟囔著「我們要不就把這些人留這算了。」
 
-只有對方的首領沒有絲毫畏懼，用暗色的眼睛對上你的目光。他最後點點頭，轉身朝著其他信徒的方向離開。「我們可以讓他們使用這座神龕。讓恩加蒂收下所有溢美之詞。我們等他們完事吧。」
+只有對方的首領沒有絲毫畏懼，用暗色的眼睛對上你的目光。他最後點點頭，轉身朝著其他信徒的方向離開。「我們可以讓他們使用這座神龕。讓 &lt;g&gt;恩加蒂&lt;/g&gt;收下所有溢美之詞。我們等他們完事吧。」
 
 對方走下小徑進行等待。你完成了祈禱，如獲新生般起身。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>[請一名同伴與其交談。]</DefaultText>
+      <DefaultText>[請一名同伴與其交談]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,21 +302,21 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>「看看我出色的同伴們。我們對恩加蒂的敬仰超過這片海上的任何人，對吧？我們可不希望她再次降怒於我們。你怎麼說？」
+      <DefaultText>「看看我出色的同伴們。我們對 &lt;g&gt;恩加蒂&lt;/g&gt;的敬仰超過這片海上的任何人，對吧？我們可不希望她再次降怒於我們。你怎麼說？」
 
-塞拉芬走向胡亞納人，張開雙臂，露出最為親切的笑容。</DefaultText>
+塞拉芬走向 &lt;g&gt;胡亞納&lt;/g&gt;人，張開雙臂，露出最為親切的笑容。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>「恩加蒂選中之人的話語在如此亂世還有用嗎？我是說船長沒有惡意。」
+      <DefaultText>「&lt;g&gt;恩加蒂&lt;/g&gt;選中之人的話語在如此亂世還有用嗎？我是說船長沒有惡意。」
 
-泰克胡抱起雙臂依次打量每個胡亞納人。</DefaultText>
+泰克胡抱起雙臂依次打量每個 &lt;g&gt;胡亞納&lt;/g&gt;人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>「我的祖先或許並不來自亡焰列島，但我和你們一樣是這裡土生土長的居民。」
+      <DefaultText>「我的祖先或許並不來自 亡焰列島，但我和你們一樣是這裡土生土長的居民。」
 
 「沒有人能阻止我崇拜神明。」</DefaultText>
       <FemaleText />
@@ -330,21 +330,21 @@
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>[Specified 4]點點頭看向胡亞納人。
+      <DefaultText>[Specified 4]點點頭看向 &lt;g&gt;胡亞納&lt;/g&gt;人。
 
 「朋友們啊。我們只想略做禱告，然後就會離開。沒有惡意。我發誓。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>[吟唱月神教輓歌。]</DefaultText>
+      <DefaultText>[吟唱月神教輓歌]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>胡亞納人沉思地望向彼此，最終他們的首領點點頭。「那你就去獻上祭品進行祈禱吧。在你完成後就離開此處。回到城市裡去。」
+      <DefaultText>&lt;g&gt;胡亞納&lt;/g&gt;人沉思地望向彼此，最終他們的首領點點頭。「那你就去獻上祭品進行祈禱吧。在你完成後就離開此處。回到城市裡去。」
 
-你跪在神龕前，胡亞納信徒們也加入其中。你開始向諸神祈禱。
+你跪在神龕前，&lt;g&gt;胡亞納&lt;/g&gt;信徒們也加入其中。你開始向諸神祈禱。
 
 你起身後感覺冷靜了許多，並開始繼續上路。</DefaultText>
       <FemaleText />
@@ -356,7 +356,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>「以沃艾珥之名，看看這裡有什麼？」一群臉上堆滿笑容的奴隸販子從後面接近了。每個人身上都有樸素的武器與傷痕纍纍的盔甲。說話人的襯衫上縫有一塊徽章，這說明他是貝拉斯的追隨者。
+      <DefaultText>「以 &lt;g&gt;沃艾珥&lt;/g&gt;之名，看看這裡有什麼？」一群臉上堆滿笑容的奴隸販子從後面接近了。每個人身上都有樸素的武器與傷痕纍纍的盔甲。說話人的襯衫上縫有一塊徽章，這說明他是 &lt;g&gt;貝拉斯&lt;/g&gt;的追隨者。
 
 「並不關心你們要對神龕做些什麼。看來要獻上祭品才是正確的選擇。獻上血與骨的祭品。」
 
@@ -409,7 +409,7 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>「娥狄卡在上！你難道想支援空船奴隸貿易嗎？」塞拉芬咆哮道。</DefaultText>
+      <DefaultText>「娥狄卡 在上！你難道想支援空船奴隸貿易嗎？」塞拉芬咆哮道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -419,7 +419,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>人群離開後，你跪在地上開始祈禱。當你起身時，你感到貝拉斯注視著你的行動，而她的祝福漾於你的靈魂之上。</DefaultText>
+      <DefaultText>人群離開後，你跪在地上開始祈禱。當你起身時，你感到 &lt;g&gt;貝拉斯&lt;/g&gt;注視著你的行動，而她的祝福漾於你的靈魂之上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -501,7 +501,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>在你起身回應時，另一名海裔說話了。「你為何要向他們大喊大叫？我覺得這名信徒一直在幫助胡亞納人。」
+      <DefaultText>在你起身回應時，另一名海裔說話了。「你為何要向他們大喊大叫？我覺得這名信徒一直在幫助 &lt;g&gt;胡亞納&lt;/g&gt;人。」
 
 第一個人咆哮道。「就這個？我看和女王港那些沒什麼區別！」</DefaultText>
       <FemaleText />
@@ -513,9 +513,9 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>胡亞納人沉思地望向彼此，最終他們的首領點點頭。「那你就去獻上祭品進行祈禱吧。在你完成後就離開此處。回到城市裡去。」
+      <DefaultText>&lt;g&gt;胡亞納&lt;/g&gt;人沉思地望向彼此，最終他們的首領點點頭。「那你就去獻上祭品進行祈禱吧。在你完成後就離開此處。回到城市裡去。」
 
-你跪在神龕前，胡亞納信徒們也加入其中。你開始向諸神祈禱。
+你跪在神龕前，&lt;g&gt;胡亞納&lt;/g&gt;信徒們也加入其中。你開始向諸神祈禱。
 
 你起身後感覺冷靜了許多，並開始繼續上路。</DefaultText>
       <FemaleText />

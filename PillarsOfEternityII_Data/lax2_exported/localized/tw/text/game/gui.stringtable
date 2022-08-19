@@ -1,208 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\gui</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>75</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>4295</ID>
-      <DefaultText>聯合王冠</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4380</ID>
-      <DefaultText>靈魂收集者</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4431</ID>
-      <DefaultText>腐爛守望者</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4454</ID>
-      <DefaultText>寒冬巨獸</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4523</ID>
-      <DefaultText>你收到了一封信。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4524</ID>
-      <DefaultText>你收到了一條先驅瓦特尼爾發來的古怪消息。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4580</ID>
-      <DefaultText>女王的辯護</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4658</ID>
-      <DefaultText>釣魚洞</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4659</ID>
-      <DefaultText>庇護所</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4660</ID>
-      <DefaultText>密室</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4661</ID>
-      <DefaultText>冰雕</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4662</ID>
-      <DefaultText>從前的雕塑</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4663</ID>
-      <DefaultText>先驅的撤退</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4664</ID>
-      <DefaultText>釀酒大師</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4665</ID>
-      <DefaultText>冰凍漁場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4722</ID>
-      <DefaultText>病體</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4726</ID>
-      <DefaultText>Vox Machina - Grog</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4727</ID>
-      <DefaultText>Vox Machina - Vexahlia</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4728</ID>
-      <DefaultText>Vox Machina - Keyleth</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4729</ID>
-      <DefaultText>Vox Machina - Percival De Rolo</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4730</ID>
-      <DefaultText>Vox Machina - Pike</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4731</ID>
-      <DefaultText>Vox Machina - Scanlan</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4732</ID>
-      <DefaultText>Vox Machina - Shaun Gilmore</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4733</ID>
-      <DefaultText>Vox Machina - Vaxildan</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4735</ID>
-      <DefaultText>寒冬巨獸</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4737</ID>
-      <DefaultText>Vytmadh</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4738</ID>
-      <DefaultText>零件堆</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4739</ID>
-      <DefaultText>隕落之祭壇</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4740</ID>
-      <DefaultText>前往先驅之守望的繩索</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4741</ID>
-      <DefaultText>使用遺物</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4742</ID>
-      <DefaultText>啟動構裝體</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4766</ID>
-      <DefaultText>睿姆岡的觸碰會使基斯的靈魂被疾病與腐敗纏繞。這些人有時也被稱為終結神嗣，其體內的神明力量不僅侵蝕著其自身，同時也在侵擾其他人的身體。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4767</ID>
-      <DefaultText>終結神嗣</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4796</ID>
-      <DefaultText>溫和的米科克</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4797</ID>
-      <DefaultText>失落記憶之池</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4798</ID>
-      <DefaultText>破碎通道傳送門</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4799</ID>
-      <DefaultText>升潮王座</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4800</ID>
-      <DefaultText>國王的徵兵</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4834</ID>
-      <DefaultText>睿姆岡</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4835</ID>
-      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
-睿姆岡的牧師在適當的力量等級自動習得下列法術：
+ <Name>game\gui</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>75</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>4295</ID>
+     <DefaultText>聯合王冠</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4380</ID>
+     <DefaultText>靈魂收集者</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4431</ID>
+     <DefaultText>腐爛守望者</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4454</ID>
+     <DefaultText>寒冬巨獸</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4523</ID>
+     <DefaultText>你收到了一封信。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4524</ID>
+     <DefaultText>你收到了一條先驅瓦特尼爾發來的古怪消息。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4580</ID>
+     <DefaultText>女王的辯護</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4658</ID>
+     <DefaultText>釣魚洞</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4659</ID>
+     <DefaultText>庇護所</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4660</ID>
+     <DefaultText>密室</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4661</ID>
+     <DefaultText>冰雕</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4662</ID>
+     <DefaultText>從前的雕塑</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4663</ID>
+     <DefaultText>先驅的撤退</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4664</ID>
+     <DefaultText>釀酒大師</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4665</ID>
+     <DefaultText>冰凍漁場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4722</ID>
+     <DefaultText>病體</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4726</ID>
+     <DefaultText>Vox Machina - Grog</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4727</ID>
+     <DefaultText>Vox Machina - Vexahlia</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4728</ID>
+     <DefaultText>Vox Machina - Keyleth</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4729</ID>
+     <DefaultText>Vox Machina - Percival De Rolo</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4730</ID>
+     <DefaultText>Vox Machina - Pike</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4731</ID>
+     <DefaultText>Vox Machina - Scanlan</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4732</ID>
+     <DefaultText>Vox Machina - Shaun Gilmore</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4733</ID>
+     <DefaultText>Vox Machina - Vaxildan</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4735</ID>
+     <DefaultText>寒冬巨獸</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4737</ID>
+     <DefaultText>Vytmádh</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4738</ID>
+     <DefaultText>零件堆</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4739</ID>
+     <DefaultText>隕落之祭壇</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4740</ID>
+     <DefaultText>前往先驅之守望的繩索</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4741</ID>
+     <DefaultText>使用遺物</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4742</ID>
+     <DefaultText>啟動構裝體</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4766</ID>
+     <DefaultText>睿姆岡 的觸碰會使 &lt;g&gt;基斯&lt;/g&gt;的靈魂被疾病與腐敗纏繞。這些人有時也被稱為終結神嗣，其體內的神明力量不僅侵蝕著其自身，同時也在侵擾其他人的身體。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4767</ID>
+     <DefaultText>終結神嗣</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4796</ID>
+     <DefaultText>溫和的米科克</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4797</ID>
+     <DefaultText>失落記憶之池</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4798</ID>
+     <DefaultText>破碎通道傳送門</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4799</ID>
+     <DefaultText>升潮王座</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4800</ID>
+     <DefaultText>國王的徵兵</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4834</ID>
+     <DefaultText>睿姆岡</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4835</ID>
+     <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+ &lt;g&gt;睿姆岡&lt;/g&gt;的牧師在適當的威力等級自動習得下列法術：
 1.腐化之手
 2.暴風雪
 3.瘟疫術
@@ -212,182 +212,182 @@
 7.死亡之環
 8.&lt;xg&gt;睿姆岡&lt;/xg&gt;的符記
 9.&lt;xg&gt;睿姆岡&lt;/xg&gt;的召喚</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4882</ID>
-      <DefaultText>先驅之守望斜坡</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4883</ID>
-      <DefaultText>霜封神廟斜坡</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4884</ID>
-      <DefaultText>朝聖者營地</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4885</ID>
-      <DefaultText>睿姆岡神龕</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4890</ID>
-      <DefaultText>冰牆</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4899</ID>
-      <DefaultText>組合碎片</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4901</ID>
-      <DefaultText>組合碎片</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4905</ID>
-      <DefaultText>終結宣告已改良並新增至儲物箱。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4917</ID>
-      <DefaultText>執行所</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4919</ID>
-      <DefaultText>溺者王國</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4920</ID>
-      <DefaultText>閃耀大橋</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4921</ID>
-      <DefaultText>無盡疑問</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4922</ID>
-      <DefaultText>奈瑞思賽拉絲的巢穴</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4923</ID>
-      <DefaultText>隕落之祭壇</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4924</ID>
-      <DefaultText>溺者王國的贈予</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4925</ID>
-      <DefaultText>閃耀大橋的恩賜</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4926</ID>
-      <DefaultText>無盡疑問的優勢</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4928</ID>
-      <DefaultText>工坊</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4929</ID>
-      <DefaultText>霜封墓穴</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4930</ID>
-      <DefaultText>雪熊獸穴</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4931</ID>
-      <DefaultText>瓦特尼爾的房間</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4933</ID>
-      <DefaultText>冰川尖端</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4938</ID>
-      <DefaultText>登上高地凸巖</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4944</ID>
-      <DefaultText>撒奧斯</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4945</ID>
-      <DefaultText>虛空之門</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4946</ID>
-      <DefaultText>神錘</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4947</ID>
-      <DefaultText>愛歐瓦拉</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4948</ID>
-      <DefaultText>梅沃德</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4954</ID>
-      <DefaultText>先驅的住所</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4959</ID>
-      <DefaultText>奧德尤瑪</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4960</ID>
-      <DefaultText>死亡浮冰</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4961</ID>
-      <DefaultText>歡迎來到先驅之守望</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4994</ID>
-      <DefaultText>Hajo</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5017</ID>
-      <DefaultText>&lt;b&gt;寒冬巨獸&lt;/b&gt;已安裝。當你在《永恆之柱II：亡焰列島》中取得足夠的進展後，你會收到來一封來自冰凍的南方的信件，自動開始這段冒險的第一個任務，進入死亡浮冰。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5298</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-  </Entries>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4882</ID>
+     <DefaultText>先驅之守望斜坡</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4883</ID>
+     <DefaultText>霜封神廟斜坡</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4884</ID>
+     <DefaultText>朝聖者營地</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4885</ID>
+     <DefaultText>睿姆岡神龕</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4890</ID>
+     <DefaultText>冰牆</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4899</ID>
+     <DefaultText>組合碎片</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4901</ID>
+     <DefaultText>組合碎片</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4905</ID>
+     <DefaultText>終結宣告已改良並新增至儲物箱。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4917</ID>
+     <DefaultText>執行所</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4919</ID>
+     <DefaultText>溺者王國</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4920</ID>
+     <DefaultText>閃耀大橋</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4921</ID>
+     <DefaultText>無盡疑問</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4922</ID>
+     <DefaultText>奈瑞思賽拉絲的巢穴</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4923</ID>
+     <DefaultText>隕落之祭壇</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4924</ID>
+     <DefaultText>溺者王國的贈予</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4925</ID>
+     <DefaultText>閃耀大橋的恩賜</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4926</ID>
+     <DefaultText>無盡疑問的優勢</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4928</ID>
+     <DefaultText>工坊</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4929</ID>
+     <DefaultText>霜封墓穴</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4930</ID>
+     <DefaultText>雪熊獸穴</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4931</ID>
+     <DefaultText>瓦特尼爾的房間</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4933</ID>
+     <DefaultText>冰川尖端</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4938</ID>
+     <DefaultText>登上高地凸巖</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4944</ID>
+     <DefaultText>撒奧斯</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4945</ID>
+     <DefaultText>虛空之門</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4946</ID>
+     <DefaultText>神錘</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4947</ID>
+     <DefaultText>愛歐瓦拉</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4948</ID>
+     <DefaultText>梅沃德</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4954</ID>
+     <DefaultText>先驅的住所</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4959</ID>
+     <DefaultText>奧德尤瑪</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4960</ID>
+     <DefaultText>死亡浮冰</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4961</ID>
+     <DefaultText>歡迎來到先驅之守望</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4994</ID>
+     <DefaultText>Hajo</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5017</ID>
+     <DefaultText>&lt;b&gt;寒冬巨獸&lt;/b&gt;已安裝。當你在《永恆之柱II：亡焰列島》中取得足夠的進展後，你會收到來一封來自冰凍的南方的信件，自動開始這段冒險的第一個任務，進入死亡浮冰。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5298</ID>
+     <DefaultText />
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

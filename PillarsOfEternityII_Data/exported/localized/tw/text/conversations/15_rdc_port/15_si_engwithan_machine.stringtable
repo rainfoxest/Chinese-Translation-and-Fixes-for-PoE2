@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[查看機器。]</DefaultText>
+      <DefaultText>[查看機器]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[嘗試關閉機器。]</DefaultText>
+      <DefaultText>[嘗試關閉機器]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,7 +28,7 @@
       <ID>6</ID>
       <DefaultText>你設法辨認出了還未消失的字跡。
 
-你推斷出英格維仙曾在席格納斯莫爾這個地方研究如何運用靈魂能量增大亡焰列島生物的體型。
+你推斷出 &lt;g&gt;英格維仙&lt;/g&gt;曾在席格納斯莫爾這個地方研究如何運用靈魂能量增大 &lt;g&gt;亡焰列島&lt;/g&gt;生物的體型。
 
 你還瞭解到這台機器正將精粹從遺跡深處的一根光魂珀之柱注入附近的動植物群。</DefaultText>
       <FemaleText />
@@ -37,7 +37,7 @@
       <ID>7</ID>
       <DefaultText>你設法辨認出了還未消失的字跡。
 
-你推斷出英格維仙曾在席格納斯莫爾這個地方研究如何運用靈魂能量增大亡焰列島生物的體型。</DefaultText>
+你推斷出 &lt;g&gt;英格維仙&lt;/g&gt;曾在席格納斯莫爾這個地方研究如何運用靈魂能量增大 &lt;g&gt;亡焰列島&lt;/g&gt;生物的體型。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[關閉機器。]</DefaultText>
+      <DefaultText>[關閉機器]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,17 +96,17 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[關閉機器。]</DefaultText>
+      <DefaultText>[關閉機器]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「不！」神明伽拉溫高聲喊道，但祂無法阻止你。</DefaultText>
+      <DefaultText>「不！」神明 伽拉溫 高聲喊道，但祂無法阻止你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「貝拉斯的使者，你終於想通了嗎？」</DefaultText>
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;的使者，你終於想通了嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「正是。英格維仙精妙的機器從地底深處的魂珀礦脈中抽取精粹，這一帶的生物都吸收了不少這些精粹。它們變得強大而無情，因此有資格得到我的關注。」</DefaultText>
+      <DefaultText>「正是。英格維仙 精妙的機器從地底深處的魂珀礦脈中抽取精粹，這一帶的生物都吸收了不少這些精粹。它們變得強大而無情，因此有資格得到我的關注。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,7 +168,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「靈視者，等一會兒再走不遲。」雖然伽拉溫的語氣不帶任何感情，但祂的話語似乎像籐蔓一樣把你纏在了原地。</DefaultText>
+      <DefaultText>「靈視者，等一會兒再走不遲。」雖然 伽拉溫 的語氣不帶任何感情，但祂的話語似乎像籐蔓一樣把你纏在了原地。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「靈視者，等一會兒再走不遲。我們已經很久沒談過話了。」雖然伽拉溫的語氣不帶任何感情，但祂的話語似乎像籐蔓一樣把你纏在了原地。</DefaultText>
+      <DefaultText>「靈視者，等一會兒再走不遲。我們已經很久沒談過話了。」雖然 伽拉溫 的語氣不帶任何感情，但祂的話語似乎像籐蔓一樣把你纏在了原地。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,7 +220,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>「俄撒斯的獵犬，狩獵時不但要有勇還要有謀。」</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;的獵犬，狩獵時不但要有勇還要有謀。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +240,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「不！」神明伽拉溫高聲喊道，但祂無法阻止你。</DefaultText>
+      <DefaultText>「不！」神明 伽拉溫 高聲喊道，但祂無法阻止你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -136,9 +136,9 @@
 		</Entry>
 		<Entry>
 			<ID>24</ID>
-			<DefaultText>攻擊骰為1至100之間的隨機數，並計算該次攻擊精準&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;與目標防禦&lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt;差值。  &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;。如果精準低於防禦，則該次攻擊骰將遭受懲罰。如果精準高於防禦，則該次攻擊骰將獲得加成。
+			<DefaultText>攻擊骰為1至100之間的隨機數，並計算該次攻擊精準&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;與目標防禦&lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt;差值。&lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;。如果精準低於防禦，則該次攻擊骰將遭受懲罰。如果精準高於防禦，則該次攻擊骰將獲得加成。
 
-攻擊骰最終越高越好。[Miss Max Roll]或更少 = 失手，[Graze Min Roll]-[Graze Max Roll] = 擦傷，[Hit Min Roll]-[Hit Max Roll] = 命中， [Crit Min Roll]+ = 暴擊。</DefaultText>
+攻擊骰最終越高越好。[Miss Max Roll]或更少 = 失手，[Graze Min Roll]-[Graze Max Roll] = 擦傷，[Hit Min Roll]-[Hit Max Roll] = 命中，[Crit Min Roll]+ = 暴擊。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -158,7 +158,7 @@
 		</Entry>
 		<Entry>
 			<ID>28</ID>
-			<DefaultText>藥水、卷軸、爆炸物、陷阱與魔法雕像等物品都會裝備在角色的快速使用物品欄中。可在戰鬥中選擇角色熱鍵欄中的&lt;sprite="Inline" name="quickitems_s" tint=1&gt;使用這些物品。</DefaultText>
+			<DefaultText>藥水、卷軸、炸彈、陷阱 與魔法雕像等物品都會裝備在角色的快速使用物品欄中。可在戰鬥中選擇角色熱鍵欄中的&lt;sprite="Inline" name="quickitems_s" tint=1&gt;使用這些物品。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -226,7 +226,7 @@
 			<ID>40</ID>
 			<DefaultText>每位角色自身都有包含其所有主動戰技的戰技欄（包括法術、靈威、禱歌等等）。要使用某項戰技，只要點擊即可。某些戰技會自動將使用者自身作為目標，但大部分戰技要求你點擊某個目標才能使用。
 
-某些戰技可以造成區域效果（AOE）。最常見的範圍區域為圓形。如果你的範圍區域顯示為兩個一大一小的圓形，那麼在兩個圓之間的友方角色&lt;i&gt;絕對&lt;/i&gt;不會受到傷害。其間一直會是安全區域。</DefaultText>
+某些戰技可以造成效應範圍（AoE）。最常見的範圍區域為圓形。如果你的範圍區域顯示為兩個一大一小的圓形，那麼在兩個圓之間的友方角色&lt;i&gt;絕對&lt;/i&gt;不會受到傷害。其間一直會是安全區域。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -263,9 +263,9 @@
 		</Entry>
 		<Entry>
 			<ID>47</ID>
-			<DefaultText>你有一位角色進入了近身攻擊交戰狀態。如果一名被交戰的角色脫離與其交戰的角色範圍，將會招致一次藉機攻擊。
+			<DefaultText>你有一位角色進入了近身攻擊交戰狀態。如果一名被交戰的角色脫離與其交戰的角色範圍，將會招致一次脫戰攻擊。
 
-打斷技能如戰士的擊倒可以擺脫交戰狀態從而安全撤離。有些戰技例如遊蕩者的逃脫可使角色在不觸發藉機攻擊的情況下逃離。</DefaultText>
+打斷技能如戰士的擊倒可以擺脫交戰狀態從而安全撤離。有些戰技例如遊蕩者的逃脫可使角色在不觸發脫戰攻擊的情況下逃離。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -382,19 +382,19 @@
 		</Entry>
 		<Entry>
 			<ID>69</ID>
-			<DefaultText>你發現了一種原料。原料可用於附魔唯一武器、盔甲與盾牌，此外還能製作食物、卷軸、藥水與其他物品。
+			<DefaultText>你發現了一種原料。原料可用於強化唯一武器、盔甲與盾牌，此外還能製作食物、卷軸、藥水與其他物品。
 
 在隊伍儲物箱選擇&lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt;查看原料。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>70</ID>
-			<DefaultText>附魔</DefaultText>
+			<DefaultText>強化</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>71</ID>
-			<DefaultText>唯一（用金邊標示）武器、盔甲與盾牌可以通過附魔進一步提升力量。每種附魔配方都需要一定數量的特定原料。當你擁有可以對某項物品附魔的足夠原料時，該物品圖標左上角會顯示一個「+」圖標。</DefaultText>
+			<DefaultText>唯一（用金邊標示）武器、盔甲與盾牌可以通過強化進一步提升力量。每種強化配方都需要一定數量的特定原料。當你擁有可以對某項物品強化的足夠原料時，該物品圖標左上角會顯示一個「+」圖標。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -414,9 +414,9 @@
 		</Entry>
 		<Entry>
 			<ID>75</ID>
-			<DefaultText>反制是指某項戰技或狀態在生效時能移除或防止承受另一類狀態。反制共有兩種類型：增益狀態與關鍵詞。
+			<DefaultText>反制是指某項戰技或狀態在生效時能移除或防止承受另一類狀態。反制共有兩種類型：啟迪與關鍵詞。
 
-增益狀態根據屬性劃分（例如敏捷、感知等）且會自動反制並移除或防止承受對應屬性的減益狀態。同理，減益狀態也能用於移除增益狀態。</DefaultText>
+啟迪根據屬性劃分（例如敏捷、感知等）且會自動反制並移除或防止承受對應屬性的熬煎。同理，熬煎也能用於移除啟迪。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -433,7 +433,7 @@
 		</Entry>
 		<Entry>
 			<ID>78</ID>
-			<DefaultText>裝卸區</DefaultText>
+			<DefaultText>啟航</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -448,7 +448,7 @@
 		</Entry>
 		<Entry>
 			<ID>81</ID>
-			<DefaultText>靈視者是你這艘船的船長。與其他船員一樣，船長也會獲得水手經驗，但船長的水手經驗可以提升其船長等級。</DefaultText>
+			<DefaultText>靈視者是這艘船的船長。與其他船員一樣，船長也會獲得水手經驗，但船長的水手經驗可以提升其船長等級。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -673,12 +673,12 @@
 		</Entry>
 		<Entry>
 			<ID>122</ID>
-			<DefaultText>助手</DefaultText>
+			<DefaultText>搭擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>123</ID>
-			<DefaultText>助手為獨特的NPC角色，每個人都有各自的專屬任務，各自擁有獨特的個性與外表。完成他們的任務後，作為獎賞，他們可能會願意加入您的隊伍中。和同伴一樣，這些新的角色擁有各自不同的頭像與聲音。不過與同伴不同，助手並沒有專屬的幻景任務，而且也不涉及到同伴關係。</DefaultText>
+			<DefaultText>搭擋為獨特的NPC角色，每個人都有各自的專屬任務，各自擁有獨特的個性與外表。完成他們的任務後，作為獎賞，他們可能會願意加入您的隊伍中。和同伴一樣，這些新的角色擁有各自不同的頭像與語音。不過與同伴不同，搭擋並沒有專屬的願景任務，而且也不涉及到同伴關係。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>

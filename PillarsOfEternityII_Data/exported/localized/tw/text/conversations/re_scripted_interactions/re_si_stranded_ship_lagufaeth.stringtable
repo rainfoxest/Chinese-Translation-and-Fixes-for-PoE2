@@ -80,7 +80,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <DefaultText>[使用小型望遠鏡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +90,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>你在船上看到一條廢棄平底帆船上褪了色的亡焰列島商行標識。破損的船帆懸在桅桿上，木板上滿是裂痕。</DefaultText>
+      <DefaultText>你在船上看到一條廢棄平底帆船上褪了色的 &lt;g&gt;亡焰列島&lt;/g&gt;商行標識。破損的船帆懸在桅桿上，木板上滿是裂痕。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,7 +99,7 @@
 
 [Player Ship]收緊索具，抵達無名船隻。
 
-它從朦朧中現身了，原來是一艘棄船，上邊有褪了色的亡焰列島商行標識。破損的船帆懸在桅桿上，木板上滿是裂痕。</DefaultText>
+它從朦朧中現身了，原來是一艘棄船，上邊有褪了色的 &lt;g&gt;亡焰列島&lt;/g&gt;商行標識。破損的船帆懸在桅桿上，木板上滿是裂痕。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[不去管它。]</DefaultText>
+      <DefaultText>[不去管它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +128,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[用戰技恐嚇它們。]</DefaultText>
+      <DefaultText>[用戰技恐嚇它們]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

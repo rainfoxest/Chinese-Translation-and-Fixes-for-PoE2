@@ -15,9 +15,9 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「你在維護治安嗎？
+      <DefaultText>「沒惹上麻煩吧？
 
-我開玩笑的，[Player Name]。有什麼事？」</DefaultText>
+開玩笑啦，[Player Name]。有什麼事？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「老天爺，衛兵人手不夠的話，我啥也幹不了……」</DefaultText>
+      <DefaultText>「Madiccho，衛兵人手不夠，我什麼也幹不了……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,7 +47,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「這裡人少事多。風語者出了不少力，但鎮上大部分地方都被洪水淹沒了。
+      <DefaultText>「這裡人少事多。風語者 出了不少力，但鎮上大部分地方都被洪水淹沒了。
 
 現在到處是無家可歸的平民和受困的商人。更別提還有&lt;i&gt;邪教徒&lt;/i&gt;在蠢蠢欲動……」</DefaultText>
       <FemaleText />
@@ -59,7 +59,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「對不起，塞維亞！我當時是衝著達莫的臉蛋去的。」</DefaultText>
+      <DefaultText>「Sientere，塞維亞！我當時是衝著達莫的臉蛋去的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>「這一切都是俄撒斯搞的鬼。我受夠了眾神隨心所欲、草芥人命的做法。」</DefaultText>
+      <DefaultText>「這一切都是 &lt;g&gt;俄撒斯&lt;/g&gt;搞的鬼。我受夠了眾神隨心所欲、草芥人命的做法。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
       <ID>24</ID>
       <DefaultText>「眼下跟熟悉的人合作可以輕鬆一點。我可以稍後再來對付他。」
 
-「現在我們控制了國王港的一小塊地方。算是個好的開局。」</DefaultText>
+「現在我們控制了 國王港 的一小塊地方。算是個好的開局。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,21 +168,21 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「真的嗎？能遇上你這個貴人，算他運氣好。」
+      <DefaultText>「Di verus？算他走運，反正是你的錢。」
 
 塞維亞從口袋裡拿出一串鑰匙，走向牢房門。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「什麼？我為什麼要這樣做？原諒他的無心之失嗎？
+      <DefaultText>「Eccosi？我為什麼要這樣做？原諒他的無心之失嗎？
 
 瑞格列是個酒鬼加蠢貨。不要自己攬麻煩上身。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>「什麼？別跟我說是瑞格列激起了你的同情心。你很快就會失望的。」
+      <DefaultText>「Cuè？別跟我說是瑞格列激起了你的同情心。你很快就會失望的。」
 
 她瞥了牢房一眼，一臉輕蔑的表情。</DefaultText>
       <FemaleText />
@@ -199,19 +199,19 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「有人脫逃？不可能！」</DefaultText>
+      <DefaultText>「想劫獄？門都沒有！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>「瑞格列不見了。看來他之前醉酒什麼的都是裝出來的啊。
 
-可惡。這隻酒耗子運氣好，我現在沒時間去管他。」</DefaultText>
+Merla。這個酒耗子運氣好，我現在沒時間去管他。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「啊，是你。又來視察『民情』，打聽情況嗎？不，別跟我說話。今天已經夠煩的了。」
+      <DefaultText>「Ac，是你。又來視察『民情』，打聽情況嗎？不，別跟我說話。今天已經夠煩的了。」
 
 怒氣沖沖的塞維亞扭過頭去，望向附近牢房牆上冒著煙的裂縫。</DefaultText>
       <FemaleText />
@@ -220,7 +220,7 @@
       <ID>46</ID>
       <DefaultText>「伊拉里的人在格雷西街搞事情。
 
-他的幫派在四處搶劫，這傢伙更是一副王爺的作派，成天趾高氣昂。」</DefaultText>
+他的幫派在四處搶劫，這傢伙更是一副 Bazzo 的作派，成天趾高氣昂。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -234,14 +234,14 @@
       <ID>48</ID>
       <DefaultText>「算了，事已至此。你辛苦了。
 
-要是我手下有十個像你這樣的人，不出一周便可將整個國王港整得井井有條。」</DefaultText>
+要是我手下有十個像你這樣的人，不出一周便可將整個 國王港 整得井井有條。」</DefaultText>
       <FemaleText>「算了，事已至此。你辛苦了。
 
-要是我手下有十個像你這樣的人，不出一周便可將整個國王港整得井井有條。」</FemaleText>
+要是我手下有十個像你這樣的人，不出一周便可將整個 國王港 整得井井有條。」</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「國王港的情況如何？」</DefaultText>
+      <DefaultText>「國王港 的情況如何？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,12 +260,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>「我的天。我該怎麼跟克拉里奧解釋這件事情？」</DefaultText>
+      <DefaultText>「Madiccho。我該怎麼跟克拉里奧解釋這件事情？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>「我的天。我該怎麼向議會解釋這件事情？」</DefaultText>
+      <DefaultText>「Madiccho。我該怎麼向議會解釋這件事情？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,7 +284,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>「很好。這貨是坨狗屎，對吧？不過也是坨懶狗屎。」
+      <DefaultText>「Belfetto。這貨是坨狗屎，對吧？不過也是坨懶狗屎。」
 
 「如果沒必要的話，他是不會製造麻煩的。」</DefaultText>
       <FemaleText />
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>[聳肩。]</DefaultText>
+      <DefaultText>[聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

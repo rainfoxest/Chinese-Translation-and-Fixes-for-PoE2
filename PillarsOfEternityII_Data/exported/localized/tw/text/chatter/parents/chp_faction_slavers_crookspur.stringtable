@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「抱歉了，船長。」</DefaultText>
+      <DefaultText>「Eccosi，船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「願昂德拉讓你淹死。」</DefaultText>
+      <DefaultText>「願 &lt;g&gt;昂德拉&lt;/g&gt;讓你淹死。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「船長，我建議你挑一條航線並緊緊跟著它前行。」</DefaultText>
+      <DefaultText>「我建議你挑一條航線並緊緊跟著它前行，casità。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「向你致意，船長。」</DefaultText>
+      <DefaultText>「向你致意，casità。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,12 +141,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「哦，天啊。我把雨衣忘在船上了。」</DefaultText>
+      <DefaultText>「Madiccho。我把雨衣忘在船上了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「昂德拉的淚水今天格外冰冷。」</DefaultText>
+      <DefaultText>「&lt;g&gt;昂德拉&lt;/g&gt;的淚水今天格外冰冷。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,8 +156,8 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「太好了！Ado aimoro meo ba gliente.」</DefaultText>
-      <FemaleText>「Belfetto!Ado aimora meo ba gliente."</FemaleText>
+      <DefaultText>「Belfetto! Ado aimoro meo ba gliente.」</DefaultText>
+      <FemaleText>「Belfetto! Ado aimoro meo ba gliente.」</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>「饒了我吧！」</DefaultText>
+      <DefaultText>「Per complancanet!」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>「你能相信現在船長委員會裡有一個空缺名額嗎？」</DefaultText>
+      <DefaultText>「你能相信現在船長議會裡有一個空缺名額嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,12 +221,12 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「聽說追蹤閒暇先生號的獵人沒了。」</DefaultText>
+      <DefaultText>「聽說追蹤有閒紳士號的獵人沒了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>「嗯，晚上好。」</DefaultText>
+      <DefaultText>「Ac，晚上好。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>「混蛋！」</DefaultText>
+      <DefaultText>「Bazzo!」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>「我不想和人互相殘殺！」 </DefaultText>
+      <DefaultText>「我不想和人互相殘殺！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>「入侵者 ！</DefaultText>
+      <DefaultText>「入侵者 ！」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

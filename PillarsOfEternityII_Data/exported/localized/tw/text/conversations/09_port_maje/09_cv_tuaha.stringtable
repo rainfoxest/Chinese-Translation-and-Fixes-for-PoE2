@@ -13,17 +13,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「好久不見了，圖哈。你看起來……健壯多了。」麥婭打算輕鬆地聳聳肩，但看起來很不自然。</DefaultText>
+      <DefaultText>「好久不見了，圖哈。你看起來……精神不錯。」麥婭打算輕鬆地聳聳肩，但看起來很不自然。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「別叫我的名字，他還在這邊嗎？」圖哈僅僅歪了歪頭，每個字都是輕聲說出來的。</DefaultText>
+      <DefaultText>「別叫我的名字，他還在這兒嗎？」圖哈僅僅歪了歪頭，每個字都是輕聲說出來的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[掃視人群，看看有沒有什麼值得注意的事情。]</DefaultText>
+      <DefaultText>[掃視人群，看看有沒有什麼值得注意的事情]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>正當你打算放棄的時候，一個路過的胡亞納人抬起頭，瞄了一眼，之後在紙上匆忙地寫下了什麼。他把筆記放在口袋裡，融入了人群之中。雖然行為本身並不值得注意，但那個人的動作又快又利落，這讓你起了疑心。</DefaultText>
+      <DefaultText>正當你打算放棄的時候，一個路過的 &lt;g&gt;胡亞納&lt;/g&gt;人抬起頭，瞄了一眼，之後在紙上匆忙地寫下了什麼。他把筆記放在口袋裡，融入了人群之中。雖然行為本身並不值得注意，但那個人的動作又快又利落，這讓你起了疑心。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,12 +68,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「就像我說的那樣，他是個胡亞納人，而且我見過他在紙上寫著什麼東西。」</DefaultText>
+      <DefaultText>「就像我說的那樣，他是個 &lt;g&gt;胡亞納&lt;/g&gt;人，而且我見過他在紙上寫著什麼東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「就像所有擅長跟蹤的人一樣，只要他混進了國王港的人群裡，你就根本沒辦法把他認出來。或許他們就是因為這一點，才讓他來跟蹤我吧。」圖哈撅起了嘴。</DefaultText>
+      <DefaultText>「就像所有擅長跟蹤的人一樣，只要他混進了 國王港 的人群裡，你就根本沒辦法把他認出來。或許他們就是因為這一點，才讓他來跟蹤我吧。」圖哈撅起了嘴。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,7 +93,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「他是個胡亞納人，中等個子，我以前見過他在紙上寫了些什麼東西。」</DefaultText>
+      <DefaultText>「他是個 &lt;g&gt;胡亞納&lt;/g&gt;人，中等個子，我以前見過他在紙上寫了些什麼東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +128,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[撒謊] 「司坎在上啊，他朝這邊來了！」</DefaultText>
+      <DefaultText>[撒謊]「司坎 在上啊，他朝這邊來了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「有人在跟蹤我，我覺得是個胡亞納人。他已經跟蹤我三天了，他一直在記寫東西，一有機會就會來看我都在做些什麼。」</DefaultText>
+      <DefaultText>「有人在跟蹤我，我覺得是個 &lt;g&gt;胡亞納&lt;/g&gt;人。他已經跟蹤我三天了，他一直在記寫東西，一有機會就會來看我都在做些什麼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,7 +198,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「我教會了她怎麼擠馬奶，她教會了我怎麼看瓦利亞日晷。這種相識關係，讓我們都……受益匪淺。」</DefaultText>
+      <DefaultText>「我教會了她怎麼擠馬奶，她教會了我怎麼看 &lt;g&gt;瓦利亞&lt;/g&gt;日晷。這種相識關係，讓我們都……受益匪淺。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,7 +254,7 @@
     <Entry>
       <ID>60</ID>
       <DefaultText>「麥婭，我希望你的……朋友能學會用腦子思考。」圖哈交叉雙臂，等待著。</DefaultText>
-      <FemaleText>「麥婭，我希望你的……朋友能學會用腦子思考。」 圖哈交叉雙臂，等待著。</FemaleText>
+      <FemaleText>「麥婭，我希望你的……朋友能學會用腦子思考。」圖哈交叉雙臂，等待著。</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
@@ -283,7 +283,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「如果你不這麼想，就是在侮辱我了。我們所有人都做好了為努瓦泰犧牲的準備。」圖哈伸了伸肩膀，站得更直了。</DefaultText>
+      <DefaultText>「如果你不這麼想，就是在侮辱我了。我們所有人都做好了為 &lt;g&gt;努瓦泰&lt;/g&gt;犧牲的準備。」圖哈伸了伸肩膀，站得更直了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,7 +293,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>「如果犧牲能為亡焰列島帶來和平，能讓我的故鄉繁榮昌盛，那我願意冒這個險。」圖哈向你點著頭，做了個堅定的手勢，語氣中帶著熱切的渴望。</DefaultText>
+      <DefaultText>「如果犧牲能為 &lt;g&gt;亡焰列島&lt;/g&gt;帶來和平，能讓我的故鄉繁榮昌盛，那我願意冒這個險。」圖哈向你點著頭，做了個堅定的手勢，語氣中帶著熱切的渴望。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,7 +304,7 @@
     <Entry>
       <ID>76</ID>
       <DefaultText>「有時候，我希望我也能像他這麼有信心。」麥婭朝你皺著眉頭，語氣帶著不確定的意味。</DefaultText>
-      <FemaleText>「有時候，我希望我也能像她這麼有信心。」 麥婭朝你皺著眉頭，語氣帶著不確定的意味。</FemaleText>
+      <FemaleText>「有時候，我希望我也能像她這麼有信心。」麥婭朝你皺著眉頭，語氣帶著不確定的意味。</FemaleText>
     </Entry>
     <Entry>
       <ID>77</ID>
@@ -368,7 +368,7 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>「我們已經把他解決掉了，我早就說過我們能行。」麥婭眨著眼，拿出了阿蘇拉的信件。
+      <DefaultText>「我們都處理好了，我早就說過我們能行。」麥婭眨著眼，拿出了阿蘇拉的信件。
 
 圖哈一把把信件搶了過來。</DefaultText>
       <FemaleText />
@@ -395,17 +395,17 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>「我們得走了，這真是件令人高興的事情。」麥婭捏緊了拳頭，圖哈看著合約，皺了皺眉。</DefaultText>
+      <DefaultText>「我們得走了，這真是件令人高興的事情。」麥婭握堅她的手，但圖哈很不喜歡這身體接觸。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>「這麼做……已經夠了，士兵，你的表現非常出色，阿蘇拉會知道這一切的。」她退了回去，擦了擦手。</DefaultText>
+      <DefaultText>「這……就夠了，士兵，阿蘇拉會知道你表現得很好。」她退了回去，擦了擦手。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>「至於你，靈視者，努瓦泰感謝你做出的貢獻。」她僵硬地鞠了一躬。</DefaultText>
+      <DefaultText>「至於你，靈視者，&lt;g&gt;努瓦泰&lt;/g&gt;感謝你做出的貢獻。」她僵硬地鞠了一躬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -445,12 +445,12 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>「亡焰列島並不是所有人都歡迎努瓦泰人，這一點應該沒什麼好意外的。」她皺起眉頭，思考起來。</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;並不是所有人都歡迎 &lt;g&gt;努瓦泰&lt;/g&gt;人，這一點應該沒什麼好意外的。」她皺起眉頭，思考起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -510,7 +510,7 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「幹得漂亮，有了它，我就可以擺脫我們的胡亞納朋友了。或許我甚至可以捏造一些『事實』，把他的注意力從這裡引走。」她捏捏下巴，想像著接下來可能發生的事情，露出了微笑。</DefaultText>
+      <DefaultText>「幹得漂亮，有了它，我就可以擺脫我們的 &lt;g&gt;胡亞納&lt;/g&gt;朋友了。或許我甚至可以捏造一些『事實』，把他的注意力從這裡引走。」她捏捏下巴，想像著接下來可能發生的事情，露出了微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

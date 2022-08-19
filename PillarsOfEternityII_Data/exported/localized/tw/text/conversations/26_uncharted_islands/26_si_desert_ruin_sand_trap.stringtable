@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>你前面的祭壇上有一把釘刺大錘，一個基斯的頭骨因為時間久遠變成了黃色。</DefaultText>
+      <DefaultText>你前面的祭壇上有一把釘刺大錘，一個 &lt;g&gt;基斯&lt;/g&gt;的頭骨因為時間久遠變成了黃色。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[檢查顱骨。]</DefaultText>
+      <DefaultText>[檢查顱骨]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[檢查大錘。]</DefaultText>
+      <DefaultText>[檢查大錘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>基斯的頭骨是古代的，隨著時間的推移，變得很脆了。它的額頭裡有一塊奇怪的石頭。不知道它的作用是什麼。</DefaultText>
+      <DefaultText>基斯 的頭骨是古代的，隨著時間的推移，變得很脆了。它的額頭裡有一塊奇怪的石頭。不知道它的作用是什麼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[舉起祭壇上的大錘。]</DefaultText>
+      <DefaultText>[舉起祭壇上的大錘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[檢查祭壇。]</DefaultText>
+      <DefaultText>[檢查祭壇]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>這座祭壇上有古石裝飾，以前應該風光無限。雖然找到它的地方非常乾淨，但是它的底部到處都是裂縫， 邊角上的扶手偏向了右側。</DefaultText>
+      <DefaultText>這座祭壇上有古石裝飾，以前應該風光無限。雖然找到它的地方非常乾淨，但是它的底部到處都是裂縫，邊角上的扶手偏向了右側。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

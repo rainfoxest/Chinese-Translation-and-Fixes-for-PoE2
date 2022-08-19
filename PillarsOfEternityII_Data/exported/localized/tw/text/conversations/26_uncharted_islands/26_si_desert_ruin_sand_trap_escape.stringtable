@@ -11,32 +11,32 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[嘗試打開門。]</DefaultText>
+      <DefaultText>[嘗試打開門]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[對門施一個腐蝕法術。]</DefaultText>
+      <DefaultText>[對門施一個腐蝕法術]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[對門扔手雷。]</DefaultText>
+      <DefaultText>[對門扔手雷]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[對門扔一顆震盪炸彈。]</DefaultText>
+      <DefaultText>[對門扔一顆震盪炸彈]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[對門投擲一顆膿皰炸彈。]</DefaultText>
+      <DefaultText>[對門投擲一顆膿皰炸彈]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[對門扔內爆炸藥。]</DefaultText>
+      <DefaultText>[對門扔內爆炸藥]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[更用力地推。]</DefaultText>
+      <DefaultText>[更用力地推]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[放開門。]</DefaultText>
+      <DefaultText>[放開門]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[Specified 1]鬆開門。隨著基斯的一記悶擊，門砰地一聲關上了。</DefaultText>
+      <DefaultText>[Specified 1]鬆開門。隨著 &lt;g&gt;基斯&lt;/g&gt;的一記悶擊，門砰地一聲關上了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,12 +136,12 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[把門拉開。]</DefaultText>
+      <DefaultText>[把門拉開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[[Specified 1]把門打開後，就逃跑。]</DefaultText>
+      <DefaultText>[[Specified 1]把門打開後，就逃跑]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。 
+      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。
 
 你被活埋了。</DefaultText>
       <FemaleText />
@@ -188,7 +188,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。 
+      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。
 
 你被活埋了。</DefaultText>
       <FemaleText />
@@ -205,7 +205,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。 
+      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。
 
 你被活埋了。</DefaultText>
       <FemaleText />
@@ -222,7 +222,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。 
+      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。
 
 你被活埋了。</DefaultText>
       <FemaleText />
@@ -239,7 +239,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>[Specified 0]試圖施放法術，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。 
+      <DefaultText>[Specified 0]試圖施放法術，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。
 
 你被活埋了。</DefaultText>
       <FemaleText />
@@ -258,7 +258,7 @@
       <ID>73</ID>
       <DefaultText>你及時將門打開，但為時已晚。
 
-沙子已經沒過了你的嘴。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。 
+沙子已經沒過了你的嘴。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。
 
 你被活埋了。</DefaultText>
       <FemaleText />
@@ -277,7 +277,7 @@
       <ID>76</ID>
       <DefaultText>[Specified 1]努力進一步將門打開時，但[Specified 1]太晚了，
 
-沙子已經覆蓋你的嘴了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。 
+沙子已經覆蓋你的嘴了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。
 
 你被活埋了。</DefaultText>
       <FemaleText />
@@ -321,7 +321,7 @@
       <ID>84</ID>
       <DefaultText>[Specified 1]及時將門打開時，但[Specified 1]太晚了，
 
-沙子已經到你的嘴這裡了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。 
+沙子已經到你的嘴這裡了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。
 
 你被活埋了。</DefaultText>
       <FemaleText />
@@ -350,7 +350,7 @@
       <ID>91</ID>
       <DefaultText>你努力進一步將門打開，但太晚了，
 
-沙子已經覆蓋你的嘴了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。 
+沙子已經覆蓋你的嘴了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。
 
 你被活埋了。</DefaultText>
       <FemaleText />
@@ -377,7 +377,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>[抵住大門幫助隊員逃離。]</DefaultText>
+      <DefaultText>[抵住大門幫助隊員逃離]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -417,12 +417,12 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>你鬆開了門。門帶著足以碾死基斯的力量砰地一聲關上了。</DefaultText>
+      <DefaultText>你鬆開了門。門帶著足以碾死 &lt;g&gt;基斯&lt;/g&gt;的力量砰地一聲關上了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>你試圖施放法術，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。 
+      <DefaultText>你試圖施放法術，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。
 
 你被活埋了。</DefaultText>
       <FemaleText />

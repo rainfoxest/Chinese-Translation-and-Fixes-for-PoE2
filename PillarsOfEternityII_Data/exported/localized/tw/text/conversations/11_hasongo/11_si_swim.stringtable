@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[游入通道。]</DefaultText>
+      <DefaultText>[游入通道]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,7 +23,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[在通道中確定方位。]</DefaultText>
+      <DefaultText>[在通道中確定方位]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[左轉游向被封堵的房間。]</DefaultText>
+      <DefaultText>[左轉游向被封堵的房間]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[左轉。]</DefaultText>
+      <DefaultText>[左轉]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -55,7 +55,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[把門拉開。]</DefaultText>
+      <DefaultText>[把門拉開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[用撬棍撬開門。]</DefaultText>
+      <DefaultText>[用撬棍撬開門]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,7 +79,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[右轉游向餐廳。]</DefaultText>
+      <DefaultText>[右轉游向餐廳]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,7 +89,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[右轉。]</DefaultText>
+      <DefaultText>[右轉]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[繼續游。]</DefaultText>
+      <DefaultText>[繼續游]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,7 +113,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[返回。]</DefaultText>
+      <DefaultText>[返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,12 +125,12 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[游回廚房。]</DefaultText>
+      <DefaultText>[游回廚房]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[留在這裡。]</DefaultText>
+      <DefaultText>[留在這裡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -142,7 +142,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[游回廚房。]</DefaultText>
+      <DefaultText>[游回廚房]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +152,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>[留下。]</DefaultText>
+      <DefaultText>[留下]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,19 +162,19 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[游入通道。]</DefaultText>
+      <DefaultText>[游入通道]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>游了幾英尺後，你來到一塊嵌著木板的牆壁前，上面還掛著一面綠色旗幟，在水流中輕輕飄動。
 
-你左手邊的走廊還在延伸——右手邊那條已然崩塌。路很黑暗，而且被碎石殘磚阻塞著。</DefaultText>
+你左手邊的走廊還在延伸—右手邊那條已然崩塌。路很黑暗，而且被碎石殘磚阻塞著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[左轉游向廚房。]</DefaultText>
+      <DefaultText>[左轉游向廚房]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -184,17 +184,17 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>[沿著黑暗的走廊游向左邊。]</DefaultText>
+      <DefaultText>[沿著黑暗的走廊游向左邊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[游回餐廳。]</DefaultText>
+      <DefaultText>[游回餐廳]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[留下。]</DefaultText>
+      <DefaultText>[留下]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,7 +217,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[在通道中確定方位。]</DefaultText>
+      <DefaultText>[在通道中確定方位]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -227,7 +227,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>[返回。]</DefaultText>
+      <DefaultText>[返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,7 +239,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[把門拉開。]</DefaultText>
+      <DefaultText>[把門拉開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>[繼續游。]</DefaultText>
+      <DefaultText>[繼續游]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

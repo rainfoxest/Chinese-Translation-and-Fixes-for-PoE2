@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[把石頭留在原地，爬到山上。]</DefaultText>
+      <DefaultText>[把石頭留在原地，爬到山上]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,12 +33,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[檢查底座。]</DefaultText>
+      <DefaultText>[檢查底座]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[返回山腳下。]</DefaultText>
+      <DefaultText>[返回山腳下]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[把石頭推上山。]</DefaultText>
+      <DefaultText>[把石頭推上山]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,7 +63,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[按下底座。]</DefaultText>
+      <DefaultText>[按下底座]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>[讓某個人跑到繩子的另一端。]</DefaultText>
+      <DefaultText>[讓某個人跑到繩子的另一端]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,22 +88,22 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[讓[Specified 0]把繩子繫在底座上，然後拉動繩子。]</DefaultText>
+      <DefaultText>[讓[Specified 0]把繩子繫在底座上，然後拉動繩子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[讓[Specified 0]回來。]</DefaultText>
+      <DefaultText>[讓[Specified 0]回來]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[把繩子的一端繫在石頭上。]</DefaultText>
+      <DefaultText>[把繩子的一端繫在石頭上]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[讓[Specified 0]把石頭拉上去。]</DefaultText>
+      <DefaultText>[讓[Specified 0]把石頭拉上去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -202,7 +202,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>[把石頭放在底座上。]</DefaultText>
+      <DefaultText>[把石頭放在底座上]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -277,7 +277,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>[檢查石門。]</DefaultText>
+      <DefaultText>[檢查石門]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,12 +287,12 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>人們認為這些生物都是聖獸，它們服侍托墨弗艾，胡亞納人的狩獵之神。</DefaultText>
+      <DefaultText>人們認為這些生物都是聖獸，牠們服侍 托墨弗艾，&lt;g&gt;胡亞納&lt;/g&gt;人的狩獵之神。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>這扇門本身似乎就嵌在石頭裡，你沒找到能打開這道門的機械裝置。石門上雕刻著浮雕，是三隻動物的面容，兇猛而醜陋：一隻蜘蛛、一頭野豬、還有一隻獅尾虎——性情凶暴、長著利齒的貓科動物。</DefaultText>
+      <DefaultText>這扇門本身似乎就嵌在石頭裡，你沒找到能打開這道門的機械裝置。石門上雕刻著浮雕，是三隻動物的面容，兇猛而醜陋：一隻蜘蛛、一頭野豬、還有一隻獅尾虎—性情凶暴、長著利齒的貓科動物。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>[叫人來幫忙。]</DefaultText>
+      <DefaultText>[叫人來幫忙]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,17 +375,17 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>[幫助[Specified 1]推石頭。]</DefaultText>
+      <DefaultText>[幫助[Specified 1]推石頭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>[幫助[Specified 1]把石頭滾下山。]</DefaultText>
+      <DefaultText>[幫助[Specified 1]把石頭滾下山]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>[什麼都不做。]</DefaultText>
+      <DefaultText>[什麼都不做]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -400,12 +400,12 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>[召喚魔法生物幫忙。]</DefaultText>
+      <DefaultText>[召喚魔法生物幫忙]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精華回應了你的呼喚。</DefaultText>
+      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精粹回應了你的呼喚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -439,7 +439,7 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>[試試別的辦法。]</DefaultText>
+      <DefaultText>[試試別的辦法]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -449,7 +449,7 @@
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>[讓所有人都去拉繩子。]</DefaultText>
+      <DefaultText>[讓所有人都去拉繩子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -490,7 +490,7 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>[對整座山使用油膩術。]</DefaultText>
+      <DefaultText>[對整座山使用油膩術]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -500,7 +500,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>[幫助[Specified 0]一起推石頭。]</DefaultText>
+      <DefaultText>[幫助[Specified 0]一起推石頭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -544,22 +544,22 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精華回應了你的呼喚。</DefaultText>
+      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精粹回應了你的呼喚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精華回應了你的呼喚。</DefaultText>
+      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精粹回應了你的呼喚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精華回應了你的呼喚。</DefaultText>
+      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精粹回應了你的呼喚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>這扇門本身似乎就嵌在石頭裡，你沒找到能打開這道門的機械裝置。石門上雕刻著浮雕，是三隻動物的面容，兇猛而醜陋：一隻蜘蛛、一頭野豬、還有一隻獅尾虎——性情凶暴、長著利齒的貓科動物。</DefaultText>
+      <DefaultText>這扇門本身似乎就嵌在石頭裡，你沒找到能打開這道門的機械裝置。石門上雕刻著浮雕，是三隻動物的面容，兇猛而醜陋：一隻蜘蛛、一頭野豬、還有一隻獅尾虎—性情凶暴、長著利齒的貓科動物。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -569,7 +569,7 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>[召喚魔法生物幫忙。]</DefaultText>
+      <DefaultText>[召喚魔法生物幫忙]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -598,7 +598,7 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>[重新考慮使用繩子。]</DefaultText>
+      <DefaultText>[重新考慮使用繩子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -662,7 +662,7 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>「不過，你還得把它推到山上。這塊石頭之所以被稱為試煉石，就是這個原因。因為它特別重，這裡又是山坡，所以嘛——」
+      <DefaultText>「不過，你還得把它推到山上。這塊石頭之所以被稱為試煉石，就是這個原因。因為它特別重，這裡又是山坡，所以嘛—」
 
 幽靈笑了起來，搖起了頭。
 
@@ -676,7 +676,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>[帶著試煉石離開。]</DefaultText>
+      <DefaultText>[帶著試煉石離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

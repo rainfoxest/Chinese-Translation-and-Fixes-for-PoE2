@@ -13,12 +13,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「如此尊貴之人來到峽谷可真是稀客。」他有些拘謹地向你躬身。</DefaultText>
+      <DefaultText>「如此尊貴之人來到 &lt;g&gt;邊沟區&lt;/g&gt;可真是稀客。」他有些拘謹地向你躬身。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「峽谷不是個閒逛的好去處。請多小心暴徒與海盜。」</DefaultText>
+      <DefaultText>「&lt;g&gt;邊沟區&lt;/g&gt;不是個閒逛的好去處。請多小心暴徒與海盜。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,7 +53,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「這對峽谷而言十分危險。甚至可能是整座城市。
+      <DefaultText>「這對 &lt;g&gt;邊沟區&lt;/g&gt;而言十分危險。甚至可能是整座城市。
 
 「你知道點什麼？」
 
@@ -62,7 +62,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「皮特莉將幾名染病的羅帕魯人藏在家中。」</DefaultText>
+      <DefaultText>「皮特莉將幾名染病的 &lt;g&gt;羅帕魯&lt;/g&gt;藏在家中。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,12 +102,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「我並不希望懲罰他們，而是讓峽谷中的其他人得以活命。」</DefaultText>
+      <DefaultText>「我並不希望懲罰他們，而是讓 &lt;g&gt;邊沟區&lt;/g&gt;中的其他人得以活命。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「好吧，你比那個愚蠢的晨星做得好太多了。」</DefaultText>
+      <DefaultText>「Ekera，你比那個愚蠢的晨星做得好太多了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,7 +134,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「我不能理解你的意圖。不過鑒於你幫我們抓住了染病的羅帕魯人，我也不會拒絕你。」
+      <DefaultText>「我不能理解你的意圖。不過鑒於你幫我們抓住了染病的 羅帕魯，我也不會拒絕你。」
 
 他吹響口哨，升降機旁的守衛看了過來並點點頭。</DefaultText>
       <FemaleText />
@@ -143,32 +143,32 @@
       <ID>28</ID>
       <DefaultText>「你是瘋了還是不知天高地厚？那地方可是最下等之人接受懲罰的地方。」
 
-他向出口處招招手。</DefaultText>
+他往出口處揮了揮手。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「守衛會讓你過去的。不過我希望你再三思。」</DefaultText>
+      <DefaultText>「守衛會讓你過去的，不過我希望你再三思。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「去看看有美景的地方，呼吸些新鮮空氣。比如港口。或是佩瑞琪之望。」</DefaultText>
+      <DefaultText>「去看看有美景的地方，呼吸些新鮮空氣。比如港口，或是佩瑞琪之望。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「涅克塔卡有著悠久的歷史，其中一些仍然處於塵封之中。我必須親自確認。」</DefaultText>
+      <DefaultText>「涅克塔卡 有著悠久的歷史，其中一些被塵封在底下。我必須親自確認。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「我能照顧好自己。」</DefaultText>
+      <DefaultText>「我能顧好自己。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[支付200銅幣。]「也許這能讓你改變心意。」</DefaultText>
+      <DefaultText>[支付200 銅幣]「也許這能讓你改變心意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,7 +178,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>「反正不管我事，行吧。」
+      <DefaultText>「反正不管我事，ekera。」
 
 他吹響口哨，升降機旁的守衛看了過來並點點頭。</DefaultText>
       <FemaleText />
@@ -200,12 +200,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>「我們。最好。別說這個。」裘荻用警告的眼神打斷了你。</DefaultText>
+      <DefaultText>「別‧說‧這些了。」裘荻用警告的眼神打斷了你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>「說什麼傻話呢！你不覺得嗎？」泰克胡高聲叫道，並向你投來警告的目光。</DefaultText>
+      <DefaultText>「這話真是搞笑呢！你說是不是？」泰克胡高聲叫道，並向你投來警告的目光。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,7 +232,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>「去吧。總算完事了。」</DefaultText>
+      <DefaultText>「去吧。別回來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,24 +242,24 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>「可以給我講講潛民街的事情嗎？」</DefaultText>
+      <DefaultText>「可以給我講講 &lt;g&gt;潛民街&lt;/g&gt;的事情嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>「那裡是罪犯與海盜的盤踞之地。我認為像你這樣的高貴之人——也是我們胡亞納人的朋友——與那裡毫無關係，不過出於好奇心……」
+      <DefaultText>「那裡是罪犯與海盜的盤踞之地。我認為像你這樣的高貴之人—也是我們 &lt;g&gt;胡亞納&lt;/g&gt;人的朋友—與那裡毫無關係，不過出於好奇心……」
 
 他湊過來向你眨眨眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「入口就在一片隧道與小巷之中，人稱『峽口』。你可以在峽谷最西邊的出口附近找到。」</DefaultText>
+      <DefaultText>「入口就在一片隧道與小巷之中，人稱『深巷』。你可以在 &lt;g&gt;邊沟區&lt;/g&gt;最西邊的出口附近找到。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「峽口附近有一處廢棄的攤位。後面就是通往潛民街的路。」
+      <DefaultText>「深巷附近有一處廢棄的攤位。後面就是通往 &lt;g&gt;潛民街&lt;/g&gt;的路。」
 
 他又一次挺直身板，想看看是否有人在聽。</DefaultText>
       <FemaleText />
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>「對啊。那裡簡直是峽谷的掌中刺——是罪犯與其邪惡交易的集中地。」他交叉雙臂揚起眉毛。</DefaultText>
+      <DefaultText>「Ekera。那裡簡直是 &lt;g&gt;邊沟區&lt;/g&gt;的掌中刺—是罪犯與其邪惡交易的集中地。」他交叉雙臂揚起眉毛。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +286,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>「那些惡人在峽谷中為非作歹，甚至也讓羅帕魯人為之墮落。我們一定要嚴守正義。」</DefaultText>
+      <DefaultText>「那些惡人在 &lt;g&gt;邊沟區&lt;/g&gt;中為非作歹，甚至也讓 &lt;g&gt;羅帕魯&lt;/g&gt;為之墮落。我們一定要嚴守正義。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「沒錯——也許你能幫我們處理掉這些罪犯，就像之前那個愚蠢的晨星女祭司一樣？」他朝你狡黠地笑笑。</DefaultText>
+      <DefaultText>「沒錯—也許你能幫我們處理掉這些罪犯，就像之前那個愚蠢的晨星女祭司一樣？」他朝你狡黠地笑笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「舊城啊。那座受到諸神詛咒的廢墟中滿是行屍走肉與來自深淵的異種。」</DefaultText>
+      <DefaultText>「舊城啊，ekera。那座受到諸神詛咒的廢墟中滿是行屍走肉與來自深淵的異種。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,12 +321,12 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>「當心了。外來人不該到峽谷。」</DefaultText>
+      <DefaultText>「當心了。外來人不該到 邊沟區。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>「德理奧准許我使用升降機前往地下室。」</DefaultText>
+      <DefaultText>「德理奧准許我使用升降機前往地下洞室。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,12 +336,12 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「有點兒意思。因為這架升降機通往舊城。我聽說潛民街有架升降機是前往地下室的……」他瞇起眼睛。</DefaultText>
+      <DefaultText>「有點兒意思。因為這架升降機通往舊城。我聽說 &lt;g&gt;潛民街&lt;/g&gt;有架升降機是前往地下洞室的……」他瞇起眼睛。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>「……而潛民街是罪犯的好去處，尤以德理奧為最。
+      <DefaultText>「……而 &lt;g&gt;潛民街&lt;/g&gt;是罪犯的好去處，尤以德理奧為最。
 
 「我發誓要對這些罪犯施以懲戒。還有他們的幫兇。」
 
@@ -362,7 +362,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>「我覺得是有人利用了你。你在城中要多加小心——這裡少有你這樣尊貴之人。」他帶著擔憂的眼神看著你。</DefaultText>
+      <DefaultText>「我覺得是有人利用了你。你在城中要多加小心—這裡少有你這樣尊貴之人。」他帶著擔憂的眼神看著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -377,7 +377,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「別惹麻煩好吧？」</DefaultText>
+      <DefaultText>「別惹麻煩，ekera？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -387,12 +387,12 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>「我們只會對找麻煩的人施以懲戒！」他強硬地說道，不過看到泰克胡後又停了下來。</DefaultText>
+      <DefaultText>「我們只會對製造麻煩的人施以懲戒！」他振振有辭地說道，不過看到泰克胡後又停了下來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>「這裡的懲戒是指處死，還有有更嚴重的？」泰克胡的聲音有些猶豫。</DefaultText>
+      <DefaultText>「而那懲戒是指處死，甚至更嚴重的？」泰克胡的聲音有些猶豫。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -412,7 +412,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>「你讓絕望之人徹底毀滅。真是全胡亞納人的悲傷之日。」</DefaultText>
+      <DefaultText>「你讓絕望之人徹底毀滅。真是全 &lt;g&gt;胡亞納&lt;/g&gt;人的悲傷之日。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,12 +432,12 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>「你一定是羅帕魯的鬥士了。你身上似乎有一股被誤導的愛管閒事之人的臭味。」</DefaultText>
+      <DefaultText>「你一定是 &lt;g&gt;羅帕魯&lt;/g&gt;的鬥士了。Ekera，你身上似乎有一股被誤導的愛管閒事之人的臭味。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>「你想要為過去的錯誤贖罪？這是個好的開端。」他鼓勵地朝你點點頭。</DefaultText>
+      <DefaultText>「你想要為過去的錯誤贖罪？這是個好的開端，ekera。」他鼓勵地朝你點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -462,19 +462,19 @@
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>他哈哈大笑。「你假裝不知道這事情？真是好笑。」</DefaultText>
+      <DefaultText>他哈哈大笑。「你假裝不知道這事情？真是好笑，ekera。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>「那裡就是一個蟲巢，這個大洞裡面唯一一個比你喜歡的羅帕魯待的破棚子還要噁心的地方。」</DefaultText>
+      <DefaultText>「那裡就是一個蟲巢，這個大洞裡面唯一一個比你喜歡的 &lt;g&gt;羅帕魯&lt;/g&gt;待的破棚子還要噁心的地方。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
       <DefaultText>「升降梯會在那裡停半天。這段時間你應該能夠恢復理智了。
 
-「之後就自生自滅吧。」</DefaultText>
+「越時了的話，你就自生自滅。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

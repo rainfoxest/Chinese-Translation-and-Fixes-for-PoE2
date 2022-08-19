@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「不，不是艾德爾！「不，這不可能！」</DefaultText>
+      <DefaultText>「不，不要是艾德爾！這不可能！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「努瓦泰的神射手也不過如此。」</DefaultText>
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;的神射手也不過如此。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「我的天啊。我會想那個令人作惡的傢伙的。」</DefaultText>
+      <DefaultText>「Madiccho。我會想那個令人作惡的傢伙的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「泰克胡走了，靈視者。沒什麼為他做的。」</DefaultText>
+      <DefaultText>「泰克胡走了，靈視者。這裡沒有什麼可以幫到他。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「靈視者！我們已經失去了一個人！」</DefaultText>
+      <DefaultText>「靈視者！我們失去了一個人！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,17 +61,17 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「艾德爾已經平靜下來！」</DefaultText>
+      <DefaultText>「艾德爾倒下了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「努瓦泰出去了。」</DefaultText>
+      <DefaultText>「那個 &lt;g&gt;努瓦泰&lt;/g&gt;人倒下了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>需要腳本</DefaultText>
+      <DefaultText>NEED SCRIPTING</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「蒼白者已經倒下！」</DefaultText>
+      <DefaultText>「白皮膚那個經倒下！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,22 +101,22 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>「我們失去了隊友！」</DefaultText>
+      <DefaultText>「我們的隊友倒下了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>我的天啊！我失手了！」</DefaultText>
+      <DefaultText>「Madiccho！我失手了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「該死！我幾乎就要完成了！」</DefaultText>
+      <DefaultText>「Merla！我幾乎就要完成了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「五陽兄弟會萬歲！"</DefaultText>
+      <DefaultText>「五陽兄弟會萬歲！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,12 +136,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「抱歉。我不能。」</DefaultText>
+      <DefaultText>「Sientere，辦不到。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>「嗯。」</DefaultText>
+      <DefaultText>「Ac.」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,27 +151,27 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>「馬上。」</DefaultText>
+      <DefaultText>「立馬去做。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「太好了！」</DefaultText>
+      <DefaultText>「Belfetto!」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>「饒了我吧！」</DefaultText>
+      <DefaultText>「Nea complanca!」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>「此話當真？我怎麼會偏那麼多？」</DefaultText>
+      <DefaultText>「Di verus？我怎麼會偏那麼多？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>「這真是……可怕。」</DefaultText>
+      <DefaultText>「這實在是……太糟糕。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>「祝你平安。」</DefaultText>
+      <DefaultText>「Corès.」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「蠢貨！小心腳下！」</DefaultText>
+      <DefaultText>「Postenago！瞄準一點！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,17 +216,17 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>「嗯。還是我，你的聖武士帕……帕蕾吉娜。」</DefaultText>
+      <DefaultText>「Ac。還是我，你的夥伴帕蕾吉娜……那個聖武士。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>「如果你還保持這樣，我就要把你的眼珠挖出來了，說真的。」</DefaultText>
+      <DefaultText>「要是你繼續這樣子，我就要把你的眼珠挖出來了，di verus。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「不好意思，離我遠點吧。」</DefaultText>
+      <DefaultText>「Per complanca，別再搞我。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>「Cue？！受困！」</DefaultText>
+      <DefaultText>「Cuè？！困住了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>「我沒地兒了。抱歉。」</DefaultText>
+      <DefaultText>「我沒地兒了。Sientere。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,12 +276,12 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>「嗯。我是他們派來的先遣隊員。」</DefaultText>
+      <DefaultText>「Ac。我來打頭陣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>「順便訪問我的位置。」</DefaultText>
+      <DefaultText>「跟我上。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>「該死！這是……在考驗我的忍耐力！」</DefaultText>
+      <DefaultText>「Merla！這是……在考驗我的忍耐力！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,12 +311,12 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>「饒命，我堅持不下去了。」</DefaultText>
+      <DefaultText>「Per complanca，我堅持不下去了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>「毒藥！」</DefaultText>
+      <DefaultText>「有毒！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,27 +346,27 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>「Cue？」</DefaultText>
+      <DefaultText>「Cuè?」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>「嗯。」</DefaultText>
+      <DefaultText>「Ac.」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>我的天啊！我需要試試別的東西！」</DefaultText>
+      <DefaultText>「Madiccho！我需要試試別的東西！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>「沒用！我過不去！」</DefaultText>
+      <DefaultText>「沒用！我的攻擊沒有效！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>「搞定。萬塞爾。」</DefaultText>
+      <DefaultText>「搞定。Vaccile。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,12 +386,12 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>「蠢貨？你傻了嗎？」</DefaultText>
+      <DefaultText>「Postenago？你傻了嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>「靈視者！「你們在幹什麼？」</DefaultText>
+      <DefaultText>「靈視者！你們在幹什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,7 +431,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>「一次奇異的購買，靈視者。」</DefaultText>
+      <DefaultText>「買這個真是奇怪，靈視者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,12 +456,12 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>「榮幸之至，朋友。」</DefaultText>
+      <DefaultText>「榮幸之至，aimico。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「榮幸之至，朋友。」</DefaultText>
+      <DefaultText>「榮幸之至，aimica。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,12 +471,12 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>「為你效勞，朋友。」</DefaultText>
+      <DefaultText>「為你效勞，aimico。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「為你效勞，朋友。」</DefaultText>
+      <DefaultText>「為你效勞，aimica。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>「那個煩人的鄉下姑娘終於死了。平安，蠢貨。」</DefaultText>
+      <DefaultText>「那個煩人的鄉下姑娘終於死了。Corès，postenago。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

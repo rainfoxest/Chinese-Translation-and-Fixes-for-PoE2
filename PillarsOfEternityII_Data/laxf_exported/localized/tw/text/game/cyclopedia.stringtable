@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\cyclopedia</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>2</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>1082</ID>
-      <DefaultText>這本旅行者指南是寫給亡焰列島的新來者的。有一段很醒目：
+ <Name>game\cyclopedia</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>2</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>1082</ID>
+     <DefaultText>這本旅行者指南是寫給 &lt;g&gt;亡焰列島&lt;/g&gt;的新來者的。有一段很醒目：
 
 「要不惜一切代價避開蜘蛛貝蘭嘉。她對群島是個威脅，有著傳說級體型的恐怖毒物。她貪婪的幼崽會蜂湧向大意的旅行者，而如果她的任何一個子嗣受到了傷害，她的憤怒則是超乎所有想像的。找上她後果自負。
 
-亡焰列島來訪者保護協會對已知風險造成的傷害概不負責，並已盡一切努力讓旅行者遠離以下坐標：8° 53' 北 45° 25' 東。」
+ &lt;g&gt;亡焰列島&lt;/g&gt;來訪者保護協會對已知風險造成的傷害概不負責，並已盡一切努力讓旅行者遠離以下坐標：8° 53' 北 45° 25' 東。」
 
-一張用骷髏頭形狀的蠟封標記出貝蘭嘉位置的地圖。它指向昂德拉之臼西面的一座島嶼。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1083</ID>
-      <DefaultText>這本旅行者指南是寫給亡焰列島的新來者的。有一段很醒目：
+一張用骷髏頭形狀的蠟封標記出貝蘭嘉位置的地圖。它指向 &lt;g&gt;昂德拉&lt;/g&gt;之臼西面的一座島嶼。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1083</ID>
+     <DefaultText>這本旅行者指南是寫給 &lt;g&gt;亡焰列島&lt;/g&gt;的新來者的。有一段很醒目：
 
 「別把病畜餵給豪尼奧威。由於誤入歧途的朝聖者將它奉若神明，那個原生怪物已經長得像山一樣大。
 
 一個可怕的警告：豪尼奧威會吐出一種共生體，&lt;i&gt;傷害&lt;/i&gt;靜止的寄主，在活動的寄主身上&lt;i&gt;繁殖&lt;/i&gt;。不惜一切代價避開這頭生物將防止重大危險、&lt;i&gt;感染&lt;/i&gt;和死亡的可能性。
 
-和往常一樣，亡焰列島來訪者保護協會對已知風險造成的傷害概不負責，並已盡一切努力讓旅行者遠離以下坐標：25° 52' 南 34° 22' 東。」
+和往常一樣，&lt;g&gt;亡焰列島&lt;/g&gt;來訪者保護協會對已知風險造成的傷害概不負責，並已盡一切努力讓旅行者遠離以下坐標：25° 52' 南 34° 22' 東。」
 
 一張用骷髏頭形狀的蠟封標記出豪尼奧威位置的地圖。它指向襯艙城南部一片礁湖。</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

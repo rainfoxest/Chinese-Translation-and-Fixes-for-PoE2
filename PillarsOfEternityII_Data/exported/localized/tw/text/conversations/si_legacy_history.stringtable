@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「選擇你的遺贈，靈視者。你在抵達亡焰列島前經歷過什麼？」</DefaultText>
+      <DefaultText>「選擇你的歷險，靈視者。你在抵達亡焰列島前經歷過什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「空嬰危機。」&lt;color="red"&gt;（必要——未完成）&lt;/color&gt;</DefaultText>
+      <DefaultText>「&lt;g&gt;空嬰&lt;/g&gt;危機。」&lt;color="red"&gt;（必要—未完成）&lt;/color&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「奧德·努亞的無終古徑。」</DefaultText>
+      <DefaultText>「&lt;g&gt;奧德·努亞&lt;/g&gt;的無終古徑。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,14 +51,14 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「你希望建立什麼樣的空嬰危機事件？
+      <DefaultText>「你希望建立什麼樣的 &lt;g&gt;空嬰&lt;/g&gt;危機事件？」
 
-繼續之前，你必須在以下列出的每項事件中做出選擇。」</DefaultText>
+「繼續之前，你必須在以下列出的每項事件中做出選擇。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「在白際山中，你想決定哪些事件？」</DefaultText>
+      <DefaultText>「在 &lt;g&gt;白際山&lt;/g&gt;中，你想決定哪些事件？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「在奧德·努亞中，你想決定哪些事件？」</DefaultText>
+      <DefaultText>「在 &lt;g&gt;奧德·努亞&lt;/g&gt;中，你想決定哪些事件？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,7 +83,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[完成遺贈。]</DefaultText>
+      <DefaultText>[完成歷險]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,12 +98,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「我將靈魂歸還給貝拉斯之輪。」</DefaultText>
+      <DefaultText>「我將靈魂歸還給神輪。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「我將靈魂歸還給它們本來的身體。」</DefaultText>
+      <DefaultText>「我將靈魂歸還給他們本來的身體。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,12 +113,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「我將靈魂精粹分配給鹿林。」</DefaultText>
+      <DefaultText>「我將靈魂精粹分配給 鹿林。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「我將靈魂獻給了娥狄卡。」</DefaultText>
+      <DefaultText>「我將靈魂獻給了 娥狄卡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,22 +128,22 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「空嬰危機設定完成。」</DefaultText>
+      <DefaultText>「&lt;g&gt;空嬰&lt;/g&gt;危機就這樣子了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「撒奧斯·壹·阿卡農的靈魂的命運。」&lt;color="red"&gt;（必要）&lt;/color&gt;</DefaultText>
+      <DefaultText>「撒奧斯·伊克斯·阿卡農的靈魂的命運。」&lt;color="red"&gt;（必要）&lt;/color&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「撒奧斯的靈魂怎麼樣了？」</DefaultText>
+      <DefaultText>「&lt;g&gt;撒奧斯&lt;/g&gt;的靈魂怎麼樣了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「我將他的靈魂歸還給貝拉斯之輪。」</DefaultText>
+      <DefaultText>「我將他的靈魂歸還給神輪。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,22 +163,22 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「確定我在鑄魂學審判上的立場。」&lt;color="red"&gt;（必要）&lt;/color&gt;</DefaultText>
+      <DefaultText>「確定我在 &lt;g&gt;鑄魂學&lt;/g&gt;審判上的立場。」&lt;color="red"&gt;（必要）&lt;/color&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>「你對鑄魂學的態度如何？」</DefaultText>
+      <DefaultText>「你對 &lt;g&gt;鑄魂學&lt;/g&gt;的態度如何？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>「鑄魂學可以繼續存在於鹿林。」</DefaultText>
+      <DefaultText>「&lt;g&gt;鑄魂學&lt;/g&gt;可以繼續存在於 鹿林。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「鑄魂學應該在鹿林被禁止。」</DefaultText>
+      <DefaultText>「&lt;g&gt;鑄魂學&lt;/g&gt;應該在 &lt;g&gt;鹿林&lt;/g&gt;被禁止。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「你向誰宣了誓？」</DefaultText>
+      <DefaultText>「你向哪位神宣了誓？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,12 +298,12 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>「我沒能滿足他的請求。」</DefaultText>
+      <DefaultText>「我沒能完成他的請求。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「我重塑了艾德爾的信念。」</DefaultText>
+      <DefaultText>「我重燃了艾德爾的信仰。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,22 +323,22 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>「他致力於解散灰鑰社並接納了伊莎彌兒。」</DefaultText>
+      <DefaultText>「他致力於解散 &lt;g&gt;灰鑰社&lt;/g&gt;並接納了 &lt;g&gt;伊莎彌兒&lt;/g&gt;。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>「他致力於解散灰鑰社並淨化了伊莎彌兒。」</DefaultText>
+      <DefaultText>「他致力於解散 &lt;g&gt;灰鑰社&lt;/g&gt;並淨化了 &lt;g&gt;伊莎彌兒&lt;/g&gt;。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>「他成了灰鑰社社長並接納了伊莎彌兒。」</DefaultText>
+      <DefaultText>「他成了 &lt;g&gt;灰鑰社&lt;/g&gt;首領並接納了 &lt;g&gt;伊莎彌兒&lt;/g&gt;。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「他成了灰鑰社社長並淨化了伊莎彌兒。」</DefaultText>
+      <DefaultText>「他成了 &lt;g&gt;灰鑰社&lt;/g&gt;首領並淨化了 &lt;g&gt;伊莎彌兒&lt;/g&gt;。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -353,12 +353,12 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>「我讓他相信瑪珈嵐與娥狄卡合謀了。」</DefaultText>
+      <DefaultText>「我讓他相信 &lt;g&gt;瑪珈嵐&lt;/g&gt;與 &lt;g&gt;娥狄卡&lt;g&gt;合謀了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>「我沒能讓他相信瑪珈嵐與娥狄卡合謀了。」</DefaultText>
+      <DefaultText>「我沒能讓他相信 &lt;g&gt;瑪珈嵐&lt;/g&gt;與 &lt;g&gt;娥狄卡&lt;g&gt;合謀了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -373,7 +373,7 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>「卡納的幻覺消失了，他為努瓦泰的後孤立主義者發聲。」</DefaultText>
+      <DefaultText>「卡納變得心灰意冷，他在 &lt;g&gt;努瓦泰&lt;/g&gt;發出了支持孤立主義的聲音。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -383,22 +383,22 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>「卡納在努瓦泰成為受人尊敬的先鋒之聲。」</DefaultText>
+      <DefaultText>「卡納成為了 &lt;g&gt;努瓦泰&lt;/g&gt;的一個受人尊敬的進步聲音。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>「卡納在努瓦泰成為和藹可親的怪人。」</DefaultText>
+      <DefaultText>「卡納在 &lt;g&gt;努瓦泰&lt;/g&gt;成為和藹可親的怪人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>「卡納在奧德·努亞的無終古徑消失了。」</DefaultText>
+      <DefaultText>「卡納在 &lt;g&gt;奧德·努亞&lt;/g&gt;的無終古徑中消失了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>「卡納放棄自己的研究，返回努瓦泰並成為了一名嫻靜的學者。」</DefaultText>
+      <DefaultText>「卡納放棄自己的研究，返回努瓦泰並成為了一名嫻靜的史學者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -413,12 +413,12 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>「帕蕾吉娜接受了公爵的命令。」</DefaultText>
+      <DefaultText>「帕蕾吉娜順從了 &lt;g&gt;公爵&lt;/g&gt;的命令。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>「帕蕾吉娜拒絕了公爵的命令。」</DefaultText>
+      <DefaultText>「帕蕾吉娜違抗了 &lt;g&gt;公爵&lt;/g&gt;的命令。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -448,7 +448,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>「我沒能滿足她的請求。」</DefaultText>
+      <DefaultText>「我沒有完成她的請求。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -483,7 +483,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>「他記錄了掌秘人的塔詹遺產。」</DefaultText>
+      <DefaultText>「他與掌秘人記錄了塔詹的遺產。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -513,22 +513,22 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>「峭巖絕壁之圍。」</DefaultText>
+      <DefaultText>「峭巖堡之圍。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>「經匣之諾。」</DefaultText>
+      <DefaultText>「經匣的承諾。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>「你最後怎麼處理的白鑄爐靈魂？」</DefaultText>
+      <DefaultText>「你最後怎麼處理白鑄爐的靈魂？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>「我釋放了靈魂。」</DefaultText>
+      <DefaultText>「我解放了那些靈魂。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -548,12 +548,12 @@
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>「他們去重塑亞拜登了。」</DefaultText>
+      <DefaultText>「他們去重塑 &lt;g&gt;亞拜登&lt;/g&gt;了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>「他們返回了貝拉斯之輪。」</DefaultText>
+      <DefaultText>「他們返回了神輪。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -563,7 +563,7 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>「我饒了他一名，但要求他離開。」</DefaultText>
+      <DefaultText>「我饒了他一命，但要求他離開。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -578,7 +578,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>「在峭巖絕壁發生了什麼？」</DefaultText>
+      <DefaultText>「在峭巖堡發生了什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -593,7 +593,7 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>「我沒能解圍。」</DefaultText>
+      <DefaultText>「我沒有解圍。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -628,7 +628,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>「貝拉斯擁護者。」</DefaultText>
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;的勇士。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -648,7 +648,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>「死亡守衛瑞德利克怎麼樣了？」</DefaultText>
+      <DefaultText>「死亡衛士瑞德利克怎麼樣了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -678,7 +678,7 @@
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>「我擊敗了瑞德利克的崛起形態。」</DefaultText>
+      <DefaultText>「我擊敗了瑞德利克的重生形態。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -723,7 +723,7 @@
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>「劍刃沒能重鑄。」</DefaultText>
+      <DefaultText>「劍刃沒有重鑄。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -758,7 +758,7 @@
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>「不滅遺產。」</DefaultText>
+      <DefaultText>「不滅古蹟。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -778,12 +778,12 @@
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>「他的黑歷史。」</DefaultText>
+      <DefaultText>「他以前的自己。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>「沃艾珥寓言。」</DefaultText>
+      <DefaultText>「沃艾珥的寓言。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -803,7 +803,7 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>「《潘哲拉姆定理》怎麼樣了？」</DefaultText>
+      <DefaultText>「潘哲拉姆定理怎麼樣了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -853,7 +853,7 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>「我把涅黛恩扭送給了葛琳達。」</DefaultText>
+      <DefaultText>「我向葛琳達舉報了涅黛恩。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -868,27 +868,27 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>「我提醒菲爾加，瑪珈嵐有多強大。」</DefaultText>
+      <DefaultText>「我提醒菲爾加關於 &lt;g&gt;瑪珈嵐&lt;/g&gt;有多強大。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>「我提醒菲爾加，瑪珈嵐還有試煉。」</DefaultText>
+      <DefaultText>「我提醒菲爾加關於 &lt;g&gt;瑪珈嵐&lt;/g&gt;的試煉。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>「我讓菲爾加意識到她不值得加入瑪珈嵐的試煉。」</DefaultText>
+      <DefaultText>「我讓菲爾加意識到她不配參與 &lt;g&gt;瑪珈嵐&lt;/g&gt;的試煉。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>「我讓菲爾加繼續被信念洗腦。」</DefaultText>
+      <DefaultText>「我讓菲爾加失去信仰。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>「你如何解決灰鑰社的問題？」</DefaultText>
+      <DefaultText>「你如何解決 &lt;g&gt;灰鑰社&lt;/g&gt;的問題？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -913,12 +913,12 @@
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>「我清除伊萊絲的記憶並把她支走了。」</DefaultText>
+      <DefaultText>「我清除伊萊絲的記憶並叫她逃走了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>「我告訴哈倫德領主：伊萊絲墮落了。」</DefaultText>
+      <DefaultText>「我告訴哈倫德領主，伊萊絲被洗腦了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -928,32 +928,32 @@
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>「他的黑歷史結局如何了？」</DefaultText>
+      <DefaultText>「他以前的自己結局如何了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>「我殺了奈里德，但普尼斯克仍然在飛幻葉果。」</DefaultText>
+      <DefaultText>「我殺了奈尼德，但普尼斯克仍然在賣幻葉果。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>「我與奈里德達成交易並留下他繼續總管。」</DefaultText>
+      <DefaultText>「我與奈尼德達成交易並讓他繼續作主。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>「沃艾珥寓言的結局如何了？」</DefaultText>
+      <DefaultText>「&lt;g&gt;沃艾珥&lt;/g&gt;寓言的結局如何了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>「我將《沃艾珥寓言》歸還給葛琳達。」</DefaultText>
+      <DefaultText>「我將《&lt;g&gt;沃艾珥&lt;/g&gt;寓言》歸還給葛琳達。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>「我把《沃艾珥寓言》藏起來了。」</DefaultText>
+      <DefaultText>「我把《&lt;g&gt;沃艾珥&lt;/g&gt;寓言》藏起來了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -968,17 +968,17 @@
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>「進入白鑄爐。」</DefaultText>
+      <DefaultText>「進入白茫虛空。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>「雲端之巢。」</DefaultText>
+      <DefaultText>「雲上之巢。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>「白際山的事情說完了。」</DefaultText>
+      <DefaultText>「&lt;g&gt;白際山&lt;/g&gt;的事情說完了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -988,7 +988,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>「奧德·努亞的事情說完了。」</DefaultText>
+      <DefaultText>「&lt;g&gt;奧德·努亞&lt;/g&gt;的事情說完了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1003,7 +1003,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>「小絨精維拉怎麼樣了？」</DefaultText>
+      <DefaultText>「那個絨精嬰兒維拉怎麼樣了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1013,7 +1013,7 @@
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>「我奪走嬰兒並殺了塞莫克。」</DefaultText>
+      <DefaultText>「我奪走了嬰兒並殺了塞莫克。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1023,22 +1023,22 @@
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>「我奪走嬰兒並留了賽莫克一條活路。」</DefaultText>
+      <DefaultText>「我奪走了嬰兒並留了賽莫克一條活路。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>「雷斯丁與伊羅娜怎麼樣了？」</DefaultText>
+      <DefaultText>「睿斯汀與艾羅娜怎麼樣了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>「我殺了雷斯丁與伊羅娜。」</DefaultText>
+      <DefaultText>「我殺了睿斯汀與艾羅娜。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>「我殺了雷斯丁並說服伊羅娜自殺。」</DefaultText>
+      <DefaultText>「我殺了睿斯汀並說服艾羅娜自殺。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1063,17 +1063,17 @@
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>「我重傷天空龍並把它趕跑了。」</DefaultText>
+      <DefaultText>「我重傷天空龍並把牠趕跑了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>「我允許天空龍留下並說服海麗婭讓她留下。」</DefaultText>
+      <DefaultText>「我允許天空龍留下並說服海麗婭讓牠留下。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>「她原諒自己的往事，並好好享受新生。」</DefaultText>
+      <DefaultText>「她忘記了自己的往事，並好好享受新生。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1213,7 +1213,7 @@
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>[不建立遺贈。]</DefaultText>
+      <DefaultText>[不建立歷險]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1248,7 +1248,7 @@
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>「我將他的靈魂釋放給貝拉斯之輪。」</DefaultText>
+      <DefaultText>「我將他的靈魂釋放回神輪。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1263,7 +1263,7 @@
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>「沒有——我跟他們全都樹敵了。」</DefaultText>
+      <DefaultText>「沒有—我跟他們全都樹敵了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1293,7 +1293,7 @@
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>「我跟他碰面並接受了他的賄賂。」</DefaultText>
+      <DefaultText>「我跟他對質並接受了他的賄賂，因此沒作聲。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1323,7 +1323,7 @@
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>「我殺了奈里德，普尼斯克不再碰幻葉果了。」</DefaultText>
+      <DefaultText>「我殺了奈尼德，普尼斯克不再碰幻葉果了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1333,7 +1333,7 @@
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>「我允許天空龍留下，海麗婭發火了。」</DefaultText>
+      <DefaultText>「我允許天空龍留下，&lt;g&gt;海麗婭&lt;/g&gt;發火了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1353,7 +1353,7 @@
     </Entry>
     <Entry>
       <ID>375</ID>
-      <DefaultText>「我讓她確信搜尋佩索克沒有意義。」</DefaultText>
+      <DefaultText>「我說服她搜尋佩索克是沒有意義。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1388,12 +1388,12 @@
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>「我把他推向了伽拉溫。」</DefaultText>
+      <DefaultText>「我讓他傾向信仰 伽拉溫。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>「我把他推向了沃艾珥。」</DefaultText>
+      <DefaultText>「我讓他傾向信仰 沃艾珥。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1418,12 +1418,12 @@
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>「我清除了她的記憶。」</DefaultText>
+      <DefaultText>「我消除了她的記憶。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>「我沒有清除她的記憶。」</DefaultText>
+      <DefaultText>「我沒有消除她的記憶。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1468,87 +1468,87 @@
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>「貝拉斯和海麗婭。」</DefaultText>
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;和 海麗婭。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>「貝拉斯和伽拉溫。」</DefaultText>
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;和 伽拉溫。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>「貝拉斯和睿姆岡。」</DefaultText>
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;和 睿姆岡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>「海麗婭和伽拉溫。」</DefaultText>
+      <DefaultText>「&lt;g&gt;海麗婭&lt;/g&gt;和 伽拉溫。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>「海麗婭和睿姆岡。」</DefaultText>
+      <DefaultText>「&lt;g&gt;海麗婭&lt;/g&gt;和 睿姆岡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>「伽拉溫和睿姆岡。」</DefaultText>
+      <DefaultText>「&lt;g&gt;伽拉溫&lt;/g&gt;和 睿姆岡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>「「貝拉斯、海麗婭和伽拉溫。」</DefaultText>
+      <DefaultText>「貝拉斯、&lt;g&gt;海麗婭&lt;/g&gt;和 伽拉溫。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>「貝拉斯、伽拉溫和睿姆岡。」</DefaultText>
+      <DefaultText>「貝拉斯、&lt;g&gt;伽拉溫&lt;/g&gt;和 睿姆岡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>「貝拉斯、海麗婭和睿姆岡。」</DefaultText>
+      <DefaultText>「貝拉斯、&lt;g&gt;海麗婭&lt;/g&gt;和 睿姆岡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>「海麗婭、伽拉溫和睿姆岡。」</DefaultText>
+      <DefaultText>「海麗婭、&lt;g&gt;伽拉溫&lt;/g&gt;和 睿姆岡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>「靈魂的命運。」（必要——已完成）</DefaultText>
+      <DefaultText>「靈魂的命運。」（必要—已完成）</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>「我向諸神的誓言。」（必要——已完成）</DefaultText>
+      <DefaultText>「我向諸神的誓言。」（必要—已完成）</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>「撒奧斯·壹·阿卡農的靈魂的命運。」（必要——已完成）</DefaultText>
+      <DefaultText>「撒奧斯·伊克斯·阿卡農的靈魂的命運。」（必要—已完成）</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>「梅沃德的命運。」（必要——已完成）</DefaultText>
+      <DefaultText>「梅沃德的命運。」（必要—已完成）</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>「確定我在鑄魂學審判上的立場。」（必要——已完成）</DefaultText>
+      <DefaultText>「確定我在 &lt;g&gt;鑄魂學&lt;/g&gt;審判上的立場。」（必要—已完成）</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>「反抗灣派系支援。」（必要——已完成）</DefaultText>
+      <DefaultText>「反抗灣派系支援。」（必要—已完成）</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
-      <DefaultText>「空嬰危機。」（必要——已完成）</DefaultText>
+      <DefaultText>「&lt;g&gt;空嬰&lt;/g&gt;危機。」（必要—已完成）</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

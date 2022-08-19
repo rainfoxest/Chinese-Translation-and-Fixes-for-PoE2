@@ -44,7 +44,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>你的水手們散去了，回到崗位上的時候都緊張嘀咕著祈禱語。你注意到有人朝外扔了幾枚硬幣，看來是想要安撫昂德拉。</DefaultText>
+      <DefaultText>你的水手們散去了，回到崗位上的時候都緊張嘀咕著祈禱語。你注意到有人朝外扔了幾枚硬幣，看來是想要安撫 昂德拉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[進入船艙。]</DefaultText>
+      <DefaultText>[進入船艙]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[回自己船上去。]</DefaultText>
+      <DefaultText>[回自己船上去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,7 +110,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <DefaultText>[使用小型望遠鏡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,7 +127,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[詢問船上醫師。]「[Specified 3]，你怎麼看？」</DefaultText>
+      <DefaultText>[詢問船上醫師]「[Specified 3]，你怎麼看？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,7 +208,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[炸開艙門，強行進入。]</DefaultText>
+      <DefaultText>[炸開艙門，強行進入]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,7 +268,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>你在船艙裡發現了幾具橫七豎八的屍體。大部分屍體身上都穿著瑞德賽農夫的樸素衣物，但是其中有一具身上穿著鎧甲——看來是一名聖武士。
+      <DefaultText>你在船艙裡發現了幾具橫七豎八的屍體。大部分屍體身上都穿著瑞德賽農夫的樸素衣物，但是其中有一具身上穿著鎧甲—看來是一名聖武士。
 
 在搜索了一段時間之後，你找到了一桶封口完好的瀝青，幾籃子鐵釘和能夠用來縫補船帆的大量帆布。</DefaultText>
       <FemaleText />

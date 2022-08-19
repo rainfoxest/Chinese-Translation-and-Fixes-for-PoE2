@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[進入森林。]</DefaultText>
+      <DefaultText>[進入森林]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[原路返回。]</DefaultText>
+      <DefaultText>[原路返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,17 +46,17 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[走左側的小路。]</DefaultText>
+      <DefaultText>[走左側的小路]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[走右側的小路。]</DefaultText>
+      <DefaultText>[走右側的小路]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[試圖返回。]</DefaultText>
+      <DefaultText>[試圖返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,12 +87,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[檢查小徑。]</DefaultText>
+      <DefaultText>[檢查小徑]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[檢查雕像。]</DefaultText>
+      <DefaultText>[檢查雕像]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[走中間的小路。]</DefaultText>
+      <DefaultText>[走中間的小路]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,17 +138,17 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[走左側的小路。]</DefaultText>
+      <DefaultText>[走左側的小路]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>[走右側的小路。]</DefaultText>
+      <DefaultText>[走右側的小路]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[試圖返回。]</DefaultText>
+      <DefaultText>[試圖返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,17 +172,17 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[離開這裡。]</DefaultText>
+      <DefaultText>[離開這裡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[待在這裡，繼續探索。]</DefaultText>
+      <DefaultText>[待在這裡，繼續探索]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,17 +211,17 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[小心翼翼地繼續前進。]</DefaultText>
+      <DefaultText>[小心翼翼地繼續前進]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[尋找敵人。]</DefaultText>
+      <DefaultText>[尋找敵人]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>[試圖逃跑。]</DefaultText>
+      <DefaultText>[試圖逃跑]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,12 +241,12 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>[離開這裡。]</DefaultText>
+      <DefaultText>[離開這裡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[待在這裡，繼續探索。]</DefaultText>
+      <DefaultText>[待在這裡，繼續探索]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,12 +258,12 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[探尋雕像的含義。]</DefaultText>
+      <DefaultText>[探尋雕像的含義]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>令你感到奇怪的是，這個探尋者以盲人的形象出現，與你對托墨弗艾一直以來的瞭解不相符。你懷疑這個探尋者的信徒崇敬盲人。</DefaultText>
+      <DefaultText>令你感到奇怪的是，這個探尋者以盲人的形象出現，與你對 &lt;g&gt;托墨弗艾&lt;/g&gt;一直以來的瞭解不相符。你懷疑這個探尋者的信徒崇敬盲人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,7 +347,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>「伽拉溫的豐饒之矛啊！我們最好把[Specified 0]救回來，如果被蜘蛛吃掉就慘了！」
+      <DefaultText>「伽拉溫 的豐饒之矛啊！我們最好把[Specified 0]救回來，如果被蜘蛛吃掉就慘了！」
 
 塞拉芬舉起武器亂劃一通，就好像隨時會有怪物再次襲擊一樣。</DefaultText>
       <FemaleText />
@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>「我們之前想得沒錯。」 康士坦丁嘟囔道。</DefaultText>
+      <DefaultText>「我們之前想得沒錯。」康士坦丁嘟囔道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>[試圖返回。]</DefaultText>
+      <DefaultText>[試圖返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

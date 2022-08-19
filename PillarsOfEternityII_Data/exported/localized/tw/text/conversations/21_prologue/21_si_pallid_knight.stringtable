@@ -1,509 +1,509 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\21_prologue\21_si_pallid_knight</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>92</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>1</ID>
-      <DefaultText>「很好，歡迎來到靈界。我是貝拉斯，或者說，只是其中一半。」
+	<Name>conversations\21_prologue\21_si_pallid_knight</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>92</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>「很好，歡迎來到靈界。我是 貝拉斯，或者說，只是其中一半。」
 
 她伸出手指，指著把你帶到這裡的那個矮人。雖然動作很輕，但她的手套發出了像鉸鏈生銹的吱吱響。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2</ID>
-      <DefaultText>「你之前已經服侍過眾神了。現在，我們似乎又需要你的協助了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4</ID>
-      <DefaultText>「你與神明的接觸讓你失去了力量，也弄亂了你的記憶。看看這些卡片，它們代表著你人生的旅程。你最清楚你的人生是怎麼度過的，按照你記憶中的樣子，排列它們的順序吧。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5</ID>
-      <DefaultText>「已經按照順序排列好了嗎？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>6</ID>
-      <DefaultText>「是的。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>7</ID>
-      <DefaultText>「不，還沒有。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>20</ID>
-      <DefaultText>「不過，在你身為我的先驅者，返回艾歐拉之前，你必須回憶起你是什麼樣的人，回憶起生命在死前最後的呢喃。」
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「你之前已經服侍過眾神了。現在，我們似乎又需要你的協助了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>「你與神明的接觸讓你失去了力量，也弄亂了你的記憶。看看這些卡片，它們代表著你人生的旅程。你最清楚你的人生是怎麼度過的，按照你記憶中的樣子，排列它們的順序吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>「已經按照順序排列好了嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>「是的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>「不，還沒有。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>「不過，在你身為我的先驅者，返回艾歐拉之前，你必須回憶起你是什麼樣的人，回憶起生命在死前最後的呢喃。」
 
 有那麼一瞬間，她眼睛的凹陷處變得黯淡下去，一個骷髏頭呈現在你面前。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>22</ID>
-      <DefaultText>「前進吧，靈視者，作為我的先驅者。要清楚，我並不是輕率地給了你這個頭銜。當時機成熟之時，你將會獲得力量，為依附於你的靈魂指示明路，打開暗空與真實世界之間的大門。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>24</ID>
-      <DefaultText>「感謝你成為我們中的一員，努亞堡的靈視者。」
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>「前進吧，靈視者，作為我的先驅者。要清楚，我並不是輕率地給了你這個頭銜。當時機成熟之時，你將會獲得力量，為依附於你的靈魂指示明路，打開 &lt;g&gt;暗空&lt;/g&gt;與真實世界之間的大門。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>「歡迎你的到來，努亞堡 的靈視者。」
 
-枯瘦的女性坐在桌子上，她身上的黑色鎧甲已經被時間銹蝕。鎧甲似乎實在太重，壓得她無法走近。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>25</ID>
-      <DefaultText>她蒼白細長的脖子從頸甲的飾領處伸出來，上面是她那張空洞的臉。她乳白色而半透明的皮膚顯得非常纖弱，彷彿一張被擦拭過太多次的羊皮紙一樣。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>26</ID>
-      <DefaultText>「沒錯，在雙榆城的晨星大廳裡。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>27</ID>
-      <DefaultText>「我……我想是的。為了獲得你的幫助，我發誓願意效忠於你。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>28</ID>
-      <DefaultText>[保持安靜。]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>30</ID>
-      <DefaultText>「你去了那座高塔，尋求我們的幫助。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>31</ID>
-      <DefaultText>「為了穿過懺悔之庭找到撒奧斯，你祈求我的幫助，但卻不願意效忠於我。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>32</ID>
-      <DefaultText>「為了穿過懺悔之庭找到撒奧斯，你祈求我的幫助，而你也願意效忠於我。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>33</ID>
-      <DefaultText>「你在影中陽的記憶模糊不清，因為你當時並沒有恪守對我的承諾。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>34</ID>
-      <DefaultText>「不過，哪怕是不願意答應承諾，也比沒有恪守的承諾更加值得讚許。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>35</ID>
-      <DefaultText>「當你在影中陽擊敗撒奧斯時，你本可以不恪守對我的承諾，但你卻沒有這麼做，真是令人欽佩。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>36</ID>
-      <DefaultText>她全神貫注地看著你桌上的紙牌。她的每個動作都使盔甲發出了吱吱嘎嘎的響聲，彷彿已經不堪重負一樣。
+一名枯瘦的女性坐在桌邊，穿著一身久經歷練的巨型黑色鎧甲，那鎧甲甚至大得好像會使她無法動彈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>她蒼白細長的脖子從頸甲的飾領處伸出來，上面是她那張空洞的臉。她乳白色而半透明的皮膚顯得非常纖弱，彷彿一張被擦拭過太多次的羊皮紙一樣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>「沒錯，在雙榆城的群星之殿裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>「我……我想是的。為了獲得你的幫助，我發誓願意效忠於你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>[保持安靜]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>「你去了那座高塔，尋求我們的幫助。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>「為了穿過懺悔之庭找到 撒奧斯，你祈求我的幫助，但卻不願意效忠於我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>「為了穿過懺悔之庭找到 撒奧斯，你祈求我的幫助，而你也願意效忠於我。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>「你在影中陽的記憶模糊不清，因為你當時並沒有恪守對我的承諾。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>「不過，哪怕是不願意答應承諾，也比沒有恪守的承諾更加值得讚許。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>「當你在影中陽擊敗 撒奧斯 時，你本可以不恪守對我的承諾，但你卻沒有這麼做，真是令人欽佩。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>她全神貫注地看著你桌上的紙牌。她的每個動作都使盔甲發出了吱吱嘎嘎的響聲，彷彿已經不堪重負一樣。
 
 她把最後一張紙牌擺在桌上，帶著滿意的神色朝你點點頭，目光迎上了你的目光。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>37</ID>
-      <DefaultText>她慢慢地將一張紙牌放在桌上，上面畫著一座高塔，但塔上卻沒有鐘。
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>她慢慢地將一張紙牌放在桌上，上面畫著一座高塔，但塔上卻沒有鐘。
 
 她的手指慢慢地將那張紙牌拖走，紙牌在桌上拖動時，發出了吱吱的聲音。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>38</ID>
-      <DefaultText>她把一張紙牌丟過來，上面畫著一座高塔上的破鐘。桌上紙牌的裂痕像一陣衝擊破一樣，彷彿要將你的靈魂撕裂。你一時之間感到天旋地轉。
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>她把一張紙牌丟過來，上面畫著一座高塔上的破鐘。桌上紙牌的裂痕像一陣衝擊破一樣，彷彿要將你的靈魂撕裂。你一時之間感到天旋地轉。
 
 她的手指慢慢地將那張紙牌拖走，紙牌在桌上拖動時，發出了吱吱的聲音。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>39</ID>
-      <DefaultText>她優雅地將一張紙牌放在桌上，上面畫著高塔上的大鐘。
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>她優雅地將一張紙牌放在桌上，上面畫著高塔上的大鐘。
 
 她的手指慢慢地將那張紙牌拖走，紙牌在桌上拖動時，發出了吱吱的聲音。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>40</ID>
-      <DefaultText>「在你的城堡之下，佔據了俄撒斯雕像的那個生物就是『已死之神』，俄撒斯。關於這一點，我們非常肯定。但我們不太清楚他為什麼要這麼做。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>41</ID>
-      <DefaultText>「雖然俄撒斯已經吸走了你絕大部分的靈魂能量，但你依然有著足夠的力量，讓你得以從大屠殺中存活下來，進入暗空。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>42</ID>
-      <DefaultText>「你與他依然聯結在一起。他選擇了由魂珀構成的身軀，體內有幾千個靈魂為他提供能量——你的靈魂也在其中。如果是經驗豐富的靈視者，想要找到他應該並不困難。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>43</ID>
-      <DefaultText>「我……死了嗎？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>44</ID>
-      <DefaultText>「你為什麼不自己來做這件事呢？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>45</ID>
-      <DefaultText>「我可不打算再接近那個東西了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>46</ID>
-      <DefaultText>「沒死，但你也算不上活著。你的肺依然能呼吸，你的心臟也依然能提供血液，但你的肉體就像空嬰一樣沒有靈魂。除非我能把你的靈魂還給你。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>47</ID>
-      <DefaultText>「在艾歐拉化身為具象形態實在是太危險了。絕大部分凡人的心智和肉體無法承受神明的力量。這可能會產生……問題，就像俄撒斯不久之前發現的那樣。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>48</ID>
-      <DefaultText>她的手戴著盔甲，小心翼翼地把一張紙牌橫放在桌上。上面沒有畫著頭像，而是一個渾身爆發出光芒的人像。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>49</ID>
-      <DefaultText>「你確實有別的選擇，靈視者。你的靈魂已經進入了靈界。你可以服侍我追蹤俄撒斯，也可以接受死亡的事實，返回貝拉斯之輪。」
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>「在你的城堡之下，佔據了 &lt;g&gt;奧德·努亞&lt;/g&gt;雕像的那個生物就是『已死之神』，俄撒斯。關於這一點，我們非常肯定。但我們不太清楚他為什麼要這麼做。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>「雖然 &lt;g&gt;俄撒斯&lt;/g&gt;已經吸走了你絕大部分的靈魂能量，但你依然有著足夠的力量，讓你得以從大屠殺中存活下來，進入 暗空。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>「你與他依然聯結在一起。他選擇了由 魂珀 構成的身軀，體內有幾千個靈魂為他提供能量—你的靈魂也在其中。如果是經驗豐富的靈視者，想要找到他應該並不困難。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>「我……死了嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>「你為什麼不自己來做這件事呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>「我可不打算再接近那個東西了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>「沒死，但你也算不上活著。你的肺依然能呼吸，你的心臟也依然能提供血液，但你的肉體就像 &lt;g&gt;空嬰&lt;/g&gt;一樣沒有靈魂。除非我能把你的靈魂還給你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>「在艾歐拉化身為具象形態實在是太危險了。絕大部分凡人的心智和肉體無法承受神明的力量。這可能會產生……問題，就像 &lt;g&gt;俄撒斯&lt;/g&gt;不久之前發現的那樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>她的手戴著盔甲，小心翼翼地把一張紙牌橫放在桌上。上面沒有畫著頭像，而是一個渾身爆發出光芒的人像。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>「你確實有別的選擇，靈視者。你的靈魂已經進入了靈界。你可以服侍我追蹤 俄撒斯，也可以接受死亡的事實，返回 貝拉斯之輪。」
 
 當她說出最後一個字之後，她的身型變得黯淡，眼窩也開始發黑了。她的面頰開始變得透明，你甚至能透過皮膚看到她發光的牙齒。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>50</ID>
-      <DefaultText>她優雅地將一張紙牌直立在桌子上，上面畫著從魂珀之柱流到外面的靈魂。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>51</ID>
-      <DefaultText>她漫不經心地把一張牌丟在桌子上。這張牌歪斜地擺在你面前。
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>她優雅地將一張紙牌直立在桌子上，上面畫著從 魂珀 之柱流到外面的靈魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>她漫不經心地把一張牌丟在桌子上。這張牌歪斜地擺在你面前。
 牌上畫著一座巨大的木輪，有的靈魂掛在輪輻上；有的靈魂緊緊地抓著輪輻；還有的靈魂沒在輪上，而是朝各個方向飛散。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>52</ID>
-      <DefaultText>「沒錯，我和你一樣想要找到他。他摧毀了我的城堡，不知道殺害了多少城堡附近的人。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>53</ID>
-      <DefaultText>「我已經受夠和神明打交道了，我受夠了灰鑰社，受夠了你們所有的神。我為什麼要關心這件事情？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>54</ID>
-      <DefaultText>「那我們就開始吧。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>55</ID>
-      <DefaultText>「&lt;i&gt;我&lt;/i&gt;知道，這是我的職責。努亞堡和周邊地區一共死了三百二十二個人。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>56</ID>
-      <DefaultText>「無論你怎麼威脅我都沒有用，我是不會去的。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>57</ID>
-      <DefaultText>「真是太遺憾了。你擁有獨一無二的天賦與能力，如果少了你這樣的人，這件事情會變得困難得多。」
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>「沒錯，我和你一樣想要找到他。他摧毀了我的城堡，不知道殺害了多少城堡附近的人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>「我已經受夠和神明打交道了，我受夠了灰鑰社，受夠了你們所有的神。我為什麼要關心這件事情？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>「那我們就開始吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>「&lt;i&gt;我&lt;/i&gt;知道，這是我的職責。努亞堡 和周邊地區一共死了三百二十二個人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>「無論你怎麼威脅我都沒有用，我是不會去的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>「真是太遺憾了。你擁有獨一無二的天賦與能力，如果少了你這樣的人，這件事情會變得困難得多。」
 
 她舉起戴著手套的手，對旁邊的矮人做了個手勢。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>58</ID>
-      <DefaultText>矮人點點頭，嘴不自然地大咧著，示意你跟著他。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>59</ID>
-      <DefaultText>「呃……我轉念一想……」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>60</ID>
-      <DefaultText>[跟著他。]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>61</ID>
-      <DefaultText>「他們的靈魂仍然在俄撒斯之中。你擁有拯救他們的能力。如果你願意服侍我，我就會讓你返回你的身體。如果不願意的話，就回到貝拉斯之輪去吧。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>62</ID>
-      <DefaultText>「那些鹿林人曾效忠於你，而如今，他們的靈魂卻在暗空之中彷徨無措。你是否在意過他們？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>63</ID>
-      <DefaultText>「當然，如果這都說服不了你的話，我會讓你返回貝拉斯之輪，再找其他人去追蹤俄撒斯。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>64</ID>
-      <DefaultText>「很好。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>65</ID>
-      <DefaultText>「我還是去貝拉斯之輪吧。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>66</ID>
-      <DefaultText>「我與晨星大廳的其他神明談過，我答應過效忠於他們了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>67</ID>
-      <DefaultText>「我不記得了……」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>69</ID>
-      <DefaultText>「你對其他的神明效忠了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>70</ID>
-      <DefaultText>「你確實那樣做了。」
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>矮人點點頭，嘴不自然地大咧著，示意你跟著他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>「呃……我轉念一想……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>[跟著他]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>「他們的靈魂仍然在 &lt;g&gt;俄撒斯&lt;/g&gt;之中。你擁有拯救他們的能力。如果你願意服侍我，我就會讓你返回你的身體。如果不願意的話，就回到 &lt;g&gt;貝拉斯之輪&lt;/g&gt;去吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>「那些 &lt;g&gt;鹿林&lt;/g&gt;人曾效忠於你，而如今，他們的靈魂卻在 &lt;g&gt;暗空&lt;/g&gt;之中彷徨無措。你是否在意過他們？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>「當然，如果這都說服不了你的話，我會讓你返回 貝拉斯之輪，再找其他人去追蹤 俄撒斯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>「很好。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>「我還是去 &lt;g&gt;貝拉斯之輪&lt;/g&gt;吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>「我與群星之殿的其他神明談過，我答應過效忠於他們了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>「我不記得了……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>「你對其他的神明效忠了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>「你確實那樣做了。」
 
 她把一張卡片擺在桌子上，卡片上畫著一座高塔，高塔周圍的天空上顯現著諸神的星座。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>71</ID>
-      <DefaultText>「找到俄撒斯，瞭解他的計劃。等我需要與你談談的時候，我會召喚你來的。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>72</ID>
-      <DefaultText>她的手快速做了個手勢，你感到胸中傳來了一陣刺痛。疼痛繼續蔓延，一直刺到了你的靈魂深處。你低下頭，看到自己的身體內出現了一個黑色的腫塊。
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>「找到 俄撒斯，瞭解他的計劃。等我需要與你談談的時候，我會召喚你來的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>她的手快速做了個手勢，你感到胸中傳來了一陣刺痛。疼痛繼續蔓延，一直刺到了你的靈魂深處。你低下頭，看到自己的身體內出現了一個黑色的腫塊。
 
 儘管黑暗徘徊不去，但在短短幾秒之後，疼痛已經徹底消失了。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>73</ID>
-      <DefaultText>「只是保險而已，別害怕，先驅者。只要你不打算與我為敵，它就不會傷害你。我相信你是不會這麼做的。」
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>「只是保險而已，別害怕，先驅者。只要你不打算與我為敵，它就不會傷害你。我相信你是不會這麼做的。」
 
 她用戴著手套的手，對旁邊的矮人做了個手勢。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>74</ID>
-      <DefaultText>矮人點點頭，臉上擰出一個古怪的笑容，示意你進入一扇新的大門。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>77</ID>
-      <DefaultText>[檢查卡片，選擇你曾做過的事情。]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>78</ID>
-      <DefaultText>「看起來，你似乎也有點記不住自己做過的事情了，就像你以前也對我立下過類似的誓言一樣。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>79</ID>
-      <DefaultText>「貝拉斯之輪為所有凡人而轉，靈視者。你得明白，總有一天，它也會為你而轉。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>80</ID>
-      <DefaultText>「不過，你依然對我保持著忠誠，真是令人欽佩。但我懷疑，那些被你背棄過誓言的人，恐怕不會願意寬恕你。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>81</ID>
-      <DefaultText>「不過，當你要做出決定的時候，你依然選擇了把那些迷失的靈魂送回貝拉斯之輪。看起來，到了最後，你還是知道什麼事情才是正確的。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>82</ID>
-      <DefaultText>「不過我懷疑，那些被你背棄過誓言的人，恐怕不會願意寬恕你。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>83</ID>
-      <DefaultText>「你對睿姆岡、海麗婭與伽拉溫也立下過類似的誓言。」
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>矮人點點頭，臉上擰出一個古怪的笑容，示意你進入一扇新的大門。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>[檢查卡片，選擇你曾做過的事情]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>「看起來，你似乎也有點記不住自己做過的事情了，就像你以前也對我立下過類似的誓言一樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>「貝拉斯之輪 為所有凡人而轉，靈視者。你得明白，總有一天，它也會為你而轉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>「不過，你依然對我保持著忠誠，真是令人欽佩。但我懷疑，那些被你背棄過誓言的人，恐怕不會願意寬恕你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>「不過，當你要做出決定的時候，你依然選擇了把那些迷失的靈魂送回 貝拉斯之輪。看起來，到了最後，你還是知道什麼事情才是正確的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>「不過我懷疑，那些被你背棄過誓言的人，恐怕不會願意寬恕你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>「你對 睿姆岡、海麗婭 與 伽拉溫 也立下過類似的誓言。」
 
 她臉上的皮膚緊繃著，嘴角翹起，露出了一個可怕的笑容。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>84</ID>
-      <DefaultText>「這一筆賬我們以後會找時間來清算的。」
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>「這一筆賬我們以後會找時間來清算的。」
 
 她沒有眨眼，漆黑的眼睛長久地盯著你，久得讓人感到不舒服。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>90</ID>
-      <DefaultText>「只是保險而已，別害怕，先驅者。只要你不打算與我為敵，它就不會傷害你。&lt;i&gt;再次&lt;/i&gt;與我為敵。」
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>「只是保險而已，別害怕，先驅者。只要你不打算與我為敵，它就不會傷害你。&lt;i&gt;再次&lt;/i&gt;與我為敵。」
 
 她眼睛的凹陷處變得黯淡，一個骷髏頭呈現在你眼前。她很快再次戴上了半透明的面具，用戴著手套的手，示意附近的矮人。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>91</ID>
-      <DefaultText>「俄撒斯甦醒的時候，那些被他殺害的人，他們的靈魂依然困在他的身體裡。如果你都不願意幫助他們，還能有誰幫助他們呢？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>92</ID>
-      <DefaultText>「你是所有迷失靈魂的燈塔，靈視者。對他們來說，你的靈魂閃爍著明亮的光芒，就像魂珀一樣。」
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;甦醒的時候，那些被他殺害的人，他們的靈魂依然困在他的身體裡。如果你都不願意幫助他們，還能有誰幫助他們呢？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>「你是所有迷失靈魂的燈塔，靈視者。對他們來說，你的靈魂閃爍著明亮的光芒，就像 魂珀 一樣。」
 
 有那麼一瞬間，她的眼中閃爍著黑色的光芒，某種奇妙的回憶。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>93</ID>
-      <DefaultText>「等你想起自己的面孔之後，靈界便會指引你返回你的族人那裡，返回凡人的世界。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>94</ID>
-      <DefaultText>矮人朝女性的方向點點頭，咧開了嘴。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>95</ID>
-      <DefaultText>「告訴我吧， 你還記得我們上一次見面是什麼時候嗎？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>97</ID>
-      <DefaultText>她將一張畫有高塔的卡牌放在桌上。高塔周圍的天空中是代表眾神的星座。
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>「等你想起自己的面孔之後，靈界便會指引你返回你的族人那裡，返回凡人的世界。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>矮人朝女性的方向點點頭，咧開了嘴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>「告訴我吧，你還記得我們上一次見面是什麼時候嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>她將一張畫有高塔的卡牌放在桌上。高塔周圍的天空中是代表眾神的星座。
 
-你想起來了。雙榆城的晨星大廳，也就是你和眾神交談的地方。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>98</ID>
-      <DefaultText>「你去了那座高塔，尋求我們的幫助。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>99</ID>
-      <DefaultText>眾神願意向你提供恩惠，條件是解決空嬰的危機。你發誓會幫忙：
+你想起來了。雙榆城的群星之殿，也就是你和眾神交談的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>「你去了那座高塔，尋求我們的幫助。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>眾神願意向你提供恩惠，條件是解決 &lt;g&gt;空嬰&lt;/g&gt;的危機。你發誓會幫忙：
 
 [God_Boon]
 
 你是如何處理那些靈魂的？</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>100</ID>
-      <DefaultText>將靈魂送回貝拉斯之輪。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>101</ID>
-      <DefaultText>將靈魂歸還給空嬰。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>102</ID>
-      <DefaultText>強化鹿林的靈魂。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>103</ID>
-      <DefaultText>解離靈魂。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>104</ID>
-      <DefaultText>隨機分派靈魂。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>105</ID>
-      <DefaultText>將靈魂獻給娥狄卡。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>106</ID>
-      <DefaultText>眾神願意向你提供恩惠，條件是解決空嬰的危機。你沒有接受任何一項提議。
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>將靈魂送回 貝拉斯之輪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>將靈魂歸還給 空嬰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>強化 &lt;g&gt;鹿林&lt;/g&gt;的靈魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>解離靈魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>隨機分派靈魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>將靈魂獻給 娥狄卡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>眾神願意向你提供恩惠，條件是解決 &lt;g&gt;空嬰&lt;/g&gt;的危機。你沒有接受任何一項提議。
 
 你是如何處理那些靈魂的？</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>107</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>108</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>109</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>110</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>111</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>112</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>113</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>114</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>115</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>116</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>118</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-  </Entries>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+	</Entries>
 </StringTableFile>

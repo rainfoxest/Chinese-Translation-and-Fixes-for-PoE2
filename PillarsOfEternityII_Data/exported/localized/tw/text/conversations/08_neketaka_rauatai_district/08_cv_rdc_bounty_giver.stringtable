@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「跳浪者阿西拉是你的第一個目標——在公海逃避任何合法行為藉口的海盜。」
+      <DefaultText>「跳浪者阿西拉是你的第一個目標—在公海逃避任何合法行為藉口的海盜。」
 
 瓦科由做了個鬼臉，撓了撓他的傷疤。</DefaultText>
       <FemaleText />
@@ -50,12 +50,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「好極了。阿西拉指揮河龍號航行者，他糾纏於國王港西南部的一群島嶼。」</DefaultText>
+      <DefaultText>「好極了。阿西拉指揮河龍號航行者，他糾纏於 國王港 西南部的一群島嶼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「你的目標是蘭道夫，他是瓦利亞船長和失落廢墟的探尋者。為了掠奪這些島嶼的尊嚴，沒有哪一條惡劣的海岸線他沒有去過。」
+      <DefaultText>「你的目標是蘭道夫，他是 &lt;g&gt;瓦利亞&lt;/g&gt;船長和失落廢墟的探尋者。為了掠奪這些島嶼的尊嚴，沒有哪一條惡劣的海岸線他沒有去過。」
 
 瓦科由的拳頭緊握。</DefaultText>
       <FemaleText />
@@ -67,14 +67,14 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「聽到這個消息，我的信心暴增，船長。
+      <DefaultText>「聽到這個消息，我的信心暴增，船長。」
 
-「蘭道夫指揮金鐘號大帆船並探尋庫瓦奧里庫胡群島西南角涅克塔卡東部的廢墟。」</DefaultText>
+「蘭道夫指揮金鐘號大帆船並探尋庫瓦奧里庫胡群島西南角 &lt;g&gt;涅克塔卡&lt;/g&gt;東部的廢墟。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「船長，你的最終目標是布朗加，他在大部分時間都擔任胡亞納船長。
+      <DefaultText>「船長，你的最終目標是布朗加，他在大部分時間都擔任 &lt;g&gt;胡亞納&lt;/g&gt;船長。」
 
 「她以讓自然屈服於她的意志，以無情的憤怒追擊敵人而聞名。」</DefaultText>
       <FemaleText />
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「布朗加指揮單桅帆船腐妖之牙號，他在遠到涅克塔卡東北部的歐菲吉亞海峽湍急的水流中表現的很勇敢。」
+      <DefaultText>「布朗加指揮單桅帆船腐妖之牙號，他在遠到 &lt;g&gt;涅克塔卡&lt;/g&gt;東北部的歐菲吉亞海峽湍急的水流中表現的很勇敢。」
 
 瓦科由瞇著眼望向海平線，對自己點點頭。</DefaultText>
       <FemaleText />
@@ -122,7 +122,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「那麼讓我們自我滿足於，亡焰列島的一些小角落還沒受到瓦利亞過度的破壞。」
+      <DefaultText>「那麼讓我們自我滿足於，&lt;g&gt;亡焰列島&lt;/g&gt;的一些小角落還沒受到 &lt;g&gt;瓦利亞&lt;/g&gt;過度的破壞。」
 
 他遞給你一個沉甸甸的錢包，微笑著。</DefaultText>
       <FemaleText />
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「私掠者，你給努瓦泰的服務很出色！幾乎對你無比挑剔了。」
+      <DefaultText>「私掠者，你給 &lt;g&gt;努瓦泰&lt;/g&gt;的服務很出色！幾乎對你無比挑剔了。」
 
 瓦科由把手臂舉在胸前，他的嘴唇因驕傲而顫抖。</DefaultText>
       <FemaleText />
@@ -215,7 +215,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>「我們裝飾一新的艦隊船收到命令，要他們亡焰列島周邊零星停泊待命。努瓦泰發現自己需要一個&lt;i&gt;私掠者。&lt;/i&gt;」
+      <DefaultText>「我們的艦隊船有命令在身，要他們分散到 &lt;g&gt;亡焰列島&lt;/g&gt;各處待命。努瓦泰 發現自己需要一個&lt;i&gt;私掠者。&lt;/i&gt;」
 
 他說著話時，眉毛抬起。</DefaultText>
       <FemaleText />
@@ -227,7 +227,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「我是[Player Name]，[Player Ship]的船長，為您效勞。」</DefaultText>
+      <DefaultText>「我是[Player Name]，[Player Ship] 的船長，為您效勞。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,14 +242,14 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「你的船與亡焰列島的政治脫鉤後，我就可以用雙手把它抓緊了。
+      <DefaultText>「你的船，它跟 &lt;g&gt;亡焰列島&lt;/g&gt;的政治毫無關係，能對我們有很大益處。」
 
-「安排好對我們兩個都有益。你將消滅海洋上的競爭，以換取利潤。」</DefaultText>
+「我們雙方都能夠受益。你將消滅海洋上的船隻，以換取利潤。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>「為努瓦泰獵獲船隻？我從哪裡開始？」</DefaultText>
+      <DefaultText>「為 &lt;g&gt;努瓦泰&lt;/g&gt;獵船？我該從哪裡開始？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -279,14 +279,14 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>「正式審判正在起草，它將追究以努瓦泰的名義射擊的每枚炮彈。
+      <DefaultText>「每顆以 &lt;g&gt;努瓦泰&lt;/g&gt;之名發射的炮彈都會記錄在公文內。」
 
 「我們的公文是&lt;i&gt;最&lt;/i&gt;詳實的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「對每一艘沉沒的船隻，都會有合法解釋。我們的敵人會知道，要是哪一天我們交不出這些公文了，那一天就是戰爭開始的日子。」</DefaultText>
+      <DefaultText>「對每一艘沉沒的船隻，都會有合法解釋。我們的敵人會知道，要是哪一天我們交不出這些公文，那一天就是戰爭開始的日子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

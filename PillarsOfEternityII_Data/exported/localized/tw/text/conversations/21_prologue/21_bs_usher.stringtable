@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\21_prologue\21_bs_usher</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>5</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>1</ID>
-      <DefaultText>與你一同乘坐在這個奇怪的漂浮平台上的，是一位上了年紀的矮人。由於臉上的皺紋實在是太多，這個矮人的面部特徵已經難以辨認。不過，由於長年累月的微笑，矮人的臉上留下了咧嘴而笑的痕跡。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2</ID>
-      <DefaultText>矮人歪過頭，默默地朝著空椅子走去，動作宛如機械一般僵硬。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3</ID>
-      <DefaultText>矮人臉上的皺紋繃緊成一抹微笑，向你謙恭地點點頭。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4</ID>
-      <DefaultText>矮人再一次躬下了身子，對打開的大門比劃著手勢。他的臉上再一次掛起了燦爛的笑容，與之前一模一樣，彷彿在精確地重複之前的動作一樣。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5</ID>
-      <DefaultText>你看著他臉上的笑容越笑越大，笑得矮人的臉都變了形。他之前看起來像一袋被掛起來的肉，現在卻似乎變成了一個樣子古怪的笑面葫蘆，上面長滿了病態的疙瘩與褪了色的斑點。</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>conversations\21_prologue\21_bs_usher</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>5</EntryCount>
+ <Entries>
+  <Entry>
+   <ID>1</ID>
+   <DefaultText>與你一同乘坐在這個奇怪的漂浮平台上的，是一位上了年紀的矮人。由於臉上的皺紋實在是太多，這個矮人的面部特徵已經難以辨認。不過，由於長年累月的微笑，矮人的臉上留下了咧嘴而笑的痕跡。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>2</ID>
+   <DefaultText>矮人歪過頭，默默地朝著空椅子走去，動作宛如機械一般僵硬。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>3</ID>
+   <DefaultText>矮人臉上的皺紋繃緊成一抹微笑，向你謙恭地點點頭。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>4</ID>
+   <DefaultText>矮人再一次躬下了身子，對打開的大門比劃著手勢。他的臉上再一次掛起了燦爛的笑容，與之前一模一樣，彷彿在精確地重複之前的動作一樣。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>5</ID>
+   <DefaultText>你看著他臉上的笑容越笑越大，笑得矮人的臉都變了形。他之前看起來像一袋被掛起來的肉，現在卻似乎變成了一個樣子古怪的笑面葫蘆，上面長滿了病態的疙瘩與褪了色的斑點。</DefaultText>
+   <FemaleText />
+  </Entry>
+ </Entries>
 </StringTableFile>

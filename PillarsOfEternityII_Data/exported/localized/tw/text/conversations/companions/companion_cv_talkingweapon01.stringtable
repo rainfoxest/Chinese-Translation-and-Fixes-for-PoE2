@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[收起劍。]</DefaultText>
+      <DefaultText>[收起劍]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,12 +88,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「嘿，咱們應該把它送給亞洛斯啊，伊莎彌兒可算交到新朋友了。」</DefaultText>
+      <DefaultText>「嘿，咱們應該把它送給亞洛斯啊，&lt;g&gt;伊莎彌兒&lt;/g&gt;可算交到新朋友了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「真希望伊莎彌兒也在。我敢打賭，這一人一劍定然一見如故。」</DefaultText>
+      <DefaultText>「真希望 &lt;g&gt;伊莎彌兒&lt;/g&gt;也在。我敢打賭，這一人一劍定然一見如故。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +128,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「你猜怎麼著？我被折服了。簡直是——哇噢。我之前從未體驗過這樣的感覺。」
+      <DefaultText>「你猜怎麼著？我被折服了。簡直是—哇噢。我之前從未體驗過這樣的感覺。」
 
 摩德維爾不僅在你手中變熱，還開始微微發光。</DefaultText>
       <FemaleText />
@@ -145,7 +145,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「你不像我那樣瞭解她。她會回來的，等著瞧！我們注定要在一起——沒有什麼能夠阻擋我們。」</DefaultText>
+      <DefaultText>「你不像我那樣瞭解她。她會回來的，等著瞧！我們注定要在一起—沒有什麼能夠阻擋我們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -155,7 +155,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「送伊莎彌兒新東西的結果往往是有人要丟一隻眼睛。」他對艾德爾怒目相向。</DefaultText>
+      <DefaultText>「送 &lt;g&gt;伊莎彌兒&lt;/g&gt;新東西的結果往往是有人要丟一隻眼睛。」他對艾德爾怒目相向。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,7 +207,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>[裝起劍。]「你太有用了，扔下可惜。」</DefaultText>
+      <DefaultText>[裝起劍]「你太有用了，扔下可惜。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -289,7 +289,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>「如果不的話，你接受其他人的橄欖枝嗎？」伊莎彌兒在亞洛斯的眼中熱切地閃著光。</DefaultText>
+      <DefaultText>「如果不的話，你接受其他人的橄欖枝嗎？」&lt;g&gt;伊莎彌兒&lt;/g&gt;在亞洛斯的眼中熱切地閃著光。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -299,7 +299,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「你——喜歡我。」</DefaultText>
+      <DefaultText>「你—喜歡我。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -355,7 +355,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>「但你不是一個人——你是一把劍。你知道你是一把劍，對吧？」</DefaultText>
+      <DefaultText>「但你不是一個人—你是一把劍。你知道你是一把劍，對吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,7 +365,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>「不要誤會我的本意——你是一件工具，那就是你對我的全部意義。」</DefaultText>
+      <DefaultText>「不要誤會我的本意—你是一件工具，那就是你對我的全部意義。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -384,14 +384,14 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>「把我指向地圖吧，我會標記出她最後跟我說過她要去的地方——一個叫襯艙城的地方。」
+      <DefaultText>「把我指向地圖吧，我會標記出她最後跟我說過她要去的地方—一個叫襯艙城的地方。」
 
 摩德維爾歎了口氣。如果它有額頭，你覺得它應該正在搓它。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>「放下我。我是認真的，直接放在地上就行。下一個路過的基斯也許是個瘋子或殺人犯，但他們肯定比你強。」</DefaultText>
+      <DefaultText>「放下我。我是認真的，直接放在地上就行。下一個路過的 &lt;g&gt;基斯&lt;/g&gt;也許是個瘋子或殺人犯，但他們肯定比你強。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -443,7 +443,7 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>「那只是一時興起——不會再發生了。」</DefaultText>
+      <DefaultText>「那只是一時興起—不會再發生了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -458,7 +458,7 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>「你知道的肯定不止你說的這些。告訴我發生了什麼——也許我能幫上忙。」</DefaultText>
+      <DefaultText>「你知道的肯定不止你說的這些。告訴我發生了什麼—也許我能幫上忙。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -514,12 +514,12 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>「把我指向地圖吧，我會標記出她最後跟我說過她要去的地方——一個叫襯艙城的地方。」</DefaultText>
+      <DefaultText>「把我指向地圖吧，我會標記出她最後跟我說過她要去的地方—一個叫襯艙城的地方。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「但是不要到處跟別人說我講過那些話——我還有聲譽要維護。」</DefaultText>
+      <DefaultText>「但是不要到處跟別人說我講過那些話—我還有聲譽要維護。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -602,7 +602,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>「你——你以為你握著我，用我斬過無數怪物，你就瞭解我了？」
+      <DefaultText>「你—你以為你握著我，用我斬過無數怪物，你就瞭解我了？」
 
 劍把自己從你手中震脫，掉落在地面上，轉身不看你。</DefaultText>
       <FemaleText />
@@ -636,7 +636,7 @@
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>「我想——我想即使我們真的找到了她，她也未必會給我一個真正的理由。也許是我太蠢了，不該這麼執著。」</DefaultText>
+      <DefaultText>「我想—我想即使我們真的找到了她，她也未必會給我一個真正的理由。也許是我太蠢了，不該這麼執著。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -656,7 +656,7 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>「一個比你強很多的女劍士，說起來的話。」</DefaultText>
+      <DefaultText>「首先，她是一位比你強得多的劍士。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -688,7 +688,7 @@
       <ID>164</ID>
       <DefaultText>「說真的，我也不知道我曾經是誰。就我的記憶所及，我一直都是把劍。
 
-「無論我曾經擁有過什麼樣的記憶——都一去不復返了。」</DefaultText>
+「無論我曾經擁有過什麼樣的記憶—都一去不復返了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -713,12 +713,12 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>「回想我的主人，她真的非常了不起。我的意思是，她現在還是那麼了不起。她的繭握著我的時候感覺真好。她可以仗著一把劍做出很多你不敢相信的事情——」</DefaultText>
+      <DefaultText>「回想我的主人，她真的非常了不起。我的意思是，她現在還是那麼了不起。她的繭握著我的時候感覺真好。她可以仗著一把劍做出很多你不敢相信的事情—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>「我允許你使用我，但只有一個條件——你得幫我找到我的主人。行嗎？」它把自己壓在你的手心上，接觸的地方慢慢變暖。</DefaultText>
+      <DefaultText>「我允許你使用我，但只有一個條件—你得幫我找到我的主人。行嗎？」它把自己壓在你的手心上，接觸的地方慢慢變暖。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -728,7 +728,7 @@
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>[離開] 「我相信配得上你的智慧的人物總有一天會出現。」</DefaultText>
+      <DefaultText>[離開]「我相信配得上你的智慧的人物總有一天會出現。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -757,7 +757,7 @@
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>[裝起劍。]「不，你是我的了。」</DefaultText>
+      <DefaultText>[裝起劍]「不，你是我的了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -809,7 +809,7 @@
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>「抱歉——我不是那個意思。」</DefaultText>
+      <DefaultText>「抱歉—我不是那個意思。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -824,7 +824,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -834,7 +834,7 @@
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>「好吧。但只要你願意談論它的話……」</DefaultText>
+      <DefaultText>「好吧。但要說你想聊聊的話……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -869,7 +869,7 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>「我看到其他基斯如何對待自己的武器，我多麼希望那是我。當然，我的意思不是讓他們那樣對我，他們都是些陌生人。我的意思是想讓你也那樣對我。」
+      <DefaultText>「我看到其他 &lt;g&gt;基斯&lt;/g&gt;如何對待自己的武器，我多麼希望那是我。當然，我的意思不是讓他們那樣對我，他們都是些陌生人。我的意思是想讓你也那樣對我。」
 
 摩德維爾有點遲疑。</DefaultText>
       <FemaleText />
@@ -923,22 +923,22 @@
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>「我曾是一個舉世無雙的統治者。英俊、正義、肌肉無比發達，飽受子民的愛戴和娥狄卡的恩寵。」</DefaultText>
+      <DefaultText>「我曾是一個舉世無雙的統治者。英俊、正義、肌肉無比發達，飽受子民的愛戴和 &lt;g&gt;娥狄卡&lt;/g&gt;的恩寵。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>「她是遁亞路的密探——至少一度是。她的名字叫嬰格弗理絲。」</DefaultText>
+      <DefaultText>「她是遁亞路的密探—至少一度是。她的名字叫嬰格弗理絲。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>「我從不厭倦我的主人——她總是保持東西鮮亮。你為什麼不能學學她呢？」</DefaultText>
+      <DefaultText>「我從不厭倦我的主人—她總是保持東西鮮亮。你為什麼不能學學她呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>「我從不厭倦我的主人——她總是保持東西鮮亮。你為什麼不能學學她呢？」</DefaultText>
+      <DefaultText>「我從不厭倦我的主人—她總是保持東西鮮亮。你為什麼不能學學她呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -948,7 +948,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>「我從不厭倦我的主人——她總是保持東西鮮亮。你為什麼不能學學她呢？」</DefaultText>
+      <DefaultText>「我從不厭倦我的主人—她總是保持東西鮮亮。你為什麼不能學學她呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1079,7 +1079,7 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>[翻白眼。]</DefaultText>
+      <DefaultText>[翻白眼]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1089,12 +1089,12 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>「嘿，不要因為我沒長眼睛就以為我看不到你在幹什麼！</DefaultText>
+      <DefaultText>「嘿，不要因為我沒長眼睛就以為我看不到你在幹什麼！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>[什麼也不說。]</DefaultText>
+      <DefaultText>[什麼也不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1104,7 +1104,7 @@
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>「我們一起殺過那麼多的怪物——對你來說什麼都不是嗎？」</DefaultText>
+      <DefaultText>「我們一起殺過那麼多的怪物—對你來說什麼都不是嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1231,7 +1231,7 @@
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>「就咱倆說說啊——你覺得我們的旅伴都怎麼樣？」</DefaultText>
+      <DefaultText>「就咱倆說說啊—你覺得我們的旅伴都怎麼樣？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1288,7 +1288,7 @@
       <ID>331</ID>
       <DefaultText>「你覺得雷科的傷疤是做高貴的事還是干蠢事時得來的？
 
-「其實不用說——我知道答案。」</DefaultText>
+「其實不用說—我知道答案。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1350,7 +1350,7 @@
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>「伊莎彌兒問我能不能替我買一杯時——我告訴她我只想喝血。差點讓亞洛斯尿在褲子上。」</DefaultText>
+      <DefaultText>「&lt;g&gt;伊莎彌兒&lt;/g&gt;問我能不能替我買一杯時—我告訴她我只想喝血。差點讓亞洛斯尿在褲子上。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1415,7 +1415,7 @@
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>[聳聳肩。]</DefaultText>
+      <DefaultText>[聳聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1450,7 +1450,7 @@
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>「千萬別發怒啊——我開玩笑的。」</DefaultText>
+      <DefaultText>「千萬別發怒啊—我開玩笑的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>有個高大瘦削的男人一手握著手帕，另一手則握著穿線的針。在你接近時，他放下了手裡的工作計，你看到邊緣有一處精緻的鑲金刺繡——與他外衣上的圖案相同。
+      <DefaultText>有個高大瘦削的男人一手握著手帕，另一手則握著穿線的針。在你接近時，他放下了手裡的工作計，你看到邊緣有一處精緻的鑲金刺繡—與他外衣上的圖案相同。
 
 你還注意到在他的褲子下有某種大塊東西從腰間直到腳踝處。</DefaultText>
       <FemaleText />
@@ -18,12 +18,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「我在舊城深處某個昂德拉神廟中找到了一塊嵌板。」</DefaultText>
+      <DefaultText>「我在舊城深處某個 &lt;g&gt;昂德拉&lt;/g&gt;神廟中找到了一塊嵌板。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「艾泰拉在我離開高野家後襲擊了我。」</DefaultText>
+      <DefaultText>「艾泰拉在我離開塔卡努家後襲擊了我。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「我該如何前往地下室？」</DefaultText>
+      <DefaultText>「我該如何前往地下洞室？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「很好！你們這些靈視者果然能創造奇跡！」他拍拍手，門旁一個身影迅速衝進了峽口。</DefaultText>
+      <DefaultText>「Gellarde！你們這些靈視者果然能創造奇跡！」他拍拍手，門旁一個身影迅速衝進了深巷。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,17 +53,17 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「據說兩人都擁有昂德拉本人的聲音。」</DefaultText>
+      <DefaultText>「據說兩人都擁有 &lt;g&gt;昂德拉&lt;/g&gt;本人的聲音。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「潛民街中厄爾內佐的店附近有一架升降機。我可以保證那裡的守衛不找你麻煩。」</DefaultText>
+      <DefaultText>「&lt;g&gt;潛民街&lt;/g&gt;中厄爾內佐的店附近有一架升降機。我可以保證那裡的守衛不找你麻煩。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>「有一件叫做海浪號角的神器，目前掌握在某位名叫高野的胡亞納人手中。」</DefaultText>
+      <DefaultText>「有一件叫做海浪號角的神器，目前掌握在某位名叫塔卡努的 &lt;g&gt;胡亞納&lt;/g&gt;人手中。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,7 +98,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「高野收藏有很多華而不實的東西，你的……特殊天賦肯定會發現這一點。」</DefaultText>
+      <DefaultText>「塔卡努收藏有很多華而不實的東西，你的……特殊天賦肯定會發現這一點。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +128,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>「還有我的守衛。你們在潛民街可是出名了吧？」他咧出一個微笑。</DefaultText>
+      <DefaultText>「還有我的守衛。你們在 &lt;g&gt;潛民街&lt;/g&gt;可是出名了吧？」他咧出一個微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,7 +153,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>「我的線人葛溫芬會在一處老式胡亞納走廊外等著你。」</DefaultText>
+      <DefaultText>「我的線人葛溫芬會在一處老式 &lt;g&gt;胡亞納&lt;/g&gt;走廊外等著你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,7 +165,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「那我為什麼要將它交給一位地下室中的副手？」</DefaultText>
+      <DefaultText>「那我為什麼要將它交給一位地下洞室中的副手？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,7 +180,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>「別再找了，傻瓜。是我在用恩加蒂的聲音說話。」</DefaultText>
+      <DefaultText>「別再找了，傻瓜。是我在用 &lt;g&gt;恩加蒂&lt;/g&gt;的聲音說話。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -202,14 +202,14 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>「它就在潛民街下面。那裡有很多來源可疑的……貨物。
+      <DefaultText>「它就在 &lt;g&gt;潛民街&lt;/g&gt;下面。那裡有很多來源可疑的……貨物。
 
-「乘坐升降機過去——注意不是峽谷的升降機。」</DefaultText>
+「乘坐 &lt;g&gt;潛民街&lt;/g&gt;的升降機過去—注意不是 &lt;g&gt;邊沟區&lt;/g&gt;的升降機。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>「你為何對烏凱佐感興趣？」</DefaultText>
+      <DefaultText>「你為何對 &lt;g&gt;烏凱佐&lt;/g&gt;感興趣？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,17 +239,17 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>「你對這項發現有些太感興趣——而且希望將其保密——如果這隻是件藝術品的話。」</DefaultText>
+      <DefaultText>「你對這項發現有些太感興趣—而且希望將其保密—如果這只是件藝術品的話。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>「葛溫芬和我說你感興趣的是烏凱佐。我只是想知道為什麼。」</DefaultText>
+      <DefaultText>「葛溫芬和我說你感興趣的是 烏凱佐。我只是想知道為什麼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>「傳說烏凱佐中有著數不盡的財富。你為此尋找也很合理。」</DefaultText>
+      <DefaultText>「傳說 &lt;g&gt;烏凱佐&lt;/g&gt;中有著數不盡的財富。你為此尋找也很合理。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -259,14 +259,14 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>「烏凱佐曾是亡焰列島上最為豐饒富庶的島嶼，但它已經消失兩千餘年了。」</DefaultText>
+      <DefaultText>「&lt;g&gt;烏凱佐&lt;/g&gt;曾是 &lt;g&gt;亡焰列島&lt;/g&gt;上最為豐饒富庶的島嶼，但它已經消失兩千餘年了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>「財富！隨便一位深海獵人都能在其中找到滿載黃金與寶石的瓦利亞船隻。
+      <DefaultText>「財富！隨便一位深海獵人都能在其中找到滿載黃金與寶石的 &lt;g&gt;瓦利亞&lt;/g&gt;船隻。
 
-「烏凱佐——如果其存在的話——可不只如此。」他停下來打量著你。</DefaultText>
+「&lt;g&gt;烏凱佐&lt;/g&gt;—如果其存在的話—可不只如此。」他停下來打量著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,12 +281,12 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>「特別是你的胡亞納朋友們。」</DefaultText>
+      <DefaultText>「特別是你的 &lt;g&gt;胡亞納&lt;/g&gt;朋友們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>「特別是胡亞納人。」</DefaultText>
+      <DefaultText>「特別是 &lt;g&gt;胡亞納&lt;/g&gt;人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -328,7 +328,7 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>「烏凱佐的秘密肯定不止這個價吧。」</DefaultText>
+      <DefaultText>「&lt;g&gt;潛民街&lt;/g&gt;的秘密肯定不止這個價吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,12 +365,12 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>「你想知道關於這個號角和它能開啟的隱藏昂德拉神廟的事嗎？」</DefaultText>
+      <DefaultText>「你想知道關於這個號角和它能開啟的隱藏 &lt;g&gt;昂德拉&lt;/g&gt;神廟的事嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>「真正的工作現在才要開始！你務必把這個拿去地下室。」他把螺殼遞還給你。</DefaultText>
+      <DefaultText>「真正的工作現在才要開始！你務必把這個拿去地下洞室。」他把螺殼遞還給你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,7 +402,7 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>「看看哪，你坐在自個兒家裡倒是活得開心又臃腫——外面的人可還在挨餓呢。他看起來或許像個親王，但他有股海盜的氣息。」</DefaultText>
+      <DefaultText>「看看哪，你坐在自個兒家裡倒是活得開心又臃腫—外面的人可還在挨餓呢。他看起來或許像個親王，但他有股海盜的氣息。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -438,7 +438,7 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>「這是一件古老的胡亞納文物。某種樂器。」他一隻手把玩著袖子上精緻的裝飾。</DefaultText>
+      <DefaultText>「這是一件古老的 &lt;g&gt;胡亞納&lt;/g&gt;文物。某種樂器。」他一隻手把玩著袖子上精緻的裝飾。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -463,7 +463,7 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>[出示金陽幣。]</DefaultText>
+      <DefaultText>[出示金陽幣]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,7 +473,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>「可憐的伯塔洛。峽谷對待沒有門路或是朋友的人可不寬容。」他面部稜角分明的線條轉變為一種習以為常的失望表情。
+      <DefaultText>「可憐的伯塔洛。邊沟區 對待沒有門路或是朋友的人可不寬容。」他面部稜角分明的線條轉變為一種習以為常的失望表情。
 
 但緊接著他眨了眨眼，靠上前凝視著你。</DefaultText>
       <FemaleText />
@@ -487,12 +487,12 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>「你和我，我覺得我們能成為極好的朋友。在涅克塔卡交的朋友你永遠不會嫌多。」德理奧微笑著，露出一口完美無缺的牙齒。</DefaultText>
+      <DefaultText>「你和我，我覺得我們能成為極好的朋友。在 &lt;g&gt;涅克塔卡&lt;/g&gt;交的朋友你永遠不會嫌多。」德理奧微笑著，露出一口完美無缺的牙齒。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>「等你找到號角後，帶給我。我會付給你豐厚的酬勞，而且在城市的這個地區，我能幫上你不少忙 。」</DefaultText>
+      <DefaultText>「等你找到號角後，帶給我。我會付給你豐厚的酬勞，而且在城市的這個地區，我能幫上你不少忙。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -524,7 +524,7 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>「我已經把螺殼給你了——你不能事到如今再變動我們達成的協議！」</DefaultText>
+      <DefaultText>「我已經把螺殼給你了—你不能事到如今再變動我們達成的協議！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,7 +546,7 @@
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>「很久以前，號角是成對的，但是它的伴侶——深淵號角——遺失在了舊城的水坑中。」</DefaultText>
+      <DefaultText>「很久以前，號角是成對的，但是它的伴侶—深淵號角—遺失在了舊城的水坑中。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -565,7 +565,7 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>「我想知道怎麼去潛民街。」</DefaultText>
+      <DefaultText>「我想知道怎麼去 潛民街。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -580,7 +580,7 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>「你會找到一個貨攤。後面就是通往潛民街的路。」</DefaultText>
+      <DefaultText>「你會找到一個貨攤。後面就是通往 &lt;g&gt;潛民街&lt;/g&gt;的路。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -620,7 +620,7 @@
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>「太棒了！」
+      <DefaultText>「Gellarde!」
 
 一個男人熱情地鼓起掌，他五官分明的臉龐咧出一道笑容。他周圍的守衛緊緊握著武器，很明顯並沒有其首領這麼愉快。</DefaultText>
       <FemaleText />
@@ -639,7 +639,7 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>「我來此向峽谷中的罪犯首領致上敬意。」</DefaultText>
+      <DefaultText>「我來此向 &lt;g&gt;邊沟區&lt;/g&gt;中的罪犯首領致上敬意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,8 +716,8 @@
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>他又拍拍手。「精神可嘉！你沒有讓我失望。」</DefaultText>
-      <FemaleText>他又拍拍手。「精神可嘉！你沒有讓我失望。」</FemaleText>
+      <DefaultText>他又拍拍手。「精神可嘉！你沒有讓我失望，aimico。」</DefaultText>
+      <FemaleText>他又拍拍手。「精神可嘉！你沒有讓我失望，aimica。」</FemaleText>
     </Entry>
     <Entry>
       <ID>226</ID>
@@ -771,27 +771,27 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>「我希望你能靠著獨特的天賦避開麻煩說服高野。」</DefaultText>
+      <DefaultText>「我希望你能靠著獨特的天賦避開麻煩說服塔卡努。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>「希望如此吧。你的名字已經在馬塔魯之中流傳。要是搞出這種麻煩到頭來卻是一場空那就太可惜了。」</DefaultText>
+      <DefaultText>「希望如此吧。你的名字已經在 &lt;g&gt;馬塔魯&lt;/g&gt;之中流傳。要是搞出這種麻煩到頭來卻是一場空那就太可惜了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>「希望如此！不然的話你就被高野坑了。他已經用你的錢訂了一批大理石。」</DefaultText>
+      <DefaultText>「希望如此！不然的話你就被塔卡努坑了。他已經用你的錢訂了一批大理石。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>「希望如此！有傳聞說高野被一個不知名的盜賊給搶了。我真的希望你能第一個趕到……」</DefaultText>
+      <DefaultText>「希望如此！有傳聞說塔卡努被一個不知名的盜賊給搶了。我真的希望你能第一個趕到……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>「稍等。你是鹿林的靈視者，對吧？」</DefaultText>
+      <DefaultText>「稍等。你是 &lt;g&gt;鹿林&lt;/g&gt;的靈視者，對吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,7 +811,7 @@
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -842,7 +842,7 @@
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>「在亡焰列島的生活充滿了未知。有時候你似乎遭遇了不幸，但過後卻能發現一片新天地。」</DefaultText>
+      <DefaultText>「在 &lt;g&gt;亡焰列島&lt;/g&gt;的生活充滿了未知。有時候你似乎遭遇了不幸，但過後卻能發現一片新天地。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -852,7 +852,7 @@
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>「稍等。你是鹿林的靈視者，對吧？」</DefaultText>
+      <DefaultText>「稍等。你是 &lt;g&gt;鹿林&lt;/g&gt;的靈視者，對吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -867,14 +867,14 @@
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>「不管怎樣，你在涅克塔卡城都需要廣交朋友。而我則需要你的才能。」
+      <DefaultText>「不管怎樣，你在 &lt;g&gt;涅克塔卡&lt;/g&gt;城都需要廣交朋友。而我則需要你的才能。」
 
 片刻後，他似乎忘記了令他惱火的事。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>「畢竟，多虧了他們暗中提供聚鹿酒和瓦利亞絲綢，我們才能在峽谷這個鬼地方勉強度日。」</DefaultText>
+      <DefaultText>「畢竟，多虧了他們暗中提供 &lt;g&gt;聚鹿&lt;/g&gt;酒和 &lt;g&gt;瓦利亞&lt;/g&gt;絲綢，我們才能在 &lt;g&gt;邊沟區&lt;/g&gt;這個鬼地方勉強度日。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -889,7 +889,7 @@
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>[等待。]</DefaultText>
+      <DefaultText>[等待]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -914,7 +914,7 @@
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>「弗蘭特船長放出消息說鹿林的靈視者來了。」</DefaultText>
+      <DefaultText>「弗蘭特船長放出消息說 &lt;g&gt;鹿林&lt;/g&gt;的靈視者來了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -971,7 +971,7 @@
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>「我希望你能靠著斯文的舉止與獨特的天賦避開麻煩說服高野。」</DefaultText>
+      <DefaultText>「我希望你能靠著斯文的舉止與獨特的天賦避開麻煩說服塔卡努。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -991,7 +991,7 @@
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>「不管創不創新，他們的船最後都逃不出昂德拉的掌心。」</DefaultText>
+      <DefaultText>「不管創不創新，他們的船最後都逃不出 &lt;g&gt;昂德拉&lt;/g&gt;的掌心。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1001,7 +1001,7 @@
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>「對，我們的商人是爭論不休。你們海盜大概都不屑動嘴，要是看誰不爽，直接朝對方的頭上就是一槍。」</DefaultText>
+      <DefaultText>「Ac，我們的商人是爭論不休。你們海盜大概都不屑動嘴，要是看誰不爽，直接朝對方的頭上就是一槍。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1013,7 +1013,7 @@
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>「那裡現在基本上已經成為了傳說，但船長委員會中有&lt;i&gt;部分人&lt;/i&gt;相信這個地方依然存在。」</DefaultText>
+      <DefaultText>「那裡現在基本上已經成為了傳說，但船長 Consuaglo 中有&lt;i&gt;部分人&lt;/i&gt;相信這個地方依然存在。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1058,7 +1058,7 @@
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>「不過，胡亞納不許別人去那裡，除非那人想死在那個地方。」
+      <DefaultText>「不過，&lt;g&gt;胡亞納&lt;/g&gt;不許別人去那裡，除非那人想死在那個地方。」
 
 「話說回來。」他微微一笑。</DefaultText>
       <FemaleText />
@@ -1080,7 +1080,7 @@
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>「畢竟這裡是馬塔魯的地盤，別去惹怒他們最為妥當。」</DefaultText>
+      <DefaultText>「畢竟這裡是 &lt;g&gt;馬塔魯&lt;/g&gt;的地盤，別去惹怒他們最為妥當。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1092,7 +1092,7 @@
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>「她正在把食物偷運進峽谷。我找到了她的聯繫人烏羅格的屍體。」</DefaultText>
+      <DefaultText>「她正在把食物偷運進 邊沟區。我找到了她的聯繫人烏羅格的屍體。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1107,7 +1107,7 @@
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>「瘋狂的莫萊娜在地下室。我可以給你前往那裡的許可，但首先，你得幫我個忙。」德理奧微笑著，露出一口完美無缺的牙齒。</DefaultText>
+      <DefaultText>「瘋狂的莫萊娜在地下洞室。我可以給你前往那裡的許可，但首先，你得幫我個忙。」德理奧微笑著，露出一口完美無缺的牙齒。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1117,22 +1117,22 @@
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>「但比起獎章，我對鹿林的靈視者更感興趣。也就是你，對吧？」他伸出手指修長的手。</DefaultText>
+      <DefaultText>「但比起獎章，我對 &lt;g&gt;鹿林&lt;/g&gt;的靈視者更感興趣。也就是你，對吧？」他伸出手指修長的手。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>「與潛民街搞好關係是有好處的。」</DefaultText>
+      <DefaultText>「與 &lt;g&gt;潛民街&lt;/g&gt;搞好關係是有好處的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>「你以為我會傻到將它保管在體面的地方嗎？」</DefaultText>
+      <DefaultText>「你以為我會傻到在合法的地方賣掉嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>362</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1147,7 +1147,7 @@
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>「你這種能在峽谷存活的聰明人顯然不會幹那種傻事。」</DefaultText>
+      <DefaultText>「你這種能在 &lt;g&gt;邊沟區&lt;/g&gt;存活的聰明人顯然不會幹那種傻事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1177,7 +1177,7 @@
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>「我吃壞肚子了。吃了個變質的柯基果。」</DefaultText>
+      <DefaultText>「我吃壞肚子了。吃了個變質的柯爾奇果。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1201,7 +1201,7 @@
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>[讓泰克胡回答。]</DefaultText>
+      <DefaultText>[讓泰克胡回答]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,8 +1211,8 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>「朋友，我隨便什麼時候都能談正事。」他微微一笑，整了整他花哨的外衣。</DefaultText>
-      <FemaleText>「朋友，我隨便什麼時候都能談正事。」他微微一笑，整了整他花哨的外衣。</FemaleText>
+      <DefaultText>「Aimico，我隨便什麼時候都能談正事。」他微微一笑，整了整他花哨的外衣。</DefaultText>
+      <FemaleText>「Aimica，我隨便什麼時候都能談正事。」他微微一笑，整了整他花哨的外衣。</FemaleText>
     </Entry>
     <Entry>
       <ID>379</ID>
@@ -1231,7 +1231,7 @@
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>「現在我們再來談談你吧。你是鹿林來的靈視者，對吧？」</DefaultText>
+      <DefaultText>「現在我們再來談談你吧。你是 &lt;g&gt;鹿林&lt;/g&gt;來的靈視者，對吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1272,12 +1272,12 @@
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>390</ID>
-      <DefaultText>「有傳言說弗蘭特被一個鹿林來的靈視者殺了。」
+      <DefaultText>「有傳言說弗蘭特被一個 &lt;g&gt;鹿林&lt;/g&gt;來的靈視者殺了。」
 
 他眼中閃過一絲憤怒。
 
@@ -1346,7 +1346,7 @@
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>「她在地下室裡。」
+      <DefaultText>「她在地下洞室裡。」
 
 「不過我得警告你，到時候情況可能會變得十分……不文明。」</DefaultText>
       <FemaleText />
@@ -1373,7 +1373,7 @@
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>「在涅克塔卡城，你這種人比蛤蜊的牙齒還少見。」</DefaultText>
+      <DefaultText>「在 &lt;g&gt;涅克塔卡&lt;/g&gt;城，你這種人比蛤蜊的牙齒還少見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1408,7 +1408,7 @@
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>「朋友，只不過是要你稍微跑個腿而已。」</DefaultText>
+      <DefaultText>「Aimico，只不過是要你稍微跑個腿而已。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1432,7 +1432,7 @@
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>「請收下這個，滿足一下我的虛榮心。」
+      <DefaultText>「Per complanca，請收下這個，滿足一下我的虛榮心。」
 
 他交給你一面製作精美的旗幟。</DefaultText>
       <FemaleText />
@@ -1444,7 +1444,7 @@
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>「是啊，不過我一個人至少能頂五個朋友。」</DefaultText>
+      <DefaultText>「Ekera，不過我一個人至少能頂五個朋友。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1474,7 +1474,7 @@
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1494,14 +1494,14 @@
     </Entry>
     <Entry>
       <ID>435</ID>
-      <DefaultText>「而瓦利亞大帝國存在了一千多年。」
+      <DefaultText>「而 &lt;g&gt;瓦利亞&lt;/g&gt;大帝國存在了一千多年。」
 
 「但還是崩潰了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>436</ID>
-      <DefaultText>「但如果我們拋棄傳統，我們又將以何種身份存在於世呢？」普通的搶劫者嗎？」</DefaultText>
+      <DefaultText>「但如果我們拋棄傳統，我們又將以何種身份存在於世呢？普通的搶劫者嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1513,7 +1513,7 @@
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>「你們努瓦泰人這麼嚴肅，想像力卻十分……豐富多彩。」
+      <DefaultText>「你們 &lt;g&gt;努瓦泰&lt;/g&gt;人這麼嚴肅，想像力卻十分……豐富多彩。」
 
 德理奧扭頭又看向你。</DefaultText>
       <FemaleText />
@@ -1532,7 +1532,7 @@
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>「亡焰列島還有很多沒有標注在海圖上的島嶼。說不定烏凱佐就是其中之一呢？」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;還有很多沒有標注在海圖上的島嶼。說不定 &lt;g&gt;潛民街&lt;/g&gt;就是其中之一呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1542,7 +1542,7 @@
     </Entry>
     <Entry>
       <ID>443</ID>
-      <DefaultText>「或許你說得對。但我又有什麼資格質疑委員會的智慧呢？」</DefaultText>
+      <DefaultText>「或許你說得對。但我又有什麼資格質疑 Consuaglo 的智慧呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1552,7 +1552,7 @@
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>「如果傳聞是真的，你就能明白委員會為何需要再三確認。」
+      <DefaultText>「如果傳聞是真的，你就能明白 Consuaglo 為何需要再三確認。」
 
 「以及你保持緘默。」</DefaultText>
       <FemaleText />
@@ -1564,7 +1564,7 @@
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>「地下室會經手許多有趣的東西。
+      <DefaultText>「地下洞室會經手許多有趣的東西。
 
 「我可以准許你親眼去看看。互幫互助嘛。」他歪了歪腦袋。</DefaultText>
       <FemaleText />
@@ -1576,7 +1576,7 @@
     </Entry>
     <Entry>
       <ID>450</ID>
-      <DefaultText>「啊，古玩商！對，厄爾內佐說起過你那塊獎章。不過他沒說過你為何帶來這裡。」</DefaultText>
+      <DefaultText>「啊，古玩商！Ac，厄爾內佐說起過你那塊獎章。不過他沒說過你為何帶來這裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1586,17 +1586,17 @@
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>「有意思。這不是高野的貝殼，不過仍舊是其中一件昂德拉的神器。驚奇在他的眼中一閃而逝。</DefaultText>
+      <DefaultText>「有意思。這不是塔卡努的貝殼，不過仍舊是其中一件 &lt;g&gt;昂德拉&lt;/g&gt;的神器。驚奇在他的眼中一閃而逝。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>454</ID>
-      <DefaultText>「你終於出現了！我還在想我們何時會見面呢，不過不得不說，我沒料到你身後會跟著一大串的敵人。」</DefaultText>
+      <DefaultText>「你終於來了！我還在想我們什麼時候才會見面呢，不過不得不說，我沒料到你身後會跟著一大串的敵人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>「羅帕魯的英雄終於來拜訪我了。」</DefaultText>
+      <DefaultText>「&lt;g&gt;羅帕魯&lt;/g&gt;的英雄終於來拜訪我了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1606,7 +1606,7 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>「啊，靈視者終於醒過來了。」羅帕魯人一直在念叨著你，不過照他們想來，似乎是不會同意的。」</DefaultText>
+      <DefaultText>「啊，靈視者終於醒過來了。」羅帕魯 一直在念叨著你，不過照他們想來，似乎是不會同意的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1621,12 +1621,12 @@
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>「啊，你終於來了——街頭巷尾都在念叨的靈視者，不過誰在傳就說不好了。」</DefaultText>
+      <DefaultText>「啊，你終於來了—街頭巷尾都在念叨的靈視者，不過誰在傳就說不好了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>「你終於出現了！你看起來並沒有街頭巷尾傳的那麼可怕嘛。」</DefaultText>
+      <DefaultText>「你終於來了！你看起來並沒有 &lt;g&gt;潛民街&lt;/g&gt;傳的那麼可怕嘛。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1641,17 +1641,17 @@
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>「你終於出現了！我必須說，你確實......名副其實。「</DefaultText>
+      <DefaultText>「你終於出現了！我必須說，你確實……名副其實。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>「你終於出現了！我還在想我們何時會見面呢，不過不得不說，我沒料到你身後會跟著一大串的屍體。」</DefaultText>
+      <DefaultText>「你終於來了！我還在想我們什麼時候才會見面呢，不過不得不說，我沒料到你身後會跟著一大串的屍體。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>「羅帕魯的英雄來復仇了！劇作家都寫不出來這種腳本吧。」</DefaultText>
+      <DefaultText>「&lt;g&gt;羅帕魯&lt;/g&gt;的英雄來復仇了！劇作家都寫不出來這種腳本吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1678,12 +1678,12 @@
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>「對峽谷的人民來說，你一直以來都是位足智多謀的盟友。或許你也能夠幫助我。」</DefaultText>
+      <DefaultText>「對 &lt;g&gt;邊沟區&lt;/g&gt;的人民來說，你一直以來都是位足智多謀的盟友。或許你也能夠幫助我。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>474</ID>
-      <DefaultText>「與其浪費唇舌，不知動手實幹，朋友。」他微微一笑。</DefaultText>
+      <DefaultText>「與其浪費唇舌，不知動手實幹，aimica。」他微微一笑。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

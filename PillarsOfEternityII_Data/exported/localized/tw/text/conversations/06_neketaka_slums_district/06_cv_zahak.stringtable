@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>&lt;ispeech&gt;這是什麼，[Player Race]生物？&lt;/ispeech&gt;蛛人昂起腦袋，用頭上的許多只眼睛盯著你。
+      <DefaultText>&lt;ispeech&gt;這是什麼，[Player Race]-生物？&lt;/ispeech&gt;蛛人昂起腦袋，用頭上的許多只眼睛盯著你。
 
 它奇形怪狀的同伴也帶著不自然的緊張情緒看向你。</DefaultText>
       <FemaleText />
@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「你在峽谷裡幹什麼？」</DefaultText>
+      <DefaultText>「你在 &lt;g&gt;邊沟區&lt;/g&gt;裡幹什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[防護你的心智。]</DefaultText>
+      <DefaultText>[防護你的心智]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[集中意志力對抗蛛人。]</DefaultText>
+      <DefaultText>[集中意志力對抗蛛人]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[讓蛛人探索你的思維。]</DefaultText>
+      <DefaultText>[讓蛛人探索你的思維]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,7 +112,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[將蛛人趕出你的思維。]</DefaultText>
+      <DefaultText>[將蛛人趕出你的思維]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,7 +122,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[讓蛛人探索你的思維。]</DefaultText>
+      <DefaultText>[讓蛛人探索你的思維]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,7 +140,7 @@
 
 你輕輕地在冰面下繼續思考，而蛛人無法突破冰面。
 
-這隻生物發出惱怒的嘶鳴聲。一隻食人魔發出低沉沙啞的咆哮聲與之呼應。</DefaultText>
+這隻生物發出惱怒的嘶鳴聲。一隻巨魔發出低沉沙啞的咆哮聲與之呼應。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>他跟你說了瘦削男人的事，並表示如果你殺了他，他就給你藥。
+      <DefaultText>他跟你說了紡錘人的事，並表示如果你殺了他，他就給你藥。
 
 蛛人離開了你的思維。</DefaultText>
       <FemaleText />
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。聚鹿大帝國。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。聚鹿 大帝國。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>[什麼都不做。]</DefaultText>
+      <DefaultText>[什麼都不做]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「這其中有什麼秘密？」
+      <DefaultText>「那裡頭有什麼秘密？」
 
 你感到頭中有一陣輕柔的摩挲感。
 
@@ -339,14 +339,14 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「他的思維太狹隘，只關注小事。你在乎他幹嘛？你——」
+      <DefaultText>「他的思維太狹隘，只關注小事。你在乎他幹嘛？你—」
 
 精靈突然陷入沉默，嘴還張著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[攻擊] 「夠了！」</DefaultText>
+      <DefaultText>[攻擊]「夠了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,7 +363,7 @@
       <ID>72</ID>
       <DefaultText>&lt;ispeech&gt;就是自稱厄爾內索的那個人。&lt;/ispeech&gt;
 
-它不耐煩地揮舞爪子，一個食人魔也做著相同的動作。</DefaultText>
+它不耐煩地揮舞爪子，一個巨魔也做著相同的動作。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -467,7 +467,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>&lt;ispeech&gt;我們只是想看看。想瞭解。而基斯習慣於把他們的秘密藏起來。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;我們只是想看看。想瞭解。而 &lt;g&gt;基斯&lt;/g&gt;習慣於把他們的秘密藏起來。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -497,19 +497,19 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>&lt;ispeech&gt;是的，你來到亡焰列島也是為了尋求知識。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;是的，你來到 &lt;g&gt;亡焰列島&lt;/g&gt;也是為了尋求知識。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
       <DefaultText>&lt;ispeech&gt;死亡。生命。一片汪洋，上面肆虐著風暴、海盜還有……&lt;/ispeech&gt;
 
-俄撒斯巨大發光的頭部浮現在你的腦海中。</DefaultText>
+ &lt;g&gt;俄撒斯&lt;/g&gt;巨大發光的頭部浮現在你的腦海中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>[等待。]</DefaultText>
+      <DefaultText>[等待]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -538,7 +538,7 @@
       <ID>111</ID>
       <DefaultText>「好啊。你對我們一直很慷慨。」
 
-食人魔慢慢點點頭。</DefaultText>
+巨魔慢慢點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -577,7 +577,7 @@
 
 拿走你要的藥物。&lt;/ispeech&gt;
 
-它悄悄靠近你。食人魔和精靈雙目無神、表情呆滯，也向前走了幾步。</DefaultText>
+它悄悄靠近你。巨魔和精靈雙目無神、表情呆滯，也向前走了幾步。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -619,7 +619,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「眾神其實是英格維仙創造出來的。」</DefaultText>
+      <DefaultText>「眾神其實是 &lt;g&gt;英格維仙&lt;/g&gt;創造出來的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,12 +636,12 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>「我差點被俄撒斯殺死，又被貝拉斯復活了。」</DefaultText>
+      <DefaultText>「我差點被 &lt;g&gt;俄撒斯&lt;/g&gt;殺死，又被 &lt;g&gt;貝拉斯&lt;/g&gt;復活了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>[防護你的心智。]</DefaultText>
+      <DefaultText>[防護你的心智]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -752,7 +752,7 @@
       <ID>162</ID>
       <DefaultText>「好啊。你對我們一直很慷慨。」
 
-食人魔慢慢點點頭。</DefaultText>
+巨魔慢慢點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -782,7 +782,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>[出示獎章。]「你知道哪兒有人買這樣的東西嗎？」</DefaultText>
+      <DefaultText>[出示獎章]「你知道哪兒有人買這樣的東西嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -809,7 +809,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>&lt;ispeech&gt;這個人沒什麼秘密。和其他水一般的傢伙不同。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;這個人沒什麼秘密，和其他用水的傢伙不同。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -844,7 +844,7 @@
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>&lt;ispeech&gt;基斯身上有不少秘密。他們最深的秘密都在城市的高牆之內。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt; &lt;g&gt;基斯&lt;/g&gt;身上有不少秘密。他們最深的秘密都在城市的高牆之內。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -854,7 +854,7 @@
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>&lt;ispeech&gt;他們潛伏在我們正下方的一處地方，離這兒的商人靠得很近，但空間足夠容納他們的船。人們稱那裡為地下室。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;他們潛伏在我們正下方的一處地方，離這兒的商人靠得很近，但空間足夠容納他們的船。人們稱那裡為地下洞室。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -869,7 +869,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -889,7 +889,7 @@
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>&lt;ispeech&gt;乘坐峽谷的升降機下降到被懲罰者去的地方，然後穿越舊城的遺跡。往西南方走，到達一處古老的神龕。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;乘坐 &lt;g&gt;邊沟區&lt;/g&gt;的升降機下降到被懲罰者去的地方，然後穿越舊城的遺跡。往西南方走，到達一處古老的神龕。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -899,12 +899,12 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>&lt;ispeech&gt;有一條通往地下室的秘密通道。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;有一條通往地下洞室的秘密通道。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>&lt;ispeech&gt;但要當心，假如遺跡中的潛伏的利爪怪物沒能殺掉你，地下室的基斯也會令你難逃一死。&lt;/ispeech&gt;它來回擺動的口器發出刺耳的笑聲。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;但要當心，假如遺跡中的潛伏的利爪怪物沒能殺掉你，地下洞室的 &lt;g&gt;基斯&lt;/g&gt;也會令你難逃一死。&lt;/ispeech&gt;它來回擺動的口器發出刺耳的笑聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -939,12 +939,12 @@
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。亡焰列島的溫暖海洋。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。亡焰列島 的溫暖海洋。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。努瓦泰被風暴侵襲的海岸。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。努瓦泰 被風暴侵襲的海岸。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -954,7 +954,7 @@
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。舊瓦利亞漸弱的力量。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。舊瓦利亞 漸弱的力量。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -964,7 +964,7 @@
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。若移冰地的廢土。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。若移冰地 的廢土。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

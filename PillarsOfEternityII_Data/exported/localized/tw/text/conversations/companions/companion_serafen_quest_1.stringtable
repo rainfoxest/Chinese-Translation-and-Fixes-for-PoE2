@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「你好啊，船長。老實說，弗蘭特多少以為我們會淹死在舷窗堡壘的海水裡。不過你很幸運，我就是有這種喜歡克服萬難的壞習慣。」</DefaultText>
+      <DefaultText>「你好啊，船長。老實說，弗蘭特多少認為我們會在死燈堡壘被打得落花流水。不過你很幸運，我就是有這種克服萬難的壞習慣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「過一會兒吧，沒問題，沒問題。沒必要急急忙忙地去找閒暇先生號。」他晃了晃左耳。</DefaultText>
+      <DefaultText>「過一會兒吧，沒問題，沒問題。沒必要急急忙忙地去找有閒紳士號。」他晃了晃左耳。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「我們已經有計劃了，就這麼做吧。」</DefaultText>
+      <DefaultText>「我們已經有計畫了，就這麼做吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「關於舷窗堡壘，有什麼可以告訴我的嗎？」</DefaultText>
+      <DefaultText>「關於死燈堡壘，有什麼可以告訴我的嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「你之前說過，你在堡壘裡有幾個熟人。他們能幫我們的忙嗎？」</DefaultText>
+      <DefaultText>「你之前說過，你在堡壘裡有幾個線人。他們能幫我們的忙嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「這座要塞最開始是瓦利亞人造的。這堆石頭幾個世紀以前就搭起來了，但漁民和他們一直都不對付，後來它就被扔在這裡了。當時它連從廁所裡爬出來的蟲子都擋不住。」</DefaultText>
+      <DefaultText>「這座要塞最開始是 &lt;g&gt;瓦利亞&lt;/g&gt;人造的。這堆石頭幾個世紀以前就搭起來了，但漁民和他們一直都不對付，後來它就被扔在這裡了。當時它連從廁所裡爬出來的蟲子都擋不住。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「我可沒說有『幾個』熟人，是吧？」
+      <DefaultText>「我可沒說有『幾個』線人，是吧？」
 
 塞拉芬抓著後腦勺，樣子就像是突然對自己的鞋感興趣了一樣。</DefaultText>
       <FemaleText />
@@ -53,7 +53,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「哎喲，我這個藍毛屁股好像還真想出了個計劃。」</DefaultText>
+      <DefaultText>「哎喲，我這個藍毛屁股好像還真想出了個計畫。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,7 +73,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「關於這座要塞的防禦工事，你瞭解多少？」</DefaultText>
+      <DefaultText>「關於這座堡壘的防禦工事，你瞭解多少？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,17 +83,17 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「那個傢伙，她尖得跟那什麼似的，嘴巴、耳朵和頭腦都很尖。她以前是從鹿林或者聚鹿出來的，很清楚怎麼航海，也知道怎麼控制手下人，讓他們不敢造反。雖然她是新來的，但她的話在整個皇族海盜裡都很有份量，比你想像得更有份量。」</DefaultText>
+      <DefaultText>「那個傢伙，她尖得跟那什麼似的，嘴巴、耳朵和頭腦都很尖。她以前是從 &lt;g&gt;鹿林&lt;/g&gt;或者 &lt;g&gt;聚鹿&lt;/g&gt;出來的，很清楚怎麼航海，也知道怎麼控制手下人，讓他們不敢造反。雖然她是新來的，但她的話在整個皇族海盜裡都很有份量，比你想像得更有份量。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「你的意思是說，你這個『熟人』其實是你的前女友？」</DefaultText>
+      <DefaultText>「你的意思是說，你這個『線人』其實是你的前女友？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「這有一部分原因是因為她非常支援自由——支援大家不受奴隸制約束，不受帝國約束，甚至不受胡亞納種姓制度的約束。」</DefaultText>
+      <DefaultText>「這有一部分原因是因為她非常支援自由—支援大家不受奴隸制約束，不受帝國約束，甚至不受 &lt;g&gt;胡亞納&lt;/g&gt;種姓制度的約束。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,9 +120,9 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「它既然能叫堡壘，就說明它並不是船。這就意味著，大炮和炮彈的數量肯定是非常非常夠用了。在你來得及登陸之前，他們的大炮就能把你的船打得像篩子一樣。」
+      <DefaultText>「它既然能叫堡壘，就說明它並不是船，也意味著它不用考慮大炮和炮彈的重量和儲量。在你來得及登陸之前，他們的大炮就能把你的船打得像篩子一樣。」
 
-他歎了口氣，躲了一下地板。</DefaultText>
+他嘆了口氣，用靴子蹭了蹭地板。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,7 +132,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「你在問我有什麼計劃嗎？老實說，我本來挺想看看，名滿天下的努亞堡靈視者打算怎麼突破這道無法突破的城牆。」</DefaultText>
+      <DefaultText>「你在問我有什麼計劃嗎？老實說，我本來挺想看看，名滿天下的 &lt;g&gt;努亞堡&lt;/g&gt;靈視者打算怎麼突破這道無法突破的城牆。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -142,7 +142,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「在我看來，我們有兩個方案，其中一個方案非常危險，另一個方案基本相當於自殺。所以，和我說說吧，船長，你打算怎麼解決這個沒法解決的問題？」</DefaultText>
+      <DefaultText>「在我看來，我們有一兩個方案，從非常危險到跟自殺沒兩樣的都有。所以跟我說吧，船長，你打算怎麼解決這個天大難題？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +152,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「想要找到一個可以不被發現的位置偷偷登陸，必須要靠海麗婭的千里眼……或者有望遠鏡也行。我猜你應該有望遠鏡吧？」</DefaultText>
+      <DefaultText>「想要找到一個可以不被發現的位置偷偷登陸，必須要靠 &lt;g&gt;海麗婭&lt;/g&gt;的千里眼……或者有望遠鏡也行。我猜你應該有望遠鏡吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>「我更喜歡鼓起勇氣正面突破。」</DefaultText>
+      <DefaultText>「我較喜歡正面突破。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「太棒了！等你準備好之後，我們就把船開到舷窗堡壘，然後想辦法溜進去吧。」</DefaultText>
+      <DefaultText>「太棒了！等你準備好之後，我們就把船開到死燈堡壘，然後想辦法溜進去吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,7 +233,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>「舷窗堡壘確實是塊硬骨頭。但如果不啃的話，要怎麼吃到骨髓呢？」</DefaultText>
+      <DefaultText>「死燈堡壘確實是塊硬骨頭。但如果不啃的話，要怎麼吃到骨髓呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,12 +263,12 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>「我並不是想對你指手畫腳，船長，但如果我們不前往舷窗堡壘，等本維斯修好了船，可就找不到他了。」</DefaultText>
+      <DefaultText>「我並不是想對你指手畫腳，船長，但如果我們不前往死燈堡壘，等本維斯修好了船，可就找不到他了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>「我們看看該怎麼進入舷窗堡壘吧。」</DefaultText>
+      <DefaultText>「我們看看該怎麼進入死燈堡壘吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,7 +330,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「你覺得他在舷窗堡壘嗎？」</DefaultText>
+      <DefaultText>「你覺得他在死燈堡壘嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -404,7 +404,7 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>「親愛的小塞——這說的肯定是我！我知道你一定能找到我，請不要再尋找我的線索了。這一切苦果都是我自己釀成的，我不希望再把你也牽扯進來。」</DefaultText>
+      <DefaultText>「親愛的小塞—這說的肯定是我！我知道你一定能找到我，請不要再尋找我的線索了。這一切苦果都是我自己釀成的，我不希望再把你也牽扯進來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -414,7 +414,7 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>[洞察] 「信上似乎還有些別的內容。」</DefaultText>
+      <DefaultText>[洞察]「信上似乎還有些別的內容。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -438,7 +438,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>[拿走信件。]</DefaultText>
+      <DefaultText>[拿走信件]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -469,19 +469,19 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>「幾年前，這地方被艾戴斯佔領了。當時，這座要塞從頭到尾都臭烘烘的。為了把地板上的各種屎尿清理乾淨，她派她的手下刷了好幾個月的地板。」</DefaultText>
+      <DefaultText>「艾戴斯在好幾年前佔領了這地方。當時，整座堡壘都簡直是污七八糟。她派她的手下刷了好幾個月的地板來清理地上的魚糞。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>「有一部分人可能覺得應該換個地方混，他們就在夜裡偷偷逃跑了。沒過多久，艾戴斯就追上了他們，把他們的腦袋砍了下來，當做燈籠掛在堡壘的前門了。她管這叫舷窗堡壘的的死人燈。」
+      <DefaultText>「有一部分人可能覺得應該換個地方混，他們就在夜裡偷偷逃跑了。沒過多久，艾戴斯就追上了他們，把他們的腦袋砍了下來，當做燈籠掛在堡壘的前門了。她管這叫死燈堡壘的的死人燈。」
 
 他的鼻翼扇了一下。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>「我倒不是想說，我支援她不尊重皇族海盜的傳統。不過，她和弗蘭特那群老傢伙有諸多不和，我也不是不能理解。」
+      <DefaultText>「我雖然不喜歡她不尊重皇族海盜的傳統，但她對弗蘭特那群老傢伙的諸多不滿，我也不是不能理解。」
 
 他毛茸茸的手掌撫摸著胡辮。</DefaultText>
       <FemaleText />
@@ -513,7 +513,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>「涅克塔卡的黑市。如果你想買皇族海盜旗的話，就去那裡找吧。為了避開皇家守衛，黑市經常會換地方，我們只要找到它現在的地方就行了。」</DefaultText>
+      <DefaultText>「涅克塔卡 的黑市。如果你想買皇族海盜旗的話，就去那裡找吧。為了避開皇家守衛，黑市經常會換地方，我們只要找到它現在的地方就行了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -557,7 +557,7 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>「你的『熟人』只是你隨隨便便的某個情人嗎？」</DefaultText>
+      <DefaultText>「你的『線人』只是你隨隨便便的一個情人嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -582,7 +582,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>「算了吧。」</DefaultText>
+      <DefaultText>「算了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -597,7 +597,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>「你能這麼說這是太感謝了，船長，尤其是我的外表已經這麼優秀了。」塞拉芬眨了眨眼，拇指按在肚子上。</DefaultText>
+      <DefaultText>「你這樣說這是太感謝了，船長，尤其是我的外表已經這麼優秀。」塞拉芬眨了眨眼，拇指放在腰帶上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -622,7 +622,7 @@
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>「如果你真的打算硬衝的話，得給你的炮裝滿火藥和炮彈。順便祈禱在你的船被擊沉之前，先把舷窗堡壘的牆壁轟塌。另外，我希望你已經練習過游泳了，明白了吧？」</DefaultText>
+      <DefaultText>「如果你真的打算硬衝的話，得給你的炮裝滿火藥和炮彈。順便祈禱在你的船被擊沉之前，先把死燈堡壘的牆壁轟塌。另外，我希望你已經練習過游泳了，明白了吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -647,7 +647,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>「舷窗堡壘會發邀請函給別人嗎？」</DefaultText>
+      <DefaultText>「死燈堡壘會發邀請函給別人嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>「昂德拉在上啊，雷馬洛拖著這個箱子穿過了整個亡焰列島！」</DefaultText>
+      <DefaultText>「&lt;g&gt;昂德拉&lt;/g&gt;在上啊，雷馬洛拖著這個箱子穿過了整個 亡焰列島！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -735,7 +735,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>「雖然不知道這個烏黛恩是誰，但魔法水域對我來說，就像我的名字一樣清楚。當我還是個小屁孩，剛剛上巫師號的時候，雷馬洛會請我去涅克塔卡的流明澡堂裡泡澡。」
+      <DefaultText>「雖然不知道這個烏黛恩是誰，但魔法水域對我來說，就像我的名字一樣清楚。當我還是個小屁孩，剛剛上巫師號的時候，雷馬洛會請我去 &lt;g&gt;涅克塔卡&lt;/g&gt;的輝光澡堂裡泡澡。」
 
 他笑了起來，朝雷馬洛的箱子輕輕靠了過去，一隻手摸索著拋過光的木質表面。</DefaultText>
       <FemaleText />
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>「只要他們一吹起號角，整個舷窗堡壘就會像聚鹿的瑪珈嵐信徒一樣嚴陣以待。在所有陌生的船隻都被打成篩子之前，他們是不會放鬆警惕的。」</DefaultText>
+      <DefaultText>「只要他們一吹起號角，整個死燈堡壘就會像 &lt;g&gt;聚鹿&lt;/g&gt;的 &lt;g&gt;瑪珈嵐&lt;/g&gt;信徒一樣嚴陣以待。在所有陌生的船隻都被打成篩子之前，他們是不會放鬆警惕的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

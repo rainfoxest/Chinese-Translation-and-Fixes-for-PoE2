@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>&lt;ispeech&gt;別搞錯了——你才是這裡唯一的怪物。&lt;/ispeech&gt;蒸汽從他的嘴邊兩側湧出。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;別搞錯了—你才是這裡唯一的怪物。&lt;/ispeech&gt;蒸汽從他的嘴邊兩側湧出。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>&lt;ispeech&gt;佩瑞琪與她手下的法師用你身上的那根長杖創造了這座監獄。&lt;/ispeech&gt;他用頭點點密室周圍高聳的巨石。</DefaultText>
+      <DefaultText>&lt;ispeech&gt; &lt;g&gt;佩瑞琪&lt;/g&gt;與她手下的法師用你身上的那根長杖創造了這座監獄。&lt;/ispeech&gt;他用頭點點密室周圍高聳的巨石。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>「伽拉溫的豐饒之矛啊！真是頭漂亮的野獸。」</DefaultText>
+      <DefaultText>「伽拉溫 的豐饒之矛啊！真是頭漂亮的野獸。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「岡恩在上，它可真漂亮……而且我打賭它肯定聰明絕頂。」她倒吸一口涼氣。</DefaultText>
+      <DefaultText>「岡恩 在上，它可真漂亮……而且我打賭它肯定聰明絕頂。」她倒吸一口涼氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>[攻擊]「我的提議是——我帶著你的腦袋離開這。」</DefaultText>
+      <DefaultText>[攻擊]「我的提議是—我帶著你的腦袋離開這。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>&lt;ispeech&gt;佩瑞琪與其手下創造了一處結界，將我的靈魂鎖在了這間密室中。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt; &lt;g&gt;佩瑞琪&lt;/g&gt;與其手下創造了一處結界，將我的靈魂鎖在了這間密室中。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>&lt;ispeech&gt;你來這裡的理由只有一個。你在為胡亞納效命。&lt;/ispeech&gt;他的眼睛瞇成一條縫。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;你來這裡的理由只有一個。你在為 &lt;g&gt;胡亞納&lt;/g&gt;效命。&lt;/ispeech&gt;他的眼睛瞇成一條縫。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>&lt;ispeech&gt;這是什麼，昂德拉的幼崽嗎？&lt;/ispeech&gt;他用鼻子努努泰克胡的方向。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;這是什麼，昂德拉 的幼崽嗎？&lt;/ispeech&gt;他用鼻子努努泰克胡的方向。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>&lt;ispeech&gt;胡亞納是自取滅亡。我絕不會有半點悼念之情。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt; &lt;g&gt;胡亞納&lt;/g&gt;是自取滅亡。我絕不會有半點悼念之情。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,17 +301,17 @@
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>[攻擊]「被你發現了——我只是打算繞個圈子背刺你。」</DefaultText>
+      <DefaultText>[攻擊]「被你發現了—我只是打算繞個圈子背刺你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>「釋放你之前我要確保周圍一切安全。胡亞納人有漁網與魚叉。」</DefaultText>
+      <DefaultText>「釋放你之前我要確保周圍一切安全。&lt;g&gt;胡亞納&lt;/g&gt;人有漁網與魚叉。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>&lt;ispeech&gt;嗯……真是精明。我絕不會像面對佩瑞琪時那樣落入同樣的陷阱，但我如今實在太過虛弱，並不想冒這個風險。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;嗯……真是精明。我絕不會像面對 &lt;g&gt;佩瑞琪&lt;/g&gt;時那樣落入同樣的陷阱，但我如今實在太過虛弱，並不想冒這個風險。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>&lt;ispeech&gt;外來者威脅到列島時，胡亞納的力量也在削弱。狡猾的佩瑞琪為了達成交易而找到了我。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;外來者威脅到列島時，&lt;g&gt;胡亞納&lt;/g&gt;的力量也在削弱。狡猾的 &lt;g&gt;佩瑞琪&lt;/g&gt;為了達成交易而找到了我。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +441,7 @@
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>&lt;ispeech&gt;胡亞納人卻用它反過來對付我，正如這些背叛者自身的行徑一樣。&lt;/ispeech&gt;滾燙的水泡從他的下頜周圍滴落。</DefaultText>
+      <DefaultText>&lt;ispeech&gt; &lt;g&gt;胡亞納&lt;/g&gt;人卻用它反過來對付我，正如這些背叛者自身的行徑一樣。&lt;/ispeech&gt;滾燙的水泡從他的下頜周圍滴落。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -501,17 +501,17 @@
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>[撒謊]「不是胡亞納人派我來的。」</DefaultText>
+      <DefaultText>[撒謊]「不是 &lt;g&gt;胡亞納&lt;/g&gt;人派我來的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>&lt;ispeech&gt;當胡亞納人強大的天賦漸漸衰竭時，我賜予他們力量，使其得以呼潮喚浪對抗我們的敵人。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;當 &lt;g&gt;胡亞納&lt;/g&gt;人強大的天賦漸漸衰竭時，我賜予他們力量，使其得以呼潮喚浪對抗我們的敵人。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>&lt;ispeech&gt;而你與亡焰列島的掠奪沆瀣一氣，那麼我們也就是敵人了。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;而你與 &lt;g&gt;亡焰列島&lt;/g&gt;的掠奪沆瀣一氣，那麼我們也就是敵人了。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -521,7 +521,7 @@
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,7 +536,7 @@
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>&lt;ispeech&gt;如今我已不在，亡焰列島將滅亡。光魂珀痛苦地呼喚著守護者的出現。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;如今我已不在，&lt;g&gt;亡焰列島&lt;/g&gt;將滅亡。光魂珀痛苦地呼喚著守護者的出現。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,17 +546,17 @@
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>[攻擊]「沒錯——你將葬身於此。」</DefaultText>
+      <DefaultText>[攻擊]「沒錯—你將葬身於此。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>362</ID>
-      <DefaultText>[探索巨龍的靈魂。]「你的靈魂受困於此？讓我看看。」</DefaultText>
+      <DefaultText>[探索巨龍的靈魂]「你的靈魂受困於此？讓我看看。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>&lt;ispeech&gt;隨你怎麼想。我對亡焰列島的使命才是重中之重。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;隨你怎麼想。我對 &lt;g&gt;亡焰列島&lt;/g&gt;的使命才是重中之重。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -566,12 +566,12 @@
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>&lt;ispeech&gt;你是靈視者？能進入這間密室的基斯……真是有意思。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;你是靈視者？能進入這間密室的 &lt;g&gt;基斯&lt;/g&gt;……真是有意思。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>&lt;ispeech&gt;我可沒保證過要和你這……鑄魂學遊戲合作。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;我可沒保證過要和你這…… &lt;g&gt;鑄魂學&lt;/g&gt;遊戲合作。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -596,7 +596,7 @@
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +616,7 @@
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>&lt;ispeech&gt;你持有的長杖中包含有我的一片靈魂——它能摧毀這座監獄的結界。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;你持有的長杖中包含有我的一片靈魂—它能摧毀這座監獄的結界。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -646,7 +646,7 @@
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>&lt;ispeech&gt;你推三阻四就是不放我。從你們基斯的角度來看這件事很明確了。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;你推三阻四就是不放我。從你們 &lt;g&gt;基斯&lt;/g&gt;的角度來看這件事很明確了。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,7 +671,7 @@
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>&lt;ispeech&gt;當然。胡亞納人囚我於此，而你卻救我逃出生天。我絕不會忘記。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;當然。&lt;g&gt;胡亞納&lt;/g&gt;人囚我於此，而你卻救我逃出生天。我絕不會忘記。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,7 +681,7 @@
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>&lt;ispeech&gt;若你的希望渺茫於深海之上時，可感知吾之陰影降臨於世——必將護佑你周全！&lt;/ispeech&gt;斯基奧里拉法斯發出一聲得勝般的咆哮，向著岩石洞頂飛去。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;若你的希望渺茫於深海之上時，可感知吾之陰影降臨於世—必將護佑你周全！&lt;/ispeech&gt;斯基奧里拉法斯發出一聲得勝般的咆哮，向著岩石洞頂飛去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -786,7 +786,7 @@
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,7 +796,7 @@
     </Entry>
     <Entry>
       <ID>474</ID>
-      <DefaultText>&lt;ispeech&gt;下一處結界——快！&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;下一處結界—快！&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,7 +811,7 @@
     </Entry>
     <Entry>
       <ID>491</ID>
-      <DefaultText>「但如果他所言非虛，那麼把他留在這對胡亞納人更有幫助。」</DefaultText>
+      <DefaultText>「但如果他所言非虛，那麼把他留在這對 &lt;g&gt;胡亞納&lt;/g&gt;人更有幫助。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,7 +836,7 @@
     </Entry>
     <Entry>
       <ID>501</ID>
-      <DefaultText>&lt;ispeech&gt;在亡焰列島上，恩惠皆平等。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;在 &lt;g&gt;亡焰列島&lt;/g&gt;上，恩惠皆平等。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,22 +851,22 @@
     </Entry>
     <Entry>
       <ID>504</ID>
-      <DefaultText>「但是瓦利亞人在開採魂珀。」</DefaultText>
+      <DefaultText>「但是 &lt;g&gt;瓦利亞&lt;/g&gt;人在開採魂珀。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>&lt;ispeech&gt;看看我。你還會因為胡亞納人背信棄義而驚訝嗎？&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;看看我。你還會因為 &lt;g&gt;胡亞納&lt;/g&gt;人背信棄義而驚訝嗎？&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>506</ID>
-      <DefaultText>「水塑者並不會保護魂珀，他們只負責擊退努瓦泰艦隊。」</DefaultText>
+      <DefaultText>「水塑者並不會保護魂珀，他們只負責擊退 &lt;g&gt;努瓦泰&lt;/g&gt;艦隊。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>507</ID>
-      <DefaultText>&lt;ispeech&gt;沒錯。胡亞納人就是貪得無厭。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;沒錯。&lt;g&gt;胡亞納&lt;/g&gt;人就是貪得無厭。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,12 +876,12 @@
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>&lt;ispeech&gt;明智的人會銘記自己與古神恩加蒂的誓約。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;明智的人會銘記自己與古神 &lt;g&gt;恩加蒂&lt;/g&gt;的誓約。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>511</ID>
-      <DefaultText>&lt;ispeech&gt;胡亞納人會繼續努力的。成大事者必經臥薪嘗膽。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt; &lt;g&gt;胡亞納&lt;/g&gt;人會繼續努力的。成大事者必經臥薪嘗膽。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,7 +896,7 @@
     </Entry>
     <Entry>
       <ID>514</ID>
-      <DefaultText>&lt;ispeech&gt;自由如潮水湧來，亡焰列島會回應我的呼喚。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;自由如潮水湧來，&lt;g&gt;亡焰列島&lt;/g&gt;會回應我的呼喚。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -906,12 +906,12 @@
     </Entry>
     <Entry>
       <ID>516</ID>
-      <DefaultText>&lt;ispeech&gt;曾經共有三名守護者。其守護著列島、魂珀與失落的烏凱佐。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;曾經共有三名守護者。其守護著列島、魂珀與失落的 烏凱佐。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>「你對烏凱佐瞭解多少？」</DefaultText>
+      <DefaultText>「你對 &lt;g&gt;烏凱佐&lt;/g&gt;瞭解多少？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -926,17 +926,17 @@
     </Entry>
     <Entry>
       <ID>520</ID>
-      <DefaultText>&lt;ispeech&gt;基斯與諸神的對話之地？帝國的心臟？我只聽說過這麼多。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt; &lt;g&gt;基斯&lt;/g&gt;與諸神的對話之地？帝國的心臟？我只聽說過這麼多。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>521</ID>
-      <DefaultText>&lt;ispeech&gt;守護者擁有常人無可企及的壽命與力量。都像我一樣受到束縛，為胡亞納提供力量。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;守護者擁有常人無可企及的壽命與力量。都像我一樣受到束縛，為 &lt;g&gt;胡亞納&lt;/g&gt;提供力量。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>522</ID>
-      <DefaultText>&lt;ispeech&gt;烏凱佐已經失落於所有的歷史中。還是不要去記得那代表了傲慢的紀念碑吧。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt; &lt;g&gt;烏凱佐&lt;/g&gt;已經失落於所有的歷史中。還是不要去記得那代表了傲慢的紀念碑吧。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -951,22 +951,22 @@
     </Entry>
     <Entry>
       <ID>526</ID>
-      <DefaultText>&lt;ispeech&gt;曾經的胡亞納人本可將整片亡焰列島隨意改造。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;曾經的 &lt;g&gt;胡亞納&lt;/g&gt;人本可將整片 &lt;g&gt;亡焰列島&lt;/g&gt;隨意改造。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>527</ID>
-      <DefaultText>&lt;ispeech&gt;如今他們背叛了曾與恩加蒂定下的誓約。他們的能力就是曾經榮耀的迴響。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;如今他們背叛了曾與 &lt;g&gt;恩加蒂&lt;/g&gt;定下的誓約。他們的能力就是曾經榮耀的迴響。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>529</ID>
-      <DefaultText>&lt;ispeech&gt;在我的時代之前烏凱佐便已消失。有關於它的神話也不過只剩塵埃與灰燼。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;在我的時代之前 &lt;g&gt;烏凱佐&lt;/g&gt;便已消失。有關於它的神話也不過只剩塵埃與灰燼。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>530</ID>
-      <DefaultText>「這……與恩加蒂誓約奉行的信條差不多。」泰克胡皺起眉毛。</DefaultText>
+      <DefaultText>「這……與 &lt;g&gt;恩加蒂&lt;/g&gt;誓約奉行的信條差不多。」泰克胡皺起眉毛。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1011,7 +1011,7 @@
     </Entry>
     <Entry>
       <ID>539</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1046,7 +1046,7 @@
     </Entry>
     <Entry>
       <ID>546</ID>
-      <DefaultText>「以恩加蒂之名，他所言非虛。」</DefaultText>
+      <DefaultText>「以 &lt;g&gt;恩加蒂&lt;/g&gt;之名，他所言非虛。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1061,7 +1061,7 @@
     </Entry>
     <Entry>
       <ID>549</ID>
-      <DefaultText>&lt;ispeech&gt;你可否給予我坦格羅亞的親吻？我會很歡迎的。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;你可否給予我 &lt;g&gt;坦格羅亞&lt;/g&gt;的親吻？我會很歡迎的。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1081,12 +1081,12 @@
     </Entry>
     <Entry>
       <ID>553</ID>
-      <DefaultText>「確實。我們在進行開採與冶煉。絕大部分胡亞納人對此都十分滿意。」</DefaultText>
+      <DefaultText>「確實。我們在進行開採與冶煉。絕大部分 &lt;g&gt;胡亞納&lt;/g&gt;人對此都十分滿意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>&lt;ispeech&gt;我並不是什麼絕大部分。我是亡焰列島之頜。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;我並不是什麼絕大部分。我是 &lt;g&gt;亡焰列島&lt;/g&gt;之頜。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1105,7 +1105,7 @@
     </Entry>
     <Entry>
       <ID>559</ID>
-      <DefaultText>「你發誓會用死者的遺骸讓倖存者充飢，但鹿林的靈魂仍然發出飢餓的呻吟。」
+      <DefaultText>「你發誓會用死者的遺骸讓倖存者充飢，但 &lt;g&gt;鹿林&lt;/g&gt;的靈魂仍然發出飢餓的呻吟。」
 
 這雙眼睛瞇了起來。然後其焦點轉向了巨獸。</DefaultText>
       <FemaleText />
@@ -1114,12 +1114,12 @@
       <ID>560</ID>
       <DefaultText>「當我的勇士在你周圍合住下頜時，記住是&lt;i&gt;我的&lt;/i&gt;牙齒刺穿了你的皮膚。」
 
-伽拉溫向生物點點頭，退回了暗影中。</DefaultText>
+ 伽拉溫 向生物點點頭，退回了暗影中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>「鹿林的靈魂散發著生命的光芒。死者應順從於生者的需求。」
+      <DefaultText>「鹿林 的靈魂散發著生命的光芒。死者應順從於生者的需求。」
 
 這雙眼睛隨著其主人贊許地點頭而上下擺動。</DefaultText>
       <FemaleText />
@@ -1133,14 +1133,14 @@
     </Entry>
     <Entry>
       <ID>565</ID>
-      <DefaultText>&lt;ispeech&gt;你站在水塑者的聖殿之中，這些人在利用恩加蒂的能力玩些小把戲。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;你站在水塑者的聖殿之中，這些人在利用 &lt;g&gt;恩加蒂&lt;/g&gt;的能力玩些小把戲。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>566</ID>
-      <DefaultText>&lt;ispeech&gt;這項能力在逐漸衰退。胡亞納人辜負了誓約。
+      <DefaultText>&lt;ispeech&gt;這項能力在逐漸衰退。&lt;g&gt;胡亞納&lt;/g&gt;人辜負了誓約。
 
-在其全盤向外來者降伏之後，恩加蒂也不再垂青於曾經眷顧的子民。&lt;/ispeech&gt;</DefaultText>
+在其全盤向外來者降伏之後， &lt;g&gt;恩加蒂&lt;/g&gt;也不再垂青於曾經眷顧的子民。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1160,7 +1160,7 @@
     </Entry>
     <Entry>
       <ID>570</ID>
-      <DefaultText>&lt;ispeech&gt;在那段時間裡，諸神都在為胡亞納人無私奉獻。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;在那段時間裡，諸神都在為 &lt;g&gt;胡亞納&lt;/g&gt;人無私奉獻。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1170,7 +1170,7 @@
     </Entry>
     <Entry>
       <ID>572</ID>
-      <DefaultText>「我只知道恩加蒂之誓約的某種解釋……但沒錯。有這種可能。」
+      <DefaultText>「我只知道 &lt;g&gt;恩加蒂&lt;/g&gt;之誓約的某種解釋……但沒錯。有這種可能。」
 
 他緩緩地點頭。</DefaultText>
       <FemaleText />
@@ -1184,7 +1184,7 @@
     </Entry>
     <Entry>
       <ID>575</ID>
-      <DefaultText>&lt;ispeech&gt;我給佩瑞琪的禮物……我與胡亞納人的誓約。不過是又一個破碎的誓言罷了。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;我給 &lt;g&gt;佩瑞琪&lt;/g&gt;的禮物……我與 &lt;g&gt;胡亞納&lt;/g&gt;人的誓約。不過是又一個破碎的誓言罷了。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1227,12 +1227,12 @@
     </Entry>
     <Entry>
       <ID>582</ID>
-      <DefaultText>石地板周圍的結界將精粹吸於地下，然後將其中的能量轉向其他地方——涅克塔卡的水塑者學員。</DefaultText>
+      <DefaultText>石地板周圍的結界將精粹吸於地下，然後將其中的能量轉向其他地方— &lt;g&gt;涅克塔卡&lt;/g&gt;的水塑者學員。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>583</ID>
-      <DefaultText>&lt;ispeech&gt;西方之女，我想對胡亞納人做的事與我要對你的艦隊施加之物不值一提。&lt;/ispeech&gt;
+      <DefaultText>&lt;ispeech&gt;西方之女，我想對 &lt;g&gt;胡亞納&lt;/g&gt;人做的事與我要對你的艦隊施加之物不值一提。&lt;/ispeech&gt;
 
 巨龍深深呼出一口蒸汽。麥婭瞇起眼睛調整了一下重心。</DefaultText>
       <FemaleText />
@@ -1249,7 +1249,7 @@
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>&lt;ispeech&gt;在我來到涅克塔卡後一直有著一點小小的希望……直至今天。&lt;/ispeech&gt;他讚許地點點頭。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;在我來到 &lt;g&gt;涅克塔卡&lt;/g&gt;後一直有著一點小小的希望……直至今天。&lt;/ispeech&gt;他讚許地點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1259,9 +1259,9 @@
     </Entry>
     <Entry>
       <ID>588</ID>
-      <DefaultText>&lt;ispeech&gt;聰明的佩瑞琪扭曲了自己力量的形態。
+      <DefaultText>&lt;ispeech&gt;聰明的 &lt;g&gt;佩瑞琪&lt;/g&gt;扭曲了自己力量的形態。
 
-他們沒有給予恩加蒂應有的尊敬，而是依靠這座監獄的結界汲取力量。&lt;/ispeech&gt;
+他們沒有給予 &lt;g&gt;恩加蒂&lt;/g&gt;應有的尊敬，而是依靠這座監獄的結界汲取力量。&lt;/ispeech&gt;
 
 巨龍露出滿口利齒，牙縫間噴吐著蒸汽。</DefaultText>
       <FemaleText />
@@ -1273,7 +1273,7 @@
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>「母親……我是說，恩加蒂從未對我說過這些。」泰克胡抬起一隻顫抖的手放至眉角。</DefaultText>
+      <DefaultText>「母親……我是說，&lt;g&gt;恩加蒂&lt;/g&gt;從未對我說過這些。」泰克胡抬起一隻顫抖的手放至眉角。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1356,17 +1356,17 @@
     </Entry>
     <Entry>
       <ID>605</ID>
-      <DefaultText>[加強監禁法術。]</DefaultText>
+      <DefaultText>[加強監禁法術]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>607</ID>
-      <DefaultText>[使用深淵獵手的長杖中斷魔法。]</DefaultText>
+      <DefaultText>[使用深淵獵手的長杖中斷魔法]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>609</ID>
-      <DefaultText>[嘗試虹吸足夠的巨龍精粹來強化公會，然後打破監禁結界。]</DefaultText>
+      <DefaultText>[嘗試虹吸足夠的巨龍精粹來強化公會，然後打破監禁結界]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

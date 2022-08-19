@@ -1,215 +1,215 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\cyclopedia</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>41</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>992</ID>
-      <DefaultText>睿姆岡的觸碰會使基斯的靈魂被疾病與腐敗纏繞。這些人有時也被稱為終結神嗣，其體內的神明力量不僅侵蝕著其自身，同時也在侵擾其他人的身體。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1022</ID>
-      <DefaultText>寒冬巨獸是神明睿姆岡的具象化，也是最為原始的表象，外表好似一頭龐大的直立野牛。為了與睿姆岡代表死亡、破壞與終結的象徵相契合，巨獸也有著無情的處決之象。他代表了萬物終結時無可避免的悲傷與靜止。巨獸在意的似乎只有必然性，提前或延後某人的毀滅都將被視為巨獸凍蹄下追逐的獵物。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1023</ID>
-      <DefaultText>作為一條能夠掌控魔法的巨龍，奈瑞思賽拉絲對不朽的癡迷追求使其陷入了死亡的巨口之中。她在白色虛空中堅持了數個世紀，其靈魂漸漸在睿姆岡不斷的牽引之下襤褸不堪。儘管條件艱苦，但她仍然汲取著體內撕扯的熵能，同時努力讓自己在靈界中前行，於現世中搜尋更多精華以在生者世界中扎根——並且填補她永無止境的野心。
+ <Name>game\cyclopedia</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>41</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>992</ID>
+     <DefaultText>睿姆岡 的觸碰會使 &lt;g&gt;基斯&lt;/g&gt;的靈魂被疾病與腐敗纏繞。這些人有時也被稱為終結神嗣，其體內的神明力量不僅侵蝕著其自身，同時也在侵擾其他人的身體。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1022</ID>
+     <DefaultText>寒冬巨獸是神明 &lt;g&gt;睿姆岡&lt;/g&gt;的具象化，也是最為原始的表象，外表好似一頭龐大的直立野牛。為了與 &lt;g&gt;睿姆岡&lt;/g&gt;代表死亡、破壞與終結的象徵相契合，巨獸也有著無情的處決之象。他代表了萬物終結時無可避免的悲傷與靜止。巨獸在意的似乎只有必然性，提前或延後某人的毀滅都將被視為巨獸凍蹄下追逐的獵物。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1023</ID>
+     <DefaultText>作為一條能夠掌控魔法的巨龍，奈瑞思賽拉絲對不朽的癡迷追求使其陷入了死亡的巨口之中。她在白色虛空中堅持了數個世紀，其靈魂漸漸在 &lt;g&gt;睿姆岡&lt;/g&gt;不斷的牽引之下襤褸不堪。儘管條件艱苦，但她仍然汲取著體內撕扯的熵能，同時努力讓自己在靈界中前行，於現世中搜尋更多精粹以在生者世界中扎根—並且填補她永無止境的野心。
 
 奈瑞思賽拉絲的情況非常特殊，全艾歐拉之中恐怕也沒有和她一樣的了。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1024</ID>
-      <DefaultText>天災是睿姆岡在靈界的執法者。其目的與職責就是在睿姆岡領地的各個角落巡邏，並殘暴地將任何集中起來的靈魂精華摧毀為塵埃。唯一比完整的靈魂更能使這些無情殘暴之物發怒的就是躲過其斧刃的傢伙。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1025</ID>
-      <DefaultText>當睿姆岡的碾石之怒沒能完全消滅某個靈魂時，這些散落而迷失的碎片就會在靈界中遊蕩，尋求解脫或是湮滅。呆滯的靈魂會被牽引至生者的靈魂中，好比磁石會吸引鐵渣一樣——無助地嘗試加入或吞噬其已不再擁有的生命之光。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1026</ID>
-      <DefaultText>與睿姆岡領域中的許多居民不同，靈魂收集者不會摧毀精華——而是將其吸收。這些不知疲倦的能量融合者在靈界中四處遊走，吸取路上遇到的任何靈魂或是碎片以滿足其龐大的飢餓感。被靈魂收集者吞噬的靈魂無法湮滅——至少無法以正常的方式。其記憶與意識均被溶解純化為相同的物質，然而還在追尋著迷失的靈魂，彷彿在盲目地索求自由。為了更好地完成任務，每名收集者手中都有一盞燈籠，能使靈魂能量如同飛蛾撲火般吸引前來。據說當靈魂收集者吞噬了足夠多的靈魂之後，它們會把自己餵給腐爛守望者，不過並沒有人見過這一流程。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1027</ID>
-      <DefaultText>當漂浮在破碎領域中各處的靈魂碎片大量聚集時，睿姆岡就會派出一名腐爛守望者進行清理。這些毫無心智的裂縫雖然體積不大但卻力量十足——能將靈魂精華牽引至非常小的空間內，進行監禁、摧毀或是吞噬——沒人知道具體情況。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1028</ID>
-      <DefaultText>在冰凍神廟勢力的鼎盛時期，牧師與靈魂操縱者建立了一支構裝體軍隊，用於防禦聖所。由於散落的靈魂碎片均會歸入白色虛空等待采攫，其因而能夠隨心所欲地調遣靈魂精華。這些裝甲暴徒能夠抵抗冰川的寒冷氣候，並且在其主湮滅後仍然長時間擔任守望職責。因此，這座廢棄的神廟對勇敢的探險家或寶藏獵人而言並不是輕鬆的好去處。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1029</ID>
-      <DefaultText>Ekkevit</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1030</ID>
-      <DefaultText>若移冰地中一種流行的植物藥酒。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1031</ID>
-      <DefaultText>Fejin haemkamur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1032</ID>
-      <DefaultText>奧德尤瑪語，意為「很高興你回家了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1033</ID>
-      <DefaultText>Ja</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1034</ID>
-      <DefaultText>奧德尤瑪語中表示肯定。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1035</ID>
-      <DefaultText>Skyt</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1036</ID>
-      <DefaultText>奧德尤瑪語中的咒罵粗口。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1037</ID>
-      <DefaultText>Vytmadh</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1038</ID>
-      <DefaultText>奧德尤瑪語專有名詞，意為「白色的胃」。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1039</ID>
-      <DefaultText>Gotvadhja</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1040</ID>
-      <DefaultText>奧德尤瑪語，意為「很高興見到你」。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1041</ID>
-      <DefaultText>Gotvadhjur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1042</ID>
-      <DefaultText>艾塔波人</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1043</ID>
-      <DefaultText>山地矮人的正式稱呼。從瓦利亞詞語aptapolare（意為山羊居民）派生而來。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1044</ID>
-      <DefaultText>恩努塔尼克人</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1045</ID>
-      <DefaultText>寒地矮人的正式稱呼。恩努塔尼克意為「苔原居民」。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1046</ID>
-      <DefaultText>Sceltrfolc</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1047</ID>
-      <DefaultText>木精靈的正式稱呼。為古祖語詞語，意為「受庇護的居民」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1048</ID>
-      <DefaultText>Nae</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1049</ID>
-      <DefaultText>奧德尤瑪語，意為「不/沒有」。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1050</ID>
-      <DefaultText>格蘭費倫人</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1051</ID>
-      <DefaultText>寒地矮人來自與亡焰列島東南部相距較遠的一座大島——納斯塔寇，他們在巖岸上和雪林裡捕獵和覓食。與他們的遠親山地矮人一樣，他們對探險的熱愛近乎癡狂。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1052</ID>
-      <DefaultText>一千年前移居到若移冰地的精靈。他們以氏族為單位在那塊冰封大陸上跋涉。他們會與其他氏族以及恩努塔尼克人為了資源而發生衝突。他們由於信奉死亡之神睿姆岡而聲名狼藉，有些人認為他們就是睿姆岡的子嗣。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1053</ID>
-      <DefaultText>蒼精靈的正式稱呼。奧德尤瑪語中的「暮光居民」之意。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1054</ID>
-      <DefaultText>格蘭費倫人的語言與原先生活在若移冰地的祖先們有很大的差異。雖然可能跟聚鹿語有著相同的根源，但奧德尤瑪語對於沒學過它的人來說，還是有些晦澀難懂。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1055</ID>
-      <DefaultText>撒奧斯·壹·阿卡農是英格維仙文明的一員，也是灰鑰社的社長，灰鑰社是一個致力於守護神明秘密的組織。撒奧斯與女神娥狄卡結盟，擁有了找回所有前世記憶的能力，令他成為有史以來最惡名昭著的陰謀家之一。他被努亞堡的靈視者殺死，鹿林的空嬰危機就此告終。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1056</ID>
-      <DefaultText>愛歐瓦拉九世是英格維仙成員，前傳教士。在瞭解到神明的起源有人為捏造之嫌後，她領導一批追隨者對抗自己曾經的信仰。報復性的審訊將捉拿和折磨愛歐瓦拉，將她的靈魂交送至懺悔之庭，她在那裡度過了兩千多年，直到努亞堡的靈視者終結了她的刑期。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1057</ID>
-      <DefaultText>梅沃德曾經是努亞堡的領主，一位雄心勃勃的靈視者。他畢生的事業是修復他的城堡，但對前世的瞭解一度困擾著他，最終把他逼瘋。他被另一位靈視者殺掉，後者繼而佔據了城堡，接過了消弭各種威脅的繁複工作。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1058</ID>
-      <DefaultText>Dhakklatur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1059</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1062</ID>
-      <DefaultText>非正式的奧德尤瑪問候語。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1113</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-  </Entries>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1024</ID>
+     <DefaultText>天災是 &lt;g&gt;睿姆岡&lt;/g&gt;在靈界的執法者。其目的與職責就是在 &lt;g&gt;睿姆岡&lt;/g&gt;領地的各個角落巡邏，並殘暴地將任何集中起來的靈魂精粹摧毀為塵埃。唯一比完整的靈魂更能使這些無情殘暴之物發怒的就是躲過其斧刃的傢伙。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1025</ID>
+     <DefaultText>當 &lt;g&gt;睿姆岡&lt;/g&gt;的碾石之怒沒能完全消滅某個靈魂時，這些散落而迷失的碎片就會在靈界中遊蕩，尋求解脫或是湮滅。呆滯的靈魂會被牽引至生者的靈魂中，好比磁石會吸引鐵渣一樣—無助地嘗試加入或吞噬其已不再擁有的生命之光。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1026</ID>
+     <DefaultText>與 &lt;g&gt;睿姆岡&lt;/g&gt;領域中的許多居民不同，靈魂收集者不會摧毀精粹—而是將其吸收。這些不知疲倦的能量融合者在靈界中四處遊走，吸取路上遇到的任何靈魂或是碎片以滿足其龐大的飢餓感。被靈魂收集者吞噬的靈魂無法湮滅—至少無法以正常的方式。其記憶與意識均被溶解純化為相同的物質，然而還在追尋著迷失的靈魂，彷彿在盲目地索求自由。為了更好地完成任務，每名收集者手中都有一盞燈籠，能使靈魂能量如同飛蛾撲火般吸引前來。據說當靈魂收集者吞噬了足夠多的靈魂之後，它們會把自己餵給腐爛守望者，不過並沒有人見過這一流程。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1027</ID>
+     <DefaultText>當漂浮在破碎領域中各處的靈魂碎片大量聚集時，睿姆岡 就會派出一名腐爛守望者進行清理。這些毫無心智的裂縫雖然體積不大但卻力量十足—能將靈魂精粹牽引至非常小的空間內，進行監禁、摧毀或是吞噬—沒人知道具體情況。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1028</ID>
+     <DefaultText>在冰凍神廟勢力的鼎盛時期，牧師與靈魂操縱者建立了一支構裝體軍隊，用於防禦聖所。由於散落的靈魂碎片均會歸入白色虛空等待采攫，其因而能夠隨心所欲地調遣靈魂精粹。這些裝甲暴徒能夠抵抗冰川的寒冷氣候，並且在其主湮滅後仍然長時間擔任守望職責。因此，這座廢棄的神廟對勇敢的探險家或寶藏獵人而言並不是輕鬆的好去處。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1029</ID>
+     <DefaultText>Ekkevit</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1030</ID>
+     <DefaultText>&lt;g&gt;若移冰地&lt;/g&gt;中一種流行的植物藥酒。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1031</ID>
+     <DefaultText>Fejin haemkamür</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1032</ID>
+     <DefaultText>&lt;g&gt;奧德尤瑪&lt;/g&gt;語，意為「很高興你回家了。」</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1033</ID>
+     <DefaultText>Ja</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1034</ID>
+     <DefaultText>&lt;g&gt;奧德尤瑪&lt;/g&gt;語中表示肯定。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1035</ID>
+     <DefaultText>Skyt</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1036</ID>
+     <DefaultText>&lt;g&gt;奧德尤瑪&lt;/g&gt;語中的咒罵粗口。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1037</ID>
+     <DefaultText>Vytmádh</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1038</ID>
+     <DefaultText>&lt;g&gt;奧德尤瑪&lt;/g&gt;語專有名詞，意為「皓淵」。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1039</ID>
+     <DefaultText>Gotvadhja</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1040</ID>
+     <DefaultText>&lt;g&gt;奧德尤瑪&lt;/g&gt;語，意為「很高興見到你」。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1041</ID>
+     <DefaultText>Gótvadhjur</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1042</ID>
+     <DefaultText>艾塔波</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1043</ID>
+     <DefaultText>山地矮人的正式稱呼。從瓦利亞詞語aptapolare（意為山羊居民）派生而來。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1044</ID>
+     <DefaultText>恩努塔尼克</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1045</ID>
+     <DefaultText>寒地矮人的正式稱呼。恩努塔尼克意為「苔原居民」。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1046</ID>
+     <DefaultText>Sceltrfolc</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1047</ID>
+     <DefaultText>木精靈的正式稱呼。為古祖語詞語，意為「受庇護的居民」</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1048</ID>
+     <DefaultText>Nae</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1049</ID>
+     <DefaultText>&lt;g&gt;奧德尤瑪&lt;/g&gt;語，意為「不/沒有」。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1050</ID>
+     <DefaultText>格蘭費倫</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1051</ID>
+     <DefaultText>寒地矮人來自與 &lt;g&gt;亡焰列島&lt;/g&gt;東南部相距較遠的一座大島—納斯塔寇，他們在巖岸上和雪林裡捕獵和覓食。與他們的遠親山地矮人一樣，他們對探險的熱愛近乎癡狂。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1052</ID>
+     <DefaultText>一千年前移居到 若移冰地 的精靈。他們以氏族為單位在那塊冰封大陸上跋涉。他們會與其他氏族以及恩努塔尼克人為了資源而發生衝突。他們由於信奉死亡之神 &lt;g&gt;睿姆岡&lt;/g&gt;而聲名狼藉，有些人認為他們就是 &lt;g&gt;睿姆岡&lt;/g&gt;的子嗣。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1053</ID>
+     <DefaultText>蒼精靈的正式稱呼。&lt;g&gt;奧德尤瑪&lt;/g&gt;語中的「暮光居民」之意。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1054</ID>
+     <DefaultText>格蘭費倫 的語言與原先生活在 &lt;g&gt;若移冰地&lt;/g&gt;的祖先們有很大的差異。雖然可能跟聚鹿語有著相同的根源，但 &lt;g&gt;奧德尤瑪&lt;/g&gt;語對於沒學過它的人來說，還是有些晦澀難懂。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1055</ID>
+     <DefaultText>撒奧斯·伊克斯·阿卡農是 &lt;g&gt;英格維仙&lt;/g&gt;文明的一員，也是灰鑰社的社長，灰鑰社是一個致力於守護神明秘密的組織。撒奧斯與女神 &lt;g&gt;娥狄卡&lt;/g&gt;結盟，擁有了找回所有前世記憶的能力，令他成為有史以來最惡名昭著的陰謀家之一。他被 &lt;g&gt;努亞堡&lt;/g&gt;的靈視者殺死，&lt;g&gt;鹿林&lt;/g&gt;的 &lt;g&gt;空嬰&lt;/g&gt;危機就此告終。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1056</ID>
+     <DefaultText>愛歐瓦拉九世是 &lt;g&gt;英格維仙&lt;/g&gt;成員，前傳教士。在瞭解到神明的起源有人為捏造之嫌後，她領導一批追隨者對抗自己曾經的信仰。報復性的審訊將捉拿和折磨愛歐瓦拉，將她的靈魂交送至懺悔之庭，她在那裡度過了兩千多年，直到 &lt;g&gt;努亞堡&lt;/g&gt;的靈視者終結了她的刑期。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1057</ID>
+     <DefaultText>梅沃德曾經是 &lt;g&gt;努亞堡&lt;/g&gt;的領主，一位雄心勃勃的靈視者。他畢生的事業是修復他的城堡，但對前世的瞭解一度困擾著他，最終把他逼瘋。他被另一位靈視者殺掉，後者繼而佔據了城堡，接過了消弭各種威脅的繁複工作。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1058</ID>
+     <DefaultText>Dhakklatur</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1059</ID>
+     <DefaultText />
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1062</ID>
+     <DefaultText>非正式的 &lt;g&gt;奧德尤瑪&lt;/g&gt;問候語。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>1113</ID>
+     <DefaultText />
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

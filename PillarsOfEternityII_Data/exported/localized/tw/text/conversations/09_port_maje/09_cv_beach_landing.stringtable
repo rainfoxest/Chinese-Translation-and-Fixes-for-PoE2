@@ -8,11 +8,7 @@
       <ID>1</ID>
       <DefaultText>「這一路上你睡的時間怪長的呀。」
 
-
-
 「本來想叫醒你的，但看你臉埋在沙子裡還挺安詳的，就不忍心喊你了。」
-
-
 
 艾德爾理了理頭髮，清掉了一條纏在頭髮上的海草。他仔細地檢查了一下，然後把它丟在沙地上。</DefaultText>
       <FemaleText />
@@ -21,21 +17,19 @@
       <ID>2</ID>
       <DefaultText>「船的事兒你就別操心了。它擱淺啦，喏，就在那。」
 
-
-
-他指向反抗者號，不過從你這兒看去，很難不注意到它。</DefaultText>
+他指向 反抗者號，不過從你這兒看去，很難不注意到它。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>海浪的聲音把你吵醒，發現自己躺在沙灘上。你從風暴中倖存，被海水沖到一個陌生的沙灘上。
 
-周圍沙地上散落著反抗者號的殘骸。你看到附近有一尊熟悉的半身石像。</DefaultText>
+周圍沙地上散落著 反抗者號 的殘骸。你看到附近有一尊熟悉的半身石像。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「不幸的是，我們仍然需要反抗者號。除非你想在這座島上住一輩子。」</DefaultText>
+      <DefaultText>「不幸的是，我們仍然需要 反抗者號。除非你想在這座島上住一輩子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +37,7 @@
       <DefaultText>「看到你醒了，我就放心了，大人。我擔心你會就此一睡不起。」
 
 你的總管看起來卡在石頭堆裡了。儘管如此，她的語調仍然很高興。</DefaultText>
-      <FemaleText>「看到你醒了，我就放心了，夫人。我擔心你會就此一睡不起。」 
+      <FemaleText>「看到你醒了，我就放心了，夫人。我擔心你會就此一睡不起。」
 
 你的總管看起來卡在石頭堆裡了。儘管如此，她的語調仍然很高興。</FemaleText>
     </Entry>
@@ -59,9 +53,9 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「說不準。亡焰列島有很多島嶼，有些相當小。
+      <DefaultText>「說不準。亡焰列島 有很多島嶼，有些相當小。
 
-好消息是，如果風暴沒有把我們刮得太遠的話，我們應該還在海圖上的水域裡。此地應該是瓦利亞商行的工作動範圍。」</DefaultText>
+好消息是，如果風暴沒有把我們刮得太遠的話，我們應該還在海圖上的水域裡。此地應該是 &lt;g&gt;瓦利亞商行&lt;/g&gt;的工作動範圍。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,16 +75,14 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「船擱淺了吧，好像。
-」
+      <DefaultText>「船擱淺了吧，好像。」
 
-
-「雕像面朝內陸。想來他在此地尚有要事，要麼就是他也得問個路。」</DefaultText>
+「雕像往內陸去了。他在那邊應該是有要事吧，要麼就是他需要找個方向。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「我們肯定是在颳風暴期間離岸太近。於是反抗者號擱淺了。
+      <DefaultText>「我們肯定是在颳風暴期間離岸太近。於是 反抗者號 擱淺了。
 
 「在戰鬥中或者風暴中倖存下來的船員，估計被拋出甲板了。」</DefaultText>
       <FemaleText />
@@ -144,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「要是有足夠的時間和補給的話，應該可以修好。但即使修好也沒辦法把反抗者號推回到海面上去。
+      <DefaultText>「要是有足夠的時間和補給的話，應該可以修好。但即使修好也沒辦法把 反抗者號 推回到海面上去。
 
 「你需要一隊船員。昨晚有不少船員犧牲了。」</DefaultText>
       <FemaleText />
@@ -161,14 +153,14 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「修補船身只是個開始。把反抗者號推回到海面上去，需要人手。
+      <DefaultText>「修補船身只是個開始。把 反抗者號 推回到海面上去，需要人手。
 
 確切地說是需要一隊船員。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「這要由你來決定，不過……俄撒斯仍然掌握著你的一部分靈魂。
+      <DefaultText>「這要由你來決定，不過……俄撒斯 仍然掌握著你的一部分靈魂。
 
 「最後一次見到他時，他正走向內陸。應該不難找到他。」</DefaultText>
       <FemaleText />
@@ -190,7 +182,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「換我就會求俄撒斯前來相助，但就怕祂聽到後真的來一趟。」</DefaultText>
+      <DefaultText>「換我就會求 &lt;g&gt;俄撒斯&lt;/g&gt;前來相助，但就怕祂聽到後真的來一趟。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,14 +192,12 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「要是俄撒斯走這個方向，應該不難找到他。只希望沿路有人能活下來為我們提供線索。」</DefaultText>
+      <DefaultText>「要是 &lt;g&gt;俄撒斯&lt;/g&gt;走這個方向，應該不難找到他。只希望沿路有人能活下來為我們提供線索。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「現在嘛，活著的只有你和我了，再加上那邊那位輪椅女士。」
-
-
+      <DefaultText>「現在嘛，附近就只有你和我，還有那邊的總管。」
 
 艾德爾朝海灘遠處點了點頭。</DefaultText>
       <FemaleText />
@@ -224,17 +214,17 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「我的靈魂進入了異界，貝拉斯給了兩個選擇：要麼找到俄撒斯，要麼死亡。」</DefaultText>
+      <DefaultText>「我的靈魂進入了異界，&lt;g&gt;貝拉斯&lt;/g&gt;給了兩個選擇：要麼找到 俄撒斯，要麼死亡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「看來是因為眾神太蠢了，搞不清楚俄撒斯在幹什麼，因此他們派我回來查個明白。」</DefaultText>
+      <DefaultText>「看來是因為眾神太蠢了，搞不清楚 &lt;g&gt;俄撒斯&lt;/g&gt;在幹什麼，因此他們派我回來查個明白。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[瞇著眼睛望向大海。]「我是以貝拉斯使者的身份復活的。我要去執行一項特殊任務——找到俄撒斯，查清楚他的計劃。」</DefaultText>
+      <DefaultText>[瞇著眼睛望向大海]「我是以 &lt;g&gt;貝拉斯&lt;/g&gt;使者的身份復活的。我要去執行一項特殊任務—找到 俄撒斯，查清楚他的計劃。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,7 +234,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「看來他們還沒蠢到跑來這兒直面俄撒斯。」</DefaultText>
+      <DefaultText>「看來他們還沒蠢到跑來這兒直面 俄撒斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,17 +244,17 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>「根本就沒得選。不過，不管怎麼說，你仍然是我的大人，我會竭盡所能助你一臂之力。」</DefaultText>
-      <FemaleText>「根本就沒得選。不過，不管怎麼說，你仍然是我的夫人，我會竭盡所能助你一臂之力。」</FemaleText>
+      <DefaultText>「根本就沒得選。但是，不管有沒有城堡，你仍然是我的領主，我將盡我所能幫助你。」</DefaultText>
+      <FemaleText>「根本就沒得選。但是，不管有沒有城堡，你仍然是我的領主，我將盡我所能幫助你。」</FemaleText>
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「這確實是一項極其危險的任務。不管怎麼說，你仍然是我的大人，我會竭盡所能助你一臂之力。」</DefaultText>
-      <FemaleText>「這確實是一項極其危險的任務。不管怎麼說，你仍然是我的主子，我會竭盡所能助你一臂之力。」</FemaleText>
+      <DefaultText>「這確實是一項極其危險的任務。不管有沒有城堡，你仍然是我的領主，我將盡我所能幫助你。」</DefaultText>
+      <FemaleText>「這確實是一項極其危險的任務。不管有沒有城堡，你仍然是我的領主，我將盡我所能幫助你。」</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「貝拉斯給了我一項神聖使命。要我為其他諸神追殺俄撒斯。」</DefaultText>
+      <DefaultText>「&lt;g&gt;貝拉斯&lt;/g&gt;給了我一項神聖使命。要我為其他諸神追殺 俄撒斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,12 +309,12 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>「好，呃……俄撒斯會好運的，我想。」</DefaultText>
+      <DefaultText>「好，呃……俄撒斯 會好運的，我想。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>「那好吧。在我聽來像是俄撒斯得到了你靈魂中最美好的部分，因為留在你身上的部分肯定不值得保留。」</DefaultText>
+      <DefaultText>「那好吧。在我聽來像是 &lt;g&gt;俄撒斯&lt;/g&gt;得到了你靈魂中最美好的部分，因為留在你身上的部分肯定不值得保留。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

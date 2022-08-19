@@ -11,22 +11,22 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>你發現高台上裝著一台小型機器，周圍環繞著旋轉的圓環。似乎是英格維仙製造的。</DefaultText>
+      <DefaultText>你發現高台上裝著一台小型機器，周圍環繞著旋轉的圓環。似乎是 &lt;g&gt;英格維仙&lt;/g&gt;製造的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[關閉機器。]</DefaultText>
+      <DefaultText>[關閉機器]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[檢查機器。]</DefaultText>
+      <DefaultText>[檢查機器]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[設法破壞機器。]</DefaultText>
+      <DefaultText>[設法破壞機器]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

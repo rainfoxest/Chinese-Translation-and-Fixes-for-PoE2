@@ -57,7 +57,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[把藥給她。]</DefaultText>
+      <DefaultText>[把藥給她]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,7 +79,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「血苔和穴珊瑚——這兩種東西的搭配可以清除肺部的積液。肯定有人病得奄奄一息了。」</DefaultText>
+      <DefaultText>「血苔和穴珊瑚—這兩種東西的搭配可以清除肺部的積液。肯定有人病得奄奄一息了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,14 +94,14 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「岡恩神廟需要你這種能人。」
+      <DefaultText>「岡恩 神廟需要你這種能人。」
 
 她笑到一半又咳嗽起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「後面有一些患病的羅帕魯人。我做不了什麼，只能盡力讓他們感覺舒服點。」
+      <DefaultText>「後面有一些患病的 羅帕魯。我做不了什麼，只能盡力讓他們感覺舒服點。」
 
 她看向手腕上暗紅色的斑點。</DefaultText>
       <FemaleText />
@@ -117,29 +117,29 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「這並不是——」
+      <DefaultText>「這並不是—」
 
 她突然一陣猛咳。她一邊喘氣，一邊仔細打量你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「我聽說有一些羅帕魯人生病了，於是我把他們帶到這裡照料。城市裡的醫師都不來這裡。」她皺了皺眉，用力擦了一下鼻子。</DefaultText>
+      <DefaultText>「我聽說有一些 &lt;g&gt;羅帕魯&lt;/g&gt;生病了，於是我把他們帶到這裡照料。城市裡的醫師都不來這裡。」她皺了皺眉，用力擦了一下鼻子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「不過，如果這次疫病爆發的消息傳出去，這些可憐人就會被丟進舊城裡。涅克塔卡城裡手頭有錢的人都不願意把錢花在羅帕魯身上。」</DefaultText>
+      <DefaultText>「不過，如果這次疫病爆發的消息傳出去，這些可憐人就會被丟進舊城裡。涅克塔卡 城裡手頭有錢的人都不願意把錢花在 &lt;g&gt;羅帕魯&lt;/g&gt;身上。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「潛民街什麼都有。難就難在你得想辦法找到想要的東西，並花錢買下來。」</DefaultText>
+      <DefaultText>「&lt;g&gt;潛民街&lt;/g&gt;什麼都有。難就難在你得想辦法找到想要的東西，並花錢買下來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>她聳聳肩。「如果我猜錯了，你可以去酒館找人問問潛民街怎麼走。」</DefaultText>
+      <DefaultText>她聳聳肩。「但我打賭你能在酒館找找知道 &lt;g&gt;潛民街&lt;/g&gt;怎麼走的人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -149,7 +149,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>與此同時，她的兜帽滑落了下來，你看到她額頭上有三顆褪色的星星，那是晨星之子的標誌。</DefaultText>
+      <DefaultText>與此同時，她的兜帽滑落了下來，你看到她額頭上有三顆褪色的星星，那是 晨星之子 的標誌。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「我聽人說過這個笑話。「」</DefaultText>
+      <DefaultText>「我聽人說過這個笑話。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「你沒什麼好怕的。我心中也閃耀著俄撒斯的光輝。」</DefaultText>
+      <DefaultText>「你沒什麼好怕的。我心中也閃耀著 &lt;g&gt;俄撒斯&lt;/g&gt;的光輝。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,7 +248,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「我不對鬼魂發表什麼意見，但我聽說你有一顆善良的心。峽谷就需要有善心的人。」她抹去了嘴角的一小點血跡。</DefaultText>
+      <DefaultText>「我不對鬼魂發表什麼意見，但我聽說你有一顆善良的心。邊沟區 就需要有善心的人。」她抹去了嘴角的一小點血跡。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,12 +258,12 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>「沒別的事了吧？因為我得盡快去照顧病人了。「她瞥了一眼身後的羅帕魯病人。</DefaultText>
+      <DefaultText>「沒別的事了吧？因為我得盡快去照顧病人了。」她瞥了一眼身後的 &lt;g&gt;羅帕魯&lt;/g&gt;病人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>「就是這種藥。我代表自己和晨星之子謝謝你。」</DefaultText>
+      <DefaultText>「就是這種藥。我代表自己和 晨星之子 謝謝你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,7 +298,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>「假如其他種姓的人照顧羅帕魯，他們就不會病成這樣了。」
+      <DefaultText>「假如其他種姓的人照顧 羅帕魯，他們就不會病成這樣了。」
 
 「不管怎樣，解藥是有的。」她幾乎透明的眼睛放出光彩。</DefaultText>
       <FemaleText />
@@ -330,7 +330,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>「瓦利亞人帶來的『禮物』。」她一臉怒容地擦去眼睛裡的稀粘液。</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;人帶來的『禮物』。」她一臉怒容地擦去眼睛裡的稀粘液。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -362,7 +362,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>「我一般不信任峽谷的陌生人。但如果裘荻為你擔保，那我就信任你。」她凝視著裘荻，似乎在向她提問。</DefaultText>
+      <DefaultText>「我一般不信任 &lt;g&gt;邊沟區&lt;/g&gt;的陌生人。但如果裘荻為你擔保，那我就信任你。」她凝視著裘荻，似乎在向她提問。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -409,7 +409,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>「很不幸，晨星之子在城市的這塊區域並沒有什麼人脈。」她轉過身，拍打著自己的手臂。</DefaultText>
+      <DefaultText>「很不幸，晨星之子 在城市的這塊區域並沒有什麼人脈。」她轉過身，拍打著自己的手臂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,17 +426,17 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>「晨星之子對峽谷裡的什麼東西感興趣？」</DefaultText>
+      <DefaultText>「晨星之子 對 &lt;g&gt;邊沟區&lt;/g&gt;裡的什麼東西感興趣？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>「只對老實人感興趣。這兒的羅帕魯受著非人的待遇。他們甚至被迫吃升降機對面垃圾堆裡的垃圾。她搖搖頭。</DefaultText>
+      <DefaultText>「只對老實人感興趣。這兒的 &lt;g&gt;羅帕魯&lt;/g&gt;受著非人的待遇。他們甚至被迫吃升降機對面垃圾堆裡的垃圾。」她搖搖頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>「德理奧和他的皇族海盜人渣趁著監管疏忽的機會在潛民街開起了黑市。」</DefaultText>
+      <DefaultText>「德理奧和他的皇族海盜人渣趁著監管疏忽的機會在 &lt;g&gt;潛民街&lt;/g&gt;開起了黑市。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,7 +456,7 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>「有人說他是個舊瓦利亞傳統主義者。還有人說他是個有品位的惡棍。」她伸出手，把手掌像天平的托盤一樣移動著。</DefaultText>
+      <DefaultText>「有人說他是個 &lt;g&gt;舊瓦利亞&lt;/g&gt;傳統主義者。還有人說他是個有品位的惡棍。」她伸出手，把手掌像天平的托盤一樣移動著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,7 +468,7 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>「與此同時，隨著其他島嶼上的部落不斷湧入涅克塔卡城，峽谷變得越來越擁擠。」</DefaultText>
+      <DefaultText>「與此同時，隨著其他島嶼上的部落不斷湧入 &lt;g&gt;涅克塔卡&lt;/g&gt;城，邊沟區 變得越來越擁擠。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,7 +488,7 @@
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>「那麼或許潛民街把一部分錢財傳播到了這裡。」</DefaultText>
+      <DefaultText>「那麼或許 &lt;g&gt;潛民街&lt;/g&gt;把一部分錢財傳播到了這裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -503,12 +503,12 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>她聳聳肩。「如果俄撒斯保佑我，我下次仍會在這裡。」</DefaultText>
+      <DefaultText>她聳聳肩。「如果 &lt;g&gt;俄撒斯&lt;/g&gt;保佑我，我下次仍會在這裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>「我們提供一切力所能及的幫助。我們大多數人在紫金草疫病和聖戰結束後從瑞德賽拉斯趕來。有的人是趕來的這些家族的後代。」</DefaultText>
+      <DefaultText>「我們提供一切力所能及的幫助。我們大多數人在紫金草疫病和 &lt;g&gt;聖戰&lt;/g&gt;結束後從 瑞德賽拉斯 趕來。有的人是趕來的這些家族的後代。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -518,29 +518,29 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>「有時候，我覺得俄撒斯帶我們來到亡焰列島就是為了讓我們能做點好事。」</DefaultText>
+      <DefaultText>「有時候，我覺得 &lt;g&gt;俄撒斯&lt;/g&gt;帶我們來到 &lt;g&gt;亡焰列島&lt;/g&gt;就是為了讓我們能做點好事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「就連這種地方也肯定閃耀著俄撒斯的光輝。」</DefaultText>
+      <DefaultText>「就連這種地方也肯定閃耀著 &lt;g&gt;俄撒斯&lt;/g&gt;的光輝。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
       <DefaultText>她的表情因厭惡而扭曲。「德理奧和他的手下是這麼說的。」
 
-「他們招募羅帕魯偷港口的東西，匯報商人會面的消息。」</DefaultText>
+「他們招募 &lt;g&gt;羅帕魯&lt;/g&gt;偷港口的東西，匯報商人會面的消息。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「我並不責備羅帕魯，因為他們不這麼干就得去吃垃圾。但我不信任這些皇族海盜，正如我不信任商行一樣。」她交叉起雙臂，搖搖頭。</DefaultText>
+      <DefaultText>「我並不責備 羅帕魯，因為他們不這麼幹就得去吃垃圾。但我不信任這些皇族海盜，正如我不信任商行一樣。」她交叉起雙臂，搖搖頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>「不管這座城市的當權者最終何時決定打擊這兒的犯罪活動，倒霉的都將是羅帕魯。」</DefaultText>
+      <DefaultText>「不管這座城市的當權者最終何時決定打擊這兒的犯罪活動，倒霉的都將是 羅帕魯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -555,22 +555,22 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>「有人告訴我說你們或許能協助解決峽谷食物短缺的問題。」</DefaultText>
+      <DefaultText>「有人告訴我說你們或許能協助解決 &lt;g&gt;邊沟區&lt;/g&gt;食物短缺的問題。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>「我們盡力了。但依照胡亞納習俗是分「份子」的，也就是說我們給這些人提供的一切食物得先進入王宮。」</DefaultText>
+      <DefaultText>「我們盡力了。但依照 &lt;g&gt;胡亞納&lt;/g&gt;習俗是分『份子』的，也就是說我們給這些人提供的一切食物得先進入王宮。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>「那就得去問塞炆了。我本想親自去問她，但我在這裡脫不開身。以防更多生病的羅帕魯出現。」</DefaultText>
+      <DefaultText>「那就得去問塞炆了。我本想親自去問她，但我在這裡脫不開身。以防更多生病的 &lt;g&gt;羅帕魯&lt;/g&gt;出現。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>「如果女王在分配食物上偏袒羅帕魯，那晨星為何再次捐獻糧食？」</DefaultText>
+      <DefaultText>「如果女王在分配食物上偏袒 羅帕魯，那晨星為何再次捐獻糧食？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -580,12 +580,12 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>「如果皇族海盜答應把物資偷運給羅帕魯，你是否願意提供物資？」</DefaultText>
+      <DefaultText>「如果皇族海盜答應把物資偷運給 羅帕魯，你是否願意提供物資？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>「晨星之子為何不幫助羅帕魯解決食物短缺問題？」</DefaultText>
+      <DefaultText>「晨星之子 為何不幫助 &lt;g&gt;羅帕魯&lt;/g&gt;解決食物短缺問題？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -600,7 +600,7 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>「她是岡恩神廟的高階女祭司。跟她說是皮特莉讓你去的。她會聽你有什麼話說的。」大概會吧。」</DefaultText>
+      <DefaultText>「她是 &lt;g&gt;岡恩&lt;/g&gt;神廟的大祭司。跟她說是皮特莉讓你去的。她會聽你有什麼話說的。大概會吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -610,7 +610,7 @@
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>「這個人能讓你如此高度評價，真不簡單。「她睜大雙眼。</DefaultText>
+      <DefaultText>「這個人能讓你如此高度評價，真不簡單。」她睜大雙眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -656,12 +656,12 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>她聳聳肩。「如果我猜錯了，你可以去酒館找人問問潛民街怎麼走。」</DefaultText>
+      <DefaultText>她聳聳肩。「不是的話，我打賭你能在酒館找找知道 &lt;g&gt;潛民街&lt;/g&gt;怎麼走的人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>「是的，給部落提供食物是蘭迦和馬塔魯的職責。」</DefaultText>
+      <DefaultText>「是的，給部落提供食物是 &lt;g&gt;蘭迦&lt;/g&gt;和 &lt;g&gt;馬塔魯&lt;/g&gt;的職責。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,12 +671,12 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>「羅帕魯難道沒有醫師嗎？」泰克胡皺眉拉拽著自己長長的頭髮。</DefaultText>
+      <DefaultText>「&lt;g&gt;羅帕魯&lt;/g&gt;難道沒有醫師嗎？」泰克胡皺眉拉拽著自己長長的頭髮。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>「姑娘，不同之處在於，對皇族海盜而言，羅帕魯即是顧客又是部下。而對西方的那些寄生蟲來說，羅帕魯只不過是商品。」
+      <DefaultText>「姑娘，不同之處在於，對皇族海盜而言，&lt;g&gt;羅帕魯&lt;/g&gt;既是顧客又是部下，而對商行那些寄生蟲來說，羅帕魯只不過是商品。」
 
 他輕輕拍了拍鼻尖。</DefaultText>
       <FemaleText />
@@ -717,7 +717,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>「這些人是勞工與漁夫。許多人甚至不屬於卡罕加部落。他們在自己的部落毀於掠奪者和奴隸主之手後，流落到了這裡。」
+      <DefaultText>「這些人是勞工與漁夫。許多人甚至不屬於卡罕加部落。他們在自己的部落毀於掠奪者和奴隸販子之手後，流落到了這裡。」
 
 她再次面對你。</DefaultText>
       <FemaleText />
@@ -776,17 +776,17 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>「當然，也有可能我是想錯了。如果你需要去潛民街的話，我猜酒館裡面應該有人能夠幫到你。」</DefaultText>
+      <DefaultText>「當然，也有可能我是想錯了。如果你需要去 &lt;g&gt;潛民街&lt;/g&gt;的話，我猜酒館裡面應該有人能夠幫到你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>「但是看見你對羅帕魯的困境的關切之心後，我覺得也許你會為了他們去勇闖毒潭。」</DefaultText>
+      <DefaultText>「但是看見你對 &lt;g&gt;羅帕魯&lt;/g&gt;的困境的關切之心後，我覺得也許你會為了他們去勇闖毒潭。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>「如果你真的很想去那裡的話，我猜酒館裡面應該有人知道去潛民街的方法。」</DefaultText>
+      <DefaultText>「如果你真的很想去那裡的話，我猜酒館裡面應該有人知道去 &lt;g&gt;潛民街&lt;/g&gt;的方法。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,7 +811,7 @@
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>她的表情因厭惡而扭曲。「德理奧僱傭羅帕魯去偷港口的東西和打探商人之間會面的情報。」</DefaultText>
+      <DefaultText>她的表情因厭惡而扭曲。「德理奧僱傭 &lt;g&gt;羅帕魯&lt;/g&gt;去偷港口的東西和打探商人之間會面的情報。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -821,7 +821,7 @@
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>她的表情因厭惡而扭曲。「德理奧和他的手下僱傭羅帕魯去偷港口的東西和打探商人之間會面的情報。」</DefaultText>
+      <DefaultText>她的表情因厭惡而扭曲。「德理奧和他的手下僱傭 &lt;g&gt;羅帕魯&lt;/g&gt;去偷港口的東西和打探商人之間會面的情報。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[用法術驅散迷霧。]</DefaultText>
+      <DefaultText>[用法術驅散迷霧]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[踏入迷霧中。]</DefaultText>
+      <DefaultText>[踏入迷霧中]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「我想現在是讓你們這些迷失已久的人找到光亮了。這邊走！好的。「</DefaultText>
+      <DefaultText>「我想現在是讓你們這些迷失已久的人找到光亮了。這邊走！好的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,7 +73,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,12 +88,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>在靈魂向你衝來之前，你認出了一個基斯的模糊身影，然後伸出雙臂擁抱它。</DefaultText>
+      <DefaultText>在靈魂向你衝來之前，你認出了一個 &lt;g&gt;基斯&lt;/g&gt;的模糊身影，然後伸出雙臂擁抱它。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[讓裘荻將靈體引至燈籠之中。]</DefaultText>
+      <DefaultText>[讓裘荻將靈體引至燈籠之中]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

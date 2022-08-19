@@ -18,7 +18,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「好吧，現在阿爾瓦瑞當上『主管』了。我們似乎不必這麼大驚小怪。」
+      <DefaultText>「好吧，現在是『阿爾瓦瑞主管』了。我們似乎不必這麼大驚小怪。」
 
 「這間辦公室幾乎不會發生什麼變化。我只擔心賬目。」</DefaultText>
       <FemaleText />
@@ -32,7 +32,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「好，稍等。」
+      <DefaultText>「Ac，稍等。」
 
 桌邊的女性矮人仍然沒有抬頭看你。她用手中的羽毛筆輕拍著下巴，臉上帶著苦思冥想的表情。
 
@@ -56,19 +56,19 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「你好，靈視者。」</DefaultText>
+      <DefaultText>「Ado，靈視者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>「雖然只是一座炸藥庫，但連塔科瓦都能感受到它的損失。」
 
-「要是能給我瞥一眼亡焰皇家商行的賬簿，要我做什麼我都樂意。」</DefaultText>
+「Ac，要是能給我瞥一眼 &lt;g&gt;亡焰皇家商行&lt;/g&gt;的賬簿，要我做什麼我都樂意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「知道嗎，你都被記錄進我們的賬簿了。歸在了「損失緣由」一欄中。」</DefaultText>
+      <DefaultText>「知道嗎，你都被記錄進我們的賬簿了。歸在了『損失緣由』一欄中。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「能否跟我簡單說說瓦利亞商行？」</DefaultText>
+      <DefaultText>「能否跟我簡單說說 瓦利亞商行？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,7 +99,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「好吧……我可以告訴你的是瓦利亞商行的資金來自商行議會，因此也受其控制。這個議會由十一位投資人組成。」</DefaultText>
+      <DefaultText>「嗯……瓦利亞商行 的資金來自 Songretta mea Compresa，因此也受其控制，這些我可以告訴你。那是一個由十一位投資人組成的議會。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,7 +153,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「亡焰列島第一位胡亞納族皇后遇刺身亡。也許亡焰列島和共和國並沒有太大不同。」
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;第一位 &lt;g&gt;胡亞納&lt;/g&gt;族皇后遇刺身亡。也許 &lt;g&gt;亡焰列島&lt;/g&gt;和共和國並沒有太大不同。」
 
 「接下來的幾周裡，我們的外交官要在悲傷中度過了。浪費了這麼多錢。」</DefaultText>
       <FemaleText />
@@ -167,14 +167,14 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「在海上擊敗亡焰皇家商行是一碼事，可暗殺……」
+      <DefaultText>「在海上擊敗 &lt;g&gt;亡焰皇家商行&lt;/g&gt;是一碼事，可暗殺……」
 
-「要是這次蘭迦努伊能放過我們，那就是老天保佑了。」</DefaultText>
+「要是這次 蘭迦努伊 能放過我們，那就是老天保佑了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -184,12 +184,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「卡斯托爾要你盡快入宮找他。拜託你快去吧！」</DefaultText>
+      <DefaultText>「卡斯托爾要你盡快入宮找他。Apretta，拜託你！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「阿爾瓦瑞要你盡快去找她。拜託你快去吧！」</DefaultText>
+      <DefaultText>「阿爾瓦瑞要你盡快去找她。Apretta，拜託你！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,7 +270,7 @@
       <ID>57</ID>
       <DefaultText>「哦，他啊。家庭條件優越，也講道理。」
 
-「他為亡焰列島做了宏大的規劃。既宏大又燒錢的規劃。」</DefaultText>
+「他為 &lt;g&gt;亡焰列島&lt;/g&gt;做了宏大的規劃。既宏大又燒錢的規劃。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,7 +280,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>「議會不在期間，尼洛伯爵是這座島上的最高負責人。但他主要負責外交方面的事務。」
+      <DefaultText>「議會不在期間，尼洛伯爵是這座島上商行的最高負責人。但他主要負責外交方面的事務。」
 
 「日常業務方面，找主管就行了。」</DefaultText>
       <FemaleText />
@@ -292,19 +292,19 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>「比起閒聊，我的大腦恐怕更擅長處理數字。」
+      <DefaultText>「比起閒聊，我恐怕更擅長處理數字。」
 
 「我不是針對你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>「有人問起我的工作我其實還蠻開心的。平時來找我的人幾乎都是要我幫忙算賬。」</DefaultText>
+      <DefaultText>「有人找我聊聊天我是挺高興的。平時除非要我幫忙算賬，否則也沒有人來找我。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「真遺憾。」</DefaultText>
+      <DefaultText>「怪可憐。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,7 +314,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>「我想不通為什麼。你幹的大概是這裡最重要的工作。」</DefaultText>
+      <DefaultText>「我想也是。畢竟你幹的大概是這裡最重要的工作。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -352,7 +352,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>「嗯，我聽人說過這種話。你來商行上班肯定如魚得水。」
+      <DefaultText>「Ac，我聽人說過這種話。你來商行上班肯定如魚得水。」
 
 莎拉索心煩意亂地擺弄著桌上的一個鎮紙。</DefaultText>
       <FemaleText />
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>「哎呀，&lt;i&gt;你&lt;/i&gt;不是職員。抱歉，靈視者，我剛剛在忙別的。」
+      <DefaultText>「哎呀，&lt;i&gt;你&lt;/i&gt;不是職員。Sientere，靈視者，我剛剛在忙別的。」
 
 「別放在心上。他們不是平白無故把我派到這個辦公室的。」</DefaultText>
       <FemaleText />
@@ -405,7 +405,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>「我叫奧萊絲卡·莎拉索，是一名顧問。
+      <DefaultText>「我叫奧萊絲卡·莎拉索，是一名顧問。」
 
 「……你迷路了嗎？老實說，我基本不和別人……打交道。我大部分時間和數字打交道。」
 
@@ -437,7 +437,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>「巴達托家族是我們數一數二的重要投資者。瓦雷拉家族從事獵殺海盜，他們還擁有確保涅克塔卡城附近水域安全的開口合同。」</DefaultText>
+      <DefaultText>「巴達托家族是我們數一數二的重要投資者。瓦雷拉家族從事獵殺海盜，他們還擁有確保 &lt;g&gt;涅克塔卡&lt;/g&gt;城附近水域安全的開口合同。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -452,7 +452,7 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>「你就從不想家嗎？要是我能吃上一頓瓦利亞家常飯菜，要我怎樣我都願意。
+      <DefaultText>「你就從不想家嗎？要是我能吃上一頓 &lt;g&gt;瓦利亞&lt;/g&gt;家常飯菜，要我怎樣我都願意。
 
 莎拉索托著下巴，一陣憂愁湧上心頭。</DefaultText>
       <FemaleText />

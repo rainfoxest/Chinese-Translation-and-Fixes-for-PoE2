@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[展示智齒項鏈。] 「這是他給我的，你認得這項鏈嗎？」</DefaultText>
+      <DefaultText>[展示智齒項鏈] 「這是他給我的，你認得這項鏈嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「哈！整個亡焰列島上，有一半的德魯伊都是這樣。」</DefaultText>
+      <DefaultText>「哈！整個 &lt;g&gt;亡焰列島&lt;/g&gt;上，有一半的德魯伊都是這樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,7 +103,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[從他身邊經過。] 「我可不想惹麻煩。」</DefaultText>
+      <DefaultText>[從他身邊經過] 「我可不想惹麻煩。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,7 +138,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「我來這裡，是為了執行貝拉斯的神聖使命。如果你們敢擋住我們的去路，他們會毫不猶豫地殺光你們。」</DefaultText>
+      <DefaultText>「我來這裡，是為了執行 &lt;g&gt;貝拉斯&lt;/g&gt;的神聖使命。如果你們敢擋住我們的去路，他們會毫不猶豫地殺光你們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,7 +148,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「呃，哈特諾——！」賽貝爾退後一步，之後又退了兩步。</DefaultText>
+      <DefaultText>「呃，哈特諾—！」賽貝爾退後一步，之後又退了兩步。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,7 +203,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>「你的心就像托墨弗艾一樣黑，入侵者。你的靈魂燃燒著冰冷的火焰。」
+      <DefaultText>「你的心就像 &lt;g&gt;托墨弗艾&lt;/g&gt;一樣黑，入侵者。你的靈魂燃燒著冰冷的火焰。」
 
 哈特諾搓著下巴，到了之後，發出一聲讚許的咕嚕聲。</DefaultText>
       <FemaleText />
@@ -215,7 +215,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>「這個人足智多謀，這一點毫無疑問。但至於他們的價值嘛——就留給托墨弗艾進行決斷吧。」</DefaultText>
+      <DefaultText>「這個人足智多謀，這一點毫無疑問。但至於他們的價值嘛—就留給 &lt;g&gt;托墨弗艾&lt;/g&gt;進行決斷吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -225,8 +225,8 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「你覺得他是托墨弗艾的信徒嗎，哈特諾？或許是狩獵之面指引他來到這裡的。」</DefaultText>
-      <FemaleText>「你覺得她是托墨弗艾的信徒嗎，哈特諾？或許是狩獵之面指引他來到這裡的。」</FemaleText>
+      <DefaultText>「你覺得他是 &lt;g&gt;托墨弗艾&lt;/g&gt;的信徒嗎，哈特諾？或許是狩獵之面指引他來到這裡的。」</DefaultText>
+      <FemaleText>「你覺得她是 &lt;g&gt;托墨弗艾&lt;/g&gt;的信徒嗎，哈特諾？或許是狩獵之面指引他來到這裡的。」</FemaleText>
     </Entry>
     <Entry>
       <ID>67</ID>
@@ -240,7 +240,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>「你說的是我的哥哥吧？我上次聽說他的時候，他還挺好的。他和一個賞金獵人跑了，那個矮人人還不錯——」</DefaultText>
+      <DefaultText>「你說的是我的哥哥吧？我上次聽說他的時候，他還挺好的。他和一個賞金獵人跑了，那個矮人人還不錯—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>[對康士坦丁低語。] 「你能說服他嗎？你好像很懂這裡的規矩。」</DefaultText>
+      <DefaultText>[對康士坦丁低語] 「你能說服他嗎？你好像很懂這裡的規矩。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -300,12 +300,12 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>「我被伽拉溫親手觸碰過，正如這個地方一樣。你覺得這個地方屬於誰？是屬於你，還是屬於我？」</DefaultText>
+      <DefaultText>「我被 伽拉溫 親手觸碰過，正如這個地方一樣。你覺得這個地方屬於誰？是屬於你，還是屬於我？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>「我從萬獸的口中聽到了伽拉溫的神諭，是他讓我來這裡的。」</DefaultText>
+      <DefaultText>「我從萬獸的口中聽到了 伽拉溫 的神諭，是他讓我來這裡的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,7 +375,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>「既然如此，就由托墨弗艾進行決斷吧。」哈特諾收起了刀，哼了一聲，皺著眉。</DefaultText>
+      <DefaultText>「既然如此，就由 &lt;g&gt;托墨弗艾&lt;/g&gt;進行決斷吧。」哈特諾收起了刀，哼了一聲，皺著眉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -445,7 +445,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>「我是貝拉斯的使者。」</DefaultText>
+      <DefaultText>「我是 &lt;g&gt;貝拉斯&lt;/g&gt;的使者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -11,22 +11,22 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[扭彎並分開柵欄。]</DefaultText>
+      <DefaultText>[扭彎並分開柵欄]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[撬開門的鉸鏈。]</DefaultText>
+      <DefaultText>[撬開門的鉸鏈]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[通過柵欄來扳下拉桿。]</DefaultText>
+      <DefaultText>[通過柵欄來扳下拉桿]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -59,7 +59,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>一手緊緊抓住一根生銹的鋼筋，你穩住姿勢——雙腿分開，背撐直——然後盡自己的全力拉。
+      <DefaultText>一手緊緊抓住一根生銹的鋼筋，你穩住姿勢—雙腿分開，背撐直—然後盡自己的全力拉。
 
 你的胸口裡發出一聲呻吟，舌頭一舔，似乎嘗到了血味。你的身體戰慄著，就要精疲力盡了。
 
@@ -75,7 +75,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[把某人變成一個小生物。]</DefaultText>
+      <DefaultText>[把某人變成一個小生物]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,17 +85,17 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[重新考慮你的選項。]</DefaultText>
+      <DefaultText>[重新考慮你的選項]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[選擇法術的接受者。]</DefaultText>
+      <DefaultText>[選擇法術的接受者]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>灼熱噁心襲擊著你，你的胃擰成一團，你的皮膚在剝落——突然感覺自己被硬塞進一個矮小、多汗、毛髮濃密的身體裡。你沿著門邊在垃圾裡亂翻，你的鼻子一抽一抽的，過了好一陣你才記起要做的事情。
+      <DefaultText>灼熱噁心襲擊著你，你的胃擰成一團，你的皮膚在剝落—突然感覺自己被硬塞進一個矮小、多汗、毛髮濃密的身體裡。你沿著門邊在垃圾裡亂翻，你的鼻子一抽一抽的，過了好一陣你才記起要做的事情。
 
 啊，對了。
 
@@ -125,12 +125,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[扳動拉桿。]</DefaultText>
+      <DefaultText>[扳動拉桿]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[走開。]</DefaultText>
+      <DefaultText>[走開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,7 +145,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[對金屬施一個腐蝕法術。]</DefaultText>
+      <DefaultText>[對金屬施一個腐蝕法術]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,12 +179,12 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[拉出[Specified 0]。]</DefaultText>
+      <DefaultText>[拉出[Specified 0]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[什麼都不做。]</DefaultText>
+      <DefaultText>[什麼都不做]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -214,14 +214,14 @@
       <ID>36</ID>
       <DefaultText>她的手在束腰外衣裡握成拳頭，你用力拉了幾次，柵欄降得越來越低，但[Specified 0]似乎徹底被困住了。
 
-艾德爾罵了一聲，用力向前擠，粗糙的手掌緊貼在她的臀部上，然後你們倆在一起喊「一、二、三，走！」—— 她痛苦的嗚咽一聲，被推了出來。
+艾德爾罵了一聲，用力向前擠，粗糙的手掌緊貼在她的臀部上，然後你們倆在一起喊「一、二、三，走！」— 她痛苦的嗚咽一聲，被推了出來。
 
 [Specified 0]四肢蜷縮，摔倒在艾德爾身上，然後給了你一個感激又有些顫抖的微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>柵欄堅固、厚實，抓起來感覺冷冷的，但金屬輕微的擦傷了你的手掌 —— 多年來暴露於洞穴潮濕的空氣中生銹了。當你用盡全部的力量撬開柵欄時，鐵發出低沉的聲響，證明這有用了。</DefaultText>
+      <DefaultText>柵欄堅固、厚實，抓起來感覺冷冷的，但金屬輕微的擦傷了你的手掌 — 多年來暴露於洞穴潮濕的空氣中生銹了。當你用盡全部的力量撬開柵欄時，鐵發出低沉的聲響，證明這有用了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

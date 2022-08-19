@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>幫助之手</DefaultText>
+      <DefaultText>好幫手</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>尋找你的船員。</DefaultText>
+      <DefaultText>尋找你的&lt;b&gt;船員&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>反抗者號已經擱淺，上面的船員要麼死了要麼已經逃離。有可能還能找到更多生還者。</DefaultText>
+      <DefaultText>&lt;b&gt;反抗者號&lt;/b&gt;已經擱淺，上面的船員要麼死了要麼已經逃離。有可能還能找到更多&lt;b&gt;生還者&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>需要船員才能操縱這艘船。也許沙灘上還有倖存者。</DefaultText>
+      <DefaultText>需要船員才能操縱這艘船。也許&lt;b&gt;海灘&lt;/b&gt;上還有&lt;b&gt;倖存者&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>有人看見一名倖存者往北面的一處洞穴去了。</DefaultText>
+      <DefaultText>有人看見一名&lt;b&gt;倖存者&lt;/b&gt;往北面的一處洞穴去了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

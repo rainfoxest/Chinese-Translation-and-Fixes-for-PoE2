@@ -15,7 +15,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[檢查魚有無疾病跡象。] 「讓我們檢查一下捕獲的魚群有沒有生病。」</DefaultText>
+      <DefaultText>[檢查魚有無疾病跡象]「讓我們檢查一下捕獲的魚群有沒有生病。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -30,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>好幾條魚鱗片變色，肚子腫脹——明顯生病了。病變的肉可能讓船員生病。
+      <DefaultText>好幾條魚鱗片變色，肚子腫脹—明顯生病了。病變的肉可能讓船員生病。
 
 「明白嗎？」[Specified 0][Specified 1]悶悶不樂地問道。「你要把這些垃圾給我們？」</DefaultText>
       <FemaleText />
@@ -49,7 +49,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>沒有明顯的疾病跡象——沒有流膿的瘡瘍或眼睛流血——可能有未被察覺的細微魚病跡象。
+      <DefaultText>沒有明顯的疾病跡象—沒有流膿的瘡瘍或眼睛流血—可能有未被察覺的細微魚病跡象。
 
 「船長，如果我們留下這些魚，你的船員可能數天不能工作。」
 
@@ -99,7 +99,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[Specified 0]歎了口氣。「（如果）我們留下這些魚，船長，極有可能——」
+      <DefaultText>[Specified 0]歎了口氣。「（如果）我們留下這些魚，船長，極有可能—」
 
 「貯藏起來，」[Specified 1]叫道。「船長的話就是法律。讓我們把魚放到下面去。」
 
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[清除魚的毒質。]「我們將解決這個問題。」</DefaultText>
+      <DefaultText>[清除魚的毒質]「我們將解決這個問題。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

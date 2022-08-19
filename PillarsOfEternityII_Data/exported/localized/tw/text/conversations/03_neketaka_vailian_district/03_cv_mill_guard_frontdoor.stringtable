@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>守衛擋在你的路上。「你肯定是新來的吧。沒有瓦利亞商行的許可，任何人不許進出。」</DefaultText>
+      <DefaultText>守衛擋在你的路上。「你肯定是新來的吧。沒有 &lt;g&gt;瓦利亞商行&lt;/g&gt;的許可，任何人不許進出。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「如果你上級知道你妨礙瓦利亞外交人員前來進行調研會怎麼想？」</DefaultText>
+      <DefaultText>「如果你上級知道你妨礙 &lt;g&gt;瓦利亞&lt;/g&gt;外交人員前來進行調研會怎麼想？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[付給他800銅幣。]「我只是想隨便看看，這點錢就當給你添了麻煩的辛苦費。」</DefaultText>
+      <DefaultText>[付給他800 銅幣]「我只是想隨便看看，這點錢就當給你添了麻煩的辛苦費。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

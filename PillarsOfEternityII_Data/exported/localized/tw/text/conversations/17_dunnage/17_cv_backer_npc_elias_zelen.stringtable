@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>一名身材瘦長的金髮精靈正在翻閱著藝術家希爾巴所著的一本聚鹿語詩集。他的盔甲已經被用舊但是狀態良好，胸甲上面印有一隻抓著劍與王冠的雙頭鷹。
+      <DefaultText>一名身材瘦長的金髮精靈正在翻閱著藝術家希爾巴所著的一本 &lt;g&gt;聚鹿&lt;/g&gt;語詩集。他的盔甲已經被用舊但是狀態良好，胸甲上面印有一隻抓著劍與王冠的雙頭鷹。
 
 湊近了觀察之後，你注意到他空閒的一隻手正在鼓搗著一把掛鎖。</DefaultText>
       <FemaleText />
@@ -58,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「好吧，畢竟你聽我說了這麼久，我猜我&lt;i&gt;是&lt;/i&gt;欠你一兩個小技巧了……稍微給我點費用就好，三千枚銅幣就夠了。」</DefaultText>
+      <DefaultText>「好吧，畢竟你聽我說了這麼久，我猜我&lt;i&gt;是&lt;/i&gt;欠你一兩個小技巧了……稍微給我點費用就好，三千枚 銅幣 就夠了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -95,17 +95,17 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「我在瑞德賽拉斯的窮鄉毗鄰里面探險的時候發現了一座廢棄小鎮。小鎮牧師的屋子裡面存放著數量驚人的書籍。」</DefaultText>
+      <DefaultText>「我在 瑞德賽拉斯 的窮鄉毗鄰里面探險的時候發現了一座廢棄小鎮。小鎮牧師的屋子裡面存放著數量驚人的書籍。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「之後我厭倦了遊蕩生活，就在鹿林裡一座小村莊裡面安頓了下來，我成為了那裡貴族家庭的一名教師。我與那裡的女教師墮入了愛河，我就待了下來。
+      <DefaultText>「之後我厭倦了遊蕩生活，就在 &lt;g&gt;鹿林&lt;/g&gt;裡一座小村莊裡面安頓了下來，我成為了那裡貴族家庭的一名教師。我與那裡的女教師墮入了愛河，我就待了下來。
 
 「……待了有段時間。」</DefaultText>
       <FemaleText />
@@ -117,7 +117,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,7 +134,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「我不知道自己在亡焰列島會遇到什麼，但是我一直覺得這將是我人生中最偉大的一次冒險。」</DefaultText>
+      <DefaultText>「我不知道自己在 &lt;g&gt;亡焰列島&lt;/g&gt;會遇到什麼，但是我一直覺得這將是我人生中最偉大的一次冒險。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -154,12 +154,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「瑞德賽人非常保守，甚至比聚鹿人還要守舊。他們平就只看俄撒斯教派的聖典。」</DefaultText>
+      <DefaultText>「瑞德賽人非常保守，甚至比 &lt;g&gt;聚鹿&lt;/g&gt;人還要守舊。他們平就只看 &lt;g&gt;俄撒斯&lt;/g&gt;教派的聖典。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,7 +179,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,7 +204,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>[強化爆炸物與器械]「給你。」</DefaultText>
+      <DefaultText>[提高 &lt;g&gt;爆炸物&lt;/g&gt;和 &lt;g&gt;器械&lt;/g&gt;]「給你。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

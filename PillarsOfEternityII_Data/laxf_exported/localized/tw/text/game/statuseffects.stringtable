@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\statuseffects</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>1</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>597</ID>
-      <DefaultText>每一步都會讓一些共生體脫離剝落</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>game\statuseffects</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>1</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>597</ID>
+     <DefaultText>每一步都會讓一些共生體脫離剝落</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

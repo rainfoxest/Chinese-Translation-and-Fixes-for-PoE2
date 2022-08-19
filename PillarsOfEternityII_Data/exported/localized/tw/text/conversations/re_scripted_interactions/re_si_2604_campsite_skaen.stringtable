@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「你是風暴中的低語著......」</DefaultText>
+      <DefaultText>「你是風暴中的低語著…」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>他向你舉起了雙手。「我們沒有惡意。顯而易見，我們一直在這裡等你，因為我們......」他掃了一眼與你同行的其他人。</DefaultText>
+      <DefaultText>他向你舉起了雙手。「我們沒有惡意。顯而易見，我們一直在這裡等你，因為我們…」他掃了一眼與你同行的其他人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[走近一些。] 「我聽著呢。」</DefaultText>
+      <DefaultText>[走近一些]「我聽著呢。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[攻擊]「我的提議與你的剛好相反——去死吧。」</DefaultText>
+      <DefaultText>[攻擊]「我的提議與你的剛好相反—去死吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,12 +70,12 @@
       <ID>13</ID>
       <DefaultText>那個人從身上的長袍裡掏出一個娃娃。那是一個擁有黑石眼睛的化神。
 
-「&lt;link="glossary://GlossaryEntry_Skaen"&gt;沉默奴隸&lt;/link&gt; 讓您帶著這個。小小禮物，對您的忠誠略表心意。也為了平復您的心情。」</DefaultText>
+「&lt;link="glossary://GlossaryEntry_Skaen"&gt;沉默奴隸&lt;/link&gt;讓您帶著這個。小小禮物，對您的忠誠略表心意。也為了平復您的心情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「沒聽說過司坎這麼大方過。這個所謂的禮物到底是什麼？」</DefaultText>
+      <DefaultText>「沒聽說過 司坎 這麼大方過。這個所謂的禮物到底是什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,12 +90,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[攻擊]「司坎應該會更喜歡我直接殺了你，從你的屍體上拿走，對吧？」</DefaultText>
+      <DefaultText>[攻擊]「&lt;g&gt;司坎&lt;/g&gt;應該會更喜歡我直接殺了你，從你的屍體上拿走，對吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>那個人咯咯的笑了起來。「的確不是。」他拿出了一個小稻草娃娃。「這是一個化神。燒掉它，你就能召喚出司坎助你一臂之力。」</DefaultText>
+      <DefaultText>那個人咯咯的笑了起來。「的確不是。」他拿出了一個小稻草娃娃。「這是一個化神。燒掉它，你就能召喚出 司坎 助你一臂之力。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,9 +112,9 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>那個右邊的基斯是個披頭散髮的海民，歪著頭。「你確定？」
+      <DefaultText>那個右邊的 &lt;g&gt;基斯&lt;/g&gt;是個披頭散髮的海民，歪著頭。「你確定？」
 
-「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」 </DefaultText>
+「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,21 +124,21 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>那個人放低了聲音。「有一個地方就藏在這片荒野中......那是片古老的地方，由&lt;link="glossary://GlossaryEntry_Skaen"&gt;沉默奴隸&lt;/link&gt;掌管著。他們在等待一個願意做出犧牲的人......「
+      <DefaultText>那個人放低了聲音。「有一個地方就藏在這片荒野中…那是片古老的地方，由&lt;link="glossary://GlossaryEntry_Skaen"&gt;沉默奴隸&lt;/link&gt;掌管著。他們在等待一個願意做出犧牲的人…」
 
-「一次&lt;i&gt;真正地&lt;/i&gt; 犧牲，」 他旁邊的女人邊向你的同伴點頭邊說道。
+「一個&lt;i&gt;真正的&lt;/i&gt;犧牲，」他旁邊的女人邊向你的同伴點頭邊說道。
 
-「......他會一個一個對這種勇於奉獻的精神進行嘉獎。「</DefaultText>
+「…他會對這種勇於奉獻的精神進行嘉獎。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>」當然了。「</DefaultText>
+      <DefaultText>「當然了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>他鞠了一躬。「就這樣吧[Player Name]，努亞堡的靈視者。」
+      <DefaultText>他鞠了一躬。「就這樣吧[Player Name]，&lt;g&gt;努亞堡&lt;/g&gt;的靈視者。」
 
 「小心點，」那個女人說。「你的前路還很漫長。」
 
@@ -147,14 +147,14 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「沉默奴隸見了你，希望你能將潛力完全發揮出來。你現在還沒發揮出全力。」</DefaultText>
+      <DefaultText>「沉默奴隸看見了你，希望你能將潛力完全發揮出來。你現在還沒發揮出全力。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>左邊有個基斯，是個瘦瘦的光頭精靈，他抬起頭來。他的眼睛都被燒壞了，而他的聲音就像吹過干蘆葦的風。
+      <DefaultText>左邊有個 基斯，是個瘦瘦的光頭精靈，他抬起頭來。他的眼睛都被燒壞了，而他的聲音就像吹過干蘆葦的風。
 
-「神明已經為你安排好了一切......這隻不過才是冰山一角而已。」他輕蔑的在你周圍的叢林中招了招手。「這個化神讓你活到.....看到最後一幕的時候。」</DefaultText>
+「神明已經為你安排好了一切......這只不過才是冰山一角而已。」他輕蔑的在你周圍的叢林中招了招手。「這個化神讓你活到.....看到最後一幕的時候。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,14 +164,14 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>那個右邊的基斯是個披頭散髮的海民，歪著頭。「你確定？」
+      <DefaultText>那個右邊的 &lt;g&gt;基斯&lt;/g&gt;是個披頭散髮的海民，歪著頭。「你確定？」
 
-「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」 </DefaultText>
+「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>」當然了。「</DefaultText>
+      <DefaultText>「當然了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,7 +205,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[跟隨他們的指引。]</DefaultText>
+      <DefaultText>[跟隨他們的指引]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,9 +215,9 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>那個右邊的基斯是個披頭散髮的海民，歪著頭。「你確定？」
+      <DefaultText>那個右邊的 &lt;g&gt;基斯&lt;/g&gt;是個披頭散髮的海民，歪著頭。「你確定？」
 
-「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」 </DefaultText>
+「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -257,17 +257,17 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>這不是胡亞納神龕，只是隱藏在荒原深處的一座神廟，沉重的石頭一個挨著一個，靠在山體光滑的巖壁上。</DefaultText>
+      <DefaultText>這不是 &lt;g&gt;胡亞納&lt;/g&gt;神龕，只是隱藏在荒原深處的一座神廟，沉重的石頭一個挨著一個，靠在山體光滑的巖壁上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[搜索這片區域。]</DefaultText>
+      <DefaultText>[搜索這片區域]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>[不去管它。]</DefaultText>
+      <DefaultText>[不去管它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -282,7 +282,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>[獻祭[Specified 1]。]</DefaultText>
+      <DefaultText>[獻祭[Specified 1]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[選擇一個夥伴跟著你。]</DefaultText>
+      <DefaultText>[選擇一個夥伴跟著你]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -338,14 +338,14 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>那個右邊的基斯是個披頭散髮的海民，歪著頭。「你確定？」
+      <DefaultText>那個右邊的 &lt;g&gt;基斯&lt;/g&gt;是個披頭散髮的海民，歪著頭。「你確定？」
 
-「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」 </DefaultText>
+「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>」當然了。「</DefaultText>
+      <DefaultText>「當然了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,7 +365,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>[摧毀那個祭壇。]</DefaultText>
+      <DefaultText>[摧毀那個祭壇]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -392,7 +392,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>「很抱歉......他們沒能挺過來。「</DefaultText>
+      <DefaultText>「很抱歉…他們沒能挺過來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -407,11 +407,11 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>三個基斯從樹叢中走出來然後跳進了水裡。他們襤褸的長袍隨著水流而翻滾。快走到小溪中心的時候，他們停了下來。
+      <DefaultText>三個 &lt;g&gt;基斯&lt;/g&gt;從樹叢中走出來然後跳進了水裡。他們襤褸的長袍隨著水流而翻滾。快走到小溪中心的時候，他們停了下來。
 
-他們中間那個草原住民幸福地朝著你微笑。
+他們中間那個草原住民朝著你微笑。
 
-「[Player Name].努亞堡的靈視者。」</DefaultText>
+「[Player Name]，&lt;g&gt;努亞堡&lt;/g&gt;的靈視者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

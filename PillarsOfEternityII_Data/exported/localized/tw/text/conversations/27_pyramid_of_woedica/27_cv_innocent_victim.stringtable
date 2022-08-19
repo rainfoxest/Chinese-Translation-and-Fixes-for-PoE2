@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[伸手觸摸靈魂。]</DefaultText>
+      <DefaultText>[伸手觸摸靈魂]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>那個戴面具的人渴望「正義。」一把劍架在了你的脖子上，你感到劍鋒嵌進了肉中。虛無像浪潮一樣漫過了你的全身。</DefaultText>
+      <DefaultText>那個戴面具的人要求&lt;i&gt;正義&lt;/i&gt;。一把劍架在了你的脖子上，你感到劍鋒嵌進了肉中。虛無像浪潮一樣漫過了你的全身。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>一系列可怕的景像在你眼前閃過——殘忍的謀殺，非道的折磨，以及更可怕的事情。當這些墮落的靈魂重溫這些可怕的罪行時，你感到一陣充滿惡意的耳語闖進了你的意識中。他們在受害者的恐懼中找到了快意。</DefaultText>
+      <DefaultText>一系列可怕的景像在你眼前閃過—殘忍的謀殺，非道的折磨，以及更可怕的事情。當這些墮落的靈魂重溫這些可怕的罪行時，你感到一陣充滿惡意的耳語闖進了你的意識中。他們在受害者的恐懼中找到了快意。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「如果你看過該看的東西了，靈視者，我打算履行我的職責，收割這個靈魂。你允許我這麼做嗎？」
+      <DefaultText>「如果你看了該看的東西了，靈視者，我打算履行我的職責，收割這個靈魂。你允許我這麼做嗎？」
 
 裘荻舉起燈籠，充滿渴望。燈籠照在她臉上，發出了詭異的光。</DefaultText>
       <FemaleText />
@@ -179,9 +179,9 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>一系列圖像從你的腦海閃過。狹窄的石樓梯，寬敞的大廳，還有一座影影綽綽的娥狄卡雕像。
+      <DefaultText>一系列圖像從你的腦海閃過。狹窄的石樓梯，寬敞的大廳，還有一座影影綽綽的 &lt;g&gt;娥狄卡&lt;/g&gt;雕像。
 
-&lt;ispeech&gt;很近了，&lt;/ispeech&gt;那個靈魂說道。&lt;ispeech&gt;在更深的地方。&lt;/ispeech.&gt;</DefaultText>
+&lt;ispeech&gt;很近了&lt;/ispeech&gt;，那個靈魂說道。&lt;ispeech&gt;在更深的地方&lt;/ispeech&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

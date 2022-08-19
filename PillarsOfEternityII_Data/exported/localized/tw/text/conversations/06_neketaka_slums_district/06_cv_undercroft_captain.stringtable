@@ -23,7 +23,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[向她出示金陽幣。]</DefaultText>
+      <DefaultText>[向她出示金陽幣]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「雖然這話說起來很難受，但如果馬塔魯來者不善，我想還是撤退比較好。我不能在他們眼皮子底下給羅帕魯人送食物。」</DefaultText>
+      <DefaultText>「雖然這話說起來很難受，但如果 &lt;g&gt;馬塔魯&lt;/g&gt;來者不善，我想還是撤退比較好。我不能在他們眼皮子底下給 &lt;g&gt;羅帕魯&lt;/g&gt;送食物。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,19 +43,19 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「從舊城的一具男性屍體上撿到的。此人是被峽谷的守衛處決而死的。」</DefaultText>
+      <DefaultText>「從舊城的一具男性屍體上撿到的。此人是被 &lt;g&gt;邊沟區&lt;/g&gt;的守衛處決而死的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「該死的馬塔魯。至少這枚不是我的。這次不是。」
+      <DefaultText>「該死的 馬塔魯。至少這枚不是我的。這次不是。」
 
 她搖搖頭，手一鬆，錢幣又落回了你的手中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「我該如何確保你的生意安全而隱秘地繼續進行，以保證羅帕魯能填飽肚子呢？」</DefaultText>
+      <DefaultText>「我該如何確保你的生意安全而隱秘地繼續進行，以保證 &lt;g&gt;羅帕魯&lt;/g&gt;能填飽肚子呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,12 +90,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「三萬枚銅幣應該夠了。」</DefaultText>
+      <DefaultText>「三萬枚 銅幣 應該夠了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「風險讓晨星背。他們就願意提供糧食，只要能把這些糧食通過地下室偷運進去。」</DefaultText>
+      <DefaultText>「風險讓晨星背。他們就願意提供糧食，只要能把這些糧食通過地下洞室偷運進去。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,17 +150,17 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「皇族海盜偷運食物給羅帕魯要花多少錢來著？」</DefaultText>
+      <DefaultText>「皇族海盜偷運食物給 &lt;g&gt;羅帕魯&lt;/g&gt;要花多少錢來著？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「你會繼續將食物偷運給羅帕魯嗎？」</DefaultText>
+      <DefaultText>「你會繼續將食物偷運給 &lt;g&gt;羅帕魯&lt;/g&gt;嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「峽谷裡的人都知道烏羅格是我的人。除了馬塔魯之外。應該就是他們動的手。」她狠狠向腳下啐了一口。</DefaultText>
+      <DefaultText>「&lt;g&gt;邊沟區&lt;/g&gt;裡的人都知道烏羅格是我的人。除了 &lt;g&gt;馬塔魯&lt;/g&gt;之外。應該就是他們動的手。」她狠狠向腳下啐了一口。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>「他把兩條腿都摔斷了，還好海麗婭大發慈悲，他只是摔斷了腿。但從那之後，他對航海就再也提不起興趣了。」</DefaultText>
+      <DefaultText>「他把兩條腿都摔斷了，還好 &lt;g&gt;海麗婭&lt;/g&gt;大發慈悲，他只是摔斷了腿。但從那之後，他對航海就再也提不起興趣了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,14 +207,14 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>「看看這是誰——還是什麼來了？」
+      <DefaultText>「看看這是誰—還是什麼來了？」
 
 她短促的手指不耐煩地摩擦著腰帶上的燧發槍。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>莫萊娜的樣子看起來冷峻而刻薄。她的頭髮在頭頂上盤成了一條大辮子。羽毛還有一點骨頭——用絲帶綁好的牙齒與指骨——從髮絲中微微伸出，就像昏暗光線下的紅酒。
+      <DefaultText>莫萊娜的樣子看起來冷峻而刻薄。她的頭髮在頭頂上盤成了一條大辮子。羽毛還有一點骨頭—用絲帶綁好的牙齒與指骨—從髮絲中微微伸出，就像昏暗光線下的紅酒。
 
 你毫不懷疑她會將剛剛的威脅貫徹到底。</DefaultText>
       <FemaleText />
@@ -270,7 +270,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>「烏羅格被殺了，這意味著沒有了他偷運進峽谷的食物，羅帕魯要挨餓了。」</DefaultText>
+      <DefaultText>「烏羅格被殺了，這意味著沒有了他偷運進 &lt;g&gt;邊沟區&lt;/g&gt;的食物，&lt;g&gt;羅帕魯&lt;/g&gt;要挨餓了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,7 +295,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>「我們可以避開馬塔魯。」</DefaultText>
+      <DefaultText>「我們可以避開 馬塔魯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>「兩萬枚銅幣應該夠了。」</DefaultText>
+      <DefaultText>「兩萬枚 銅幣 應該夠了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,7 +335,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>「告訴岡恩神廟的那些好人留意一個有錢的紳士，盡早來做禮拜。」那人是我的大副，他會透露詳情。」</DefaultText>
+      <DefaultText>「告訴 &lt;g&gt;岡恩&lt;/g&gt;神廟的那些好人留意一個有錢的紳士，盡早來做禮拜。」那人是我的大副，他會透露詳情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -345,7 +345,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>[舉起雙手，撤退。]「我不小心走錯了。僅此而已。」</DefaultText>
+      <DefaultText>[舉起雙手，撤退]「我不小心走錯了。僅此而已。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,12 +473,12 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>「當然了。他是我在峽谷的聯繫人。」</DefaultText>
+      <DefaultText>「當然了。他是我在 &lt;g&gt;邊沟區&lt;/g&gt;的聯繫人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>[對著她的嘴就是一拳。]</DefaultText>
+      <DefaultText>[對著她的嘴就是一拳]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -520,7 +520,7 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>[聳肩。]</DefaultText>
+      <DefaultText>[聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -535,7 +535,7 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>「他從前是個制帆大師。很多皇族海盜船員爭著要把他請上自己的船，但有一天，他在索具上一腳踩空跌了下來。」</DefaultText>
+      <DefaultText>「他從前是個製帆大師。很多皇族海盜船員爭著要把他請上自己的船，但有一天，他在索具上一腳踩空跌了下來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -545,7 +545,7 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>「雖然這話說起來很難受，但如果馬塔魯來者不善，我想還是撤退比較好。我不能在他們眼皮子底下給羅帕魯人送食物。」</DefaultText>
+      <DefaultText>「雖然這話說起來很難受，但如果 &lt;g&gt;馬塔魯&lt;/g&gt;來者不善，我想還是撤退比較好。我不能在他們眼皮子底下給 &lt;g&gt;羅帕魯&lt;/g&gt;送食物。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -570,7 +570,7 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>[搖頭。]</DefaultText>
+      <DefaultText>[搖頭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -730,7 +730,7 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>「峽谷裡的人都知道烏羅格是我的人。除了馬塔魯之外。應該就是他們動的手。」她狠狠向腳下啐了一口。</DefaultText>
+      <DefaultText>「&lt;g&gt;邊沟區&lt;/g&gt;裡的人都知道烏羅格是我的人。除了 &lt;g&gt;馬塔魯&lt;/g&gt;之外。應該就是他們動的手。」她狠狠向腳下啐了一口。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -752,7 +752,7 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>「我艦隊的指揮官兼新人的無情領袖：艾戴斯船長也不會忘記。如果你覺得自己膽子夠肥，就去舷窗堡壘拜會她吧。」
+      <DefaultText>「我艦隊的指揮官兼新人的無情領袖：艾戴斯船長也不會忘記。如果你覺得自己膽子夠肥，就去死燈堡壘拜會她吧。」
 
 這位矮人猥瑣地笑了，好像因為自己講了一個只有他們才聽得懂的笑話。</DefaultText>
       <FemaleText />
@@ -796,17 +796,17 @@
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>「我在峽口發現的，他的碎肢遍地都是。」</DefaultText>
+      <DefaultText>「我在深巷發現的，他的碎肢遍地都是。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>[聳肩。]</DefaultText>
+      <DefaultText>[聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>[聳聳肩。]</DefaultText>
+      <DefaultText>[聳聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,7 +836,7 @@
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>「有人殺了你的手下烏羅格，另外羅帕魯依然需要食物。」</DefaultText>
+      <DefaultText>「有人殺了你的手下烏羅格，另外 &lt;g&gt;羅帕魯&lt;/g&gt;依然需要食物。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -866,7 +866,7 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>「瓦利亞商行的那些孫子們在女王港的磨坊裡存放著大量光魂珀。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞商行&lt;/g&gt;的那些孫子們在女王港的磨坊裡存放著大量光魂珀。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -878,12 +878,12 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>「羅帕魯總有一天得自力更生，但目前來說，我們會罩著他們。」</DefaultText>
+      <DefaultText>「&lt;g&gt;羅帕魯&lt;/g&gt;總有一天得自力更生，但目前來說，我們會罩著他們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>「羅帕魯總有一天得自力更生，但目前來說，我們會罩著他們。」</DefaultText>
+      <DefaultText>「&lt;g&gt;羅帕魯&lt;/g&gt;總有一天得自力更生，但目前來說，我們會罩著他們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -908,7 +908,7 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>「血雨腥風和戰場！那是我最喜歡的兩個東西——除了酒和黃金。」</DefaultText>
+      <DefaultText>「血雨腥風和戰場！那是我最喜歡的兩個東西—除了酒和黃金。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -918,7 +918,7 @@
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>「瓦利亞商行的那些孫子們在女王港的磨坊裡存放著大量光魂珀。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞商行&lt;/g&gt;的那些孫子們在女王港的磨坊裡存放著大量光魂珀。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -928,7 +928,7 @@
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>「瓦利亞商行的那些孫子們在女王港的磨坊裡存放著大量光魂珀。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞商行&lt;/g&gt;的那些孫子們在女王港的磨坊裡存放著大量光魂珀。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -943,7 +943,7 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>「向我的船員尋釁鬥毆不是吸引我注意力最聰明的方式。但我們在這——有著一腔熱血。」</DefaultText>
+      <DefaultText>「向我的船員尋釁鬥毆不是吸引我注意力最聰明的方式。但我們在這—有著一腔熱血。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

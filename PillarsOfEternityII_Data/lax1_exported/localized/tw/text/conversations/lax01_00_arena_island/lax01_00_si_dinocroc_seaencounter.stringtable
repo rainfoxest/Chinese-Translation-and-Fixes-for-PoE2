@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>你看到了某個狹長的、蜿蜒的影子潛伏在水面之下。那並不是魚，那只生物用兩條腿和一條又長又細的尾巴向前游著。
+      <DefaultText>你看到了某個狹長的、蜿蜒的影子潛伏在水面之下。那並不是魚，那頭生物用兩條腿和一條又長又細的尾巴向前游著。
 
 你感覺肺裡的空氣突然被擠走了，胃裡也翻湧起來，你喘了口氣。</DefaultText>
       <FemaleText />
@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Specified 0]站了起來，一邊看著手指，一邊皺著眉頭。「諸神在上，[Specified 1]！以昂德拉之名啊，你到底以為你自己在幹什麼啊？」</DefaultText>
+      <DefaultText>[Specified 0]站了起來，一邊看著手指，一邊皺著眉頭。「諸神在上，[Specified 1]！以 &lt;g&gt;昂德拉&lt;/g&gt;之名啊，你到底以為你自己在幹什麼啊？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,12 +63,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Specified 0]皺起眉頭。「這又不代表它不會再回來……」 有個水手嘟囔了一句。</DefaultText>
+      <DefaultText>[Specified 0]皺起眉頭。「這又不代表它不會再回來……」有個水手嘟囔了一句。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Specified 0]聳了聳肩。「那不過是頭畜生，船長。你不是都殺過食人魔或者巨龍之類的嗎。」</DefaultText>
+      <DefaultText>[Specified 0]聳了聳肩。「那不過是頭畜生，船長。你不是都殺過巨魔或者巨龍之類的嗎。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +90,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Specified 0]站了起來，一邊看著手指，一邊皺著眉頭。「諸神在上，[Specified 1]！以昂德拉之名啊，你到底以為你自己在幹什麼啊？」</DefaultText>
+      <DefaultText>[Specified 0]站了起來，一邊看著手指，一邊皺著眉頭。「諸神在上，[Specified 1]！以 &lt;g&gt;昂德拉&lt;/g&gt;之名啊，你到底以為你自己在幹什麼啊？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -154,7 +154,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「伽拉溫通過它和我說話了。」</DefaultText>
+      <DefaultText>「伽拉溫 通過它和我說話了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,12 +164,12 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「伽拉溫看起來相當不高興，這不僅僅是因為我在這裡。」</DefaultText>
+      <DefaultText>「伽拉溫 看起來相當不高興，這不僅僅是因為我在這裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[點頭。]</DefaultText>
+      <DefaultText>[點頭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

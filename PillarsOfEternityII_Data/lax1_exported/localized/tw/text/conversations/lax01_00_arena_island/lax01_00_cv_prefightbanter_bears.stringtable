@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>當幾頭熊向你逼近時，麝香、黴菌和尿液的氣味壓迫著你的感官。這些猛獸背上坐著馴獸師，那是一群身穿毛皮補衣的基斯，他們嗅到了營火和生肉的氣味。</DefaultText>
+      <DefaultText>當幾頭熊向你逼近時，麝香、黴菌和尿液的氣味壓迫著你的感官。這些猛獸背上坐著馴獸師，那是一群身穿毛皮補衣的 &lt;g&gt;基斯&lt;/g&gt;，他們嗅到了營火和生肉的氣味。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,7 +38,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,7 +50,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「我也這麼覺得。你是從努亞堡來的靈視者，對吧？看到又一夥人即將向島民展現鹿林的力量，打心裡覺得高興！」</DefaultText>
+      <DefaultText>「我也這麼覺得。你是從 &lt;g&gt;努亞堡&lt;/g&gt;來的靈視者，對吧？看到又一夥人即將向島民展現 &lt;g&gt;鹿林&lt;/g&gt;的力量，打心裡覺得高興！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -74,17 +74,17 @@
       <ID>14</ID>
       <DefaultText>「不過你也許聽到別人稱我們為求生之面的現任選民。那是一個我們決心捍衛的頭銜。」
 
-他指了指自己的頭盔——一個野豬樣式的輕型鋼盔——豪爽地拍打了一下。</DefaultText>
+他指了指自己的頭盔—一個野豬樣式的輕型鋼盔—豪爽地拍打了一下。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[伸出手撫摸熊。]</DefaultText>
+      <DefaultText>[伸出手撫摸熊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[拍拍熊腦袋。] 「很高興見到你，但是要聽主人的話。」</DefaultText>
+      <DefaultText>[拍拍熊腦袋] 「很高興見到你，但是要聽主人的話。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「我想把你餵給你的寵物——這髒兮兮的狗東西看起來需要飽餐一頓。」</DefaultText>
+      <DefaultText>「我想把你餵給你的寵物—這髒兮兮的狗東西看起來需要飽餐一頓。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「願托墨弗艾與你同在，願強者恆強。」</DefaultText>
+      <DefaultText>「願 &lt;g&gt;托墨弗艾&lt;/g&gt;與你同在，願強者恆強。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[繼續撫摸熊。] 「抱歉，我在交新朋友。你說了什麼嗎？」</DefaultText>
+      <DefaultText>[繼續撫摸熊] 「抱歉，我在交新朋友。你說了什麼嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[無視他們，繼續走。]</DefaultText>
+      <DefaultText>[無視他們，繼續走]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,7 +174,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「衷心感謝。我們的目標是贏得最高的榮譽——狩獵冠軍。」</DefaultText>
+      <DefaultText>「衷心感謝。我們的目標是贏得最高的榮譽—狩獵冠軍。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -189,7 +189,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>一個巨熊般的基斯——和他的熊——打量著你。他們的麝香混合成了一種難以名狀的臭味。頭頂上的競技場看台坐滿了騷動的觀眾。</DefaultText>
+      <DefaultText>一個巨熊般的 &lt;g&gt;基斯&lt;/g&gt;—和他的熊—打量著你。他們的麝香混合成了一種難以名狀的臭味。頭頂上的競技場看台坐滿了騷動的觀眾。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@
       <ID>39</ID>
       <DefaultText>「武裝起來，兄弟們！讓這些挑戰者見識見識熊的力量！」
 
-他咆哮起來，他的戰團——包括熊——也跟著咆哮。</DefaultText>
+他咆哮起來，他的戰團—包括熊—也跟著咆哮。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,12 +266,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「為了托墨弗艾的榮耀。」</DefaultText>
+      <DefaultText>「為了 &lt;g&gt;托墨弗艾&lt;/g&gt;的榮耀。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>[撫摸多根。] 「想我了，孩子？」</DefaultText>
+      <DefaultText>[撫摸多根] 「想我了，孩子？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,7 +288,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>「我也是，努亞堡的靈視者。呵。我就要跟一個活著的傳奇正面較量了。」
+      <DefaultText>「我也是，努亞堡 的靈視者。呵。我就要跟一個活著的傳奇正面較量了。」
 
 他搖了搖頭。</DefaultText>
       <FemaleText />

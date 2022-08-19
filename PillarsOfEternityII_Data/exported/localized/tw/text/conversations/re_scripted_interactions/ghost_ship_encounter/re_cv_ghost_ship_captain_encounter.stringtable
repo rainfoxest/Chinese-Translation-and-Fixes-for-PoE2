@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>一群狂暴的不死族湧向你的船。不過它們隨後又突然停下腳步，從中一分為二給船長讓出道路。利文邁著堅實有力的步子走來。她停了一下，銳利的眼神直射向你——彷彿要把你燒穿。</DefaultText>
+      <DefaultText>一群狂暴的不死族湧向你的船。不過它們隨後又突然停下腳步，從中一分為二給船長讓出道路。利文邁著堅實有力的步子走來。她停了一下，銳利的眼神直射向你—彷彿要把你燒穿。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>&lt;link="neutralvalue://瓦利亞語：把噬魂者之劍給我！"&gt;"Derme o Engoliero do Espirs!"&lt;/link&gt;
+      <DefaultText>&lt;link="neutralvalue://瓦利亞 語：把噬魂者之劍給我！"&gt;"Derme o Engoliero do Espirs!"&lt;/link&gt;
 
 她伸出一隻骷髏手向你要劍。</DefaultText>
       <FemaleText />
@@ -38,12 +38,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「就算耶蘇亞像我一樣把它弄丟了——誰會讓如此珍貴的寶劍遭受如此境地？不，我不相信。」</DefaultText>
+      <DefaultText>「就算耶蘇亞像我一樣把它弄丟了—誰會讓如此珍貴的寶劍遭受如此境地？不，我不相信。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「那麼我非常感謝你。現在把我的噬魂者之劍還給我。」</DefaultText>
+      <DefaultText>「那麼我非常感謝你。現在把我的Engoliero do Espirs還給我。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[把劍給她。]</DefaultText>
+      <DefaultText>[把劍給她]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「我之前在鹿林清理過你們這種傢伙。我有本事並且馬上會幹掉你，亡者守衛。」</DefaultText>
+      <DefaultText>「我之前在 &lt;g&gt;鹿林&lt;/g&gt;清理過你們這種傢伙。我有本事並且馬上會幹掉你，亡者守衛。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,8 +78,8 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「他肯定就是努亞堡的靈視者。屠戮不死族的殺手。也是殺死瑞德利克的人。」漂浮吊死鬼號上的一些不死族懷著恐懼向後退去。</DefaultText>
-      <FemaleText>「她肯定就是努亞堡的靈視者。屠戮不死族的殺手。也是殺死瑞德利克的人。」漂浮吊死鬼號上的一些不死族懷著恐懼向後退去。</FemaleText>
+      <DefaultText>「他肯定就是 &lt;g&gt;努亞堡&lt;/g&gt;的靈視者。屠戮不死族的殺手。也是殺死瑞德利克的人。」 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;上的一些不死族懷著恐懼向後退去。</DefaultText>
+      <FemaleText>「她肯定就是 &lt;g&gt;努亞堡&lt;/g&gt;的靈視者。屠戮不死族的殺手。也是殺死瑞德利克的人。」 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;上的一些不死族懷著恐懼向後退去。</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -98,42 +98,42 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「有個名叫弗蘭特的達寇茨聖武士需要你的船來運送舊瓦利亞的難民。」</DefaultText>
+      <DefaultText>「有個名叫弗蘭特的 &lt;g&gt;達寇茨&lt;/g&gt;聖武士需要你的船來運送 &lt;g&gt;舊瓦利亞&lt;/g&gt;的難民。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「我代表艾戴斯船長來此。她打算去掠奪烏凱佐，並且需要你的方菲羅斯號助一臂之力。」</DefaultText>
+      <DefaultText>「我代表艾戴斯船長來此。她打算去掠奪 烏凱佐，並且需要你的 &lt;g&gt;方菲羅斯號&lt;/g&gt;助一臂之力。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「&lt;i&gt;如果&lt;/i&gt;這個弗蘭特真是個達寇茨聖武士，他就應該幫助他將這把劍交還給皇室血脈不是嗎？我的船和瓦利亞大帝國有什麼關係？」</DefaultText>
+      <DefaultText>「&lt;i&gt;如果&lt;/i&gt;這個弗蘭特真是個 &lt;g&gt;達寇茨&lt;/g&gt;聖武士，他就應該幫助他將這把劍交還給皇室血脈不是嗎？我的船和 &lt;g&gt;瓦利亞&lt;/g&gt;大帝國有什麼關係？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「方菲羅斯號可以穿越烏凱佐周圍的風暴屏障，而弗蘭特希望能在那裡建立新的瓦利亞。」</DefaultText>
+      <DefaultText>「&lt;g&gt;方菲羅斯號&lt;/g&gt;可以穿越 &lt;g&gt;烏凱佐&lt;/g&gt;周圍的風暴屏障，而弗蘭特希望能在那裡建立新的 瓦利亞。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「這個弗蘭特何德何能，可以接受瓦利亞的傳承？」</DefaultText>
+      <DefaultText>「這個弗蘭特何德何能，可以接受 &lt;g&gt;瓦利亞&lt;/g&gt;的傳承？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「作為達寇茨聖武士，我在此向你懇求——我一定會保證弗蘭特履行諾言。」</DefaultText>
+      <DefaultText>「作為 &lt;g&gt;達寇茨&lt;/g&gt;聖武士，我在此向你懇求—我一定會保證弗蘭特履行諾言。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「瓦利亞王室已經成為了過往。但這把劍仍然有其作用——那便是在皇族海盜的手中代代傳承。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;王室已經成為了過往。但這把劍仍然有其作用—那便是在皇族海盜的手中代代傳承。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「我需要你的船來阻止俄撒斯摧毀貝拉斯之輪。」</DefaultText>
+      <DefaultText>「我需要你的船來阻止 &lt;g&gt;俄撒斯&lt;/g&gt;摧毀 貝拉斯之輪。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,7 +153,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「你是打算堅守自己對貝拉斯的誓言了？」</DefaultText>
+      <DefaultText>「你是打算堅守自己對 &lt;g&gt;貝拉斯&lt;/g&gt;的誓言了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「如果你還想佔著我的東西不放——那你可就大錯特錯了。」</DefaultText>
+      <DefaultText>「如果你還想佔著我的東西不放—那你可就大錯特錯了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「除了這把劍，我&lt;i&gt;還&lt;/i&gt;給你一艘好船——我這艘船和你的交換一下。你意下如何？」</DefaultText>
+      <DefaultText>「除了這把劍，我&lt;i&gt;還&lt;/i&gt;給你一艘好船—我這艘船和你的交換一下。你意下如何？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,12 +188,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「倘若達寇茨血脈都變為了空嬰，你還要如何履行職責呢？」</DefaultText>
+      <DefaultText>「倘若 &lt;g&gt;達寇茨&lt;/g&gt;血脈都變為了 空嬰，你還要如何履行職責呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「我可以把方菲羅斯號交給你，但你必須用這把劍和你的船作為交換，讓我能夠完成使命。」</DefaultText>
+      <DefaultText>「我可以把 &lt;g&gt;方菲羅斯號&lt;/g&gt;交給你，但你必須用這把劍和你的船作為交換，讓我能夠完成使命。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,17 +218,17 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>「如果皇族海盜真的是達寇茨遺脈的最貼近者，那我必須將這把劍交給他們。」</DefaultText>
+      <DefaultText>「如果皇族海盜真的是 &lt;g&gt;達寇茨&lt;/g&gt;遺脈的最貼近者，那我必須將這把劍交給他們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>「我在追捕一名四處遊蕩的神明，但沒有方菲羅斯號的話我無法抓住他。」</DefaultText>
+      <DefaultText>「我在追捕一名四處遊蕩的神明，但沒有 &lt;g&gt;方菲羅斯號&lt;/g&gt;的話我無法抓住他。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「沒有貝拉斯之輪的轉動，艾歐拉終將漸漸停滯死亡。」</DefaultText>
+      <DefaultText>「沒有 &lt;g&gt;貝拉斯之輪&lt;/g&gt;的轉動，艾歐拉終將漸漸停滯死亡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,7 +243,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>利文欣喜地將寶劍舉過頭頂。隨後她將其指向遠方，手下的船員們也趕緊準備起航——破爛的船帆緊緊束起，銹蝕的船錨浮出水面，這艘船就這樣奇異地離開了。</DefaultText>
+      <DefaultText>利文欣喜地將寶劍舉過頭頂。隨後她將其指向遠方，手下的船員們也趕緊準備起航—破爛的船帆緊緊束起，銹蝕的船錨浮出水面，這艘船就這樣奇異地離開了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,7 +258,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>「你說自己是聖武士——但你身上能體現出何種教會的氣質呢？我可是一點都沒看出來。」</DefaultText>
+      <DefaultText>「你說自己是聖武士—但你身上能體現出何種教會的氣質呢？我可是一點都沒看出來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,12 +288,12 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>「真的嗎？我希望你是從貝拉斯那乾枯而了無生氣的雙手中奪來的。不過這並不能改變此劍為我之物的事實。」</DefaultText>
+      <DefaultText>「真的嗎？我希望你是從 &lt;g&gt;貝拉斯&lt;/g&gt;那乾枯而了無生氣的雙手中奪來的。不過這並不能改變此劍為我之物的事實。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,17 +308,17 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>「瓦利亞大帝國數百年前便已傾覆。如今的皇族海盜便是當年帝國崩塌之時難民的後裔。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;大帝國數百年前便已傾覆。如今的皇族海盜便是當年帝國崩塌之時難民的後裔。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>「他會的——只要你把劍和船交給他。」</DefaultText>
+      <DefaultText>「他會的—只要你把劍和船交給他。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「你們誰對這件事還有什麼想說的嗎？有哪個懦夫想離開我的船隊？只有一條出路可選——你們都明白吧。」</DefaultText>
+      <DefaultText>「你們誰對這件事還有什麼想說的嗎？有哪個懦夫想離開我的船隊？只有一條出路可選—你們都明白吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,14 +333,14 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>「你打算從我手中把方菲羅斯號&lt;i&gt;以及&lt;/i&gt;噬魂者之劍都偷走？你未免太狂妄了。」
+      <DefaultText>「你打算從我手中把 &lt;g&gt;方菲羅斯號&lt;/g&gt;&lt;i&gt;以及&lt;/i&gt;噬魂者之劍都偷走？你未免太狂妄了。」
 
 「你只能以我船員的身份上我的船。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>[攻擊]「漂浮吊死鬼號的船長該換我當了。」</DefaultText>
+      <DefaultText>[攻擊]「&lt;g&gt;漂浮吊死鬼號&lt;/g&gt;的船長該換我當了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -350,22 +350,22 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>「好極了。你的兩把劍我今天都要了。」</DefaultText>
+      <DefaultText>「Belfetto。你的兩把劍我今天都要了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>漂浮吊死鬼號上的一些不死族懷著恐懼向後退去。</DefaultText>
+      <DefaultText> &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;上的一些不死族懷著恐懼向後退去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>隨著最後一名不死族被擊殺，漂浮吊死鬼號如今成為了你的所有物。</DefaultText>
+      <DefaultText>隨著最後一名不死族被擊殺， &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;如今成為了你的所有物。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>你站在漂浮吊死鬼號的船舵處，示意水手長揚帆起航。海風呼嘯著刮過破舊的船帆。腐爛的木板隨著船體逐漸加速而吱呀作響。</DefaultText>
+      <DefaultText>你站在 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;的船舵處，示意水手長揚帆起航。海風呼嘯著刮過破舊的船帆。腐爛的木板隨著船體逐漸加速而吱呀作響。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,12 +375,12 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>「船員們！Derme o Engoliero!把劍奪來，殺光生者。」</DefaultText>
+      <DefaultText>「船員們！Derme o Engoliero！把劍奪來，殺光生者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>你用這把劍換取了利文的漂浮吊死鬼號後，示意船員準備起航。</DefaultText>
+      <DefaultText>你用這把劍換取了利文的 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;後，示意船員準備起航。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

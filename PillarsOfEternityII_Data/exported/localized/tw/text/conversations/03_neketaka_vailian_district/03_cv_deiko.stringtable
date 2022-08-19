@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「啊，看來你很有經濟頭腦！我向來覺得在錢財上有責任心的人十分……有魅力。朋友，我服務一次的費用是150枚銅幣。」他挑起一道眉毛，裝作害羞的樣子給了你一個微笑。</DefaultText>
+      <DefaultText>「啊，看來你很有經濟頭腦！我向來覺得在錢財上有責任心的人十分……有魅力。朋友，我服務一次的費用是150枚 銅幣。」他挑起一道眉毛，裝作害羞的樣子給了你一個微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,12 +68,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>「很高興見到你！」他看起來很慌張，定了定神。</DefaultText>
+      <DefaultText>「很高興見到你！」他發現自己講錯了話，看起來很慌張。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「亞洛斯，很高興再次見到你。不過我得回去工作了。保重。」
+      <DefaultText>「亞洛斯，能再次見到你真好。不過我得回去工作了。保重。」
 
 他朝亞洛斯親切地一笑，臉紅到了耳尖。</DefaultText>
       <FemaleText />
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,9 +188,9 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>「我在聚鹿帝國長大。我年輕時，曾為了成為一名秘法騎士而學習。」
+      <DefaultText>「我在 &lt;g&gt;聚鹿帝國&lt;/g&gt;長大。我年輕時，曾為了成為一名秘法騎士而學習。」
 
-我的學校發生那次……事件後，我離開了那片大陸並一直四處遊蕩，直到最後來到了涅克塔卡城。如你所見，我留了下來。」</DefaultText>
+「我的學校發生那次……事件後，我離開了那片大陸並一直四處遊蕩，直到最後來到了 涅克塔卡。如你所見，我留了下來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -247,19 +247,19 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「看來他已經不是我在學院認識的那個可憐的傢伙了。」</DefaultText>
+      <DefaultText>「看來我在學院時可能令那可憐的傢伙產生了什麼誤解。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>「說『很高興』或許有點過頭。我是說……這個詞令人愉快。完全可以接受。「
+      <DefaultText>「說『很高興』或許有點過頭。我想說的是……令人愉快。完全可以接受。」
 
 他懊惱地看看你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>「以前，他說什麼也不願和別人發生肢體接觸。別人壓住他的法術書時除外。」伊莎彌兒發出低吼。</DefaultText>
+      <DefaultText>「以前，他說什麼也不願和別人發生肢體接觸。別人壓住他的法術書時除外。」&lt;g&gt;伊莎彌兒&lt;/g&gt;發出低吼。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

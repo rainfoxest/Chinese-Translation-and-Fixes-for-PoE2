@@ -36,7 +36,7 @@
 		</Entry>
 		<Entry>
 			<ID>19</ID>
-			<DefaultText>決心+2</DefaultText>
+			<DefaultText>決心 +2</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -81,12 +81,12 @@
 		</Entry>
 		<Entry>
 			<ID>38</ID>
-			<DefaultText>附冰凍</DefaultText>
+			<DefaultText>附冰寒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>42</ID>
-			<DefaultText>穿刺附</DefaultText>
+			<DefaultText>附穿刺</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -151,7 +151,7 @@
 		</Entry>
 		<Entry>
 			<ID>156</ID>
-			<DefaultText>偏轉</DefaultText>
+			<DefaultText>格擋</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -166,17 +166,17 @@
 		</Entry>
 		<Entry>
 			<ID>211</ID>
-			<DefaultText>感知+1</DefaultText>
+			<DefaultText>感知 +1</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>212</ID>
-			<DefaultText>感知+2</DefaultText>
+			<DefaultText>感知 +2</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>213</ID>
-			<DefaultText>感知+3</DefaultText>
+			<DefaultText>感知 +3</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -186,7 +186,7 @@
 		</Entry>
 		<Entry>
 			<ID>227</ID>
-			<DefaultText>意志+5</DefaultText>
+			<DefaultText>意志 +5</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -196,12 +196,12 @@
 		</Entry>
 		<Entry>
 			<ID>234</ID>
-			<DefaultText>增加範圍</DefaultText>
+			<DefaultText>增加距離</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>235</ID>
-			<DefaultText>擦傷轉化為命中</DefaultText>
+			<DefaultText>弧形揮擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -226,7 +226,7 @@
 		</Entry>
 		<Entry>
 			<ID>405</ID>
-			<DefaultText>血之狂暴</DefaultText>
+			<DefaultText>血怒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -236,12 +236,12 @@
 		</Entry>
 		<Entry>
 			<ID>410</ID>
-			<DefaultText>急促</DefaultText>
+			<DefaultText>匆匆忙忙</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>411</ID>
-			<DefaultText>一個不落</DefaultText>
+			<DefaultText>包羅萬有</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -256,17 +256,17 @@
 		</Entry>
 		<Entry>
 			<ID>415</ID>
-			<DefaultText>耀眼的冷卻</DefaultText>
+			<DefaultText>輝光復原</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>416</ID>
-			<DefaultText>耀眼的熱情</DefaultText>
+			<DefaultText>輝光熱情</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>417</ID>
-			<DefaultText>耀眼的專注</DefaultText>
+			<DefaultText>輝光專注</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -286,7 +286,7 @@
 		</Entry>
 		<Entry>
 			<ID>424</ID>
-			<DefaultText>費力</DefaultText>
+			<DefaultText>徵稅</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -296,37 +296,37 @@
 		</Entry>
 		<Entry>
 			<ID>426</ID>
-			<DefaultText>反射+10</DefaultText>
+			<DefaultText>反射 +10</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>427</ID>
-			<DefaultText>反射+15</DefaultText>
+			<DefaultText>反射 +15</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>428</ID>
-			<DefaultText>強韌+5</DefaultText>
+			<DefaultText>強韌 +5</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>429</ID>
-			<DefaultText>強韌+15</DefaultText>
+			<DefaultText>強韌 +15</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>430</ID>
-			<DefaultText>強韌+10</DefaultText>
+			<DefaultText>強韌 +10</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>431</ID>
-			<DefaultText>意志+10</DefaultText>
+			<DefaultText>意志 +10</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>432</ID>
-			<DefaultText>意志+15</DefaultText>
+			<DefaultText>意志 +15</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -336,7 +336,7 @@
 		</Entry>
 		<Entry>
 			<ID>434</ID>
-			<DefaultText>格擋+15</DefaultText>
+			<DefaultText>格擋 +15</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -351,12 +351,12 @@
 		</Entry>
 		<Entry>
 			<ID>437</ID>
-			<DefaultText>穿刺防禦+1</DefaultText>
+			<DefaultText>穿刺 防禦 +1</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>438</ID>
-			<DefaultText>揮砍防禦+1</DefaultText>
+			<DefaultText>揮砍 防禦 +1</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -401,12 +401,12 @@
 		</Entry>
 		<Entry>
 			<ID>452</ID>
-			<DefaultText>電擊防禦+2</DefaultText>
+			<DefaultText>電擊防禦 +2</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>453</ID>
-			<DefaultText>格擋+20</DefaultText>
+			<DefaultText>格擋 +20</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -431,12 +431,12 @@
 		</Entry>
 		<Entry>
 			<ID>459</ID>
-			<DefaultText>智力+2</DefaultText>
+			<DefaultText>智力 +2</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>460</ID>
-			<DefaultText>（力量+2）</DefaultText>
+			<DefaultText>力量 +2</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -451,7 +451,7 @@
 		</Entry>
 		<Entry>
 			<ID>465</ID>
-			<DefaultText>額外的暴擊機率</DefaultText>
+			<DefaultText>額外的 &lt;g&gt;暴擊&lt;/g&gt;機率</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -476,7 +476,7 @@
 		</Entry>
 		<Entry>
 			<ID>473</ID>
-			<DefaultText>灼燒精準+5</DefaultText>
+			<DefaultText>灼燒 &lt;g&gt;精準&lt;/g&gt;+5</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -501,7 +501,7 @@
 		</Entry>
 		<Entry>
 			<ID>479</ID>
-			<DefaultText>強化活力</DefaultText>
+			<DefaultText>植蕨恩惠</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -546,32 +546,32 @@
 		</Entry>
 		<Entry>
 			<ID>498</ID>
-			<DefaultText>破木者</DefaultText>
+			<DefaultText>劈木器</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>499</ID>
-			<DefaultText>森林之災</DefaultText>
+			<DefaultText>木頭剋星</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>500</ID>
-			<DefaultText>削砍步法</DefaultText>
+			<DefaultText>伐砍步法</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>502</ID>
-			<DefaultText>附冰凍</DefaultText>
+			<DefaultText>附冰寒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>503</ID>
-			<DefaultText>冰凍之噬</DefaultText>
+			<DefaultText>冰寒之噬</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>504</ID>
-			<DefaultText>孤獨</DefaultText>
+			<DefaultText>獨來獨往</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -606,7 +606,7 @@
 		</Entry>
 		<Entry>
 			<ID>513</ID>
-			<DefaultText>無敵射擊</DefaultText>
+			<DefaultText>貫穿彈</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -621,7 +621,7 @@
 		</Entry>
 		<Entry>
 			<ID>516</ID>
-			<DefaultText>強效鳴響</DefaultText>
+			<DefaultText>震耳鳴響</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -671,22 +671,22 @@
 		</Entry>
 		<Entry>
 			<ID>526</ID>
-			<DefaultText>亡者之財</DefaultText>
+			<DefaultText>死稅</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>527</ID>
-			<DefaultText>進貢</DefaultText>
+			<DefaultText>貢稅</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>528</ID>
-			<DefaultText>優雅</DefaultText>
+			<DefaultText>尊貴非凡</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>529</ID>
-			<DefaultText>不可捉摸</DefaultText>
+			<DefaultText>高不可攀</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -716,12 +716,12 @@
 		</Entry>
 		<Entry>
 			<ID>535</ID>
-			<DefaultText>破空之擊</DefaultText>
+			<DefaultText>見面射擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>536</ID>
-			<DefaultText>驚天彈幕</DefaultText>
+			<DefaultText>見面彈幕</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -731,7 +731,7 @@
 		</Entry>
 		<Entry>
 			<ID>538</ID>
-			<DefaultText>致命之擊</DefaultText>
+			<DefaultText>致命射擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -916,7 +916,7 @@
 		</Entry>
 		<Entry>
 			<ID>579</ID>
-			<DefaultText>符文鎖</DefaultText>
+			<DefaultText>符文槍機</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -941,7 +941,7 @@
 		</Entry>
 		<Entry>
 			<ID>584</ID>
-			<DefaultText>雙發快射</DefaultText>
+			<DefaultText>雙連擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -966,17 +966,17 @@
 		</Entry>
 		<Entry>
 			<ID>589</ID>
-			<DefaultText>牢固符文鎖</DefaultText>
+			<DefaultText>牢固符文槍機</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>590</ID>
-			<DefaultText>不穩符文鎖</DefaultText>
+			<DefaultText>不穩符文槍機</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>591</ID>
-			<DefaultText>巨蛇狂怒</DefaultText>
+			<DefaultText>巨龍熾怒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -986,22 +986,22 @@
 		</Entry>
 		<Entry>
 			<ID>593</ID>
-			<DefaultText>庫爾之熱情</DefaultText>
+			<DefaultText>激昂</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>594</ID>
-			<DefaultText>跳躍之擊</DefaultText>
+			<DefaultText>掃擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>595</ID>
-			<DefaultText>庫爾之反擊</DefaultText>
+			<DefaultText>考爾的回擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>596</ID>
-			<DefaultText>庫爾之姿態</DefaultText>
+			<DefaultText>考爾的姿態</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1021,7 +1021,7 @@
 		</Entry>
 		<Entry>
 			<ID>600</ID>
-			<DefaultText>格格不入</DefaultText>
+			<DefaultText>瓦利亞共和國人失格</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1036,7 +1036,7 @@
 		</Entry>
 		<Entry>
 			<ID>603</ID>
-			<DefaultText>逆風漂泊</DefaultText>
+			<DefaultText>頂風緩航</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1091,17 +1091,17 @@
 		</Entry>
 		<Entry>
 			<ID>616</ID>
-			<DefaultText>收放自如</DefaultText>
+			<DefaultText>等級比例</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>617</ID>
-			<DefaultText>收放自如</DefaultText>
+			<DefaultText>等級比例</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>618</ID>
-			<DefaultText>收放自如</DefaultText>
+			<DefaultText>等級比例</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1181,7 +1181,7 @@
 		</Entry>
 		<Entry>
 			<ID>636</ID>
-			<DefaultText>噬魂者I</DefaultText>
+			<DefaultText>噬魂者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1246,12 +1246,12 @@
 		</Entry>
 		<Entry>
 			<ID>651</ID>
-			<DefaultText>狂熱重載</DefaultText>
+			<DefaultText>狂暴裝填</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>653</ID>
-			<DefaultText>雷霆通告</DefaultText>
+			<DefaultText>霹靂爆響</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1316,12 +1316,12 @@
 		</Entry>
 		<Entry>
 			<ID>671</ID>
-			<DefaultText>霜凍邊緣</DefaultText>
+			<DefaultText>霜凍鋒刃</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>672</ID>
-			<DefaultText>冰封邊緣</DefaultText>
+			<DefaultText>冰封鋒刃</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1386,32 +1386,32 @@
 		</Entry>
 		<Entry>
 			<ID>685</ID>
-			<DefaultText>全面清掃</DefaultText>
+			<DefaultText>大掃除</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>686</ID>
-			<DefaultText>惡者同行</DefaultText>
+			<DefaultText>去去壞東西</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>687</ID>
-			<DefaultText>善者同行</DefaultText>
+			<DefaultText>去去好東西</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>688</ID>
-			<DefaultText>你不是開玩笑的吧……</DefaultText>
+			<DefaultText>你不是開玩笑的吧…</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>689</ID>
-			<DefaultText>……那是把掃帚嗎？</DefaultText>
+			<DefaultText>…那是把掃帚嗎？</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>690</ID>
-			<DefaultText>橫掃千軍</DefaultText>
+			<DefaultText>掃你一腳</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1516,12 +1516,12 @@
 		</Entry>
 		<Entry>
 			<ID>711</ID>
-			<DefaultText>和談嘗試</DefaultText>
+			<DefaultText>折衝口舌</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>712</ID>
-			<DefaultText>叛亂</DefaultText>
+			<DefaultText>煽惑離叛</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1541,7 +1541,7 @@
 		</Entry>
 		<Entry>
 			<ID>716</ID>
-			<DefaultText>突然死亡</DefaultText>
+			<DefaultText>迴光返照</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1551,22 +1551,22 @@
 		</Entry>
 		<Entry>
 			<ID>719</ID>
-			<DefaultText>追索心臟</DefaultText>
+			<DefaultText>奪心魔</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>720</ID>
-			<DefaultText>追索血肉</DefaultText>
+			<DefaultText>奪血魔</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>722</ID>
-			<DefaultText>疾速切割</DefaultText>
+			<DefaultText>拔劍揮砍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>723</ID>
-			<DefaultText>疾速格擋</DefaultText>
+			<DefaultText>拔劍招架</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1601,12 +1601,12 @@
 		</Entry>
 		<Entry>
 			<ID>731</ID>
-			<DefaultText>青蔥</DefaultText>
+			<DefaultText>酒鬼</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>732</ID>
-			<DefaultText>分裂一擊</DefaultText>
+			<DefaultText>撕裂切割</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1656,12 +1656,12 @@
 		</Entry>
 		<Entry>
 			<ID>742</ID>
-			<DefaultText>森林迷蹤</DefaultText>
+			<DefaultText>叢林步法</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>743</ID>
-			<DefaultText>碧血</DefaultText>
+			<DefaultText>翠綠碧血</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1691,12 +1691,12 @@
 		</Entry>
 		<Entry>
 			<ID>751</ID>
-			<DefaultText>俘獲</DefaultText>
+			<DefaultText>吃子</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>752</ID>
-			<DefaultText>老兵之傷痕</DefaultText>
+			<DefaultText>老兵的戰痕</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1706,37 +1706,37 @@
 		</Entry>
 		<Entry>
 			<ID>755</ID>
-			<DefaultText>老兵之機敏</DefaultText>
+			<DefaultText>老兵的戰績</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>757</ID>
-			<DefaultText>捕獸陷阱</DefaultText>
+			<DefaultText>巧捷萬端</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>758</ID>
-			<DefaultText>最終一擊</DefaultText>
+			<DefaultText>將死</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>759</ID>
-			<DefaultText>晉陞</DefaultText>
+			<DefaultText>升變</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>761</ID>
-			<DefaultText>靈魂守護</DefaultText>
+			<DefaultText>守魂者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>763</ID>
-			<DefaultText>爆炸之擊</DefaultText>
+			<DefaultText>爆裂彈</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>765</ID>
-			<DefaultText>連環射擊</DefaultText>
+			<DefaultText>鏈彈</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1751,17 +1751,17 @@
 		</Entry>
 		<Entry>
 			<ID>770</ID>
-			<DefaultText>跳躍之弧</DefaultText>
+			<DefaultText>彈跳之弧</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>771</ID>
-			<DefaultText>彈跳電弧</DefaultText>
+			<DefaultText>彈跳之弧</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>772</ID>
-			<DefaultText>分裂電弧</DefaultText>
+			<DefaultText>分裂之弧</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1781,12 +1781,12 @@
 		</Entry>
 		<Entry>
 			<ID>776</ID>
-			<DefaultText>憎惡之弧</DefaultText>
+			<DefaultText>惡臭之弧</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>777</ID>
-			<DefaultText>反抗</DefaultText>
+			<DefaultText>違抗</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1806,7 +1806,7 @@
 		</Entry>
 		<Entry>
 			<ID>785</ID>
-			<DefaultText>不適近戰</DefaultText>
+			<DefaultText>不適合近戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1831,7 +1831,7 @@
 		</Entry>
 		<Entry>
 			<ID>790</ID>
-			<DefaultText>導管</DefaultText>
+			<DefaultText>傳導體</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1871,27 +1871,27 @@
 		</Entry>
 		<Entry>
 			<ID>798</ID>
-			<DefaultText>烤肉串</DefaultText>
+			<DefaultText>貫穿箭</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>799</ID>
-			<DefaultText>射釘槍</DefaultText>
+			<DefaultText>定身箭</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>800</ID>
-			<DefaultText>符文電束</DefaultText>
+			<DefaultText>符文弩箭</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>801</ID>
-			<DefaultText>秘法電束</DefaultText>
+			<DefaultText>秘法弩箭</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>802</ID>
-			<DefaultText>元素電束</DefaultText>
+			<DefaultText>元素弩箭</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1901,12 +1901,12 @@
 		</Entry>
 		<Entry>
 			<ID>804</ID>
-			<DefaultText>信仰回聲</DefaultText>
+			<DefaultText>信仰迴聲</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>809</ID>
-			<DefaultText>射擊專精</DefaultText>
+			<DefaultText>砲兵</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1921,12 +1921,12 @@
 		</Entry>
 		<Entry>
 			<ID>812</ID>
-			<DefaultText>反擊</DefaultText>
+			<DefaultText>還火</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>813</ID>
-			<DefaultText>靈魂收割</DefaultText>
+			<DefaultText>割魂者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1936,17 +1936,17 @@
 		</Entry>
 		<Entry>
 			<ID>815</ID>
-			<DefaultText>緊急收割</DefaultText>
+			<DefaultText>迫切收割</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>816</ID>
-			<DefaultText>權威斗篷</DefaultText>
+			<DefaultText>權威</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>817</ID>
-			<DefaultText>陰謀叛亂</DefaultText>
+			<DefaultText>密謀者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1956,17 +1956,17 @@
 		</Entry>
 		<Entry>
 			<ID>819</ID>
-			<DefaultText>啟示</DefaultText>
+			<DefaultText>揭示</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>820</ID>
-			<DefaultText>神之憎惡</DefaultText>
+			<DefaultText>仇神論者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>821</ID>
-			<DefaultText>拒絕輪迴</DefaultText>
+			<DefaultText>拒絕神輪</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1981,7 +1981,7 @@
 		</Entry>
 		<Entry>
 			<ID>824</ID>
-			<DefaultText>勇者兵器</DefaultText>
+			<DefaultText>勇士兵器</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2006,12 +2006,12 @@
 		</Entry>
 		<Entry>
 			<ID>829</ID>
-			<DefaultText>緊急指令</DefaultText>
+			<DefaultText>墓穴指令</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>831</ID>
-			<DefaultText>劍斗</DefaultText>
+			<DefaultText>劍鬥</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2051,7 +2051,7 @@
 		</Entry>
 		<Entry>
 			<ID>839</ID>
-			<DefaultText>停止力量</DefaultText>
+			<DefaultText>制止力</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2061,7 +2061,7 @@
 		</Entry>
 		<Entry>
 			<ID>841</ID>
-			<DefaultText>堅硬護具</DefaultText>
+			<DefaultText>堅硬反擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2076,12 +2076,12 @@
 		</Entry>
 		<Entry>
 			<ID>844</ID>
-			<DefaultText>鯊魚齒護具</DefaultText>
+			<DefaultText>鯊魚齒反擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>845</ID>
-			<DefaultText>血之狂暴</DefaultText>
+			<DefaultText>血怒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2121,7 +2121,7 @@
 		</Entry>
 		<Entry>
 			<ID>853</ID>
-			<DefaultText>爆裂射擊</DefaultText>
+			<DefaultText>電殛射擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2131,7 +2131,7 @@
 		</Entry>
 		<Entry>
 			<ID>855</ID>
-			<DefaultText>蓄能力場</DefaultText>
+			<DefaultText>電荷領域</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2141,7 +2141,7 @@
 		</Entry>
 		<Entry>
 			<ID>857</ID>
-			<DefaultText>傳導射擊</DefaultText>
+			<DefaultText>導電爆擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2151,7 +2151,7 @@
 		</Entry>
 		<Entry>
 			<ID>859</ID>
-			<DefaultText>隆重登場</DefaultText>
+			<DefaultText>越戰越勇</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2341,7 +2341,7 @@
 		</Entry>
 		<Entry>
 			<ID>898</ID>
-			<DefaultText>惡化</DefaultText>
+			<DefaultText>放倒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2411,7 +2411,7 @@
 		</Entry>
 		<Entry>
 			<ID>912</ID>
-			<DefaultText>已接地</DefaultText>
+			<DefaultText>接地</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2451,7 +2451,7 @@
 		</Entry>
 		<Entry>
 			<ID>920</ID>
-			<DefaultText>精彩旅行</DefaultText>
+			<DefaultText>遊歷甚廣</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2481,7 +2481,7 @@
 		</Entry>
 		<Entry>
 			<ID>926</ID>
-			<DefaultText>巨魔之皮</DefaultText>
+			<DefaultText>巨怪之皮</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2526,7 +2526,7 @@
 		</Entry>
 		<Entry>
 			<ID>937</ID>
-			<DefaultText>次級保護</DefaultText>
+			<DefaultText>次級護佑</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2786,12 +2786,12 @@
 		</Entry>
 		<Entry>
 			<ID>996</ID>
-			<DefaultText>竊賊手筆</DefaultText>
+			<DefaultText>爬牆高手</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>997</ID>
-			<DefaultText>整體精確</DefaultText>
+			<DefaultText>全面精確</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2806,7 +2806,7 @@
 		</Entry>
 		<Entry>
 			<ID>1000</ID>
-			<DefaultText>可靠之擊</DefaultText>
+			<DefaultText>必中一擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2841,7 +2841,7 @@
 		</Entry>
 		<Entry>
 			<ID>1008</ID>
-			<DefaultText>震動排斥</DefaultText>
+			<DefaultText>電擊排斥</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2856,12 +2856,12 @@
 		</Entry>
 		<Entry>
 			<ID>1011</ID>
-			<DefaultText>引人入勝</DefaultText>
+			<DefaultText>法術附魔</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1012</ID>
-			<DefaultText>食人魔怪力</DefaultText>
+			<DefaultText>巨魔怪力</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2881,12 +2881,12 @@
 		</Entry>
 		<Entry>
 			<ID>1016</ID>
-			<DefaultText>飛彈箱子</DefaultText>
+			<DefaultText>飛彈儲能</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1018</ID>
-			<DefaultText>奧迪爾遺產</DefaultText>
+			<DefaultText>奧迪爾的遺產</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2936,12 +2936,12 @@
 		</Entry>
 		<Entry>
 			<ID>1028</ID>
-			<DefaultText>焦躁不安</DefaultText>
+			<DefaultText>喚魂</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1029</ID>
-			<DefaultText>沉睡</DefaultText>
+			<DefaultText>亡魂睡魔</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3056,12 +3056,12 @@
 		</Entry>
 		<Entry>
 			<ID>1055</ID>
-			<DefaultText>雷康皮恩扎</DefaultText>
+			<DefaultText>重新出發</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1056</ID>
-			<DefaultText>靈活</DefaultText>
+			<DefaultText>靈活自在</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3111,7 +3111,7 @@
 		</Entry>
 		<Entry>
 			<ID>1077</ID>
-			<DefaultText>黑暗外衣</DefaultText>
+			<DefaultText>護胸</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3121,7 +3121,7 @@
 		</Entry>
 		<Entry>
 			<ID>1079</ID>
-			<DefaultText>日光普照</DefaultText>
+			<DefaultText>護腎</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3576,7 +3576,7 @@
 		</Entry>
 		<Entry>
 			<ID>1175</ID>
-			<DefaultText>戰鬥機敏</DefaultText>
+			<DefaultText>戰鬥意識</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3616,7 +3616,7 @@
 		</Entry>
 		<Entry>
 			<ID>1185</ID>
-			<DefaultText>推進優勢</DefaultText>
+			<DefaultText>乘勝追擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3661,7 +3661,7 @@
 		</Entry>
 		<Entry>
 			<ID>1199</ID>
-			<DefaultText>次級監督</DefaultText>
+			<DefaultText>次級全視</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3716,12 +3716,12 @@
 		</Entry>
 		<Entry>
 			<ID>1229</ID>
-			<DefaultText>生消死長</DefaultText>
+			<DefaultText>生隨死畔</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1230</ID>
-			<DefaultText>生不如死</DefaultText>
+			<DefaultText>死伴生旁</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3871,7 +3871,7 @@
 		</Entry>
 		<Entry>
 			<ID>1269</ID>
-			<DefaultText>回升</DefaultText>
+			<DefaultText>回彈</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3886,17 +3886,17 @@
 		</Entry>
 		<Entry>
 			<ID>1272</ID>
-			<DefaultText>持續回升</DefaultText>
+			<DefaultText>持續回彈</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1273</ID>
-			<DefaultText>重型回升</DefaultText>
+			<DefaultText>重型回彈</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1274</ID>
-			<DefaultText>恐懼怒號</DefaultText>
+			<DefaultText>恐懼咆哮</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3911,12 +3911,12 @@
 		</Entry>
 		<Entry>
 			<ID>1277</ID>
-			<DefaultText>困獸</DefaultText>
+			<DefaultText>困獸猶鬥</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1278</ID>
-			<DefaultText>冬袍</DefaultText>
+			<DefaultText>冬白衣裝</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3961,7 +3961,7 @@
 		</Entry>
 		<Entry>
 			<ID>1287</ID>
-			<DefaultText>兩麵包夾</DefaultText>
+			<DefaultText>兩面包夾</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4056,7 +4056,7 @@
 		</Entry>
 		<Entry>
 			<ID>1321</ID>
-			<DefaultText> 變形射擊</DefaultText>
+			<DefaultText>變形射擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4071,7 +4071,7 @@
 		</Entry>
 		<Entry>
 			<ID>1324</ID>
-			<DefaultText>開放縮口</DefaultText>
+			<DefaultText>無縮口</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4201,7 +4201,7 @@
 		</Entry>
 		<Entry>
 			<ID>1350</ID>
-			<DefaultText>元素之擊：冰凍</DefaultText>
+			<DefaultText>元素之擊：冰寒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4281,7 +4281,7 @@
 		</Entry>
 		<Entry>
 			<ID>1374</ID>
-			<DefaultText>死之輕語</DefaultText>
+			<DefaultText>亡者的輕語</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4291,7 +4291,7 @@
 		</Entry>
 		<Entry>
 			<ID>1376</ID>
-			<DefaultText>穩步</DefaultText>
+			<DefaultText>恆久不枯</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4311,7 +4311,7 @@
 		</Entry>
 		<Entry>
 			<ID>1380</ID>
-			<DefaultText>雙手</DefaultText>
+			<DefaultText>雙劍合璧</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4331,7 +4331,7 @@
 		</Entry>
 		<Entry>
 			<ID>1384</ID>
-			<DefaultText>奔騰</DefaultText>
+			<DefaultText>貫穿刺擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4436,12 +4436,12 @@
 		</Entry>
 		<Entry>
 			<ID>1406</ID>
-			<DefaultText>斷決</DefaultText>
+			<DefaultText>審判</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1407</ID>
-			<DefaultText>裁定</DefaultText>
+			<DefaultText>裁斷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4656,7 +4656,7 @@
 		</Entry>
 		<Entry>
 			<ID>1451</ID>
-			<DefaultText>亂鬥</DefaultText>
+			<DefaultText>鬥毆</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4671,7 +4671,7 @@
 		</Entry>
 		<Entry>
 			<ID>1454</ID>
-			<DefaultText>&lt;xg&gt;精準攻擊手&lt;/xg&gt;</DefaultText>
+			<DefaultText>精準擊手</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4796,7 +4796,7 @@
 		</Entry>
 		<Entry>
 			<ID>1481</ID>
-			<DefaultText>否定輪迴</DefaultText>
+			<DefaultText>阻斷神輪</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4876,7 +4876,7 @@
 		</Entry>
 		<Entry>
 			<ID>1510</ID>
-			<DefaultText>流明不協</DefaultText>
+			<DefaultText>輝光不協</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -4886,7 +4886,7 @@
 		</Entry>
 		<Entry>
 			<ID>1512</ID>
-			<DefaultText>流明和諧</DefaultText>
+			<DefaultText>輝光和諧</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5086,7 +5086,7 @@
 		</Entry>
 		<Entry>
 			<ID>1605</ID>
-			<DefaultText>護盾穿刺</DefaultText>
+			<DefaultText>護罩穿刺</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5106,7 +5106,7 @@
 		</Entry>
 		<Entry>
 			<ID>1614</ID>
-			<DefaultText>凋零化身（僅限終結神嗣）</DefaultText>
+			<DefaultText>凋零化身（終結神嗣）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5166,7 +5166,7 @@
 		</Entry>
 		<Entry>
 			<ID>1640</ID>
-			<DefaultText>電路導管</DefaultText>
+			<DefaultText>電導管</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5181,7 +5181,7 @@
 		</Entry>
 		<Entry>
 			<ID>1643</ID>
-			<DefaultText>拴系的靈魂</DefaultText>
+			<DefaultText>束縛靈魂</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>

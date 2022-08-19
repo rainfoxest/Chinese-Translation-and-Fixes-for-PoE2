@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「Ta, yuki...Ke tagi. Lash tasam.」雖然他並不明白你說的話，但他理解了你的意思。雷科朝你笑了笑並快速地點點頭，表示理解了你的意思，也可能是為了表達謝意。</DefaultText>
+      <DefaultText>「Ta, yuki... Ke tagi. Lash tasam.」雖然他並不明白你說的話，但他理解了你的意思。雷科朝你笑了笑並快速地點點頭，表示理解了你的意思，也可能是為了表達謝意。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「什麼？他在說什麼呢？那是以撒密陀語嗎？」</DefaultText>
+      <DefaultText>「Cuè？他在說什麼呢？那是以撒密陀語嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,17 +53,17 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「你會說聚鹿語嗎？」</DefaultText>
+      <DefaultText>「你會說 &lt;g&gt;聚鹿&lt;/g&gt;語嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[古聚鹿語] &lt;link="neutralvalue://古聚鹿語：君亦知夫古聚鹿語乎？"&gt;「Scaketh fe Eld Aedyran?」&lt;/link&gt;</DefaultText>
+      <DefaultText>[古聚鹿語] &lt;link="neutralvalue://古聚鹿語：君亦知夫古 &lt;g&gt;聚鹿&lt;/g&gt;語乎？"&gt;「Scaketh fe Eld Aedyran?」&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[瓦利亞語] &lt;link="neutralvalue://瓦利亞語：您可懂得瓦利亞語？"&gt;「Perla Vailian, fentre?」&lt;/link&gt;</DefaultText>
+      <DefaultText>[瓦利亞 語] &lt;link="neutralvalue://瓦利亞 語：您可懂得 &lt;g&gt;瓦利亞&lt;/g&gt;語？"&gt;「Perla Vailian, fentre?」&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,7 +85,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「Ku？」他揉了揉前額，深深地皺著眉頭。</DefaultText>
+      <DefaultText>「Ku?」他揉了揉前額，深深地皺著眉頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -95,22 +95,22 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[英格維仙語] &lt;link="neutralvalue://英格維仙語：膩會所英格維仙語嘛？"&gt;「E dhnei toi Engwith?」&lt;/link&gt;</DefaultText>
+      <DefaultText>[&lt;g&gt;英格維仙&lt;/g&gt;語] &lt;link="neutralvalue://英格維仙語：膩會所英格維仙語嘛？"&gt;「E dhnei toi Engwith?」&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[奧德尤瑪語] &lt;link="neutralvalue://奧德尤瑪語：奧德尤瑪語咋說你茲不茲道？"&gt;「Tele dha Ordhjoma?」&lt;/link&gt;</DefaultText>
+      <DefaultText>[&lt;g&gt;奧德尤瑪&lt;/g&gt;語] &lt;link="neutralvalue://奧德尤瑪語：奧德尤瑪語咋說你茲不茲道？"&gt;「Tele dha Ordhjoma?」&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[胡亞納語] &lt;link="neutralvalue://胡亞納語：胡亞納語喔，哈納吸馬斯嘎？"&gt;「Kautō e kui ne Huana?」&lt;/link&gt;</DefaultText>
+      <DefaultText>[&lt;g&gt;胡亞納&lt;/g&gt;語] &lt;link="neutralvalue://胡亞納語：胡亞納語喔，哈納吸馬斯嘎？"&gt;「Kautō e kui ne Huana?」&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[努瓦泰語] &lt;link="neutralvalue://努瓦泰語：你歪剛努瓦泰語發？"&gt;「A kana Rauataian ō ikoru ne?」&lt;/link&gt;</DefaultText>
+      <DefaultText>[&lt;g&gt;努瓦泰&lt;/g&gt;語] &lt;link="neutralvalue://努瓦泰語：你歪剛努瓦泰語發？"&gt;「A kana Rauataian ō ikoru ne?」&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -137,7 +137,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「舡秫鶿珮？」他使勁搖了搖頭，做了個鬼臉。一縷縷水從他打結的頭髮流到了他的臉上，他猛地噴了口氣，把水吹走了。</DefaultText>
+      <DefaultText>「Shiyiz ikika?」他使勁搖了搖頭，做了個鬼臉。一縷縷水從他打結的頭髮流到了他的臉上，他猛地噴了口氣，把水吹走了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,17 +172,17 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>[點頭。]「歡迎上船，雷科。」</DefaultText>
+      <DefaultText>[點頭]「歡迎上船，雷科。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>[指著自己，慢慢地說出你自己的名字。]</DefaultText>
+      <DefaultText>[指著自己，慢慢地說出你自己的名字]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「啊！瀦鶓詚雷科。雷——科，掔？」他的目光中出現了喜悅，這是你第一次從他臉上見到這樣的神情。說出自己的名字之後，他用手點著自己的眉心。</DefaultText>
+      <DefaultText>「Shiyiz ikika? 雷科。雷—科，Ta?」他的目光中出現了喜悅，這是你第一次從他臉上見到這樣的神情。說出自己的名字之後，他用手點著自己的眉心。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,12 +241,12 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「雷——科。」他再次點了點自己的額頭，然後對著你重複了一遍你的名字。他綠色的眼睛裡面閃爍著睿智和沮喪。</DefaultText>
+      <DefaultText>「雷—科。」他再次點了點自己的額頭，然後對著你重複了一遍你的名字。他綠色的眼睛裡面閃爍著睿智和沮喪。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[聳聳肩。]</DefaultText>
+      <DefaultText>[聳聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

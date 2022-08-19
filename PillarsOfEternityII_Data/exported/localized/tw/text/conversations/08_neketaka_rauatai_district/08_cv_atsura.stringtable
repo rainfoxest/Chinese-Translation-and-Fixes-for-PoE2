@@ -28,9 +28,9 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「我不知道波格科哈拉的確切位置，但是附近島上的提卡瓦拉部落應該能幫上忙。
+      <DefaultText>「我不知道波格科哈拉的確切位置，但是附近島上的 &lt;g&gt;提卡瓦拉&lt;/g&gt;部落應該能幫上忙。」
 
-」我建議從那裡開始。」他在你的地圖上圈了一座偏僻的小島。</DefaultText>
+「我建議從那裡開始。」他在你的地圖上圈了一座偏僻的小島。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -59,14 +59,14 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「那就解釋了為什麼有傳言說瓦利亞人正在女王港聚集。
+      <DefaultText>「那就解釋了為什麼有傳言說 &lt;g&gt;瓦利亞&lt;/g&gt;人正在女王港聚集。
 
 「我本來以為你會阻止他們。」他的表情沒有變化，但是你能感受到他的不滿，就像是周圍環境的溫度發生了變化一樣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「不管怎麼說，哈扎努伊卡魯需要你的幫助。」</DefaultText>
+      <DefaultText>「不管怎麼說，哈扎努伊 卡魯需要你的幫助。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,31 +86,31 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>「但是，我有證據確信奴隸販子們已經成了瓦哈奇的敵人。他們有可能會願意幫助你。」</DefaultText>
+      <DefaultText>「但是，我有證據確信奴隸販子們已經成了 &lt;g&gt;瓦哈奇&lt;/g&gt;的敵人。他們有可能會願意幫助你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>「奴隸販子們已經從鉤刺島上消失了。」</DefaultText>
+      <DefaultText>「奴隸販子 們已經從鉤刺島上消失了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「這份東西代表了我與哈扎努伊的心意。你對我們來說是不可或缺的幫助。」
+      <DefaultText>「這份東西代表了我與 &lt;g&gt;哈扎努伊&lt;/g&gt;的心意。你對我們來說是不可或缺的幫助。」
 
 他呈現你的報酬的時候斟酌著你的表情。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「你真正的獎勵——之前向你承諾過的通往烏凱佐的航船已經快準備好了。
+      <DefaultText>「你真正的獎勵—之前向你承諾過的通往 &lt;g&gt;烏凱佐&lt;/g&gt;的航船已經快準備好了。
 
 「在一切就緒之前卡魯只需要你幫助最後一件事情。」他盯著你，眼神堅定。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「我已經與瓦哈奇合作顛覆了奴隸販子。」</DefaultText>
+      <DefaultText>「我已經與 &lt;g&gt;瓦哈奇&lt;/g&gt;合作顛覆了 奴隸販子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,7 +162,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「努瓦泰珍視你的服務，我也是。
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;珍視你的服務，我也是。
 
 「我也想不出來有什麼獎勵比這更適合惡土最棒的神射手了。」
 
@@ -198,12 +198,12 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「麥婭一直在努力讓亡焰列島的戰亂地帶獲得和平。」他抬起了眉毛重新看向了她。</DefaultText>
+      <DefaultText>「麥婭一直在努力讓 &lt;g&gt;亡焰列島&lt;/g&gt;的戰亂地帶獲得和平。」他抬起了眉毛重新看向了她。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,7 +233,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,16 +255,16 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>「[Player Name]努伊，努亞堡的主人。」
+      <DefaultText>「[Player Name] 努伊，努亞堡 的主人。」
 
-他衝你圓滑的微微一笑，露出一排完美的尖牙。</DefaultText>
-      <FemaleText>「[Player Name]努伊，努亞堡的女主人。」
+他給你一個圓滑的微笑，露出一排完美的尖牙。</DefaultText>
+      <FemaleText>「[Player Name] 努伊，努亞堡 的女主人。」
 
-他衝你圓滑的微微一笑，露出一排完美的尖牙。</FemaleText>
+他給你一個圓滑的微笑，露出一排完美的尖牙。</FemaleText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>「[Player Name]努伊，哈桑戈的英雄！你能應邀前來我真是太高興了。」
+      <DefaultText>「[Player Name] 努伊，哈桑戈的英雄！你能應邀前來我真是太高興了。」
 
 他淺淺的微笑露出了一口完美銳利的牙齒。</DefaultText>
       <FemaleText />
@@ -288,7 +288,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>「我不告訴瓦利亞人這件事，你覺得怎麼樣？」</DefaultText>
+      <DefaultText>「你就不認為我去跟 &lt;g&gt;瓦利亞&lt;/g&gt;人說這件事？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,7 +303,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>「因為像克拉里奧這樣子的總督千年難遇。大部分瓦利亞主管根本不在乎胡亞納的死活。」</DefaultText>
+      <DefaultText>「因為像克拉里奧這樣子的總督千年難遇。大部分 &lt;g&gt;瓦利亞&lt;/g&gt;主管根本不在乎 &lt;g&gt;胡亞納&lt;/g&gt;的死活。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,17 +313,17 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>「找到波格科哈拉的光魂珀。不要讓瓦利亞利用那資源。」</DefaultText>
+      <DefaultText>「找到波格科哈拉的光魂珀。不要讓 &lt;g&gt;瓦利亞&lt;/g&gt;利用那資源。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>「難道一名真正的努瓦泰之子還需要問嗎？」他笑了笑並大度的揮了揮手。</DefaultText>
-      <FemaleText>「難道一名真正的努瓦泰之女還需要問嗎？」他笑了笑並大度的揮了揮手。</FemaleText>
+      <DefaultText>「難道一名真正的 &lt;g&gt;努瓦泰&lt;/g&gt;之子還需要問嗎？」他笑了笑並大度的揮了揮手。</DefaultText>
+      <FemaleText>「難道一名真正的 &lt;g&gt;努瓦泰&lt;/g&gt;之女還需要問嗎？」他笑了笑並大度的揮了揮手。</FemaleText>
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>「如果瓦利亞佔領波格科哈拉，受苦的只有當地人。」</DefaultText>
+      <DefaultText>「如果 &lt;g&gt;瓦利亞&lt;/g&gt;佔領波格科哈拉，受苦的只有當地人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,9 +333,9 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>「努瓦泰是一個強大而且富有的國家。
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;是一個強大而且富有的國家。
 
-「現在亡焰列島災禍四起，能有這兩種能力的一個盟友非常有用。」</DefaultText>
+「現在 &lt;g&gt;亡焰列島&lt;/g&gt;災禍四起，能有這兩種能力的一個盟友非常有用。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -355,7 +355,7 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>「亡焰列島是一個紛亂之地。考慮一下擁有戰船，火炮的盟友以及一個偉大帝國的支援的價值。」他朝你露出了一個寬慰的笑容。</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;是一個紛亂之地。考慮一下擁有戰船，火炮的盟友以及一個偉大帝國的支援的價值。」他朝你露出了一個寬慰的笑容。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -374,14 +374,14 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>「她現在正在皇宮與瓦利亞人和女王會面，但是等結束了之後她會想要跟你談一談的。」他突然失神沉浸在了思緒中。
+      <DefaultText>「她現在正在皇宮與 &lt;g&gt;瓦利亞&lt;/g&gt;人和女王會面，但是等結束了之後她會想要跟你談一談的。」他突然失神沉浸在了思緒中。
 
 過了一會，他的眼神瞬間彈回了你身上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>「岡谷報告說你有活給我。」</DefaultText>
+      <DefaultText>「奧卡耶報告說你有活給我。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,7 +391,7 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>「英格維仙廢墟和靈魂裝置是我的愛好。」</DefaultText>
+      <DefaultText>「英格維仙 廢墟和靈魂裝置是我的愛好。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,12 +401,12 @@
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>「蒸蒸日上的奴隸交易正在毀壞亡焰列島。我確定這種活動的中心點在一個被稱為『鉤刺島』的島嶼上。」</DefaultText>
+      <DefaultText>「蒸蒸日上的奴隸交易正在毀壞 亡焰列島。我確定這種活動的中心點在一個被稱為『鉤刺島』的島嶼上。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>「亡焰皇家商行怎麼對奴隸販子有興趣了？」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰皇家商行&lt;/g&gt;怎麼對奴隸販子有興趣了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>「奴隸販子走到哪，哪就有混亂。他們毀滅社區，干擾貿易，並且會吸引最惡毒的罪犯。」</DefaultText>
+      <DefaultText>「奴隸販子 走到哪，哪就有混亂。他們毀滅社區，干擾貿易，並且會吸引最惡毒的罪犯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,7 +436,7 @@
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>「跟我說實話。這與努瓦泰有什麼關係？」</DefaultText>
+      <DefaultText>「跟我說實話。這與 &lt;g&gt;努瓦泰&lt;/g&gt;有什麼關係？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,7 +451,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>「能看見亡焰皇家商行為了列島的利益著想真是太好了。」</DefaultText>
+      <DefaultText>「能看見 &lt;g&gt;亡焰皇家商行&lt;/g&gt;為了列島的利益著想真是太好了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,7 +461,7 @@
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>「尤其因為有些奴隸販子處於法律的庇護之下，並且還有著某些瓦利亞官員的青睞。」他意味深長地看著你然後點了點頭。</DefaultText>
+      <DefaultText>「尤其因為有些奴隸販子處於法律的庇護之下，並且還有著某些 &lt;g&gt;瓦利亞&lt;/g&gt;官員的青睞。」他意味深長地看著你然後點了點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,14 +471,14 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>「前提是他們沒有先把你的頭斬下來。」他聳了聳肩，暗示說這隻是一種最細微的不便而已。</DefaultText>
+      <DefaultText>「前提是他們沒有先把你的頭斬下來。」他聳了聳肩，暗示說這只是一種最細微的不便而已。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>「努瓦泰對於一個穩定的亡焰列島有興趣。同時也是為了贏得我們的胡亞納同胞們的青睞。
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;對於一個穩定的 &lt;g&gt;亡焰列島&lt;/g&gt;有興趣。同時也是為了贏得我們的 &lt;g&gt;胡亞納&lt;/g&gt;同胞們的青睞。
 
-「奴隸販子的存在同時威脅到了這兩個目標。」
+「奴隸販子 的存在同時威脅到了這兩個目標。」
 
 他停頓了一下之後平靜地看著你，眼睛一眨也不眨。當他對自己回答了你的問題這個舉動滿意之後，他繼續說了下去。</DefaultText>
       <FemaleText />
@@ -534,7 +534,7 @@
       <ID>156</ID>
       <DefaultText>他笑了起來。「逆境只是另一種形式的機遇罷了。
 
-「而且，通過研究英格維仙的裝置是如何改造梨繪我們將能得到諸多知識。」</DefaultText>
+「而且，通過研究 &lt;g&gt;英格維仙&lt;/g&gt;的裝置是如何改造梨繪我們將能得到諸多知識。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -549,12 +549,12 @@
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>「別太急。我碰到了一支前往鉤刺島的努瓦泰艦隊。」</DefaultText>
+      <DefaultText>「別太急。我碰到了一支前往鉤刺島的 &lt;g&gt;努瓦泰&lt;/g&gt;艦隊。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>「對不起不能告訴你更多訊息，卡魯對於自己的艦隊保護欲很強。而且涅克塔卡里面滿是大嘴巴。」
+      <DefaultText>「對不起不能告訴你更多訊息，卡魯對於自己的艦隊保護欲很強。而且 &lt;g&gt;涅克塔卡&lt;/g&gt;裡面滿是大嘴巴。」
 
 他鎮定了下來，但是警惕的雙眼仍然盯著你。</DefaultText>
       <FemaleText />
@@ -576,7 +576,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>「如果亡焰列島其他勢力知道你們在動員戰艦的話就不太好了。」</DefaultText>
+      <DefaultText>「如果 &lt;g&gt;亡焰列島&lt;/g&gt;其他勢力知道你們在動員戰艦的話就不太好了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -593,7 +593,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>「魯奎帕是我們在海上與陸地上最菁英的戰士。我們得防止鉤刺島未來不再受到奴隸販子們的攻擊。
+      <DefaultText>「魯奎帕 是我們在海上與陸地上最菁英的戰士。我們得防止鉤刺島未來不再受到奴隸販子們的攻擊。
 
 「還有海盜也是。」
 
@@ -622,7 +622,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>「這些日子裡面的亡焰列島就像是舊瓦利亞的婚禮慶典一樣。所有人都沉迷於地位並且一點也不能被冒犯。」</DefaultText>
+      <DefaultText>「這些日子裡面的 &lt;g&gt;亡焰列島&lt;/g&gt;就像是 &lt;g&gt;舊瓦利亞&lt;/g&gt;的婚禮慶典一樣。所有人都沉迷於地位並且一點也不能被冒犯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -664,7 +664,7 @@
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>「我是阿蘇拉，我是亡焰皇家商行的首輔。」
+      <DefaultText>「我是阿蘇拉，我是 &lt;g&gt;亡焰皇家商行&lt;/g&gt;的首輔。」
 
 聽上去像是個很有份量的頭銜，但是奇怪的是他說出來的時候並沒有帶有一絲感情。看他的神態就像是在介紹自己衣服的顏色一般。</DefaultText>
       <FemaleText />
@@ -691,7 +691,7 @@
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>「對於光魂珀的需求已經將瓦利亞商行逼入了瘋狂。」</DefaultText>
+      <DefaultText>「對於光魂珀的需求已經將 &lt;g&gt;瓦利亞商行&lt;/g&gt;逼入了瘋狂。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -711,7 +711,7 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>「胡亞納與瓦利亞用鍍金的裝飾品與珊瑚點綴他們的廁所，皇族海盜則整天想著早已逝去的榮華。」
+      <DefaultText>「&lt;g&gt;胡亞納&lt;/g&gt;與 &lt;g&gt;瓦利亞&lt;/g&gt;用鍍金的裝飾品與珊瑚點綴他們的廁所，皇族海盜則整天想著早已逝去的榮華。」
 
 他不屑地揮舞著一隻手。</DefaultText>
       <FemaleText />
@@ -728,7 +728,7 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>「哈扎努伊卡魯也會想要見見你的，但是她現在沒辦法離開巨蛇王冠。」</DefaultText>
+      <DefaultText>「&lt;g&gt;哈扎努伊&lt;/g&gt;卡魯也會想要見見你的，但是她現在沒辦法離開巨蛇王冠。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -740,7 +740,7 @@
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>「涅克塔卡里面滿是狂言癡語，從來沒有人做成過你在哈桑戈完成的事情。」</DefaultText>
+      <DefaultText>「涅克塔卡 裡面滿是狂言癡語，從來沒有人做成過你在哈桑戈完成的事情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -750,7 +750,7 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>「現在你要告訴我能如何服務亡焰皇家商行了對不對？」</DefaultText>
+      <DefaultText>「現在你要告訴我能如何服務 &lt;g&gt;亡焰皇家商行&lt;/g&gt;了對不對？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -760,7 +760,7 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>「那是因為只有一個努亞堡的靈視者。」</DefaultText>
+      <DefaultText>「那是因為只有一個 &lt;g&gt;努亞堡&lt;/g&gt;的靈視者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -772,7 +772,7 @@
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>「努瓦泰一直對該區域的貿易活動很感興趣。」他又對你做出了那種不尋常的平靜微笑。</DefaultText>
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;一直對該區域的貿易活動很感興趣。」他又對你做出了那種不尋常的平靜微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,7 +791,7 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>「瓦利亞人喜歡那些東西。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;人喜歡那些東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -806,7 +806,7 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>「他們同時也在借這個研究鑄魂學。」</DefaultText>
+      <DefaultText>「他們同時也在借這個研究 鑄魂學。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -843,7 +843,7 @@
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>「現在暫時是這樣。但是最終哪一頭會贏，瓦利亞對於創新的探求還是他們對於財富的渴望？
+      <DefaultText>「現在暫時是這樣。但是最終哪一頭會贏，&lt;g&gt;瓦利亞&lt;/g&gt;對於創新的探求還是他們對於財富的渴望？
 
 「而且。」</DefaultText>
       <FemaleText />
@@ -877,7 +877,7 @@
       <ID>224</ID>
       <DefaultText>「在這裡，我們的鄰居包括了一個海盜國家還有由一群浪得虛名的領袖領導的人民。
 
-「更不用說瓦利亞人了。」</DefaultText>
+「更不用說 &lt;g&gt;瓦利亞&lt;/g&gt;人了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -887,12 +887,12 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>「我聽說你在國王港附近完成了復原光魂珀的壯舉。」他再一次用那雙從不眨動的雙眼打量著你。</DefaultText>
+      <DefaultText>「我聽說你在 &lt;g&gt;國王港&lt;/g&gt;附近完成了復原光魂珀的壯舉。」他再一次用那雙從不眨動的雙眼打量著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>「更糟糕的是，他們過於快速的擴張吸引了海盜的注意，這威脅到了外圍的胡亞納部落。這風險讓卡罕加王室束手無策。」
+      <DefaultText>「更糟糕的是，他們過於快速的擴張吸引了海盜的注意，這威脅到了外圍的 &lt;g&gt;胡亞納&lt;/g&gt;部落。這風險讓卡罕加王室束手無策。」
 
 他側了側頭，彷彿馬上要告訴你一個大秘密一樣。</DefaultText>
       <FemaleText />
@@ -904,19 +904,19 @@
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>「此事與亡焰列島的安危無關。只是因為他們超過了你們而已。」</DefaultText>
+      <DefaultText>「此事與 &lt;g&gt;亡焰列島&lt;/g&gt;的安危無關。只是因為他們超過了你們而已。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
       <DefaultText>「佔領我們需要用來為人民種植食物與建造船隻的土地嗎？是的，他們是比我們快了。
 
-「但是我們與亡焰列島的利益並不衝突。」他交叉起自己修剪得體的長手指。</DefaultText>
+「但是我們與 &lt;g&gt;亡焰列島&lt;/g&gt;的利益並不衝突。」他交叉起自己修剪得體的長手指。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>「我不想搞垮瓦利亞商行。」</DefaultText>
+      <DefaultText>「我不想搞垮 瓦利亞商行。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,7 +931,7 @@
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>「但是請你明白，瓦利亞商行與胡亞納部落一樣雜亂分裂。」</DefaultText>
+      <DefaultText>「但是請你明白，瓦利亞商行 與 &lt;g&gt;胡亞納&lt;/g&gt;部落一樣雜亂分裂。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -956,7 +956,7 @@
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>「瓦利亞商行的領導層做出的決策都是為了他們的投資者們。他們的目標是快速獲取大量利益，他們並不考慮最終的代價。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞商行&lt;/g&gt;的領導層做出的決策都是為了他們的投資者們。他們的目標是快速獲取大量利益，他們並不考慮最終的代價。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -966,7 +966,7 @@
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>「瓦利亞人派遣了一支探險隊前往波格科哈拉，他們相信那個風暴肆虐過的小島上有光魂珀礦脈。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;人派遣了一支探險隊前往波格科哈拉，他們相信那個風暴肆虐過的小島上有光魂珀礦脈。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -993,7 +993,7 @@
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>「努瓦泰承受著可怕的風暴。你覺得裡面說不定有聯繫。」</DefaultText>
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;承受著可怕的風暴。你覺得裡面說不定有聯繫。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1008,7 +1008,7 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>「看看他們在鑄魂學上的發展！我不能去阻止進步。」</DefaultText>
+      <DefaultText>「看看他們在 &lt;g&gt;鑄魂學&lt;/g&gt;上的發展！我不能去阻止進步。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1023,7 +1023,7 @@
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>[聳肩。]</DefaultText>
+      <DefaultText>[聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1045,7 +1045,7 @@
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>「他們的『進步』將會把亡焰列島化為一具被耗盡空殼。」
+      <DefaultText>「他們的『進步』將會把 &lt;g&gt;亡焰列島&lt;/g&gt;化為一具被耗盡空殼。」
 
 他停頓了許久。當他再次說話的時候，他的神情中出現了突然的變化。</DefaultText>
       <FemaleText />
@@ -1072,17 +1072,17 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>「對於一個貿易商行來說，你們……在涅克塔卡的份量不小。」</DefaultText>
+      <DefaultText>「對於一個貿易商行來說，你們……在 &lt;g&gt;涅克塔卡&lt;/g&gt;的份量不小。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>「有什麼奇怪的嗎？數千年前，我們的人民離開了亡焰列島。」</DefaultText>
+      <DefaultText>「有什麼奇怪的嗎？數千年前，我們的人民就已經在 亡焰列島。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>「因此，我們與胡亞納人一樣對這些島嶼有所有權。」
+      <DefaultText>「因此，我們與 &lt;g&gt;胡亞納&lt;/g&gt;人一樣對這些島嶼有所有權。」
 
 他聳了聳肩並揮了揮手，像是禮貌地打斷一次奉承一樣。</DefaultText>
       <FemaleText />
@@ -1099,12 +1099,12 @@
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>「我不想為了你們與瓦利亞起爭鬥。」</DefaultText>
+      <DefaultText>「我不想為了你們與 &lt;g&gt;瓦利亞&lt;/g&gt;起爭鬥。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>「這不僅僅是關於瓦利亞人對我們做的事情，這與整個亡焰列島有關。」他的表情中帶上了一絲擔憂。</DefaultText>
+      <DefaultText>「這不僅僅是關於 &lt;g&gt;瓦利亞&lt;/g&gt;人對我們做的事情，這與整個 &lt;g&gt;亡焰列島&lt;/g&gt;有關。」他的表情中帶上了一絲擔憂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1131,7 +1131,7 @@
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>「恰恰相反。這與亡焰列島上的所有人息息相關。」他的表情中帶上了一絲擔憂。</DefaultText>
+      <DefaultText>「恰恰相反。這與 &lt;g&gt;亡焰列島&lt;/g&gt;上的所有人息息相關。」他的表情中帶上了一絲擔憂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1141,12 +1141,12 @@
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>「因為毀滅性的風暴讓人很難在努瓦泰安居樂業。」</DefaultText>
+      <DefaultText>「因為毀滅性的風暴讓人很難在 &lt;g&gt;努瓦泰&lt;/g&gt;安居樂業。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>「如果折磨努瓦泰的風暴有類似的……不尋常起因的話，那麼也許，也許會有辦法阻止那裡的風暴。」他抬起頭看著你，眼神堅定。</DefaultText>
+      <DefaultText>「如果折磨 &lt;g&gt;努瓦泰&lt;/g&gt;的風暴有類似的……不尋常起因的話，那麼也許，也許會有辦法阻止那裡的風暴。」他抬起頭看著你，眼神堅定。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1186,14 +1186,14 @@
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>「我好像聽說有一個在瓦利亞商行裡面有影響力之人與奴隸販子們有聯繫。」</DefaultText>
+      <DefaultText>「我好像聽說有一個在 &lt;g&gt;瓦利亞商行&lt;/g&gt;裡面有影響力之人與奴隸販子們有聯繫。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
       <DefaultText>「但是更大的問題在於他們竟然被允許在這裡呆下來。
 
-「胡亞納人要為此負責。」他陰鬱地吸了吸鼻子。</DefaultText>
+「&lt;g&gt;胡亞納&lt;/g&gt;人要為此負責。」他陰鬱地吸了吸鼻子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1208,17 +1208,17 @@
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>「你對胡亞納人太嚴厲了。」</DefaultText>
+      <DefaultText>「你對 &lt;g&gt;胡亞納&lt;/g&gt;人太嚴厲了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>他點點頭。「這是胡亞納領導層的失責。」</DefaultText>
+      <DefaultText>他點點頭。「這是 &lt;g&gt;胡亞納&lt;/g&gt;領導層的失責。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>「如果胡亞納人能夠動員起他們的部隊，奴隸交易問題永遠也不可能發展到現在這個程度。」
+      <DefaultText>「如果 &lt;g&gt;胡亞納&lt;/g&gt;人能夠動員起他們的部隊，奴隸交易問題永遠也不可能發展到現在這個程度。」
 
 他無辜地攤開雙手，彷彿這件事情顯而易見一般。</DefaultText>
       <FemaleText />
@@ -1235,7 +1235,7 @@
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>「兩千年前，我們的人民開始征服努瓦泰。那時候那片大地對我們來說是陌生的新世界。那裡的許多居民都比我們更加適應努瓦泰。」
+      <DefaultText>「兩千年前，我們的人民開始征服 努瓦泰。那時候那片大地對我們來說是陌生的新世界。那裡的許多居民都比我們更加適應 努瓦泰。」
 
 他叉起雙手抬起眉毛。</DefaultText>
       <FemaleText />
@@ -1262,17 +1262,17 @@
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>「踏上了那次征途，建立了努瓦泰的人們做了他們必須做的事情。」</DefaultText>
+      <DefaultText>「踏上了那次征途，建立了 &lt;g&gt;努瓦泰&lt;/g&gt;的人們做了他們必須做的事情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>「你想說明什麼事情？胡亞納人的快樂與需要成為戰士這件事情無關。」</DefaultText>
+      <DefaultText>「你想說明什麼事情？胡亞納 人的快樂與需要成為戰士這件事情無關。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>「這不是需要不需要的事情。風暴或者饑荒可沒有憐憫之心。奴隸販子劫掠也沒有憐憫心。只有犧牲品和倖存者。」他皺起了眉頭，雙手交叉，他在桌子後面踱起了步子。</DefaultText>
+      <DefaultText>「這不是需要不需要的事情。風暴或者饑荒可沒有憐憫之心。奴隸販子 劫掠也沒有憐憫心。只有犧牲品和倖存者。」他皺起了眉頭，雙手交叉，他在桌子後面踱起了步子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1282,7 +1282,7 @@
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>「如果說胡亞納人沒有辦法驅逐奴隸販子，這個職責就到了我們身上。」</DefaultText>
+      <DefaultText>「如果說 &lt;g&gt;胡亞納&lt;/g&gt;人沒有辦法驅逐 奴隸販子，這個職責就到了我們身上。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1311,12 +1311,12 @@
     </Entry>
     <Entry>
       <ID>309</ID>
-      <DefaultText>「坦誠相見吧，&lt;i&gt;我&lt;/i&gt;要在&lt;i&gt;你&lt;/i&gt;坐在這裡的時候去處理掉奴隸販子。」</DefaultText>
+      <DefaultText>「坦誠相見吧，&lt;i&gt;我&lt;/i&gt;要在&lt;i&gt;你&lt;/i&gt;坐在這裡的時候去處理掉 奴隸販子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>「奴隸販子們絕對不會發現我的。」</DefaultText>
+      <DefaultText>「奴隸販子 們絕對不會發現我的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1351,7 +1351,7 @@
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>「你在亡焰列島的心臟種下了劇毒。
+      <DefaultText>「你在 &lt;g&gt;亡焰列島&lt;/g&gt;的心臟種下了劇毒。
 
 「告訴我，你為什麼要這樣做？」他終於抬起頭看著你。他的眼睛圓睜著。</DefaultText>
       <FemaleText />
@@ -1378,7 +1378,7 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>「我們有為鉤刺島準備的計劃。一艘來自努瓦泰的艦隊本來要停靠在那個港口。」
+      <DefaultText>「我們有為鉤刺島準備的計劃。一艘來自 &lt;g&gt;努瓦泰&lt;/g&gt;的艦隊本來要停靠在那個港口。」
 
 他停了下來，思考的時候臉上浮起了驚恐的表情。</DefaultText>
       <FemaleText />
@@ -1420,7 +1420,7 @@
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>「冒著你去告訴瓦利亞人的風險嗎？」</DefaultText>
+      <DefaultText>「冒著你去告訴 &lt;g&gt;瓦利亞&lt;/g&gt;人的風險嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1430,7 +1430,7 @@
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>「我做了點你的功課。我仔細思考過。你怎麼會去幫助那些奴隸販子。」他似乎在自言自語，而不是對你說話。</DefaultText>
+      <DefaultText>「我做了點你的功課。我仔細思考過。你怎麼會去幫助那些 奴隸販子。」他似乎在自言自語，而不是對你說話。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1440,12 +1440,12 @@
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>「冒著你去告訴胡亞納人的風險嗎？」</DefaultText>
+      <DefaultText>「冒著你去告訴 &lt;g&gt;胡亞納&lt;/g&gt;人的風險嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>「然後給瓦利亞人和胡亞納人一個團結起來對付我們的理由嗎？不。」</DefaultText>
+      <DefaultText>「然後給 &lt;g&gt;瓦利亞&lt;/g&gt;人和 &lt;g&gt;胡亞納&lt;/g&gt;人一個團結起來對付我們的理由嗎？不。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1455,7 +1455,7 @@
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText>「瓦利亞人與皇族海盜將撕碎亡焰列島，胡亞納人將束手旁觀那一切發生。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;人與皇族海盜將撕碎 亡焰列島，&lt;g&gt;胡亞納&lt;/g&gt;人將束手旁觀那一切發生。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1465,12 +1465,12 @@
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>「亡焰列島是一個紛爭之地。各種各樣的掠食者與無法無天之徒在這裡肆虐著。」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;是一個紛爭之地。各種各樣的掠食者與無法無天之徒在這裡肆虐著。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>「冒險故事將原因歸結於海麗婭的狂怒風暴與昂德拉的飢渴野獸。」他厭煩地搖了搖頭。</DefaultText>
+      <DefaultText>「冒險故事將原因歸結於 &lt;g&gt;海麗婭&lt;/g&gt;的狂怒風暴與 &lt;g&gt;昂德拉&lt;/g&gt;的飢渴野獸。」他厭煩地搖了搖頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1495,7 +1495,7 @@
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>「這一切只是單純地遮蓋了一個簡單明瞭的沉重事實，胡亞納缺乏保衛自己家園的意志力。」
+      <DefaultText>「這一切只是單純地遮蓋了一個簡單明瞭的沉重事實，&lt;g&gt;胡亞納&lt;/g&gt;缺乏保衛自己家園的意志力。」
 
 從聽到你的解釋之後他第一次停了下來，他抬起頭看著你。他努力撫平著自己情緒。
 
@@ -1504,12 +1504,12 @@
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>「瓦利亞人與皇族海盜將撕碎亡焰列島，胡亞納人將束手旁觀那一切發生。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;人與皇族海盜將撕碎 亡焰列島，&lt;g&gt;胡亞納&lt;/g&gt;人將束手旁觀那一切發生。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>「得有人去保護亡焰列島和裡面的人民。你明白嗎？」他盯著你，他的視線再次凝固了。</DefaultText>
+      <DefaultText>「得有人去保護 &lt;g&gt;亡焰列島&lt;/g&gt;和裡面的人民。你明白嗎？」他盯著你，他的視線再次凝固了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1539,19 +1539,19 @@
     </Entry>
     <Entry>
       <ID>358</ID>
-      <DefaultText>「那麼等風暴將我們的人民從努瓦泰的懸崖上衝走的時候，那時候事情與你有關嗎？
+      <DefaultText>「那麼等風暴將我們的人民從 &lt;g&gt;努瓦泰&lt;/g&gt;的懸崖上衝走的時候，那時候事情與你有關嗎？
 
 「我本以為一名戰壕兵能有不一樣的想法。」他的臉上是冰冷冷的怨念。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>「等到被逼到絕路上的時候胡亞納會站出來的。」</DefaultText>
+      <DefaultText>「等到被逼到絕路上的時候 &lt;g&gt;胡亞納&lt;/g&gt;會站出來的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>他哼了一聲。「等到那時候亡焰列島還能剩什麼？」</DefaultText>
+      <DefaultText>他哼了一聲。「等到那時候 &lt;g&gt;亡焰列島&lt;/g&gt;還能剩什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1561,21 +1561,21 @@
     </Entry>
     <Entry>
       <ID>362</ID>
-      <DefaultText>「哈扎努伊正在安排最後的事情。
+      <DefaultText>「哈扎努伊 正在安排最後的事情。
 
-「如果你真心希望給亡焰列島帶來和平，我建議你與她談一談？」</DefaultText>
+「如果你真心希望給 &lt;g&gt;亡焰列島&lt;/g&gt;帶來和平，我建議你與她談一談？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>363</ID>
       <DefaultText>「我們現在的注意力已經全部集中在了梨繪上。
 
-「我肯定等到時機到來，哈扎努伊將會召喚你。」</DefaultText>
+「我肯定等到時機到來，哈扎努伊 將會召喚你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>「亡焰列島的命運比胡亞納人民還要重要。就像是你對俄撒斯的追捕比你自己更加重要一樣。」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;的命運比 &lt;g&gt;胡亞納&lt;/g&gt;人民還要重要。就像是你對 &lt;g&gt;俄撒斯&lt;/g&gt;的追捕比你自己更加重要一樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1585,7 +1585,7 @@
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>「如果我來做決定，我們應該不會再有什麼好說的了。但是決定權在哈扎努伊手上，而她想要跟你談一談。」</DefaultText>
+      <DefaultText>「如果我來做決定，我們應該不會再有什麼好說的了。但是決定權在 &lt;g&gt;哈扎努伊&lt;/g&gt;手上，而她想要跟你談一談。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1595,7 +1595,7 @@
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>「如果你想給亡焰列島帶來和平，就去跟她談一談吧。你還有幫忙的機會。」</DefaultText>
+      <DefaultText>「如果你想給 &lt;g&gt;亡焰列島&lt;/g&gt;帶來和平，就去跟她談一談吧。你還有幫忙的機會。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1610,17 +1610,17 @@
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>「亡焰列島唯一前進的道路就是統一與目標。與奴隸販子與劫掠者之間永遠也不可能有妥協。」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;唯一前進的道路就是統一與目標。與奴隸販子與劫掠者之間永遠也不可能有妥協。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>「那你想要我怎麼做？等皇室允許我們去趕走捕食著她人民的奴隸販子？」</DefaultText>
+      <DefaultText>「那你想要我怎麼做？等皇室允許我們去趕走捕食著她人民的 奴隸販子？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>「還是縮起頭來希望這裡的騷亂不會干擾往努瓦泰海岸運送食物的補給船隊嗎？」他漲紅了臉，大汗淋漓。</DefaultText>
+      <DefaultText>「還是縮起頭來希望這裡的騷亂不會干擾往 &lt;g&gt;努瓦泰&lt;/g&gt;海岸運送食物的補給船隊嗎？」他漲紅了臉，大汗淋漓。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1645,7 +1645,7 @@
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>「消滅非法的奴隸貿易？瓦利亞人絕對會把自己撇的一乾二淨，胡亞納人肯定會感謝你們。」</DefaultText>
+      <DefaultText>「消滅非法的奴隸貿易？瓦利亞 人絕對會把自己撇的一乾二淨，&lt;g&gt;胡亞納&lt;/g&gt;人肯定會感謝你們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1660,7 +1660,7 @@
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>他皺起了眉頭。「很多。如果補給船隻因為戰爭被徵用的話受苦的是我們在努瓦泰的人民。」</DefaultText>
+      <DefaultText>他皺起了眉頭。「很多。如果補給船隻因為戰爭被徵用的話受苦的是我們在 &lt;g&gt;努瓦泰&lt;/g&gt;的人民。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1675,7 +1675,7 @@
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>「魯奎帕人。他們是蘭迦努伊的菁英，他們能夠提供這個地區渴望已久的穩定性。」</DefaultText>
+      <DefaultText>「魯奎帕 人。他們是 蘭迦努伊 的菁英，他們能夠提供這個地區渴望已久的穩定性。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1700,7 +1700,7 @@
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>「我也是。不要搞錯了，亡焰列島需要的正是像你這樣的人。」他抬起了頭，想要知道你有沒有在聽。</DefaultText>
+      <DefaultText>「我也是。不要搞錯了，&lt;g&gt;亡焰列島&lt;/g&gt;需要的正是像你這樣的人。」他抬起了頭，想要知道你有沒有在聽。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1715,12 +1715,12 @@
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>「瓦利亞人與皇族海盜將撕碎亡焰列島，胡亞納人將束手旁觀那一切發生。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;人與皇族海盜將撕碎 亡焰列島，&lt;g&gt;胡亞納&lt;/g&gt;人將束手旁觀那一切發生。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>「得有人去保護亡焰列島和裡面的人民。你明白嗎？」他盯著你，他的視線再次凝固了。</DefaultText>
+      <DefaultText>「得有人去保護 &lt;g&gt;亡焰列島&lt;/g&gt;和裡面的人民。你明白嗎？」他盯著你，他的視線再次凝固了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1767,7 +1767,7 @@
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>「然後給瓦利亞人和胡亞納人一個團結起來對付我們的理由嗎？不。」</DefaultText>
+      <DefaultText>「然後給 &lt;g&gt;瓦利亞&lt;/g&gt;人和 &lt;g&gt;胡亞納&lt;/g&gt;人一個團結起來對付我們的理由嗎？不。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1779,7 +1779,7 @@
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>「你有一顆善良的心。你為亡焰列島上面的人民著想。」
+      <DefaultText>「你有一顆善良的心。你為 &lt;g&gt;亡焰列島&lt;/g&gt;上面的人民著想。」
 
 他說完之後暫停了好幾秒。</DefaultText>
       <FemaleText />
@@ -1800,12 +1800,12 @@
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>「通過繼續合作，我們將可以達成各自的目標，一個更加穩定的亡焰列島以及與俄撒斯的一次會面。」</DefaultText>
+      <DefaultText>「通過繼續合作，我們將可以達成各自的目標，一個更加穩定的 &lt;g&gt;亡焰列島&lt;/g&gt;以及與 &lt;g&gt;俄撒斯&lt;/g&gt;的一次會面。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>「我們永遠也無法靠好言相勸解決亡焰列島的海盜與奴隸問題。
+      <DefaultText>「我們永遠也無法靠好言相勸解決 &lt;g&gt;亡焰列島&lt;/g&gt;的海盜與奴隸問題。
 
 「就算我有可能願意那樣做也沒辦法解決。」他放縱地微笑了起來。</DefaultText>
       <FemaleText />
@@ -1858,7 +1858,7 @@
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1868,7 +1868,7 @@
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>「亡焰列島絕對需要更多擁有你這樣的進取心之人。」他對你充滿了興趣。
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;絕對需要更多擁有你這樣的進取心之人。」他對你充滿了興趣。
 
 他眨了眨眼睛，說不定是見面到現在為止第一次這麼做。</DefaultText>
       <FemaleText />
@@ -1889,14 +1889,14 @@
     </Entry>
     <Entry>
       <ID>428</ID>
-      <DefaultText>「努瓦泰法律都是這樣子的麼？
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;法律都是這樣子的麼？
 
 「哼。不知道我幾千年弄丟的天靈山現在去哪裡了。」泰克胡摩挲著下巴四處瞟視著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>429</ID>
-      <DefaultText>「留給努瓦泰人，這樣他們就能夠無視最近幾年裡面瓦利亞鑄魂師們發現的光魂珀的其他幾十種用途了。」</DefaultText>
+      <DefaultText>「留給 &lt;g&gt;努瓦泰&lt;/g&gt;人，這樣他們就能夠無視最近幾年裡面 &lt;g&gt;瓦利亞&lt;/g&gt;鑄魂師們發現的光魂珀的其他幾十種用途了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1916,7 +1916,7 @@
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText>「但是瓦利亞人對待光魂珀的方式就像是一個發現了自己母親藏起來的手槍的小孩一樣。」</DefaultText>
+      <DefaultText>「但是 &lt;g&gt;瓦利亞&lt;/g&gt;人對待光魂珀的方式就像是一個發現了自己母親藏起來的手槍的小孩一樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1953,12 +1953,12 @@
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>「我不期待你能夠理解商行的紛繁難懂之處，首輔，但是公爵就是為了這個原因才在商行議會中派遣了代表。」</DefaultText>
+      <DefaultText>「我不期待你能夠理解商行的紛繁難懂之處，首輔，但是 &lt;g&gt;公爵&lt;/g&gt;就是為了這個原因才在 Songretta mea Compresa 中派遣了代表。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>他笑了。「公爵們也是內部分裂。每一個人都在為了自己的小小封地而想方設法地去打壓共和國其他人。」</DefaultText>
+      <DefaultText>他笑了。「公爵 們也是內部分裂。每一個人都在為了自己的小小封地而想方設法地去打壓共和國其他人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1968,14 +1968,14 @@
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>「有一個辦法能夠阻止他們。沒有哈扎努伊前往犁繪那麼重要，但是仍然有做的意義。」</DefaultText>
+      <DefaultText>「有一個辦法能夠阻止他們。沒有 &lt;g&gt;哈扎努伊&lt;/g&gt;前往犁繪那麼重要，但是仍然有做的意義。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>「這能怪我們嗎？我們與變化無常的部落與海盜聯盟分享著亡焰列島。
+      <DefaultText>「這能怪我們嗎？我們與變化無常的部落與海盜聯盟分享著 亡焰列島。
 
-「還要算上以貪婪出名的瓦利亞人。」</DefaultText>
+「還要算上以貪婪出名的 &lt;g&gt;瓦利亞&lt;/g&gt;人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1985,12 +1985,12 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>「[Player Name]，我想要感謝你。你給岡谷幫了大忙。」他看上去面無表情，他的眼睛一眨也不眨。</DefaultText>
+      <DefaultText>「[Player Name]，我想要感謝你。你給奧卡耶幫了大忙。」他看上去面無表情，他的眼睛一眨也不眨。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>456</ID>
-      <DefaultText>「你看上去……跟亡焰皇家商行其他人不太一樣。」</DefaultText>
+      <DefaultText>「你看上去……跟 &lt;g&gt;亡焰皇家商行&lt;/g&gt;其他人不太一樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2055,7 +2055,7 @@
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText>「努瓦泰人有很多種。但是這裡大部分確實都是士兵與工程師。」</DefaultText>
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;人有很多種。但是這裡大部分確實都是士兵與工程師。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,12 +2156,12 @@
     </Entry>
     <Entry>
       <ID>488</ID>
-      <DefaultText>「但是這已經是相當好的開始。我們在理解將努瓦泰變為「惡土」的毀滅性風暴的道路上又進了一步。」</DefaultText>
+      <DefaultText>「但是這已經是相當好的開始。我們在理解將 &lt;g&gt;努瓦泰&lt;/g&gt;變為「惡土」的毀滅性風暴的道路上又進了一步。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>490</ID>
-      <DefaultText>「不管怎麼說，如果你想要在亡焰列島交朋友的話，你最好還是選擇那些火炮更粗的。」
+      <DefaultText>「不管怎麼說，如果你想要在 &lt;g&gt;亡焰列島&lt;/g&gt;交朋友的話，你最好還是選擇那些火炮更粗的。」
 
 他笑了起來，嘴裡的尖牙一覽無遺。</DefaultText>
       <FemaleText />
@@ -2175,7 +2175,7 @@
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>「如果你那樣做了，你就會明白亡焰皇家商行是一個寶貴而且忠誠的盟友。」
+      <DefaultText>「如果你那樣做了，你就會明白 &lt;g&gt;亡焰皇家商行&lt;/g&gt;是一個寶貴而且忠誠的盟友。」
 
 他笑了起來，嘴裡的尖牙一覽無遺。</DefaultText>
       <FemaleText />
@@ -2196,7 +2196,7 @@
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>「我由衷感謝您的援助。你給岡谷，給我們所有人帶來了莫大的幫助。」</DefaultText>
+      <DefaultText>「我由衷感謝您的援助。你給奧卡耶，給我們所有人帶來了莫大的幫助。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2235,7 +2235,7 @@
     </Entry>
     <Entry>
       <ID>503</ID>
-      <DefaultText>「亡焰列島需要公正，[Player Name]。我們現在有機會將公正帶給所有人。」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;需要公正，[Player Name]。我們現在有機會將公正帶給所有人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2247,7 +2247,7 @@
     </Entry>
     <Entry>
       <ID>506</ID>
-      <DefaultText>「亡焰列島的人民被&lt;i&gt;欺騙&lt;/i&gt;了，[Player Name]。我們有責任向他們揭露事實。」他的眼神裡滿是愉悅。</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;的人民被&lt;i&gt;欺騙&lt;/i&gt;了，[Player Name]。我們有責任向他們揭露事實。」他的眼神裡滿是愉悅。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2276,7 +2276,7 @@
     </Entry>
     <Entry>
       <ID>512</ID>
-      <DefaultText>「難道終結這災禍不是高尚公正之事？胡亞納人根本沒有辦法做任何事。
+      <DefaultText>「難道終結這災禍不是高尚公正之事？胡亞納 人根本沒有辦法做任何事。
 
 「我們必須終結奴隸販子的威脅。」他觀察著你的表情想要得到肯定的回答。</DefaultText>
       <FemaleText />
@@ -2285,12 +2285,12 @@
       <ID>513</ID>
       <DefaultText>「拜託，難道懲戒這些奴隸販子還需要理由嗎？
 
-「胡亞納根本沒有能力做任何事情。」他狡黠地微笑了起來。</DefaultText>
+「&lt;g&gt;胡亞納&lt;/g&gt;根本沒有能力做任何事情。」他狡黠地微笑了起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>514</ID>
-      <DefaultText>「我們兩個不需要裝腔作勢。如果胡亞納人沒有辦法終結奴隸販子而我們卻有辦法的話，我們就必須從實際出發。」
+      <DefaultText>「我們兩個不需要裝腔作勢。如果 &lt;g&gt;胡亞納&lt;/g&gt;人沒有辦法終結奴隸販子而我們卻有辦法的話，我們就必須從實際出發。」
 
 他觀察著你的表情想要得到肯定的回答。</DefaultText>
       <FemaleText />
@@ -2319,7 +2319,7 @@
     </Entry>
     <Entry>
       <ID>522</ID>
-      <DefaultText>她皺起了眉頭。「我相信商行絕對是遵守著胡亞納人針對禁止奴隸貿易進入亡焰列島的規定的。」</DefaultText>
+      <DefaultText>她皺起了眉頭。「我相信商行絕對是遵守著 &lt;g&gt;胡亞納&lt;/g&gt;人針對禁止奴隸貿易進入 &lt;g&gt;亡焰列島&lt;/g&gt;的規定的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2414,12 +2414,12 @@
     </Entry>
     <Entry>
       <ID>543</ID>
-      <DefaultText>「你成功破壞了亡焰列島路面最大的一支犯罪集團。」</DefaultText>
+      <DefaultText>「你成功破壞了 &lt;g&gt;亡焰列島&lt;/g&gt;路面最大的一支犯罪集團。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>546</ID>
-      <DefaultText>「我做了點你的功課。我知道你有瓦利亞朋友，但我真想不到你居然在援助奴販。」他似乎在自言自語，而不是對你說話。</DefaultText>
+      <DefaultText>「我做了點你的功課。我知道你有 &lt;g&gt;瓦利亞&lt;/g&gt;朋友，但我真想不到你居然在援助奴販。」他似乎在自言自語，而不是對你說話。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2429,7 +2429,7 @@
     </Entry>
     <Entry>
       <ID>548</ID>
-      <DefaultText>「我做了點你的功課。你與瓦利亞人不和，真不該支援奴販的！」他似乎在自言自語，而不是對你說話。</DefaultText>
+      <DefaultText>「我做了點你的功課。你與 &lt;g&gt;瓦利亞&lt;/g&gt;人不和，真不該支援奴販的！」他似乎在自言自語，而不是對你說話。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2439,7 +2439,7 @@
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>她哼了一聲。「說這是誇張都太誇張了。你高估了商行的野心的同時低估了胡亞納的決心。」</DefaultText>
+      <DefaultText>她哼了一聲。「說這是誇張都太誇張了。你高估了商行的野心的同時低估了 &lt;g&gt;胡亞納&lt;/g&gt;的決心。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2466,7 +2466,7 @@
     </Entry>
     <Entry>
       <ID>558</ID>
-      <DefaultText>「我們必須盡全力去保護亡焰列島和它的人民。」他稍稍站直一些。</DefaultText>
+      <DefaultText>「我們必須盡全力去保護 &lt;g&gt;亡焰列島&lt;/g&gt;和它的人民。」他稍稍站直一些。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2533,7 +2533,7 @@
     </Entry>
     <Entry>
       <ID>573</ID>
-      <DefaultText>「總有一天，我們的肉體將會消逝，我們的靈魂將返回貝拉斯之輪。」</DefaultText>
+      <DefaultText>「總有一天，我們的肉體將會消逝，我們的靈魂將返回 貝拉斯之輪。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2609,7 +2609,7 @@
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>「想想英格維仙的工藝品，現在還留著多少，我們的生活被這些東西改變了多少。」</DefaultText>
+      <DefaultText>「想想 &lt;g&gt;英格維仙&lt;/g&gt;的工藝品，現在還留著多少，我們的生活被這些東西改變了多少。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2629,7 +2629,7 @@
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>「也許吧。我只能希望我們的遺產能夠與英格維仙一樣亙古流傳。」</DefaultText>
+      <DefaultText>「也許吧。我只能希望我們的遺產能夠與 &lt;g&gt;英格維仙&lt;/g&gt;一樣亙古流傳。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2656,7 +2656,7 @@
     </Entry>
     <Entry>
       <ID>596</ID>
-      <DefaultText>「但是如果在這裡的小小犧牲能夠阻止瓦利亞人的未來開採，這就是有價值的風險。」</DefaultText>
+      <DefaultText>「但是如果在這裡的小小犧牲能夠阻止 &lt;g&gt;瓦利亞&lt;/g&gt;人的未來開採，這就是有價值的風險。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2666,12 +2666,12 @@
     </Entry>
     <Entry>
       <ID>598</ID>
-      <DefaultText>「努瓦泰有豐富的硝石，銅礦以及其他幾種高價值礦物資源。我們通常都會用這些交換食物與木材，惡土上不適合種植這些。」</DefaultText>
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;有豐富的硝石，銅礦以及其他幾種高價值礦物資源。我們通常都會用這些交換食物與木材，惡土上不適合種植這些。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>599</ID>
-      <DefaultText>「最近幾年裡面瓦利亞人已經成為了最大的競爭者，但是早在共和國宣佈獨立之前我們的艦隊就已經在這裡的海域上討生活了。」</DefaultText>
+      <DefaultText>「最近幾年裡面 &lt;g&gt;瓦利亞&lt;/g&gt;人已經成為了最大的競爭者，但是早在共和國宣佈獨立之前我們的艦隊就已經在這裡的海域上討生活了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2693,7 +2693,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>「很危險的組合，特別是現在瓦利亞商行已經成長為了不容小看的勢力。」</DefaultText>
+      <DefaultText>「很危險的組合，特別是現在 &lt;g&gt;瓦利亞商行&lt;/g&gt;已經成長為了不容小看的勢力。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2710,12 +2710,12 @@
       <ID>606</ID>
       <DefaultText>「他們懷疑外來者，所以小心接近他們。如果真會發生的話。
 
-「重要的是你讓我們擺脫了鉤刺島的奴隸販子。」</DefaultText>
+「重要的是你讓我們擺脫了鉤刺島的 奴隸販子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>607</ID>
-      <DefaultText>「瓦哈奇聚集在稱為『奧里奧柯基』的一個島上。它的意思是『受詛咒的群屍之地』。」他一邊在你的地圖上做標記，一邊嘴角擰出一絲冷笑。</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦哈奇&lt;/g&gt;聚集在稱為『奧里奧柯爾奇』的一個島上。它的意思是『受詛咒的群屍之地』。」他一邊在你的地圖上做標記，一邊嘴角擰出一絲冷笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2730,7 +2730,7 @@
     </Entry>
     <Entry>
       <ID>610</ID>
-      <DefaultText>「不管怎麼說，如果你想要在亡焰列島交朋友的話，你最好還是選擇那些火炮更粗的。」
+      <DefaultText>「不管怎麼說，如果你想要在 &lt;g&gt;亡焰列島&lt;/g&gt;交朋友的話，你最好還是選擇那些火炮更粗的。」
 
 他笑了起來，嘴裡的尖牙一覽無遺。</DefaultText>
       <FemaleText />
@@ -2744,7 +2744,7 @@
     </Entry>
     <Entry>
       <ID>612</ID>
-      <DefaultText>「不管怎麼說，如果你想要在亡焰列島交朋友的話，你最好還是選擇那些火炮更粗的。」
+      <DefaultText>「不管怎麼說，如果你想要在 &lt;g&gt;亡焰列島&lt;/g&gt;交朋友的話，你最好還是選擇那些火炮更粗的。」
 
 他笑了起來，嘴裡的尖牙一覽無遺。</DefaultText>
       <FemaleText />
@@ -2758,7 +2758,7 @@
     </Entry>
     <Entry>
       <ID>614</ID>
-      <DefaultText>「我們必須盡全力去保護亡焰列島和它的人民。」他稍稍站直一些。</DefaultText>
+      <DefaultText>「我們必須盡全力去保護 &lt;g&gt;亡焰列島&lt;/g&gt;和它的人民。」他稍稍站直一些。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2778,7 +2778,7 @@
     </Entry>
     <Entry>
       <ID>618</ID>
-      <DefaultText>「我們必須盡全力去保護亡焰列島和它的人民。」他稍稍站直一些。</DefaultText>
+      <DefaultText>「我們必須盡全力去保護 &lt;g&gt;亡焰列島&lt;/g&gt;和它的人民。」他稍稍站直一些。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2798,7 +2798,7 @@
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>「因為像克拉里奧這樣子的總督千年難遇。大部分瓦利亞主管根本不在乎胡亞納的死活。」</DefaultText>
+      <DefaultText>「因為像克拉里奧這樣子的總督千年難遇。大部分 &lt;g&gt;瓦利亞&lt;/g&gt;主管根本不在乎 &lt;g&gt;胡亞納&lt;/g&gt;的死活。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2808,7 +2808,7 @@
     </Entry>
     <Entry>
       <ID>624</ID>
-      <DefaultText>「因為像克拉里奧這樣子的總督千年難遇。大部分瓦利亞主管根本不在乎胡亞納的死活。」</DefaultText>
+      <DefaultText>「因為像克拉里奧這樣子的總督千年難遇。大部分 &lt;g&gt;瓦利亞&lt;/g&gt;主管根本不在乎 &lt;g&gt;胡亞納&lt;/g&gt;的死活。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2825,7 +2825,7 @@
     </Entry>
     <Entry>
       <ID>627</ID>
-      <DefaultText>「你有一顆善良的心。你為亡焰列島上面的人民著想。」
+      <DefaultText>「你有一顆善良的心。你為 &lt;g&gt;亡焰列島&lt;/g&gt;上面的人民著想。」
 
 他說完之後暫停了好幾秒。</DefaultText>
       <FemaleText />
@@ -2846,7 +2846,7 @@
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>「你有一顆善良的心。你為亡焰列島上面的人民著想。」
+      <DefaultText>「你有一顆善良的心。你為 &lt;g&gt;亡焰列島&lt;/g&gt;上面的人民著想。」
 
 他說完之後暫停了好幾秒。</DefaultText>
       <FemaleText />
@@ -2898,7 +2898,7 @@
     </Entry>
     <Entry>
       <ID>638</ID>
-      <DefaultText>「我由衷感謝您的援助。你給岡谷，給我們所有人帶來了莫大的幫助。」</DefaultText>
+      <DefaultText>「我由衷感謝您的援助。你給奧卡耶，給我們所有人帶來了莫大的幫助。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2915,7 +2915,7 @@
     </Entry>
     <Entry>
       <ID>641</ID>
-      <DefaultText>「我由衷感謝您的援助。你給岡谷，給我們所有人帶來了莫大的幫助。」</DefaultText>
+      <DefaultText>「我由衷感謝您的援助。你給奧卡耶，給我們所有人帶來了莫大的幫助。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2932,7 +2932,7 @@
     </Entry>
     <Entry>
       <ID>644</ID>
-      <DefaultText>「難道終結這災禍不是高尚公正之事？胡亞納人根本沒有辦法做任何事。
+      <DefaultText>「難道終結這災禍不是高尚公正之事？胡亞納 人根本沒有辦法做任何事。
 
 「我們必須終結奴隸販子的威脅。」他觀察著你的表情想要得到肯定的回答。</DefaultText>
       <FemaleText />
@@ -2941,19 +2941,19 @@
       <ID>645</ID>
       <DefaultText>「拜託，難道懲戒這些奴隸販子還需要理由嗎？
 
-「胡亞納根本沒有能力做任何事情。」他狡黠地微笑了起來。</DefaultText>
+「&lt;g&gt;胡亞納&lt;/g&gt;根本沒有能力做任何事情。」他狡黠地微笑了起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>646</ID>
-      <DefaultText>「我們兩個不需要裝腔作勢。如果胡亞納人沒有辦法終結奴隸販子而我們卻有辦法的話，我們就必須從實際出發。」
+      <DefaultText>「我們兩個不需要裝腔作勢。如果 &lt;g&gt;胡亞納&lt;/g&gt;人沒有辦法終結奴隸販子而我們卻有辦法的話，我們就必須從實際出發。」
 
 他觀察著你的表情想要得到肯定的回答。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>「難道終結這災禍不是高尚公正之事？胡亞納人根本沒有辦法做任何事。
+      <DefaultText>「難道終結這災禍不是高尚公正之事？胡亞納 人根本沒有辦法做任何事。
 
 「我們必須終結奴隸販子的威脅。」他觀察著你的表情想要得到肯定的回答。</DefaultText>
       <FemaleText />
@@ -2962,12 +2962,12 @@
       <ID>648</ID>
       <DefaultText>「拜託，難道懲戒這些奴隸販子還需要理由嗎？
 
-「胡亞納根本沒有能力做任何事情。」他狡黠地微笑了起來。</DefaultText>
+「&lt;g&gt;胡亞納&lt;/g&gt;根本沒有能力做任何事情。」他狡黠地微笑了起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>649</ID>
-      <DefaultText>「我們兩個不需要裝腔作勢。如果胡亞納人沒有辦法終結奴隸販子而我們卻有辦法的話，我們就必須從實際出發。」
+      <DefaultText>「我們兩個不需要裝腔作勢。如果 &lt;g&gt;胡亞納&lt;/g&gt;人沒有辦法終結奴隸販子而我們卻有辦法的話，我們就必須從實際出發。」
 
 他觀察著你的表情想要得到肯定的回答。</DefaultText>
       <FemaleText />
@@ -3084,7 +3084,7 @@
     </Entry>
     <Entry>
       <ID>670</ID>
-      <DefaultText>「你成功破壞了亡焰列島路面最大的一支犯罪集團。」</DefaultText>
+      <DefaultText>「你成功破壞了 &lt;g&gt;亡焰列島&lt;/g&gt;路面最大的一支犯罪集團。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3096,12 +3096,12 @@
     </Entry>
     <Entry>
       <ID>672</ID>
-      <DefaultText>「你成功破壞了亡焰列島路面最大的一支犯罪集團。」</DefaultText>
+      <DefaultText>「你成功破壞了 &lt;g&gt;亡焰列島&lt;/g&gt;路面最大的一支犯罪集團。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>673</ID>
-      <DefaultText>「你成功破壞了亡焰列島路面最大的一支犯罪集團。」</DefaultText>
+      <DefaultText>「你成功破壞了 &lt;g&gt;亡焰列島&lt;/g&gt;路面最大的一支犯罪集團。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

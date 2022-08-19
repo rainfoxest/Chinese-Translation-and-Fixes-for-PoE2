@@ -64,14 +64,14 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[Specified 0]在船艙中找到你。船員看起來精疲力盡——眼睛凹陷，面頰無肉，四肢枯瘦。
+      <DefaultText>[Specified 0]在船艙中找到你。船員看起來精疲力盡—眼睛凹陷，面頰無肉，四肢枯瘦。
 
 「船長……船員們很餓。太餓了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「吃人是你的辦法？「滾出我的船艙！」</DefaultText>
+      <DefaultText>「吃人是你的辦法？滾出我的船艙！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[殺了 [Specified 0]。] 「這個主意太棒了。你的骨頭上沒有多少肉，但你還是可以餵飽不少人了。」</DefaultText>
+      <DefaultText>[殺了 [Specified 0]]「這個主意太棒了。你的骨頭上沒有多少肉，但你還是可以餵飽不少人了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,17 +255,17 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>[把屍體扔下船。]</DefaultText>
+      <DefaultText>[把屍體扔下船]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[吊起屍體作為警告。]</DefaultText>
+      <DefaultText>[吊起屍體作為警告]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[把[Specified 0]變為肉食。]</DefaultText>
+      <DefaultText>[把[Specified 0]變為肉食]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[命令殺了[Specified 2]。]</DefaultText>
+      <DefaultText>[命令殺了[Specified 2]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -518,7 +518,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>[Specified 1]眨眨眼。「但你不是我們的——」
+      <DefaultText>[Specified 1]眨眨眼。「但你不是我們的—」
 
 這名船員話未說完，被[Specified 0]迅速戳了一下他的肋骨打斷了說話。「安靜，蠢貨。」
 
@@ -570,27 +570,27 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>[你的熊崽。]</DefaultText>
+      <DefaultText>[你的熊崽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>[沙漠幼龍幼崽。]</DefaultText>
+      <DefaultText>[沙漠幼龍幼崽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>[狗人卡茲。]</DefaultText>
+      <DefaultText>[狗人卡茲]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>[野豬兒。]</DefaultText>
+      <DefaultText>[野豬兒]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>[飛龍幼崽。]</DefaultText>
+      <DefaultText>[飛龍幼崽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -609,7 +609,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>[把[Specified 2]變為肉食。]</DefaultText>
+      <DefaultText>[把[Specified 2]變為肉食]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

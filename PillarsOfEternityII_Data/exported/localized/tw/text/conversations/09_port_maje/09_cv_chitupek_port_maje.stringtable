@@ -49,7 +49,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「你說的是我們擱淺之後嗎？我醒來時跟波多爾在一起，他還嚷嚷說昂德拉的怒火還會再次降臨。」
+      <DefaultText>「你說的是我們擱淺之後嗎？我醒來時跟波多爾在一起，他還嚷嚷說 &lt;g&gt;昂德拉&lt;/g&gt;的怒火還會再次降臨。」
 
 「然後我們開始尋找補給。」</DefaultText>
       <FemaleText />
@@ -119,12 +119,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「小心野豬，靈視者！我擋不住它們！」</DefaultText>
+      <DefaultText>「小心野豬，靈視者！我擋不住牠們！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「靈視者！快過來！」</DefaultText>
+      <DefaultText>「靈視者！在這邊！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,7 +204,7 @@
       <ID>38</ID>
       <DefaultText>「我叫奇圖帕。是你的船員。不認識我嗎？
 
-「我們從鹿林出發去接你回來的。恐怕我無法再繼續為你效力了。」</DefaultText>
+「我們從 &lt;g&gt;鹿林&lt;/g&gt;出發去接你回來的。恐怕我無法再繼續為你效力了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[聳肩。]</DefaultText>
+      <DefaultText>[聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

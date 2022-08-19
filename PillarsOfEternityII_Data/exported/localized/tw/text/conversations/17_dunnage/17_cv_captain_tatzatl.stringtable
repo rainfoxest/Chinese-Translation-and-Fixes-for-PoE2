@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「你好。我是塔特扎托，天賜神舟號的船長。你到此有何貴幹？」</DefaultText>
+      <DefaultText>「Nikze。我是塔特扎托，天賜神舟號的船長。你到此有何貴幹？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「你好，[Player Name]船長。尊駕的光臨是我們的榮幸，你到此有何貴幹？」</DefaultText>
+      <DefaultText>「Nilkzenze，[Player Name]船長。尊駕的光臨是我們的榮幸，你到此有何貴幹？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,22 +21,22 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[看著帕蕾吉娜。]</DefaultText>
+      <DefaultText>[望向帕蕾吉娜]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[攻擊][什麼都沒說。]</DefaultText>
+      <DefaultText>[攻擊] [什麼都沒說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「我們在森林中迷路了。你將穿過奧特哈支路然後將我們帶出來。」</DefaultText>
+      <DefaultText>「我們在森林中迷路了。你將帶領我們穿過奧特哈支路。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「你是養路工，而我是旅行者嗎？」</DefaultText>
+      <DefaultText>「你是路主，而我是路人？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,17 +46,17 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[瞇著眼睛看並且自信地點點頭。]</DefaultText>
+      <DefaultText>[瞇著眼睛看並且自信地點點頭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「森林是通過邊界來劃分的。通過森林的方法只有幾個，就像沒幾個方法可以終結這件事一樣。」</DefaultText>
+      <DefaultText>「森林是通過邊界來劃分的。穿過森林的方法只有幾個，就像這件事的結果也只有沒幾個選擇一樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「我知道出森林的路，但由你選擇走哪條路。」</DefaultText>
+      <DefaultText>「我知道走出森林的路，但由你選擇走哪條路。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[攻擊]「我選擇死亡之路……！」</DefaultText>
+      <DefaultText>[攻擊]「我選擇……死亡之路！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,49 +81,49 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「如果她在孩子真正降生之前結束孩子的生命，是出於好心還是個壞主意呢」</DefaultText>
+      <DefaultText>「如果她在孩子真正降生前就結束孩子的生命，是好還是壞？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「在遺贈時見得夠多了。答案再簡單不過。
+      <DefaultText>「在遺禍時見得夠多了。答案再簡單不過。
 
 「如果他們早早將其終結，那簡直是不能更糟糕的事了。而如果他們沒這麼做……也是一樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「我對其他的神不瞭解，但我不相信海麗婭會讓任何一個孩子受苦。」</DefaultText>
+      <DefaultText>「我對其他的神不瞭解，但我不相信 &lt;g&gt;海麗婭&lt;/g&gt;會讓任何一個孩子受苦。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「我想那個……嗯。」帕蕾吉娜支支吾吾地安靜了下來，然後看著你。</DefaultText>
+      <DefaultText>「我覺得……唔。」帕蕾吉娜支支吾吾地安靜了下來，然後看著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「你們覺得應該用『好』還是『壞』來形容這位母親呢？」僅此而已。」泰克胡瞥了下你所在的方向，有點困惑。</DefaultText>
+      <DefaultText>「你用什麼來判斷這位母親是『好』還是『壞』呢？僅此而已。」泰克胡瞥了下你所在的方向，有點困惑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「很好。」</DefaultText>
+      <DefaultText>「好。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「不好。」</DefaultText>
+      <DefaultText>「壞。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「我認為比那要複雜多了。」</DefaultText>
+      <DefaultText>「我認為現實比那要複雜多了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「就是這樣，我是養路工，而你是旅行者。」我決定哪些路行得通，而你決定要走哪條路。」</DefaultText>
+      <DefaultText>「沒錯，但我是路主，而你是路人。我決定哪些路行得通，而你決定要走哪條路。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,17 +133,17 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「你是會摧毀這項技術，管制對它的使用，還是給每個人平等的機會去使用它呢呢？」</DefaultText>
+      <DefaultText>「你是會摧毀這項技術，管制對它的使用，還是給每個人平等的機會去使用它？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「邪惡誤用的風險始終存在，但我們不能通過剝奪人們的選擇權來實現對他們的管理。我堅信理性和節制會勝出。他點頭並看著你。</DefaultText>
+      <DefaultText>「邪惡誤用的風險始終存在，但我們不能通過剝奪人們的選擇權來實現對他們的管理。我堅信理性和節制才是正途。」他點頭並看著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「當然不應該&lt;i&gt;銷毀。&lt;/i&gt;別人遲早會有相同的發現，這隻是時間問題。</DefaultText>
+      <DefaultText>「當然不應該&lt;i&gt;銷毀&lt;/i&gt;。別人遲早會有相同的發現，這只是時間問題。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,7 +158,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「不冒險，力求完全。毀掉。」</DefaultText>
+      <DefaultText>「不冒險，摧毀技術。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,7 +193,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>「你有機會阻止的，那就是殺了他們。「你會這樣做嗎？」</DefaultText>
+      <DefaultText>「你有機會阻止的，那就是殺了他們。你會這樣做嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,7 +213,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「這已經不是那個我所熟知的世界了，這是奧特哈支路。」</DefaultText>
+      <DefaultText>「也許在另一個世界是有的，但這裡是奧特哈支路。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,7 +270,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「你選的路通向這個結果。如果賈克洛被殺死，他的研究成果將被摧毀。」</DefaultText>
+      <DefaultText>「你選的路通向這個結果。賈克洛需要死，他的研究成果將被摧毀。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,7 +290,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>「什麼？！這是怎麼回事？你甚至還沒解釋他犯了什麼事兒呢！」</DefaultText>
+      <DefaultText>「Cuè？！這是怎麼回事？你甚至還沒解釋他犯了什麼事兒呢！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -300,7 +300,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>「什麼？一開始逮捕他的理由是什麼？」</DefaultText>
+      <DefaultText>「Cuè？那一開始綁架他是為什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,12 +315,12 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>「在亡焰列島，父母親認為神嗣是一種祝福。從貝拉斯和海麗婭到昂德拉和伽拉溫，各個都都深受愛戴——除了司坎的神嗣。」</DefaultText>
+      <DefaultText>「在 亡焰列島，父母親認為神嗣是一種祝福。從 &lt;g&gt;貝拉斯&lt;/g&gt;和 &lt;g&gt;海麗婭&lt;/g&gt;到 &lt;g&gt;昂德拉&lt;/g&gt;和 伽拉溫，各個都都深受愛戴—除了 &lt;g&gt;司坎&lt;/g&gt;的神嗣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「許多出生時露出殘疾的司坎神嗣在部落的默許下被殺害。而沒有被殺死的孩子則過著悲慘的生活。」</DefaultText>
+      <DefaultText>「許多出生時明顯殘疾的 &lt;g&gt;司坎&lt;/g&gt;神嗣在部落的默許下被殺害，而沒有被殺死的孩子則過著悲慘的生活。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,7 +330,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>[會意地四下看看]「好吧，你不能怪孩子的父母，是吧？司坎神嗣不能帶來任何好處。」</DefaultText>
+      <DefaultText>[會意地四下看看]「好吧，你不能怪孩子的父母，是吧？&lt;g&gt;司坎&lt;/g&gt;神嗣不能帶來任何好處。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -384,17 +384,17 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>「而現在就因為靈視者解了你們愚蠢的謎團，你們就要殺了他嗎？」</DefaultText>
+      <DefaultText>「而現在就因為靈視者回答你們蠢謎語的答覆，你們就要殺了他嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>「而所有這一切之後，你們會僅因為靈視者解開了你們愚蠢的謎團而放他離開並毀掉他的研究嗎？」</DefaultText>
+      <DefaultText>「所以現在就因為靈視者回答你們蠢謎語的答覆而放他離開並毀掉他的研究嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「而所有這一切之後，你們會僅因為靈視者解開了你們愚蠢的謎團而放他離開嗎？」</DefaultText>
+      <DefaultText>「所以現在就因為靈視者回答你們蠢謎語的答覆而放過他？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -414,7 +414,7 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -469,17 +469,17 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>[攻擊][點頭。]</DefaultText>
+      <DefaultText>[攻擊][點頭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>[搖頭。]</DefaultText>
+      <DefaultText>[搖頭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>[攻擊][向賈克洛施免難術。]</DefaultText>
+      <DefaultText>[攻擊][向賈克洛施免難術]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -544,7 +544,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>[攻擊] 「我們將會帶著賈克洛&lt;i&gt;和&lt;/i&gt;他的研究離開。」</DefaultText>
+      <DefaultText>[攻擊]「我們將會帶著賈克洛&lt;i&gt;和&lt;/i&gt;他的研究離開。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -559,7 +559,7 @@
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>[撒謊。]「以撒密陀內的一個鑄魂師黑查理即將會有相同的發現了。」</DefaultText>
+      <DefaultText>[撒謊]「以撒密陀內的一個鑄魂師黑查理即將會有相同的發現了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -589,12 +589,12 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>「我說，你懂的。」</DefaultText>
+      <DefaultText>「說，你明白了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>「好吧。我懂。」</DefaultText>
+      <DefaultText>「Ac。我明白了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -624,7 +624,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>她向前邁步。「你們綁架了鑄魂師賈克洛，瓦利亞共和國一位很有價值的公民。」</DefaultText>
+      <DefaultText>她向前邁步。「你們綁架了鑄魂師賈克洛，瓦利亞共和國 一位很有價值的公民。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -634,17 +634,17 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>「他享有大公和巴尼特家族的庇護，並因為他們獲得五陽兄弟會的保護。」</DefaultText>
+      <DefaultText>「他享有大公和小公的庇護，並因為他們獲得五陽兄弟會的保護。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>「如果賈克洛不能安全無恙地回去的話，所有捲入綁架事件的人都將面臨五陽之怒。這是事實，我發誓。」</DefaultText>
+      <DefaultText>「如果賈克洛不能安全無恙地回去的話，所有涉及綁架事件的人都將面臨五陽之怒。我發誓。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>塔特扎托點頭。「我明白了。我們自己在討論了相當長的一段時間關於如何處置賈克洛已經有。」</DefaultText>
+      <DefaultText>塔特扎托點頭。「我明白了。我們自己也爭議了相當長的一段時間關於如何處置賈克洛。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -654,7 +654,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>塔特扎托抬頭看著天花板，顯然陷入沉思。他深深地吸了歎了一口氣並閉上雙眼相當長一段時間。最後，他低下頭並堅決地點了點。</DefaultText>
+      <DefaultText>塔特扎托抬頭看著天花板，顯然陷入沉思。他深深地歎了一口氣並閉上雙眼相當長一段時間。最後，他低下頭並堅決地點了點。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -664,7 +664,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>「合適的職業，靈視者船長。真可惜，沒人在你出生時把你溺死。」塞拉芬咆哮道。</DefaultText>
+      <DefaultText>「真是經典，靈視者船長。真可惜，沒人在你出生時把你溺死。」塞拉芬咆哮道。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

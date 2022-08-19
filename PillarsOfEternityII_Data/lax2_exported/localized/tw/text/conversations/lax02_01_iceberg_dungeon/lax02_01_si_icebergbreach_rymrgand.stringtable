@@ -13,12 +13,12 @@
       <ID>2</ID>
       <DefaultText>當光線漸漸褪去時，你終於又能看見了，一隻巨大的、毛髮蓬亂的野牛站在你面前。一股刺骨的寒氣從這個怪物身上散發出來。
 
-是睿姆岡顯靈。</DefaultText>
+是 &lt;g&gt;睿姆岡&lt;/g&gt;顯靈。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「穿過裂口會把你的靈魂撕碎成其組成部分，幾乎成為變化無常的精華微粒。」</DefaultText>
+      <DefaultText>「穿過裂口會把你的靈魂撕碎成其組成部分，幾乎成為變化無常的精粹微粒。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「全世界都陷入嚴寒，才能達到平衡——這是不可避免的。
+      <DefaultText>「全世界都陷入嚴寒，才能達到平衡—這是不可避免的。
 
 「我不會去阻止的。」</DefaultText>
       <FemaleText />
@@ -55,9 +55,9 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「但你缺乏進入 Vytmadh 並在這次旅程中活下來的辦法。
+      <DefaultText>「但你缺乏進入 Vytmádh 並在這次旅程中活下來的辦法。
 
-「你必須尋找睿姆岡之眼，曾經屬於我的僕從雷哈妲的遺物。
+「你必須尋找 &lt;g&gt;睿姆岡&lt;/g&gt;之眼，曾經屬於我的僕從雷哈妲的遺物。
 
 「是一顆冰冷的藍色石頭，就在這座神廟的某處。」</DefaultText>
       <FemaleText />
@@ -74,7 +74,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「一旦你拿到遺物，就接近 Vytmadh。我會讓你的靈魂安全的進入我的領地。」</DefaultText>
+      <DefaultText>「一旦你拿到遺物，就接近 Vytmádh。我會讓你的靈魂安全的進入我的領地。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[給睿姆岡看遺物。]」你是指這個嗎？」</DefaultText>
+      <DefaultText>[給 &lt;g&gt;睿姆岡&lt;/g&gt;看遺物]「你是指這個嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,24 +106,24 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[進入缺口。]</DefaultText>
+      <DefaultText>[進入缺口]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[進入缺口。]</DefaultText>
+      <DefaultText>[進入缺口]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>當你接近裂口時，你靈魂中的跳動加速了。突如其來的一陣&lt;i&gt;渴望&lt;/i&gt;壓倒了你，你還來不及預測接下來的行動，就已到達燈火前。
 
-你的靈魂已脫離你的身體，被撕成無數的精華之絲。你的屍體轟然倒塌在地。
+你的靈魂已脫離你的身體，被撕成無數的精粹之絲。你的屍體轟然倒塌在地。
 
 你的終極目的已達到。</DefaultText>
       <FemaleText />
@@ -167,7 +167,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>「俄撒斯邁著緩慢的步伐，邁向你為自己尋找的盡頭，你對此肯定已經失去了耐心。」</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;邁著緩慢的步伐，邁向你為自己尋找的盡頭，你對此肯定已經失去了耐心。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
       <ID>80</ID>
       <DefaultText>「你把我從萬神殿裡找出來，而你又如此的厭惡萬神殿嗎？我真是受寵若驚。
 
-「我沒什麼好跟他們說的了。基斯成就了他們，而對於按照基斯的形象而創造的那個人來說，他們就是一群愚民。」</DefaultText>
+「我沒什麼好跟他們說的了。基斯 成就了他們，而對於按照基斯的形象而創造的那個人來說，他們就是一群愚民。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>[清清嗓子。]「呃，關於這個…...」</DefaultText>
+      <DefaultText>[清清嗓子]「呃，關於這個…...」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,7 +248,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>睿姆岡呼出一聲長長的、心滿意足的歎息。</DefaultText>
+      <DefaultText>睿姆岡 呼出一聲長長的、心滿意足的歎息。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,22 +293,22 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>「她的靈魂通過缺口—— Vytmadh 被抽出到靈界。」</DefaultText>
+      <DefaultText>「她的靈魂通過缺口— Vytmádh 被抽出到靈界。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>「Vytmadh 與白色虛空有什麼差別？」</DefaultText>
+      <DefaultText>「Vytmádh 與白色虛空有什麼差別？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>「Vytmadh 是熵殤的無底洞。白色虛空是侵蝕艾歐拉內部的慾望，無法滿足。」</DefaultText>
+      <DefaultText>「Vytmádh 是熵殤的無底洞。白色虛空是侵蝕艾歐拉內部的慾望，無法滿足。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>[聳肩。]</DefaultText>
+      <DefaultText>[聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,12 +323,12 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>[聳聳肩。]「那是信仰。」</DefaultText>
+      <DefaultText>[聳聳肩]「那是信仰。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>睿姆岡不屑的哼出聲。噴射出的冰晶在空中懸停了一會，然後被咆哮的風吹散。</DefaultText>
+      <DefaultText>睿姆岡 不屑的哼出聲。噴射出的冰晶在空中懸停了一會，然後被咆哮的風吹散。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -338,7 +338,7 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>睿姆岡低沉的轟隆隆的笑聲讓寺廟晃動起來。</DefaultText>
+      <DefaultText>睿姆岡 低沉的轟隆隆的笑聲讓寺廟晃動起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,7 +365,7 @@
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>「拿著遺物，接近 Vytmadh。我會讓你的靈魂安全的進入破碎領域。」</DefaultText>
+      <DefaultText>「拿著遺物，接近 Vytmádh。我會讓你的靈魂安全的進入破碎領域。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,7 +375,7 @@
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>睿姆岡暫停下來，他那漆黑的雙眼目不轉睛的盯著你。</DefaultText>
+      <DefaultText>睿姆岡 暫停下來，他那漆黑的雙眼目不轉睛的盯著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -400,26 +400,26 @@
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>「你只有回來才能知道進入 Vytmadh 並在這次旅行中存活下來的方法。
+      <DefaultText>「你只有回來才能知道進入 Vytmádh 並在這次旅行中存活下來的方法。
 
-「你必須尋找睿姆岡之眼，曾經屬於我的奴僕雷哈妲的遺物。它是塊冰冷的藍色石頭，就躺在這個寺廟的某個地方。」</DefaultText>
+「你必須尋找 &lt;g&gt;睿姆岡&lt;/g&gt;之眼，曾經屬於我的奴僕雷哈妲的遺物。它是塊冰冷的藍色石頭，就躺在這個寺廟的某個地方。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>「不要忘了，如果你想進入 Vytmadh，你需要尋找睿姆岡之眼。
+      <DefaultText>「不要忘了，如果你想進入 Vytmádh，你需要尋找 &lt;g&gt;睿姆岡&lt;/g&gt;之眼。
 
 「它是塊冰冷的藍色石頭，就躺在這個寺廟的某個地方。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>[默不作聲地瞪著他。]</DefaultText>
+      <DefaultText>[默不作聲地瞪著他]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -513,7 +513,7 @@
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>「用我的手去攻擊她已經毫無作用，與此同時，她還仿製了我的領地的每一種精華。」</DefaultText>
+      <DefaultText>「用我的手去攻擊她已經毫無作用，與此同時，她還仿製了我的領地的每一種精粹。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -553,7 +553,7 @@
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>「我是睿姆岡。」</DefaultText>
+      <DefaultText>「我是 睿姆岡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -580,7 +580,7 @@
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>「剷除巨龍，Vytmadh 將關閉，讓你寶貴的領地免受白色虛空永無窮盡的寒冷之苦。」</DefaultText>
+      <DefaultText>「剷除巨龍，Vytmádh 將關閉，讓你寶貴的領地免受白色虛空永無窮盡的寒冷之苦。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -600,7 +600,7 @@
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>[大笑。]「所以，基斯能成偉大的神靈睿姆岡不能成之事？」</DefaultText>
+      <DefaultText>[大笑]「所以，基斯能成偉大的神靈 &lt;g&gt;睿姆岡&lt;/g&gt;不能成之事？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -610,7 +610,7 @@
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -637,7 +637,7 @@
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -657,14 +657,14 @@
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>[向他吐唾沫。]「他媽的神靈們，尤其你是，媽的。」</DefaultText>
+      <DefaultText>[向他吐唾沫]「他媽的神靈們，尤其你是，媽的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
       <DefaultText>冰向上爬，封住了你的嘴巴、你的頭。當你完全被冰封蓋住時，它開始從你的喉嚨向下蔓延。寒冷灼燒你的腹部。
 
-睿姆岡將你從內到外都凍住了。</DefaultText>
+睿姆岡 將你從內到外都凍住了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -674,24 +674,24 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>睿姆岡那腐爛的牛嘴巴裡發出一聲滿足的歎息。</DefaultText>
+      <DefaultText>睿姆岡 那腐爛的牛嘴巴裡發出一聲滿足的歎息。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>睿姆岡那腐爛的牛嘴巴裡發出一聲滿足的歎息。</DefaultText>
+      <DefaultText>睿姆岡 那腐爛的牛嘴巴裡發出一聲滿足的歎息。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>睿姆岡那腐爛的牛嘴巴裡發出一聲滿足的歎息。</DefaultText>
+      <DefaultText>睿姆岡 那腐爛的牛嘴巴裡發出一聲滿足的歎息。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>276</ID>
       <DefaultText>冰向上爬，封住了你的嘴巴、你的頭。當你完全被冰封蓋住時，它開始從你的喉嚨向下蔓延。寒冷灼燒你的腹部。
 
-在你的同伴驚恐的眼神中，睿姆岡將你從內到外都凍住了。</DefaultText>
+在你的同伴驚恐的眼神中，睿姆岡 將你從內到外都凍住了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,7 +701,7 @@
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>「它是基斯扔到靈界的眾多物件之一，基斯希望它被白色虛空吞噬。」</DefaultText>
+      <DefaultText>「它是 &lt;g&gt;基斯&lt;/g&gt;扔到靈界的眾多物件之一，基斯希望它被白色虛空吞噬。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

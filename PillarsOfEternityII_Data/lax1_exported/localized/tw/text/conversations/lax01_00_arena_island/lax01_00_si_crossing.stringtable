@@ -11,32 +11,32 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[過橋。]</DefaultText>
+      <DefaultText>[過橋]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[檢查橋樑。]</DefaultText>
+      <DefaultText>[檢查橋樑]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[小心翼翼地過橋。]</DefaultText>
+      <DefaultText>[小心翼翼地過橋]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[加固橋樑。]</DefaultText>
+      <DefaultText>[加固橋樑]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[使用魔法來加固橋樑。]</DefaultText>
+      <DefaultText>[使用魔法來加固橋樑]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[尋找別的道路。]</DefaultText>
+      <DefaultText>[尋找別的道路]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,7 +65,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>你輕輕地吟唱出幾個詞，做了幾個秘法咒語的手勢，之後把雙手搭在了橋樑的繩索上。從你的手中噴射出了密實的魔網。由強力精華編製而成的魔網一直延伸到了橋的對面，對橋板與繩索進行了強化。</DefaultText>
+      <DefaultText>你輕輕地吟唱出幾個詞，做了幾個秘法咒語的手勢，之後把雙手搭在了橋樑的繩索上。從你的手中噴射出了密實的魔網。由強力精粹編製而成的魔網一直延伸到了橋的對面，對橋板與繩索進行了強化。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,22 +151,22 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[抓住[SkillCheck 0]的手腕。]</DefaultText>
+      <DefaultText>[抓住[SkillCheck 0]的手腕]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[讓[Player Animal Companion]去幫忙。]</DefaultText>
+      <DefaultText>[讓[Player Animal Companion]去幫忙]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[強化[SkillCheck 0]的力量。]</DefaultText>
+      <DefaultText>[增強 [SkillCheck 0]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[召喚一頭亞龍。]</DefaultText>
+      <DefaultText>[召喚一頭亞龍]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,12 +181,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>你的肌肉都要燒起來了，不過你成功地把[SkillCheck 0]拉到了安全的地方。</DefaultText>
+      <DefaultText>你的肌肉因過度用力而發痛，但成功把[SkillCheck 0]拉回安全的地方。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>[跳過去，抓住[SkillCheck 0]的手腕。]</DefaultText>
+      <DefaultText>[跳過去，抓住[SkillCheck 0]的手腕]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,12 +211,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>你呼喚著[Player Deity]的名字，將神力精華注入了[SkillCheck 0]的身體中。[SkillCheck 0]吐了口氣，爬到了安全的位置。</DefaultText>
+      <DefaultText>你呼喚著[Player Deity]的名字，將神力精粹注入了[SkillCheck 0]的身體中。[SkillCheck 0]吐了口氣，爬到了安全的位置。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>在你的詠唱之下，你周圍空氣中的精華為之振動，你你感覺到某種靈體回應了你的詠唱。</DefaultText>
+      <DefaultText>在你的詠唱之下，你周圍空氣中的精粹為之振動，你你感覺到某種靈體回應了你的詠唱。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>[原路返回。]</DefaultText>
+      <DefaultText>[原路返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -278,7 +278,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>[尋找[SkillCheck 0]。]</DefaultText>
+      <DefaultText>[尋找[SkillCheck 0]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,12 +288,12 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>「我還……沒……掉下去呢……」 你聽到了[SkillCheck 0]緊張的回應。</DefaultText>
+      <DefaultText>「我還……沒……掉下去呢……」你聽到了[SkillCheck 0]緊張的回應。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>你呼喚著附近的精華，將它們集中在[SkillCheck 0]身上，強化了骨骼和肌肉的力量。</DefaultText>
+      <DefaultText>你呼喚著附近的精粹，將它們集中在[SkillCheck 0]身上，強化了骨骼和肌肉的力量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,12 +323,12 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>[爬上去。]</DefaultText>
+      <DefaultText>[爬上去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>[叫人來幫忙。]</DefaultText>
+      <DefaultText>[叫人來幫忙]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -343,7 +343,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[集中力量。]</DefaultText>
+      <DefaultText>[集中力量]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -368,17 +368,17 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>[考慮木頭的品質。]</DefaultText>
+      <DefaultText>[考慮木頭的品質]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>[考慮橋板是否結實。]</DefaultText>
+      <DefaultText>[考慮橋板是否結實]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>[考慮橋樑的構造。]</DefaultText>
+      <DefaultText>[考慮橋樑的構造]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

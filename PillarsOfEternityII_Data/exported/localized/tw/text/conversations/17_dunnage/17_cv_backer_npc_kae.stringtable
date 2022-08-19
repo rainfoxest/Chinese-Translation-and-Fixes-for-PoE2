@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「在下身為冒險者，樂意為您效勞。我生於聚鹿，成長於林野間，我瞭解亡焰列島裡面的每一個角落！」</DefaultText>
+      <DefaultText>「在下身為冒險者，樂意為您效勞。我生於 聚鹿，成長於林野間，我瞭解 &lt;g&gt;亡焰列島&lt;/g&gt;裡面的每一個角落！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,7 +60,7 @@
       <ID>27</ID>
       <DefaultText>「榮幸之至！教育可是我的專長。我保證等我傳授完我的知識之後，你得頭痛一個&lt;i&gt;星期&lt;/i&gt;。
 
-「這一切的知識只&lt;i&gt;需要&lt;/i&gt;三千銅幣。」</DefaultText>
+「這一切的知識只&lt;i&gt;需要&lt;/i&gt;三千 銅幣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,7 +72,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,12 +87,12 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「對的，大部分時間都在盎然之地，但是最近我都在亡焰列島裡。」</DefaultText>
+      <DefaultText>「對的，大部分時間都在盎然之地，但是最近我都在 &lt;g&gt;亡焰列島&lt;/g&gt;裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,17 +102,17 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「我在聚鹿與盎然之地都呆過很久，但是最近我都在亡焰列島裡。」</DefaultText>
+      <DefaultText>「我在 &lt;g&gt;聚鹿&lt;/g&gt;與盎然之地都呆過很久，但是最近我都在 &lt;g&gt;亡焰列島&lt;/g&gt;裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「如果你覺得亡焰列島的環境很狂野的話，我得說，盎然之地裡面女士們的奢華午宴要比這裡瘋狂地多了！」</DefaultText>
+      <DefaultText>「如果你覺得 &lt;g&gt;亡焰列島&lt;/g&gt;的環境很狂野的話，我得說，盎然之地裡面女士們的奢華午宴要比這裡瘋狂地多了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>「如果你覺得亡焰列島的環境很狂野的話，我得說，盎然之地裡面女士們的奢華午宴要比這裡瘋狂地多了！」</DefaultText>
+      <DefaultText>「如果你覺得 &lt;g&gt;亡焰列島&lt;/g&gt;的環境很狂野的話，我得說，盎然之地裡面女士們的奢華午宴要比這裡瘋狂地多了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,7 +122,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +152,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -169,7 +169,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「這隻是我的工作的性質使然，你懂嗎？拜託，如果你想要一位女士去給你找到最罕見的植物，你就得派她去些最偏遠的地區啊！」</DefaultText>
+      <DefaultText>「這只是我的工作的性質使然，你懂嗎？拜託，如果你想要一位女士去給你找到最罕見的植物，你就得派她去些最偏遠的地區啊！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[強化隱匿與玄學]「給你。」</DefaultText>
+      <DefaultText>[提高 &lt;g&gt;隱匿&lt;/g&gt;和 &lt;g&gt;玄學&lt;/g&gt;]「給你。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

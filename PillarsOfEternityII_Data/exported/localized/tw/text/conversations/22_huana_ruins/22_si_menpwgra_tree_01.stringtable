@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>這棵樹滴下厚厚的粘稠的汁液，散發出一股刺鼻的臭味。你看見死去基斯的四肢緊貼在樹皮上，他們的身體物質從骨頭裡被抽走。</DefaultText>
+      <DefaultText>這棵樹滴下厚厚的粘稠的汁液，散發出一股刺鼻的臭味。你看見死去 &lt;g&gt;基斯&lt;/g&gt;的四肢緊貼在樹皮上，他們的身體物質從骨頭裡被抽走。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[小聲對樹說話，說服它放棄其核心處的腐爛。]</DefaultText>
+      <DefaultText>[小聲對樹說話，說服它放棄其核心處的腐爛]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,24 +28,24 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[摧毀樹。]</DefaultText>
+      <DefaultText>[摧毀樹]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>你割斷樹根和飢渴的籐蔓。變黑的汁液像濺出的血一樣從樹幹上滲出。不久， 樹受傷了。
+      <DefaultText>你割斷樹根和飢渴的籐蔓。變黑的汁液像濺出的血一樣從樹幹上滲出。不久，樹受傷了。
 
 你聽到腐化魂妖在痛苦中的一聲刺耳的尖叫聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[德魯伊小聲對樹說話，說服它放棄其心中的腐爛。]</DefaultText>
+      <DefaultText>[德魯伊小聲對樹說話，說服它放棄其心中的腐爛]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[使用叢林叢綠色的脊骨來治癒樹的腐爛。]</DefaultText>
+      <DefaultText>[使用叢林叢綠色的脊骨來治癒樹的腐爛]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -64,7 +64,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>你用樹能理解的語言召喚樹——成長、時間、水——吸引著它古老而又被遺忘的本性。
+      <DefaultText>你用樹能理解的語言召喚樹—成長、時間、水—吸引著它古老而又被遺忘的本性。
 
 你命令它驅除內心的黑暗。
 
@@ -82,7 +82,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>你用樹能理解的語言召喚樹——成長、時間、水——吸引著它古老而又被遺忘的本性。
+      <DefaultText>你用樹能理解的語言召喚樹—成長、時間、水—吸引著它古老而又被遺忘的本性。
 
 你命令它驅除內心的黑暗。
 
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>&lt;ispeech&gt;你擅自闖入我們家幹什麼？馬上走，否則後果自負 ！&lt;/ispeech&gt;你腦海裡的煩思愁緒隨著樹葉的沙沙聲而漸行漸遠。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;你擅自闖入我們家幹什麼？馬上走，否則後果自負！&lt;/ispeech&gt;你腦海裡的煩思愁緒隨著樹葉的沙沙聲而漸行漸遠。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>&lt;ispeech&gt;你無言、喘息的懇求讓我們如此高興。入侵者 。&lt;/ispeech&gt;虛無縹緲的聲音隨著期待而顫抖。</DefaultText>
+      <DefaultText>&lt;ispeech&gt;你無言、喘息的懇求讓我們如此高興。入侵者。&lt;/ispeech&gt;虛無縹緲的聲音隨著期待而顫抖。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,12 +143,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[拾起法杖。]「什麼……」</DefaultText>
+      <DefaultText>[拾起法杖]「什麼……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[將法杖傾倒。]「你哪也別想去。」</DefaultText>
+      <DefaultText>[將法杖傾倒]「你哪也別想去。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,12 +165,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>[靜聽其聲。]</DefaultText>
+      <DefaultText>[靜聽其聲]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>[無視這種感覺。]</DefaultText>
+      <DefaultText>[無視這種感覺]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -194,7 +194,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[緊握法杖。]「到底是什麼……」</DefaultText>
+      <DefaultText>[緊握法杖]「到底是什麼……」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

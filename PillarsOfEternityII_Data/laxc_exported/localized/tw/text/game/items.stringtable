@@ -1,113 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\items</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>19</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>4710</ID>
-      <DefaultText>使用{0}個牧師保護系法術或恢復系法術</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4711</ID>
-      <DefaultText>使用{0}個野獸或植物相關的德魯伊法術</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4713</ID>
-      <DefaultText>武器獵殺獵物，陷阱削弱力量。追獵者獻身於追獵。追獵者以八足蜘蛛之心眼，誘八方之敵落入陷阱，令旅人千回百轉的道路彼此糾纏。寂靜無聲即可避開視線，猛然出擊即可一擊必中。這把細劍並不僅僅能獵殺敵人，同樣也會混淆敵人的心智。
+ <Name>game\items</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>19</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>4710</ID>
+     <DefaultText>使用{0}個保護系或恢復系的牧師法術</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4711</ID>
+     <DefaultText>使用{0}個野獸系或植物系的德魯伊法術</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4713</ID>
+     <DefaultText>武器獵殺獵物，陷阱削弱力量。追獵者獻身於追獵。追獵者以八足蜘蛛之心眼，誘八方之敵落入陷阱，令旅人千回百轉的道路彼此糾纏。寂靜無聲即可避開視線，猛然出擊即可一擊必中。這把細劍並不僅僅能獵殺敵人，同樣也會混淆敵人的心智。
 
-歌唱吧，胡亞納人；咆哮吧，狩獵之面。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4714</ID>
-      <DefaultText>這條千回百轉的道路上，還有千回百轉的分岔路口。追獵者並不會引導追獵本身，而是會在每條道路上不斷往返，瞭解一切事情的來龍去脈，並洞悉事情的結果。因此而言，旅人會侍奉求生者，通過明澈的頭腦，從所有的潛在與可能之中，尋找最佳答案。
+歌唱吧，&lt;g&gt;胡亞納&lt;/g&gt;人；咆哮吧，狩獵之面。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4714</ID>
+     <DefaultText>這條千回百轉的道路上，還有千回百轉的分岔路口。追獵者並不會引導追獵本身，而是會在每條道路上不斷往返，瞭解一切事情的來龍去脈，並洞悉事情的結果。因此而言，旅人會侍奉求生者，通過明澈的頭腦，從所有的潛在與可能之中，尋找最佳答案。
 
-歌唱吧，胡亞納人；咆哮吧，狩獵之面。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4715</ID>
-      <DefaultText>追獵者獻身於追獵。成千上萬名旅人，沿著千回百轉的道路前進，編織出成千上萬的斗篷。如同尖針織布一樣，週而復始。追獵者會在每個分岔路口，挫敗遇到的每一位敵人，週而復始。
+歌唱吧，&lt;g&gt;胡亞納&lt;/g&gt;人；咆哮吧，狩獵之面。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4715</ID>
+     <DefaultText>追獵者獻身於追獵。成千上萬名旅人，沿著千回百轉的道路前進，編織出成千上萬的斗篷。如同尖針織布一樣，週而復始。追獵者會在每個分岔路口，挫敗遇到的每一位敵人，週而復始。
 
 追獵者必將追獵。所向之處，悉皆如此。
 
-歌唱吧，胡亞納人；咆哮吧，狩獵之面。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4719</ID>
-      <DefaultText>對處於減益狀態的敵人造成{0}傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4720</ID>
-      <DefaultText>對被夾擊的敵人造成{0}傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4721</ID>
-      <DefaultText>使用粉碎靈威造成{0}傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4723</ID>
-      <DefaultText>武器獵殺獵物，工具侍奉主人。殺戮者獻身於殺戮，在繁茂的籐蔓中披荊斬棘，在茂密的蘆葦中揮刃而行，清理千回百轉道路上的一切障礙。這把利斧非常結實，足以撬動巨石；而又極為鋒利，足以嚇退捕獵者。它不僅保護旅人，還為旅人保駕護航。
+歌唱吧，&lt;g&gt;胡亞納&lt;/g&gt;人；咆哮吧，狩獵之面。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4719</ID>
+     <DefaultText>對處於 熬煎 的敵人造成{0}傷害</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4720</ID>
+     <DefaultText>對被 夾擊 的敵人造成{0}傷害</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4721</ID>
+     <DefaultText>使用粉碎靈威造成{0}傷害</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4723</ID>
+     <DefaultText>武器獵殺獵物，工具侍奉主人。殺戮者獻身於殺戮，在繁茂的籐蔓中披荊斬棘，在茂密的蘆葦中揮刃而行，清理千回百轉道路上的一切障礙。這把利斧非常結實，足以撬動巨石；而又極為鋒利，足以嚇退捕獵者。它不僅保護旅人，還為旅人保駕護航。
 
-歌唱吧，胡亞納人；咆哮吧，狩獵之面。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5454</ID>
-      <DefaultText>活化鋼錨</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5455</ID>
-      <DefaultText>儘管普通鋼錨是航海標準配備，不過那些能買得起活化鋼錨的人會因為使用注入了靈魂精華的材料而減輕船身負重。合入活性鋼的船隻可以在不犧牲功能性的條件下提高機動性。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5456</ID>
-      <DefaultText>瑪珈嵐噴火器</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5457</ID>
-      <DefaultText>這項工程學奇跡能夠向敵方船隻噴射出火焰燃油，對海戰中的近距離攻擊者而言絕對是個「大驚喜」。關於噴火器的早期實驗產生了好壞不一的結果，因人為或機械誤差常常會導致不可控的火災，將任何敢於使用這件不穩定武器的船隻吞噬殆盡。近期設計降低了風險要素，同時還加入了極為需要的安全保障措施。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5458</ID>
-      <DefaultText>魂怪燈籠</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5459</ID>
-      <DefaultText>一團古怪的火焰在這盞燈籠的玻璃罩內猛烈地跳動著。這件容器使用了傳統燃油與常見航行燈芯，但其實際上是一間束縛火焰魂怪的小型監牢。痛苦萬分又灰心喪氣的魂怪將唯一可見的孔洞作為自己的嘗試逃離途徑：也就是透出光束照亮前方的壁窗。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5460</ID>
-      <DefaultText>棕櫚船帆</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5461</ID>
-      <DefaultText>這些船帆的材料是柔韌性強同時重量較低的棕櫚葉，後者常常用於胡亞納戰舟。儘管它們可能撐不過敵人的一輪炮火，但只要風兒輕輕吹過，它們就能迅速將船隻帶離危險。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5462</ID>
-      <DefaultText>潛妖船舵</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5463</ID>
-      <DefaultText>航海工程學通常會使用傳統木材，不過有些船工也會盡可能使用籐蔓潛妖的表皮。這種材料柔韌又結實，而且天生極耐風吹雨打，此外還會分泌一種獨特樹液方便轉舵時的潤滑效果。唯一的問題是原材料的獲取。</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+歌唱吧，&lt;g&gt;胡亞納&lt;/g&gt;人；咆哮吧，狩獵之面。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5454</ID>
+     <DefaultText>活化鋼錨</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5455</ID>
+     <DefaultText>儘管普通鋼錨是航海標準配備，不過那些能買得起活化鋼錨的人會因為使用注入了靈魂精粹的材料而減輕船身負重。合入活性鋼的船隻可以在不犧牲功能性的條件下提高機動性。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5456</ID>
+     <DefaultText>瑪珈嵐噴火器</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5457</ID>
+     <DefaultText>這項工程學奇跡能夠向敵方船隻噴射出火焰燃油，對海戰中的近距離攻擊者而言絕對是個「大驚喜」。關於噴火器的早期實驗產生了好壞不一的結果，因人為或機械誤差常常會導致不可控的火災，將任何敢於使用這件不穩定武器的船隻吞噬殆盡。近期設計降低了風險要素，同時還加入了極為需要的安全保障措施。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5458</ID>
+     <DefaultText>魂怪燈籠</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5459</ID>
+     <DefaultText>一團古怪的火焰在這盞燈籠的玻璃罩內猛烈地跳動著。這件容器使用了傳統燃油與常見航行燈芯，但其實際上是一間束縛火焰魂怪的小型監牢。痛苦萬分又灰心喪氣的魂怪將唯一可見的孔洞作為自己的嘗試逃離途徑：也就是透出光束照亮前方的壁窗。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5460</ID>
+     <DefaultText>棕櫚船帆</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5461</ID>
+     <DefaultText>這些船帆的材料是柔韌性強同時重量較低的棕櫚葉，後者常常用於 &lt;g&gt;胡亞納&lt;/g&gt;戰舟。儘管它們可能撐不過敵人的一輪炮火，但只要風兒輕輕吹過，它們就能迅速將船隻帶離危險。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5462</ID>
+     <DefaultText>潛妖船舵</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5463</ID>
+     <DefaultText>航海工程學通常會使用傳統木材，不過有些船工也會盡可能使用籐蔓潛妖的表皮。這種材料柔韌又結實，而且天生極耐風吹雨打，此外還會分泌一種獨特樹液方便轉舵時的潤滑效果。唯一的問題是原材料的獲取。</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

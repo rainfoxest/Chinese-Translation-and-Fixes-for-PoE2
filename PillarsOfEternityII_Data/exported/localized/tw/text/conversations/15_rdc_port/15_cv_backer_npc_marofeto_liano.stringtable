@@ -43,14 +43,14 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「我以前也風光過。金盟騎士團知道不？後來我接了個活，沒能幹好……
+      <DefaultText>「我以前也風光過。金盟 騎士團知道不？後來我接了個活，沒能幹好……
 
 「在&lt;i&gt;那事&lt;/i&gt;之後我就不能跟騎士團混了。」他遙望著遠方回憶起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「你能把這些年在亡焰列島遊蕩的心得教給我嗎？」</DefaultText>
+      <DefaultText>「你能把這些年在 &lt;g&gt;亡焰列島&lt;/g&gt;遊蕩的心得教給我嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,14 +65,14 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>他把這些年身為金盟騎士的討價還價的經驗都告訴了你，讓你學到如何觀察商人看出破綻的跡象。
+      <DefaultText>他把這些年身為 金盟 騎士的討價還價的經驗都告訴了你，讓你學到如何觀察商人看出破綻的跡象。
 
 在確信你不會再被偶遇到的奸商坑錢後，他表示你可以出山了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「我在亡焰列島遊歷多年，致力於躲避塵世的紛擾。只有磨煉才能讓靈魂變強，你明白嗎？」</DefaultText>
+      <DefaultText>「我在 &lt;g&gt;亡焰列島&lt;/g&gt;遊歷多年，致力於躲避塵世的紛擾。只有磨煉才能讓靈魂變強，你明白嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,7 +164,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「我做不到，但無所謂了——&lt;i&gt;他們&lt;/i&gt;會知道我是誰。我堅信這一點。」</DefaultText>
+      <DefaultText>「我做不到，但無所謂了—&lt;i&gt;他們&lt;/i&gt;會知道我是誰。我堅信這一點。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,12 +213,12 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[強化洞察並恐嚇]「給你。」</DefaultText>
+      <DefaultText>[提高 &lt;g&gt;洞察&lt;/g&gt;和 &lt;g&gt;恐嚇&lt;/g&gt;]「給你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>[強化洞察並恐嚇]「給你。」</DefaultText>
+      <DefaultText>[提高 &lt;g&gt;洞察&lt;/g&gt;和 &lt;g&gt;恐嚇&lt;/g&gt;]「給你。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

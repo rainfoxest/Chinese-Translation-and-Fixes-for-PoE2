@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>靈魂的流動形成了完整的圓環。當精華流過魂珀之時，你感覺到強烈的歡愉、絕望，以及與魂珀產生共鳴的各種情感。</DefaultText>
+      <DefaultText>靈魂的流動形成了完整的圓環。當精粹流過魂珀之時，你感覺到強烈的歡愉、絕望，以及與魂珀產生共鳴的各種情感。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[再次使用托墨弗艾的牙齒，切斷競技場與靈界的聯繫。]</DefaultText>
+      <DefaultText>[再次使用 &lt;g&gt;托墨弗艾&lt;/g&gt;的牙齒，切斷競技場與靈界的聯繫]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[返回現世。]</DefaultText>
+      <DefaultText>[返回現世]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>你的靈魂將托墨弗艾的力量推回到你來的方向，然後把它掐滅，再次關閉了現世通往靈界的通道。
+      <DefaultText>你的靈魂將 &lt;g&gt;托墨弗艾&lt;/g&gt;的力量推回到你來的方向，然後把它掐滅，再次關閉了現世通往靈界的通道。
 
 卡茲瓦里將恢復你剛看到它時的模樣。</DefaultText>
       <FemaleText />

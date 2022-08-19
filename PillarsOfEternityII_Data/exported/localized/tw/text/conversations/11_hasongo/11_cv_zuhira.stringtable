@@ -33,12 +33,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「在堡壘的西面。它是一個真正的奇跡——努瓦泰工程史上的一座豐碑。」</DefaultText>
+      <DefaultText>「在堡壘的西面。它是一個真正的奇跡— &lt;g&gt;努瓦泰&lt;/g&gt;工程史上的一座豐碑。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「別出去了！你在這裡很安全。等援軍來吧。」她嚥唾沫時喉嚨裡發出了很干的卡噠聲。</DefaultText>
+      <DefaultText>「別出去了！你在這裡很安全。等援軍來吧。」她嚥唾沫時喉嚨裡發出了很幹的卡噠聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,17 +86,17 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「沒關係。哈扎努伊卡魯派我來查明這裡發生發生了什麼。」</DefaultText>
+      <DefaultText>「沒關係。哈扎努伊 卡魯派我來查明這裡發生發生了什麼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>「我是代表涅克塔卡的至高權力而來。」</DefaultText>
+      <DefaultText>「我是代表 &lt;g&gt;涅克塔卡&lt;/g&gt;的至高權力而來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>「我看得出來努瓦泰士兵缺乏邏輯訓練。你真的相信我的同胞藏了一個石頭泰坦以防不時之需？」</DefaultText>
+      <DefaultText>「我看得出來 &lt;g&gt;努瓦泰&lt;/g&gt;士兵缺乏邏輯訓練。你真的相信我的同胞藏了一個石頭泰坦以防不時之需？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,12 +181,12 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>「彈藥？我們保管著大量的彈藥。一直會收到來自努瓦泰的新物資。」她開心地點點頭，仍抱著這個滿懷希望的想法。</DefaultText>
+      <DefaultText>「彈藥？我們保管著大量的彈藥。一直會收到來自 &lt;g&gt;努瓦泰&lt;/g&gt;的新物資。」她開心地點點頭，仍抱著這個滿懷希望的想法。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>「也許埃姆羅有一些！在他的工坊裡。他之前在製作這種新彈藥——」
+      <DefaultText>「也許埃姆羅有一些！在他的工坊裡。他之前在製作這種新彈藥—」
 
 受傷的士兵朝她看了一眼，她閉上了嘴。</DefaultText>
       <FemaleText />
@@ -217,7 +217,7 @@
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>「他當然是了。別把槍造得比伽拉溫的豐饒之矛還大，除非你打算用它。」</DefaultText>
+      <DefaultText>「他當然是了。別把槍造得比 伽拉溫 的豐饒之矛還大，除非你打算用它。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>「其實，我要去瑪珈嵐之牙。」</DefaultText>
+      <DefaultText>「其實，我要去 &lt;g&gt;瑪珈嵐&lt;/g&gt;之牙。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>「我們的神明絕不會存有報復之類的卑微動機。絕不，對於你和我，岡恩有著更宏偉的計劃。」</DefaultText>
+      <DefaultText>「我們的神明絕不會存有報復之類的卑微動機。絕不，對於你和我，岡恩 有著更宏偉的計劃。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,7 +298,7 @@
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>「你想想吧——一幫農民怎麼可能做得到這種事呢？」</DefaultText>
+      <DefaultText>「你想想吧—一幫農民怎麼可能做得到這種事呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,7 +360,7 @@
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>「保……保護傷員。守住我們的補給，直至哈扎努伊的援軍到來。」
+      <DefaultText>「保……保護傷員。守住我們的補給，直至 &lt;g&gt;哈扎努伊&lt;/g&gt;的援軍到來。」
 
 這些衣著破爛的倖存者看起來連豹崽子都抵抗不了。
 
@@ -395,7 +395,7 @@
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>「一……一定抵擋得住！此處可是努瓦泰工程的最得意之作。能夠抵禦一切。」</DefaultText>
+      <DefaultText>「一……一定抵擋得住！此處可是 &lt;g&gt;努瓦泰&lt;/g&gt;工程的最得意之作。能夠抵禦一切。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>你能解讀出這些跡象——她在這裡所目睹的已經震懾到了她的心靈。</DefaultText>
+      <DefaultText>你能解讀出這些跡象—她在這裡所目睹的已經震懾到了她的心靈。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -438,12 +438,12 @@
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>「船長……我在兩個地方見過這副樣子——醫師的帳篷和特殊的妓院。這個似乎都不是。」</DefaultText>
+      <DefaultText>「船長……我在兩個地方見過這副樣子—醫師的帳篷和特殊的妓院。這個似乎都不是。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>「她被『戰驚』了——我相信聚鹿人是這麼說的。它遲早會降臨在每一個士兵身上。有時候你脫離了戰鬥，但……它仍未遠離你。」
+      <DefaultText>「她被『戰驚』了—我相信 &lt;g&gt;聚鹿&lt;/g&gt;人是這麼說的。它遲早會降臨在每一個士兵身上。有時候你脫離了戰鬥，但……它仍未遠離你。」
 
 帕蕾吉娜雙唇緊閉，伸著腦袋凝視祖希拉的眼睛。</DefaultText>
       <FemaleText />
@@ -512,7 +512,7 @@
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>「那是俄撒斯。」</DefaultText>
+      <DefaultText>「那是 俄撒斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -534,7 +534,7 @@
       <ID>332</ID>
       <DefaultText>「那個巨人是衝我們來的。艦隊指揮官高命令鷹射手和炮手就位。
 
-「我們——」
+「我們—」
 
 她突然停下來，露出羞愧的表情。</DefaultText>
       <FemaleText />
@@ -593,7 +593,7 @@
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>「在堡壘的西面。它是一個真正的奇跡——努瓦泰工程史上的一座豐碑。」</DefaultText>
+      <DefaultText>「在堡壘的西面。它是一個真正的奇跡— &lt;g&gt;努瓦泰&lt;/g&gt;工程史上的一座豐碑。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -658,12 +658,12 @@
     </Entry>
     <Entry>
       <ID>358</ID>
-      <DefaultText>「那些蛇太弱小了！根本不是訓練有素的努瓦泰戰士的對手。」他哼了一聲。</DefaultText>
+      <DefaultText>「那些蛇太弱小了！根本不是訓練有素的 &lt;g&gt;努瓦泰&lt;/g&gt;戰士的對手。」他哼了一聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>「等哈扎努伊的援兵一到，我們就發起反擊……」
+      <DefaultText>「等 &lt;g&gt;哈扎努伊&lt;/g&gt;的援兵一到，我們就發起反擊……」
 
 他聲音越來越小，他的目光變得茫然，腦海裡必定都是血淋淋的復仇畫面。</DefaultText>
       <FemaleText />
@@ -690,12 +690,12 @@
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>「雷薩恩剛一走你們的俄撒斯就出現了，這絕對不是巧合。」他惡狠狠地盯著農夫們。</DefaultText>
+      <DefaultText>「雷薩恩剛一走你們的 &lt;g&gt;俄撒斯&lt;/g&gt;就出現了，這絕對不是巧合。」他惡狠狠地盯著農夫們。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>「經過這裡的巨人是俄撒斯。」</DefaultText>
+      <DefaultText>「經過這裡的巨人是 俄撒斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -710,7 +710,7 @@
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>「那麼！這場毀滅是瓦利亞人幹的好事？還是胡亞納女王的惡作劇？」</DefaultText>
+      <DefaultText>「那麼！這場毀滅是 &lt;g&gt;瓦利亞&lt;/g&gt;人幹的好事？還是 &lt;g&gt;胡亞納&lt;/g&gt;女王的惡作劇？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -722,7 +722,7 @@
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>「關於胡亞納的背叛你就別跟我兜圈子了！」</DefaultText>
+      <DefaultText>「關於 &lt;g&gt;胡亞納&lt;/g&gt;的背叛你就別跟我兜圈子了！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,9 +756,9 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>「我們是&lt;i&gt;壕胞&lt;/i&gt;！努瓦泰兒女。我們可以戰勝一切困難。」
+      <DefaultText>「我們是&lt;i&gt;壕胞&lt;/i&gt;！努瓦泰 兒女。我們可以戰勝一切困難。」
 
-她怒目而視，攥緊拳頭旋即鬆開。再度讓自己燃起了無畏的——或無謂的——勇氣。</DefaultText>
+她怒目而視，攥緊拳頭旋即鬆開。再度讓自己燃起了無畏的—或無謂的—勇氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -810,7 +810,7 @@
     </Entry>
     <Entry>
       <ID>390</ID>
-      <DefaultText>「亡焰列島是個荒蠻之地。這一點瓦利亞的富豪和胡亞納的部落似乎沒意識到。」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;是個荒蠻之地。這一點 &lt;g&gt;瓦利亞&lt;/g&gt;的富豪和 &lt;g&gt;胡亞納&lt;/g&gt;的部落似乎沒意識到。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -820,26 +820,26 @@
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>「我們開港迎客，為什麼還叫我們『部落』？」恩加蒂不接待不識好歹的客人。」</DefaultText>
+      <DefaultText>「我們開港迎客，為什麼還叫我們『部落』？」恩加蒂 不接待不識好歹的客人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>「但我們的人在兩千年前征服了努瓦泰。我們懂得如何生存。如何征服一塊蠻荒之地。」
+      <DefaultText>「但我們的人在兩千年前征服了 努瓦泰。我們懂得如何生存。如何征服一塊蠻荒之地。」
 
 其他士兵贊同地咕噥起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>「努瓦泰人做&lt;i&gt;任何事&lt;/i&gt;都不缺斤少兩。」
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;人做&lt;i&gt;任何事&lt;/i&gt;都不缺斤少兩。」
 
 其他士兵參差不齊地喊了起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>「亡焰列島最精良的大炮和射石炮！為什麼，你幾乎無法靠近城牆，若不是……若不是……」
+      <DefaultText>「&lt;g&gt;亡焰列島&lt;/g&gt;最精良的大炮和射石炮！為什麼，你幾乎無法靠近城牆，若不是……若不是……」
 
 當她回憶起外面的毀滅時，她的憤怒漸漸消逝，眼神又變得茫然起來。</DefaultText>
       <FemaleText />
@@ -896,9 +896,9 @@
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>「我們是努瓦泰兒女。我們可以戰勝一切困難。」
+      <DefaultText>「我們是 &lt;g&gt;努瓦泰&lt;/g&gt;兒女。我們可以戰勝一切困難。」
 
-她怒目而視，攥緊拳頭旋即鬆開。再度讓自己燃起了無畏的——或無謂的——勇氣。</DefaultText>
+她怒目而視，攥緊拳頭旋即鬆開。再度讓自己燃起了無畏的—或無謂的—勇氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -953,7 +953,7 @@
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>「當然了，壕胞！」但這是屬於所有努瓦泰人的勝利。」</DefaultText>
+      <DefaultText>「當然了，壕胞！」但這是屬於所有 &lt;g&gt;努瓦泰&lt;/g&gt;人的勝利。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -972,7 +972,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>「哈扎努伊一定想親自感謝你的幫助。
+      <DefaultText>「哈扎努伊 一定想親自感謝你的幫助。
 
 「她也應該知道我們要對抗的是什麼。」
 
@@ -986,7 +986,7 @@
     </Entry>
     <Entry>
       <ID>429</ID>
-      <DefaultText>「我能在哪找到哈扎努伊？」</DefaultText>
+      <DefaultText>「我能在哪找到 哈扎努伊？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,9 +996,9 @@
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>「她平時在涅克塔卡的黃銅堡。
+      <DefaultText>「她平時在 &lt;g&gt;涅克塔卡&lt;/g&gt;的黃銅堡。
 
-「不過她經常被召入宮殿。與女王和瓦利亞人討價還價。」</DefaultText>
+「不過她經常被召入宮殿。與女王和 &lt;g&gt;瓦利亞&lt;/g&gt;人討價還價。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1067,17 +1067,17 @@
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>「你們聚鹿人有你們的戰爭，但你們不知道如何征服一片真正的蠻荒之地。」</DefaultText>
+      <DefaultText>「你們 &lt;g&gt;聚鹿&lt;/g&gt;人有你們的戰爭，但你們不知道如何征服一片真正的蠻荒之地。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>「你們瓦利亞人有你們的戰爭，但你們不知道如何征服一片真正的蠻荒之地。」</DefaultText>
+      <DefaultText>「你們 &lt;g&gt;瓦利亞&lt;/g&gt;人有你們的戰爭，但你們不知道如何征服一片真正的蠻荒之地。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>「只有努瓦泰人知道和平，因為它是我們的祖先從敵對的部落和野蠻的魔物手中爭取來的。」
+      <DefaultText>「只有 &lt;g&gt;努瓦泰&lt;/g&gt;人知道和平，因為它是我們的祖先從敵對的部落和野蠻的魔物手中爭取來的。」
 
 她注視著被破壞的堡壘，像是以此證明自己的觀點。</DefaultText>
       <FemaleText />

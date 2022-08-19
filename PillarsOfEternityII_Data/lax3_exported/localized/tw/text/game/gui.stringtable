@@ -1,348 +1,348 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\gui</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>68</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>4295</ID>
-      <DefaultText>聯合王冠</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4580</ID>
-      <DefaultText>女王的辯護</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4726</ID>
-      <DefaultText>Vox Machina - Grog</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4727</ID>
-      <DefaultText>Vox Machina - Vexahlia</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4728</ID>
-      <DefaultText>Vox Machina - Keyleth</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4729</ID>
-      <DefaultText>Vox Machina - Percival De Rolo</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4730</ID>
-      <DefaultText>Vox Machina - Pike</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4731</ID>
-      <DefaultText>Vox Machina - Scanlan</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4732</ID>
-      <DefaultText>Vox Machina - Shaun Gilmore</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4733</ID>
-      <DefaultText>Vox Machina - Vaxildan</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4736</ID>
-      <DefaultText>被遺忘的聖所</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4932</ID>
-      <DefaultText>博學</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4968</ID>
-      <DefaultText>虔誠</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5019</ID>
-      <DefaultText>&lt;b&gt;被遺忘的聖所&lt;/b&gt;已安裝。當你在《永恆之柱II：亡焰列島》中取得足夠的進展後，你會在公海上遇到一位客人，你將自動開始這段冒險的第一個任務，進入被遺忘的聖所。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5024</ID>
-      <DefaultText>通往啟示神廟</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5033</ID>
-      <DefaultText>通往繕寫室</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5034</ID>
-      <DefaultText>通往藏品館</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5046</ID>
-      <DefaultText>通往隔離書庫</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5047</ID>
-      <DefaultText>通往禁書區</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5048</ID>
-      <DefaultText>通往沃艾珥的祈禱室</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5049</ID>
-      <DefaultText>煉金房</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5050</ID>
-      <DefaultText>深淵通道</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5051</ID>
-      <DefaultText>天界殘骸</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5052</ID>
-      <DefaultText>觀察中心</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5053</ID>
-      <DefaultText>記憶虹吸管</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5054</ID>
-      <DefaultText>檔案庫底層</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5055</ID>
-      <DefaultText>開採點</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5058</ID>
-      <DefaultText>前往檔案庫</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5060</ID>
-      <DefaultText>焚化爐</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5061</ID>
-      <DefaultText>海爾德的遺產</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5062</ID>
-      <DefaultText>困惑講台</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5076</ID>
-      <DefaultText>尖叫深坑</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5079</ID>
-      <DefaultText>法師圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5080</ID>
-      <DefaultText>菌怪圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5081</ID>
-      <DefaultText>水手圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5082</ID>
-      <DefaultText>腐化魂妖圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5083</ID>
-      <DefaultText>夢境獸圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5084</ID>
-      <DefaultText>蜥人圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5121</ID>
-      <DefaultText>蜘蛛孵化場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5128</ID>
-      <DefaultText>通往回聲議會</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5155</ID>
-      <DefaultText>血腥之廳</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5156</ID>
-      <DefaultText>等待室</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5157</ID>
-      <DefaultText>切口凹室</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5158</ID>
-      <DefaultText>血肉管理</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5160</ID>
-      <DefaultText>通往下方的泰坦</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5166</ID>
-      <DefaultText>挖出的洞</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5167</ID>
-      <DefaultText>通往中央書庫</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5172</ID>
-      <DefaultText>通往無形大廳</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5182</ID>
-      <DefaultText>生物部門</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5183</ID>
-      <DefaultText>生物集合地</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5184</ID>
-      <DefaultText>可獻祭的寵物</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5185</ID>
-      <DefaultText>可建立的寵物</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5186</ID>
-      <DefaultText>拖入寵物以獻祭</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5187</ID>
-      <DefaultText>期望加入</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5188</ID>
-      <DefaultText>要新增的加成</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5189</ID>
-      <DefaultText>將寵物拖入套筒</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5190</ID>
-      <DefaultText>拖入寵物獲得加成</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5191</ID>
-      <DefaultText>獻祭寵物</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5192</ID>
-      <DefaultText>建立寵物</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5198</ID>
-      <DefaultText>組合信函</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5204</ID>
-      <DefaultText>真菌生長</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5213</ID>
-      <DefaultText>一隻昏睡的畸形鳥將一封潮濕的信函丟在了甲板上。 </DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5215</ID>
-      <DefaultText>拉紳圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5216</ID>
-      <DefaultText>瓦利亞圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5217</ID>
-      <DefaultText>羅帕魯圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5218</ID>
-      <DefaultText>馬塔魯圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5219</ID>
-      <DefaultText>空圍場</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5223</ID>
-      <DefaultText>沒收的雜物</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>game\gui</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>68</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>4295</ID>
+     <DefaultText>聯合王冠</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4580</ID>
+     <DefaultText>女王的辯護</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4726</ID>
+     <DefaultText>Vox Machina - Grog</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4727</ID>
+     <DefaultText>Vox Machina - Vexahlia</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4728</ID>
+     <DefaultText>Vox Machina - Keyleth</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4729</ID>
+     <DefaultText>Vox Machina - Percival De Rolo</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4730</ID>
+     <DefaultText>Vox Machina - Pike</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4731</ID>
+     <DefaultText>Vox Machina - Scanlan</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4732</ID>
+     <DefaultText>Vox Machina - Shaun Gilmore</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4733</ID>
+     <DefaultText>Vox Machina - Vaxildan</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4736</ID>
+     <DefaultText>被遺忘的聖所</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4932</ID>
+     <DefaultText>博學</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4968</ID>
+     <DefaultText>虔誠</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5019</ID>
+     <DefaultText>&lt;b&gt;被遺忘的聖所&lt;/b&gt;已安裝。當你在《永恆之柱II：亡焰列島》中取得足夠的進展後，你會在公海上遇到一位客人，你將自動開始這段冒險的第一個任務，進入被遺忘的聖所。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5024</ID>
+     <DefaultText>通往啟示神廟</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5033</ID>
+     <DefaultText>通往繕寫室</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5034</ID>
+     <DefaultText>通往藏品館</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5046</ID>
+     <DefaultText>通往隔離書庫</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5047</ID>
+     <DefaultText>通往禁書區</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5048</ID>
+     <DefaultText>通往沃艾珥的祈禱室</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5049</ID>
+     <DefaultText>煉金房</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5050</ID>
+     <DefaultText>深淵通道</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5051</ID>
+     <DefaultText>天界殘骸</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5052</ID>
+     <DefaultText>觀察中心</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5053</ID>
+     <DefaultText>記憶虹吸管</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5054</ID>
+     <DefaultText>檔案庫底層</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5055</ID>
+     <DefaultText>開採點</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5058</ID>
+     <DefaultText>前往檔案庫</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5060</ID>
+     <DefaultText>焚化爐</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5061</ID>
+     <DefaultText>海爾德的遺產</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5062</ID>
+     <DefaultText>困惑講台</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5076</ID>
+     <DefaultText>尖叫深坑</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5079</ID>
+     <DefaultText>法師圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5080</ID>
+     <DefaultText>菌怪圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5081</ID>
+     <DefaultText>水手圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5082</ID>
+     <DefaultText>腐化魂妖圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5083</ID>
+     <DefaultText>夢境獸圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5084</ID>
+     <DefaultText>蜥人圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5121</ID>
+     <DefaultText>蜘蛛孵化場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5128</ID>
+     <DefaultText>通往回聲議會</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5155</ID>
+     <DefaultText>血腥之廳</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5156</ID>
+     <DefaultText>等待室</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5157</ID>
+     <DefaultText>切口凹室</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5158</ID>
+     <DefaultText>血肉管理</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5160</ID>
+     <DefaultText>通往下方的泰坦</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5166</ID>
+     <DefaultText>挖出的洞</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5167</ID>
+     <DefaultText>通往中央書庫</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5172</ID>
+     <DefaultText>通往無形大廳</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5182</ID>
+     <DefaultText>生物分解</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5183</ID>
+     <DefaultText>生物融合</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5184</ID>
+     <DefaultText>可獻祭的寵物</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5185</ID>
+     <DefaultText>可創造的寵物</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5186</ID>
+     <DefaultText>拖入寵物以獻祭</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5187</ID>
+     <DefaultText>新增的外觀</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5188</ID>
+     <DefaultText>新增的加成</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5189</ID>
+     <DefaultText>將寵物拖入套筒</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5190</ID>
+     <DefaultText>拖入寵物獲得加成</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5191</ID>
+     <DefaultText>獻祭寵物</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5192</ID>
+     <DefaultText>創造寵物</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5198</ID>
+     <DefaultText>組合信函</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5204</ID>
+     <DefaultText>真菌生長</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5213</ID>
+     <DefaultText>一隻昏睡的畸形鳥將一封潮濕的信函丟在了甲板上。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5215</ID>
+     <DefaultText>拉紳圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5216</ID>
+     <DefaultText>瓦利亞圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5217</ID>
+     <DefaultText>羅帕魯圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5218</ID>
+     <DefaultText>馬塔魯圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5219</ID>
+     <DefaultText>空圍場</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5223</ID>
+     <DefaultText>沒收的雜物</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

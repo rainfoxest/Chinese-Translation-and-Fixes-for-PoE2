@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>一位年邁的胡亞納女人將手肘撐在鼓上休息，彷彿撤去鼓後她就無法直立一樣。她輕拍著皮質鼓面，鼓發出歎息聲一般的輕響。
+      <DefaultText>一位年邁的 &lt;g&gt;胡亞納&lt;/g&gt;女人將手肘撐在鼓上休息，彷彿撤去鼓後她就無法直立一樣。她輕拍著皮質鼓面，鼓發出歎息聲一般的輕響。
 
 你走上前，她睜開了眼睛。</DefaultText>
       <FemaleText />
@@ -112,7 +112,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[輕拍鼓面。]</DefaultText>
+      <DefaultText>[輕拍鼓面]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,7 +124,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「你知道部落丟失柯基果的事嗎？」</DefaultText>
+      <DefaultText>「你知道部落丟失柯爾奇果的事嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[一起演奏。]</DefaultText>
+      <DefaultText>[一起演奏]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,7 +180,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>「啊，我見過那種表情。」</DefaultText>
+      <DefaultText>「Ekera，我見過那種表情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,7 +195,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>「提亞納，沒想到能見到你！你們的蘭迦把部落搬走後我就找不到你了。」
+      <DefaultText>「提亞納，沒想到能見到你！你們的 &lt;g&gt;蘭迦&lt;/g&gt;把部落搬走後我就找不到你了。」
 
 他面帶親切的笑容，走上前握住她的手。</DefaultText>
       <FemaleText />
@@ -209,7 +209,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>「哎喲。泰克胡，你沒事吧？」</DefaultText>
+      <DefaultText>「哎喲。泰克胡，你會沒事的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,7 +219,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「沒事，我脆弱的心還能承受一兩次打擊。」他憔悴地笑了笑。</DefaultText>
+      <DefaultText>「Ekera，我脆弱的心還能承受一兩次打擊。」他憔悴地笑了笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,7 +244,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[開始一段可以分享的節奏，輕聲哼唱。]</DefaultText>
+      <DefaultText>[開始一段可以分享的節奏，輕聲哼唱]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

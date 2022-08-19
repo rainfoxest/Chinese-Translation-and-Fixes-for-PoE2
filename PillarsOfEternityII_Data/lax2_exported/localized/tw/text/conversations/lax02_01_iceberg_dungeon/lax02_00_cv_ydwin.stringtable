@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「你好啊，船長。」</DefaultText>
+      <DefaultText>「Ado，船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「哈嘍。」</DefaultText>
+      <DefaultText>「Hájo.」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,7 +38,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「或許我應該稱你為『努亞堡的靈視者』？我承認這個頭銜有點拗口。」</DefaultText>
+      <DefaultText>「或許我應該稱你為『&lt;g&gt;努亞堡&lt;/g&gt;的靈視者』？我承認這個頭銜有點拗口。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「努亞堡已不復存在。現在只是個船長。」</DefaultText>
+      <DefaultText>「&lt;g&gt;努亞堡&lt;/g&gt;已不復存在。現在只是個船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,7 +97,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「你大鬧艾瓦公爵的鑄魂學聽證會一事讓你引起了全東域鑄魂師的注意。」</DefaultText>
+      <DefaultText>「你大鬧艾瓦 &lt;g&gt;公爵&lt;/g&gt;的鑄魂學聽證會和之後發生的事引起了全東域鑄魂師的注意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,7 +117,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「我可以永遠把你留在涅克塔卡。」</DefaultText>
+      <DefaultText>「我可以隨時把你送回 涅克塔卡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +147,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「說起這個，我們接著幹活吧，嗯？」
+      <DefaultText>「話說回來，我們回去辦正事吧，ja？」
 
 她告別時輕輕鞠了個躬。</DefaultText>
       <FemaleText />
@@ -164,7 +164,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「你最後怎麼到了瓦利亞共和國呢？」</DefaultText>
+      <DefaultText>「你最後怎麼到了 瓦利亞共和國呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,7 +174,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>[離開。]「下次再說吧。」</DefaultText>
+      <DefaultText>[離開]「下次再說吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>「瑪珈嵐之牙。有幾個人敢冒險東進至那麼遙遠的地方？涉足那片土地？想想就有點小激動，不是嗎？」</DefaultText>
+      <DefaultText>「&lt;g&gt;瑪珈嵐&lt;/g&gt;之牙。有幾個人敢冒險東進至那麼遙遠的地方？涉足那片土地？想想就有點小激動，不是嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -362,7 +362,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>「共和國和鹿林之間的緊張關係加劇，這是原因之一。」</DefaultText>
+      <DefaultText>「共和國和 &lt;g&gt;鹿林&lt;/g&gt;之間的緊張關係加劇，這是原因之一。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>「我承認我抱有偏見， 但它們很可能是世界上最偉大的。」一個微笑照亮了她蒼白的臉。</DefaultText>
+      <DefaultText>「我承認我抱有偏見，但它們很可能是世界上最偉大的。」一個微笑照亮了她蒼白的臉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +441,7 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>「你的船員們追趕著俄撒斯漂洋過海，我們則追求未來。」</DefaultText>
+      <DefaultText>「你的船員們追趕著 &lt;g&gt;俄撒斯&lt;/g&gt;漂洋過海，我們則追求未來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,7 +473,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>「我們跟睿姆岡談了談。面對面。算是吧。」</DefaultText>
+      <DefaultText>「我們跟 &lt;g&gt;睿姆岡&lt;/g&gt;談了談。面對面。算是吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -498,7 +498,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>「知道俄撒斯為什麼要讓那座巨像穿過海洋嗎？」</DefaultText>
+      <DefaultText>「知道 &lt;g&gt;俄撒斯&lt;/g&gt;為什麼要讓那座巨像穿過海洋嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -579,7 +579,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>「作為一名學徒，我起初專注於——後來幫著詆毀——顱相學方法。」</DefaultText>
+      <DefaultText>「作為一名學徒，我起初專注於—後來幫著詆毀—顱相學方法。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -604,12 +604,12 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>「我的一些——同僚——因既得利益堅持一套包含基斯故有等級制度的世界模型。」</DefaultText>
+      <DefaultText>「我的一些—同僚—因既得利益堅持一套包含 &lt;g&gt;基斯&lt;/g&gt;故有等級制度的世界模型。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>「宣稱有些基斯的靈魂天生就比其他基斯尊貴——僅僅靠眉毛的形狀或耳朵的長度來判斷——這顯然是一種充滿誘惑的想法。」</DefaultText>
+      <DefaultText>「宣稱有些 &lt;g&gt;基斯&lt;/g&gt;的靈魂天生就比其他基斯尊貴—僅僅靠眉毛的形狀或耳朵的長度來判斷—這顯然是一種充滿誘惑的想法。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -662,7 +662,7 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>「自此我繼續致力於元死亡學——對靈魂轉世和生命輪迴的科學研究。」</DefaultText>
+      <DefaultText>「自此我繼續致力於元死亡學—對靈魂轉世和生命輪迴的科學研究。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -699,7 +699,7 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>「帶著目的著手研究——錯誤往往就是這麼釀成的。」
+      <DefaultText>「帶著目的著手研究—錯誤往往就是這麼釀成的。」
 
 伊德溫交叉雙臂，懶洋洋地輕點著自己的胳膊肘。</DefaultText>
       <FemaleText />
@@ -805,7 +805,7 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>「我建議我們帶他去明亮澡堂，但誰知道人家讓不讓他進？」</DefaultText>
+      <DefaultText>「我建議我們帶他去輝光澡堂，但誰知道人家讓不讓他進？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -825,7 +825,7 @@
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>「但我們堅持下來了。不可思議，對嗎？」</DefaultText>
+      <DefaultText>「但我們堅持下來了。不可思議，ja？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

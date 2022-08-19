@@ -18,7 +18,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「旅行者，打擾一下。想聽個傳聞嗎？」他摩擦著下巴上的須茬，陷入沉思。</DefaultText>
+      <DefaultText>「Eccosi，旅行者。想聽個故事嗎？」他摩擦著下巴上的須茬，陷入沉思。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,22 +28,22 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「你能把你在瓦利亞共和國學到的知識教給我嗎？」</DefaultText>
+      <DefaultText>「你能把你在 &lt;g&gt;瓦利亞共和國&lt;/g&gt;學到的知識教給我嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「一路平安！」他熱情洋溢地揮手道別，然後回去幹自己的事。</DefaultText>
+      <DefaultText>「Corès!」他熱情洋溢地揮手道別，然後回去幹自己的事。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「好，你已經聽到我的故事了。我覺得可以，只要……三千個子兒。」</DefaultText>
+      <DefaultText>「Ac，你已經聽到我的故事了。我覺得可以，只要……三千個子兒。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,9 +60,9 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「我出生於珍珠岸的商賈之家。我曾經是個魯莽的小伙子，長大以後來到了瓦利亞共和國。」
+      <DefaultText>「我出生於珍珠岸的商賈之家。我曾經是個魯莽的小伙子，長大以後來到了 瓦利亞共和國。」
 
-卡爾洛在說話的過程中漸漸把口音從開始時濃郁的瓦利亞風轉變為鹿林鼻音風。</DefaultText>
+卡爾洛在說話的過程中漸漸把口音從開始時濃郁的 &lt;g&gt;瓦利亞&lt;/g&gt;風轉變為 &lt;g&gt;鹿林&lt;/g&gt;鼻音風。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,8 +72,8 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「你好，朋友！你一定過得不錯吧？」</DefaultText>
-      <FemaleText>「你好，朋友！你一定過得不錯吧？」</FemaleText>
+      <DefaultText>「Bon aimico！你一定過得不錯吧？」</DefaultText>
+      <FemaleText>「Bon aimica！你一定過得不錯吧？」</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -87,7 +87,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「你為什麼說起話來像瓦利亞人呢？」</DefaultText>
+      <DefaultText>「你為什麼說起話來像 &lt;g&gt;瓦利亞&lt;/g&gt;人呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,12 +121,12 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「確實如此。現在我來到亡焰列島了，沒有人脈和資源，諸神才知道我該怎麼東山再起。」</DefaultText>
+      <DefaultText>「確實如此。現在我來到 &lt;g&gt;亡焰列島&lt;/g&gt;了，沒有人脈和資源，諸神才知道我該怎麼東山再起。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,12 +143,12 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「當然了，但我本該多問問僱員的情況。現在我來到亡焰列島了，沒有人脈和資源，諸神才知道我該怎麼東山再起。」</DefaultText>
+      <DefaultText>「當然了，但我本該多問問僱員的情況。現在我來到 &lt;g&gt;亡焰列島&lt;/g&gt;了，沒有人脈和資源，諸神才知道我該怎麼東山再起。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,7 +180,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[強化熟練手法與外交術]「給你。」</DefaultText>
+      <DefaultText>[提高 &lt;g&gt;熟練手法&lt;/g&gt;和 &lt;g&gt;外交&lt;/g&gt;]「給你。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

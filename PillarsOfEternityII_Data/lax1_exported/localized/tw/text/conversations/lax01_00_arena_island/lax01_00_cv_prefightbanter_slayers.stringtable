@@ -49,7 +49,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[你交疊雙臂，摩拳擦掌，什麼也不說。]</DefaultText>
+      <DefaultText>[你交疊雙臂，摩拳擦掌，什麼也不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -59,12 +59,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[無視他們，繼續走。]</DefaultText>
+      <DefaultText>[無視他們，繼續走]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「我們是襲龍者——現任狩獵冠軍。考慮到我們平時進行的打獵遊戲，像你這樣的基斯簡直是小菜一碟。」
+      <DefaultText>「我們是襲龍者—現任狩獵冠軍。考慮到我們平時進行的打獵遊戲，像你這樣的 &lt;g&gt;基斯&lt;/g&gt;簡直是小菜一碟。」
 
 面帶笑意的戰士把雕文斧子從一隻手拋到另一隻手中，悠閒地舞弄著。</DefaultText>
       <FemaleText />
@@ -76,17 +76,17 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「願托墨弗艾保佑你，直到我們在戰場上見面。」</DefaultText>
+      <DefaultText>「願 &lt;g&gt;托墨弗艾&lt;/g&gt;保佑你，直到我們在戰場上見面。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「我要讓你知道，我們屠了&lt;i&gt;三隻&lt;/i&gt;龍！托墨弗艾保佑我們戰團，很快所有人都會看到！」</DefaultText>
+      <DefaultText>「我要讓你知道，我們屠了&lt;i&gt;三隻&lt;/i&gt;龍！托墨弗艾 保佑我們戰團，很快所有人都會看到！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[強忍著笑意。] 「加起來三隻龍？真可愛。」</DefaultText>
+      <DefaultText>[強忍著笑意] 「加起來三隻龍？真可愛。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,12 +121,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>「我殺了棲居於瑪珈嵐之牙的岩漿龍。」</DefaultText>
+      <DefaultText>「我殺了棲居於 &lt;g&gt;瑪珈嵐&lt;/g&gt;之牙的岩漿龍。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「在白際山有只高山龍……被我殺了……」</DefaultText>
+      <DefaultText>「在 &lt;g&gt;白際山&lt;/g&gt;有只高山龍……被我殺了……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,7 +230,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>「比我們殺的多，」他的格蘭費倫同胞舉著一根手指插話道。</DefaultText>
+      <DefaultText>「比我們殺的多，」他的 格蘭費倫 同胞舉著一根手指插話道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,7 +245,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,7 +287,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「那可不咋的。我建議你也整一把，不過我這把是絕無僅有的。」 
+      <DefaultText>「那可不咋的。我建議你也整一把，不過我這把是絕無僅有的。」
 
 他笑了起來。</DefaultText>
       <FemaleText />
@@ -299,7 +299,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>「恐怕托墨弗艾詛咒我們是競技場的……&lt;i&gt;糟糕來客&lt;/i&gt;，所以……為防萬一，我們力求拿出最好的表現。」</DefaultText>
+      <DefaultText>「恐怕 &lt;g&gt;托墨弗艾&lt;/g&gt;詛咒我們是競技場的……&lt;i&gt;糟糕來客&lt;/i&gt;，所以……為防萬一，我們力求拿出最好的表現。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -364,12 +364,12 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>「我們在鬥爭中向托墨弗艾致敬。」</DefaultText>
+      <DefaultText>「我們在鬥爭中向 &lt;g&gt;托墨弗艾&lt;/g&gt;致敬。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>「願最傑出的基斯獲勝。」</DefaultText>
+      <DefaultText>「願最傑出的 &lt;g&gt;基斯&lt;/g&gt;獲勝。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>[恭敬地低頭致敬。]</DefaultText>
+      <DefaultText>[恭敬地低頭致敬]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,12 +451,12 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>「『有幸成為……』瑪珈嵐的火焰，有些人只是一心求死。」</DefaultText>
+      <DefaultText>「『有幸成為……』 &lt;g&gt;瑪珈嵐&lt;/g&gt;的火焰，有些人只是一心求死。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,7 +493,7 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>[打呵欠。]</DefaultText>
+      <DefaultText>[打呵欠]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

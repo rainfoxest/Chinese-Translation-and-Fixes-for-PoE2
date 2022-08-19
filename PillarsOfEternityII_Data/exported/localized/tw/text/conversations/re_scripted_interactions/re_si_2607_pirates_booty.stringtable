@@ -29,7 +29,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>塞拉芬咯咯地笑。「我開始覺得亡焰列島只不過是一間被灰塵覆蓋的超大地下室。」
+      <DefaultText>塞拉芬咯咯地笑。「我開始覺得 &lt;g&gt;亡焰列島&lt;/g&gt;只不過是一間被灰塵覆蓋的超大地下室。」
 
 絨精停下來，皺起了眉頭。「喂，船長。你覺得這是怎麼回事？」</DefaultText>
       <FemaleText />
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[跟著腳印。]</DefaultText>
+      <DefaultText>[跟著腳印]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[原路返回。]</DefaultText>
+      <DefaultText>[原路返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,27 +56,27 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>在岸邊，你看到一隊基斯，還有一個食人魔和一隻妖精，都穿著海盜的衣服。</DefaultText>
+      <DefaultText>在岸邊，你看到一隊 基斯，還有一個巨魔和一隻妖精，都穿著海盜的衣服。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[靠近他們。]「喂喂！」</DefaultText>
+      <DefaultText>[靠近他們]「喂喂！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[不警告就發起攻擊。]</DefaultText>
+      <DefaultText>[不警告就發起攻擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[藏在林下植物中。]</DefaultText>
+      <DefaultText>[藏在林下植物中]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[原路返回。]</DefaultText>
+      <DefaultText>[原路返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[尋找埋藏的箱子。]</DefaultText>
+      <DefaultText>[尋找埋藏的箱子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +128,7 @@
       <ID>24</ID>
       <DefaultText>你把箱子挖了出來，上面掛著一枚做工精細的銅鎖。蓋子上刻著一段文字，在拋光過的木質箱體上尤其顯眼：
 
-&lt;i&gt;我們將它藏起來了——希望再也不要再造成傷害。打開後果自負。&lt;/i&gt;</DefaultText>
+&lt;i&gt;我們將它藏起來了—希望再也不要再造成傷害。打開後果自負。&lt;/i&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,22 +152,22 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[撬開鎖，打開箱子。]</DefaultText>
+      <DefaultText>[撬開鎖，打開箱子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[撬開箱子。]</DefaultText>
+      <DefaultText>[撬開箱子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[用手雷炸開箱子。]</DefaultText>
+      <DefaultText>[用手雷炸開箱子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[把箱子埋了然後離開。]</DefaultText>
+      <DefaultText>[把箱子埋了然後離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,27 +274,27 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「送他們去見希若洛，夥計們！」</DefaultText>
+      <DefaultText>「送他們去見 希若洛，夥計們！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>其中一個衣著光鮮的年輕基斯走上前來，擺出了一副隨時要拔劍的架勢......</DefaultText>
+      <DefaultText>其中一個衣著光鮮的年輕 &lt;g&gt;基斯&lt;/g&gt;走上前來，擺出了一副隨時要拔劍的架勢......</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[偷偷靠近觀察。]</DefaultText>
+      <DefaultText>[偷偷靠近觀察]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>[進行伏擊。]</DefaultText>
+      <DefaultText>[進行伏擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>[悄悄溜走。]</DefaultText>
+      <DefaultText>[悄悄溜走]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -309,19 +309,19 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[靜觀其變。]</DefaultText>
+      <DefaultText>[靜觀其變]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>那隊人馬顯然不太著急。你藏在石碓中幾個小時，瀑布周圍的水霧慢慢染濕你的衣衫。
 
-終於——終於——他們挖好了坑，將寶藏放了進去，又花了不少時間將那個坑填上。</DefaultText>
+終於—終於—他們挖好了坑，將寶藏放了進去，又花了不少時間將那個坑填上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>[繼續觀察。]</DefaultText>
+      <DefaultText>[繼續觀察]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,7 +333,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>[繼續觀察。]</DefaultText>
+      <DefaultText>[繼續觀察]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -350,7 +350,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[不去管它。]</DefaultText>
+      <DefaultText>[不去管它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,17 +360,17 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>[把它挖出來。]</DefaultText>
+      <DefaultText>[把它挖出來]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[不去管它。]</DefaultText>
+      <DefaultText>[不去管它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>一個巨大的湖泊——這條河流的源頭——在你面前徐徐展開，湖泊的周圍幾乎都有嶙峋的巨石峭壁環繞。瀑布的水從這個島嶼的海角流入，源源不斷的灌入湖泊之中。</DefaultText>
+      <DefaultText>一個巨大的湖泊—這條河流的源頭—在你面前徐徐展開，湖泊的周圍幾乎都有嶙峋的巨石峭壁環繞。瀑布的水從這個島嶼的海角流入，源源不斷的灌入湖泊之中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -382,7 +382,7 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>那個食人魔從附近的石頭上拿起一個巨大的酒桶將它放在沙地上。那群海盜歡呼雀躍眉開眼笑，紛紛從皮帶上解下酒杯。
+      <DefaultText>那個巨魔從附近的石頭上拿起一個巨大的酒桶將它放在沙地上。那群海盜歡呼雀躍眉開眼笑，紛紛從皮帶上解下酒杯。
 
 隨著海盜烈酒越來越少，他們離清醒也越來越遠。</DefaultText>
       <FemaleText />
@@ -414,7 +414,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>[解鎖箱子。]</DefaultText>
+      <DefaultText>[解鎖箱子]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>海盜90度彎腰行禮，左手放在精緻的瓦利亞大衣下擺。不過他的右手仍然放在武器的握柄附近。他站直了身體，漆黑的眼睛和你對視著。</DefaultText>
+      <DefaultText>海盜90度彎腰行禮，左手放在精緻的 &lt;g&gt;瓦利亞&lt;/g&gt;大衣下擺。不過他的右手仍然放在武器的握柄附近。他站直了身體，漆黑的眼睛和你對視著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「不過該問的還是要問——你來此有何貴幹？」</DefaultText>
+      <DefaultText>「不過該問的還是要問—你來此有何貴幹？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「那東西是我的了，你別想阻攔——除非你希望自己身上再多幾個窟窿。」</DefaultText>
+      <DefaultText>「那東西是我的了，你別想阻攔—除非你希望自己身上再多幾個窟窿。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,12 +115,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「是嗎？也許我該教教你皇族海盜的禮節。兄弟們抄傢伙——把這個沒教養的粗人送去見希若洛！」</DefaultText>
+      <DefaultText>「是嗎？也許我該教教你皇族海盜的禮節。兄弟們抄傢伙—把這個沒教養的粗人送去見 &lt;g&gt;希若洛&lt;/g&gt;！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[拔出武器。]「我剛好想摻和一下。」</DefaultText>
+      <DefaultText>[拔出武器]「我剛好想摻和一下。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,7 +130,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「送他們去見希若洛，夥計們！」</DefaultText>
+      <DefaultText>「送他們去見 希若洛，夥計們！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -189,7 +189,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>食人魔吹了個口哨，拉涅提向他怒目而視。他敲著下巴思忖著。</DefaultText>
+      <DefaultText>巨魔吹了個口哨，拉涅提向他怒目而視。他敲著下巴思忖著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,8 +256,8 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「我可不是沒事找事的人，我的朋友，但以沃艾珥之名，我是真的很好奇你在這裡做些什麼。」</DefaultText>
-      <FemaleText>「我一向對女性謙恭有加，但以沃艾珥之名，我是真的很好奇你在這裡做些什麼。」</FemaleText>
+      <DefaultText>「我可不是沒事找事的人，我的朋友，但以 &lt;g&gt;沃艾珥&lt;/g&gt;之名，我是真的很好奇你在這裡做些什麼。」</DefaultText>
+      <FemaleText>「我一向對女性謙恭有加，但以 &lt;g&gt;沃艾珥&lt;/g&gt;之名，我是真的很好奇你在這裡做些什麼。」</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -280,12 +280,12 @@
       <ID>54</ID>
       <DefaultText>「拉涅提，我的孩子！我得有好久沒有見過你啦！看來你還留著這個好朋友。」
 
-他向食人魔點點頭，眨了眨眼。</DefaultText>
+他向巨魔點點頭，眨了眨眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「塞拉芬。「我聽說你離開閒暇先生號的時候還覺得是扯淡，結果我完全錯了。」他的笑容猶疑了一下。</DefaultText>
+      <DefaultText>「塞拉芬。「我聽說你離開有閒紳士號的時候還覺得是扯淡，結果我完全錯了。」他的笑容猶疑了一下。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

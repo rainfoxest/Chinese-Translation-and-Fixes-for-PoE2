@@ -17,7 +17,7 @@
       <ID>3</ID>
       <DefaultText>「我從來沒見過試煉的大門敞開過，你是什麼人？」
 
-女人身上的皮甲用鮮艷的羽毛裝飾了起來。從女人的站姿判斷，她是個經驗豐富的戰士——一個老兵，瘸了一條腿。</DefaultText>
+女人身上的皮甲用鮮艷的羽毛裝飾了起來。從女人的站姿判斷，她是個經驗豐富的戰士—一個老兵，瘸了一條腿。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「我知道很久以前，亡焰列島上存在著血腥角鬥的傳統，但我還以為現代的胡亞納人會摒棄這種傳統呢。」</DefaultText>
+      <DefaultText>「我知道很久以前，&lt;g&gt;亡焰列島&lt;/g&gt;上存在著血腥角鬥的傳統，但我還以為現代的 &lt;g&gt;胡亞納&lt;/g&gt;人會摒棄這種傳統呢。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"我是[Player Name]，努亞堡的靈視者。」</DefaultText>
+      <DefaultText>"我是[Player Name]，努亞堡 的靈視者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「這隻是此人的頭銜之一。」</DefaultText>
+      <DefaultText>「這只是此人的頭銜之一。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>努亞堡是鹿林裡的一座堡壘，我們就是從那裡來的。堡壘狀況好極了。高大雄偉又壯觀。」
+      <DefaultText>&lt;g&gt;努亞堡&lt;/g&gt;是 &lt;g&gt;鹿林&lt;/g&gt;裡的一座堡壘，我們就是從那裡來的。堡壘狀況好極了。高大雄偉又壯觀。」
 
 艾德爾用力點了點頭。</DefaultText>
       <FemaleText />
@@ -130,7 +130,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「當——當然了！」她退了一步，朝附近的守衛看了一眼。</DefaultText>
+      <DefaultText>「當—當然了！」她退了一步，朝附近的守衛看了一眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -294,7 +294,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「歡迎來到托墨弗艾神殿，靈視者！這是你溫暖的家園。」</DefaultText>
+      <DefaultText>「歡迎來到 &lt;g&gt;托墨弗艾&lt;/g&gt;神殿，靈視者！這是你溫暖的家園。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

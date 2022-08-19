@@ -260,7 +260,7 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>[試著窺視伊希薩的靈魂。]</DefaultText>
+      <DefaultText>[試著窺視伊希薩的靈魂]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -277,7 +277,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>[低語] 「海麗婭？」</DefaultText>
+      <DefaultText>[低語]「海麗婭？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,7 +287,7 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -299,17 +299,17 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>[低語] 「麥婭建議我和伊希薩搞好關係。」</DefaultText>
+      <DefaultText>[低語]「麥婭建議我和伊希薩搞好關係。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>[低語] 「我在想，如果我能讓這隻鳥喜歡我的話，麥婭就會喜歡我。」</DefaultText>
+      <DefaultText>[低語]「我在想，如果我能讓這隻鳥喜歡我的話，麥婭就會喜歡我。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>[低語] 「高尚的生物？你說的真的是這個伊希薩嗎？」</DefaultText>
+      <DefaultText>[低語]「高尚的生物？你說的真的是這個伊希薩嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,12 +333,12 @@
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>&lt;ispeech&gt;整個亡焰列島都在遭受肆虐的當下，能找到這樣一個人，把這麼多時間用在精心設計的前戲上，確實是件有趣的事情。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;整個 &lt;g&gt;亡焰列島&lt;/g&gt;都在遭受肆虐的當下，能找到這樣一個人，把這麼多時間用在精心設計的前戲上，確實是件有趣的事情。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>[試著給伊希薩餵食。]</DefaultText>
+      <DefaultText>[試著給伊希薩餵食]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,7 +360,7 @@
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>[不再給伊希薩餵食。]</DefaultText>
+      <DefaultText>[不再給伊希薩餵食]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -370,7 +370,7 @@
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>[把鯊魚肉朝他的方向扔過去。]</DefaultText>
+      <DefaultText>[把鯊魚肉朝他的方向扔過去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,17 +390,17 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>[低語] 「有什麼可以給我的建議嗎？」</DefaultText>
+      <DefaultText>[低語]「有什麼可以給我的建議嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>[低語] 「我猜我沒什麼想說的了。」</DefaultText>
+      <DefaultText>[低語]「我猜我沒什麼想說的了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>[低語] 「我已經回答了你的問題，現在輪到你來回答了。你在伊希薩的靈魂裡幹什麼呢？」</DefaultText>
+      <DefaultText>[低語]「我已經回答了你的問題，現在輪到你來回答了。你在伊希薩的靈魂裡幹什麼呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -444,7 +444,7 @@
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>[低語] 「你又在這裡幹什麼呢？」</DefaultText>
+      <DefaultText>[低語]「你又在這裡幹什麼呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -523,12 +523,12 @@
       <ID>251</ID>
       <DefaultText>&lt;ispeech&gt;我還是不要評判別人的感情為好，應該讓它不受干擾地盛開，或枯萎。&lt;/ispeech&gt;
 
-海麗婭發出了一聲意味深長的歎息，你感到脖子後面傳來了一陣涼風。</DefaultText>
+ &lt;g&gt;海麗婭&lt;/g&gt;發出了一聲意味深長的歎息，你感到脖子後面傳來了一陣涼風。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>[低語] 「你對麥婭有什麼看法？」</DefaultText>
+      <DefaultText>[低語]「你對麥婭有什麼看法？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -558,7 +558,7 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>[低語] 「先是昂德拉，現在又是你？難道就&lt;i&gt;沒有&lt;/i&gt;哪個神不會附在我的船員身上偷偷觀察我嗎？」</DefaultText>
+      <DefaultText>[低語]「先是 昂德拉，現在又是你？難道就&lt;i&gt;沒有&lt;/i&gt;哪個神不會附在我的船員身上偷偷觀察我嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -630,7 +630,7 @@
     </Entry>
     <Entry>
       <ID>582</ID>
-      <DefaultText>「至於&lt;i&gt;你&lt;/i&gt;還是別開口了，因為我的答案是——沒門。」麥婭對泰克胡做了個鬼臉。</DefaultText>
+      <DefaultText>「至於&lt;i&gt;你&lt;/i&gt;還是別開口了，因為我的答案是—沒門。」麥婭對泰克胡做了個鬼臉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -679,7 +679,7 @@
     </Entry>
     <Entry>
       <ID>666</ID>
-      <DefaultText>[喂伊希薩更多鯊魚肉吃。]</DefaultText>
+      <DefaultText>[喂伊希薩更多鯊魚肉吃]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -779,7 +779,7 @@
     </Entry>
     <Entry>
       <ID>691</ID>
-      <DefaultText>[喂伊希薩更多鯊魚肉吃。]</DefaultText>
+      <DefaultText>[餵伊希薩更多鯊魚肉吃]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1068,12 +1068,12 @@
     </Entry>
     <Entry>
       <ID>774</ID>
-      <DefaultText>[低語] 「清楚什麼？」</DefaultText>
+      <DefaultText>[低語]「清楚什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>775</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1083,12 +1083,12 @@
     </Entry>
     <Entry>
       <ID>777</ID>
-      <DefaultText>[低語] 「清楚她是個刺客嗎？」</DefaultText>
+      <DefaultText>[低語]「清楚她是個刺客嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>778</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1164,12 +1164,12 @@
     </Entry>
     <Entry>
       <ID>794</ID>
-      <DefaultText>[把酒給她。] 「還是我請吧，敬忠誠的小鳥們。」</DefaultText>
+      <DefaultText>[把酒給她]「還是我請吧，敬忠誠的小鳥們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>795</ID>
-      <DefaultText>[把酒給她。] 「來，敬我們自己一杯。」</DefaultText>
+      <DefaultText>[把酒給她]「來，敬我們自己一杯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1234,7 +1234,7 @@
     </Entry>
     <Entry>
       <ID>808</ID>
-      <DefaultText>「你指的是昂德拉之臼吧。」</DefaultText>
+      <DefaultText>「你指的是 &lt;g&gt;昂德拉&lt;/g&gt;之臼吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1244,17 +1244,17 @@
     </Entry>
     <Entry>
       <ID>810</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>811</ID>
-      <DefaultText>「我指的是昂德拉之臼。」</DefaultText>
+      <DefaultText>「我指的是 &lt;g&gt;昂德拉&lt;/g&gt;之臼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>812</ID>
-      <DefaultText>「不，我指的是昂德拉之臼。」她又喝了一大口。</DefaultText>
+      <DefaultText>「不，我指的是 &lt;g&gt;昂德拉&lt;/g&gt;之臼。」她又喝了一大口。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1264,16 +1264,16 @@
     </Entry>
     <Entry>
       <ID>814</ID>
-      <DefaultText>「敬昂德拉之臼，還有在那之後的一切。」
+      <DefaultText>「敬 &lt;g&gt;昂德拉&lt;/g&gt;之臼，還有在那之後的一切。」
 
 她心不在焉地舉起了空酒杯。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>「感謝貝拉斯，有你替我們指引方向，像活指南針一樣。」
+      <DefaultText>「感謝 貝拉斯，有你替我們指引方向，像活指南針一樣。」
 
-「我想說的是，無論有沒有指南針，努瓦泰人都會出海。」</DefaultText>
+「我想說的是，無論有沒有指南針，&lt;g&gt;努瓦泰&lt;/g&gt;人都會出海。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1293,7 +1293,7 @@
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1352,7 +1352,7 @@
     </Entry>
     <Entry>
       <ID>836</ID>
-      <DefaultText>「當亡焰列島的各方勢力都在彼此爭鬥的時候，你卻在和一個神明角力，想要奪回你的靈魂。」
+      <DefaultText>「當 &lt;g&gt;亡焰列島&lt;/g&gt;的各方勢力都在彼此爭鬥的時候，你卻在和一個神明角力，想要奪回你的靈魂。」
 
 「我會……」
 
@@ -1395,7 +1395,7 @@
     </Entry>
     <Entry>
       <ID>845</ID>
-      <DefaultText>[親吻她。]</DefaultText>
+      <DefaultText>[親吻她]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1539,17 +1539,17 @@
     </Entry>
     <Entry>
       <ID>875</ID>
-      <DefaultText>[靜靜地喝光你的酒。]</DefaultText>
+      <DefaultText>[靜靜地喝光你的酒]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>876</ID>
-      <DefaultText>[乾杯] 「敬我們的艦隊。」</DefaultText>
+      <DefaultText>[乾杯]「敬我們的艦隊。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>877</ID>
-      <DefaultText>[乾杯] 「祝我們馬到成功。」</DefaultText>
+      <DefaultText>[乾杯]「祝我們馬到成功。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1569,12 +1569,12 @@
     </Entry>
     <Entry>
       <ID>881</ID>
-      <DefaultText>「願俄撒斯一步沒走好，摔倒在海溝裡。」</DefaultText>
+      <DefaultText>「願 &lt;g&gt;俄撒斯&lt;/g&gt;一步沒走好，摔倒在海溝裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>882</ID>
-      <DefaultText>[乾杯] 「敬[Player Ship]。」</DefaultText>
+      <DefaultText>[乾杯]「敬[Player Ship]。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1824,7 +1824,7 @@
     </Entry>
     <Entry>
       <ID>941</ID>
-      <DefaultText>「該揚帆起航了，看看亡焰列島又給我們安排了什麼。」
+      <DefaultText>「該揚帆起航了，看看 &lt;g&gt;亡焰列島&lt;/g&gt;又給我們安排了什麼。」
 
 看起來心滿意足的麥婭雙手交叉掰著指節。</DefaultText>
       <FemaleText />

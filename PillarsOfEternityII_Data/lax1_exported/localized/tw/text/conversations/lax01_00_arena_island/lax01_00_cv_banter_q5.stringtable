@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>&lt;ispeech&gt;如果努亞堡的靈視者也在競技場裡，那說不定，我們確實有機會享受到一場精彩的挑戰。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;如果 &lt;g&gt;努亞堡&lt;/g&gt;的靈視者也在競技場裡，那說不定，我們確實有機會享受到一場精彩的挑戰。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,17 +66,17 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>&lt;ispeech&gt;願托墨弗艾在競技場保佑你們。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;願 &lt;g&gt;托墨弗艾&lt;/g&gt;在競技場保佑你們。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[想像自己殘忍殺害寂靜五人組的情形，細節鉅細靡遺。]</DefaultText>
+      <DefaultText>[想像自己殘忍殺害寂靜五人組的情形，細節鉅細靡遺]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>&lt;ispeech&gt;雖然我心中戰士的一面渴望享受這樣的角鬥，但我同意你的看法——殺死另一位魔法專家，這簡直就讓浪費好酒一樣讓人心痛。&lt;/ispeech&gt;
+      <DefaultText>&lt;ispeech&gt;雖然我心中戰士的一面渴望享受這樣的角鬥，但我同意你的看法—殺死另一位魔法專家，這簡直就讓浪費好酒一樣讓人心痛。&lt;/ispeech&gt;
 
 她看似面無表情的臉上，露出了一絲淺淺的笑容。</DefaultText>
       <FemaleText />
@@ -98,7 +98,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[充滿敬意地鞠躬。] &lt;ispeech&gt;下次再會吧。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>[充滿敬意地鞠躬] &lt;ispeech&gt;下次再會吧。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -135,7 +135,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「願托墨弗艾賜予你們力量，讓你們在競技場中獲得勝利。」</DefaultText>
+      <DefaultText>「願 &lt;g&gt;托墨弗艾&lt;/g&gt;賜予你們力量，讓你們在競技場中獲得勝利。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>&lt;ispeech&gt;或許你是挑戰者，但我們是甄選之人。不要以為今天能輕鬆取勝，努亞堡的靈視者——我們絕不會留情。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;或許你是挑戰者，但我們是甄選之人。不要以為今天能輕鬆取勝，努亞堡 的靈視者—我們絕不會留情。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[向他們鞠躬。] 「願最出色的基斯獲得勝利。」</DefaultText>
+      <DefaultText>[向他們鞠躬] 「願最出色的 &lt;g&gt;基斯&lt;/g&gt;獲得勝利。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[向他們鞠躬。] &lt;ispeech&gt;願我們之中更出色的一方獲得勝利。&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>[向他們鞠躬] &lt;ispeech&gt;願我們之中更出色的一方獲得勝利。&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「來欣賞我們工作？當我們進行計算盤點時就沒那麼令人興奮了。「</DefaultText>
+      <DefaultText>「來欣賞我們工作？當我們進行計算盤點時就沒那麼令人興奮了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -30,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「我的天……我以為我命數已盡。」</DefaultText>
+      <DefaultText>「Madiccho……我以為我命數已盡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,14 +45,14 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「那麼就是和你一起去烏凱佐了，嗯？根據主管的說法，你將出海加入戰鬥。」
+      <DefaultText>「那麼就是和你一起去 &lt;g&gt;烏凱佐&lt;/g&gt;了，嗯？根據主管的說法，你將出海加入戰鬥。」
 
-「希望你準備好了，朋友。至於我嘛，我瞧不起船。」
+「希望你準備好了，aimico。至於我嘛，我瞧不起船。」
 
 伊萊特長歎一聲。</DefaultText>
-      <FemaleText>那麼就是和你一起去烏凱佐了，嗯？根據主管的說法，你將出海加入戰鬥。」
+      <FemaleText>那麼就是和你一起去 &lt;g&gt;烏凱佐&lt;/g&gt;了，嗯？根據主管的說法，你將出海加入戰鬥。」
 
-「希望你準備好了，朋友。至於我嘛，我瞧不起船。」
+「希望你準備好了，aimica。至於我嘛，我瞧不起船。」
 
 伊萊特</FemaleText>
     </Entry>
@@ -98,12 +98,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>「靈視者恰好擁有探險所需要的特質。你就是我們缺少的東西。「</DefaultText>
+      <DefaultText>「靈視者恰好擁有探險所需要的特質。你就是我們缺少的東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「我沒在測試。」</DefaultText>
+      <DefaultText>「我可不是白老鼠。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,8 +113,8 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「當然了，朋友。這工作就是這樣，對吧？」</DefaultText>
-      <FemaleText>「當然了，朋友。這工作就是這樣，對吧？」</FemaleText>
+      <DefaultText>「當然了，aimico。這工作就是這樣，對吧？」</DefaultText>
+      <FemaleText>「當然了，aimica。這工作就是這樣，對吧？」</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -123,7 +123,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「[Player Name]！你來得正是時候。「我們得到了穩定一致的讀數，我覺得我們可以再試一次了。「</DefaultText>
+      <DefaultText>「[Player Name]！你來得正是時候。我們得到了穩定一致的讀數，我覺得我們可以再試一次了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,7 +138,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「我沒必要能告訴你沒成功。度數突然跳升，你變得一動不動。雖然在呼吸，但僅此而已。我們還去找醫生了。」
+      <DefaultText>「不用我說你也知道沒成功。度數突然跳升，你變得一動不動。雖然在呼吸，但僅此而已。我們還去找醫生了。」
 
 「我自個兒呢，是打算朝你臉上潑水來著。」</DefaultText>
       <FemaleText />
@@ -150,7 +150,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「睿姆岡向各位致意。」</DefaultText>
+      <DefaultText>「睿姆岡 向各位致意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,8 +191,8 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「暫時如此，嗯？如果你想到了什麼，別客氣儘管說，朋友。「</DefaultText>
-      <FemaleText>「暫時如此，嗯？如果你想到了什麼，別客氣儘管說，朋友。「</FemaleText>
+      <DefaultText>「暫時如此，嗯？如果你想到了什麼，別客氣儘管說，aimico。」</DefaultText>
+      <FemaleText>「暫時如此，嗯？如果你想到了什麼，別客氣儘管說，aimica。」</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -221,12 +221,12 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「要我猜的話，是亡焰皇家商行派來的。」</DefaultText>
+      <DefaultText>「要我猜的話，是 &lt;g&gt;亡焰皇家商行&lt;/g&gt;派來的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「這一步相當魯莽，就算對亡焰皇家商行來說也是。他們正在失去耐心。」</DefaultText>
+      <DefaultText>「這一步相當魯莽，就算對 &lt;g&gt;亡焰皇家商行&lt;/g&gt;來說也是。他們正在失去耐心。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,7 +250,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>[揮手打開銅杖。]</DefaultText>
+      <DefaultText>[揮手打開銅杖]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -299,7 +299,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>「不是，我說的就是字面意思，我同睿姆岡交談過了。」</DefaultText>
+      <DefaultText>「不是，我說的就是字面意思，我同 &lt;g&gt;睿姆岡&lt;/g&gt;交談過了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,7 +314,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>[聳聳肩。]</DefaultText>
+      <DefaultText>[聳聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -329,12 +329,12 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「抱歉，靈視者。真的很抱歉。看來我們把你的靈魂送到了比預計更遙遠的地方，但其餘部分還落在後面。儘管不算是出乎意料，但也不是我們想要的結果。」</DefaultText>
+      <DefaultText>「Sientere，靈視者。真的很抱歉。看來我們把你的靈魂送到了比預計更遙遠的地方，但其餘部分還落在後面。儘管不算是出乎意料，但也不是我們想要的結果。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>「請保持冷靜。即使你身處險境，也並非我們本意。這對我們來說都是一個全新的領域。你看到了——體驗到了——某些東西。具體是什麼呢？」</DefaultText>
+      <DefaultText>「請保持冷靜。即使你身處險境，也並非我們本意。這對我們來說都是一個全新的領域。你看到了—體驗到了—某些東西。具體是什麼呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>「相信我，你最好趕緊離開涅克塔卡。」</DefaultText>
+      <DefaultText>「相信我，你最好趕緊離開 涅克塔卡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,8 +436,8 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>「有意思。正經工作只適合弱者，朋友。」</DefaultText>
-      <FemaleText>「有意思。正經工作只適合弱者，朋友。」</FemaleText>
+      <DefaultText>「有意思。正經工作只適合弱者，aimico。」</DefaultText>
+      <FemaleText>「有意思。正經工作只適合弱者，aimica。」</FemaleText>
     </Entry>
     <Entry>
       <ID>90</ID>
@@ -451,7 +451,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>「說不上是最舒適的地方，是吧？但是新鮮空氣——尤其是閃電——很有幫助。能讓我們的法師不時休息上一會兒。」</DefaultText>
+      <DefaultText>「說不上是最舒適的地方，是吧？但是新鮮空氣—尤其是閃電—很有幫助。能讓我們的法師不時休息上一會兒。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -478,7 +478,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>「情況是這樣，如果有人能夠感應到暗空中的靈魂精粹——甚至操縱它們的話……比如說，一個靈視者……」</DefaultText>
+      <DefaultText>「情況是這樣，如果有人能夠感應到 &lt;g&gt;暗空&lt;/g&gt;中的靈魂精粹—甚至操縱它們的話……比如說，一個靈視者……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -498,7 +498,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>「亡焰皇家商行以前給你們找過麻煩嗎？」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰皇家商行&lt;/g&gt;以前給你們找過麻煩嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -545,7 +545,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>「，別這樣。我們這次會成功的。至少考慮一下吧？不管你什麼時候來，我們都在這裡。</DefaultText>
+      <DefaultText>「Per complancanet，別這樣。我們這次會成功的。至少考慮一下吧？不管你什麼時候來，我們都在這裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -564,19 +564,19 @@
       <ID>124</ID>
       <DefaultText>「沒有直接出手。幾艘船行駛到離他們前哨站太近的地方。至少有一個鑄魂師遭到綁架，還有一些人叛逃。」
 
-「涅克塔卡以前至少&lt;i&gt;像是&lt;/i&gt;一個中立的城市。」</DefaultText>
+「涅克塔卡 以前至少&lt;i&gt;像是&lt;/i&gt;一個中立的城市。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>「很好！令人寬慰。」「你不會後悔的。」
+      <DefaultText>「Gellarde！令人寬慰。你不會後悔的。」
 
 「讓我給你講解一遍理論，然後我們就可以開始試驗了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「不，一點也不。呃，有點——有什麼不危險呢？但是不會&lt;i&gt;特別&lt;/i&gt;危險。」</DefaultText>
+      <DefaultText>「不，一點也不。呃，有點—有什麼不危險呢？但是不會&lt;i&gt;特別&lt;/i&gt;危險。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -672,14 +672,14 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>「抱歉。我並不關心政治。」
+      <DefaultText>「Eccosi。我並不關心政治。」
 
 她雙臂交叉，面帶失望。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>「對，關於計劃。我盡量簡短說明。
+      <DefaultText>「Ac，關於計劃。我盡量簡短說明。
 
 我們黃銅堡的朋友們的炸藥庫裡很不幸有一根魂珀之柱。他們用它來照明，你敢相信嗎。」
 
@@ -707,12 +707,12 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>「讓我們繼續吧。「</DefaultText>
+      <DefaultText>「讓我們繼續吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>[離開] 「我過一會兒回來。」</DefaultText>
+      <DefaultText>[離開]「我過一會兒回來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -727,7 +727,7 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>「好吧。很好，都很棒。幹得非常漂亮。你該回去報告了。這會是個驚喜。」</DefaultText>
+      <DefaultText>「好吧。Belfetto，都很棒。幹得非常漂亮。你該回去報告了。這會是個驚喜。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,7 +746,7 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>「考慮過為亡焰皇家商行工作嗎？」</DefaultText>
+      <DefaultText>「考慮過為 &lt;g&gt;亡焰皇家商行&lt;/g&gt;工作嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -768,12 +768,12 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>「對啊，沒錯。無辜的人從來都不會受到傷害。」</DefaultText>
+      <DefaultText>「Ac，沒錯。無辜的人從來都不會受到傷害。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>「我們要動作快。拜託了，靈視者……別來煩我們了。」</DefaultText>
+      <DefaultText>「我們要動作快。Per complanca，靈視者……別來煩我們了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -788,7 +788,7 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>「好的，我們會盡力做到。別了，靈視者。」</DefaultText>
+      <DefaultText>「Ac，我們會盡力做到。別了，靈視者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -803,12 +803,12 @@
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>「鑄魂師在鹿林並不受歡迎。胡亞納人找你們麻煩了？」</DefaultText>
+      <DefaultText>「鑄魂師在 &lt;g&gt;鹿林&lt;/g&gt;並不受歡迎。&lt;g&gt;胡亞納&lt;/g&gt;人找你們麻煩了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>「所以並沒有暴亂。我們很走運，從鹿林傳來的消息沒有在這裡造成什麼影響。」
+      <DefaultText>「所以並沒有暴亂。我們很走運，從 &lt;g&gt;鹿林&lt;/g&gt;傳來的消息沒有在這裡造成什麼影響。」
 
 佛羅恩眨眨眼表示她在開玩笑。</DefaultText>
       <FemaleText />
@@ -822,7 +822,7 @@
       <ID>178</ID>
       <DefaultText>「我們也用了幾個月才適應。還發生過幾起短路事故，後來我們做了改進讓儀器防水。
 
-「我傾向於把這件事當做一個小插曲，你覺得呢？除此之外，還有什麼比創造新事物更能取悅海麗婭呢？」</DefaultText>
+「我傾向於把這件事當做一個小插曲，你覺得呢？除此之外，還有什麼比創造新事物更能取悅 &lt;g&gt;海麗婭&lt;/g&gt;呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -832,7 +832,7 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>「曾有這麼一個傢伙，行為越了界……」</DefaultText>
+      <DefaultText>「曾有這麼一個傢伙，躍遷時過了界線……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -874,7 +874,7 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>[離開] 「我準備走了。」</DefaultText>
+      <DefaultText>[離開]「我準備走了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,7 +896,7 @@
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>「可惜，我恐怕沒有多餘的靈視者可以用。而且我們也沒法讓一隻狗老老實實坐在魂珀前——」</DefaultText>
+      <DefaultText>「可惜，我恐怕沒有多餘的靈視者可以用。而且我們也沒法讓一隻狗老老實實坐在魂珀前—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -930,14 +930,14 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>「哦，感謝諸神。感謝海麗婭！該死，你嚇壞我們了。」
+      <DefaultText>「哦，感謝諸神。感謝 海麗婭！該死，你嚇壞我們了。」
 
 梅拉用一隻手把她轉向其他人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>佛羅恩揚起一支眉毛，但其他鑄魂師看你的眼神中帶有無法掩飾的好奇——甚至是敬畏。</DefaultText>
+      <DefaultText>佛羅恩揚起一支眉毛，但其他鑄魂師看你的眼神中帶有無法掩飾的好奇—甚至是敬畏。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -952,7 +952,7 @@
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>「在那之前，我敢肯定我們在總部的朋友想要聽聽進展如何——並且確認我沒對你造成任何永久性的傷害。
+      <DefaultText>「在那之前，我敢肯定我們在總部的朋友想要聽聽進展如何—並且確認我沒對你造成任何永久性的傷害。
 
 「當我們在這裡準備好後，會告訴你的。」</DefaultText>
       <FemaleText />
@@ -964,7 +964,7 @@
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>「我希望目前發生的事不會讓你停止協助我們。我們還對儀器做了調整，讓你能夠控制你的——飛行，我找不到更好的詞來形容。」</DefaultText>
+      <DefaultText>「我希望目前發生的事不會讓你停止協助我們。我們還對儀器做了調整，讓你能夠控制你的—飛行，我找不到更好的詞來形容。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -979,12 +979,12 @@
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>「很好！安希爾，去準備機器。沒時間可浪費了。」</DefaultText>
+      <DefaultText>「Gellarde！安希爾，去準備機器。沒時間可浪費了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>「謝謝你，靈視者。我欠你一命，我可沒忘記。我還在顫抖。」</DefaultText>
+      <DefaultText>「Agracima，靈視者。我欠你一命，我可沒忘記。我還在顫抖。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1008,12 +1008,12 @@
       <ID>218</ID>
       <DefaultText>「如果是我派他們來的，我就不會在這裡了。」
 
-麥婭語氣平靜，盯著鑄魂師，直到後者移開目光。</DefaultText>
+麥婭語氣平靜，盯著鑄魂師，直到鑄魂師移開目光。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>「看來你的進讓亡焰皇家商行很不愉快。」</DefaultText>
+      <DefaultText>「看來你的進讓 &lt;g&gt;亡焰皇家商行&lt;/g&gt;很不愉快。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1030,14 +1030,14 @@
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>「你這麼快就來了！我很抱歉，但是我們還沒準備好檢查你的狀況。你可以先在那邊坐一會兒。希望你不怕高，或者是鳥屎——」
+      <DefaultText>「你這麼快就來了！我很抱歉，但是我們還沒準備好檢查你的狀況。你可以先在那邊坐一會兒。希望你不怕高，或者是鳥屎—」
 
 她瞇起眼睛看著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>「你不是我們的病人。哇，天哪——是你！你是那個靈視者。抱歉——我是說對不起。最近太忙了。」</DefaultText>
+      <DefaultText>「你不是我們的病人。哇，Madiccho - 是你！你是那個靈視者。Sientere - 我是說對不起。最近太忙了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1052,26 +1052,26 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>「他沒說還會派來一個亡焰列島商行的士兵。如果你是來打探情報的，請自便——我一樣需要你的協助。」</DefaultText>
+      <DefaultText>「他沒說還會派來一個 &lt;g&gt;亡焰列島&lt;/g&gt;商行的士兵。如果你是來打探情報的，請自便—我一樣需要你的協助。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>「我不是——」
+      <DefaultText>「我不是—」
 
 麥婭歎了口氣。。「下次我還是留在樓下吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>「帕蕾吉娜姐妹！來欣賞我們工作？還是說你終於同意讓我把你捆在實驗桌上了？」
+      <DefaultText>「Sérre 帕蕾吉娜！來欣賞我們工作？還是說你終於同意讓我把你捆在實驗桌上了？」
 
 她笑著越過帕蕾吉娜向你眨眨眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>「我們已經總結出了一系列光魂珀獨有的奇特性質。但我們還在調查一些特定的性質。」</DefaultText>
+      <DefaultText>「我們已經總結出了一系列光魂珀獨有的有趣性質，但其中一些非常特別的性質我們還在調查。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1081,17 +1081,17 @@
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>「光魂珀對基斯有獨特的效果。即便是極其少量的光魂珀，也能產生增益效果——充沛精神，恢復活力。就是你回到老家會向人們推銷的那種東西，知道吧？」</DefaultText>
+      <DefaultText>「光魂珀對 &lt;g&gt;基斯&lt;/g&gt;有獨特的效果。即便是極其少量的光魂珀，也能強身健體—充沛精神，恢復活力。就是你回到老家會向人們推銷的那種東西，知道吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>「你說你在『研究它對基斯的影響』……」</DefaultText>
+      <DefaultText>「你說你在『研究它對 &lt;g&gt;基斯&lt;/g&gt;的影響』……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>「我相信我們能利用這種聯繫——和你擁有的天賦——將某個人在一瞬間傳送到遙遠的地方。」</DefaultText>
+      <DefaultText>「我相信我們能利用這種聯繫—和你擁有的天賦—將某個人在一瞬間傳送到遙遠的地方。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1111,7 +1111,7 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>「好的。讓我們開干吧。」</DefaultText>
+      <DefaultText>「好的。讓我們開工吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1136,12 +1136,12 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>「哈，你跟我們是同路人。太棒了！每次能跟明白人共事都讓人開心。」</DefaultText>
+      <DefaultText>「哈，你跟我們是同路人。Gellarde！每次能跟明白人共事都讓人開心。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>「很好！棒極了——你先站在那。安希爾，去準備機器！」</DefaultText>
+      <DefaultText>「Gellarde！棒極了—你先站在那。安希爾，去準備機器！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1160,14 +1160,14 @@
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>「那只是基礎中的基礎，我的朋友。目前為止我們只成功的躍遷過幾次。我希望你獨特的天賦能改善現狀。」</DefaultText>
-      <FemaleText>「那只是基礎中的基礎，我的朋友。目前為止我們只成功的躍遷過幾次。希望你獨特的天賦能改善現狀。」</FemaleText>
+      <DefaultText>「那只是基礎中的基礎，aimico。目前為止我們只成功的躍遷過幾次。我希望你獨特的天賦能改善現狀。」</DefaultText>
+      <FemaleText>「那只是基礎中的基礎，aimica。目前為止我們只成功的躍遷過幾次。希望你獨特的天賦能改善現狀。」</FemaleText>
     </Entry>
     <Entry>
       <ID>251</ID>
       <DefaultText>「不過當然，一切都取決於你。我只能懇求你的幫助。厚顏無恥地乞求。
 
-「想想這件事的潛力！想想我們合作的潛力。「</DefaultText>
+「想想這件事的潛力！想想我們合作的潛力。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1187,7 +1187,7 @@
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>「我們有報酬給志願者——你盡可以去領取。希望這樣能讓你多少原諒我們一些。」</DefaultText>
+      <DefaultText>「我們有報酬給志願者—你盡可以去領取。希望這樣能讓你多少原諒我們一些。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1202,20 +1202,20 @@
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>「光魂珀包含大量靈魂精粹。我們無法複製或恢復這樣一種力量。而且這些東西彼此之間有某種通過暗空結成的聯繫。」</DefaultText>
+      <DefaultText>「光魂珀包含大量靈魂精粹。我們無法複製或恢復這樣一種力量。而且這些東西彼此之間有某種通過 &lt;g&gt;暗空&lt;/g&gt;結成的聯繫。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>「我們已經記錄到了一些很有啟發性的讀數，儀器也準備好收集魂珀中的淨化了。
+      <DefaultText>「我們已經記錄到了一些很有啟發性的讀數，儀器也準備好控制魂珀中的精粹了。
 
 「但眼下我們對如何聯結其他魂珀柱還一無所知。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>「問得好，朋友。非常好。我們對正在進行的工作興奮不已。而且我們長期招募志願者。」</DefaultText>
-      <FemaleText>「問得好，朋友。非常好。我們對正在進行的工作興奮不已。而且我們長期招募志願者。」</FemaleText>
+      <DefaultText>「問得好，aimico。非常好。我們對正在進行的工作興奮不已。而且我們長期招募志願者。」</DefaultText>
+      <FemaleText>「問得好，aimica。非常好。我們對正在進行的工作興奮不已。而且我們長期招募志願者。」</FemaleText>
     </Entry>
     <Entry>
       <ID>267</ID>
@@ -1234,7 +1234,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>「我需要」泰克胡撅起嘴打量著你。</DefaultText>
+      <DefaultText>「我需要到達多達才能抓住這聯結。」泰克胡撅起嘴打量著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1249,7 +1249,7 @@
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>「Imperesant！我們何時開始？」
+      <DefaultText>「Imperesant！我們什麼時開始？」
 
 帕蕾吉娜的眼睛閃閃發亮，來回看著你和佛羅恩。</DefaultText>
       <FemaleText />
@@ -1268,7 +1268,7 @@
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>「還有記牢了，千萬別——」</DefaultText>
+      <DefaultText>「還有記牢了，千萬別—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1280,7 +1280,7 @@
       <ID>281</ID>
       <DefaultText>你又一次感受到了魂珀蘊含的精粹，彷彿是你體內某種具有實體的東西。
 
-不過這一次，牽拽著你的能量束雖然強大，但可控。通過這束能量，你能感覺到佛羅恩所描述的東西——塔樓與遠處某物的聯結，而這種聯結又在那遠處分散延伸到各個方向。</DefaultText>
+不過這一次，牽拽著你的能量束雖然強大，但可控。通過這束能量，你能感覺到佛羅恩所描述的東西—塔樓與遠處某物的聯結，而這種聯結又在那遠處分散延伸到各個方向。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1300,7 +1300,7 @@
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>「岡恩要摧毀貝拉斯之輪，而沒有人能夠阻止他。」</DefaultText>
+      <DefaultText>「&lt;g&gt;岡恩&lt;/g&gt;要摧毀神輪，而沒有人能夠阻止他。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1310,7 +1310,7 @@
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>「還有最後一個問題——會有多疼？等等，算了，還是別告訴我。帶路就是了。」</DefaultText>
+      <DefaultText>「還有最後一個問題—會有多疼？等等，算了，還是別告訴我。帶路就是了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1320,7 +1320,7 @@
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>「黑暗將會降臨地府，使得死亡無限延續，而沒有任何人能獲得新生。」</DefaultText>
+      <DefaultText>「黑暗將會降臨 冥界，使得死亡無限延續，而沒有任何人能獲得新生。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1347,24 +1347,24 @@
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>「呃。好吧。你知道實際上淨化&lt;i&gt;並不&lt;/i&gt;——
+      <DefaultText>「呃。好吧。你知道精粹&lt;i&gt;實際上&lt;/i&gt;並不—
 
 「算了。多謝，裘荻。我保證我會恰當地對待他們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>「我第一時間聽說了俄撒斯的計劃。」</DefaultText>
+      <DefaultText>「我第一時間聽說了 &lt;g&gt;俄撒斯&lt;/g&gt;的計劃。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>「 沒錯，我很清楚我在念叨什麼。」她清了清喉嚨，提著鏈子舉起她那閃耀的燈籠。</DefaultText>
+      <DefaultText>「沒錯，我很清楚我在念叨什麼。」她清了清喉嚨，提著鏈子舉起她那閃耀的燈籠。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>「我知道我不過是一個岡恩的牧師。我並不信任鑄魂師。但靈視者說你是我們倖存的最大希望。」</DefaultText>
+      <DefaultText>「我知道我不過是一個 &lt;g&gt;岡恩&lt;/g&gt;的牧師。我並不信任鑄魂師。但靈視者說你是我們倖存的最大希望。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1399,7 +1399,7 @@
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>「你好啊，姐妹。很遺憾，我不得不拒絕。」</DefaultText>
+      <DefaultText>「Ado，sérre。很遺憾，我不得不拒絕。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1414,9 +1414,9 @@
     </Entry>
     <Entry>
       <ID>309</ID>
-      <DefaultText>「抱歉，我開始學習鑄魂學的原因有一半是為了操作這些儀器。
+      <DefaultText>「抱歉，我開始學習 &lt;g&gt;鑄魂學&lt;/g&gt;的原因有一半是為了操作這些儀器。
 
-「來吧，我盡量簡化。我正嘗試在魂珀之柱彼此間創造一種聯結。你站在這就行，我會用儀器……像扔飛鏢一樣把你扔出去。「</DefaultText>
+「來吧，我盡量簡化。我正嘗試在魂珀之柱彼此間創造一種聯結。你站在這就行，我會用儀器……像扔飛鏢一樣把你扔出去。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1426,7 +1426,7 @@
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>「噢，這裡事情大不相同。儘管胡亞納人不如共和國對鑄魂學領域有興趣，但他們明白我們是在進行研究，而不是……把兒童獻祭給狼或是像鹿林流傳的其他胡說八道那樣。」</DefaultText>
+      <DefaultText>「噢，這裡事情大不相同。儘管 &lt;g&gt;胡亞納&lt;/g&gt;人不如共和國對 &lt;g&gt;鑄魂學&lt;/g&gt;領域有興趣，但他們明白我們是在進行研究，而不是……把兒童獻祭給狼或是像 &lt;g&gt;鹿林&lt;/g&gt;流傳的其他胡說八道那樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1472,21 +1472,21 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>「賈克洛？是的，我知道。他在峽谷有個小小的實驗室。
+      <DefaultText>「賈克洛？Ac，我知道。他在 &lt;g&gt;邊沟區&lt;/g&gt;有個小小的實驗室。
 
-「他的專業是神嗣。據稱，他能在子宮裡檢測到它們。」
+「他的專業是神嗣。據稱他能神嗣還在子宮裡時就能檢測出來。」
 
 她誇張的攤了攤手，但她的表情從未變過。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>「賈克洛在巨洞租了一個房間，那個骯髒的小酒館就在它底下。他為什麼要設法埋葬自己，你得問他本人。」</DefaultText>
+      <DefaultText>「賈克洛租了一個房間，eccosi，在巨洞，底下那個骯髒的小酒館。他為什麼想要躲起來的話，你得問他本人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>「那裡並沒有很多鑄魂師，所以應該很容易找到他。如果他們沒有偷走他全部的設備……
+      <DefaultText>「那裡並沒有很多鑄魂師，所以應該很容易找到他。如果他們沒有偷走他全部的設備……」
 
 「Auret augori！」</DefaultText>
       <FemaleText />
@@ -1503,12 +1503,12 @@
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>「你的口音聽起來不是很像瓦利亞人。」</DefaultText>
+      <DefaultText>「你的口音聽起來不是很像 &lt;g&gt;瓦利亞&lt;/g&gt;人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>「好吧，在聚鹿呆幾年，你就知道是怎麼回事了。在叢林中及肩深的泥巴裡，到處是昆蟲和流鼻涕的貴族……」</DefaultText>
+      <DefaultText>「好吧，在 &lt;g&gt;聚鹿&lt;/g&gt;呆幾年，你就知道是怎麼回事了。在叢林中及肩深的泥巴裡，到處是昆蟲和流鼻涕的貴族……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1530,21 +1530,21 @@
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>「什麼？這些是……奧德理斯的？我從沒想過我還能一睹他的作品！」
+      <DefaultText>「Eccosi？這些是……奧德理斯的？我從沒想過我還能一睹他的作品！」
 
 佛羅恩翻閱著，臉上露出喜悅的表情。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>「有意思。不準確但很有意思——你不介意我保留這些吧？當然不。給，拿著這個。」
+      <DefaultText>「有意思。不準確但很有意思—你不介意我保留這些吧？當然不。給，拿著這個。」
 
 伊萊特心煩意亂的遞給你一大筆錢幣，然後用一隻手拍拍你，讓你離開。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>「岡恩向我昭示了即將來臨的結局。」</DefaultText>
+      <DefaultText>「&lt;g&gt;岡恩&lt;/g&gt;向我昭示了即將來臨的結局。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

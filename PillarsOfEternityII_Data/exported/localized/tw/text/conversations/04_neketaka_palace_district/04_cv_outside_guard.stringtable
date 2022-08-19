@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「等下。你有可能已經去過宮殿和神龕，不過還是要注意。」</DefaultText>
+      <DefaultText>「等下。你可以進去宮殿和裡面的神龕，不過要注意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「女王會見了商行的毒蛇們。小心別被咬了。」</DefaultText>
+      <DefaultText>「女王正在會見商行的毒蛇。小心別被咬了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,29 +41,29 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「皇家商行的人在裡面？」</DefaultText>
+      <DefaultText>「&lt;g&gt;亡焰皇家商行&lt;/g&gt;的人在裡面？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「瓦利亞商行的人在裡面？」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞商行&lt;/g&gt;的人在裡面？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「啊，對。我的……人。我最好快點了。」</DefaultText>
+      <DefaultText>「啊，對。我的……人。我最好馬上進去。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「你們的哈扎努伊，還有瓦利亞伯爵也在。他們正在皇殿裡。如果你迷路了的話，尋著那嚷嚷聲過去就好了。」
+      <DefaultText>「你們的 哈扎努伊，還有 &lt;g&gt;瓦利亞&lt;/g&gt;伯爵也在。他們正在皇殿裡。如果你迷路了的話，尋著那嚷嚷聲過去就好了。」
 
 守衛朝大門做了個手勢將你打發走了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「你們的伯爵，還有亡焰皇家商行的哈扎努伊也在。他們正在皇殿裡。如果你迷路了的話，尋著那嚷嚷聲過去就好了。」
+      <DefaultText>「你們的伯爵，還有 &lt;g&gt;亡焰皇家商行&lt;/g&gt;的 &lt;g&gt;哈扎努伊&lt;/g&gt;也在。他們正在皇殿裡。如果你迷路了的話，尋著那嚷嚷聲過去就好了。」
 
 守衛朝大門做了個手勢將你打發走了。</DefaultText>
       <FemaleText />
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>「願海麗婭眷顧你。」</DefaultText>
+      <DefaultText>「願 &lt;g&gt;海麗婭&lt;/g&gt;眷顧你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>這座雕塑，是由一塊冰雕刻而成的，矗立在一個格蘭費倫女人之上。她一手拿著鑿子，一手拿著木槌，在雕刻中走來走去。他緊盯著它，好像它會融化掉一樣。</DefaultText>
+      <DefaultText>這座雕塑，是由一塊冰雕刻而成的，矗立在一個 格蘭費倫 女人之上。她一手拿著鑿子，一手拿著木槌，在雕刻中走來走去。他緊盯著它，好像它會融化掉一樣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[離開。]「好吧，我該走了。」</DefaultText>
+      <DefaultText>[離開]「好吧，我該走了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「瓦利亞人怎麼樣。想想事情——&lt;i&gt;談論&lt;/i&gt;事情——但卻從來沒有經歷過事情。</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;人怎麼樣。想想事情—&lt;i&gt;談論&lt;/i&gt;事情—但卻從來沒有經歷過事情。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「他的容貌會讓人認出他來。他的身上流露出睿姆岡的氣息。」</DefaultText>
+      <DefaultText>「他的容貌會讓人認出他來。他的身上流露出 &lt;g&gt;睿姆岡&lt;/g&gt;的氣息。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「我不是這個地方的生物。如果若移冰地裡的藝術沒有用的話，很少人會尊重它。如果你不能隨身攜帶你的作品。」</DefaultText>
+      <DefaultText>「我不是這個地方的生物。如果 若移冰地 裡的藝術沒有用的話，很少人會尊重它。如果你不能隨身攜帶你的作品。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,17 +101,17 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[清清喉嚨。]</DefaultText>
+      <DefaultText>[清清喉嚨]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[走開。]</DefaultText>
+      <DefaultText>[走開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[又清清喉嚨。聲音更大了。]</DefaultText>
+      <DefaultText>[又清清喉嚨。聲音更大了]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「它需要一些加工「</DefaultText>
+      <DefaultText>「它需要一些加工」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -238,7 +238,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「不，我要談。「這是寒冬巨獸的意志，不是我能質疑的。」</DefaultText>
+      <DefaultText>「不，我要談。這是 寒冬巨獸 的意志，不是我能質疑的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

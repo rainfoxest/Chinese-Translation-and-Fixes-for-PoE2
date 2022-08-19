@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>你躺在一塊華麗設計的石棺上，該石棺由一塊很純的幾乎是半透明的魂珀雕刻而成。
 
- 無論誰躺在裡面，他的輪廓都很清晰， 但他的特徵細節卻很模糊。</DefaultText>
+ 無論誰躺在裡面，他的輪廓都很清晰，但他的特徵細節卻很模糊。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -17,12 +17,12 @@
 
 在這個面板中，有一個被拋光的金屬指針環繞的洞，它可以到達石棺的深處。
 
-在中心裝置的周圍，是三塊石匾，每塊石匾上都雕刻著一副圖畫——它們是一隻鳥、一條華臍魚和兩條相互吞食的鰻魚。</DefaultText>
+在中心裝置的周圍，是三塊石匾，每塊石匾上都雕刻著一副圖畫—它們是一隻鳥、一條華臍魚和兩條相互吞食的鰻魚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[檢查匾和指針。]</DefaultText>
+      <DefaultText>[檢查匾和指針]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -42,7 +42,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[扭動握把。]</DefaultText>
+      <DefaultText>[扭動握把]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,17 +87,17 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>握把似乎是一個死人控制的開關——但只要握住握把，就不會被困。</DefaultText>
+      <DefaultText>握把似乎是一個死人控制的開關—但只要握住握把，就不會被困。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[放開握柄。]</DefaultText>
+      <DefaultText>[放開握柄]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>這些牌匾都是精心雕琢的。你認出被描繪的生物是胡亞納對於亞彌拉、恩加蒂和理庫胡諸神的形象。現在指針停在亞彌拉和恩加蒂的圖像之間。</DefaultText>
+      <DefaultText>這些牌匾都是精心雕琢的。你認出被描繪的生物是 &lt;g&gt;胡亞納&lt;/g&gt;對於 亞彌拉、恩加蒂 和 理庫胡 諸神的形象。現在指針停在亞彌拉和恩加蒂的圖像之間。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,7 +112,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[試圖用力打開石棺。]</DefaultText>
+      <DefaultText>[試圖用力打開石棺]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,7 +127,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[進一步檢查石棺。]</DefaultText>
+      <DefaultText>[進一步檢查石棺]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>揭開的石棺中有一具死去已久的古屍，它從頭到腳都穿著胡亞納酋長的多彩華麗的服飾。
+      <DefaultText>揭開的石棺中有一具死去已久的古屍，它從頭到腳都穿著 &lt;g&gt;胡亞納&lt;/g&gt;酋長的多彩華麗的服飾。
 
 屍體躺在一片魂珀上，在它的後面，你可以看到石棺組合鎖的互鎖齒輪和古老的機關。</DefaultText>
       <FemaleText />
@@ -156,12 +156,12 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>[拿陪葬品。]</DefaultText>
+      <DefaultText>[拿陪葬品]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[拿布。]</DefaultText>
+      <DefaultText>[拿布]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,12 +186,12 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>[鮟鱇魚，恩加蒂。]</DefaultText>
+      <DefaultText>[鮟鱇魚，恩加蒂]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>[鰻魚，理庫胡。]</DefaultText>
+      <DefaultText>[鰻魚，理庫胡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,12 +213,12 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>[鮟鱇魚，恩加蒂。]</DefaultText>
+      <DefaultText>[鮟鱇魚，恩加蒂]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>[鰻魚，理庫胡。]</DefaultText>
+      <DefaultText>[鰻魚，理庫胡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,7 +239,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>[從拼圖處退回來。]</DefaultText>
+      <DefaultText>[從拼圖處退回來]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,9 +249,9 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>你下面的地面在搖晃。但是，石棺仍然沒有打開。 
+      <DefaultText>你下面的地面在搖晃。但是，石棺仍然沒有打開。
 
-更多的沙子從雕像的嘴中湧出，一會兒就流到了平台上。 
+更多的沙子從雕像的嘴中湧出，一會兒就流到了平台上。
 
 指針重回到中間位置。</DefaultText>
       <FemaleText />
@@ -288,7 +288,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>你小心翼翼地將古老的胡亞納酋長的手從布上拿開，將它放在你的包裡。</DefaultText>
+      <DefaultText>你小心翼翼地將古老的 &lt;g&gt;胡亞納&lt;/g&gt;酋長的手從布上拿開，將它放在你的包裡。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,7 +298,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>[Specified 0]驚訝地大叫起來。隨著一聲尖叫聲， 開關迅速地縮回到石棺中。</DefaultText>
+      <DefaultText>[Specified 0]驚訝地大叫起來。隨著一聲尖叫聲，開關迅速地縮回到石棺中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,12 +315,12 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[鮟鱇魚，恩加蒂。]</DefaultText>
+      <DefaultText>[鮟鱇魚，恩加蒂]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>[鰻魚，理庫胡。]</DefaultText>
+      <DefaultText>[鰻魚，理庫胡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -337,22 +337,22 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>[鮟鱇魚，恩加蒂。]</DefaultText>
+      <DefaultText>[鮟鱇魚，恩加蒂]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>[鰻魚，理庫胡。]</DefaultText>
+      <DefaultText>[鰻魚，理庫胡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>當沙子湧入你周圍時，你搶走了古老的胡亞納酋長手中的布。</DefaultText>
+      <DefaultText>當沙子湧入你周圍時，你搶走了古老的 &lt;g&gt;胡亞納&lt;/g&gt;酋長手中的布。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>[返回去檢查石棺。]</DefaultText>
+      <DefaultText>[返回去檢查石棺]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -367,7 +367,7 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>[返回。]</DefaultText>
+      <DefaultText>[返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -382,17 +382,17 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>你試圖伸到洞裡面，於是瘋狂地把沙子從石棺裡挖出來，但卻一點也沒有用——沙子堆積的速度比你挖的速度更快。</DefaultText>
+      <DefaultText>你試圖伸到洞裡面，於是瘋狂地把沙子從石棺裡挖出來，但卻一點也沒有用—沙子堆積的速度比你挖的速度更快。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>[返回。]</DefaultText>
+      <DefaultText>[返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>「我希望你完事後把手洗乾淨。「</DefaultText>
+      <DefaultText>「我希望你完事後把手洗乾淨。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,7 +402,7 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>「我敢打賭你在葬禮上肯定很有趣。「</DefaultText>
+      <DefaultText>「我敢打賭你在葬禮上肯定很有趣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -509,57 +509,57 @@
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <DefaultText>[要求[Specified 4]按住死人的開關]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -619,57 +619,57 @@
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <DefaultText>[留下[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -679,7 +679,7 @@
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>「你不能就這樣離開我 ！請等等！「</DefaultText>
+      <DefaultText>「你不能就這樣離開我！請等等！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -689,7 +689,7 @@
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>「嘿，現在停一下。我想我們要一起去俄撒斯。「</DefaultText>
+      <DefaultText>「嘿，現在停一下。我想我們要一起去 俄撒斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -723,7 +723,7 @@
       <ID>192</ID>
       <DefaultText>「你！「
 
- 當她把手放在開關上的時候，帕蕾吉娜滿是羽毛的頭向你猛撲過來。「</DefaultText>
+ 當她把手放在開關上的時候，帕蕾吉娜滿是羽毛的頭向你猛撲過來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -755,7 +755,7 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>「聖母恩加蒂，不要這樣！「
+      <DefaultText>「聖母 恩加蒂，不要這樣！「
 
 一滴黑色墨水慢慢地從泰克胡的頭髮上順著額頭往下流。</DefaultText>
       <FemaleText />
@@ -772,7 +772,7 @@
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>「等……等等。你以為你要去哪裡？！「</DefaultText>
+      <DefaultText>「等……等等。你以為你要去哪裡？！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -804,7 +804,7 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>「是的，你真有趣。現在回來吧。「</DefaultText>
+      <DefaultText>「是的，你真有趣。現在回來吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -844,7 +844,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>「&lt;i&gt;他媽的&lt;/i&gt;！要是我祈禱，我只祈禱貝拉斯把我帶回去殺了你！」
+      <DefaultText>「&lt;i&gt;他媽的&lt;/i&gt;！要是我祈禱，我只祈禱 &lt;g&gt;貝拉斯&lt;/g&gt;把我帶回去殺了你！」
 
 她的眼睛依然鎖定在你身上，一眨不眨，直到她消失在你的視線之外。</DefaultText>
       <FemaleText />

@@ -25,12 +25,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[把炮刷遞給他們。] 「繼續。打吧。」</DefaultText>
+      <DefaultText>[把炮刷遞給他們]「繼續。打吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[懲罰他們。]「[Specified 2]，把這兩人綁到桅桿上，去拿鞭子來。」</DefaultText>
+      <DefaultText>[懲罰他們]「[Specified 2]，把這兩人綁到桅桿上，去拿鞭子來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -42,7 +42,7 @@
       <ID>9</ID>
       <DefaultText>[Specified 1]未能閃避迎頭一擊，滾入舷牆。[Specified 0]猛擊[Specified 1]的膝蓋，將其擊倒在甲板上，痛得大叫。眾人歡呼。
 
-「服了嗎？」 [Specified 0]問道，向被擊倒者伸出一隻手。
+「服了嗎？」[Specified 0]問道，向被擊倒者伸出一隻手。
 
 [Specified 1]點了點頭，水手們鼓掌。</DefaultText>
       <FemaleText />
@@ -65,7 +65,7 @@
       <ID>12</ID>
       <DefaultText>[Specified 1]躲閃過有力的一擊，然後猛烈攻擊[Specified 0]的雙腿，掃倒了他。後者水手重重的摔倒在甲板上，人群發出一片刺耳的嘲笑聲。
 
-「夠了嗎？」 [Specified 1]問道，向摔倒者伸出一隻手拉他起來。
+「夠了嗎？」[Specified 1]問道，向摔倒者伸出一隻手拉他起來。
 [Specified 0]點點頭，水手們鼓掌。</DefaultText>
       <FemaleText />
     </Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[調查騷動。]</DefaultText>
+      <DefaultText>[調查騷動]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[忽視問題讓其自行發展。]</DefaultText>
+      <DefaultText>[忽視問題讓其自行發展]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,12 +144,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[接近打鬥圈。]</DefaultText>
+      <DefaultText>[接近打鬥圈]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[返回你的船艙。]「我沒有時間管這個。」</DefaultText>
+      <DefaultText>[返回你的船艙]「我沒有時間管這個。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,17 +176,17 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[展現你的風範。]「停止這場爭鬥。」</DefaultText>
+      <DefaultText>[展現你的風範]「停止這場爭鬥。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>[平靜他們的內心。]</DefaultText>
+      <DefaultText>[平靜他們的內心]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[用魔法將他們分開。]</DefaultText>
+      <DefaultText>[用魔法將他們分開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,12 +226,12 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[展現仁慈。]「我希望我已說清楚了。」</DefaultText>
+      <DefaultText>[展現仁慈]「我希望我已說清楚了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>[抽打他們。]</DefaultText>
+      <DefaultText>[抽打他們]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@
       <ID>63</ID>
       <DefaultText>伊連開始咕噥，手指不斷變換著手勢。
 
-「噢，瑪珈嵐的奶子，」[Specified 1]咕噥著，然後把炮刷向伊連的頭上砸去。炮刷重重打在他的頭上，油滑的海綿頭折斷，彈到舷牆，掉入海中。
+「噢，&lt;g&gt;瑪珈嵐&lt;/g&gt;的奶子，」[Specified 1]咕噥著，然後把炮刷向伊連的頭上砸去。炮刷重重打在他的頭上，油滑的海綿頭折斷，彈到舷牆，掉入海中。
 
 輕輕一挪，伊連伸出手去，用手指抓住[Specified 1]的胳膊。一條黑影從他身上竄了出來，進入另外那名水手的身體，水手翻了白眼。[Specified 1]劇烈顫抖，倒在甲板上。</DefaultText>
       <FemaleText />
@@ -306,12 +306,12 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「回到你們的崗位，否則我讓你們看看貝拉斯的聖選士如何教訓你們。」</DefaultText>
+      <DefaultText>「回到你們的崗位，否則我讓你們看看 &lt;g&gt;貝拉斯&lt;/g&gt;的聖選士如何教訓你們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>「都怪瑪珈嵐那熱情四溢的奶子，船長……」[Specified 1]從甲板上站起來，後退。「沒想到我們搞到那種程度。但是你說的我們記住了。不會再發生了，保證。」</DefaultText>
+      <DefaultText>「都怪 &lt;g&gt;瑪珈嵐&lt;/g&gt;那熱情四溢的奶子，船長……」[Specified 1]從甲板上站起來，後退。「沒想到我們搞到那種程度。但是你說的我們記住了。不會再發生了，保證。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

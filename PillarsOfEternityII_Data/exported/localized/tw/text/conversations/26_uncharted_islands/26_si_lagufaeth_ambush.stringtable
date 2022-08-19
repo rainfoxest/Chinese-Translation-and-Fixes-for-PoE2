@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>當你查探完環境後，你看見一大群魚人在埋伏以待——而且全都將吹鏢對準了你。</DefaultText>
+      <DefaultText>當你查探完環境後，你看見一大群魚人在埋伏以待—而且全都將吹鏢對準了你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,22 +31,22 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>你轉身準備逃跑，結果發現身後站著一名魚人戰士——正拿吹槍瞄著你。其在你有機會逃走之前吹發了吹鏢，正中你的胸口。</DefaultText>
+      <DefaultText>你轉身準備逃跑，結果發現身後站著一名魚人戰士—正拿吹槍瞄著你。其在你有機會逃走之前吹發了吹鏢，正中你的胸口。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>當你查探完環境後，你看見一大群魚人在埋伏以待——而且全都將吹鏢對準了你。</DefaultText>
+      <DefaultText>當你查探完環境後，你看見一大群魚人在埋伏以待—而且全都將吹鏢對準了你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[返回。]</DefaultText>
+      <DefaultText>[返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[從藏身處跳了出來，掏出武器。]</DefaultText>
+      <DefaultText>[從藏身處跳了出來，掏出武器]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[搜索這片區域。]</DefaultText>
+      <DefaultText>[搜索這片區域]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[試圖逃跑。]</DefaultText>
+      <DefaultText>[試圖逃跑]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,17 +88,17 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>你轉身準備逃跑，結果發現身後站著一名魚人戰士——正拿吹槍瞄著[SkillCheck 0]。它在你有機會逃走之前吹發了吹鏢，正中你的胸口。</DefaultText>
+      <DefaultText>你轉身準備逃跑，結果發現身後站著一名魚人戰士—正拿吹槍瞄著[SkillCheck 0]。它在你有機會逃走之前吹發了吹鏢，正中你的胸口。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[藏在林下植物中。]</DefaultText>
+      <DefaultText>[藏在林下植物中]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[進行伏擊。]</DefaultText>
+      <DefaultText>[進行伏擊]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -13,12 +13,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[仔細聽。]</DefaultText>
+      <DefaultText>[仔細聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[走近一點，以便更好地查看。]</DefaultText>
+      <DefaultText>[走近一點，以便更好地查看]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,7 +38,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>你深入峽谷。 [SkillCheck 0]行走在小石頭上，輕快地跑下滿是石塊的斜坡。
+      <DefaultText>你深入峽谷。[SkillCheck 0]行走在小石頭上，輕快地跑下滿是石塊的斜坡。
 
 前面的聲音突然停止了。峽谷變得出奇的安靜。</DefaultText>
       <FemaleText />
@@ -50,17 +50,17 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[潛行穿過蛇妖營地。]</DefaultText>
+      <DefaultText>[潛行穿過蛇妖營地]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[攻擊蛇妖。]</DefaultText>
+      <DefaultText>[攻擊蛇妖]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>你悄悄地從一個隱藏處移到另一個隱藏處， 以峽谷牆壁的陰影作掩護。</DefaultText>
+      <DefaultText>你悄悄地從一個隱藏處移到另一個隱藏處，以峽谷牆壁的陰影作掩護。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[原路返回。]</DefaultText>
+      <DefaultText>[原路返回]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

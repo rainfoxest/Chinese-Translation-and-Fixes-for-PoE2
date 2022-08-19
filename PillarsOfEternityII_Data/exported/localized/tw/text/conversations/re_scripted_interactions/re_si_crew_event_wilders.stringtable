@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[出去到甲板上。]</DefaultText>
+      <DefaultText>[出去到甲板上]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,7 +23,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[忽視問題讓其自行發展。]</DefaultText>
+      <DefaultText>[忽視問題讓其自行發展]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「一些船員正在吵鬧著要——」[Specified 1]咳嗽，用手掌摀住嘴。「與波爾塔串通一氣。我不知道他們在密謀什麼，但若任其發展，我擔心這畜生會把整條船給弄沉了。」</DefaultText>
+      <DefaultText>「一些船員正在吵鬧著要—」[Specified 1]咳嗽，用手掌摀住嘴。「與波爾塔串通一氣。我不知道他們在密謀什麼，但若任其發展，我擔心這畜生會把整條船給弄沉了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@
       <ID>21</ID>
       <DefaultText>你不知道波爾塔從哪裡找到那根帶節疤的大桿子，她前後揮舞著不讓憤怒的船員們靠近，但每一下揮舞都可能毀壞一面帆、欄杆或你船上的其它重要部件。
 
-[Specified 2]和[Specified 3]手中拿著刀，對食人魔大喊著誣蔑的話。</DefaultText>
+[Specified 2]和[Specified 3]手中拿著刀，對巨魔大喊著誣蔑的話。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[拔出你的武器。]</DefaultText>
+      <DefaultText>[拔出你的武器]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[殺了[Specified 0]。]</DefaultText>
+      <DefaultText>[殺了[Specified 0]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,21 +160,21 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>[殺了[Specified 2]。]</DefaultText>
+      <DefaultText>[殺了[Specified 2]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[殺了[Specified 3]。]</DefaultText>
+      <DefaultText>[殺了[Specified 3]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>波爾塔朝著船員揮舞著一根木棒，
 
-「愚蠢的基斯把一切壞事都怪罪在波爾塔的頭上。不怪自己。不怪別人。肯定是食人魔的錯。我要打碎他們的腦袋，因為他們不用腦袋思考。」
+「愚蠢的 &lt;g&gt;基斯&lt;/g&gt;把一切壞事都怪罪在波爾塔的頭上。不怪自己。不怪別人。肯定是巨魔的錯。我要打碎他們的腦袋，因為他們不用腦袋思考。」
 
-「那是一些無聊的廢話！」[Specified 2]瞪著食人魔說道。</DefaultText>
+「那是一些無聊的廢話！」[Specified 2]瞪著巨魔說道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,7 +207,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>&lt;ispeech&gt;只有被收買的基斯才能保證安全。基斯船長，你發誓我們不會受到傷害嗎？&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;只有被收買的 &lt;g&gt;基斯&lt;/g&gt;才能保證安全。基斯 船長，你發誓我們不會受到傷害嗎？&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,7 +222,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,11 +258,11 @@
       <ID>54</ID>
       <DefaultText>「我們不能什麼問題都解決，但我們肯定能解決我們抓住的那個食魔，把我們的所有儲備食物都吃光了。」
 
-「波爾塔吃的沒那麼多。只是個女人的飯量。」食人魔發出類似咕嚕聲或咯咯笑的聲音。
+「波爾塔吃的沒那麼多。只是個女人的飯量。」巨魔發出類似咕嚕聲或咯咯笑的聲音。
 
-[Specified 2]怒目而視。「我更擔心的是如果事情變得更糟，將會發生什麼。食人魔的判斷力可不怎麼樣。要是她開始打擊船身或桅桿，那會是何結果？」
+[Specified 2]怒目而視。「我更擔心的是如果事情變得更糟，將會發生什麼。巨魔的判斷力可不怎麼樣。要是她開始打擊船身或桅桿，那會是何結果？」
 
-「肯定會打擊小基斯的桅桿。」波爾塔不懷好意地看著[Specified 2]。</DefaultText>
+「肯定會打擊小 &lt;g&gt;基斯&lt;/g&gt;的桅桿。」波爾塔不懷好意地看著[Specified 2]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,7 +288,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>[用你的譯靈使能力解除蛛人的控制。]</DefaultText>
+      <DefaultText>[用你的譯靈使能力解除蛛人的控制]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -332,7 +332,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>傷心地搖搖頭，[Specified 2]咯咯笑起來。「你是要讓我們覺得應該把一個卑鄙的混蛋當成家人？「其他人也發起牢騷。</DefaultText>
+      <DefaultText>傷心地搖搖頭，[Specified 2]咯咯笑起來。「你是要讓我們覺得應該把一個卑鄙的混蛋當成家人？」其他人也發起牢騷。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,12 +349,12 @@
       <ID>67</ID>
       <DefaultText>大家都轉向你。
 
-「船長，什麼事？」 [Specified 2]問道。</DefaultText>
+「船長，什麼事？」[Specified 2]問道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>[混亂他們的思想。]</DefaultText>
+      <DefaultText>[混亂他們的思想]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -394,7 +394,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「就知道我們可以指望你把事情糾正過來，船長。」 [Specified 2]咧嘴而笑，然後帶著其他船員歌唱你的英勇和智慧。
+      <DefaultText>「就知道我們可以指望你把事情糾正過來，船長。」[Specified 2]咧嘴而笑，然後帶著其他船員歌唱你的英勇和智慧。
 
 隨著你的旅程繼續，歌聲一路伴隨著你。</DefaultText>
       <FemaleText />

@@ -1,186 +1,186 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\21_prologue\21_cv_benweth</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>34</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>1</ID>
-      <DefaultText>「哎喲，看看這是什麼啊？在狂風暴雨中失去方向的一條小船。」
+ <Name>conversations\21_prologue\21_cv_benweth</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>34</EntryCount>
+ <Entries>
+  <Entry>
+   <ID>1</ID>
+   <DefaultText>「哎喲，看看這是什麼啊？在狂風暴雨中失去方向的一條小船。」
 
 一臉凶相的海盜船長挺直了腰板，站在他的船員前面。他一邊吼著，一邊打量著你，頭髮被風吹得不斷在耳邊打轉。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2</ID>
-      <DefaultText>「起碼他還懂得問一聲。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3</ID>
-      <DefaultText>「這風實在是太喧囂了，你剛剛是不是說你打算投降了？真是奇怪啊。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4</ID>
-      <DefaultText>[攻擊] 「所有的火炮，朝那個大嘴巴的傢伙開火。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>6</ID>
-      <DefaultText>「你的嘴巴可真是能說會道。小心點，它可能比刀劍更容易讓你喪命。」
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>2</ID>
+   <DefaultText>「起碼他還懂得問一聲。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>3</ID>
+   <DefaultText>「這風實在是太喧囂了，你剛剛是不是說你打算投降了？真是奇怪啊。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>4</ID>
+   <DefaultText>[攻擊]「所有的火炮，朝那個話嘮開火。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>6</ID>
+   <DefaultText>「你的嘴巴可真是能說會道。小心點，它可能比刀劍更容易讓你喪命。」
 
 他咧嘴而笑，露出了殘缺不全的牙齒。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>7</ID>
-      <DefaultText>「準備好武器彈藥！我們要登船了。幹掉他們，夥計們！」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>8</ID>
-      <DefaultText>「我和你沒什麼過節，你為什麼要搶我的船？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>9</ID>
-      <DefaultText>「這和有沒有過節有關係嗎？我看到了，我想要，我就搶。就是這麼簡單。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>10</ID>
-      <DefaultText>「趕緊放手，我會讓你痛痛快快地去死。當然，會很痛苦，會到處都是血，但至少會給你個痛快。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>11</ID>
-      <DefaultText>[做個粗魯的手勢。]</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>12</ID>
-      <DefaultText>「你這麼做，是打算惹我生氣嗎？不，我根本不會被你這樣的人惹火。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>13</ID>
-      <DefaultText>艾德爾笑了起來，就像見到了老朋友一樣。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>14</ID>
-      <DefaultText>「我要把你的腦袋掛在我的船艙裡。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>15</ID>
-      <DefaultText>船長歪著頭，面無表情地看著你，風雨打在他滿是刀疤的臉上。即使是隔著這麼遠的距離，你也看得清他粗魯的表情——他下巴上的肌肉繃起來了。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>16</ID>
-      <DefaultText>「他想把褲衩套在腦袋上，為咱們獻上一支舞，是吧？我沒聽錯吧？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>17</ID>
-      <DefaultText>「說來，我也覺得我的房間裡一直缺了點什麼東西。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>18</ID>
-      <DefaultText>「我和我的手下準備在你的船上自便了。至於你的船是會被風暴刮沉，還是被我們的大炮擊沉，你就沒必要看著了。」
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>7</ID>
+   <DefaultText>「準備好武器彈藥！我們要登船了。幹掉他們，夥計們！」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>8</ID>
+   <DefaultText>「我和你沒什麼過節，你為什麼要搶我的船？」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>9</ID>
+   <DefaultText>「這和有沒有過節有關係嗎？我看到了，我想要，我就搶。就是這麼簡單。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>10</ID>
+   <DefaultText>「趕緊放手，我會讓你痛痛快快地去死。當然，會很痛苦，會到處都是血，但至少會給你個痛快。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>11</ID>
+   <DefaultText>[做個粗魯的手勢]</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>12</ID>
+   <DefaultText>「你這麼做，是打算惹我生氣嗎？不，我根本不會被你這樣的人惹火。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>13</ID>
+   <DefaultText>艾德爾笑了起來，就像見到了老朋友一樣。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>14</ID>
+   <DefaultText>「我要把你的腦袋掛在我的船艙裡。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>15</ID>
+   <DefaultText>船長歪著頭，面無表情地看著你，風雨打在他滿是刀疤的臉上。即使是隔著這麼遠的距離，你也看得清他粗魯的表情—他下巴上的肌肉繃起來了。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>16</ID>
+   <DefaultText>「他想把褲衩套在腦袋上，為咱們獻上一支舞，是吧？我沒聽錯吧？」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>17</ID>
+   <DefaultText>「說來，我一直覺得我的房間缺了點什麼。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>18</ID>
+   <DefaultText>「我和我的手下準備在你的船上自便了。至於你的船是會被風暴刮沉，還是被我們的大炮擊沉，你就沒必要看著了。」
 
 他哼了一聲，朝港口的大炮點了點頭。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>19</ID>
-      <DefaultText>「聽好了，夥計們。」他歪過了頭，看著他的船員們。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>30</ID>
-      <DefaultText>「沒錯，不過那條褲衩可要用你的人皮來做了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>31</ID>
-      <DefaultText>「我是個冒險家。」船長在傾盆大雨中聳了聳肩，對你慢慢露出了充滿殺意的笑容。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>34</ID>
-      <DefaultText>「如果你不介意的話，我要把你的船據為己有了。如果你介意，那就更好了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>35</ID>
-      <DefaultText>「海盜？！」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>36</ID>
-      <DefaultText>「完全正確，我就是海盜。而你嘛，你是個快要淹死的人。」</DefaultText>
-      <FemaleText>「完全正確，我就是海盜。而你嘛，你是個將死之人。」</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>37</ID>
-      <DefaultText>「既然你已經明白了。」他朝甲板吐了口唾沫。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>38</ID>
-      <DefaultText>「你們願意怎麼處置這些船員都行， 但不准給我抓俘虜，一個活口都不要留。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>39</ID>
-      <DefaultText>「哦，我喜歡你這種精神。」他放身大笑，笑聲蓋過了辟里啪啦的雨聲。
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>19</ID>
+   <DefaultText>「聽好了，夥計們。」他歪過了頭，看著他的船員們。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>30</ID>
+   <DefaultText>「沒錯，不過那條褲衩可要用你的人皮來做了。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>31</ID>
+   <DefaultText>「我是個冒險家。」船長在傾盆大雨中聳了聳肩，對你慢慢露出了充滿殺意的笑容。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>34</ID>
+   <DefaultText>「如果你不介意的話，我要把你的船據為己有了。如果你介意，那就更好了。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>35</ID>
+   <DefaultText>「海盜？！」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>36</ID>
+   <DefaultText>「完全正確，我就是海盜。而你嘛，你是個將死之人。」</DefaultText>
+   <FemaleText>「完全正確，我就是海盜。而你嘛，你是個將死之人。」</FemaleText>
+  </Entry>
+  <Entry>
+   <ID>37</ID>
+   <DefaultText>「既然你已經明白了。」他朝甲板吐了口唾沫。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>38</ID>
+   <DefaultText>「你們願意怎麼處置這些船員都行，但不准給我抓俘虜，一個活口都不要留。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>39</ID>
+   <DefaultText>「哦，我喜歡你這種精神。」他放身大笑，笑聲蓋過了辟里啪啦的雨聲。
 
 之後他突然安靜了下來，臉上充滿了憤怒的神色。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>40</ID>
-      <DefaultText>「但就算這樣，你們也沒人能活命。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>41</ID>
-      <DefaultText>「我要去找別的大魚了，像是有尖牙的那種大魚。我相信你們應該不會把這邊的事情辦砸了，等你們搶到船之後，千萬不要把它弄傷了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>42</ID>
-      <DefaultText>「最喜歡這個手勢了，有時候我還會把手指搖起來，像是在撓癢癢一樣。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>43</ID>
-      <DefaultText>「肯定是有人付你錢，你才會說這麼多話。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>44</ID>
-      <DefaultText>「付我錢的那個人就是你，這樣不是很好嗎？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>45</ID>
-      <DefaultText>「別以為我會屈服於普通的海盜。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>46</ID>
-      <DefaultText>「誰說我是普通的海盜了？我坐著整個皇族海盜團的第四把交椅，能被我劫掠是你的榮譽。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>47</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-  </Entries>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>40</ID>
+   <DefaultText>「但就算這樣，你們也沒人能活命。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>41</ID>
+   <DefaultText>「我要去找別的大魚了，像是有尖牙的那種大魚。我相信你們應該不會把這邊的事情辦砸了，等你們搶到船之後，千萬不要把它弄傷了。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>42</ID>
+   <DefaultText>「最喜歡這個手勢了，有時候我還會把手指搖起來，像是在撓癢癢一樣。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>43</ID>
+   <DefaultText>「肯定是有人付你錢，你才會說這麼多話。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>44</ID>
+   <DefaultText>「付我錢的那個人就是你，這樣不是很好嗎？」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>45</ID>
+   <DefaultText>「別以為我會屈服於普通的海盜。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>46</ID>
+   <DefaultText>「誰說我是普通的海盜了？我坐著整個皇族海盜團的第四席，能被我劫掠是你的榮譽。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>47</ID>
+   <DefaultText />
+   <FemaleText />
+  </Entry>
+ </Entries>
 </StringTableFile>

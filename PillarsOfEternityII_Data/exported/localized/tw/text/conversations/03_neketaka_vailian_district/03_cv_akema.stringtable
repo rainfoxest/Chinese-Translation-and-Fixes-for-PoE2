@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>「幸會，陌生人。這個街區真是個好地方啊，不是嗎？」
 
-這位胡亞納女性帶著渴望的神情看向遠方。</DefaultText>
+這位 &lt;g&gt;胡亞納&lt;/g&gt;女性帶著渴望的神情看向遠方。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,7 +23,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「你在明亮澡堂做事嗎？」</DefaultText>
+      <DefaultText>「你在輝光澡堂做事嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,12 +53,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「女王把城裡的這塊區域賜給了瓦利亞外來者。他們在這裡組織商務和貿易活動，用雙手開墾亡焰列島，並把挖到的寶貝運到海外。」她瞥了一眼港口。</DefaultText>
+      <DefaultText>「女王把城裡的這塊區域賜給了 &lt;g&gt;瓦利亞&lt;/g&gt;外來者。他們在這裡組織商務和貿易活動，用雙手開墾 亡焰列島，並把挖到的寶貝運到海外。」她瞥了一眼港口。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「好客的女王給了亡焰皇家商行類似的特許權。我認為你在涅克塔卡城期間應該盡量多走走看看。」</DefaultText>
+      <DefaultText>「好客的女王給了 &lt;g&gt;亡焰皇家商行&lt;/g&gt;類似的特許權。我認為你在 &lt;g&gt;涅克塔卡&lt;/g&gt;城期間應該盡量多走走看看。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[扭頭看她看的東西。]</DefaultText>
+      <DefaultText>[扭頭看她看的東西]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,12 +80,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「我本不必來到如此遠離峽谷的地方。我原先在明亮澡堂有個體面的工作，但最近失業了。」</DefaultText>
+      <DefaultText>「我注定不該到離 &lt;g&gt;邊沟區&lt;/g&gt;以外的地方謀生。我原先在輝光澡堂有個體面的工作，但最近失業了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>「由於我現在沒了工作，我得在花光積蓄之前找到工作，不然我只能以乞丐的身份回去找羅帕魯同胞了。」她皺起眉，再次注視著你。</DefaultText>
+      <DefaultText>「由於我現在沒了工作，我得在花光積蓄之前找到工作，不然我只能做回 &lt;g&gt;羅帕魯&lt;/g&gt;當個乞丐。」她皺起眉，再次注視著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,7 +117,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「不管我在那裡過得如何，我都極力推薦那個地方。你在這北邊的佩瑞琪之望那裡就能找到明亮澡堂。」</DefaultText>
+      <DefaultText>「不管我在那裡過得如何，我都極力推薦那個地方。你在這北邊的 &lt;g&gt;佩瑞琪&lt;/g&gt;之望那裡就能找到輝光澡堂。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,7 +132,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「沒錯，那裡是&lt;i&gt;非常&lt;/i&gt;值得稱道的地方！」
+      <DefaultText>「Ekera，那裡是&lt;i&gt;非常&lt;/i&gt;值得稱道的地方！」
 
 他歎了口氣，閉上雙眼。</DefaultText>
       <FemaleText />
@@ -149,7 +149,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「當然。沿著這條路往北走，一直往山上爬。那裡是這座城市的最高點。」</DefaultText>
+      <DefaultText>「Ekera。沿著這條路往北走，一直往山上爬。那裡是這座城市的最高點。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

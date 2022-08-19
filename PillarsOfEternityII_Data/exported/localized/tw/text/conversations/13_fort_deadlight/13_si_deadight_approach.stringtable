@@ -6,47 +6,47 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>透過遠方的海霧和岩石的陰影，舷窗堡壘浮現在更遠處的地平線上。</DefaultText>
+      <DefaultText>透過遠方的海霧和岩石的陰影，死燈堡壘浮現在更遠處的地平線上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>哪怕是對最老練的水手來說，接近這樣一座海盜的堡壘也是一件非常冒險的事情。凡是沒有掛著皇族海盜旗的船隻，一旦進入舷窗堡壘，都可能會遭到劫掠。</DefaultText>
+      <DefaultText>哪怕是對最老練的水手來說，接近這樣一座海盜的堡壘也是一件非常冒險的事情。凡是沒有掛著皇族海盜旗的船隻，一旦進入死燈堡壘，都可能會遭到劫掠。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[權衡一下選擇。]</DefaultText>
+      <DefaultText>[權衡一下選擇]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[升起皇族海盜旗，在舷窗堡壘港口下錨。]</DefaultText>
+      <DefaultText>[升起皇族海盜旗，在死燈堡壘港口下錨]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[在夜色的掩護下，划著小船進入港口。]</DefaultText>
+      <DefaultText>[在夜色的掩護下，划著小船進入港口]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[朝堡壘開炮。]</DefaultText>
+      <DefaultText>[朝堡壘開炮]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>你打起了海盜旗，接近了舷窗堡壘，平安無事地進入了堡壘。進去之後，你提醒自己要小心點，不要引起別人的懷疑。</DefaultText>
+      <DefaultText>你打起了海盜旗，接近了死燈堡壘，平安無事地進入了堡壘。進去之後，你提醒自己要小心點，不要引起別人的懷疑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「是亞拜登的鐵傢伙，船長，這些大炮比我記憶中的樣子還要大。」塞拉芬站在甲板上，抬頭看著堡壘，從牙縫裡吸了一口冷氣。</DefaultText>
+      <DefaultText>「是 &lt;g&gt;亞拜登&lt;/g&gt;的鐵傢伙，船長，這些大炮比我記憶中的樣子還要大。」塞拉芬站在甲板上，抬頭看著堡壘，從牙縫裡吸了一口冷氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,14 +108,14 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[攻打舷窗堡壘。]</DefaultText>
+      <DefaultText>[攻打死燈堡壘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>「裝填炮彈，瞄準港口的大炮！原地待命，準備開炮！」
 
-船員們在甲板上跑來跑去，你揚起了帆，準備全速趕往舷窗堡壘，準備戰鬥。
+船員們在甲板上跑來跑去，你揚起了帆，準備全速趕往死燈堡壘，準備戰鬥。
 
 你的船以前所未有的速度，全速衝向戒備森嚴的要塞，甲板在你腳下不斷起伏。</DefaultText>
       <FemaleText />
@@ -131,14 +131,14 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[全速衝進堡壘港口。]</DefaultText>
+      <DefaultText>[全速衝進堡壘港口]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>堡壘又發射了一輪密集炮擊。船上不斷有木板發出受到轟擊的爆炸聲，但你讓舵手成功調轉[Player Ship]的方向避免了全盤受損。
 
-煙雲遮天蔽日，你指揮著船隻穿越其中——距離碼頭已經近多了。</DefaultText>
+煙雲遮天蔽日，你指揮著船隻穿越其中—距離碼頭已經近多了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,7 +150,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[繼續前進。]</DefaultText>
+      <DefaultText>[繼續前進]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[繼續前進。]</DefaultText>
+      <DefaultText>[繼續前進]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,12 +195,12 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[潛入水下並接近舷窗堡壘。]</DefaultText>
+      <DefaultText>[潛入水下並接近死燈堡壘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>你潛入水中，趁對方沒發現自己時全速向著舷窗堡壘前進。</DefaultText>
+      <DefaultText>你潛入水中，趁對方沒發現自己時全速向著死燈堡壘前進。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

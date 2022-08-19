@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\abilities</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>13</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>4797</ID>
-      <DefaultText>融合</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4800</ID>
-      <DefaultText>共價鍵</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4801</ID>
-      <DefaultText>腐蝕性溶劑</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4806</ID>
-      <DefaultText>共生體</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4836</ID>
-      <DefaultText>高聲嘶鳴</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4837</ID>
-      <DefaultText>消耗</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4838</ID>
-      <DefaultText>催化毒液</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4839</ID>
-      <DefaultText>召喚幼崽</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4851</ID>
-      <DefaultText>女皇之怒</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4857</ID>
-      <DefaultText>融合</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4858</ID>
-      <DefaultText>使用者與目標隊友融合，獲得高額的力量等級和生命值加成，但會讓使用者脫離戰鬥。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4861</ID>
-      <DefaultText>石化毒液</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4862</ID>
-      <DefaultText>來自下顎的毒液進入目標體內，將其石化。如果目標在石化狀態下死亡，噬晶幼蛛會從其屍體中湧出，暫時加入隊伍。</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>game\abilities</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>13</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>4797</ID>
+     <DefaultText>融合</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4800</ID>
+     <DefaultText>共價鍵</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4801</ID>
+     <DefaultText>腐蝕性溶劑</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4806</ID>
+     <DefaultText>共生體</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4836</ID>
+     <DefaultText>高聲嘶鳴</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4837</ID>
+     <DefaultText>消耗</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4838</ID>
+     <DefaultText>催化毒液</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4839</ID>
+     <DefaultText>召喚幼崽</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4851</ID>
+     <DefaultText>女皇之怒</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4857</ID>
+     <DefaultText>融合</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4858</ID>
+     <DefaultText>使用者與目標隊友融合，獲得大量 威力等級 和 生命值 加成，但會讓使用者脫離戰鬥。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4861</ID>
+     <DefaultText>石化毒液</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4862</ID>
+     <DefaultText>來自下顎的毒液進入目標體內，將其石化。如果目標在石化狀態下死亡，噬晶幼蛛會從其屍體中湧出，暫時加入隊伍。</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

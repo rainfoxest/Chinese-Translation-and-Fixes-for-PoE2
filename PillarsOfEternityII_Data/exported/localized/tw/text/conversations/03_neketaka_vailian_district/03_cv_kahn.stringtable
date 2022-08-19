@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>沒見過。」</DefaultText>
+      <DefaultText>「沒見過。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「喂！你是一艘船的船長吧，你手下的船員裡有一個年邁的聚鹿精靈，對吧？」</DefaultText>
+      <DefaultText>「喂！你是一艘船的船長吧，你手下的船員裡有一個年邁的 &lt;g&gt;聚鹿&lt;/g&gt;精靈，對吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[撒謊]「之前在努亞堡見到的。」</DefaultText>
+      <DefaultText>[撒謊]「之前在 &lt;g&gt;努亞堡&lt;/g&gt;見到的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,12 +123,12 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「我&lt;i&gt;從&lt;/i&gt;鹿林一路追這蠢貨到亡焰列島。我比誰都清楚，他就躲在列島的某處。」</DefaultText>
+      <DefaultText>「我&lt;i&gt;從&lt;/i&gt; &lt;g&gt;鹿林&lt;/g&gt;一路追這蠢貨到 亡焰列島。我比誰都清楚，他就躲在列島的某處。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「前兩天有人在涅克塔卡城見到了那個老醉鬼。他絕不可能在國王港。」她朝你翻了翻白眼，歎了口氣。</DefaultText>
+      <DefaultText>「前兩天有人在 &lt;g&gt;涅克塔卡&lt;/g&gt;城見到了那個老醉鬼。他絕不可能在 國王港。」她朝你翻了翻白眼，歎了口氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,12 +143,12 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「聽著，我找的這傢伙欠了我一大筆錢。5000枚銅幣。如果你幫我找到他，我就分你兩成。」</DefaultText>
+      <DefaultText>「聽著，我找的這傢伙欠了我一大筆錢。5000枚 銅幣。如果你幫我找到他，我就分你兩成。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「在一座供奉娥狄卡的巨型金字塔裡，不過那座金字塔不知在什麼地方。」</DefaultText>
+      <DefaultText>「在一座供奉 &lt;g&gt;娥狄卡&lt;/g&gt;的巨型金字塔裡，不過那座金字塔不知在什麼地方。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +240,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>「好吧好吧，看在昂德拉大奶頭的份上，好吧。給你四成，然後奧斯瓦爾德有其它什麼小玩意兒給你的話，你也可以留著。」</DefaultText>
+      <DefaultText>「好吧好吧，看在 &lt;g&gt;昂德拉&lt;/g&gt;大奶頭的份上，好吧。給你四成，然後奧斯瓦爾德有其它什麼小玩意兒給你的話，你也可以留著。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,7 +380,7 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>[撒謊]「哦，他有很多錢。有大把金幣、一些銀幣，還有一大袋銅幣……」</DefaultText>
+      <DefaultText>[撒謊]「哦，他有很多錢。有大把金幣、一些銀幣，還有一大袋 銅幣 ……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -410,7 +410,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -500,7 +500,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>[翻白眼，聳肩肩。]</DefaultText>
+      <DefaultText>[翻白眼，聳肩肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -540,14 +540,14 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>卡恩翻了翻奧斯瓦爾德的日誌，然後停下來，睜大眼睛看著你。有人在最後一頁上潦草地畫了娥狄卡的破碎王冠符號。
+      <DefaultText>卡恩翻了翻奧斯瓦爾德的日誌，然後停下來，睜大眼睛看著你。有人在最後一頁上潦草地畫了 &lt;g&gt;娥狄卡&lt;/g&gt;的破碎王冠符號。
 
 卡恩喃喃自語。她的手指順著符號游動，皺起了眉頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「奧斯瓦爾德，你現在真的攪進這趟渾水了啊？居然惹上了&lt;i&gt;娥狄卡信徒&lt;/i&gt;？該死的老笨蛋。」她難過地搖搖頭，啪地一下合上日誌。</DefaultText>
+      <DefaultText>「奧斯瓦爾德，你現在真的攪進這趟渾水了啊？居然惹上了&lt;i&gt; &lt;g&gt;娥狄卡&lt;/g&gt;信徒&lt;/i&gt;？該死的老笨蛋。」她難過地搖搖頭，啪地一下合上日誌。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -607,7 +607,7 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>「如果改變主意可以回來找我——當然是在你喝完&lt;i&gt;西北風&lt;/i&gt;之後。」她薄薄的嘴唇擠出個得意的獰笑，然後揮手向你做了個脫帽禮。</DefaultText>
+      <DefaultText>「如果改變主意可以回來找我—當然是在你喝完&lt;i&gt;西北風&lt;/i&gt;之後。」她薄薄的嘴唇擠出個得意的獰笑，然後揮手向你做了個脫帽禮。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -664,7 +664,7 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>「5000銅幣，信不信由你。」</DefaultText>
+      <DefaultText>「5000 銅幣，信不信由你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -694,7 +694,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>「噢。我認錯人了。對不起，陌生人。我看到穿著聚鹿服裝的精靈就激動了。」</DefaultText>
+      <DefaultText>「噢。我認錯人了。對不起，陌生人。我看到穿著 &lt;g&gt;聚鹿&lt;/g&gt;服裝的精靈就激動了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -719,7 +719,7 @@
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>「你、你這不要臉的白癡！但願海麗婭的飛鼠吃掉你的雙眼！」盛怒之下，她全身發抖，邁步離開。</DefaultText>
+      <DefaultText>「你、你這不要臉的白癡！但願 &lt;g&gt;海麗婭&lt;/g&gt;的飛鼠吃掉你的雙眼！」盛怒之下，她全身發抖，邁步離開。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -734,7 +734,7 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>「不好意思，我要走了。願沃艾珥的魔寵們保佑你。」
+      <DefaultText>「不好意思，我要走了。願 &lt;g&gt;沃艾珥&lt;/g&gt;的魔寵們保佑你。」
 
 卡恩向你略微點了一下頭，一口把剩下的酒喝乾了。然後頭也不回地離開了酒館。</DefaultText>
       <FemaleText />
@@ -746,9 +746,9 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>「當我們的船靠近涅克塔卡的時候，水手長告訴我在卡拉海峽的一個島上有座奇怪的寺廟，正好位於城市的西南面。
+      <DefaultText>「當我們的船靠近 &lt;g&gt;涅克塔卡&lt;/g&gt;的時候，水手長告訴我在卡拉海峽的一個島上有座奇怪的寺廟，正好位於城市的西南面。
 
-「她不願意告訴它是做什麼的，但——當我問她時，她露出了非常驚恐的表情。」</DefaultText>
+「她不願意告訴它是做什麼的，但—當我問她時，她露出了非常驚恐的表情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -765,7 +765,7 @@
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>「我是淪落在鹿林鄉間的無數無名貴族之一。你聽過反抗之戰的英雄艾德瑪斯·哈德萊特吧？他可以說是我的曾曾祖輩。」</DefaultText>
+      <DefaultText>「我是淪落在 &lt;g&gt;鹿林&lt;/g&gt;鄉間的無數無名貴族之一。你聽過反抗之戰的英雄艾德瑪斯·哈德萊特吧？他可以說是我的曾曾祖輩。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -785,7 +785,7 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>[聳肩。]</DefaultText>
+      <DefaultText>[聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -802,7 +802,7 @@
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>「聽著，我找的這傢伙欠了我一大筆錢。5000枚銅幣。如果你幫我找到他，我就分你兩成。」</DefaultText>
+      <DefaultText>「聽著，我找的這傢伙欠了我一大筆錢。5000枚 銅幣。如果你幫我找到他，我就分你兩成。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -812,7 +812,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>「奧斯瓦爾德死了。他被娥狄卡的義務警員處死了。」</DefaultText>
+      <DefaultText>「奧斯瓦爾德死了。他被 &lt;g&gt;娥狄卡&lt;/g&gt;的執刑人處死了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,12 +836,12 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>「你必須穿過半個亡焰列島才能到涅克塔卡。有什麼能吸引你的注意力嗎？」</DefaultText>
+      <DefaultText>「你得穿過半個亡焰列島才來到 涅克塔卡。途中有什麼吸引了你注意嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>「島上零星分佈著無數個小巖洞。你可以......把它們甄別出來嗎？」</DefaultText>
+      <DefaultText>「島上零星分佈著無數個小巖洞。你可以……把它們甄別出來嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,19 +851,19 @@
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>「也不算吧。坦白說，我從反抗灣出來後，大部分的行程都花費在建立堡壘上面，目的就是想讓昂德拉嘗嘗失敗的滋味。
+      <DefaultText>「也不算吧。坦白說，我從反抗灣出來後，大時間在舷牆附近，好讓 &lt;g&gt;昂德拉&lt;/g&gt;嚐嚐我的嘔吐。」
 
 「我&lt;i&gt;討厭&lt;/i&gt;坐船。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>「對——問你我在做什麼呢？」她搖了搖了頭，並給你以苦笑。</DefaultText>
+      <DefaultText>「對—問你我在做什麼呢？」她搖了搖了頭，並給你以苦笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -873,7 +873,7 @@
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>「媽的，要是我能找到船長，告訴我去往亡焰列島的通道就好了。我打賭他知道......
+      <DefaultText>「媽的，要是我能找到那個帶我們來亡焰列島的船長就好了。我打賭他知道......」
 
 「等一下。」她一邊眨眼，一邊回憶著。</DefaultText>
       <FemaleText />
@@ -885,7 +885,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -895,7 +895,7 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>[聳聳肩。]「聽起來像個可以做事的地方。」</DefaultText>
+      <DefaultText>[聳聳肩]「聽起來像個可以做事的地方。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -905,7 +905,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>一名年長的馬塔魯男人站在一圈年輕胡亞納人中間，他們似乎是他的學徒。他的長袍上面點綴著石英珠子，身上的香水味瀰漫在整個房間裡面。
+      <DefaultText>一名年長的 &lt;g&gt;馬塔魯&lt;/g&gt;男人站在一圈年輕 &lt;g&gt;胡亞納&lt;/g&gt;人中間，他們似乎是他的學徒。他的長袍上面點綴著石英珠子，身上的香水味瀰漫在整個房間裡面。
 
 但是在華貴的外表之下，他仍然有著戰士的靈魂。他的手臂上堆疊著荒廢掉的肌肉，身上的肥肉像是絲綢一般層疊在一起。
 
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[查看高野的靈魂。]</DefaultText>
+      <DefaultText>[查看塔卡努的靈魂]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,7 +72,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「這樣的寶物本就應當與世界分享。胡亞納必須向世界展現自己的榮耀。」</DefaultText>
+      <DefaultText>「這樣的寶物本就應當與世界分享。&lt;g&gt;胡亞納&lt;/g&gt;必須向世界展現自己的榮耀。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -92,7 +92,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「言之有理。你幫助了胡亞納人民很多。」</DefaultText>
+      <DefaultText>「言之有理。你幫助了 &lt;g&gt;胡亞納&lt;/g&gt;人民很多。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -197,7 +197,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「因為這是女神昂德拉的聖物！所有人都知道這其中代表的特權。」他將自己的手指關節捏的發白。
+      <DefaultText>「因為這是女神 &lt;g&gt;昂德拉&lt;/g&gt;的聖物！所有人都知道這其中代表的特權。」他將自己的手指關節捏的發白。
 
 他轉向了自己的學徒們。</DefaultText>
       <FemaleText />
@@ -209,7 +209,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「海螺是胡亞納人好幾百年間的交流工具。這一個就是。」</DefaultText>
+      <DefaultText>「海螺是 &lt;g&gt;胡亞納&lt;/g&gt;人好幾百年間的交流工具。這一個就是。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -234,14 +234,14 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「很多年以前，有一個類似的貝殼。當舊城沉沒時，昂德拉的信徒們聚集在了那個號角周圍，祈禱著神的拯救。」
+      <DefaultText>「很多年以前，有一個類似的貝殼。當舊城沉沒時，昂德拉 的信徒們聚集在了那個號角周圍，祈禱著神的拯救。」
 
 他靠近了你，臉上掛著說書人的微笑。他的語氣中帶著一股不祥的平淡感。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「但是昂德拉並不是一名仁慈的女神。她並沒有將他們從廢墟之中拯救出來，昂德拉用貝殼把他們拉入了海淵並說等到貝殼再次浮現的時候他們就能出來。」
+      <DefaultText>「但是 &lt;g&gt;昂德拉&lt;/g&gt;並不是一名仁慈的女神。她並沒有將他們從廢墟之中救出，她反而把他們拉入了海淵與貝殼一同陪葬，並說等到貝殼再次浮現的時候他們就能出來。」
 
 他笑著往後靠，雙手緊緊扣住了自己寬厚的腹部。</DefaultText>
       <FemaleText />
@@ -258,7 +258,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>「歡迎！被昂德拉觸碰之人來我這真是讓我蓬蓽生輝。」他低下了頭，但是他的視線歡愉地集中在了你身上。</DefaultText>
+      <DefaultText>「歡迎！被 &lt;g&gt;昂德拉&lt;/g&gt;觸碰之人來我這真是讓我蓬蓽生輝。」他低下了頭，但是他的視線歡愉地集中在了你身上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,12 +273,12 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「還有海麗婭眷顧之人！神靈們今天真是對我青睞有加。」他吸了吸肚子朝帕蕾吉娜露出了一個巨大的微笑。</DefaultText>
+      <DefaultText>「還有 &lt;g&gt;海麗婭&lt;/g&gt;眷顧之人！神靈們今天真是對我青睞有加。」他吸了吸肚子朝帕蕾吉娜露出了一個巨大的微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>「你帶了一名受到海麗婭眷顧之人來？我榮幸之至。」他吸了吸肚子朝帕蕾吉娜露出了一個巨大的微笑。</DefaultText>
+      <DefaultText>「你帶了一名受到 &lt;g&gt;海麗婭&lt;/g&gt;眷顧之人來？我榮幸之至。」他吸了吸肚子朝帕蕾吉娜露出了一個巨大的微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -305,7 +305,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>「昂德拉是失物之神。傳說中提到她會用海螺之樂呼喚失蹤之物。」</DefaultText>
+      <DefaultText>「&lt;g&gt;昂德拉&lt;/g&gt;是失物之神。傳說中提到她會用海螺之樂呼喚失蹤之物。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,12 +320,12 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>「當然了！我怎麼可以阻止昂德拉的使者呢？」</DefaultText>
+      <DefaultText>「當然了！我怎麼可以阻止 &lt;g&gt;昂德拉&lt;/g&gt;的使者呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>「我的人民賣掉了自己的土地，賣掉了魂珀，也賣掉了自己的尊嚴。恩加蒂肯定都記著。」</DefaultText>
+      <DefaultText>「我的人民賣掉了自己的土地，賣掉了魂珀，也賣掉了自己的尊嚴。恩加蒂 肯定都記著。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -345,7 +345,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「不要回來了。」
+      <DefaultText>「不要再來。」
 
 他的學徒們都把手放在了自己的武器上。</DefaultText>
       <FemaleText />
@@ -357,7 +357,7 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>「威脅一名德高望重的馬塔魯肯定不是什麼好方法。」</DefaultText>
+      <DefaultText>「威脅一名德高望重的 &lt;g&gt;馬塔魯&lt;/g&gt;肯定不是什麼好方法。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,7 +402,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>「要想辦法治治瓦哈奇。」</DefaultText>
+      <DefaultText>「要想辦法治治 &lt;g&gt;瓦哈奇&lt;/g&gt;。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -439,7 +439,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>「如果說守著一個貝殼就能獲得恩加蒂的青睞的話那我肯定是被人騙了。」泰克胡捋了捋頭髮，咯咯笑著。</DefaultText>
+      <DefaultText>「如果說守著一個貝殼就能獲得 &lt;g&gt;恩加蒂&lt;/g&gt;的青睞的話那我肯定是被人騙了。」泰克胡捋了捋頭髮，咯咯笑著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -449,12 +449,12 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>「份子是胡亞納的方式。貝殼是傳到了你那邊，不是贈予的。」</DefaultText>
+      <DefaultText>「份子 是 &lt;g&gt;胡亞納&lt;/g&gt;的方式。貝殼是傳到了你那邊，不是贈予的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>「昂德拉會懲罰那些拒絕放手之人。如果你抓住她的聖物不放，想想她會怎麼想吧。」</DefaultText>
+      <DefaultText>「&lt;g&gt;昂德拉&lt;/g&gt;會懲罰那些拒絕放手之人。如果你抓住她的聖物不放，想想她會怎麼想吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -479,21 +479,21 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>「我就猜王室會要處理他們。你需要能找到的一切優勢！」</DefaultText>
+      <DefaultText>「我就猜王室會要處理他們。你需要能得到的一切優勢！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>你的精粹離開了你的身體，高野的靈魂像是某種溫暖的油滑物質一般包裹住了你。
+      <DefaultText>你的精粹離開了你的身體，塔卡努的靈魂像是某種溫暖的油滑物質一般包裹住了你。
 
 他的恐懼與疑問滲了進來，你的視線轉到了他那裡。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>起初，你擔心這個[Player Subrace]是瓦利亞收債人派來的。
+      <DefaultText>起初，你擔心這個[Player Subrace]是 &lt;g&gt;瓦利亞&lt;/g&gt;收債人派來的。
 
-利用你自己遠近聞名的好客有可能是有點不光彩，但是話說回來那些瓦利亞人可是異常狡猾。</DefaultText>
+利用你自己遠近聞名的好客有可能是有點不光彩，但是話說回來那些 &lt;g&gt;瓦利亞&lt;/g&gt;人可是異常狡猾。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -527,21 +527,21 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>「對，我本來就想要換掉屋頂。也許再添點黃金點綴……」他沉迷在了思緒之中，緊張的視線環顧著莊園。
+      <DefaultText>「Ekera，我本來就想要換掉屋頂。也許再添點黃金點綴……」他沉迷在了思緒之中，緊張的視線環顧著莊園。
 
 他清了清嗓子並將注意力重新轉到了你身上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>「對，高野。所有人都知道這是青睞的象徵。」
+      <DefaultText>「Ekera，塔卡努。所有人都知道這是青睞的象徵。」
 
-她瞬間接了話頭，這回應突然而又自發，就像是高野剛剛給了她一條命令一樣。</DefaultText>
+她瞬間接了話頭，這回應突然而又自發，就像是塔卡努剛剛給了她一條命令一樣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>你從高野的靈魂中撤了回來，他正帶著平靜的笑容看著你。</DefaultText>
+      <DefaultText>你從塔卡努的靈魂中撤了回來，他正帶著平靜的笑容看著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,7 +556,7 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>「我不是什麼庫亞魯商人。我不會出售我的寶藏。」</DefaultText>
+      <DefaultText>「我不是什麼 &lt;g&gt;庫亞魯&lt;/g&gt;商人。我不會出售我的寶藏。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -576,7 +576,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>但是高野的誇耀對你來說空虛無比。</DefaultText>
+      <DefaultText>但是塔卡努的誇耀對你來說空虛無比。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,7 +591,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>高野繼續朝著你微笑著，他完全沒有理會亞洛斯的嘲諷。</DefaultText>
+      <DefaultText>塔卡努繼續朝著你微笑著，他完全沒有理會亞洛斯的嘲諷。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -601,22 +601,22 @@
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>「房子不錯。如果有這地方從山坡上推下去就可惜了。」</DefaultText>
+      <DefaultText>「房子不錯。要是有人把這地方推落山坡就可惜了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>他笑了起來。「有關你們的傳說早就眾人皆知了。我這裡可不是什麼三教九流之地。」他看了一眼泰克胡，如果不是那麼傲慢人們說不定還會以為他是個嚴肅之人。</DefaultText>
+      <DefaultText>他笑著說。「有關你的事跡早就眾人皆知了。我先跟你說這裡是個莊嚴的地方。」他看了一眼泰克胡，如果不是那麼傲慢人們說不定還會以為他是個嚴肅之人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>「你們努瓦泰人的幽默感真是太奇怪了！」他大笑了起來，但是眼神裡帶了一絲恐慌。</DefaultText>
+      <DefaultText>「你們 &lt;g&gt;努瓦泰&lt;/g&gt;人的幽默感真是太奇怪了！」他大笑了起來，但是眼神裡帶了一絲恐慌。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>[向他展示深淵號角。]「瞧，我也有個特殊的貝殼！」</DefaultText>
+      <DefaultText>[向他展示深淵號角]「瞧，我也有個特殊的貝殼！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -631,7 +631,7 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>「嗯，不過沒必要洋洋自得。」他一副自尊心受傷的樣子。</DefaultText>
+      <DefaultText>「Ekera，不過沒必要洋洋自得。」他一副自尊心受傷的樣子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

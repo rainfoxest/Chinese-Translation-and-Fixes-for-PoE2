@@ -6,19 +6,19 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>這扇窗戶能看到佩瑞琪之望的街道。亞柯彌莊園的二層就在對面。
+      <DefaultText>這扇窗戶能看到 &lt;g&gt;佩瑞琪&lt;/g&gt;之望的街道。亞柯彌 的莊園的二層就在對面。
 
 只要有正確的工具與高超的投擲技巧，就能成功越過其間。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[爬向莊園。]</DefaultText>
+      <DefaultText>[爬向莊園]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[找人將抓鉤扔過莊園的欄杆。]</DefaultText>
+      <DefaultText>[找人將抓鉤扔過莊園的欄杆]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,12 +57,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[研究距離。]</DefaultText>
+      <DefaultText>[研究距離]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[將抓鉤扔過莊園的欄杆。]</DefaultText>
+      <DefaultText>[將抓鉤扔過莊園的欄杆]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,7 +84,7 @@
       <ID>22</ID>
       <DefaultText>鐵爪構裝體發出一聲金屬般的巨吼，立刻衝往現場查看。
 
-你聽到了震耳的鑼聲——毫無疑問莊園內的守衛已經發出了警報。</DefaultText>
+你聽到了震耳的鑼聲—毫無疑問莊園內的守衛已經發出了警報。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,7 +99,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[爬向黑暗櫥櫃。]</DefaultText>
+      <DefaultText>[爬向黑暗櫥櫃]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>亡焰列島的水面透明得就像一塊彩色玻璃，和緩的風向引導著[Player Ship]。五香燉湯的香氣從甲板下方飄上來。
+      <DefaultText>亡焰列島 的水面透明得就像一塊彩色玻璃，和緩的風向引導著[Player Ship]。五香燉湯的香氣從甲板下方飄上來。
 
 [Specified 0] 和 [Specified 1] 跨在舷緣上，腿和釣魚桿在水上方晃蕩。</DefaultText>
       <FemaleText />
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[在船上設置防禦結界。]</DefaultText>
+      <DefaultText>[在船上設置防禦結界]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -64,14 +64,14 @@
 
 [Specified 1]拍了拍[Specified 0]的背。「別緊張，只是個玩笑。」
 
-但[Specified 0]聳聳肩把手滑開。「以昂德拉之名，那究竟是什麼？」</DefaultText>
+但[Specified 0]聳聳肩把手滑開。「以 &lt;g&gt;昂德拉&lt;/g&gt;之名，那究竟是什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>你看。一個黑影在水下移動。它幾乎是在地平線的邊緣，但它迅速接近。
 
-[Specified 0] 站起來。「伽拉溫的一個幼體。它正朝我們而來。」</DefaultText>
+[Specified 0] 站起來。「伽拉溫 的一個幼體。它正朝我們而來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,12 +133,12 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「前幾天我自己真正中了一次獎，」 [Specified 0]說。「雖然脫鉤了。」
+      <DefaultText>「前幾天我自己真正中了一次獎，」[Specified 0]說。「雖然脫鉤了。」
 
 「我就告訴你說要用個大些的鉤。」[Specified 1]咯咯笑道。「好像想起來了，在女王港那個黑色眼睛的酒吧招待員你最終也沒勾搭上。」</DefaultText>
       <FemaleText />
@@ -163,7 +163,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[仔細辨別。]</DefaultText>
+      <DefaultText>[仔細辨別]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,7 +190,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「是刺鯊……恩加蒂的深海刺客。母神給了我們一場嚴峻的考驗。」
+      <DefaultText>「是刺鯊……&lt;g&gt;恩加蒂&lt;/g&gt;的深海刺客。母神給了我們一場嚴峻的考驗。」
 
 泰克胡把手從眼前拿開。</DefaultText>
       <FemaleText />
@@ -236,12 +236,12 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>[投擲手雷。]</DefaultText>
+      <DefaultText>[投擲手雷]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>[召喚風來吹帆。]</DefaultText>
+      <DefaultText>[召喚風來吹帆]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,14 +288,14 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>鯊魚重新露出水面——手雷直接飛進了它的嘴裡。
+      <DefaultText>鯊魚重新露出水面—手雷直接飛進了它的嘴裡。
 
 它的腦袋像中了屍爆一樣被炸成了碎塊。腦花和面部肌肉的碎屑像下雨一樣落在甲板上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>鯊魚再次浮上來——手雷晃晃悠悠地朝它嘴巴飛去，遠遠地偏到水裡，最後只留下撲通的一聲。
+      <DefaultText>鯊魚再次浮上來—手雷晃晃悠悠地朝它嘴巴飛去，遠遠地偏到水裡，最後只留下撲通的一聲。
 
 野獸衝向船殼側面。</DefaultText>
       <FemaleText />
@@ -348,7 +348,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>[召喚風來吹帆。]</DefaultText>
+      <DefaultText>[召喚風來吹帆]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -358,12 +358,12 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>[投擲手雷。]</DefaultText>
+      <DefaultText>[投擲手雷]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>鯊魚重新露出水面——手雷直接飛進了它的嘴裡。
+      <DefaultText>鯊魚重新露出水面—手雷直接飛進了它的嘴裡。
 
 它的腦袋像中了屍爆一樣被炸成了碎塊。腦花和面部肌肉的碎屑像下雨一樣落在甲板上。</DefaultText>
       <FemaleText />
@@ -456,7 +456,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>[扔個船員喂鯊魚，趁機逃離。]</DefaultText>
+      <DefaultText>[扔個船員喂鯊魚，趁機逃離]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,17 +466,17 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>[把[Specified 0]丟出去。]</DefaultText>
+      <DefaultText>[把[Specified 0]丟出去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>[把[Specified 1]丟出去。]</DefaultText>
+      <DefaultText>[把[Specified 1]丟出去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>[把[Specified 3]丟出去。]</DefaultText>
+      <DefaultText>[把[Specified 3]丟出去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -498,7 +498,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>[扔個船員喂鯊魚，趁機逃離。]</DefaultText>
+      <DefaultText>[扔個船員喂鯊魚，趁機逃離]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -508,7 +508,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>[把[Specified 0]丟出去。]</DefaultText>
+      <DefaultText>[把[Specified 0]丟出去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -520,12 +520,12 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>[把[Specified 1]丟出去。]</DefaultText>
+      <DefaultText>[把[Specified 1]丟出去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>[把[Specified 3]丟出去。]</DefaultText>
+      <DefaultText>[把[Specified 3]丟出去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

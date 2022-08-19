@@ -42,12 +42,12 @@
       <ID>10</ID>
       <DefaultText>[Specified 4]指著前方。「礁石，船長。我曾聽說有船從這些礁石中穿過以節省時間。我們可以試試，或者繞行。
 
-[Specified 0]歎息道。」沒有儀器，完全瞎碰運氣？我的意見是繞行這個地方——無論它是怎樣一個地方——無論花多少時間。」</DefaultText>
+[Specified 0]歎息道。「沒有儀器，完全瞎碰運氣？我的意見是繞行這個地方—無論它是怎樣一個地方—無論花多少時間。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[Specified 2]抱怨。「幾小時？幾天？沒有什麼比等待更糟的了，船長。穿過去吧——我們將為任何情況作好準備。」</DefaultText>
+      <DefaultText>[Specified 2]抱怨。「幾小時？幾天？沒有什麼比等待更糟的了，船長。穿過去吧—我們將為任何情況作好準備。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「昂德拉保護我們，」[Specified 0]咕噥道，把沒用的指南針掛在一顆釘子上。</DefaultText>
+      <DefaultText>「&lt;g&gt;昂德拉&lt;/g&gt;保護我們，」[Specified 0]咕噥道，把沒用的指南針掛在一顆釘子上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,14 +81,14 @@
       <ID>17</ID>
       <DefaultText>[Specified 1]向船外看去，輕聲低語。「……無目之面的眼睛……」
 
-就在水面下——以及在你船的周圍——你隱約看到多只眼睛在看著你。
+就在水面下—以及在你船的周圍—你隱約看到多只眼睛在看著你。
 
 然而，當它們閃爍起來，這些眼睛化成了數以千計的魚，它們的銀藍色側腹分佈著有如瞳孔般的黑點。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>終於，淺灘和魂珀已經落在你的身後，眼睛似的魚群也放棄了它們的追逐。[Specified 0]檢查指南針——現在又保持指北了——鬆了口氣。</DefaultText>
+      <DefaultText>終於，淺灘和魂珀已經落在你的身後，眼睛似的魚群也放棄了它們的追逐。[Specified 0]檢查指南針—現在又保持指北了—鬆了口氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,7 +105,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[Specified 1]盯著海上遠處。「沃艾珥之影降臨我們身上，窺視著我們穿過深處。」
+      <DefaultText>[Specified 1]盯著海上遠處。「沃艾珥 之影降臨我們身上，窺視著我們穿過深處。」
 
 [Specified 0]對[Specified 1]茫然地眨著眼。</DefaultText>
       <FemaleText />
@@ -152,7 +152,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[閉上你的眼睛掌舵。]</DefaultText>
+      <DefaultText>[閉上你的眼睛掌舵]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,7 +162,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,12 +179,12 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>憑著堅定的領導，你指導[Player Ship]穿過了礁石。船在優雅地穿行，雖然你聽到你的船員咕噥著說看到一些船隻殘骸——那些船看來沒有獲得神的引導</DefaultText>
+      <DefaultText>憑著堅定的領導，你指導[Player Ship]穿過了礁石。船在優雅地穿行，雖然你聽到你的船員咕噥著說看到一些船隻殘骸—那些船看來沒有獲得神的引導</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>終於，淺灘和魂珀已經落在你的身後，眼睛似的魚群也放棄了它們的追逐。[Specified 0]檢查指南針——現在又保持指北了——鬆了口氣。</DefaultText>
+      <DefaultText>終於，淺灘和魂珀已經落在你的身後，眼睛似的魚群也放棄了它們的追逐。[Specified 0]檢查指南針—現在又保持指北了—鬆了口氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

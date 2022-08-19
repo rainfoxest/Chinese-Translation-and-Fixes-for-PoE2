@@ -32,7 +32,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[登船搶掠。] 「看這樣子，他們毫無抵抗之力！拿走他們所有值錢的東西！」</DefaultText>
+      <DefaultText>[登船搶掠]「看這樣子，他們毫無抵抗之力！拿走他們所有值錢的東西！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -44,7 +44,7 @@
       <ID>13</ID>
       <DefaultText>那船長痛苦地看著你的船員把他們剩下的微薄物資拖到你的船上。
 
-「昂德拉會懲罰你的。」他想吐口痰，但太乾渴而吐不出來。
+「&lt;g&gt;昂德拉&lt;/g&gt;會懲罰你的。」他想吐口痰，但太乾渴而吐不出來。
 
 在駛離那首瘟疫船時，你看到那個船長絕望地倒在甲板上。</DefaultText>
       <FemaleText />
@@ -82,7 +82,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「疫病，」船長悲傷地說。「這病沒有死人，睿姆岡眼神移開，但它讓我們軟弱無力，迅速傳染了全體船員。」</DefaultText>
+      <DefaultText>「疫病，」船長悲傷地說。「這病沒有死人，睿姆岡 眼神移開，但它讓我們軟弱無力，迅速傳染了全體船員。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,7 +117,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <DefaultText>[使用小型望遠鏡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,7 +168,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>艾德爾皺眉。「他們要是真想去，可以自己去見昂德拉呀。搞不懂咱們幹嘛要為他們作決定。」</DefaultText>
+      <DefaultText>艾德爾皺眉。「他們要是真想去，可以自己去見 &lt;g&gt;昂德拉&lt;/g&gt;呀。搞不懂咱們幹嘛要為他們作決定。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,7 +192,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「老天在看著，船長——始終判斷是採取行動好，還是不去干涉為妙。」
+      <DefaultText>「老天在看著，船長—始終判斷是採取行動好，還是不去干涉為妙。」
 
 ，歎了口氣，泰克胡撓了撓後腦勺。</DefaultText>
       <FemaleText />
@@ -242,7 +242,7 @@
 
 船向一邊傾斜，海水一湧而入，你看到船員們跳入水中。他們的尖叫聲傳來。
 
-「真浪費。」 [Specified 2]皺眉道。「我們不該看看有什麼可撈的嗎？瘟疫沒有了，對吧？」</DefaultText>
+「真浪費。」[Specified 2]皺眉道。「我們不該看看有什麼可撈的嗎？瘟疫沒有了，對吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,14 +274,14 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>[登船搶掠。] 「看這樣子，他們毫無抵抗之力！拿走他們所有值錢的東西！」</DefaultText>
+      <DefaultText>[登船搶掠]「看這樣子，他們毫無抵抗之力！拿走他們所有值錢的東西！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
       <DefaultText>那船長痛苦地看著你的船員把他們剩下的微薄物資拖到你的船上。
 
-她沮喪地歎了口氣。「我早該知道。但願睿姆岡碾碎你的靈魂。」</DefaultText>
+她沮喪地歎了口氣。「我早該知道。但願 &lt;g&gt;睿姆岡&lt;/g&gt;碾碎你的靈魂。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,7 +339,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>當那名水手拖著腳從瘟疫船走到你的船上，你的船員讓開了寬寬的一條道。當那個病人經過，一些船員作出保護的姿態，或咕噥著祈禱睿姆岡。</DefaultText>
+      <DefaultText>當那名水手拖著腳從瘟疫船走到你的船上，你的船員讓開了寬寬的一條道。當那個病人經過，一些船員作出保護的姿態，或咕噥著祈禱 睿姆岡。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@
       <ID>93</ID>
       <DefaultText>一道閃光從地平線以弧線劃過天空，然後變成一片紅雲，慢慢消散。
 
-「瘟疫船，船長，」[Specified 1]小聲說道。「看起來像是努瓦泰的平底帆船，他在發出求助信號。」
+「瘟疫船，船長，」[Specified 1]小聲說道。「看起來像是 &lt;g&gt;努瓦泰&lt;/g&gt;的平底帆船，他在發出求助信號。」
 
 [Specified 3]和[Specified 0]緊張地相視一眼。</DefaultText>
       <FemaleText />
@@ -406,17 +406,17 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>[殺了他。]</DefaultText>
+      <DefaultText>[殺了他]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>[把他擊倒在地。]</DefaultText>
+      <DefaultText>[把他擊倒在地]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>[用魔法使他跌倒。]</DefaultText>
+      <DefaultText>[用魔法使他跌倒]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,7 +436,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>[Specified 3]呆呆地看著。「你瘋了嗎，船長？是凍骨病啊！若移冰地的水手們帶回來的天災！如果我們感染上，它肯定會使我們的船完蛋。</DefaultText>
+      <DefaultText>[Specified 3]呆呆地看著。「你瘋了嗎，船長？是凍骨病啊！若移冰地 的水手們帶回來的天災！如果我們感染上，它肯定會使我們的船完蛋。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,7 +468,7 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>「我相信努瓦泰將會報答我們能夠提供的任何幫助。以某種方式。」
+      <DefaultText>「我相信 &lt;g&gt;努瓦泰&lt;/g&gt;將會報答我們能夠提供的任何幫助。以某種方式。」
 
 麥婭用舌頭舔著她的口腔內壁，考慮著。</DefaultText>
       <FemaleText />

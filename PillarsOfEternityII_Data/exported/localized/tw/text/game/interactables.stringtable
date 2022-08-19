@@ -6,7 +6,7 @@
 	<Entries>
 		<Entry>
 			<ID>0</ID>
-			<DefaultText>預設字串。不要使用。</DefaultText>
+			<DefaultText>Default String. Do Not Use.</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -36,7 +36,7 @@
 		</Entry>
 		<Entry>
 			<ID>6</ID>
-			<DefaultText>這個鱷魚神像挺罕見的。這隻祭碗上的胡亞納雕刻表明，它曾經挺受人尊敬。</DefaultText>
+			<DefaultText>這個鱷魚神像挺罕見的。這個祭碗上的胡亞納雕刻表明，它曾經挺受人尊敬。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -286,7 +286,7 @@
 		</Entry>
 		<Entry>
 			<ID>58</ID>
-			<DefaultText>你在背包裡發現了一張捲起來的地圖。上面畫了一條從西部島嶼提卡瓦拉出發的路線。</DefaultText>
+			<DefaultText>你在背包裡發現了一張捲起來的地圖。上面畫了一條從西部島嶼 &lt;g&gt;提卡瓦拉&lt;/g&gt;出發的路線。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -321,7 +321,7 @@
 		</Entry>
 		<Entry>
 			<ID>65</ID>
-			<DefaultText>瘦削男的商店</DefaultText>
+			<DefaultText>紡錘人的商店</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -415,7 +415,7 @@
 		</Entry>
 		<Entry>
 			<ID>83</ID>
-			<DefaultText>明亮澡堂</DefaultText>
+			<DefaultText>輝光澡堂</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -470,7 +470,7 @@
 		</Entry>
 		<Entry>
 			<ID>94</ID>
-			<DefaultText>骨頭摸上去很溫暖。</DefaultText>
+			<DefaultText>骨頭摸上去暖暖的。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -495,7 +495,7 @@
 		</Entry>
 		<Entry>
 			<ID>99</ID>
-			<DefaultText>狹長的巷道通向了終點的死路。</DefaultText>
+			<DefaultText>巷子通向一個死胡同。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -595,7 +595,7 @@
 		</Entry>
 		<Entry>
 			<ID>120</ID>
-			<DefaultText>桑扎的地圖市場</DefaultText>
+			<DefaultText>桑扎的製圖店</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -625,7 +625,7 @@
 		</Entry>
 		<Entry>
 			<ID>126</ID>
-			<DefaultText>這些亡焰列島的地圖不完整，上面滿是未探索地區的空白。</DefaultText>
+			<DefaultText>這些 &lt;g&gt;亡焰列島&lt;/g&gt;的地圖不完整，上面滿是未探索地區的空白。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -790,7 +790,7 @@
 		</Entry>
 		<Entry>
 			<ID>159</ID>
-			<DefaultText>制鞋匠</DefaultText>
+			<DefaultText>鞋匠</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1005,7 +1005,7 @@
 		</Entry>
 		<Entry>
 			<ID>203</ID>
-			<DefaultText>銘文寫著：柯基的豐收輕而易舉。死者的果實支撐著生者。</DefaultText>
+			<DefaultText>銘文寫著：柯爾奇的豐收輕而易舉。死者的果實支撐著生者。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1055,7 +1055,7 @@
 		</Entry>
 		<Entry>
 			<ID>213</ID>
-			<DefaultText>奧里奧柯基</DefaultText>
+			<DefaultText>奧里奧柯爾奇</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1070,7 +1070,7 @@
 		</Entry>
 		<Entry>
 			<ID>216</ID>
-			<DefaultText>哈桑戈要塞——拓展版設計</DefaultText>
+			<DefaultText>哈桑戈要塞—拓展版設計</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1675,12 +1675,12 @@
 		</Entry>
 		<Entry>
 			<ID>352</ID>
-			<DefaultText>隊長之駐</DefaultText>
+			<DefaultText>大船長套房</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>353</ID>
-			<DefaultText>狼藉一片</DefaultText>
+			<DefaultText>血流成河</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1785,7 +1785,7 @@
 		</Entry>
 		<Entry>
 			<ID>376</ID>
-			<DefaultText>努瓦泰美德之書「譚威歐拉托哈」的複製品。</DefaultText>
+			<DefaultText>努瓦泰美德之書《譚威·歐拉·托哈》的複製品。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1810,7 +1810,7 @@
 		</Entry>
 		<Entry>
 			<ID>383</ID>
-			<DefaultText>珊瑚下面的牌匾寫著：「送給亡焰列島，努瓦泰的一部分，珊瑚匠露瓦的禮物。論榮光，你的蘭迦努伊。」</DefaultText>
+			<DefaultText>珊瑚下面的牌匾寫著：「送給 亡焰列島，&lt;g&gt;努瓦泰&lt;/g&gt;的一部分，珊瑚匠露瓦的禮物。論榮光，你的 蘭迦努伊。」</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1885,7 +1885,7 @@
 		</Entry>
 		<Entry>
 			<ID>400</ID>
-			<DefaultText>獻給司坎的祭品懸掛在神龕裡。</DefaultText>
+			<DefaultText>獻給 司坎 的祭品懸掛在神龕裡。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2090,7 +2090,7 @@
 		</Entry>
 		<Entry>
 			<ID>444</ID>
-			<DefaultText>珊瑚下面的牌匾寫著：「我們塑形珊瑚，我們也將塑形國家。論勝利，你的蘭迦努伊。」</DefaultText>
+			<DefaultText>珊瑚下面的牌匾寫著：「我們塑形珊瑚，我們也將塑形國家。論勝利，你的 蘭迦努伊。」</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2305,17 +2305,17 @@
 		</Entry>
 		<Entry>
 			<ID>488</ID>
-			<DefaultText>潮濕灣谷</DefaultText>
+			<DefaultText>濕潤灣谷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>489</ID>
-			<DefaultText>半海沉積</DefaultText>
+			<DefaultText>亞深海精華</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>490</ID>
-			<DefaultText>深淵</DefaultText>
+			<DefaultText>深海水潤</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2405,12 +2405,12 @@
 		</Entry>
 		<Entry>
 			<ID>514</ID>
-			<DefaultText>流明之庭酒吧</DefaultText>
+			<DefaultText>璀璨廣場酒吧</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>516</ID>
-			<DefaultText>流明之庭雜貨</DefaultText>
+			<DefaultText>璀璨廣場雜貨</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2435,7 +2435,7 @@
 		</Entry>
 		<Entry>
 			<ID>521</ID>
-			<DefaultText>官員休息室</DefaultText>
+			<DefaultText>軍官休息室</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2450,7 +2450,7 @@
 		</Entry>
 		<Entry>
 			<ID>525</ID>
-			<DefaultText>官員的休息區</DefaultText>
+			<DefaultText>船副休息室</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2475,7 +2475,7 @@
 		</Entry>
 		<Entry>
 			<ID>530</ID>
-			<DefaultText>致努瓦泰的榮光與蘭迦努伊的力量，2818年</DefaultText>
+			<DefaultText>致 &lt;g&gt;努瓦泰&lt;/g&gt;的榮光與 蘭迦努伊 的力量，2818年</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2515,7 +2515,7 @@
 		</Entry>
 		<Entry>
 			<ID>538</ID>
-			<DefaultText>板上寫著科赫帕與坦格羅亞在原初時就在吞噬造物的科赫帕與坦格羅亞的傳說。</DefaultText>
+			<DefaultText>板上寫著 &lt;g&gt;科赫帕&lt;/g&gt;與 &lt;g&gt;坦格羅亞&lt;/g&gt;在原初時就在吞噬造物的傳說。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2535,7 +2535,7 @@
 		</Entry>
 		<Entry>
 			<ID>542</ID>
-			<DefaultText>通知上寫著：「僅為亡焰皇家商行官員服務。」</DefaultText>
+			<DefaultText>通知上寫著：「僅為 &lt;g&gt;亡焰皇家商行&lt;/g&gt;官員服務。」</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2580,7 +2580,7 @@
 		</Entry>
 		<Entry>
 			<ID>551</ID>
-			<DefaultText>私密舞房</DefaultText>
+			<DefaultText>私人舞蹈房</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2595,7 +2595,7 @@
 		</Entry>
 		<Entry>
 			<ID>554</ID>
-			<DefaultText>鉤刺島奴隸</DefaultText>
+			<DefaultText>鉤刺島奴隸販子</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2610,7 +2610,7 @@
 		</Entry>
 		<Entry>
 			<ID>557</ID>
-			<DefaultText>努瓦泰最甘醇的精選烈酒。</DefaultText>
+			<DefaultText>&lt;g&gt;努瓦泰&lt;/g&gt;最甘醇的精選烈酒。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2620,7 +2620,7 @@
 		</Entry>
 		<Entry>
 			<ID>559</ID>
-			<DefaultText>這個拉紳的盔甲與肉體上滿是深深的切口。</DefaultText>
+			<DefaultText>這個 &lt;g&gt;拉紳&lt;/g&gt;的盔甲與肉體上滿是深深的切口。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2810,7 +2810,7 @@
 		</Entry>
 		<Entry>
 			<ID>602</ID>
-			<DefaultText>畫廊的角落裡傳來刺鼻的氣味。招牌上寫著：「柯基峽谷。」</DefaultText>
+			<DefaultText>畫廊的角落裡傳來刺鼻的氣味。招牌上寫著：「柯爾奇峽谷。」</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2850,7 +2850,7 @@
 		</Entry>
 		<Entry>
 			<ID>610</ID>
-			<DefaultText>明亮澡堂</DefaultText>
+			<DefaultText>輝光澡堂</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2870,7 +2870,7 @@
 		</Entry>
 		<Entry>
 			<ID>614</ID>
-			<DefaultText>哀歌女士恩加蒂憂傷不已。
+			<DefaultText>哀歌女士 &lt;g&gt;恩加蒂&lt;/g&gt;憂傷不已。
 天堂的珍珠球穿過她的眼前……</DefaultText>
 			<FemaleText/>
 		</Entry>
@@ -2941,7 +2941,7 @@
 		</Entry>
 		<Entry>
 			<ID>631</ID>
-			<DefaultText>壁畫褪色很嚴重，但撒奧斯·壹·阿卡農的剪影仍清晰可見。</DefaultText>
+			<DefaultText>儘管壁畫褪色很嚴重，撒奧斯·伊克斯·阿卡農的剪影仍清晰可見。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -3001,7 +3001,7 @@
 		</Entry>
 		<Entry>
 			<ID>644</ID>
-			<DefaultText>胡亞納柯基農場</DefaultText>
+			<DefaultText>胡亞納柯爾奇果農場</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>

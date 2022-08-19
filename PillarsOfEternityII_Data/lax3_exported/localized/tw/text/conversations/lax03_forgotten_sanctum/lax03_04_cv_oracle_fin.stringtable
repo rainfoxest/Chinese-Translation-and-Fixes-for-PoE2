@@ -40,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[搖頭。]「你完了。」</DefaultText>
+      <DefaultText>[搖頭]「你完了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,7 +65,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>&lt;ispeech&gt;綱要——在你手裡！我能感覺到它們的存在！&lt;/ispeech&gt;
+      <DefaultText>&lt;ispeech&gt;綱要—在你手裡！我能感覺到它們的存在！&lt;/ispeech&gt;
 
 一根眼柄注視著你的行李，以及裡面的神種。</DefaultText>
       <FemaleText />
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[將神種交給它。]「給。」</DefaultText>
+      <DefaultText>[將神種交給它]「給。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,7 +159,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「親愛的，你清醒過來了嗎？你當時比平時更加心煩意亂。」 </DefaultText>
+      <DefaultText>「親愛的，你清醒過來了嗎？你當時比平時更加心煩意亂。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,7 +174,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「親愛的，你還好嗎？你憂心忡忡的眼神令我不安。」泰克胡揉了揉你的後頸，仔細打量著你。 </DefaultText>
+      <DefaultText>「親愛的，你還好嗎？你憂心忡忡的眼神令我不安。」泰克胡揉了揉你的後頸，仔細打量著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -194,7 +194,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>「眼球一直在監視著你。它好像朝我眨了眨。」 </DefaultText>
+      <DefaultText>「眼球一直在監視著你。它好像朝我眨了眨。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -234,7 +234,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[不警告就殺了它。]</DefaultText>
+      <DefaultText>[不警告就殺了它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「船長，現在不是你大發慈悲的時候！快殺了它，不然死的就是我們！」 </DefaultText>
+      <DefaultText>「船長，現在不是你大發慈悲的時候！快殺了它，不然死的就是我們！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「魔鬼，那是我們的選擇。不是你的。」 </DefaultText>
+      <DefaultText>「魔鬼，那是我們的選擇。不是你的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>「我準備閉上眼休息一會兒了。你呢？」麥婭朝先知譏諷道並將手伸向武器。 </DefaultText>
+      <DefaultText>「我準備閉上眼休息一會兒了。你呢？」麥婭朝先知譏諷道並將手伸向武器。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>&lt;ispeech&gt;我——我們永遠不會放你自由，靈視者！&lt;/ispeech&gt;</DefaultText>
+      <DefaultText>&lt;ispeech&gt;我—我們永遠不會放你自由，靈視者！&lt;/ispeech&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,12 +426,12 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>「靈視者……你在玩什麼把戲？別拿我的希望和抱負開玩笑。我沒這個心情。」 </DefaultText>
+      <DefaultText>「靈視者……你在玩什麼把戲？別拿我的希望和抱負開玩笑。我沒這個心情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>「不是把戲。我只是在允許你放手一搏。你以後恐怕碰不上這麼好的事了吧。」 </DefaultText>
+      <DefaultText>「不是把戲。我只是在允許你放手一搏。你以後恐怕碰不上這麼好的事了吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,22 +441,22 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>「我只是想清淨清淨。去吧。你在這裡會更快樂。」 </DefaultText>
+      <DefaultText>「我只是想清淨清淨。去吧。你在這裡會更快樂。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>「骷髏，我做事不必向你解釋。快去，別等我改變主意。」 </DefaultText>
+      <DefaultText>「骷髏，我做事不必向你解釋。快去，別等我改變主意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>「雖然我不知道你在打什麼算盤，但既然你我動機一致……」康賽豪轉身面對先知。 </DefaultText>
+      <DefaultText>「雖然我不知道你在打什麼算盤，但既然你我動機一致……」康賽豪轉身面對先知。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>「雖然我們的同伴關係病態扭曲又讓我受盡欺凌，但這一次我們意見一致。」康賽豪轉身面對先知。 </DefaultText>
+      <DefaultText>「雖然我們的同伴關係病態扭曲又讓我受盡欺凌，但這一次我們意見一致。」康賽豪轉身面對先知。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>「我已經準備好升格了。終於能得到持久不壞的軀體了。」 </DefaultText>
+      <DefaultText>「我已經準備好升格了。終於能得到持久不壞的軀體了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,12 +481,12 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>[走開。]</DefaultText>
+      <DefaultText>[走開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>&lt;ispeech&gt;綱要——在你手裡！我能感覺到它們的存在！&lt;/ispeech&gt;
+      <DefaultText>&lt;ispeech&gt;綱要—在你手裡！我能感覺到它們的存在！&lt;/ispeech&gt;
 
 一根眼柄注視著你的行李，以及裡面的神種。</DefaultText>
       <FemaleText />

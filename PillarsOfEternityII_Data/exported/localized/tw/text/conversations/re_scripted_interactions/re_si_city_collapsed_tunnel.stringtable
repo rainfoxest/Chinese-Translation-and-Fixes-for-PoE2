@@ -13,17 +13,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[派人去把路上的石板推開。]</DefaultText>
+      <DefaultText>[派人去把路上的石板推開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[用錘子和鑿將石板砸成兩半。]</DefaultText>
+      <DefaultText>[用錘子和鑿將石板砸成兩半]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[找到一條路繞過崩塌區域。]</DefaultText>
+      <DefaultText>[找到一條路繞過崩塌區域]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -44,7 +44,7 @@
 
 他們成群結隊向前，可怕的洞穴蝙蝠也倉皇從他們身邊逃開......向你飛來。
 
-胡亞納驚慌失措的逃開了，只留你一人獨自面對群獸。</DefaultText>
+ &lt;g&gt;胡亞納&lt;/g&gt;驚慌失措的逃開了，只留你一人獨自面對群獸。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,7 +53,7 @@
 
 一塊山崖從上方掉落下來，砸中了你的背部和肩膀然後碎裂開來。
 
-「恩加蒂在下面。」工頭退縮了。「想把上面的土擦掉嗎？」</DefaultText>
+「&lt;g&gt;恩加蒂&lt;/g&gt;在下面。」工頭退縮了。「想把上面的土擦掉嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,40 +72,40 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[將石板推到路邊。]</DefaultText>
+      <DefaultText>[將石板推到路邊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>你讓工人們去應付那些苦差事。
 
-這街道就像海怪的觸手般扭曲，不過你已經穿越了涅克塔卡區域很多次，對地形十分瞭解。</DefaultText>
+這街道就像海怪的觸手般扭曲，不過你已經穿越了 &lt;g&gt;涅克塔卡&lt;/g&gt;區域很多次，對地形十分瞭解。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>你覺得繞過隧道應該跟穿過隧道一樣簡單，不過涅克塔卡證明你錯了。
+      <DefaultText>你覺得繞過隧道應該跟穿過隧道一樣簡單，不過 &lt;g&gt;涅克塔卡&lt;/g&gt;證明你錯了。
 
 你遇到了幾個幫不上忙的當地人，又走了幾條死胡同，再花了幾個小時，終於繞過了隧道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>一股散發著臭味的風從你的臉龐呼嘯而過，隨著風而來的除了一股類似海上的惡臭之外，也從黑暗中帶來一些喧鬧聲——一陣嘰嘰喳喳的吵鬧聲，愚蠢又刺耳。
+      <DefaultText>一股散發著臭味的風從你的臉龐呼嘯而過，隨著風而來的除了一股類似海上的惡臭之外，也從黑暗中帶來一些喧鬧聲—一陣嘰嘰喳喳的吵鬧聲，愚蠢又刺耳。
 
 突然，你覺得自己聽到了打響指的聲音......</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[跟工人交談。]</DefaultText>
+      <DefaultText>[跟工人交談]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>羅帕魯在他們之中喃喃自語，當你走上前去，他立刻閉上了嘴避開了他們的眼神。
+      <DefaultText>羅帕魯 在他們之中喃喃自語，當你走上前去，他立刻閉上了嘴避開了他們的眼神。
 
-那個庫亞魯工頭透過指縫瞥了一眼然後舉起了手。「你好，尊貴的靈視者。我們的工作是修復這個隧道，不過這個通道暫時關閉了。」他低頭鞠躬。「涅克塔卡的僕人會為任何障礙或是延遲道歉。」</DefaultText>
+那個 庫亞魯 工頭透過指縫瞥了一眼然後舉起了手。「你好，尊貴的靈視者。我們的工作是修復這個隧道，不過這個通道暫時關閉了。」他低頭鞠躬。「涅克塔卡 的僕人會為任何障礙或是延遲道歉。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,7 +120,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>「請記住，昂德拉只用了時間和水就重塑了整個大陸。」</DefaultText>
+      <DefaultText>「請記住，昂德拉 只用了時間和水就重塑了整個大陸。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,18 +130,18 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>其中一個羅帕魯搖了搖頭。「你肯定感覺到了！一條巨龍剛剛飛過了這個島！它讓整個城市為之震顫！」
+      <DefaultText>其中一個 &lt;g&gt;羅帕魯&lt;/g&gt;搖了搖頭。「你肯定感覺到了！一條巨龍剛剛飛過了這個島！它讓整個城市為之震顫！」
 
-庫亞魯皺著眉頭看著說話的那個人然後向海裔揮了揮手。「你安靜點。」
+ 庫亞魯 皺著眉頭看著說話的那個人然後向海裔揮了揮手。「你安靜點。」
 
-他轉過頭將注意力回到你身上。「他們應該少說點話，這是為了他們好。涅克塔卡的僕從會為任何不友好和冒犯而道歉。」
+他轉過頭將注意力回到你身上。「他們應該少說點話，這是為了他們好。涅克塔卡 的僕從會為任何不友好和冒犯而道歉。」
 
 他又鞠了一躬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>庫亞魯睜大了眼睛。「等一等靈視者！整個城市將這個任務託付給了&lt;i&gt;我們&lt;/i&gt;！我們一直在工作！您不需要動一根手指！」</DefaultText>
+      <DefaultText>庫亞魯 睜大了眼睛。「等一等靈視者！整個城市將這個任務託付給了&lt;i&gt;我們&lt;/i&gt;！我們一直在工作！您不需要動一根手指！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>胡亞納對你眨眼。他們似乎不明白你想說什麼。</DefaultText>
+      <DefaultText>&lt;g&gt;胡亞納&lt;/g&gt;對你眨眼。他們似乎不明白你想說什麼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>然而，當你那可怕的面容盯著他們看時，他們的工作效率更高了。幾個小時之後，汗流浹背的羅帕魯鑿穿了障礙。</DefaultText>
+      <DefaultText>然而，當你那可怕的面容盯著他們看時，他們的工作效率更高了。幾個小時之後，汗流浹背的 &lt;g&gt;羅帕魯&lt;/g&gt;鑿穿了障礙。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>羅帕魯互相點了點頭，受到你的鼓舞，他們重新振作起來回去工作。幾個小時之後，汗流浹背的羅帕魯成功打開了隧道。</DefaultText>
+      <DefaultText>羅帕魯 互相點了點頭，受到你的鼓舞，他們重新振作起來回去工作。幾個小時之後，汗流浹背的 &lt;g&gt;羅帕魯&lt;/g&gt;成功打開了隧道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,14 +217,14 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>你將障礙拋在了身後，依靠[Specified 1]的指引穿過了涅克塔卡那條曲曲折折的小道。</DefaultText>
+      <DefaultText>你將障礙拋在了身後，依靠[Specified 1]的指引穿過了 &lt;g&gt;涅克塔卡&lt;/g&gt;那條曲曲折折的小道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>[Specified 1]保證附近有一條近道，然後你就讓那些工人忙活去了。
 
-不幸的是，涅克塔卡錯綜複雜的隧道、街道和巷道對[Specified 1]和你來說都太難辨認，你浪費了大量的時間在這個城市裡瞎轉悠。</DefaultText>
+不幸的是，涅克塔卡 錯綜複雜的隧道、街道和巷道對[Specified 1]和你來說都太難辨認，你浪費了大量的時間在這個城市裡瞎轉悠。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>黃銅堡和峽谷之間有著錯綜複雜的天然隧道和基斯開鑿的隧道。
+      <DefaultText>黃銅堡和 &lt;g&gt;邊沟區&lt;/g&gt;之間有著錯綜複雜的天然隧道和 &lt;g&gt;基斯&lt;/g&gt;開鑿的隧道。
 
 大部分較大的通道都是交通繁忙，為大家所熟悉。但是大通道的狹窄分支就通向一堆扭曲的大廳或者乾脆是死胡同。</DefaultText>
       <FemaleText />

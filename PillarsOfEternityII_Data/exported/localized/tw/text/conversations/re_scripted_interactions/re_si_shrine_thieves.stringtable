@@ -6,26 +6,26 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>你注意到了路旁的一尊飽經風霜的巨大石像。似乎是一尊胡亞納神龕。</DefaultText>
+      <DefaultText>你注意到了路旁的一尊飽經風霜的巨大石像。似乎是一尊 &lt;g&gt;胡亞納&lt;/g&gt;神龕。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[褻瀆神龕。]</DefaultText>
+      <DefaultText>[褻瀆神龕]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[繼續旅程。]</DefaultText>
+      <DefaultText>[繼續旅程]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>雕像的外形是一隻絢麗的天堂之鳥。飛鳥長長的身體環抱著一隻圓形的蛋。幾處顏料還突兀地黏著在石料上。
 
-雕像描繪的是亞彌拉-胡亞納版本的海麗婭。
+雕像描繪的是 亞彌拉- &lt;g&gt;胡亞納&lt;/g&gt;版本的 海麗婭。
 
-神龕底座上刻著一條銘文-"信徒們永遠在抗爭，如信天翁般迅捷，如魚鷹般矯健。"</DefaultText>
+神龕底座上刻著一條銘文 - 「信徒們永遠在抗爭，如信天翁般迅捷，如魚鷹般矯健。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -39,7 +39,7 @@
       <ID>15</ID>
       <DefaultText>雕像的外形是一個長著怪魚頭的裸體女人。
 
-雕像描繪的是恩加蒂-胡亞納版本的昂德拉。
+雕像描繪的是 恩加蒂 - &lt;g&gt;胡亞納&lt;/g&gt;版本的 昂德拉。
 
 神龕底座上面寫著一條銘文。「海浪打磨岩石但是也會將它們粉碎成沙礫。」</DefaultText>
       <FemaleText />
@@ -48,9 +48,9 @@
       <ID>16</ID>
       <DefaultText>雕像上纏繞著一對石鰻。每一條鰻魚嘴裡都貼著另一條的尾巴，兩條石鰻形成了一個無法打破的循環。
 
-雕像描繪的是理庫胡-胡亞納版本的貝拉斯。
+雕像描繪的是理庫胡- &lt;g&gt;胡亞納&lt;/g&gt;版本的 貝拉斯。
 
-雕像底座上寫著一條銘文。「有些人跑。有些人戰。理庫胡吞噬一切。」</DefaultText>
+雕像底座上寫著一條銘文。「有些人跑、有些人戰。&lt;g&gt;理庫胡&lt;／g&gt;吞噬一切。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,7 +79,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[操縱蜥人的意識。]</DefaultText>
+      <DefaultText>[操縱蜥人的意識]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,12 +89,12 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[不去管它。]</DefaultText>
+      <DefaultText>[不去管它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[潛行到蜥人背後攻擊它。]</DefaultText>
+      <DefaultText>[潛行到蜥人背後攻擊它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[不去管它。]</DefaultText>
+      <DefaultText>[不去管它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>[休息之前向神龕祈禱。]</DefaultText>
+      <DefaultText>[休息之前向神龕祈禱]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,32 +152,32 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>[靠近檢查。]</DefaultText>
+      <DefaultText>[靠近檢查]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>[冥想休息。]</DefaultText>
+      <DefaultText>[冥想休息]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>[繼續旅程。]</DefaultText>
+      <DefaultText>[繼續旅程]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>[紮營休息。]</DefaultText>
+      <DefaultText>[紮營休息]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>「我知道當恩加蒂擊沉你的海船的時候誰能活下來。」泰克胡雙手抱胸做了個鬼臉。</DefaultText>
+      <DefaultText>「我知道當 &lt;g&gt;恩加蒂&lt;/g&gt;擊沉你的海船的時候誰能活下來。」泰克胡雙手抱胸做了個鬼臉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>「如果打倒海麗婭能跟弄倒這個神龕一樣輕鬆就好了。」
+      <DefaultText>「如果打倒 &lt;g&gt;海麗婭&lt;/g&gt;能跟弄倒這個神龕一樣輕鬆就好了。」
 
 帕蕾吉娜觀察著你的傑作，她金色的雙眼中洋溢著滿意之情。</DefaultText>
       <FemaleText />
@@ -220,7 +220,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>[調查週遭。]</DefaultText>
+      <DefaultText>[調查週遭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,12 +230,12 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>[調查週遭。]</DefaultText>
+      <DefaultText>[調查週遭]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,7 +245,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>[回去睡覺。]</DefaultText>
+      <DefaultText>[回去睡覺]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>[對著它吟唱。]</DefaultText>
+      <DefaultText>[對著它吟唱]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -272,12 +272,12 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>[餵它點食物。]</DefaultText>
+      <DefaultText>[餵它點食物]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>[不警告就發起攻擊。]</DefaultText>
+      <DefaultText>[不警告就發起攻擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>[不去管它。]</DefaultText>
+      <DefaultText>[不去管它]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,7 +308,7 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <DefaultText>[拔出武器攻擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,7 +322,7 @@
       <ID>127</ID>
       <DefaultText>雕像描繪的生物與獅尾虎是同類，但是它的右肩上長著一隻蜘蛛頭，左肩上還長著一隻長牙野豬的頭顱。
 
-雕像描繪的是胡亞納版本的伽拉溫。
+雕像描繪的是 &lt;g&gt;胡亞納&lt;/g&gt;版本的 伽拉溫。
 
 神龕底座上寫著一句銘文。「跟蹤。屠戮。生存。」</DefaultText>
       <FemaleText />

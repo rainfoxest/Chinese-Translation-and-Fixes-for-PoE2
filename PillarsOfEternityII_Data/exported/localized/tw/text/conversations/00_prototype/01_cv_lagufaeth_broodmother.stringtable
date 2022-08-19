@@ -30,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[衝她吱喳。]</DefaultText>
+      <DefaultText>[對她嘰嘰叫]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,17 +45,17 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[攻擊巢母。]</DefaultText>
+      <DefaultText>[攻擊巢母]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[離開，慢慢後退。]</DefaultText>
+      <DefaultText>[離開，慢慢後退]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>她深情地發出尖銳的叫聲，前後搖晃身體。她的豎起的魚鰭像利刃一樣閃耀著， 其他魚人把嘴張得更開了。</DefaultText>
+      <DefaultText>她深情地發出尖銳的叫聲，前後搖晃身體。她的豎起的魚鰭像利刃一樣閃耀著，其他魚人把嘴張得更開了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>它看上去比籠子裡的那些魚苗小一些，但也差不了太多。。</DefaultText>
+      <DefaultText>它看上去比籠子裡的那些幼魚小一些，但也差不了太多。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,21 +165,21 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>「胡——亞納。」巢母嘶嘶道。
+      <DefaultText>「胡—安納。」巢母嘶嘶道。
 
 在場的戰士們紛紛揮舞長矛、棍棒和吹槍。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「你恨胡亞納。」</DefaultText>
+      <DefaultText>「你恨 胡亞納。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>她尖叫起來，但似乎並非是衝你，而是衝你說的話。
 
-「魚、苗。」</DefaultText>
+「幼、魚。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,12 +203,12 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「胡亞納抓走了你們的年輕人？」</DefaultText>
+      <DefaultText>「&lt;g&gt;胡亞納&lt;/g&gt;抓走了你們的年輕人？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「我不明白。胡亞納拿你們的魚苗去做什麼？」</DefaultText>
+      <DefaultText>「我不明白。&lt;g&gt;胡亞納&lt;/g&gt;拿你們的魚苗去做什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,7 +223,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[唱歌給她聽。]</DefaultText>
+      <DefaultText>[唱歌給她聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -278,9 +278,9 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>「在聚鹿有一群打圍獵的沼澤蜥蜴會這樣喊。
+      <DefaultText>「在 &lt;g&gt;聚鹿&lt;/g&gt;有一群打圍獵的沼澤蜥蜴會這樣喊。
 
-」通常意思是他們把你包圍了。」</DefaultText>
+「通常意思是他們把你包圍了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,7 +292,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>「她鱗光閃閃的，很帶感呀。但要我跟她那啥還是有點不能接受。不過船長您做自己就好。」
+      <DefaultText>「她鱗光閃閃的，很帶感呀。但要我跟她那啥還是有點不能接受。不過船長你做自己就好。」
 
 塞拉芬聳聳肩。</DefaultText>
       <FemaleText />
@@ -309,7 +309,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「不能真的怪他們吧？」</DefaultText>
+      <DefaultText>「倒也怪不了他們？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,12 +319,12 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>「天啊！我都不知道這些魔物會聽得懂基斯的語言！」</DefaultText>
+      <DefaultText>「Gellarde！我都不知道這些魔物會聽得懂 &lt;g&gt;基斯&lt;/g&gt;的語言！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>「我記得你學到英格維仙語那次，但這是怎麼回事？」</DefaultText>
+      <DefaultText>「我記得你學到 &lt;g&gt;英格維仙&lt;/g&gt;語那次，但這是怎麼回事？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,12 +351,12 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>「呼——亞納！」她伸出粗糙的手指著你並尖叫。</DefaultText>
+      <DefaultText>「呼—安納！」她伸出粗糙的手指著你並尖叫。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>[派[Player Animal Companion]去介紹自己。]</DefaultText>
+      <DefaultText>[派[Player Animal Companion]去介紹自己]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -368,12 +368,12 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>「胡、亞納！」她用手向你示意，然後向山下做了個手勢</DefaultText>
+      <DefaultText>「胡、安納！」她用手向你示意，然後向山下做了個手勢</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「船長……魚人妹子發現胡亞納在圍捕她的幼崽。他們把魚苗趕到了沙灘上……請節哀，女士。」
+      <DefaultText>「船長……魚人妹子發現 &lt;g&gt;胡亞納&lt;/g&gt;在圍捕她的幼崽。他們把魚苗趕到了沙灘上……請節哀，女士。」
 
 他皺著眉，向魚人低頭致哀。</DefaultText>
       <FemaleText />

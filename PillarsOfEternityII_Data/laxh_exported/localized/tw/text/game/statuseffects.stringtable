@@ -1,113 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\statuseffects</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>21</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>724</ID>
-      <DefaultText>使用這把武器命中目標時，獲得可疊加的{0:value:percentbonus}先手權，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>725</ID>
-      <DefaultText>使用這把武器命中目標時，獲得可疊加的近戰武器{0:value:percentbonus}先手權，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>726</ID>
-      <DefaultText>攻擊者的先手權{0:value:percentbonus}（最高疊加{0:extravalue:straight}次）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>727</ID>
-      <DefaultText>{0:value:percentbonus}先手權（最高疊加{0:extravalue:straight}次）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>728</ID>
-      <DefaultText>每{0:skill}技能{0:extravalue:percentbonus}先手權</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>729</ID>
-      <DefaultText>暴擊時每{0:triggervalue:duration}2點生命值，持續{0:extravalue:duration}（佩戴者失去生命值時提升治療量）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>730</ID>
-      <DefaultText>被近戰武器命中時，有{0:value:percent}機率造成少量鈍擊傷害並震懾進攻者{0:extravalue:duration}。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>731</ID>
-      <DefaultText>每{0:interval}獲得6%命中轉化為暴擊（造成暴擊後重置效果）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>732</ID>
-      <DefaultText>命中時有{0:value:percent}機率清空先手權，持續2回合</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>733</ID>
-      <DefaultText>命中時有{0:value:percent}機率清空先手權</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>734</ID>
-      <DefaultText>使用雙手近戰武器時，先手權{0:value:percentbonus}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>735</ID>
-      <DefaultText>強效化戰技後，清空持有者的先手權</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>736</ID>
-      <DefaultText>{0:value}資源消耗</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>737</ID>
-      <DefaultText>降低護甲造成的先手權懲罰（取決於護甲種類）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>741</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>742</ID>
-      <DefaultText>千刀萬&lt;xg&gt;剮&lt;/xg&gt;的效果持續時間{0:Value:DurationBonusTurnBased}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>744</ID>
-      <DefaultText>當與敵人進行交戰時，隨機獲得{0:value}護甲、{0:value}穿透加成或{0:extravalue:percentbonus}先手權加成，持續較短時間。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>745</ID>
-      <DefaultText>暴擊時有{0:value:percent}機率立刻清空先手權</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>746</ID>
-      <DefaultText>暴擊時有{0:value:percent}機率立刻清空先手權</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>747</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>748</ID>
-      <DefaultText>{0:value:percentbonus}樂節徘徊時間</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>game\statuseffects</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>21</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>724</ID>
+     <DefaultText>使用這把武器 &lt;g&gt;命中&lt;/g&gt;目標時，獲得可 &lt;g&gt;疊加&lt;/g&gt;的{0:value:percentbonus} 先手權，持續{0:extravalue:duration}</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>725</ID>
+     <DefaultText>使用這把武器 &lt;g&gt;命中&lt;/g&gt;目標時，獲得可 &lt;g&gt;疊加&lt;/g&gt;的近戰武器{0:value:percentbonus} 先手權，持續{0:extravalue:duration}</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>726</ID>
+     <DefaultText>{0:value:percentbonus} 攻擊者的 先手權（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>727</ID>
+     <DefaultText>{0:value:percentbonus} &lt;g&gt;先手權&lt;/g&gt;（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>728</ID>
+     <DefaultText>{0:extravalue:percentbonus} 先手權【每 {0:skill} 技能】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>729</ID>
+     <DefaultText>每{0:triggervalue:duration} 2點 生命值，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】（佩戴者失去 生命值 時提升治療量）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>730</ID>
+     <DefaultText>{0:value:percent}機率造成少量 &lt;g&gt;鈍擊&lt;/g&gt;傷害並 震懾 攻擊者，持續{0:extravalue:duration}【被近戰武器 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>731</ID>
+     <DefaultText>每{0:interval}獲得6% &lt;g&gt;命中&lt;/g&gt;轉化為 暴擊（&lt;g&gt;暴擊&lt;/g&gt;後效果重置）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>732</ID>
+     <DefaultText>{0:value:percent}機率清空 先手權，持續2回合【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>733</ID>
+     <DefaultText>{0:value:percent}機率清空 先手權【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>734</ID>
+     <DefaultText>{0:value:percentbonus} 先手權【使用雙手近戰武器時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>735</ID>
+     <DefaultText>強效化 戰技後，清空持有者的 先手權</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>736</ID>
+     <DefaultText>{0:value} 資源消耗</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>737</ID>
+     <DefaultText>降低護甲造成的 &lt;g&gt;先手權&lt;/g&gt;懲罰（取決於護甲種類）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>741</ID>
+     <DefaultText />
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>742</ID>
+     <DefaultText>{0:Value:DurationBonusTurnBased} 千刀萬剮的效果持續時間</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>744</ID>
+     <DefaultText>隨機獲得{0:value} 護甲值、{0:value} 額外 穿透 或 {0:extravalue:percentbonus} 先手權，持續較短時間。【與敵人 交戰 時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>745</ID>
+     <DefaultText>{0:value:percent}機率立刻清空 先手權【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>746</ID>
+     <DefaultText>{0:value:percent}機率立刻清空 先手權【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>747</ID>
+     <DefaultText />
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>748</ID>
+     <DefaultText>{0:value:percentbonus} &lt;g&gt;樂節&lt;/g&gt;餘音時間</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

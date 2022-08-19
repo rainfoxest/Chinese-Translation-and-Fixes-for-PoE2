@@ -6,9 +6,9 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「托里，是你嗎——等等，你是誰？」
+      <DefaultText>「托里，是你嗎—等等，你是誰？」
 
-一個年輕的瓦利亞人躺在床上。你剛剛看到他，就注意到他大概是被人狠狠地揍了一頓。他的一隻眼睛腫得幾乎睜不開了，身上也佈滿了青紫色的淤痕。</DefaultText>
+一個年輕的 &lt;g&gt;瓦利亞&lt;/g&gt;人躺在床上。你剛剛看到他，就注意到他大概是被人狠狠地揍了一頓。他的一隻眼睛腫得幾乎睜不開了，身上也佈滿了青紫色的淤痕。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,7 +45,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[把錢袋還給林克] 「我已經拿到你想要的東西了。」</DefaultText>
+      <DefaultText>[把錢袋還給林克]「我已經拿到你想要的東西了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「這讓我想起來，伊莎彌兒有一次和一個努瓦泰僱傭兵吹牛的事情。」他湊近你，對你悄悄地說著。</DefaultText>
+      <DefaultText>「這讓我想起來，&lt;g&gt;伊莎彌兒&lt;/g&gt;有一次和一個 &lt;g&gt;努瓦泰&lt;/g&gt;僱傭兵吹牛的事情。」他湊近你，對你悄悄地說著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -92,7 +92,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「所有人都在說什麼海怪，什麼劫掠者，但我早就說過，海裔才是亡焰列島真正的危險。」</DefaultText>
+      <DefaultText>「所有人都在說什麼海怪，什麼劫掠者，但我早就說過，海裔才是 &lt;g&gt;亡焰列島&lt;/g&gt;真正的危險。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,7 +134,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[離開] 「我就不打擾你了。」</DefaultText>
+      <DefaultText>[離開]「我就不打擾你了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,9 +144,9 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「該死……或許我喝多了之後就開始胡說八道了。但這又怎麼樣？
+      <DefaultText>「Merla ……或許我喝多了之後就開始胡說八道了。但這又怎麼樣？
 
-「難道侮辱了野人的榮譽，就活該挨一頓揍嗎？法律是站在我這邊的。」</DefaultText>
+難道侮辱了野人的榮譽，就活該挨一頓揍嗎？法律是站在我這邊的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>「那些胡亞納人……他們簡直是不可理喻！我那天晚上正在和人打撲克，其中一個胡亞納人忽然就襲擊了我，一點理由都沒有！」</DefaultText>
+      <DefaultText>「那些 &lt;g&gt;胡亞納&lt;/g&gt;人……他們簡直是不可理喻！我那天晚上正在和人打撲克，其中一個 &lt;g&gt;胡亞納&lt;/g&gt;人忽然就襲擊了我，一點理由都沒有！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[離開。] 「我會回來的。」</DefaultText>
+      <DefaultText>[離開]「我會回來的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,10 +203,10 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「他媽的，我已經受夠了和我一起的那頭蠢豬了。」
+      <DefaultText>「Bazzo，我已經受夠了和我一起的那 Nasenale 了。」
 
 他躺在了枕頭上，發著牢騷。</DefaultText>
-      <FemaleText>「啊，該死的。我已經受夠了和我一起的那頭蠢豬了。」
+      <FemaleText>「Bazzo，我已經受夠了和我一起的那 Nasenale 了。」
 
 他躺在了枕頭上，發著牢騷。</FemaleText>
     </Entry>
@@ -222,7 +222,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>「是你的同族干的，海裔。我什麼都沒做，我僅僅是在漫長的一天結束之後，去酒吧裡打幾把牌而已。突然，一個胡亞納人就襲擊了我！」</DefaultText>
+      <DefaultText>「是你的同族幹的，海裔。我什麼都沒做，我僅僅是在漫長的一天結束之後，去酒吧裡打幾把牌而已。突然，一個 &lt;g&gt;胡亞納&lt;/g&gt;人就襲擊了我！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
       <ID>60</ID>
       <DefaultText>「我的天啊，她甚至連牌都沒有打！我坐在那裡，數著我晚上贏來的錢，一個女巨人突然就抓住了我的肩膀。
 
-「嘖，或許我確實說了些什麼，但先動手的人是她。」</DefaultText>
+嘖，或許我確實說了些什麼，但先動手的人是她。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,16 +251,16 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「總督讓那些胡亞納人胡作非為，這就是下場。
+      <DefaultText>「總督讓那些 &lt;g&gt;胡亞納&lt;/g&gt;人胡作非為，這就是下場。
 
-」我現在本該和那些人一起搜救我們的族人才對。我應該為重建家園出力，但現在卻……」
+我現在本該和那些人一起搜救我們的族人才對。我應該為重建家園出力，但現在卻……」
 
 他虛弱地撐著身子，流露出痛苦的神情。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>「太荒唐了！那個女人毫無理由地襲擊了我，卻不會受到任何懲罰？」</DefaultText>
+      <DefaultText>「Sciòderie! 那個女人毫無理由地襲擊了我，卻不會受到任何懲罰？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -277,7 +277,7 @@
       <ID>68</ID>
       <DefaultText>「那個女人應該進監獄才對！那些守衛什麼都不做，但你，至少你還願意聽我說這些事情。
 
-「求你幫我個忙，把我的錢袋拿回來，我會盡可能地報答你的。」</DefaultText>
+求你幫我個忙，把我的錢袋拿回來，我會盡可能地報答你的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,7 +314,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>「什麼？你是說真的？」
+      <DefaultText>「什麼？Di verus ？」
 
 他盯著你，皺起了眉，臉上顯出了擔憂的神色。</DefaultText>
       <FemaleText />
@@ -328,10 +328,10 @@
       <ID>80</ID>
       <DefaultText>「我答應過要給你報酬，是吧？你的份內事做得真是太出色了。
 
-「謝謝你，現在整個鎮子的人都會知道你幫了我一個大忙，朋友。」</DefaultText>
+Agracima，現在全鎮的人都會知道你幫了我一個大忙，aimico。」</DefaultText>
       <FemaleText>「我答應過要給你報酬，是吧？你的份內事做得真是太出色了。
 
-「謝謝你。現在全鎮的人都會知道你幫了我一個大忙，朋友。」</FemaleText>
+Agracima，現在全鎮的人都會知道你幫了我一個大忙，aimica。」</FemaleText>
     </Entry>
     <Entry>
       <ID>81</ID>
@@ -347,7 +347,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>「讓她當我的面道歉啊，那個野人！該死的，道歉有什麼用啊？能把我的耳朵治好嗎？」</DefaultText>
+      <DefaultText>「讓她當我的面道歉啊，那個野人！Merla，道歉有什麼用啊？能把我的耳朵治好嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,16 +357,16 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>「你是我們家的救命恩人，朋友。我是說真的，太感謝了。」
+      <DefaultText>「你是我們家的救命恩人，aimico。我是說真的，Agracima。」
 
 他的腦袋倒在了枕頭上，一隻手勉強做了個道別的手勢。</DefaultText>
-      <FemaleText>「你是我們家的救命恩人，朋友。我是說真的，太感謝了。」 
+      <FemaleText>「你是我們家的救命恩人，aimica。我是說真的，Agracima。」
 
 他的腦袋倒在了枕頭上，一隻手勉強做了個道別的手勢。</FemaleText>
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>「我只想收拾莫克哈！那個長著鯊魚臉的女怪物。真希望昂德拉的怪物把她的眼睛挖出來！」
+      <DefaultText>「我罵的只是莫克哈一個人！那個長著鯊魚臉的女怪物。真希望 &lt;g&gt;昂德拉&lt;/g&gt;的怪物把她的眼睛挖出來！」
 
 林克躺在床上，舉著一隻拳頭，虛弱地咒罵著。</DefaultText>
       <FemaleText />
@@ -378,7 +378,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>「真的嗎？哈！你完成了不可能完成的任務，你說服那些傻乎乎的守衛做了些有用的事情。
+      <DefaultText>「Di verus？哈！你完成了不可能完成的任務，你說服那些傻乎乎的守衛做了些有用的事情。
 
 謝謝你！沒想到在離共和國這麼遠的地方，正義也能伸張。」</DefaultText>
       <FemaleText />
@@ -412,7 +412,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>[把空空如也的錢袋交給他。] 「當然找到了。」</DefaultText>
+      <DefaultText>[把空空如也的錢袋交給他]「當然找到了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,7 +432,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>「你找到了！眾神保佑你。」
+      <DefaultText>「你找到了 眾神保佑你！」
 
 林克掙扎起來，一把抓過了錢袋，開始檢查錢袋裡的東西。</DefaultText>
       <FemaleText />
@@ -449,7 +449,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>[撒謊] 「莫克哈已經把錢都花光了。」</DefaultText>
+      <DefaultText>[撒謊]「莫克哈已經把錢都花光了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,14 +506,14 @@
       <ID>113</ID>
       <DefaultText>「你……我一開始就不該相信你！她甚至都不是你部落的人，可你們卻狼狽為奸！
 
-「你跟她都是一路貨色！快滾吧！」</DefaultText>
+你跟她都是一路貨色！你快滾！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>「你……你怎麼敢這樣！你們兩個都該下地獄！
+      <DefaultText>「你……你怎麼敢這樣 你們兩個都該下 冥界！
 
-「滾出我的房子！」</DefaultText>
+滾出我的房子！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,7 +525,7 @@
       <ID>116</ID>
       <DefaultText>「你……你又沒有證據。
 
-「行行好吧，我現在這個樣子已經沒法工作了。如果我付不起租金，我就要無家可歸了。他們會把我的孩子丟到大街上的！」</DefaultText>
+行行好吧，我現在這個樣子已經沒法工作了。如果我付不起租金，我就要無家可歸了。他們會把我的孩子丟到大街上的！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -544,14 +544,14 @@
       <ID>120</ID>
       <DefaultText>「那些該死的混蛋只會在警衛室裡高枕無憂，他們根本就不關心這裡發生的一切。
 
-「還有你，如果你是個聰明人，趕緊離開這個爛地方，去個文明點的地方呆著吧！」</DefaultText>
+還有你，如果你是個聰明人，趕緊離開這個爛地方，去個文明點的地方呆著吧！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
       <DefaultText>「你……你這個該死的狗賊！
 
-「我居然會相信你，我簡直是瞎了眼了！整個國王港就沒有一個誠實的人！」</DefaultText>
+我居然會相信你，我簡直是瞎了眼了！整個 國王港 就沒有一個誠實的人！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -570,7 +570,7 @@
       <ID>125</ID>
       <DefaultText>「已經足夠了，有了這些錢，我就能付得起租金，養得起孩子，直到我又可以工作為止了。
 
-謝謝你，整個鎮子的人都會知道你幫了我們一個大忙。」</DefaultText>
+Agracima，整個鎮子的人都會知道你幫了我們一個大忙。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -584,7 +584,7 @@
       <ID>127</ID>
       <DefaultText>「這……這根本抵不上我失去的那些錢！
 
-「而且我根本沒有討價還價的餘地，對不對？我的天啊，整個國王港就沒有一個誠實的人。」</DefaultText>
+而且我根本沒有討價還價的餘地，對不對？我的天啊，整個 國王港 就沒有一個誠實的人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,16 +594,16 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「該死……而且我根本沒有討價還價的餘地，對不對？
+      <DefaultText>「Merla ……而且我根本沒有討價還價的餘地，對不對？
 
-「好吧，你說得也沒錯。」</DefaultText>
+好吧，你說得也沒錯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
       <DefaultText>「就這樣吧，我會告訴守衛，說這件事已經解決了。
 
-「還有……謝謝你。這些錢至少讓我們不會風餐露宿，能撐到我的身體恢復為止。我不知道你為什麼要這麼做，但我是不會忘的。」</DefaultText>
+還有…… Agracima。這些錢至少讓我們不會風餐露宿，能撐到我的身體恢復為止。我不知道你為什麼要這麼做，但我是不會忘的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -613,9 +613,9 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>「她把我的一切都毀了，這還不夠嗎？現在你又闖到我的家裡來威脅我？求求你——求求你看在我兒子的份上……
+      <DefaultText>「她把我的一切都毀了，這還不夠嗎？現在你又闖到我的家裡來威脅我？求求你—求求你看在我兒子的份上……
 
-「我會和守衛說實話的，我向你發誓。」</DefaultText>
+我會和守衛說實話的，我向你發誓。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -625,9 +625,9 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>「總督讓那些胡亞納人胡作非為，這就是下場。
+      <DefaultText>「總督讓那些 &lt;g&gt;胡亞納&lt;/g&gt;人胡作非為，這就是下場。
 
-「我現在本該和那些人一起搜救我們的人才對。我的妻子，澤涅塔，她……她就在那裡。而我卻……」
+我現在本該和那些人一起搜救我們的人才對。我的妻子，澤涅塔，她……她就在那裡。而我卻……」
 
 他虛弱地舉起了手，滿臉痛苦。</DefaultText>
       <FemaleText />
@@ -636,12 +636,12 @@
       <ID>138</ID>
       <DefaultText>「那個女人應該進監獄才對！那些守衛什麼都不做，但你，至少你還願意聽我說這些事情。
 
-「求你幫我個忙，把我的錢袋拿回來，我會盡可能地報答你的。」</DefaultText>
+求你幫我個忙，把我的錢袋拿回來，我會盡可能地報答你的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>[把錢袋還給林克] 「我已經拿到你想要的東西了。」</DefaultText>
+      <DefaultText>[把錢袋還給林克]「我已經拿到你想要的東西了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

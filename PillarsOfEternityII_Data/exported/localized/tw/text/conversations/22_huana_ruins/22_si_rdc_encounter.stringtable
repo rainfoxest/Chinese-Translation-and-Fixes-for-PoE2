@@ -37,12 +37,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[把火把靠近一個火藥筒。]「你想永遠活著嗎，派？」</DefaultText>
+      <DefaultText>[把火把靠近一個火藥筒]「你想永遠活著嗎，派？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>「可惜看到努瓦泰的兒子為了自己牟利和壞心而倒戈。」</DefaultText>
+      <DefaultText>「可惜看到 &lt;g&gt;努瓦泰&lt;/g&gt;的兒子為了自己牟利和壞心而倒戈。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -59,7 +59,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[將胡亞納航海圖插到靴子裡。]「我什麼都沒有發現，但可以隨時去搜查[Player Ship]。」</DefaultText>
+      <DefaultText>[將 &lt;g&gt;胡亞納&lt;/g&gt;航海圖插到靴子裡]「我什麼都沒有發現，但可以隨時去搜查[Player Ship]。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「麥婭，有什麼想法嗎？ 」</DefaultText>
+      <DefaultText>「麥婭，有什麼想法嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,14 +93,14 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「麥婭，見到你一如既往地讓人高興，但你上錯了船。」他大笑，並且進行了努瓦泰式的敬禮。
+      <DefaultText>「麥婭，見到你一如既往地讓人高興，但你上錯了船。」他大笑，並且進行了 &lt;g&gt;努瓦泰&lt;/g&gt;式的敬禮。
 
 她只是點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[讓他按照胡亞納航海圖行進。]</DefaultText>
+      <DefaultText>[讓他按照 &lt;g&gt;胡亞納&lt;/g&gt;航海圖行進]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,7 +115,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>當追趕者迅速接近時，風向卻變得對你不利——那是一條裝備精良的努瓦泰平底大帆船，亡焰皇家商行的旗幟高高飄揚。
+      <DefaultText>當追趕者迅速接近時，風向卻變得對你不利—那是一條裝備精良的 &lt;g&gt;努瓦泰&lt;/g&gt;平底大帆船，亡焰皇家商行 的旗幟高高飄揚。
 
 船身上的名牌標示著它的名字「仁慈庇護號」。</DefaultText>
       <FemaleText />
@@ -144,7 +144,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「船長……我為這次偏航道歉。祝你旅途愉快。「
+      <DefaultText>「船長……我為這次偏航道歉。祝你旅途愉快。」
 
 他脫下帽子，聲音中的友善並沒有表達在他的眼神中。
 
@@ -170,7 +170,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>[指向同伴。]「再給我拿一桶火藥來吧，這樣派就知道我是認真的。」</DefaultText>
+      <DefaultText>[指向同伴]「再給我拿一桶火藥來吧，這樣派就知道我是認真的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,7 +190,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>[點燃第二個火炬，在火藥桶附近耍弄他們。]</DefaultText>
+      <DefaultText>[點燃第二個火炬，在火藥桶附近耍弄他們]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,7 +212,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>[殺出一條血路。]</DefaultText>
+      <DefaultText>[殺出一條血路]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,7 +229,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>「在回恩加蒂的水樣大廳的路上，這樣的生活是一種消遣。去做你要做的事情。」泰克胡面露堅忍的神情，但汗珠順著他的額頭往下流。</DefaultText>
+      <DefaultText>「在回 &lt;g&gt;恩加蒂&lt;/g&gt;的水樣大廳的路上，這樣的生活是一種消遣。去做你要做的事情。」泰克胡面露堅忍的神情，但汗珠順著他的額頭往下流。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>「不管親王用你的地圖做什麼，我敢打賭，哈扎努伊都能做得更好。」麥婭聳了聳肩，關上了她的小型望遠鏡。</DefaultText>
+      <DefaultText>「不管親王用你的地圖做什麼，我敢打賭，哈扎努伊 都能做得更好。」麥婭聳了聳肩，關上了她的小型望遠鏡。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,7 +308,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>[把胡亞納航海圖扔給他]「請便。」</DefaultText>
+      <DefaultText>[把 &lt;g&gt;胡亞納&lt;/g&gt;航海圖扔給他]「請便。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\statuseffects</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>10</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>510</ID>
-      <DefaultText>每場戰鬥開始時變形為一把隨機魔法武器。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>516</ID>
-      <DefaultText>完成一次擊殺後進入隱形狀態，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>517</ID>
-      <DefaultText>被持有者攻擊的敵人需要一名額外友軍才能進行夾擊</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>519</ID>
-      <DefaultText>有敵人對持有者釋放智力減益狀態命中時，對該敵人施加困惑</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>522</ID>
-      <DefaultText>命中時小機率召喚一名敵對火焰魂怪</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>526</ID>
-      <DefaultText>敵人生命值高於50%時對持有者造成{0:value:percentbonus}傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>527</ID>
-      <DefaultText>對50%生命值以上的敵人造成{0:value:percentbonus}傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>529</ID>
-      <DefaultText>對昏迷目標造成灼燒/鈍擊範圍傷害，只作用於敵對目標</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>532</ID>
-      <DefaultText>近戰武器命中時有{0:value:percent}機率對敵人或持有者造成持續真實流血傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>582</ID>
-      <DefaultText>抽一張牌。</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>game\statuseffects</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>10</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>510</ID>
+     <DefaultText>每場戰鬥開始時變形為一把隨機魔法武器。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>516</ID>
+     <DefaultText>進入隱形狀態，持續{0:extravalue:duration}【擊殺時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>517</ID>
+     <DefaultText>被持有者攻擊的敵人需要一名額外友軍才能進行 夾擊</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>519</ID>
+     <DefaultText>有敵人對穿戴者施放 智力熬煎 時，對該敵人施加 困惑</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>522</ID>
+     <DefaultText>小機率召喚一名敵對火焰魂怪【擊中時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>526</ID>
+     <DefaultText>敵人造成 {0:value:percentbonus} 傷害【穿戴者 &lt;g&gt;生命值&lt;/g&gt;高於50%時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>527</ID>
+     <DefaultText>造成 {0:value:percentbonus} 傷害【對 &lt;g&gt;生命值&lt;/g&gt;高於50%的敵人】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>529</ID>
+     <DefaultText>造成敵對 灼燒/鈍擊 範圍傷害【&lt;g&gt;昏迷&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>532</ID>
+     <DefaultText>{0:value:percent}機率在近戰武器 &lt;g&gt;命中&lt;/g&gt;時對敵人或持有者造成持續 &lt;g&gt;真實&lt;/g&gt;流血傷害</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>582</ID>
+     <DefaultText>抽一張牌。</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

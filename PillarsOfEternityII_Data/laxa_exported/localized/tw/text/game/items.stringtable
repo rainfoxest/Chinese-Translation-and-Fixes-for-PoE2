@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\items</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>12</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>5350</ID>
-      <DefaultText>白琴酒</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5351</ID>
-      <DefaultText>使用艾歐拉東域常見的杜松莓果製成的琴酒在白際山與瑞德賽拉斯十分受歡迎。一般只要用簡單的家用壺罐與谷粒搾漿和幾種當地藥草就能滿足製作者的口味偏好，還有一些出口到了亡焰列島。大部分皇族海盜新人，特別是那些扎根於艾歐拉東域的人們對這種烈酒念念不忘。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5352</ID>
-      <DefaultText>薩科酒</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5353</ID>
-      <DefaultText>這種從瓦利亞共和國進口而來的深藍色穀物釀酒會散發出茴芹與接骨木的味道，有錢的商人們常喜歡在飯後小啜一杯。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5354</ID>
-      <DefaultText>沃艾珥之風</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5355</ID>
-      <DefaultText>由朗姆酒（或者其他任意烈酒）與熱帶果汁調製而成的沃艾珥之風在亡焰列島炎熱的盛夏永遠是最受追捧的飲品。流亡皇族的海盜們發明了這種飲料，根據傳統人們會用半個椰子殼作為盛酒的容器。
+ <Name>game\items</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>12</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>5350</ID>
+     <DefaultText>白琴酒</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5351</ID>
+     <DefaultText>使用艾歐拉東域常見的杜松莓果製成的琴酒在 &lt;g&gt;白際山&lt;/g&gt;與 &lt;g&gt;瑞德賽拉斯&lt;/g&gt;十分受歡迎。一般只要用簡單的家用壺罐與谷粒搾漿和幾種當地藥草就能滿足製作者的口味偏好，還有一些出口到了亡焰列島。大部分皇族海盜新人，特別是那些扎根於艾歐拉東域的人們對這種烈酒念念不忘。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5352</ID>
+     <DefaultText>薩科酒</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5353</ID>
+     <DefaultText>這種從 &lt;g&gt;瓦利亞共和國&lt;/g&gt;進口而來的深藍色穀物釀酒會散發出茴芹與接骨木的味道，有錢的商人們常喜歡在飯後小啜一杯。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5354</ID>
+     <DefaultText>沃艾珥之風</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5355</ID>
+     <DefaultText>由朗姆酒（或者其他任意烈酒）與熱帶果汁調製而成的沃艾珥之風在 &lt;g&gt;亡焰列島&lt;/g&gt;炎熱的盛夏永遠是最受追捧的飲品。&lt;g&gt;流亡皇族&lt;/g&gt;的海盜們發明了這種飲料，根據傳統人們會用半個椰子殼作為盛酒的容器。
 
-沃艾珥之風這個名字的來由是它會使飲用者昏昏倒地，完全不記得前一晚發生的事情。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5356</ID>
-      <DefaultText>奧薩雙調</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5357</ID>
-      <DefaultText>這種調製液體是用生長在奧薩島山泉中的兩種不同大米（一長一短）混合提純而成的，液體從清澈到略微泛雲白色各有不同。作為亡焰列島原產的最烈酒，雙調酒溫熱後口感更佳，在工匠階層廣受歡迎。
+&lt;g&gt;沃艾珥&lt;/g&gt;之風這個名字的來由是它會使飲用者昏昏倒地，完全不記得前一晚發生的事情。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5356</ID>
+     <DefaultText>奧薩雙調</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5357</ID>
+     <DefaultText>這種調製液體是用生長在奧薩島山泉中的兩種不同大米（一長一短）混合提純而成的，液體從清澈到略微泛雲白色各有不同。作為 &lt;g&gt;亡焰列島&lt;/g&gt;原產的最烈酒，雙調酒溫熱後口感更佳，在工匠階層廣受歡迎。
 
-一方面奧薩雙調廣泛出現於胡亞納文化中，例如戲劇與歌曲，而另一方面人們也常常討論這種烈酒正在「毀掉」胡亞納人的年輕一代。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5358</ID>
-      <DefaultText>麥普</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5359</ID>
-      <DefaultText>一種原產自努瓦泰的煙狀棕色液體，由麥芽提純並在橡木桶中釀製而成。儘管傳統上會沖泡常溫水飲用，但努瓦泰學生們更喜歡將其混著熱茶喝。無論哪種喝法，一般人們都會兌入黑可可或其他甜點。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5360</ID>
-      <DefaultText>福爾喬拉</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5361</ID>
-      <DefaultText>這種產自瓦利亞共和國的藥酒變種注入了光魂珀。黃酒與魂珀粉末的結合誕生出了散發著綠色輝光的奇妙液體。
+一方面奧薩雙調廣泛出現於胡亞納文化中，例如戲劇與歌曲，而另一方面人們也常常討論這種烈酒正在「毀掉」&lt;g&gt;胡亞納&lt;/g&gt;人的年輕一代。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5358</ID>
+     <DefaultText>麥普</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5359</ID>
+     <DefaultText>一種原產自 &lt;g&gt;努瓦泰&lt;/g&gt;的煙狀棕色液體，由麥芽提純並在橡木桶中釀製而成。儘管傳統上會沖泡常溫水飲用，但努瓦泰學生們更喜歡將其混著熱茶喝。無論哪種喝法，一般人們都會兌入黑可可或其他甜點。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5360</ID>
+     <DefaultText>福爾喬拉</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5361</ID>
+     <DefaultText>這種產自 &lt;g&gt;瓦利亞共和國&lt;/g&gt;的藥酒變種注入了光魂珀。黃酒與魂珀粉末的結合誕生出了散發著綠色輝光的奇妙液體。
 
-只有最富有的瓦利亞商人才敢吹噓自己手裡擁有那麼一小瓶喬拉酒，而在餐後開瓶則是主人向客人展示自己生活品質的好方式。</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+只有最富有的 &lt;g&gt;瓦利亞&lt;/g&gt;商人才敢吹噓自己手裡擁有那麼一小瓶喬拉酒，而在餐後開瓶則是主人向客人展示自己生活品質的好方式。</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

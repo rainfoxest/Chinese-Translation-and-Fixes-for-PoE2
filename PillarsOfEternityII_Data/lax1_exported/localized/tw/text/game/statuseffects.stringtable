@@ -1,218 +1,218 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\statuseffects</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>42</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>277</ID>
-      <DefaultText>每有一名隊員被打倒，力量與決心提升{0:triggervalue:straight}直至戰鬥結束（最多疊加{0:value:straight}次）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>355</ID>
-      <DefaultText>殺死野獸時，可以魅惑附近的野獸，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>365</ID>
-      <DefaultText>被近戰武器命中時，有{0:value:percent}的機率對攻擊者造成穿刺傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>366</ID>
-      <DefaultText>命中目標時，對目標附近所有生物造成{0:value:straight}火焰傷害（傷害隨{0:skill}技能等級增加）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>367</ID>
-      <DefaultText>被近戰武器造成暴擊時，有{0:value:percent}的機率使攻擊者的穿透降低{0:extravalue}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>368</ID>
-      <DefaultText>穿戴者面對的敵人每多一名，就提高{0:triggervalue:bonuspercentbonus}行動速度與武器傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>371</ID>
-      <DefaultText>使用者獲得的力量增益狀態提高1個等級</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>373</ID>
-      <DefaultText>每{0:skill}技能獲得{0:extravalue:percentbonus}冷卻</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>374</ID>
-      <DefaultText>{0:value}護甲值。效果隨體能技能提高</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>386</ID>
-      <DefaultText>不會受到自然結界影響</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>387</ID>
-      <DefaultText>不會受到秘法結界影響</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>492</ID>
-      <DefaultText>穿戴者昏迷時，對附近所有的生物造成電擊傷害，並使其震懾{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>493</ID>
-      <DefaultText>每次使用強傚法術或戰技時，都會獲得一個隨機增益狀態，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>542</ID>
-      <DefaultText>被近戰攻擊命中時，對攻擊者造成腐蝕傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>622</ID>
-      <DefaultText>暴擊時，有{0:value:percent}機率召喚{0:extravalue:straight}只幼龍，持續{0:triggervalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>623</ID>
-      <DefaultText>每當使用者在變形的情況下命中敵人時，都有{0:value:percent}機率獲得強力效果，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>625</ID>
-      <DefaultText>當敵人的近戰攻擊被格擋或失手時，有{0:value:percent}的機率進行一次主要攻擊還擊。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>627</ID>
-      <DefaultText>暴擊時，有{0:value:percent}機率對一條直線上的敵人造成冰凍傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>628</ID>
-      <DefaultText>散風技能還會使敵人陷入蹣跚狀態，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>629</ID>
-      <DefaultText>散風技能的傷害提高{0:value:percentbonus}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>644</ID>
-      <DefaultText>暴擊時，造成{0:statuseffects}，持續{0:value:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>645</ID>
-      <DefaultText>擊殺敵人時，有{0:value:percent}的機率使附近的敵人噁心，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>646</ID>
-      <DefaultText>擊殺敵人時，有{0:value:percent}的機率使附近的敵人恐懼，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>647</ID>
-      <DefaultText>徒手攻擊命中時，有{0:value:percent}的機率獲得{0:extravalue}格擋，持續{0:triggervalue:duration}（可疊加{0:triggercount}次）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>648</ID>
-      <DefaultText>徒手攻擊暴擊時，有{0:value:percent}的機率獲得{0:extravalue}護甲值，持續{0:triggervalue:duration}（可疊加{0:triggercount}次）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>649</ID>
-      <DefaultText>被近戰攻擊暴擊命中時，有{0:value:percent}的機率對攻擊者造成真實流血傷害，每{0:interval}造成{0:extravalue:straight}點傷害，持續{0:triggervalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>650</ID>
-      <DefaultText>擊殺敵人時，恢復{0:extravalue:straight}生命值</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>651</ID>
-      <DefaultText>擊殺敵人時，對附近的敵人造成真實傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>652</ID>
-      <DefaultText>被命中時，有{0:value:percent}的機率獲得{0:extravalue}穿透，持續{0:triggervalue:duration}（可疊加{0:triggercount}次）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>654</ID>
-      <DefaultText>暴擊後，目標每{0:interval}都會受到真實傷害，持續{0:extravalue:duration}（傷害依譯靈使當前的集中值增加）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>655</ID>
-      <DefaultText>在隱匿狀態下攻擊後，獲得{0:extravalue:percentbonus}移動速度，持續{0:triggervalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>656</ID>
-      <DefaultText>施加敏捷減益效果後，{0:extravalue:duration}內對交戰免疫</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>657</ID>
-      <DefaultText>使用詠者禱歌後，有{0:value:percent}的機率使附近的敵人陷入煩亂狀態，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>660</ID>
-      <DefaultText>當使用屠戮技能命中野獸時，獲得{0:value:percentbonus}行動速度，持續{0:extravalue:duration}（可疊加{0:triggercount}次）</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>661</ID>
-      <DefaultText>命中敵人時，有{0:value:percent}的機率使敵人定身{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>662</ID>
-      <DefaultText>使用武器命中野獸時，有{0:value:percent}的機率使目標陷入動搖狀態，持續{0:extravalue:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>663</ID>
-      <DefaultText>對被挑戰的敵人造成{0:value:percentbonus}傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>664</ID>
-      <DefaultText>對挑戰者造成{0:value:percentbonus}傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>666</ID>
-      <DefaultText>此盾牌可用作武器，造成穿刺/鈍擊傷害。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>670</ID>
-      <DefaultText>獲得隨機藥水或軟膏的效果</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>671</ID>
-      <DefaultText>風之歌的武器熟練作戰風格有{0:extravalue:percent}機率命中時對瀕死敵人施加煩亂，持續{0:value:duration}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>728</ID>
-      <DefaultText>每{0:skill}技能{0:extravalue:percentbonus}先手權</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>game\statuseffects</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>42</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>277</ID>
+     <DefaultText>提升 力量 和 決心 {0:triggervalue:straight},直至戰鬥結束【每有一名隊員被打倒】（&lt;g&gt;疊加&lt;/g&gt;最高 {0:value:straight} 次）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>355</ID>
+     <DefaultText>&lt;g&gt;魅惑&lt;／g&gt;附近的野獸，持續{0:extravalue:duration}【殺死野獸時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>365</ID>
+     <DefaultText>{0:value:percent}機率對攻擊者造成 穿刺 傷害【被近戰武器 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>366</ID>
+     <DefaultText>對目標附近所有人造成 {0:value:straight} &lt;g&gt;灼燒&lt;/g&gt;傷害【&lt;g&gt;命中&lt;/g&gt;時】（傷害隨 {0:skill} 技能增強）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>367</ID>
+     <DefaultText>{0:value:percent}機率使攻擊者的 穿透 {0:extravalue}【被近戰武器 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>368</ID>
+     <DefaultText>{0:triggervalue:bonuspercentbonus} 行動速度 與武器 傷害【每一名敵人在與穿戴者 交戰】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>371</ID>
+     <DefaultText>使用者獲得的 力量啟迪 提高1個階級</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>373</ID>
+     <DefaultText>{0:extravalue:percentbonus} 復原【每 {0:skill} 技能】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>374</ID>
+     <DefaultText>{0:value} 護甲值（隨 體能 技能增強）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>386</ID>
+     <DefaultText>不會受到自然結界影響</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>387</ID>
+     <DefaultText>不會受到秘法結界影響</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>492</ID>
+     <DefaultText>對穿戴者附近所有的生物造成 &lt;g&gt;電擊&lt;/g&gt;傷害，並使其 震懾，持續{0:extravalue:duration}【&lt;g&gt;昏迷&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>493</ID>
+     <DefaultText>獲得一個隨機 啟迪，持續{0:extravalue:duration}【&lt;g&gt;強效&lt;/g&gt;法術或戰技時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>542</ID>
+     <DefaultText>&lt;g&gt;腐蝕&lt;/g&gt;傷害還擊【被近戰 &lt;g&gt;命中&lt;/g&gt;時時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>622</ID>
+     <DefaultText>{0:value:percent}機率召喚{0:extravalue:straight}只幼龍，持續{0:triggervalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>623</ID>
+     <DefaultText>每當使用者在變形的情況下 &lt;g&gt;命中&lt;/g&gt;敵人時，都有{0:value:percent}機率獲得 強力，持續{0:extravalue:duration}</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>625</ID>
+     <DefaultText>當敵人的近戰攻擊被 格擋 或 &lt;g&gt;失手&lt;/g&gt;時，{0:value:percent}機率進行一次 主武器攻擊 還擊。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>627</ID>
+     <DefaultText>{0:value:percent}機率對一條直線上的敵人造成 冰寒 傷害【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>628</ID>
+     <DefaultText>散風技能還會使敵人陷入 蹣跚 狀態，持續{0:extravalue:duration}</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>629</ID>
+     <DefaultText>散風技能的 傷害 提高{0:value:percentbonus}</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>644</ID>
+     <DefaultText>{0:statuseffects}，持續{0:value:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>645</ID>
+     <DefaultText>{0:value:percent}機率使附近的敵人 噁心，持續{0:extravalue:duration}【擊殺時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>646</ID>
+     <DefaultText>{0:value:percent}機率使附近的敵人 恐懼，持續{0:extravalue:duration}【擊殺時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>647</ID>
+     <DefaultText>{0:value:percent}機率獲得 {0:extravalue} 格擋，持續{0:triggervalue:duration}【徒手攻擊 &lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>648</ID>
+     <DefaultText>{0:value:percent}機率獲得 {0:extravalue} 護甲值，持續{0:triggervalue:duration}【徒手攻擊 &lt;g&gt;暴擊&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>649</ID>
+     <DefaultText>{0:value:percent}機率對攻擊者造成每{0:interval} {0:extravalue:straight}點 真實 流血傷害，持續{0:triggervalue:duration}【被近戰武器 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>650</ID>
+     <DefaultText>恢復 {0:extravalue:straight} 生命值【擊殺時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>651</ID>
+     <DefaultText>對附近的敵人造成 &lt;g&gt;真實&lt;/g&gt;傷害【擊殺時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>652</ID>
+     <DefaultText>{0:value:percent}機率獲得 {0:extravalue} 穿透，持續{0:triggervalue:duration}【被 &lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>654</ID>
+     <DefaultText>目標每{0:interval}都會受到 &lt;g&gt;真實&lt;/g&gt;傷害，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】（傷害隨譯靈使當前的 &lt;g&gt;集中值&lt;/g&gt;增強）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>655</ID>
+     <DefaultText>獲得 {0:extravalue:percentbonus} 步幅，持續{0:triggervalue:duration}【在 隱匿 狀態下攻擊後】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>656</ID>
+     <DefaultText>施加 敏捷熬煎 後，{0:extravalue:duration}內對 交戰 免疫</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>657</ID>
+     <DefaultText>{0:value:percent}機率使附近的敵人陷入 煩亂 狀態，持續{0:extravalue:duration}【使用詠者 禱歌 後】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>660</ID>
+     <DefaultText>當使用屠戮技能 &lt;g&gt;命中&lt;/g&gt;野獸時，獲得 {0:value:percentbonus} 行動速度，持續{0:extravalue:duration}（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>661</ID>
+     <DefaultText>{0:value:percent}機率使敵人 定身，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>662</ID>
+     <DefaultText>{0:value:percent}機率使目標 動搖，持續{0:extravalue:duration}【使用武器 &lt;g&gt;命中&lt;/g&gt;野獸時】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>663</ID>
+     <DefaultText>{0:value:percentbonus} 傷害【對被挑戰的敵人】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>664</ID>
+     <DefaultText>{0:value:percentbonus} 傷害【對挑戰者】</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>666</ID>
+     <DefaultText>此盾牌可用作武器，造成 穿刺/鈍擊 傷害。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>670</ID>
+     <DefaultText>獲得隨機 &lt;g&gt;藥水&lt;/g&gt;或 軟膏 的效果</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>671</ID>
+     <DefaultText>風之歌的武器熟練 作戰風格 有{0:extravalue:percent}機率 &lt;g&gt;命中&lt;/g&gt;時對 &lt;g&gt;瀕死&lt;/g&gt;敵人施加 煩亂，持續{0:value:duration}</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>728</ID>
+     <DefaultText>{0:extravalue:percentbonus} 先手權【每 {0:skill} 技能】</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

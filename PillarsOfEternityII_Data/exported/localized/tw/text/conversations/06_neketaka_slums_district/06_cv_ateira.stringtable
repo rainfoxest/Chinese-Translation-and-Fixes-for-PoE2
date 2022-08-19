@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「我聞到你身上那股馬塔魯富人的香水味了。你有我想要的東西。把海浪號角交出來。」
+      <DefaultText>「我聞到你身上那股 &lt;g&gt;馬塔魯&lt;/g&gt;富人的香水味了。你有我想要的東西。把海浪號角交出來。」
 
 小混混們朝你步步緊逼，武器出鞘。</DefaultText>
       <FemaleText />
@@ -55,8 +55,8 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「這些話聽起來只不過是個絕望的男人在作垂死掙扎。她把劍舉平到頸部，比劃了一個割喉的動作。</DefaultText>
-      <FemaleText>「這些話聽起來只不過是個絕望的女人在作垂死掙扎。」她把劍舉平到頸部，比劃了一個割喉的動作。</FemaleText>
+      <DefaultText>「這些話聽起來只不過是個絕望的人在作垂死掙扎。」她把劍舉平到頸部，比劃了一個割喉的動作。</DefaultText>
+      <FemaleText>「這些話聽起來只不過是個絕望的人在作垂死掙扎。」她把劍舉平到頸部，比劃了一個割喉的動作。</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -99,7 +99,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「好吧。但下次我再看到你，我保證事況發展會有所不同。「
+      <DefaultText>「好吧。但下次我再看到你，我保證事況發展會有所不同。」
 
 她飛快地離開了，小混混們也緊隨其後。</DefaultText>
       <FemaleText />
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「這是昂德拉的信物，看到上面的符文了嗎？」</DefaultText>
+      <DefaultText>「這是 &lt;g&gt;昂德拉&lt;/g&gt;的信物，看到上面的符文了嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,13 +146,13 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>「我聽說了他對潛民街那個蛛人的所作所為。我可不想惹他。」</DefaultText>
-      <FemaleText>「我聽說了她對潛民街那個蛛人的所作所為。我可不想惹她。」</FemaleText>
+      <DefaultText>「我聽說了他對 &lt;g&gt;潛民街&lt;/g&gt;那個蛛人的所作所為。我可不想惹他。」</DefaultText>
+      <FemaleText>「我聽說了她對 &lt;g&gt;潛民街&lt;/g&gt;那個蛛人的所作所為。我可不想惹她。」</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「我聽說了他對潛民街的厄爾內佐做了什麼。我可不想惹他。」</DefaultText>
-      <FemaleText>「我聽說了她對潛民街的厄爾內佐做了什麼。我可不想惹她。」</FemaleText>
+      <DefaultText>「我聽說了他對 &lt;g&gt;潛民街&lt;/g&gt;的厄爾內佐做了什麼。我可不想惹他。」</DefaultText>
+      <FemaleText>「我聽說了她對 &lt;g&gt;潛民街&lt;/g&gt;的厄爾內佐做了什麼。我可不想惹她。」</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>「別聽信了，頭領。這傢伙是全亡焰列島心腸最軟的 [player class]。」</DefaultText>
+      <DefaultText>「別聽信了，頭領。這傢伙是全 &lt;g&gt;亡焰列島&lt;/g&gt;心腸最軟的 [player class]。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>「不可能——不然的話德理奧為什麼要派我們來找這個東西？」她毛茸茸的臉上交雜著憤怒和疑惑。</DefaultText>
+      <DefaultText>「不可能—不然的話德理奧為什麼要派我們來找這個東西？」她毛茸茸的臉上交雜著憤怒和疑惑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,7 +274,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>「等等，我還以為他僱傭這些呆瓜就是為了把所有事都搞砸呢。」</DefaultText>
+      <DefaultText>「等等，我還以為他僱傭一些呆瓜，而且他們搞砸掉所有事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,7 +318,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>「對。你要是知道好歹，就永遠離開涅克塔卡。」</DefaultText>
+      <DefaultText>「對。你要是知道好歹，就永遠離開 涅克塔卡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

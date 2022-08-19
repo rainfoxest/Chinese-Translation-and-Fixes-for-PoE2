@@ -45,7 +45,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「當然，這麼做是對的，我絕不會後悔。」</DefaultText>
+      <DefaultText>「當然。幫上我，讓我不會為此後悔啦。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[調情] 「我說，塞拉芬……」</DefaultText>
+      <DefaultText>[調情]「我說，塞拉芬……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「你看……鑒於我和昂德拉之間的關係，事情已經夠複雜了。」
+      <DefaultText>「你看……鑒於我和 &lt;g&gt;昂德拉&lt;/g&gt;之間的關係，事情已經夠複雜了。」
 
 他避開了你的目光。</DefaultText>
       <FemaleText />
@@ -372,14 +372,14 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「加入海盜嗎，船長？我們又不是那群裝腔作勢的努瓦泰海軍。」
+      <DefaultText>「加入海盜嗎，船長？我們又不是那群裝腔作勢的 &lt;g&gt;努瓦泰&lt;/g&gt;海軍。」
 
 他笑了起來，笑聲低沉而溫厚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -433,7 +433,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「無家可歸，沒錯。他們都是很多年前從瓦利亞大帝國過來的，現在變成了亡焰列島的大麻煩。」
+      <DefaultText>「無家可歸，沒錯。他們都是很多年前從 &lt;g&gt;瓦利亞&lt;/g&gt;大帝國過來的，現在變成了 &lt;g&gt;亡焰列島&lt;/g&gt;的大麻煩。」
 
 他甩甩肩膀，挺起胸膛。</DefaultText>
       <FemaleText />
@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>「現在你只要去和委員會的人談談，然後想辦法適應海盜生活就行了。」</DefaultText>
+      <DefaultText>「現在你只要去和議會的人談談，然後想辦法適應海盜生活就行了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -578,7 +578,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>「你們兩個墜入愛河了嗎？」</DefaultText>
+      <DefaultText>「你們兩個是情侶嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -588,14 +588,14 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>「這麼說吧，他是那種舊瓦利亞人。是個好人，而且很正直。當然，他並不誠實，但他是個可敬的人。他以前還當過船醫，手藝真是相當不錯。」
+      <DefaultText>「這麼說吧，他是那種 &lt;g&gt;舊瓦利亞&lt;/g&gt;人。是個好人，而且很正直。當然，他並不誠實，但他是個可敬的人。他以前還當過船醫，手藝真是相當不錯。」
 
 他笑了起來，搓起了右臂小臂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>「像他這樣的人，死了之後應該不至於進不了貝拉斯之輪。」</DefaultText>
+      <DefaultText>「像他這樣的人，死了之後應該不至於進不了 貝拉斯之輪。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -634,7 +634,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>「我知道我不是什麼總說實話的人，船長。但雷馬洛這件事，我一定要知道真相。」</DefaultText>
+      <DefaultText>「我知道我平時對真相什麼都不屑一顧，船長。但雷馬洛這件事，我一定要知道真相。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,14 +661,14 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>「但現在呢？那艘船的情況，就像沃艾珥的腦袋瓜子一樣，沒人知道怎麼樣。」
+      <DefaultText>「但現在呢？那艘船的情況，就像 &lt;g&gt;沃艾珥&lt;/g&gt;的腦袋瓜子一樣，沒人知道怎麼樣。」
 
 他轉過了視線。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>「我以前從來沒聽說過海盜還會殺奴隸販子。」</DefaultText>
+      <DefaultText>「我以前從來沒聽說過海盜還會殺 奴隸販子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -680,7 +680,7 @@
       <ID>127</ID>
       <DefaultText>「沒接受過什麼正規訓練。都是在沙坑裡，在海上練出來的。」
 
-他聳聳肩， 攤了攤手。</DefaultText>
+他聳聳肩，攤了攤手。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -709,7 +709,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>「我那時最渴望的事情，就是能親手殺死一個奴隸販子。當我殺死第四十個人的時候，我的願望實現了。」</DefaultText>
+      <DefaultText>「我那時最渴望的事情，就是能親手殺死一個 奴隸販子。當我殺死第四十個人的時候，我的願望實現了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -761,7 +761,7 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>「地獄專門為這種惡人的靈魂留了個位置。算不上位置，他們的靈魂會被撕碎，再也沒辦法轉世重生。」</DefaultText>
+      <DefaultText>「冥界 專門為這種惡人的靈魂留了個位置。算不上位置，他們的靈魂會被撕碎，再也沒辦法轉世重生。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -788,7 +788,7 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>「所以你才會這麼痛恨奴隸販子。」</DefaultText>
+      <DefaultText>「所以你才會這麼痛恨 奴隸販子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -867,7 +867,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>「哦，這件事算了吧， 水手。」</DefaultText>
+      <DefaultText>「哦，這件事算了吧，水手。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -879,7 +879,7 @@
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>「不是！更多是因為，呃——該死！——更多是因為，我不太喜歡接下來各種各樣的事情。神嗣之類的事情。」</DefaultText>
+      <DefaultText>「不是！更多是因為，呃—該死！—更多是因為，我不太喜歡接下來各種各樣的事情。神嗣之類的事情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -997,7 +997,7 @@
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>「無家可歸，沒錯。他們都是很多年前從瓦利亞大帝國過來的，現在變成了亡焰列島的大麻煩。」
+      <DefaultText>「無家可歸，沒錯。他們都是很多年前從 &lt;g&gt;瓦利亞&lt;/g&gt;大帝國過來的，現在變成了 &lt;g&gt;亡焰列島&lt;/g&gt;的大麻煩。」
 
 他甩甩肩膀，挺起胸膛。</DefaultText>
       <FemaleText />

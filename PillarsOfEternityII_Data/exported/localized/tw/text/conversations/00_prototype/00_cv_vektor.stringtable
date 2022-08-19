@@ -11,12 +11,14 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>矮人用抹布為自己扇風。他的臉因使勁而顯得黑亮。汗水浸透了他襯衫上的月牙圖案。 他看著你的眼神就像溺水者看著陸地。</DefaultText>
+      <DefaultText>矮人用抹布為自己扇風。他的臉因使勁而顯得黑亮。汗水浸透了他襯衫上的月牙圖案。
+	  
+他看著你的眼神就像溺水者看著陸地。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「我在這裡被困幾個星期了！瓦利亞商行不會派人來。除非……」
+      <DefaultText>「我在這裡被困幾個星期了！瓦利亞商行 不會派人來。除非……」
 
 他斜眼看你，激動地用破布的一角擦拭眉毛。</DefaultText>
       <FemaleText />
@@ -38,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「我這霉運啊。」</DefaultText>
+      <DefaultText>「Merla，我這霉運啊。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +60,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「到下午，只有盧亞努回來了。」</DefaultText>
+      <DefaultText>「到下午，只有魯阿努回來了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +90,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>「維克多不是瓦利亞名。」</DefaultText>
+      <DefaultText>「維克多不是 &lt;g&gt;瓦利亞&lt;/g&gt;名。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,12 +115,12 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[把貝莎的書頁給他。]「你們的船長想對部落下黑手。」</DefaultText>
+      <DefaultText>[把貝莎的書頁給他]「你們的船長想對部落下黑手。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「你是說死了嗎？天啦！」他的厚眉警覺地高挑起來。</DefaultText>
+      <DefaultText>「你是說死了嗎？Madiccho！」他的厚眉警覺地高挑起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +130,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[向他展示被詛咒的雕像。]「我覺得奈利與他們的死有關。」</DefaultText>
+      <DefaultText>[向他展示被詛咒的雕像]「我覺得奈利與他們的死有關。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,22 +140,22 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>「Cue？不不不，不會是……」他一邊說話，一邊也不忘了瞪大眼睛盯著它。</DefaultText>
+      <DefaultText>「Cuè？不不不，不會是……」他一邊說話，一邊也不忘了瞪大眼睛盯著它。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>「必須讓盧亞努知道。對，讓他來處理她。」他舔了舔嘴唇，急切地點點頭。</DefaultText>
+      <DefaultText>「必須讓魯阿努知道。對，讓他來處理她。」他舔了舔嘴唇，急切地點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「謝謝你。」他低下了頭。</DefaultText>
+      <DefaultText>「Agracima.」他低下了頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>「Cue？你是什麼意思？」他拿走書頁，向後翻。
+      <DefaultText>「Cuè？你是什麼意思？」他拿走書頁，向後翻。
 
 接著他停下來，一隻手靜靜地懸在髒兮兮的紙上方。
 
@@ -162,7 +164,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>「別扯了，你不會當真了吧。貝、貝莎只不過是個渴求主管注意的小屁孩。」他額前不停地滲出汗珠。</DefaultText>
+      <DefaultText>「Per complancanet，你不會當真了吧。貝、貝莎只不過是個渴求主管注意的小屁孩。」他額前不停地滲出汗珠。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>「但我會確保它交到涅克塔卡的主管手裡。別擔心。」
+      <DefaultText>「但我會確保它交到 &lt;g&gt;涅克塔卡&lt;/g&gt;的主管手裡。別擔心。」
 
 他不自然地微笑一下，然後迅速地捲好書頁。</DefaultText>
       <FemaleText />
@@ -193,17 +195,17 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>「你這病號好像挺活蹦亂跳的。」</DefaultText>
+      <DefaultText>「你這病人還挺活蹦亂跳的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>「事實上音樂和美酒能治療靈魂。」他拍拍心口，面露羞愧。</DefaultText>
+      <DefaultText>「Per complancanet，事實上音樂和美酒能治療靈魂。」他拍拍心口，面露羞愧。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>「還有牧師。安納哈魯。」</DefaultText>
+      <DefaultText>「還有牧師，安納哈魯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,12 +215,14 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>「之後，我們睡在船上，並輪流觀望海岸。」 「 除了我。我得休息和恢復。」他咳嗽道。</DefaultText>
+      <DefaultText>「之後，我們睡在船上，並輪流觀望海岸。」
+
+「除了我。我得休息和恢復。」他咳嗽道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>「但沒過幾小時，我們的探子就看到盧亞努和安納哈魯一起不見了。」</DefaultText>
+      <DefaultText>「但沒過幾小時，我們的探子就看到魯阿努和安納哈魯一起不見了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -275,7 +279,7 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「太好了！來得正是時候！」</DefaultText>
+      <DefaultText>「Belfetto！來得正是時候！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>「求你不要提到這件事。沒了盧亞努，誰來保護我們？」</DefaultText>
+      <DefaultText>「求你不要提到這件事。沒了魯阿努，誰來保護我們？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -312,7 +316,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>「聖母海麗婭，別讓我死在這裡呀！」</DefaultText>
+      <DefaultText>「聖母 海麗婭，別讓我死在這裡呀！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>「除非……你船上還有房間？」「他看著你，捏捏指節。</DefaultText>
+      <DefaultText>「除非……你船上還有房間？」他看著你，捏捏指節。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -338,7 +342,7 @@
     <Entry>
       <ID>156</ID>
       <DefaultText>「你要能把我從這個垃圾場帶走，我跟你的船簽賣身契都行。」他歎了口氣，把抹布塞進口袋裡。</DefaultText>
-      <FemaleText>「朋友，無論如何別再把我晾在沙灘上了」</FemaleText>
+      <FemaleText>「Aimica，無論如何別再把我晾在沙灘上了。」</FemaleText>
     </Entry>
     <Entry>
       <ID>159</ID>
@@ -352,7 +356,7 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>「我可是聽說某人想洗個柯基果汁澡呢。」</DefaultText>
+      <DefaultText>「我可是聽說某人想洗個柯爾奇果汁澡呢。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,8 +376,6 @@
     <Entry>
       <ID>170</ID>
       <DefaultText>「那你得燒點拿手好菜向咱們證明一下呀。」
-
-
 
 艾德爾環顧四周，尋求支援。</DefaultText>
       <FemaleText />
@@ -400,12 +402,12 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>「抱歉，我出神了。很少見到本地人穿得這麼……整齊。」他上下打量著麥婭——主要是打量上半身。</DefaultText>
+      <DefaultText>「Eccosi，我出神了。很少見到本地人穿得這麼……整齊。」他上下打量著麥婭—主要是打量上半身。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>「啊……沒什麼。怎麼了？」他緊緊地攥著布，皺起眉頭後退。</DefaultText>
+      <DefaultText>「啊…… bon piacco。怎麼了？」他緊緊地攥著布，皺起眉頭後退。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -417,12 +419,12 @@
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>「感謝，這下有希望了。」他歎息道，僵硬地鞠了一躬。</DefaultText>
+      <DefaultText>「Agracima，這下有希望了。」他歎息道，僵硬地鞠了一躬。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>「你會……找他們？謝謝你！」</DefaultText>
+      <DefaultText>「你會……找他們？Agracima！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,19 +434,19 @@
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>「好。要是有不怕死的，商行給的錢管夠。」
+      <DefaultText>「Ac。要是有不怕死的，商行給的錢管夠。」
 
 他歎歎氣，用布蓋著肩膀。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>「你來了，那我可以指望他們也能安全歸來了？」</DefaultText>
+      <DefaultText>「你來了，那我可以指望他們也能安全歸來了，ac？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>「嗨，他們派你來的時候沒解釋？」他撅起嘴來，對此事置之不理。</DefaultText>
+      <DefaultText>「Ac，他們派你來的時候沒解釋？」他撅起嘴來，對此事置之不理。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -454,12 +456,12 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>「你好啊，在這麼不友好的屋子裡能遇見熟人真棒！」</DefaultText>
+      <DefaultText>「Ado，在這麼不友好的屋子裡能遇見熟人真棒！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>「哎，總算得救了！」他面色凝重地歎息著。</DefaultText>
+      <DefaultText>「Ac，總算得救了！」他面色凝重地歎息著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -479,24 +481,26 @@
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>[順著他的視線看看他的目標。]</DefaultText>
+      <DefaultText>[順著他的視線看看他的目標]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>「哎！我操！這可不是開玩笑！」
+      <DefaultText>「哎！Bazzo！這可不是開玩笑！」
 
 他的尖叫惹來幾個村民的關注。他瞪著你喘粗氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>他沒有特意盯著什麼東西看，而每有一個列島海裔靠近，他就顯得愈發緊張。 他向後退縮並清清嗓子。</DefaultText>
+      <DefaultText>他沒有特意盯著什麼東西看，而每有一個列島海裔靠近，他就顯得愈發緊張。
+	  
+他向後退縮並清清嗓子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>「我懷疑當地酋長盧亞努故意給貝莎船長和船員們指錯路。」他為手中的破布打結並用力拽它。</DefaultText>
+      <DefaultText>「我懷疑當地酋長魯阿努故意給貝莎船長和船員們指錯路。」他為手中的破布打結並用力拽它。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,12 +510,12 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>「這樣會讓馬塔魯蒙羞。」</DefaultText>
+      <DefaultText>「這樣會讓 &lt;g&gt;馬塔魯&lt;/g&gt;蒙羞。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -521,7 +525,7 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>「船長出發前，盧亞努是最後一個與她對話的人。他蹲在市場東北角的小屋裡。」 他衝著一艘被摧毀的船殼點頭。</DefaultText>
+      <DefaultText>「船長出發前，魯阿努是最後一個與她對話的人。他蹲在市場東北角的小屋裡。」他衝著一艘被摧毀的船殼點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,7 +550,7 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>「我們在提卡瓦拉登陸時，酋長為我們舉辦了公爵檔次的歡慶。」</DefaultText>
+      <DefaultText>「我們在 &lt;g&gt;提卡瓦拉&lt;/g&gt;登陸時，酋長為我們舉辦了 &lt;g&gt;公爵&lt;/g&gt;檔次的歡慶。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,7 +560,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>「船長應該要回來的。我們在危險水域游了泳，對吧？」</DefaultText>
+      <DefaultText>「船長應該是要回來了。我們可是在危險的水域，ac？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -571,7 +575,7 @@
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>「打擾了，我快沒酒了。」他衝你淺淺一笑，然後炫耀自己的貨物。</DefaultText>
+      <DefaultText>「Eccosi，我快沒酒了。」他衝你淺淺一笑，然後炫耀自己的貨物。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +585,7 @@
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>「沒什麼，問吧。」他搓了搓眉毛，等待著。</DefaultText>
+      <DefaultText>「Bon piacco，問吧。」他搓了搓眉毛，等待著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,17 +595,17 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>「對，你懂的。」他用力點頭以示立場。</DefaultText>
+      <DefaultText>「Ac，你懂的。」他用力點頭以示立場。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>[衝他耳旁施放一道魔法火花。]</DefaultText>
+      <DefaultText>[衝他耳旁施放一道魔法火花]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +620,7 @@
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>「打擾了。這個部落讓我忍無可忍。」他擦擦自己的脖子。</DefaultText>
+      <DefaultText>「Eccosi。這個部落讓我忍無可忍。」他擦擦自己的脖子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,7 +630,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>「說真的，商行的顧慮就是公爵的顧慮，從而也就是&lt;i&gt;我&lt;/i&gt;的顧慮。但我的命令裡不包括救你。」</DefaultText>
+      <DefaultText>「Di verus，商行的顧慮就是 &lt;g&gt;公爵&lt;/g&gt;的顧慮，從而也就是&lt;i&gt;我&lt;/i&gt;的顧慮。但我的命令裡不包括救你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,12 +645,12 @@
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>「唉，這地方真糟糕。」他向麥婭皺了皺眉。</DefaultText>
+      <DefaultText>「Ac，這地方真糟糕。」他向麥婭皺了皺眉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>「你為雞毛蒜皮的小事白害怕，維克多。我可沒聽說商行通知探險隊讓&lt;i&gt;廚子&lt;/i&gt;為成敗負責。」</DefaultText>
+      <DefaultText>「你為雞毛蒜皮的小事白害怕，維克多。我可沒聽說過商行會要探險隊的&lt;i&gt;廚子&lt;/i&gt;為成敗負責。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

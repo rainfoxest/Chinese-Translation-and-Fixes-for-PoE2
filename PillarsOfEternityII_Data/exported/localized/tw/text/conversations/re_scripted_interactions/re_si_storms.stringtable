@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>沒有船員來操作桅桿與方向了，你現在只得聽命於昂德拉……</DefaultText>
+      <DefaultText>沒有船員來操作桅桿與方向了，你現在只得聽命於 &lt;g&gt;昂德拉&lt;/g&gt;……</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>沒有船員來操作桅桿與方向了，你現在只得聽命於昂德拉……</DefaultText>
+      <DefaultText>沒有船員來操作桅桿與方向了，你現在只得聽命於 &lt;g&gt;昂德拉&lt;/g&gt;……</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,9 +46,9 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[Specified 0]嚥了口口水。「諸神啊，船長，您惹了昂德拉嗎？除非是她親自發怒，不然您告訴我這是什麼？」水手長從甲板上放眼望去。
+      <DefaultText>[Specified 0]嚥了口口水。「諸神啊，船長，您惹了 &lt;g&gt;昂德拉&lt;/g&gt;嗎？除非是她親自發怒，不然您告訴我這是什麼？」水手長從甲板上放眼望去。
 
-「沒人想待在那樣的風暴裡——隨便來次大浪就能把整艘船掀了，大家都得死。希望能逃得掉。」</DefaultText>
+「沒人想待在那樣的風暴裡—隨便來次大浪就能把整艘船掀了，大家都得死。希望能逃得掉。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,12 +58,12 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[分配船員責任。]</DefaultText>
+      <DefaultText>[分配船員責任]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[尋求一名夥伴的援助。]</DefaultText>
+      <DefaultText>[尋求一名夥伴的援助]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[指派水手職責。]</DefaultText>
+      <DefaultText>[指派水手職責]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,7 +268,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>[用水魔法滅火。]</DefaultText>
+      <DefaultText>[用水魔法滅火]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,12 +288,12 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>數小時後，一身大汗與炭灰的船員們互相拍背以示鼓勵——火總算滅乾淨了。</DefaultText>
+      <DefaultText>數小時後，一身大汗與炭灰的船員們互相拍背以示鼓勵—火總算滅乾淨了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>數小時後，一身大汗與炭灰的船員們互相拍背以示鼓勵——火總算滅乾淨了。</DefaultText>
+      <DefaultText>數小時後，一身大汗與炭灰的船員們互相拍背以示鼓勵—火總算滅乾淨了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>[從心靈上減低他們的暈船症狀。]</DefaultText>
+      <DefaultText>[從心靈上減低他們的暈船症狀]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -425,7 +425,7 @@
       <ID>149</ID>
       <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
 
-在陰暗的下層甲板上，船員們抓著能找到的打物品——基斯和箱子一同被重力拋來拋去。</DefaultText>
+在陰暗的下層甲板上，船員們抓著能找到的打物品— &lt;g&gt;基斯&lt;/g&gt;和箱子一同被重力拋來拋去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -472,7 +472,7 @@
       <ID>169</ID>
       <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
 
-在陰暗的下層甲板上，船員們抓著能找到的打物品——基斯和箱子一同被重力拋來拋去。</DefaultText>
+在陰暗的下層甲板上，船員們抓著能找到的打物品— &lt;g&gt;基斯&lt;/g&gt;和箱子一同被重力拋來拋去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,7 +511,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>[凍住水流。]</DefaultText>
+      <DefaultText>[凍住水流]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -614,12 +614,12 @@
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>[召喚觸手營救[Specified 4]。]</DefaultText>
+      <DefaultText>[召喚觸手營救[Specified 4]]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>「裘荻，請指引[Specified 4]的靈魂前去岡恩。」</DefaultText>
+      <DefaultText>「裘荻，請指引[Specified 4]的靈魂前去 岡恩。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -709,7 +709,7 @@
       <ID>297</ID>
       <DefaultText>雲層與海浪一起翻滾著，它們之間的一切都消失在狂風暴雨中。
 
-[Specified 0]抓著圍欄吼道：「諸神啊，船長！昂德拉&lt;i&gt;發怒啦&lt;/i&gt;！」
+[Specified 0]抓著圍欄吼道：「諸神啊，船長！昂德拉 &lt;i&gt;發怒啦&lt;/i&gt;！」
 
 你腳下的甲板嘎吱響，暴風雨搖晃著[Player Ship]。</DefaultText>
       <FemaleText />
@@ -733,7 +733,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>桅桿一遍遍地狠狠敲打船側，力道彷彿來自發怒了的食人魔。船隻在暴行下哀嚎著。</DefaultText>
+      <DefaultText>桅桿一遍遍地狠狠敲打船側，力道彷彿來自發怒了的巨魔。船隻在暴行下哀嚎著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -797,7 +797,7 @@
       <ID>330</ID>
       <DefaultText>[Specifed 0]驚恐地呼喊：「火藥要爆了！」船員們急忙四處尋找掩體。
 
-火藥承載著瑪珈嵐之怒爆炸了，船殼上下頓時傷痕纍纍。</DefaultText>
+火藥承載著 &lt;g&gt;瑪珈嵐&lt;/g&gt;之怒爆炸了，船殼上下頓時傷痕纍纍。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -841,7 +841,7 @@
       <ID>351</ID>
       <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
 
-在陰暗的下層甲板上，船員們抓著能找到的打物品——基斯和箱子一同被重力拋來拋去。</DefaultText>
+在陰暗的下層甲板上，船員們抓著能找到的打物品— &lt;g&gt;基斯&lt;/g&gt;和箱子一同被重力拋來拋去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -868,12 +868,12 @@
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>[待在波谷裡。]</DefaultText>
+      <DefaultText>[待在波谷裡]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>[用魔法衝破波浪。]</DefaultText>
+      <DefaultText>[用魔法衝破波浪]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -920,7 +920,7 @@
       <ID>391</ID>
       <DefaultText>[Specified 1]的船首斜桅筆直地衝入波浪。甲板整個向上升起來，水流沖刷著船的兩側。[Player Ship]向波浪的遠端下墜，此間你感受到短暫的失重。
 
-舵手呼號起來——但你不確定是因為興奮還是恐懼。</DefaultText>
+舵手呼號起來—但你不確定是因為興奮還是恐懼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1018,7 +1018,7 @@
       <ID>489</ID>
       <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
 
-在陰暗的下層甲板上，船員們抓著能找到的打物品——基斯和箱子一同被重力拋來拋去。</DefaultText>
+在陰暗的下層甲板上，船員們抓著能找到的打物品— &lt;g&gt;基斯&lt;/g&gt;和箱子一同被重力拋來拋去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1175,26 +1175,26 @@
     </Entry>
     <Entry>
       <ID>710</ID>
-      <DefaultText>「假如我們所有人都已時日無多，那我應該可以祈求我們的靈魂安全通過地獄。」
+      <DefaultText>「假如我們所有人都已時日無多，那我應該可以祈求我們的靈魂安全通過 冥界。」
 
 她點點頭，然後低下頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>711</ID>
-      <DefaultText>「至高無上的俄撒斯啊，您有無數化身，其中最偉大的乃是岡恩。我懷著感恩和無盡的崇拜之情，謙卑地向您禱告。神啊，請聆聽我的話語，憐憫您處於水深火熱中的信徒吧。」</DefaultText>
+      <DefaultText>「至高無上的 &lt;g&gt;俄撒斯&lt;/g&gt;啊，您有無數化身，其中最偉大的乃是 岡恩。我懷著感恩和無盡的崇拜之情，謙卑地向您禱告。神啊，請聆聽我的話語，憐憫您處於水深火熱中的信徒吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>712</ID>
-      <DefaultText>「我們穿越死亡的黑暗風暴時，並不畏懼即將到來的收割。因為您的燈籠會給我們指明方向。您已為我們鋪好了穿越地獄的道路，而我們也不會跌跌撞撞或偏離路線。我們欣然接受生命的終結，並剝去腐爛的軀殼。」</DefaultText>
+      <DefaultText>「我們穿越死亡的黑暗風暴時，並不畏懼即將到來的收割。因為您的燈籠會給我們指明方向。您已為我們鋪好了穿越 冥界 的道路，而我們也不會跌跌撞撞或偏離路線。我們欣然接受生命的終結，並剝去腐爛的軀殼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>713</ID>
       <DefaultText>「然後，我們會經由您之手獲得重生。」
 
-「直到永遠，正如滾滾的貝拉斯之輪，」
+「直到永遠，正如滾滾的 貝拉斯之輪，」
 
 「阿門。」</DefaultText>
       <FemaleText />

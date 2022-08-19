@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[拿起一些食物。]「謝謝。」</DefaultText>
+      <DefaultText>[拿起一些食物]「謝謝。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「願俄撒斯保佑你。」</DefaultText>
+      <DefaultText>「願 &lt;g&gt;俄撒斯&lt;/g&gt;保佑你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,17 +41,17 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[多拿一份。]</DefaultText>
+      <DefaultText>[多拿一份]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>你趁著侍僧工作時裝了一些柯基果。他似乎沒有注意到，將碗遞給你時仍在微笑。</DefaultText>
+      <DefaultText>你趁著侍僧工作時裝了一些柯爾奇果。他似乎沒有注意到，將碗遞給你時仍在微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「或許俄撒斯太忙了，看不到這個。但我不是。」</DefaultText>
+      <DefaultText>「或許 &lt;g&gt;俄撒斯&lt;/g&gt;太忙了，看不到這個。但我不是。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,7 +80,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「他們在以瓦利亞的方式努力，但填飽幾個人的肚皮對這裡眼下的各種問題幫助不大。」
+      <DefaultText>「他們在以 &lt;g&gt;瓦利亞&lt;/g&gt;的方式努力，但填飽幾個人的肚皮對這裡眼下的各種問題幫助不大。」
 
 「真正的變革必然來自強大的權威。」他皺起眉頭，憂傷地看著排隊領取麵包的人。</DefaultText>
       <FemaleText />
@@ -89,7 +89,7 @@
       <ID>19</ID>
       <DefaultText>「看到沒受權威指手畫腳的普通人能為彼此做這麼多風險令人欣慰。
 
-」畢竟，這是晨星的工作，而不是俄撒斯的。」他看著分發食物的男人和女人，露出柔和的微笑。</DefaultText>
+」畢竟，這是晨星的工作，而不是 &lt;g&gt;俄撒斯&lt;/g&gt;的。」他看著分發食物的男人和女人，露出柔和的微笑。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

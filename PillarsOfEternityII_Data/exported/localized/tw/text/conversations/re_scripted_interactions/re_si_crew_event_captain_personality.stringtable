@@ -13,17 +13,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「呃……」[Specified 0]皺著眉頭看著甲板。「最近配給非常低了。這樣會使船員覺得基斯不適合做船長。」水手咳嗽。「不過有時候露露臉還是可以改變事態的。」</DefaultText>
+      <DefaultText>「呃……」[Specified 0]皺著眉頭看著甲板。「最近配給非常低了。這樣會使船員覺得 &lt;g&gt;基斯&lt;/g&gt;不適合做船長。」水手咳嗽。「不過有時候露露臉還是可以改變事態的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[集合對船員講話。]</DefaultText>
+      <DefaultText>[集合對船員講話]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[回自己住處去。]</DefaultText>
+      <DefaultText>[回自己住處去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -49,7 +49,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「這艘船重要的不是船板和船帆——而是你們全體船員。我會給你們作為船長能給的一切。我希望你們也是如此。」</DefaultText>
+      <DefaultText>「這艘船重要的不是船板和船帆—而是你們全體船員。我會給你們作為船長能給的一切。我希望你們也是如此。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
       <ID>11</ID>
       <DefaultText>[Specified 4]她向前邁步。
 
-「請原諒，船長，但我想問，這艘船在亡焰列島的使命究竟&lt;i&gt;是&lt;/i&gt;什麼？</DefaultText>
+「請原諒，船長，但我想問，這艘船在 &lt;g&gt;亡焰列島&lt;/g&gt;的使命究竟&lt;i&gt;是&lt;/i&gt;什麼？</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「俄撒斯所到之處留下的儘是破壞和絕望。我們要將這樣的惡行扭轉過來。」</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;所到之處盡是破壞和絕望，我們要將這一切撥亂反正。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「我們要獵殺一個骯髒的混蛋之神！誰支援我？」</DefaultText>
+      <DefaultText>「我們要獵殺一個巨型藍色的混蛋之神！誰要跟我一起？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,9 +101,9 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Specified 3]笑了起來。「不是說該我們小睡一會了嗎？」
+      <DefaultText>[Specified 3]笑了起來。「所以該輪到我們小睡一會了吧？」
 
-「你本來就沒怎麼醒著，[Specified 3]不是嗎？」[Specified 2]還擊道。
+「[Specified 3]你本來就沒怎麼醒著，不是嗎？」[Specified 2]還擊道。
 
 船員笑了起來。</DefaultText>
       <FemaleText />
@@ -112,55 +112,55 @@
       <ID>19</ID>
       <DefaultText>船員眨眨眼睛，在前往各自崗位前猶豫了一下，抓起繩索、錘子和拖把。
 
-你轉身回到你的住處。</DefaultText>
+你轉身回到你的房間。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>船員們懷疑地面面相覷，紛紛小聲咕噥著。
 
-[Specified 1]做了一個祈求上帝的手勢。「我們的船長感動了上帝。」
+[Specified 1]做了一個祈求神明的手勢。「我們的船長是受神明所加護過。」
 
-[Specified 3]點頭，表情憂鬱。</DefaultText>
+[Specified 3]點頭，神情凝重。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>[Specified 1]低聲祈禱，依舊點了點頭。
 
-[Specified 0]向前站出來。「為工作順利完成並賺到了錢乾杯！」
+[Specified 0]向前站出來。「為工作順利完成，盤滿缽滿！」
 
 [Specified 3]歡呼，其他同伴微笑點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「天啊，船長打算要穿過這個……」 [Specified 3]歎息道，一隻手捂著拉長的面孔。
+      <DefaultText>「天啊，船長是打算蹚這趟渾水……」[Specified 3]歎息道，一隻手捂著拉長的面孔。
 
-「但願昂德拉不在裡面，」[Specified 1]嘲弄說，引起一陣緊張的笑聲。
+「但願 &lt;g&gt;昂德拉&lt;/g&gt;不在裡面，」[Specified 1]嘲弄說，引起一陣緊張的笑聲。
 
-「必須有人阻止它！」[Specified 5]鬆開了握緊的拳頭，攤開手掌。「無論它的目的是什麼，總之已經殺死了很多人。」</DefaultText>
+「必須有人阻止衪！」[Specified 5]鬆開了握緊的拳頭，攤開手掌。「無論衪的目的是什麼，衪已經殺死了太多的人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>船員小聲議論，緊張地你看我我看你。 
+      <DefaultText>船員小聲議論，緊張地你看我我看你。
 
 [Specified 3]聳聳肩。「船長說的有道理。」
 
-[Specified 0]點頭，然後立正敬禮。「我們知道我們到這裡的使命，船長。那就是為你效力。」 
+[Specified 0]點頭，然後立正敬禮。「我們知道我們到這裡的使命，船長。那就是為你效力。」
 
 [Specified 5]認真點頭。「我們願為你效勞，船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「歡迎上船[Player Ship]，女士們，先生們。我是[Player Name]，你的船長。」</DefaultText>
+      <DefaultText>「歡迎登上[Player Ship]，各位先生女士。我是[Player Name]，你的船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「很高興加入你，船長！」[Specified 3]大聲說道，同時露齒而笑，好幾個其他船員也頻頻點頭。[Specified 2]從上面交叉著雙臂對你微笑，[Specified 1]輕輕鼓掌。</DefaultText>
+      <DefaultText>「很高興見到你，船長！」[Specified 3]大聲說道，同時露齒而笑，好幾個其他船員也頻頻點頭。[Specified 2]從上面交叉著雙臂對你微笑，[Specified 1]輕輕鼓掌。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,7 +170,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>「喂，船長。傳統而已。還有社交那一套。「[Specified 0]咯咯笑道。</DefaultText>
+      <DefaultText>「不，船長。不過是傳統而已，順便認識一下大家。」[Specified 0]咯咯笑道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,17 +180,17 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「離別多年，我又回到了亡焰列島溫暖廣闊的水域。回來真好。」</DefaultText>
+      <DefaultText>「離別多年，我又回到了 &lt;g&gt;亡焰列島&lt;/g&gt;溫暖廣闊的水域。回來真好。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「現在&lt;i&gt;有&lt;/i&gt;了一隊船員。你相信嗎，我房間裡的那尊雕像說你們這幫人無足輕重？」</DefaultText>
+      <DefaultText>「這&lt;i&gt;才&lt;/i&gt;是船員嘛。你相信嗎，我房間裡的那尊雕像說你們這幫人無足輕重？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「這些眼睛揭開了死亡的面紗，我回來了，作為貝拉斯的信使和她的意志的執行者。」</DefaultText>
+      <DefaultText>「我這些眼睛揭開了死亡的面紗，我回來了，作為 &lt;g&gt;貝拉斯&lt;/g&gt;的信使和她的意志的執行者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,12 +222,12 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「這裡哪位喜歡錢?跟我干，你將會得到比基斯更多的錢！」</DefaultText>
+      <DefaultText>「這裡哪位喜歡錢？跟我幹，你將會得到一世也花不完的錢！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>「掠奪品和戰利品，小伙子們，姑娘們！我們要的是該死的掠奪品和戰利品！」</DefaultText>
+      <DefaultText>「搶吧，奪吧，爭吧！我們要的就是財色兼收！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -237,9 +237,9 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「現在，那是任何水手都唾手可得的東西了！」[Specified 3]在空中揮了揮拳說道，引起一陣笑聲。它最終變成一陣歡呼，然後成為粗聲、下流的水手號子。
+      <DefaultText>「這才對啊！哪位水手不是想要這些！」[Specified 3]在空中揮了揮拳說道，引起一陣笑聲。它最終變成一陣歡呼，然後成為粗聲、下流的水手號子。
 
-頭慢慢搖晃著，[Specified 0]咯咯笑起來。「你肯定會說亡焰列島語，船長。」</DefaultText>
+頭慢慢搖晃著，[Specified 0]咯咯笑起來。「你已經是個道道地地的 &lt;g&gt;亡焰列島&lt;/g&gt;人了，船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>船員散開，返回他們的崗位，輪船——你的船——繼續航行，在亡焰列島湛藍明亮水中乘風破浪。</DefaultText>
+      <DefaultText>船員散開，返回他們的崗位，而船—你的船—繼續航行，在 &lt;g&gt;亡焰列島&lt;/g&gt;湛藍明亮水中乘風破浪。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「呃，那是海盜最喜歡聽的話了！」
+      <DefaultText>「是啊，海盜最愛這套了！」
 
 塞拉芬咧嘴笑著說道。</DefaultText>
       <FemaleText />
@@ -280,7 +280,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>她交叉著雙臂。「我&lt;i&gt;不&lt;/i&gt;會與我供奉的神明為敵。不過減輕他無心造成的苦難應該沒什麼問題。」</DefaultText>
+      <DefaultText>她交叉著雙臂。「我&lt;i&gt;不&lt;/i&gt;會與我供奉的神明為敵。不過減輕衪無心造成的苦難應該沒什麼問題。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,7 +290,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「呃，那是海盜最喜歡聽的話了！」
+      <DefaultText>「是啊，海盜最愛這套了！」
 
 塞拉芬咧嘴笑著說道。</DefaultText>
       <FemaleText />
@@ -309,7 +309,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>「他拿走的可不止那些，並且，他現在沒有搶奪你的東西，並不意味著他將來不會。我們在同一條船上。」</DefaultText>
+      <DefaultText>「衪拿走的可不止那些，並且，衪現在沒有搶奪你的東西，並不意味著他將來不會。我們在同一條船上。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

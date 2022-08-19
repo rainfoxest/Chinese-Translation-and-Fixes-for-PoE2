@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[猛揍塔爾佛一拳。]</DefaultText>
+      <DefaultText>[猛揍塔爾佛一拳]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,7 +60,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[無視他，逕直走開。]</DefaultText>
+      <DefaultText>[無視他，逕直走開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,7 +87,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>「也許是因為加入流亡皇族太久了，我對公平的看法和瓦利亞人大不相同。」
+      <DefaultText>「也許是因為加入 流亡皇族 太久了，我對公平的看法和 &lt;g&gt;瓦利亞&lt;/g&gt;人大不相同。」
 
 他臉上呈現出扭曲的冷笑，有意無意地把玩皮帶上的匕首。</DefaultText>
       <FemaleText />
@@ -145,8 +145,8 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「啊，朋友，獨行在涅克塔卡的街道上過於危險。我強烈要求讓我和我的朋友們護送你安全地抵達目的地。」</DefaultText>
-      <FemaleText>「啊，朋友，獨行在涅克塔卡的街道上過於危險。
+      <DefaultText>「啊，朋友，獨行在 &lt;g&gt;涅克塔卡&lt;/g&gt;的街道上過於危險。我強烈要求讓我和我的朋友們護送你安全地抵達目的地。」</DefaultText>
+      <FemaleText>「啊，朋友，獨行在 &lt;g&gt;涅克塔卡&lt;/g&gt;的街道上過於危險。
 
 他微微鞠躬。「我強烈要求讓我和我的朋友們護送你安全地抵達目的地。」</FemaleText>
     </Entry>
@@ -179,7 +179,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>」啊！你個混蛋！」塔爾佛彷彿喘不過氣般大喊起來，踉蹌著後退幾步，手捂在眼睛上。
+      <DefaultText>「啊！你個混蛋！」塔爾佛彷彿喘不過氣般大喊起來，踉蹌著後退幾步，手捂在眼睛上。
 
 他和他的同伴們一同拔出武器。</DefaultText>
       <FemaleText />
@@ -209,7 +209,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「我看過你的信了——你的書法真是糟糕透頂。我簡直為你感到害臊。」</DefaultText>
+      <DefaultText>「我看過你的信了—你的書法真是糟糕透頂。我簡直為你感到害臊。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>「我們不會傷害她的——只要她投降。如果她想跟我們作對，那我又怎麼能拒絕她呢？」</DefaultText>
+      <DefaultText>「我們不會傷害她的—只要她投降。如果她想跟我們作對，那我又怎麼能拒絕她呢？」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

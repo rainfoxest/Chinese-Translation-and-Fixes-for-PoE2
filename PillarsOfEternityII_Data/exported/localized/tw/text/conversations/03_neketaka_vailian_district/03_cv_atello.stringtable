@@ -43,12 +43,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「現在他們正在巴達托莊園裡大肆搶奪呢。我會盡量克制遺憾的心情。」阿泰羅歎了口氣，示意你繼續。</DefaultText>
+      <DefaultText>「現在他們正在巴達托宅邸裡大肆搶奪呢。我會盡量克制遺憾的心情。」阿泰羅歎了口氣，示意你繼續。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「好心提醒你一句，伊扎莉知道你打算搶劫她的秘室。」</DefaultText>
+      <DefaultText>「好心提醒你一句，伊扎莉·巴達托知道你打算搶劫她的秘室。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「太荒唐了！馬蒂諾！現在我又要替你收拾爛攤子了。」</DefaultText>
+      <DefaultText>「Sciòderie！馬蒂諾！現在我又要替你收拾爛攤子了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「是的。只可惜當時我不在場，沒法親手一刀砍進伊扎莉的脖子。」</DefaultText>
+      <DefaultText>「Ac。只可惜當時我不在場，沒法親手一刀砍進伊扎莉的脖子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,7 +130,7 @@
       <ID>44</ID>
       <DefaultText>「拿著。你現在和我們是一家人了。因此你有權使用這把劍。」
 
-他遞給你一把精緻的劍，劍柄上刻著瓦雷拉家族的紋章。</DefaultText>
+他遞給你一把精緻的劍，劍柄上刻著瓦雷拉家族的家紋。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -155,7 +155,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>「對。巴達托銀行不許我們投資，還掐了我們的資金來源。」</DefaultText>
+      <DefaultText>「Ac。巴達托銀行不許我們投資，還掐了我們的資金來源。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,7 +170,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「她幹了那麼多對不起我們的事……我的天，她到底有何企圖？」</DefaultText>
+      <DefaultText>「她幹了那麼多對不起我們的事…… Madiccho，她到底有何企圖？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>[給他看隊長的報告。]「你們已經沒錢在這裡做生意了，更別說跟別的家族鬥下去了。」</DefaultText>
+      <DefaultText>[給他看隊長的報告]「你們已經沒錢在這裡做生意了，更別說跟別的家族鬥下去了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -277,7 +277,7 @@
       <ID>86</ID>
       <DefaultText>「拿著。你現在和我們是一家人了。因此你有權使用這把劍。」
 
-他遞給你一把精緻的劍，劍柄上刻著瓦雷拉家族的紋章。</DefaultText>
+他遞給你一把精緻的劍，劍柄上刻著瓦雷拉家族的家紋。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,7 +287,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>「你負責幫忙出謀劃策。我打算背個空袋子去巴達托莊園一遊。」馬蒂諾自顧自笑道。</DefaultText>
+      <DefaultText>「你負責幫忙出謀劃策。我打算背個空袋子去巴達托宅邸一遊。」馬蒂諾自顧自笑道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -312,7 +312,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>「所以此事也不會怪到我們頭上。太棒了。」</DefaultText>
+      <DefaultText>「所以此事也不會怪到我們頭上。Belfetto。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -369,7 +369,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>「你——你在這裡幹什麼？」</DefaultText>
+      <DefaultText>「你—你在這裡幹什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -394,7 +394,7 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>「你們只有團結一致才能對抗亡焰皇家商行。」</DefaultText>
+      <DefaultText>「你們只有團結一致才能對抗 亡焰皇家商行。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -414,7 +414,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>「我的天，不能留下目擊者啊！把事情辦好後再回來。」</DefaultText>
+      <DefaultText>「Madiccho，不能留下目擊者啊！把事情辦好後再回來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -434,7 +434,7 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「去死吧！你這條巴達托家的狗。」面容扭曲的馬蒂諾向你攻來。</DefaultText>
+      <DefaultText>「Merla！你這條巴達托家的狗。」面容扭曲的馬蒂諾向你攻來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -444,7 +444,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「嗯，現在唯一的辦法就是先下手為強！」</DefaultText>
+      <DefaultText>「Ac，現在唯一的辦法就是先下手為強！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,7 +511,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>「有。他們說家裡就數我頭腦最清楚。」</DefaultText>
+      <DefaultText>「Ac。他們說家裡就數我頭腦最清楚。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,22 +536,22 @@
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>「能啊。我們瓦雷拉家族從不背信棄義。」</DefaultText>
+      <DefaultText>「Ac。我們瓦雷拉家族從不背信棄義。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>「好吧。祝你平安。」阿泰羅轉過身去，無法看他的兒子。</DefaultText>
+      <DefaultText>「好吧。Corès。」阿泰羅轉過身去，無法看他的兒子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>「你的家族為瓦利亞商行提供什麼服務？」</DefaultText>
+      <DefaultText>「你的家族為 &lt;g&gt;瓦利亞商行&lt;/g&gt;提供什麼服務？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>「瓦雷拉家族的船在亡焰列島護送貨物和商人往返於各個島嶼。」</DefaultText>
+      <DefaultText>「瓦雷拉家族的船在 &lt;g&gt;亡焰列島&lt;/g&gt;護送貨物和商人往返於各個島嶼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -561,7 +561,7 @@
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>「你這孬種！」阿泰羅狠狠扇了他兒子兩巴掌。</DefaultText>
+      <DefaultText>「你這孬種 bazzo！」阿泰羅狠狠扇了他兒子兩巴掌。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -571,7 +571,7 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>「蠢貨，如果給胡亞納人知道，我們就得去峽谷了！」
+      <DefaultText>「蠢貨，如果給 &lt;g&gt;胡亞納&lt;/g&gt;人知道，我們就得去 &lt;g&gt;邊沟區&lt;/g&gt;了！」
 
 阿泰羅抬手又想扇馬蒂諾耳光，但他看到了你，於是停下了動作。</DefaultText>
       <FemaleText />
@@ -585,7 +585,7 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>[掌摑他。]「馬蒂諾，別把我當成救命稻草。」</DefaultText>
+      <DefaultText>[掌摑他]「馬蒂諾，別把我當成救命稻草。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -595,7 +595,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,12 +621,12 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>「謝謝你。願眾神陪伴你完成這一義舉。」馬蒂諾搖著頭，自顧自笑起來。</DefaultText>
+      <DefaultText>「Agracima。願眾神陪伴你完成這一義舉。」馬蒂諾搖著頭，自顧自笑起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>「照顧好貝爾達，你就不用和我們家族一起被丟進峽谷。」
+      <DefaultText>「照顧好貝爾達，你就不用和我們家族一起被丟進 邊沟區。」
 
 阿泰羅握了握頭部，歎了口氣。</DefaultText>
       <FemaleText />
@@ -643,7 +643,7 @@
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>「是的，為了表親貝爾達，我欣然接受你的幫助。」</DefaultText>
+      <DefaultText>「Ac，為了表親貝爾達，我欣然接受你的幫助。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -653,7 +653,7 @@
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>「荒唐。我們兩家的積怨已久，已經無法握手言和了。」</DefaultText>
+      <DefaultText>「Sciòderie。我們兩家的積怨已久，已經無法握手言和了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -748,7 +748,7 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>「馬蒂諾在瓦雷拉家門外也需要干體力活和出謀劃策的人。」阿泰羅朝他兒子皺了皺眉。</DefaultText>
+      <DefaultText>「馬蒂諾在瓦雷拉家門外也需要幹體力活和出謀劃策的人。」阿泰羅朝他兒子皺了皺眉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -773,7 +773,7 @@
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>「要是奧索沒有上街該多好。」</DefaultText>
+      <DefaultText>「奧索……要是他沒有上街該多好。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -788,7 +788,7 @@
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>「你見過決鬥了吧？我們韜光養晦之際，我們與巴達托家族間的仇恨正在逐漸失控。」</DefaultText>
+      <DefaultText>「那場決鬥你見到了吧？我們韜光養晦之際，我們與巴達托家族間的仇恨正在逐漸失控。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -808,12 +808,12 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>「在秘室裡起了肢體衝突實在可惜。在女王港消息傳得很快。」</DefaultText>
+      <DefaultText>「在秘室裡起了肢體衝突實在可惜。Ac，在女王港消息傳得很快。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>「瓦雷拉？」「我之前看到有人在跟巴達托家的人決鬥，那人肯定是你們家族的成員。」</DefaultText>
+      <DefaultText>「瓦雷拉？我很確定我見到了你們家族的一員在和巴達托家的人決鬥。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -828,12 +828,12 @@
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>「在亡焰列島，並非每個家族都能控制資金的流動。」他的上嘴唇捲起。</DefaultText>
+      <DefaultText>「在 亡焰列島，並非每個家族都能控制資金的流動。」他的上嘴唇捲起。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -903,9 +903,9 @@
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>「在巫師號上，雷馬洛曾說過……」『就要在敵人有所防備時偷他們的東西。』
+      <DefaultText>「在巫師號上，雷馬洛曾說過……『就要在敵人有所防備時偷他們的東西。』」
 
-他歎了口氣，朝瓦利亞家的人搖了搖頭。</DefaultText>
+他歎了口氣，朝 &lt;g&gt;瓦利亞&lt;/g&gt;家的人搖了搖頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -927,7 +927,7 @@
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>「蠢貨！你們跟共和國的一個地位極高的家族結仇是你們的事，我沒興趣當你們的殺人工具。你是瓦利亞人還是鹿林人？」</DefaultText>
+      <DefaultText>「Postenago！你們跟共和國的一個地位極高的家族結仇是你們的事，我沒興趣當你們的殺人工具。你是 &lt;g&gt;瓦利亞&lt;/g&gt;人還是 &lt;g&gt;鹿林&lt;/g&gt;人？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -946,7 +946,7 @@
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>「好吧。話說我們為誰效力來著？」
+      <DefaultText>「Belfetto。話說我們為誰效力來著？」
 
 她閉上雙眼，沮喪地揉著太陽穴。</DefaultText>
       <FemaleText />
@@ -1010,7 +1010,7 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>「你好。你來瓦雷拉家有何貴幹？」阿泰羅攤開手掌。</DefaultText>
+      <DefaultText>「Ado。你來瓦雷拉家有何貴幹？」阿泰羅攤開手掌。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1067,7 +1067,7 @@
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>「什麼？你這是在指控我嗎？」
+      <DefaultText>「Eccosi？你這是在指控我嗎？」
 
 阿泰羅轉頭看向他的兒子，神色愈發憤怒。</DefaultText>
       <FemaleText />
@@ -1079,7 +1079,7 @@
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>「什麼？我每時每刻都在圖謀不軌。」</DefaultText>
+      <DefaultText>「Cuè？我每時每刻都在圖謀不軌。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1098,7 +1098,7 @@
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

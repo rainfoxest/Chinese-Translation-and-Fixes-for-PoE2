@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[繼續穿過沼澤地。]</DefaultText>
+      <DefaultText>[繼續穿過沼澤地]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,7 +72,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>藉著幫助，[Specified 0]成功地衝出水面，滾到干地上，咳出了沼澤泥水。由於你的快速救援，同伴們除了渾身濕透外，全部毫髮無損。</DefaultText>
+      <DefaultText>藉著幫助，[Specified 0]成功地衝出水面，滾到乾地上，咳出了沼澤泥水。由於你的快速救援，同伴們除了渾身濕透外，全部毫髮無損。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,12 +84,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[繼續前進。]</DefaultText>
+      <DefaultText>[繼續前進]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>好幾個帶著頭巾的基斯人悄然現身於濃霧之中，一群泥塘潛妖就跟在他們身後。這群人和妖最前面的一個大塊頭海裔男子拔劍指向你。</DefaultText>
+      <DefaultText>好幾個帶著頭巾的 &lt;g&gt;基斯&lt;/g&gt;人悄然現身於濃霧之中，一群泥塘潛妖就跟在他們身後。這群人和妖最前面的一個大塊頭海裔男子拔劍指向你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,7 +99,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[攻擊。]</DefaultText>
+      <DefaultText>[攻擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>你將[Specified 0]從水裡拉出來。你們一起跌落在干地上。[Specified 0]咳出大量沼澤泥水，躺在地上呻吟。</DefaultText>
+      <DefaultText>你將[Specified 0]從水裡拉出來。你們一起跌落在乾地上。[Specified 0]咳出大量沼澤泥水，躺在地上呻吟。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,12 +146,12 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[離開。]"泥潭是你們的，夥計們。」</DefaultText>
+      <DefaultText>[離開]"泥潭是你們的，夥計們。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[將從[Specified 0]水裡拉出來。]</DefaultText>
+      <DefaultText>[將從[Specified 0]水裡拉出來]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[讓[Specified 0]自生自滅。]</DefaultText>
+      <DefaultText>[讓[Specified 0]自生自滅]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>儘管沒得到援助，[Specified 0]仍然成功地脫離水面爬上干地，咳出了大量髒水。
+      <DefaultText>儘管沒得到援助，[Specified 0]仍然成功地脫離水面爬上乾地，咳出了大量髒水。
 
 [Specified 0]瞇著眼看了你一眼，但什麼都沒說。</DefaultText>
       <FemaleText />
@@ -190,7 +190,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[讓[Specified 0]自生自滅。]</DefaultText>
+      <DefaultText>[讓[Specified 0]自生自滅]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「你就是伽拉溫觸摸過的人！請原諒我——我並不知道。你當然可以隨意穿過這片濃霧，受祝福的人。」</DefaultText>
+      <DefaultText>「你就是 伽拉溫 觸摸過的人！請原諒我—我並不知道。你當然可以隨意穿過這片濃霧，受祝福的人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

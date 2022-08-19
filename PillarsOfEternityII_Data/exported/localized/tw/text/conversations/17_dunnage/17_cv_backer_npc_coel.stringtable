@@ -60,14 +60,14 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>他的訓練……很有個性。他先描述了一個想讓你表演的人物形象——街頭混混、苦悶水手和暴躁貴族——接著他跟你講台詞，然後要你代入人物來背誦。
+      <DefaultText>他的訓練……很有個性。他先描述了一個想讓你表演的人物形象—街頭混混、苦悶水手和暴躁貴族—接著他跟你講台詞，然後要你代入人物來背誦。
 
 然後，他向你展示如何用角色扮演來騙取好處。你證明自己學成了之後，他滿滿地微笑一下，向你道別。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[離開] 「再見。」</DefaultText>
+      <DefaultText>[離開]「再見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,7 +77,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>「舞台、酒館與街角——它們既是我的家，也是我的避風港。我在艾歐拉旅行，與心懷感激的人們分享我的&lt;i&gt;天賦&lt;/i&gt;，並四海為家。」</DefaultText>
+      <DefaultText>「舞台、酒館與街角—它們既是我的家，也是我的避風港。我在艾歐拉旅行，與心懷感激的人們分享我的&lt;i&gt;天賦&lt;/i&gt;，並四海為家。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,7 +87,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,7 +109,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[傾聽。]</DefaultText>
+      <DefaultText>[傾聽]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,7 +124,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「但是……您說得對。我好氣啊。自巨大的雕像砸下來以後，時運不濟，亡焰列島沒幾個人有餘力賞錢了。」</DefaultText>
+      <DefaultText>「但是……您說得對。我好氣啊。自巨大的雕像砸下來以後，時運不濟，&lt;g&gt;亡焰列島&lt;/g&gt;沒幾個人有餘力賞錢了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +139,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「像我這樣的人要維持生計挺難的。偶爾會有小蠢蛋拿我的表演當真——我因為模仿權貴被驅逐出城三次了！
+      <DefaultText>「像我這樣的人要維持生計挺難的。偶爾會有小蠢蛋拿我的表演當真—我因為模仿權貴被驅逐出城三次了！
 
 「狗日的白癡根本不懂我表演中譏諷的閃光點。」</DefaultText>
       <FemaleText />
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[聳聳肩。]</DefaultText>
+      <DefaultText>[聳聳肩]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[強化虛張聲勢與街頭智慧]「給你。」</DefaultText>
+      <DefaultText>[提高 &lt;g&gt;虛張聲勢&lt;/g&gt;和 &lt;g&gt;街頭智慧&lt;/g&gt;]「給你。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

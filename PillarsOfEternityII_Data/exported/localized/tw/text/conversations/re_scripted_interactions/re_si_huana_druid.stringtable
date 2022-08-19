@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>茂密的林地綿延到國王港東邊，減慢了你的行程。鳥兒在你頭頂飛過，昆蟲不斷低鳴。小道最終通向一條狩獵小徑，然後就完全沒有路了。</DefaultText>
+      <DefaultText>茂密的林地綿延到 國王港 東邊，減慢了你的行程。鳥兒在你頭頂飛過，昆蟲不斷低鳴。小道最終通向一條狩獵小徑，然後就完全沒有路了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[檢查標記。]</DefaultText>
+      <DefaultText>[檢查標記]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[小心翼翼地繼續前進。]</DefaultText>
+      <DefaultText>[小心翼翼地繼續前進]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[原路返回。]</DefaultText>
+      <DefaultText>[原路返回]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,7 +70,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>灌木叢中輕聲的窸窣聲引起了你對北邊的注意——那是森林深處。</DefaultText>
+      <DefaultText>灌木叢中輕聲的窸窣聲引起了你對北邊的注意—那是森林深處。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,12 +80,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[藏在林下植物中。]</DefaultText>
+      <DefaultText>[藏在林下植物中]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[試圖逃跑。]</DefaultText>
+      <DefaultText>[試圖逃跑]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,7 +117,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>你再次來到國王港東邊的茂密森林。你走進灌木叢深處，鼻息聲和窸窣聲在你周圍響起。你四處看著，尋找聲音的源頭……</DefaultText>
+      <DefaultText>你再次來到 國王港 東邊的茂密森林。你走進灌木叢深處，鼻息聲和窸窣聲在你周圍響起。你四處看著，尋找聲音的源頭……</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,12 +127,12 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[進行伏擊。]</DefaultText>
+      <DefaultText>[進行伏擊]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[潛行穿過該區域。]</DefaultText>
+      <DefaultText>[潛行穿過該區域]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@
       <ID>33</ID>
       <DefaultText>那人突然站起來，圍著你轉，他的棒子揚起來，好像隨時準備攻擊。
 
-「是啊！那你是誰？「你到這兒幹什麼？」他的口音明顯是胡亞納人。</DefaultText>
+「是啊！那你是誰？你到這兒幹什麼？」他的口音明顯是 &lt;g&gt;胡亞納&lt;/g&gt;人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,12 +159,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>[迷惑野豬。]</DefaultText>
+      <DefaultText>[迷惑野豬]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>那個基斯皺著眉，跟著野豬群走近。當他在植物叢中看到你，他的眼睛睜得大大的。</DefaultText>
+      <DefaultText>那個 &lt;g&gt;基斯&lt;/g&gt;皺著眉，跟著野豬群走近。當他在植物叢中看到你，他的眼睛睜得大大的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>[識別符號。]</DefaultText>
+      <DefaultText>[識別符號]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>看起來是當地胡亞納文化的風格，除此以外，看起來好像是三個重疊的圓圈。</DefaultText>
+      <DefaultText>看起來是當地 &lt;g&gt;胡亞納&lt;/g&gt;文化的風格，除此以外，看起來好像是三個重疊的圓圈。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,12 +196,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[檢查標記。]</DefaultText>
+      <DefaultText>[檢查標記]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>[Specified 1]瞇著眼睛看著那雕刻圖案，皺著眉頭。「看起來是胡亞納風格。三個重疊的圓圈。除此之外就不知道了。」</DefaultText>
+      <DefaultText>[Specified 1]瞇著眼睛看著那雕刻圖案，皺著眉頭。「看起來是 &lt;g&gt;胡亞納&lt;/g&gt;風格。三個重疊的圓圈。除此之外就不知道了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>你悄無聲息地蹲伏在一根木材後面， [SkillCheck 0]跟在後面，結果斜靠在一根樹枝上，樹枝從樹幹斷落，發出很大響聲。</DefaultText>
+      <DefaultText>你悄無聲息地蹲伏在一根木材後面，[SkillCheck 0]跟在後面，結果斜靠在一根樹枝上，樹枝從樹幹斷落，發出很大響聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,7 +250,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[識別符號。]</DefaultText>
+      <DefaultText>[識別符號]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

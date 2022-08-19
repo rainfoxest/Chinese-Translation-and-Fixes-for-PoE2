@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「好吧，看這裡，貝拉斯信徒。可能你最終會成為天賜神舟號的一員！「</DefaultText>
+      <DefaultText>「好吧，看這裡，&lt;g&gt;貝拉斯&lt;/g&gt;信徒。可能你最終會成為天賜神舟號的一員！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「嘿，你是昂德拉的信徒，就像塔特扎托船長一樣。他可能會喜歡你的。」</DefaultText>
+      <DefaultText>「嘿，你是 &lt;g&gt;昂德拉&lt;/g&gt;的信徒，就像塔特扎托船長一樣。他可能會喜歡你的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「看到一個瑪珈嵐信徒總是件好事。我們的船員中有一群。他們都是好戰士。」</DefaultText>
+      <DefaultText>「看到一個 &lt;g&gt;瑪珈嵐&lt;/g&gt;信徒總是件好事。我們的船員中有一群。他們都是好戰士。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「你去涅克塔卡的野牝別館找過嗎？我肯定在那兒兩個小時就能找打一兩個男孩願意讓你叫他們賈克洛。</DefaultText>
+      <DefaultText>「你去 &lt;g&gt;涅克塔卡&lt;/g&gt;的野牝別館找過嗎？我肯定在那兒你能找打一兩個男孩願意讓你叫他們作賈克洛幾個小時。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「聰明的嘴巴。我真想知道沒有牙齒的嘴巴還能有多聰明。」</DefaultText>
+      <DefaultText>「油嘴滑舌。我真想知道沒有牙齒的嘴巴還能有多滑。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,12 +113,12 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「不好意思，讓我們過去吧。我知道賈克洛在你們這兒。從我還是共和國的小女孩時就認識他了。」</DefaultText>
+      <DefaultText>「Per complanca，讓我們過去吧。我知道賈克洛在你們這兒。從我還是共和國的小女孩時就認識他了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「那又怎麼樣？我為什麼要在意呢？</DefaultText>
+      <DefaultText>「那又怎麼樣？我為什麼要在意呢？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,7 +130,7 @@
       <ID>33</ID>
       <DefaultText>「嗯……」
 
-她的臉上露出痛苦的表情。她摸著她的右耳，看著門，然後看向你。</DefaultText>
+她的臉上露出痛苦的表情。她摸著她的右耳的毛，看著門，然後看向你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,7 +165,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「聽著，我來自鹿林。我們不會因為你重要就去讒言獻媚。」</DefaultText>
+      <DefaultText>「聽著，我來自 鹿林。我們不會因為你重要就去讒言獻媚。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -187,7 +187,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>[點頭。]</DefaultText>
+      <DefaultText>[點頭]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

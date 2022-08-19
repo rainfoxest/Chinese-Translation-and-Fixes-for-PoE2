@@ -1,453 +1,453 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\abilities</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>89</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>3974</ID>
-      <DefaultText>使用者召喚一隻強大的亞龍，為你的隊伍而戰。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3975</ID>
-      <DefaultText>亞龍指令</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3989</ID>
-      <DefaultText>使用者躍向獵物，使獵物定身並不斷流血。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3994</ID>
-      <DefaultText>召喚小型沼澤軟泥怪</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4001</ID>
-      <DefaultText>劇毒齊射</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4002</ID>
-      <DefaultText>淬毒箭矢</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4012</ID>
-      <DefaultText>織網</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4017</ID>
-      <DefaultText>甜蜜芳香</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4018</ID>
-      <DefaultText>從鏈枷裡散發出的甜蜜芳香，可以提高附近隊友的精準。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4019</ID>
-      <DefaultText>迷醉芳香</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4020</ID>
-      <DefaultText>從鏈枷裡散發出的甜蜜芳香，可以降低附近敵人的意志。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4021</ID>
-      <DefaultText>濺血橫掃</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4022</ID>
-      <DefaultText>疾步蹴擊</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4023</ID>
-      <DefaultText>狂奔</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4024</ID>
-      <DefaultText>倦怠芳香</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4025</ID>
-      <DefaultText>從鏈枷裡散發出的倦怠芳香，可以降低附近敵人的精準。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4026</ID>
-      <DefaultText>盲怒</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4027</ID>
-      <DefaultText>呼喚野豬</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4032</ID>
-      <DefaultText>匿蹤獵手</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4035</ID>
-      <DefaultText>致殘創傷</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4036</ID>
-      <DefaultText>猛襲</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4037</ID>
-      <DefaultText>始源怒吼</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4038</ID>
-      <DefaultText>蹂躪</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4039</ID>
-      <DefaultText>無可匹敵</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4040</ID>
-      <DefaultText>尾巴掃擊</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4041</ID>
-      <DefaultText>噴塗膽汁</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4042</ID>
-      <DefaultText>撕裂夾擊</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4047</ID>
-      <DefaultText>野豬之形</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4048</ID>
-      <DefaultText>野豬韌性</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4049</ID>
-      <DefaultText>野豬衝鋒</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4050</ID>
-      <DefaultText>使用者把頭往後仰，用頭槌猛擊敵人。敵人會受到嚴重的鈍擊傷害，並陷入震懾狀態。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4053</ID>
-      <DefaultText>死者之飲</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4054</ID>
-      <DefaultText>液態魂珀</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4055</ID>
-      <DefaultText>這個小瓶子裡裝著不穩定的液體，可以從競技場中吸取能量，複製其它魔藥的效果。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4061</ID>
-      <DefaultText>防禦觸手</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4065</ID>
-      <DefaultText>獅尾虎猛刺</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4066</ID>
-      <DefaultText>蜘蛛亂舞</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4067</ID>
-      <DefaultText>使用者對前方區域發動快速刺擊，對敵人造成傷害，並使其定身。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4068</ID>
-      <DefaultText>使用者向前方猛地一跳，造成嚴重傷害，並使敵人倒地。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4071</ID>
-      <DefaultText>獅尾虎獨行</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4081</ID>
-      <DefaultText>高壓護盾</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4084</ID>
-      <DefaultText>箭矢亂舞</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4086</ID>
-      <DefaultText>致命電擊</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4103</ID>
-      <DefaultText>蜘蛛聯盟</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4104</ID>
-      <DefaultText>當處於使用者的動物夥伴身邊時，攻擊速度會獲得加成。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4105</ID>
-      <DefaultText>陰影庇護</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4106</ID>
-      <DefaultText>治癒之網</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4109</ID>
-      <DefaultText>酸液護盾</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4120</ID>
-      <DefaultText>烈焰光環</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4250</ID>
-      <DefaultText>多彩毛皮</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4251</ID>
-      <DefaultText>戰鬥開始時，隨機召喚一隻伽拉溫的非戰鬥野獸。每隻野獸都有各自的光環境音效果，為附近的夥伴帶來加成效果。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4252</ID>
-      <DefaultText>換生靈之訓</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4253</ID>
-      <DefaultText>使穿戴者變形為換生靈的形態。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4271</ID>
-      <DefaultText>（箭矢亂舞）——風之歌命中瀕死的目標時，有一定機率使目標陷入煩亂狀態。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4358</ID>
-      <DefaultText>忠誠</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4477</ID>
-      <DefaultText>主母恢復</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4497</ID>
-      <DefaultText>秘法結界</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4498</ID>
-      <DefaultText>自然結界</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4515</ID>
-      <DefaultText>狩獵賦能</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4531</ID>
-      <DefaultText>擾亂線圈</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4537</ID>
-      <DefaultText>追獵者的書房</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4538</ID>
-      <DefaultText>殺戮者休息室</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4539</ID>
-      <DefaultText>求生者洞窟</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4544</ID>
-      <DefaultText>燒掉研究筆記</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4545</ID>
-      <DefaultText>大法師之怒</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4649</ID>
-      <DefaultText>重建 - 板甲</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4691</ID>
-      <DefaultText>角鬥者之形</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4749</ID>
-      <DefaultText>持有者指向一名敵人，暫時將其宰制。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4852</ID>
-      <DefaultText>當附近沒有盟友時，使用者的武器攻擊會額外造成真實傷害。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4853</ID>
-      <DefaultText>每場戰鬥中，當使用者首次陷入重傷狀態時，會在短時間內快速回復生命。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4854</ID>
-      <DefaultText>穿戴者陷入昏迷時會呼喚巨熊之靈，立刻復活並消除所有傷勢。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4867</ID>
-      <DefaultText>當沙蛇跟隨你時，你的移動速度提高，而且你的隊伍會獲得對藉機攻擊的防禦加成。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4903</ID>
-      <DefaultText>卡茲瓦里的呼喚</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4904</ID>
-      <DefaultText>使用者挑戰一名敵人，對其造成更高傷害。受到該敵人攻擊時，承受的傷害降低。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4905</ID>
-      <DefaultText>反衝</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4916</ID>
-      <DefaultText>冒泡的大酒杯</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4917</ID>
-      <DefaultText>正義的復仇</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4938</ID>
-      <DefaultText>靈魂碾壓</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4991</ID>
-      <DefaultText>穆阿圖的援護</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4992</ID>
-      <DefaultText>持有者能將穆阿圖召喚至身旁。持有者在穆阿圖附近時，後者的攻擊能起到治療效果，同時持有者將受到競技場靈魂的加持而更加強大。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5027</ID>
-      <DefaultText>貝拉斯的饋贈</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5028</ID>
-      <DefaultText>讓波羅科亞的靈魂回歸貝拉斯之輪增加了貝拉斯對靈視者的青睞，提升靈視者對靈體的精準。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5029</ID>
-      <DefaultText>（睿姆岡的饋贈） - 毀滅更多靈魂進一步提升對魂軀的精準。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5030</ID>
-      <DefaultText>伽拉溫的饋贈</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5031</ID>
-      <DefaultText>將競技場的靈魂交予伽拉溫增加了伽拉溫對靈視者的青睞，提升靈視者對野獸的精準。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5032</ID>
-      <DefaultText>（伽拉溫的饋贈） - 將更多靈魂交予伽拉溫進一步提升對野獸的精準。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5033</ID>
-      <DefaultText>睿姆岡的饋贈</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5034</ID>
-      <DefaultText>毀滅競技場的靈魂增加了睿姆岡對靈視者的青睞，提升靈視者對魂軀的精準。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5169</ID>
-      <DefaultText>無上忠誠</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>game\abilities</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>89</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>3974</ID>
+     <DefaultText>使用者召喚一隻強大的亞龍，為你的隊伍而戰。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>3975</ID>
+     <DefaultText>亞龍指令</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>3989</ID>
+     <DefaultText>使用者躍向獵物，使獵物定身並不斷流血。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>3994</ID>
+     <DefaultText>召喚小型沼澤軟泥怪</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4001</ID>
+     <DefaultText>劇毒齊射</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4002</ID>
+     <DefaultText>淬毒箭矢</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4012</ID>
+     <DefaultText>織網</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4017</ID>
+     <DefaultText>甜蜜芳香</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4018</ID>
+     <DefaultText>從鏈枷裡散發出的甜蜜芳香，可以提高附近隊友的 精準。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4019</ID>
+     <DefaultText>迷醉芳香</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4020</ID>
+     <DefaultText>從鏈枷裡散發出的甜蜜芳香，可以降低附近敵人的 意志。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4021</ID>
+     <DefaultText>濺血橫掃</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4022</ID>
+     <DefaultText>疾步蹴擊</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4023</ID>
+     <DefaultText>狂奔</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4024</ID>
+     <DefaultText>倦怠芳香</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4025</ID>
+     <DefaultText>從鏈枷裡散發出的倦怠芳香，可以降低附近敵人的 精準。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4026</ID>
+     <DefaultText>盲怒</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4027</ID>
+     <DefaultText>呼喚野豬</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4032</ID>
+     <DefaultText>匿蹤獵手</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4035</ID>
+     <DefaultText>致殘創傷</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4036</ID>
+     <DefaultText>猛襲</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4037</ID>
+     <DefaultText>始源怒吼</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4038</ID>
+     <DefaultText>蹂躪</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4039</ID>
+     <DefaultText>無可匹敵</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4040</ID>
+     <DefaultText>尾巴掃擊</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4041</ID>
+     <DefaultText>噴塗膽汁</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4042</ID>
+     <DefaultText>撕裂夾擊</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4047</ID>
+     <DefaultText>野豬之形</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4048</ID>
+     <DefaultText>野豬韌性</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4049</ID>
+     <DefaultText>野豬衝鋒</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4050</ID>
+     <DefaultText>使用者把頭往後仰，用頭槌猛擊敵人。敵人會受到嚴重的 鈍擊 傷害，並陷入 震懾。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4053</ID>
+     <DefaultText>死者之飲</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4054</ID>
+     <DefaultText>液態魂珀</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4055</ID>
+     <DefaultText>這個小瓶子裡裝著不穩定的液體，可以從競技場中吸取能量，複製其它魔藥的效果。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4061</ID>
+     <DefaultText>防禦觸手</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4065</ID>
+     <DefaultText>獅尾虎猛刺</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4066</ID>
+     <DefaultText>蜘蛛亂舞</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4067</ID>
+     <DefaultText>使用者對前方區域發動快速刺擊，對敵人造成 傷害，並使其 定身。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4068</ID>
+     <DefaultText>使用者向前方猛地一跳，造成嚴重傷害，並使敵人 倒地。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4071</ID>
+     <DefaultText>獅尾虎獨行</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4081</ID>
+     <DefaultText>高壓護盾</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4084</ID>
+     <DefaultText>箭矢亂舞</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4086</ID>
+     <DefaultText>致命電擊</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4103</ID>
+     <DefaultText>蜘蛛聯盟</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4104</ID>
+     <DefaultText>當處於使用者的動物夥伴身邊時，攻擊速度會獲得加成。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4105</ID>
+     <DefaultText>陰影庇護</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4106</ID>
+     <DefaultText>治癒之網</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4109</ID>
+     <DefaultText>酸液護盾</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4120</ID>
+     <DefaultText>烈焰光環</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4250</ID>
+     <DefaultText>多彩毛皮</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4251</ID>
+     <DefaultText>戰鬥開始時，隨機召喚一隻 &lt;g&gt;伽拉溫&lt;/g&gt;的非戰鬥野獸。每隻野獸都有各自的光環境音效果，為附近的夥伴帶來加成效果。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4252</ID>
+     <DefaultText>換生靈之訓</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4253</ID>
+     <DefaultText>使穿戴者變形為換生靈的形態。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4271</ID>
+     <DefaultText>（箭矢亂舞）—風之歌擊中 &lt;g&gt;瀕死&lt;/g&gt;的目標時，有一定機率使其 煩亂。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4358</ID>
+     <DefaultText>忠誠</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4477</ID>
+     <DefaultText>主母恢復</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4497</ID>
+     <DefaultText>秘法結界</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4498</ID>
+     <DefaultText>自然結界</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4515</ID>
+     <DefaultText>狩獵賦能</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4531</ID>
+     <DefaultText>擾亂線圈</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4537</ID>
+     <DefaultText>追獵者的書房</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4538</ID>
+     <DefaultText>殺戮者休息室</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4539</ID>
+     <DefaultText>求生者洞窟</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4544</ID>
+     <DefaultText>燒掉研究筆記</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4545</ID>
+     <DefaultText>大法師之怒</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4649</ID>
+     <DefaultText>重建 - 板甲</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4691</ID>
+     <DefaultText>角鬥者之形</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4749</ID>
+     <DefaultText>持有者指向一名敵人，可暫時使其 受控。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4852</ID>
+     <DefaultText>當附近沒有盟友時，使用者的武器攻擊會額外造成 &lt;g&gt;真實&lt;/g&gt;傷害。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4853</ID>
+     <DefaultText>穿戴者在每場戰鬥首次 &lt;g&gt;重傷&lt;/g&gt;時，會在短時間內快速回復 生命值。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4854</ID>
+     <DefaultText>穿戴者陷入 昏迷 時會呼喚巨熊之靈，立刻復活並消除所有 傷勢。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4867</ID>
+     <DefaultText>當沙蛇跟隨你時，你的 步幅 提高，而且你的隊伍會獲得對脫戰攻擊的 防禦屬性 加成。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4903</ID>
+     <DefaultText>卡茲瓦里的呼喚</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4904</ID>
+     <DefaultText>使用者挑戰一名敵人，對其造成更高 傷害。受到該敵人攻擊時，承受的傷害降低。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4905</ID>
+     <DefaultText>反衝</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4916</ID>
+     <DefaultText>冒泡的大酒杯</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4917</ID>
+     <DefaultText>正義的復仇</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4938</ID>
+     <DefaultText>靈魂碾壓</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4991</ID>
+     <DefaultText>穆阿圖的援護</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4992</ID>
+     <DefaultText>持有者能將穆阿圖召喚至身旁。持有者在穆阿圖附近時，後者的攻擊能起到治療效果，同時持有者將受到競技場靈魂的加持而更加強大。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5027</ID>
+     <DefaultText>貝拉斯的饋贈</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5028</ID>
+     <DefaultText>讓波羅科亞的靈魂回歸 &lt;g&gt;貝拉斯之輪&lt;/g&gt;增加了貝拉斯對靈視者的青睞，提升靈視者對靈體的 精準。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5029</ID>
+     <DefaultText>（睿姆岡的饋贈） - 毀滅更多靈魂進一步提升對魂軀的 精準。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5030</ID>
+     <DefaultText>伽拉溫的饋贈</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5031</ID>
+     <DefaultText>將競技場的靈魂交予 伽拉溫 增加了伽拉溫對靈視者的青睞，提升靈視者對野獸的 精準。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5032</ID>
+     <DefaultText>（伽拉溫的饋贈） - 將更多靈魂交予 伽拉溫 進一步提升對野獸的精準。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5033</ID>
+     <DefaultText>睿姆岡的饋贈</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5034</ID>
+     <DefaultText>毀滅競技場的靈魂增加了 &lt;g&gt;睿姆岡&lt;/g&gt;對靈視者的青睞，提升靈視者對魂軀的 精準。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5169</ID>
+     <DefaultText>無上忠誠</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

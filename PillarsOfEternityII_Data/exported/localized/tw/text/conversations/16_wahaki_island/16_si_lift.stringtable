@@ -13,12 +13,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[乘坐升降機返回地面。]</DefaultText>
+      <DefaultText>[乘坐升降機返回地面]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[離開。]</DefaultText>
+      <DefaultText>[離開]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,12 +28,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[乘坐升降機上去。]</DefaultText>
+      <DefaultText>[乘坐升降機上去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[朝升降機投擲抓鉤。]</DefaultText>
+      <DefaultText>[朝升降機投擲抓鉤]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[爬上高地。]</DefaultText>
+      <DefaultText>[爬上高地]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,7 +65,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>守衛懸崖的瓦哈奇戰士發出一聲呼喊示警。弓箭手們朝你的方向搭弓射箭。</DefaultText>
+      <DefaultText>守衛懸崖的 &lt;g&gt;瓦哈奇&lt;/g&gt;戰士發出一聲呼喊示警。弓箭手們朝你的方向搭弓射箭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,7 +107,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[乘坐升降機返回地面。]</DefaultText>
+      <DefaultText>[乘坐升降機返回地面]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

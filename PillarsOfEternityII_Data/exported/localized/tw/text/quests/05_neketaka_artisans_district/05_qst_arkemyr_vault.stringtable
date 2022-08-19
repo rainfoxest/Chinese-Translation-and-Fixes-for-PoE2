@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>想辦法進入&lt;b&gt;亞柯彌莊園。&lt;/b&gt;</DefaultText>
+      <DefaultText>想辦法進入&lt;b&gt;亞柯彌的莊園&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>找到&lt;b&gt;亞柯彌的秘室。&lt;/b&gt;</DefaultText>
+      <DefaultText>找到&lt;b&gt;亞柯彌的秘室&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>打開&lt;b&gt;亞柯彌的秘室。&lt;/b&gt;</DefaultText>
+      <DefaultText>打開&lt;b&gt;亞柯彌的秘室&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,42 +36,44 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>努瓦泰與胡亞納都宣稱擁有哈拉博史詩的所有權，那是一塊現在屬於法師&lt;b&gt;亞柯彌&lt;/b&gt;的古代碑板。&lt;b&gt;圖瑪拉&lt;/b&gt;與&lt;b&gt;奈特赫&lt;/b&gt;都想要獲得碑板。任意一方都樂意獲得史詩。</DefaultText>
+      <DefaultText>努瓦泰與胡亞納都宣稱擁有哈拉博史詩的所有權，那是一塊現在屬於法師亞柯彌的古代碑板。&lt;b&gt;圖瑪拉&lt;/b&gt;與&lt;b&gt;奈特赫&lt;/b&gt;都想要獲得碑板。任意一方都樂意獲得史詩。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>我需要想辦法進入&lt;b&gt;佩瑞琪之望&lt;/b&gt;裡的&lt;b&gt;亞柯彌莊園&lt;/b&gt;。最明顯的選擇是正門口，但是那裡已經被鎖上了，而且毫無疑問有守衛在那裡巡邏。</DefaultText>
+      <DefaultText>我需要想辦法進入&lt;b&gt;佩瑞琪之望&lt;/b&gt;裡的&lt;b&gt;亞柯彌的莊園&lt;/b&gt;。最明顯的選擇是正門口，但是那裡已經被鎖上了，而且毫無疑問有守衛在那裡巡邏。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>我已經進入&lt;b&gt;亞柯彌莊園&lt;/b&gt;。我現在需要找到他的&lt;b&gt;秘室。&lt;/b&gt;</DefaultText>
+      <DefaultText>我已經進入&lt;b&gt;亞柯彌的莊園&lt;/b&gt;。我現在需要找到他的&lt;b&gt;秘室&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>我已經找到了&lt;b&gt;亞柯彌的秘室，&lt;/b&gt;但是大門被某種涉及稀有寶石的密碼鎖保護著。光靠猜應該沒辦法打開它，我需要知道密碼的組合。</DefaultText>
+      <DefaultText>我已經找到了亞柯彌的秘室，但是大門被某種涉及稀有寶石的密碼鎖保護著。
+	  
+光靠猜應該沒辦法打開它，我需要知道密碼的組合。我應該可以在&lt;b&gt;亞柯彌的莊園&lt;/b&gt;內某處找到。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>我闖入了&lt;b&gt;亞柯彌的秘室&lt;/b&gt;。哈拉博史詩應該就在裡面。</DefaultText>
+      <DefaultText>我闖入了亞柯彌的秘室。哈拉博史詩應該就在裡面。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>哈拉博史詩已經在我的手上，唯一的問題在於該如何處理它。&lt;b&gt;圖瑪拉&lt;/b&gt;會在&lt;b&gt;黃銅堡&lt;/b&gt;裡的&lt;b&gt;帝國總部&lt;/b&gt;門前等我。&lt;b&gt;奈特赫&lt;/b&gt;在&lt;b&gt;巨蛇王冠&lt;/b&gt;的&lt;b&gt;宮殿&lt;/b&gt;門口等著我。</DefaultText>
+      <DefaultText>哈拉博史詩已經在我的手上，唯一的問題在於該如何處理它。&lt;b&gt;圖瑪拉&lt;/b&gt;會在黃銅堡裡的&lt;b&gt;帝國總部&lt;/b&gt;門前等我。&lt;b&gt;奈特赫&lt;/b&gt;在巨蛇王冠的&lt;b&gt;宮殿&lt;/b&gt;門口等著我。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>&lt;b&gt;亞柯彌&lt;/b&gt;的弟子&lt;b&gt;費西娜&lt;/b&gt;應該更加清楚莊園的情況。她負責看管&lt;b&gt;佩瑞琪之望&lt;/b&gt;裡的&lt;b&gt;黑暗櫥櫃&lt;/b&gt;。</DefaultText>
+      <DefaultText>亞柯彌的弟子&lt;b&gt;費西娜&lt;/b&gt;應該更加清楚莊園的情況。她負責看管佩瑞琪之望裡的&lt;b&gt;黑暗櫥櫃&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>有個叫做&lt;b&gt;伊夫倫&lt;/b&gt;的人惹怒了&lt;b&gt;亞柯彌&lt;/b&gt;並被宿魂於&lt;b&gt;黑暗櫥櫃&lt;/b&gt;裡的算命機裡面。他應該知道該如何進入&lt;b&gt;亞柯彌&lt;/b&gt;的莊園。</DefaultText>
+      <DefaultText>有個叫做&lt;b&gt;伊夫倫&lt;/b&gt;的人惹怒了亞柯彌並被宿魂於&lt;b&gt;黑暗櫥櫃&lt;/b&gt;裡的算命機裡面。他應該知道該如何進入亞柯彌的莊園。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,47 +98,47 @@
     </Entry>
     <Entry>
       <ID>20006</ID>
-      <DefaultText>二樓房間的一隻妖精據說與密碼鎖上的寶石被竊有關。</DefaultText>
+      <DefaultText>&lt;b&gt;二樓房間&lt;/b&gt;的一隻&lt;b&gt;妖精&lt;/b&gt;據說與密碼鎖上的寶石被竊有關。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20007</ID>
-      <DefaultText>&lt;b&gt;伊夫倫&lt;/b&gt;說他和他的同伴通過&lt;b&gt;明亮澡堂&lt;/b&gt;延伸出來的天然隧道進入的莊園。</DefaultText>
+      <DefaultText>&lt;b&gt;伊夫倫&lt;/b&gt;說他和他的同伴通過&lt;b&gt;輝光澡堂&lt;/b&gt;延伸出來的天然隧道進入的莊園。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20008</ID>
-      <DefaultText>&lt;b&gt;費西娜&lt;/b&gt;有&lt;b&gt;亞柯彌莊園&lt;/b&gt;的鑰匙，但是不肯交出來。我得想辦法從她那裡偷過來或者搶過來。</DefaultText>
+      <DefaultText>&lt;b&gt;費西娜&lt;/b&gt;有&lt;b&gt;亞柯彌的莊園&lt;/b&gt;的鑰匙，但是不肯交出來。我得想辦法從她那裡偷過來或者搶過來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20009</ID>
-      <DefaultText>我有可能可以通過&lt;b&gt;黑暗櫥櫃&lt;/b&gt;的上層窗戶進入&lt;b&gt;亞柯彌莊園&lt;/b&gt;的陽台，但是那樣子做的話我需要一個抓鉤與繩索。</DefaultText>
+      <DefaultText>我有可能可以通過&lt;b&gt;黑暗櫥櫃&lt;/b&gt;的上層窗戶進入亞柯彌的莊園的&lt;b&gt;陽台&lt;/b&gt;，但是那樣子做的話我需要一個抓鉤與繩索。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20010</ID>
-      <DefaultText>&lt;b&gt;奈特赫&lt;/b&gt;或者&lt;b&gt;圖瑪拉&lt;/b&gt;應該知道該如何進入&lt;b&gt;亞柯彌莊園&lt;/b&gt;。我可以在白天的&lt;b&gt;巨蛇王冠&lt;/b&gt;或者&lt;b&gt;黃銅堡&lt;/b&gt;找到他們。</DefaultText>
+      <DefaultText>&lt;b&gt;奈特赫&lt;/b&gt;或者&lt;b&gt;圖瑪拉&lt;/b&gt;應該知道該如何進入&lt;b&gt;亞柯彌的莊園&lt;/b&gt;。我可以在白天的&lt;b&gt;巨蛇王冠&lt;/b&gt;或者&lt;b&gt;黃銅堡&lt;/b&gt;找到他們。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20011</ID>
-      <DefaultText>&lt;b&gt;亞柯彌的秘室&lt;/b&gt;就在莊園最底層的西南角。</DefaultText>
+      <DefaultText>&lt;b&gt;亞柯彌的秘室&lt;/b&gt;就在莊園&lt;b&gt;最底層&lt;/b&gt;的西南角。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20012</ID>
-      <DefaultText>如果我能夠從&lt;b&gt;亞柯彌&lt;/b&gt;的房間裡面找到一件他的私人長袍，我就應該能利用那東西欺騙他的安保妖精。</DefaultText>
+      <DefaultText>如果我能夠從亞柯彌的房間裡的&lt;b&gt;衣櫃&lt;/b&gt;找到一件他的私人長袍，我就應該能利用那東西欺騙他的安保妖精。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20013</ID>
-      <DefaultText>我已經從&lt;b&gt;費西娜&lt;/b&gt;那裡得到了打開&lt;b&gt;亞柯彌&lt;/b&gt;莊園前門的鑰匙。</DefaultText>
+      <DefaultText>我已經從&lt;b&gt;費西娜&lt;/b&gt;那裡得到了打開亞柯彌的莊園前門的鑰匙。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20014</ID>
-      <DefaultText>&lt;b&gt;亞柯彌&lt;/b&gt;告訴了他的妖精們一段辨識他的口令：蘋果汁與乾酪。</DefaultText>
+      <DefaultText>亞柯彌告訴了他的妖精們一段辨識他的&lt;b&gt;口令&lt;/b&gt;：&lt;b&gt;蘋果汁與乾酪&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

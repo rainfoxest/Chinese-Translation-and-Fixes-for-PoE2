@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「什麼——？靈視者？！真……真的是你嗎？」</DefaultText>
+      <DefaultText>「什麼—？靈視者？！Di verus... 真的是你嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「就算在努亞堡，你也肯定聽說了我回到共和國後發生的事。」</DefaultText>
+      <DefaultText>「就算在 努亞堡，你也肯定聽說了我回到共和國後發生的事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[聳聳肩。]「或許吧。我不清楚。我並沒有關注你說的事。」</DefaultText>
+      <DefaultText>[聳聳肩]「或許吧。我不清楚。我並沒有關注你說的事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>&lt;link="neutralvalue://瓦利亞語：你這白癡，去死吧！反正這都是你的錯！但願海怪吞噬你的靈魂，你這人渣！"&gt;「Vu maddicche postenago! Buffan vi! Cues es malgro me fulpa med tuor! Peri chue na cracuna ve engeri! Vu tros men merla!」&lt;/link&gt;</DefaultText>
+      <DefaultText>&lt;link="neutralvalue://瓦利亞 語：你這白癡，去死吧！反正這都是你的錯！但願海怪吞噬你的靈魂，你這人渣！"&gt;「Vu maddicche postenago! Buffan vi! Cues es malgro me fulpa med tuor! Peri chue na cracuna ve engeri! Vu tros men merla!」&lt;/link&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>帕蕾吉娜的辱罵仍在繼續，儘管你聽不懂。她用手做著一系列侮辱性的手勢，向後退去。</DefaultText>
+      <DefaultText>帕蕾吉娜的辱罵仍在繼續，儘管你聽不懂。當她離開你的時候，餿手做著一系列侮辱性的手勢。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>她的污言穢語引起了女王港各處的瓦利亞人的注意。有些人看得津津有味。一位母親遮住了她笑嘻嘻的兒子的眼睛，不讓他看到這粗俗不堪的畫面。帕蕾吉娜憤怒地跺著腳離開了現場，女王港的生活節奏也恢復如常。</DefaultText>
+      <DefaultText>她的污言穢語引起了女王港各處的 &lt;g&gt;瓦利亞&lt;/g&gt;人的注意。有些人看得津津有味。一位母親遮住了她笑嘻嘻的兒子的眼睛，不讓他看到這粗俗不堪的畫面。帕蕾吉娜憤怒地跺著腳離開了現場，女王港的生活節奏也恢復如常。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「連伊莎彌兒都沒她那麼厲害。」</DefaultText>
+      <DefaultText>「連 &lt;g&gt;伊莎彌兒&lt;/g&gt;都沒她那麼厲害。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,12 +106,12 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「帕蕾吉娜，你不如來幫我吧。我正在追擊俄撒斯。」</DefaultText>
+      <DefaultText>「帕蕾吉娜，你不如來幫我吧。我正在追擊 俄撒斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「你現在為瓦利亞商行效力嗎？」</DefaultText>
+      <DefaultText>「你現在為 &lt;g&gt;瓦利亞商行&lt;/g&gt;效力嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「考慮到我們之前經歷過的一切，你提出這種要求我並不吃驚。但不行，我不會與你同行，靈視者。要是我跟你走，那我運氣好的話說不定能混個死亡的結局。」</DefaultText>
+      <DefaultText>「考慮到我們經歷過的一切，我想我也不該感到吃驚了。但不，我不會跟你一起去，靈視者。你們這行不過是飛蛾撲火。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「沒有。和公爵有關的商行都不會僱傭我了。現在我在別人船上當守衛謀生。至少我能和同胞在一起，就算他們看不起我也沒關係。」</DefaultText>
+      <DefaultText>「沒有。和 &lt;g&gt;公爵&lt;/g&gt;有關的商行都不會僱傭我了。現在我在別人船上當守衛謀生。至少我能和同胞在一起，就算他們看不起我也沒關係。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「道歉並不能挽回什麼，但我心情變好了。真的。」</DefaultText>
+      <DefaultText>「道歉並不能挽回什麼，但我心情變好了。Di verus。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,29 +156,29 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>「不，不會變成那樣。我向你保——」</DefaultText>
+      <DefaultText>「不，不會變成那樣。我向你保—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「拜託。事情並沒有變得那麼糟——」</DefaultText>
+      <DefaultText>「拜託。事情並沒有變得那麼糟—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「你應該心懷感激，因為我來找你——」</DefaultText>
+      <DefaultText>「你該心懷感激，光是我來—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「祝你平安，靈視者。」
+      <DefaultText>「Corès，靈視者。」
 
 悲傷與憤怒的表情在她臉上一閃而過。但很快又換上了你熟悉的鎮定的表情。她點了點頭，轉身離去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「要不，咱們以後還是別一上來就提俄撒斯了吧。」</DefaultText>
+      <DefaultText>「要不，咱們以後還是別一上來就提 &lt;g&gt;俄撒斯&lt;/g&gt;了吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,7 +198,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「祝你平安。」</DefaultText>
+      <DefaultText>「Corès.」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,7 +208,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>「去死吧！」</DefaultText>
+      <DefaultText>「Buffan vi!」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

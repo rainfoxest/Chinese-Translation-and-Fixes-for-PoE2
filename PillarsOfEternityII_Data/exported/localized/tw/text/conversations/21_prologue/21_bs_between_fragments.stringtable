@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>conversations\21_prologue\21_bs_between_fragments</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>10</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>1</ID>
-      <DefaultText>「你醒了，你來到了無眠之界，生死之間的暗空中。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2</ID>
-      <DefaultText>「跟著你的記憶前進吧，你以前來過這裡。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3</ID>
-      <DefaultText>「你已經見過了門帷後的景象，現在，你是一名靈視者，也將一直是靈視者了。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4</ID>
-      <DefaultText>「靈視者能夠看見靈魂，知曉他們的過去，而靈魂也能看見你。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5</ID>
-      <DefaultText>「繼承了一座破破爛爛還受到詛咒的城堡，這種榮耀真是令人懷疑。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>6</ID>
-      <DefaultText>「這些神明並不存在。恰恰相反，是人類創造了他們。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>7</ID>
-      <DefaultText>「神明究竟是什麼？是更加強大的力量嗎？是獎勵善人，懲罰惡人的審判者嗎？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>8</ID>
-      <DefaultText>「讓整個世界都看到吧，讓他們決定該做什麼。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>9</ID>
-      <DefaultText>「你有沒有想過，有些事情注定是你無法理解的？它們的含義注定超出了你的認知？」 </DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>11</ID>
-      <DefaultText>「貝拉斯之輪已再次轉動，靈視者。來吧。」</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+ <Name>conversations\21_prologue\21_bs_between_fragments</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>10</EntryCount>
+ <Entries>
+  <Entry>
+   <ID>1</ID>
+   <DefaultText>「你醒了，你來到了無眠之界，生死之間的 &lt;g&gt;暗空&lt;/g&gt;中。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>2</ID>
+   <DefaultText>「跟著你的記憶前進吧，你以前來過這裡。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>3</ID>
+   <DefaultText>「你已經見過了門帷後的景象，現在，你是一名靈視者，也將一直是靈視者了。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>4</ID>
+   <DefaultText>「靈視者能夠看見靈魂，知曉他們的過去，而靈魂也能看見你。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>5</ID>
+   <DefaultText>「繼承了一座破破爛爛還受到詛咒的城堡，這種榮耀真是令人懷疑。</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>6</ID>
+   <DefaultText>「這些神明並不存在。恰恰相反，是人類創造了他們。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>7</ID>
+   <DefaultText>「神明究竟是什麼？是更加強大的力量嗎？是獎勵善人，懲罰惡人的審判者嗎？」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>8</ID>
+   <DefaultText>「讓整個世界都看到吧，讓他們決定該做什麼。」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>9</ID>
+   <DefaultText>「你有沒有想過，有些事情注定是你無法理解的？它們的含義注定超出了你的認知？」</DefaultText>
+   <FemaleText />
+  </Entry>
+  <Entry>
+   <ID>11</ID>
+   <DefaultText>「貝拉斯之輪 已再次轉動，靈視者。來吧。」</DefaultText>
+   <FemaleText />
+  </Entry>
+ </Entries>
 </StringTableFile>

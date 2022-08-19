@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「啊！歡迎來到提卡瓦拉島！」</DefaultText>
+      <DefaultText>「啊！歡迎來到 &lt;g&gt;提卡瓦拉&lt;/g&gt;！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>「你好像不介意瓦利亞人在此的影響。」</DefaultText>
+      <DefaultText>「你好像不介意 &lt;g&gt;瓦利亞&lt;/g&gt;人在此的影響。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,7 +63,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>「瓦利亞人給矮人留了不少箱子。他把它們屯在岸邊。」他面露剎那煩悶，但很快回過神來。</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;人給矮人留了不少箱子。他把它們屯在岸邊。」他面露剎那煩悶，但很快回過神來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,19 +98,19 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>「人們已經開始擔心瓦利亞人的怒火並哀求著走老路了，起碼那裡的危險大家能預料。
+      <DefaultText>「人們已經開始擔心 &lt;g&gt;瓦利亞&lt;/g&gt;人的怒火並哀求著走老路了，起碼那裡的危險大家能預料。
 
 「有什麼問題就開口吧。」他嚴肅地看著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>[把貝莎的書頁給他。]「瓦利亞人本來要收集你的靈魂來驅動波格科哈拉的機器。」</DefaultText>
+      <DefaultText>[把貝莎的書頁給他]「&lt;g&gt;瓦利亞&lt;/g&gt;人本來要收集你的靈魂來驅動波格科哈拉的機器。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>[把被詛咒的神像給他。]「奈利要為瓦利亞探險隊的不幸遭遇擔責。」我在他們的屍體上找到了這個。」</DefaultText>
+      <DefaultText>[把被詛咒的神像給他]「奈利要為 &lt;g&gt;瓦利亞&lt;/g&gt;探險隊的不幸遭遇擔責。」我在他們的屍體上找到了這個。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,7 +122,7 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>「我不明白瓦利亞人怎麼會幹這種事，但我會小心的。」他把書頁收起來。</DefaultText>
+      <DefaultText>「我不明白 &lt;g&gt;瓦利亞&lt;/g&gt;人怎麼會幹這種事，但我會小心的。」他把書頁收起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
       <ID>120</ID>
       <DefaultText>「於是她就把這個給他們了咯？送他們去死。
 
-」她從來都不信任瓦利亞人，但起碼安——」他清了清喉嚨。</DefaultText>
+」她從來都不信任 &lt;g&gt;瓦利亞&lt;/g&gt;人，但起碼安—」他清了清喉嚨。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,14 +158,14 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>「如果瓦利亞人來提卡瓦拉島，他們會在這裡建前哨的。」
+      <DefaultText>「如果 &lt;g&gt;瓦利亞&lt;/g&gt;人來 &lt;g&gt;提卡瓦拉&lt;/g&gt;，他們會在這裡建前哨的。」
 
 他眼神飄忽不定，似乎在說服自己相信這番話。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>「如果你要找強壯的馬塔魯戰士當幫手，海姆西也能幫忙。她就在貿易站站崗。」</DefaultText>
+      <DefaultText>「如果你要找強壯的 &lt;g&gt;馬塔魯&lt;/g&gt;戰士當幫手，海姆西也能幫忙。她就在貿易站站崗。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,12 +175,12 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>「你懂瓦利亞文嗎？」</DefaultText>
+      <DefaultText>「你懂 &lt;g&gt;瓦利亞&lt;/g&gt;文嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>[等待。]</DefaultText>
+      <DefaultText>[等待]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,7 +204,7 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>「你的描述一團亂。瓦利亞人不會這樣的。」他把記錄收起來。</DefaultText>
+      <DefaultText>「你的描述一團亂。瓦利亞 人不會這樣的。」他把記錄收起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,7 +219,7 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>「哦？為何？」盧亞努疑心重重。</DefaultText>
+      <DefaultText>「哦？為何？」魯阿努疑心重重。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,7 +229,7 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>[撒謊]「我必須把它們歸還給涅克塔卡的商行主管。」</DefaultText>
+      <DefaultText>[撒謊]「我必須把它們歸還給 &lt;g&gt;涅克塔卡&lt;/g&gt;的商行主管。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,9 +261,9 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>「沒什麼繼續討論的必要了。我是這裡的蘭迦，我說了算。」
+      <DefaultText>「沒什麼繼續討論的必要了。我是這裡的 蘭迦，我說了算。」
 
-盧亞努的守衛將手中的武器握得更緊，蓄勢待發。</DefaultText>
+魯阿努的守衛將手中的武器握得更緊，蓄勢待發。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,17 +283,17 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>「那你把我們幫助你的事跡告訴你們的蘭迦。」他勉為其難地把書頁遞回來。</DefaultText>
+      <DefaultText>「那你把我們幫助你的事跡告訴你們的 蘭迦。」他勉為其難地把書頁遞回來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>「這個村子還年輕，但瓦利亞人過來的時候，我們會成長的。」</DefaultText>
+      <DefaultText>「這個村子還年輕，但 &lt;g&gt;瓦利亞&lt;/g&gt;人過來的時候，我們會成長的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>「這座島沒有柯基果，魚存量也很少，我們可不想長住。」</DefaultText>
+      <DefaultText>「這座島沒有柯爾奇果，魚存量也很少，我們可不想長住。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,19 +318,19 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>「我是說，在提卡瓦拉，一定會有圍繞火堆的地方，以及——」</DefaultText>
+      <DefaultText>「我是說，在 提卡瓦拉，一定會有圍繞火堆的地方，以及—」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>盧亞努邊上站著的一名守衛肚子裡發出咕嚕嚕的聲音。他苦笑著把手捂在肚子上，想按住咕嚕聲。
+      <DefaultText>魯阿努邊上站著的一名守衛肚子裡發出咕嚕嚕的聲音。他苦笑著把手捂在肚子上，想按住咕嚕聲。
 
-蘭迦死死地盯著他。</DefaultText>
+ &lt;g&gt;蘭迦&lt;/g&gt;死死地盯著他。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>「以及人人都有的柯基。」
+      <DefaultText>「以及人人都有的柯爾奇。」
 
 他朝你轉過來時又擺出了微笑。</DefaultText>
       <FemaleText />
@@ -344,7 +344,7 @@
       <ID>222</ID>
       <DefaultText>「商行即便在此處也可以成為有用夥伴的好朋友。」
 
-她向盧亞努熱情地點點頭。</DefaultText>
+她向魯阿努熱情地點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -359,12 +359,12 @@
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>「是啊，就跟內嵌趾甲似的。」</DefaultText>
+      <DefaultText>「Ekera，就跟內嵌趾甲似的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>「被恩加蒂選中者為何要抗議？給提卡瓦拉一個證明自己的機會好嗎！」</DefaultText>
+      <DefaultText>「被 &lt;g&gt;恩加蒂&lt;/g&gt;選中者為何要抗議？給 &lt;g&gt;提卡瓦拉&lt;/g&gt;一個證明自己的機會好嗎！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,59 +391,59 @@
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>「那你說我又能怎麼選呢，聚鹿人？」他向亞洛斯投去輕蔑的一瞥，然後轉過來看你。</DefaultText>
+      <DefaultText>「那你說我又能怎麼選呢，聚鹿 人？」他向亞洛斯投去輕蔑的一瞥，然後轉過來看你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>「我不介意用豐收的果實砸死你，但今年……天公不作美。」</DefaultText>
+      <DefaultText>「我是很想用豐收的果實來款待你，但今年……收成不太好。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>[模仿對方的姿勢。]「你好呀，蘭迦。」</DefaultText>
+      <DefaultText>[模仿對方的姿勢]「你好呀，蘭迦。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>「我瞭解到有一支瓦利亞探險隊經過此地，是嗎？」</DefaultText>
+      <DefaultText>「我瞭解到有一支 &lt;g&gt;瓦利亞&lt;/g&gt;探險隊經過此地，是嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>「在提卡瓦拉經常會有外來者嗎？」</DefaultText>
+      <DefaultText>「在 &lt;g&gt;提卡瓦拉&lt;/g&gt;經常會有外來者嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>「可不是嘛，而且我希望有很多商行船只能跟著！「他粗獷地大笑，同時上上下下地打量著你。</DefaultText>
+      <DefaultText>「Ekera，而且我希望有很多商行的船也一同而來！」他粗獷地大笑，同時上上下下地打量著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>「波格科哈拉不得安寧。從遠處席捲而來的風暴把作物連根拔起、把魚類趕到較為安全的沿岸地帶。」
+      <DefaultText>「波格科哈拉的生活很不容易。從遠處席捲而來的風暴把作物連根拔起、把魚類趕到更為平靜的海岸。」
 
 他伸出手來指向東方。他的手無力地垂下來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>「我無意冒犯，你真的&lt;i&gt;長得&lt;/i&gt;不像瓦利亞人的盟友。」他凝重地皺眉。</DefaultText>
+      <DefaultText>「我無意冒犯，但你&lt;i&gt;長起來&lt;/i&gt;不像 &lt;g&gt;瓦利亞&lt;/g&gt;人的盟友。」他凝重地皺眉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>[展示偽造的令狀。]「你應該能看出來：我的文件很整齊。」</DefaultText>
+      <DefaultText>[展示偽造的令狀]「你應該能看出來：我的文件很整齊。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>[展示委令狀。]「我的夥伴就知道你會那樣說。」</DefaultText>
+      <DefaultText>[展示委令狀]「我的夥伴就知道你會那樣說。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>「我對商行有一些瞭解而已。」</DefaultText>
+      <DefaultText>「我跟商行有些相熟而已。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -458,12 +458,12 @@
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>「好吧，如你所言。」他歸還書頁，面無表情。</DefaultText>
+      <DefaultText>「Ekera，如你所言。」他歸還書頁，面無表情。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,12 +473,12 @@
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>「沒錯，這點我們倒是一樣。」</DefaultText>
+      <DefaultText>「Ekera，這點我們倒是一樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>「還沒有，不過快了！我們的瓦利亞朋友找到港口來買暈船藥時，提卡瓦拉就會綻放。」</DefaultText>
+      <DefaultText>「還沒有，不過快了！當我們的 &lt;g&gt;瓦利亞&lt;/g&gt;朋友建了港口來休息後， &lt;g&gt;提卡瓦拉&lt;/g&gt;的一切都會發好。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -503,17 +503,17 @@
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>「瓦利亞探險隊確實開往那邊了吧？」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;探險隊確實開往那邊了吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>「對，但他們啟程前風暴沒那麼猛。」</DefaultText>
+      <DefaultText>「Ekera，但他們啟程前風暴沒那麼猛。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -523,7 +523,7 @@
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>「瓦利亞探險隊為光魂珀前往波格科哈拉，但沒有回來。」</DefaultText>
+      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;探險隊為光魂珀前往波格科哈拉，但沒有回來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -533,14 +533,14 @@
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>「風暴愈發猛烈，提卡瓦拉在我們周圍死去。要是在這裡只能吃樹皮，不會有人想要停靠的。」
+      <DefaultText>「風暴越猛烈，&lt;g&gt;提卡瓦拉&lt;/g&gt;死去的人就越多。要是在這裡只能吃樹皮，不會有人想要停靠的。」
 
 他心不在焉地按壓指節，想要咬著手指上的血。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>「我跟導致風暴的老地方有過節……我會看看的。」</DefaultText>
+      <DefaultText>「我對會導致風暴的古老遺跡有些經驗……我會看看的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -560,17 +560,17 @@
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>「所以我把他們帶到這個土地貧瘠到長不出柯基果、水深到撈不著好魚的地方。」</DefaultText>
+      <DefaultText>「所以我把他們帶到這個土地貧瘠到長不出柯爾奇果、水淺到撈不著大魚的地方。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>「我們至少身處瓦利亞商人來來去去的路線上。這就是安全、繁榮。以及未來。」他堅決地點點頭。</DefaultText>
+      <DefaultText>「我們至少身處 &lt;g&gt;瓦利亞&lt;/g&gt;商人來來去去的路線上。這就是安全、繁榮。以及未來。」他堅決地點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>「在那些舊村子裡，我們要被海盜搶、被奴隸主偷、被努瓦泰探子戕害。」
+      <DefaultText>「在那些舊村子裡，我們要被海盜搶、被奴隸主偷、被 &lt;g&gt;努瓦泰&lt;/g&gt;探子戕害。」
 
 每羅列出一件事，他的頭就垂得更低，彷彿承認這些事能抹去他的人性。</DefaultText>
       <FemaleText />
@@ -582,7 +582,7 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>「恩加蒂最近可不得安寧呀。」他皺起眉頭搓揉雙手，彷彿這是他的錯。</DefaultText>
+      <DefaultText>「&lt;g&gt;恩加蒂&lt;/g&gt;最近可不得安寧呀。」他皺起眉頭搓揉雙手，彷彿這是他的錯。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -597,22 +597,22 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>「你是新來的——我猜你不知道這些事。」</DefaultText>
+      <DefaultText>「你是新來的—你不知道這些事也是正常。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>「我們祖先提到過穿越波格科哈拉沙漠的亡焰列島脊樑『光魂珀』。」</DefaultText>
+      <DefaultText>「我們祖先提到過穿越波格科哈拉沙漠的 &lt;g&gt;亡焰列島&lt;/g&gt;脊樑『光魂珀』。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>「恩加蒂伸出潮濕的拳頭為魂珀辯護。不論是瓦利亞還是胡亞納，在面對這種危險的甦醒時，對她而言什麼都不是。」</DefaultText>
+      <DefaultText>「&lt;g&gt;恩加蒂&lt;/g&gt;伸出水造的拳頭來保護魂珀。不論是 &lt;g&gt;瓦利亞&lt;/g&gt;還是 胡亞納，在衪的怒火面前什麼也不是。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>「是啊。我們撐著獨木舟歷盡艱險漂過波格科哈拉當然是有理由的。」</DefaultText>
+      <DefaultText>「Ekera。我們撐著獨木舟歷盡艱險漂過波格科哈拉當然是有理由的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -622,7 +622,7 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>「是啊，朋友。」他皺著眉擠出疲憊的微笑。</DefaultText>
+      <DefaultText>「Ekera，是啊，朋友。」他皺著眉擠出疲憊的微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -632,7 +632,7 @@
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>「給——這是蘭迦們傳下來的令牌，據說來自於波格科哈拉曾經的光輝年代。」
+      <DefaultText>「給—這是 &lt;g&gt;蘭迦&lt;/g&gt;們傳下來的令牌，據說來自於波格科哈拉曾經的光輝年代。」
 
 他遞給你一塊沉重的螺旋形銅製品。</DefaultText>
       <FemaleText />
@@ -644,7 +644,7 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>「但瓦利亞人對我的警告充耳不聞。」他聳聳肩，掃視遠方。</DefaultText>
+      <DefaultText>「但 &lt;g&gt;瓦利亞&lt;/g&gt;人對我的警告充耳不聞。」他聳聳肩，掃視遠方。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -654,12 +654,12 @@
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>「沒有瓦利亞人的幫助，部落也將很快消失。」他交叉雙臂。</DefaultText>
+      <DefaultText>「沒有 &lt;g&gt;瓦利亞&lt;/g&gt;人的幫助，部落也將很快消失。」他交叉雙臂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>「我們讓提卡瓦拉合瓦利亞人的胃口。接著他們就來波格科哈拉造港口。
+      <DefaultText>「我們讓 &lt;g&gt;提卡瓦拉&lt;/g&gt;合 &lt;g&gt;瓦利亞&lt;/g&gt;人的胃口。接著他們就來波格科哈拉造港口。
 
 「必須來。」他清了清嗓子。</DefaultText>
       <FemaleText />
@@ -671,17 +671,17 @@
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>「咳……對。「歡迎、歡迎。」</DefaultText>
+      <DefaultText>「咳……對。歡迎、歡迎。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>「提卡瓦拉看起來也沒那麼糟糕。」</DefaultText>
+      <DefaultText>「&lt;g&gt;提卡瓦拉&lt;/g&gt;看起來也沒那麼糟糕。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>「的確，但這塊土地很頑強，而恩加蒂也會向著東方熱淚盈眶。」他歎了口氣。</DefaultText>
+      <DefaultText>「Ekera，但這塊土地很頑強，而 &lt;g&gt;恩加蒂&lt;/g&gt;也會向著東方熱淚盈眶。」他歎了口氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -693,12 +693,12 @@
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>盧亞努的腦袋耷拉在一旁，模仿對方微笑起來。他似乎在思索帕蕾吉娜的反應。</DefaultText>
+      <DefaultText>魯阿努的腦袋耷拉在一旁，模仿對方微笑起來。他似乎在思索帕蕾吉娜的反應。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>「確實會追隨英格維仙人。」</DefaultText>
+      <DefaultText>「確實會追隨 &lt;g&gt;英格維仙&lt;/g&gt;人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -708,7 +708,7 @@
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>「廢墟裡只有風和哀傷——從來不會有答案。」他揮手示意你離開。</DefaultText>
+      <DefaultText>「廢墟裡只有風和哀傷—從來不會有答案。」他揮手示意你離開。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -738,7 +738,7 @@
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>「也許這正是瓦利亞人為此著迷的原因？」盧亞努撓頭聳肩。</DefaultText>
+      <DefaultText>「也許這正是 &lt;g&gt;瓦利亞&lt;/g&gt;人為此著迷的原因？」魯阿努撓頭聳肩。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -753,7 +753,7 @@
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>「提卡瓦拉並不是我們最初的家。希望它蘊含的機遇能超過柯基。」他的目光溜向門口。</DefaultText>
+      <DefaultText>「&lt;g&gt;提卡瓦拉&lt;/g&gt;並不是我們最初的家。希望它蘊含的機遇能超過柯爾奇。」他的目光溜向門口。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -783,12 +783,12 @@
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>「有些事還是不挑明比較好，對不？奈利受的苦夠多了。」他擺出互相理解的表情點點頭。</DefaultText>
+      <DefaultText>「有些事還是不挑明比較好，ekera？奈利受的苦夠多了。」他擺出互相理解的表情點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>「被、被詛咒的姑娘！天啊，這是被禁止的啊！」盧亞努眨眨眼，重新讓自己平靜下來，整了整衣物上的褶子。</DefaultText>
+      <DefaultText>「被、被詛咒的姑娘！天啊，這是被禁止的啊！」魯阿努眨眨眼，重新讓自己平靜下來，整了整衣物上的褶子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -818,7 +818,7 @@
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>「穆祖瑪海螺——挺噁心的，對吧？它們吃屍體的速度比坦格羅亞還快。」</DefaultText>
+      <DefaultText>「穆祖瑪海螺—挺噁心的，對吧？它們吃屍體的速度比 &lt;g&gt;坦格羅亞&lt;/g&gt;還快。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -833,17 +833,17 @@
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>「謝謝你，盧亞努。」</DefaultText>
+      <DefaultText>「謝謝你，魯阿努。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>「&lt;i&gt;我的&lt;/i&gt;庫亞魯造不出這玩意。那是祖先的嗜好。」他聳了聳肩微笑。</DefaultText>
+      <DefaultText>「&lt;i&gt;我的&lt;/i&gt; 庫亞魯 造不出這玩意。那是祖先的嗜好。」他聳了聳肩微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -858,7 +858,7 @@
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>「哎唷喂，真……真稀罕！但沒有人告訴過我：努瓦泰的使者在提卡瓦拉登陸了。」
+      <DefaultText>「Ekera，真……真稀罕！但沒有人告訴過我： &lt;g&gt;努瓦泰&lt;/g&gt;的使者在 &lt;g&gt;提卡瓦拉&lt;/g&gt;登陸了。」
 
 他嚥了一口唾沫，僵硬地笑了。</DefaultText>
       <FemaleText />
@@ -867,7 +867,7 @@
       <ID>396</ID>
       <DefaultText>「如果我的同胞們不想落得和波格科哈拉同樣的下場，他們最好離你們遠點。」
 
-盧亞努轉過目光，歎了口氣。</DefaultText>
+魯阿努轉過目光，歎了口氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -877,7 +877,7 @@
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>耐心的舉起一根手指，盧亞努把手伸進口袋，卻沒有找到他要找的東西，於是皺起了眉頭。他又輕輕拍了拍另一隻口袋，然後聳聳肩，抽空好奇的瞥了你一眼。</DefaultText>
+      <DefaultText>耐心的舉起一根手指，魯阿努把手伸進口袋，卻沒有找到他要找的東西，於是皺起了眉頭。他又輕輕拍了拍另一隻口袋，然後聳聳肩，抽空好奇的瞥了你一眼。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

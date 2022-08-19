@@ -18,14 +18,14 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>水塑者們注意力高度集中地看著你的船頭反射出一系列複雜的步型。一開始低聲向恩加蒂祈禱，然後上升成齊聲吟唱，以匹敵風暴的強度。
+      <DefaultText>水塑者們注意力高度集中地看著你的船頭反射出一系列複雜的步型。一開始低聲向 &lt;g&gt;恩加蒂&lt;/g&gt;祈禱，然後上升成齊聲吟唱，以匹敵風暴的強度。
 
-大海猶豫地回應著，偶爾濺起水花以示抗議。你開始懷疑隊友們是否有能力經受住昂德拉之臼無情的怒火。</DefaultText>
+大海猶豫地回應著，偶爾濺起水花以示抗議。你開始懷疑隊友們是否有能力經受住 &lt;g&gt;昂德拉&lt;/g&gt;之臼無情的怒火。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>就在你的幽靈船靠近昂德拉之臼的湍急水域時，海面陷入致命的平靜。</DefaultText>
+      <DefaultText>就在你的幽靈船靠近 &lt;g&gt;昂德拉&lt;/g&gt;之臼的湍急水域時，海面陷入致命的平靜。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -37,7 +37,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>昂德拉之臼的風暴完全包圍了可視範圍。颶風像被困的野獸一樣咆哮著，帶著足以扭曲這片海洋的力量瘋狂地吹著。
+      <DefaultText>昂德拉 之臼的風暴完全包圍了可視範圍。颶風像被困的野獸一樣咆哮著，帶著足以扭曲這片海洋的力量瘋狂地吹著。
 
 通過雨幕，站在浪湧之上，你勉強能看到巨大的魂珀之柱的輪廓。</DefaultText>
       <FemaleText />
@@ -46,21 +46,21 @@
       <ID>8</ID>
       <DefaultText>螺旋槳慢慢恢復活力並帶你著在風暴下前進。
 
-你圍繞著從海底伸出來的巨大魂珀之柱航行，但橫渡昂德拉之臼的工作不費力地完成了。最後，你發現前方出現大塊陸地的輪廓。那是烏凱佐。
+你圍繞著從海底伸出來的巨大魂珀之柱航行，但橫渡 &lt;g&gt;昂德拉&lt;/g&gt;之臼的工作不費力地完成了。最後，你發現前方出現大塊陸地的輪廓。那是 烏凱佐。
 
 你長長地鬆了一口氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>波浪一波又一波地湧起，膨脹成一個虛幻的輪廓——先是一面牆，然後是一個屋頂，最後形成一個完美的曲線更融入更深的風暴。
+      <DefaultText>波浪一波又一波地湧起，膨脹成一個虛幻的輪廓—先是一面牆，然後是一個屋頂，最後形成一個完美的曲線更融入更深的風暴。
 
-其中一個水塑者發出一個召喚。其他人流暢地作出後續完成動作——拍手，伸開手掌，鞏固他們的工作。</DefaultText>
+其中一個水塑者發出一個召喚。其他人流暢地作出後續完成動作—拍手，伸開手掌，鞏固他們的工作。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>儘管你無法擺脫貫穿整個旅程的悲傷和犯罪感，但你成功地橫渡昂德拉之臼到了它的另一邊，這讓你鬆了一口氣。
+      <DefaultText>儘管你無法擺脫貫穿整個旅程的悲傷和犯罪感，但你成功地橫渡 &lt;g&gt;昂德拉&lt;/g&gt;之臼到了它的另一邊，這讓你鬆了一口氣。
 
 一座島嶼高聳在遠方的地平線上。烏凱佐</DefaultText>
       <FemaleText />
@@ -101,7 +101,7 @@
       <ID>18</ID>
       <DefaultText>海面再次恢復平靜。當天空開始放亮是，你看到地平線上出現了一個越來越大的輪廓。
 
-烏凱佐。</DefaultText>
+ 烏凱佐。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>你的靈活操控幫助船逃離了大漩渦的致命控制——付出的不幸代價是船帆，它在狂暴的大風中嚴重受損。</DefaultText>
+      <DefaultText>你的靈活操控幫助船逃離了大漩渦的致命控制—付出的不幸代價是船帆，它在狂暴的大風中嚴重受損。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,12 +133,12 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[駛出風暴。]</DefaultText>
+      <DefaultText>[駛出風暴]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[駛進風暴。]</DefaultText>
+      <DefaultText>[駛進風暴]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,7 +148,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[繼續前行。]</DefaultText>
+      <DefaultText>[繼續前行]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,7 +165,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>接連發生了兩件事——木板斷裂的吱嘎聲充斥著你的耳朵；船開始搖搖晃晃地隨波漂流。
+      <DefaultText>接連發生了兩件事—木板斷裂的吱嘎聲充斥著你的耳朵；船開始搖搖晃晃地隨波漂流。
 
 不用說你也知道，你落水了。</DefaultText>
       <FemaleText />
@@ -179,7 +179,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>島上矗立著華貴的尖塔，標誌著裡面有一座城。並非所有烏凱佐都能在千年的洗禮下維持原樣。其餘建築結構從週遭的淺灘探出頭來，使大船無法靠近島周圍的水域。
+      <DefaultText>島上矗立著華貴的尖塔，標誌著裡面有一座城。並非所有 &lt;g&gt;烏凱佐&lt;/g&gt;都能在千年的洗禮下維持原樣。其餘建築結構從週遭的淺灘探出頭來，使大船無法靠近島周圍的水域。
 
 你決定用小舟走剩下的路。</DefaultText>
       <FemaleText />
@@ -227,7 +227,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>壓載艙填滿海水，氣流嘶嘶作響。壓力造成的吱嘎聲從船殼某處冒出來，但你的潛水器還是漸漸沉入水中。你閉上眼睛，選擇相信努瓦泰工程技術。</DefaultText>
+      <DefaultText>壓載艙填滿海水，氣流嘶嘶作響。壓力造成的吱嘎聲從船殼某處冒出來，但你的潛水器還是漸漸沉入水中。你閉上眼睛，選擇相信 &lt;g&gt;努瓦泰&lt;/g&gt;工程技術。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
       <ID>67</ID>
       <DefaultText>它們在遠方的海平面上安靜下來，你停下來定睛望去，看到了千難難得一見的景象。
 
-傳說中的烏凱佐。</DefaultText>
+傳說中的 烏凱佐。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>你的船圍著昂德拉之臼打轉，一路被撕扯著直到抵達中心，在那裡被粉碎。</DefaultText>
+      <DefaultText>你的船圍著 &lt;g&gt;昂德拉&lt;/g&gt;之臼打轉，一路被撕扯著直到抵達中心，在那裡被粉碎。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -352,7 +352,7 @@
 
 隨著一道輕輕的潑濺聲，[Player Ship]在你的掌控下切入海面，穿過裂隙的另一邊。湍流風和雨滴拍打在你背上。
 
-烏凱佐在前面。</DefaultText>
+ &lt;g&gt;烏凱佐&lt;/g&gt;在前面。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -364,9 +364,9 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>雖然能見度幾乎不存在了，而方向也是個迷，但你仍然感覺到遠遠的前方有光芒——朦朦朧朧地好似燈塔。
+      <DefaultText>雖然能見度幾乎不存在了，而方向也是個迷，但你仍然感覺到遠遠的前方有光芒—朦朦朧朧地好似燈塔。
 
-你把著舵輪航向俄撒斯。</DefaultText>
+你把著舵輪航向 俄撒斯。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,26 +390,26 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>接連發生了兩件事——木板斷裂的吱嘎聲充斥著你的耳朵；船開始搖搖晃晃地隨波漂流。
+      <DefaultText>接連發生了兩件事—木板斷裂的吱嘎聲充斥著你的耳朵；船開始搖搖晃晃地隨波漂流。
 
 不用說你也知道，你落水了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[繼續前進。]</DefaultText>
+      <DefaultText>[繼續前進]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>你在昂德拉之臼受到沉重的打擊，但你仍然活著。前面的暴風雨似乎無窮無盡，對你在這些洶湧、未知的海域航行都沒有影響。
+      <DefaultText>你在 &lt;g&gt;昂德拉&lt;/g&gt;之臼受到沉重的打擊，但你仍然活著。前面的暴風雨似乎無窮無盡，對你在這些洶湧、未知的海域航行都沒有影響。
 
 向你身後看去，你幾乎認不出那是剛離開時的那片平靜水域。還有機會回頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>你匆匆駕船離開，逼近而來的浪越來越猛，你身上還背負著艱巨的任務——你終於失去了平衡。你越過濕透的甲板，爬著前行。
+      <DefaultText>你匆匆駕船離開，逼近而來的浪越來越猛，你身上還背負著艱巨的任務—你終於失去了平衡。你越過濕透的甲板，爬著前行。
 
 你在痛苦中咬緊牙關，繼續工作。</DefaultText>
       <FemaleText />
@@ -442,7 +442,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>就在你的幽靈船靠近昂德拉之臼的湍急水域時，海面陷入致命的平靜。</DefaultText>
+      <DefaultText>就在你的幽靈船靠近 &lt;g&gt;昂德拉&lt;/g&gt;之臼的湍急水域時，海面陷入致命的平靜。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,17 +476,17 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>雙手放在舵盤上，[Specified 1]的目光越過浪端的白色泡沫注視著遠方。「我們就是在做這件事，不是嗎?開始駛入昂德拉之臼內。眾神保佑。」</DefaultText>
+      <DefaultText>雙手放在舵盤上，[Specified 1]的目光越過浪端的白色泡沫注視著遠方。「我們就是在做這件事，不是嗎?開始駛入 &lt;g&gt;昂德拉&lt;/g&gt;之臼內。眾神保佑。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>「[Player Ship]的船員是亡焰列島是最棒的。你們會帶我們穿過昂德拉之臼的。我很清楚。」</DefaultText>
+      <DefaultText>「[Player Ship]的船員是 &lt;g&gt;亡焰列島&lt;/g&gt;是最棒的。你們會帶我們穿過 &lt;g&gt;昂德拉&lt;/g&gt;之臼的。我很清楚。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>「俄撒斯威脅著你所知道的一切人和事。」無論你熱愛什麼——無論你懼怕什麼——我們就是救世主。」</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;威脅著你所知道的一切人和事。」無論你熱愛什麼—無論你懼怕什麼—我們就是救世主。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -501,12 +501,12 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>「我們已經走了這麼遠——現在不能回頭了。」</DefaultText>
+      <DefaultText>「我們已經走了這麼遠—現在不能回頭了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -552,7 +552,7 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>[Specified 4]閉上眼睛，轉過臉去面對著烏雲，低聲說。「也從來沒去過。這條路在維德溫進入鹿林之間就設好了。」</DefaultText>
+      <DefaultText>[Specified 4]閉上眼睛，轉過臉去面對著烏雲，低聲說。「也從來沒去過。這條路在維德溫進入 &lt;g&gt;鹿林&lt;/g&gt;之間就設好了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

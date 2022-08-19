@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>「不過他們的蘭迦……他是個說話有份量的人。他說的話，他們的人民都會聽。」她瞇起了眼睛，回憶著之前的事情。</DefaultText>
+      <DefaultText>「不過他們的 &lt;g&gt;蘭迦&lt;/g&gt;……他是個說話有份量的人。他說的話，他們的人民都會聽。」她瞇起了眼睛，回憶著之前的事情。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>「於是……我們回來了。你想我們嗎？」麥婭微微一笑，嘴角有些抽動，伊希薩友好地叫了一聲。</DefaultText>
+      <DefaultText>「所以…我們回來了。掛念我們嗎？」麥婭微微一笑，嘴角有些抽動，伊希薩友好地叫了一聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,7 +73,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>「我們必死無疑。」</DefaultText>
+      <DefaultText>「不。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,7 +83,7 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>「那封……信件並不是要我去送的。那封信是給我的，我已經盡可能地拖著不去看它了。」麥婭抱起雙臂。</DefaultText>
+      <DefaultText>「我……並不是去了送信。那封信是給我的，而我盡可能地拖著不去看它。」麥婭抱起雙臂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,9 +125,9 @@
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>「問題在於……這次的目標並不是什麼船長，也並不是什麼揮著大棒子的食人魔。」
+      <DefaultText>「問題在於……這次的目標並不是什麼船長，也並不是什麼揮著大棒子的巨魔。」
 
-「他是胡亞納部落的蘭迦。」她揚起了眉毛，觀察著你的反應。</DefaultText>
+「他是 &lt;g&gt;胡亞納&lt;/g&gt;部落的 蘭迦。」她揚起了眉毛，觀察著你的反應。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -137,7 +137,7 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>「努瓦泰人應該吸取教訓，下次多考慮考慮。」</DefaultText>
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;人應該吸取教訓，下次多考慮考慮。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -214,7 +214,7 @@
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>「就彷彿她的前任族長，並沒有因為領導部落而遭到我暗殺一樣。」</DefaultText>
+      <DefaultText>「就彷彿她的前任酋長，並沒有因為領導部落而遭到我暗殺一樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -338,7 +338,7 @@
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>「我不希望你也過來，也不希望你捲入其中。」麥婭看起來似乎像是在低頭看伊希薩，但實際上，她在盯著自己的腳。</DefaultText>
+      <DefaultText>「我不指望你也跟來或者捲入其中。」麥婭看起來似乎像是在低頭看伊希薩，但實際上，她在盯著自己的腳。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -353,7 +353,7 @@
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>「我說我不希望……意思是，你不能來。這種工作只能由一個女人和一隻鳥來完成。」</DefaultText>
+      <DefaultText>「當我說我不指望……意思是，你不能來。這種工作只給這一個女人和一隻鳥來完成。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -373,17 +373,17 @@
     </Entry>
     <Entry>
       <ID>416</ID>
-      <DefaultText>「我敢保證，事情會很順利的。」</DefaultText>
+      <DefaultText>「看得出這次對話不容易進展了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>「那個蘭迦是個平民，這對你來說有區別嗎？」</DefaultText>
+      <DefaultText>「那個 &lt;g&gt;蘭迦&lt;/g&gt;是個平民，這對你來說有區別嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -420,7 +420,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>「我們一直都要執行這種暗殺任務嗎？」</DefaultText>
+      <DefaultText>「我們之前一直都在分派這種暗殺任務嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -430,7 +430,7 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>「阿蘇拉會給我們每個人使用不同的密碼。如果想要破解其它代理人的密碼，恐怕比學會英格維仙語用的時間還要長。」</DefaultText>
+      <DefaultText>「阿蘇拉會給我們每個人使用不同的密碼。如果想要破解其它代理人的密碼，恐怕比學會 &lt;g&gt;英格維仙&lt;/g&gt;語用的時間還要長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -477,7 +477,7 @@
     </Entry>
     <Entry>
       <ID>683</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -492,7 +492,7 @@
     </Entry>
     <Entry>
       <ID>686</ID>
-      <DefaultText>「我這裡有不少信件需到送到地方，蠻崇高的使命吧？」她給你看了看她包裡的信件，所有的信件都封著亡焰皇家商行的蠟封。</DefaultText>
+      <DefaultText>「我這裡有不少信件需到送到地方，蠻崇高的使命吧？」她給你看了看她包裡的信件，所有的信件都封著 &lt;g&gt;亡焰皇家商行&lt;/g&gt;的蠟封。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -544,7 +544,7 @@
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>「哦，對啊。要和當地居民搞好關係，還要支付各種支出。或許俄撒斯把努亞堡踏平了，也算是幫了你一個忙？」她咯咯笑了起來。</DefaultText>
+      <DefaultText>「哦，對啊。要和當地居民搞好關係，還要支付各種支出。或許 &lt;g&gt;俄撒斯&lt;/g&gt;把 &lt;g&gt;努亞堡&lt;/g&gt;踏平了，也算是幫了你一個忙？」她咯咯笑了起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -554,12 +554,12 @@
     </Entry>
     <Entry>
       <ID>700</ID>
-      <DefaultText>「這一封是給哈拉瑪的，他是我的一個……熟人，是個不錯的水手。他現在就在提卡瓦拉的某個地方。」她掏出一張卷軸。</DefaultText>
+      <DefaultText>「這一封是給哈拉瑪的，他是我的一個……熟人，是個不錯的水手。他現在就在 &lt;g&gt;提卡瓦拉&lt;/g&gt;的某個地方。」她掏出一張卷軸。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>701</ID>
-      <DefaultText>「這些是給圖哈的，她是我在國王港的一個老朋友。在海軍裡，你會碰到各種各樣的怪人。」</DefaultText>
+      <DefaultText>「這些是給圖哈的，她是我在 國王港 的一個老朋友。在海軍裡，你會碰到各種各樣的怪人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -579,7 +579,7 @@
     </Entry>
     <Entry>
       <ID>706</ID>
-      <DefaultText>「要小心了，伊希——我們這裡來了個討人喜歡的傢伙。」麥婭假裝在和她的鳥說著悄悄話，但臉上掛著會心的微笑。</DefaultText>
+      <DefaultText>「要小心了，伊希—我們這裡來了個討人喜歡的傢伙。」麥婭假裝在和她的鳥說著悄悄話，但臉上掛著會心的微笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -654,7 +654,7 @@
     </Entry>
     <Entry>
       <ID>724</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -669,12 +669,12 @@
     </Entry>
     <Entry>
       <ID>727</ID>
-      <DefaultText>「阿蘇拉在亡焰列島上做著重要的工作。他正在努力帶來和平、秩序與財富。但並不是所有人都是這麼想的，因此他只能對他的目的緘口不言。」</DefaultText>
+      <DefaultText>「阿蘇拉在 &lt;g&gt;亡焰列島&lt;/g&gt;上做著重要的工作。他正在努力帶來和平、秩序與財富。但並不是所有人都是這麼想的，因此他只能對他的目的緘口不言。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>728</ID>
-      <DefaultText>「我知道，鬼鬼祟祟會印人生疑。但我可以向你保證，這是為了亡焰列島更美好的未來。」</DefaultText>
+      <DefaultText>「我知道，鬼鬼祟祟會引人生疑。但我可以向你保證，這是為了 &lt;g&gt;亡焰列島&lt;/g&gt;更美好的未來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -704,7 +704,7 @@
     </Entry>
     <Entry>
       <ID>734</ID>
-      <DefaultText>「應該沒錯，她是個有要務在身的努瓦泰人，胡亞納人恐怕並不信任她。」</DefaultText>
+      <DefaultText>「應該沒錯，她是個有要務在身的 &lt;g&gt;努瓦泰&lt;/g&gt;人，&lt;g&gt;胡亞納&lt;/g&gt;人恐怕並不信任她。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -724,7 +724,7 @@
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>「無論他對亡焰列島有什麼計劃，我都僅僅是這個計劃中的一個小棋子。但我還是要完成我的任務。」</DefaultText>
+      <DefaultText>「無論他對 &lt;g&gt;亡焰列島&lt;/g&gt;有什麼計劃，我都僅僅是這個計劃中的一個小棋子。但我還是要完成我的任務。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -759,12 +759,12 @@
     </Entry>
     <Entry>
       <ID>747</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>748</ID>
-      <DefaultText>「他負責留意提卡瓦拉那邊的事情，看看誰來了，誰走了，每個人都在談論什麼事情。」</DefaultText>
+      <DefaultText>「他負責留意 &lt;g&gt;提卡瓦拉&lt;/g&gt;那邊的事情，看看誰來了，誰走了，每個人都在談論什麼事情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -779,7 +779,7 @@
     </Entry>
     <Entry>
       <ID>751</ID>
-      <DefaultText>「阿蘇拉承諾要讓亡焰列島變得更加和平，但他也僅僅是個凡人。他需要很多可靠的夥伴，與他一起分擔重任。」</DefaultText>
+      <DefaultText>「阿蘇拉承諾要讓 &lt;g&gt;亡焰列島&lt;/g&gt;變得更加和平，但他也僅僅是個凡人。他需要很多可靠的夥伴，與他一起分擔重任。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -814,7 +814,7 @@
     </Entry>
     <Entry>
       <ID>758</ID>
-      <DefaultText>「重要的是，你為亡焰列島做了一件偉大的事情。總有一天你會明白這一點。」</DefaultText>
+      <DefaultText>「重要的是，你為 &lt;g&gt;亡焰列島&lt;/g&gt;做了一件偉大的事情。總有一天你會明白這一點。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -869,7 +869,7 @@
     </Entry>
     <Entry>
       <ID>793</ID>
-      <DefaultText>「又是阿蘇拉的下流勾當，我不喜歡這樣。」</DefaultText>
+      <DefaultText>「又是阿蘇拉的髒活，我不喜歡這樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -884,7 +884,7 @@
     </Entry>
     <Entry>
       <ID>799</ID>
-      <DefaultText>「別犯傻了，他們很聰明，能想得到努瓦泰人會派出間諜的。」</DefaultText>
+      <DefaultText>「別犯傻了，他們很聰明，能想得到 &lt;g&gt;努瓦泰&lt;/g&gt;人會派出間諜的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -894,7 +894,7 @@
     </Entry>
     <Entry>
       <ID>801</ID>
-      <DefaultText>「我為什麼不該把這件事告訴亡焰列島上的每一個人呢？和我說說理由吧。」</DefaultText>
+      <DefaultText>「我為什麼不該把這件事告訴 &lt;g&gt;亡焰列島&lt;/g&gt;上的每一個人呢？和我說說理由吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -944,7 +944,7 @@
     </Entry>
     <Entry>
       <ID>838</ID>
-      <DefaultText>「夠了！你說得夠多了！」泰克胡平靜的表情因痛苦而扭作一團。
+      <DefaultText>「Ekera！你說得夠多了！」泰克胡平靜的表情因痛苦而扭作一團。
 
 麥婭帶著警惕的表情看著他。</DefaultText>
       <FemaleText />
@@ -1016,7 +1016,7 @@
     </Entry>
     <Entry>
       <ID>859</ID>
-      <DefaultText>「我知道蘭迦努伊急於看到結果，但我從來沒想過，我們之中會有誰參與這種類似於……暗殺的事情。」</DefaultText>
+      <DefaultText>「我知道 蘭迦努伊 急於看到結果，但我從來沒想過，我們之中會有誰參與這種類似於……暗殺的事情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1101,7 +1101,7 @@
     </Entry>
     <Entry>
       <ID>890</ID>
-      <DefaultText>「努瓦泰的財力比不上瓦利亞，人數比不上皇族海盜，戰力也比不上胡亞納。」</DefaultText>
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;的財力比不上 瓦利亞，人數比不上皇族海盜，戰力也比不上 胡亞納。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1168,7 +1168,7 @@
     </Entry>
     <Entry>
       <ID>910</ID>
-      <DefaultText>「說得沒錯，我們不想在拉鋸戰中失去亡焰列島。」</DefaultText>
+      <DefaultText>「說得沒錯，我們不想在拉鋸戰中失去 亡焰列島。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1288,12 +1288,12 @@
     </Entry>
     <Entry>
       <ID>945</ID>
-      <DefaultText>「這個部落的反應讓我很驚訝。他們的反應就像是被踢翻了螞蟻窩的螞蟻一樣。他們發瘋了，他們繼續工作了。」</DefaultText>
+      <DefaultText>「這個部落的反應讓我很驚訝。他們的反應就像是被踢翻了螞蟻窩的螞蟻一樣。他們生氣，他們繼續工作。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>946</ID>
-      <DefaultText>「去世的蘭迦被抬到了火葬柴堆上，新的蘭迦接替了他的位置。」
+      <DefaultText>「去世的 &lt;g&gt;蘭迦&lt;/g&gt;被抬到了火葬柴堆上，新的蘭迦接替了他的位置。」
 
 「柴堆的灰燼還沒有熄滅，她就接起了團結部落的重任。」麥婭搖搖頭，略微呲了呲牙。</DefaultText>
       <FemaleText />
@@ -1315,22 +1315,22 @@
     </Entry>
     <Entry>
       <ID>950</ID>
-      <DefaultText>「我不想扼殺什麼思想，或者摧毀別人的意志，那是瓦利亞人才會幹的事情。」</DefaultText>
+      <DefaultText>「我不想扼殺什麼思想，或者摧毀別人的意志，那是 &lt;g&gt;瓦利亞&lt;/g&gt;人才會幹的事情。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>951</ID>
-      <DefaultText>「整個亡焰列島都會成為那些部落民的戰場。」</DefaultText>
+      <DefaultText>「整個 &lt;g&gt;亡焰列島&lt;/g&gt;都會成為那些部落民的戰場。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>952</ID>
-      <DefaultText>「努瓦泰應該抓住這個考驗的機會。」</DefaultText>
+      <DefaultText>「&lt;g&gt;努瓦泰&lt;/g&gt;應該抓住這個考驗的機會。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>953</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

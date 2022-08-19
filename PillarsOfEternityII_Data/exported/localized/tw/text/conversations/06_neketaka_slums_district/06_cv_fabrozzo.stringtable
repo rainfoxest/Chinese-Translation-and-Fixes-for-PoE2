@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>「厄爾內佐之前沒見過你——你肯定是新來的！或者非常善於偽裝。」男人咯咯笑起來。
+      <DefaultText>「厄爾內佐之前沒見過你—你肯定是新來的！或者非常善於偽裝。」男人咯咯笑起來。
 
 他通過半月形眼睛打量著你。他的臉上長著又厚又長但修飾整潔的鬍鬚，眼神不停在你和走廊之間跳躍。</DefaultText>
       <FemaleText />
@@ -18,7 +18,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>「瘦削男人死了。」</DefaultText>
+      <DefaultText>「紡錘人死了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,12 +28,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[支付800銅幣。]「我要買澇肺藥。」</DefaultText>
+      <DefaultText>[支付 800 銅幣]「我要買澇肺藥。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「你對瘦削男人瞭解些什麼？」</DefaultText>
+      <DefaultText>「你對紡錘人瞭解些什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,22 +48,22 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「好吧。我有聽過一些傳言。當然，我並不打算問太多問題。」他透過眼鏡看著你。</DefaultText>
+      <DefaultText>「Belfetto。我有聽過一些傳言。當然，我並不打算問太多問題。」他透過眼鏡看著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「呃？我希望你沒事！不過沒關係——如果馬塔魯來問的話，我不會說的。」他向你眨眨眼，拍拍自己的下嘴唇，又稍稍後退了一點。</DefaultText>
+      <DefaultText>「呃？我希望你沒事！不過沒關係—如果 &lt;g&gt;馬塔魯&lt;/g&gt;來問的話，我不會說的。」他向你眨眨眼，拍拍自己的下嘴唇，又稍稍後退了一點。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「好吧。儘管你的錢包裝得滿滿當當，不過還是要注意財不外露。」他眨眨眼。</DefaultText>
+      <DefaultText>「Belfetto。儘管你的錢包裝得滿滿當當，不過還是要注意財不外露。」他眨眨眼。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>「該死，那是十分危險的傢伙！」他抱起雙臂瑟瑟發抖。</DefaultText>
+      <DefaultText>「Merla，那是十分危險的傢伙！」他抱起雙臂瑟瑟發抖。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,20 +127,20 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「人們說你是個讀心者。」
+      <DefaultText>「人們說它是個讀心者。」
 
-「我們這些住在潛民街的都是普通的平民。也很安靜。」</DefaultText>
+「我們這些住在 &lt;g&gt;潛民街&lt;/g&gt;的都是普通的平民。話不多的平民。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「別有什麼讀心者來煩我們。你明白的吧？」他把腦袋側向你。</DefaultText>
+      <DefaultText>「有個讀心者來窺探我們這哪行。你明白的吧？」他把腦袋側向你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「你在找什麼東西嗎？說不定我這有。」</DefaultText>
-      <FemaleText>「你在找什麼東西嗎？說不定我這有。」</FemaleText>
+      <DefaultText>「你在找什麼東西嗎？說不定我這有，aimico。」</DefaultText>
+      <FemaleText>「你在找什麼東西嗎？說不定我這有，aimica。」</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -154,7 +154,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>「另一方面，你看起來像個……有頭有臉的人物。
+      <DefaultText>「另一方面，你看起來像個……有頭有臉的人物。」
 
 「倒不是說我會輕率行事。」</DefaultText>
       <FemaleText />
@@ -171,8 +171,8 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「呃？不，我不是這個意思！」他清清喉嚨，鬆開衣領。他的臉色陰沉下來。</DefaultText>
-      <FemaleText>「呃？不，我不是這個意思！」他清清喉嚨，鬆開衣領。他的臉色陰沉下來。</FemaleText>
+      <DefaultText>「呃？不，aimico，我不是這個意思！」他清清喉嚨，鬆開衣領。他的臉色陰沉下來。</DefaultText>
+      <FemaleText>「呃？不，aimica，我不是這個意思！」他清清喉嚨，鬆開衣領。他的臉色陰沉下來。</FemaleText>
     </Entry>
     <Entry>
       <ID>43</ID>
@@ -196,12 +196,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「很好。」他微微一笑。</DefaultText>
+      <DefaultText>「Gellarde.」他微微一笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「這個商人在街的盡頭開了家商店。人們稱其為『瘦削男人』。」</DefaultText>
+      <DefaultText>「這個商人在街的盡頭開了家商店。人們稱其為『紡錘人』。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>「那你為何要來潛民街？你以為我們在這幹什麼，給老鼠開茶會嗎？」</DefaultText>
+      <DefaultText>「那你為何要來 潛民街？你以為我們在這幹什麼，給老鼠開茶會嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>「在它挖掘自己的老窩時甚至都沒徵詢過德——咳咳。徵詢過老大的意見。」</DefaultText>
+      <DefaultText>「在它挖掘自己的老窩時甚至都沒徵詢過德—咳咳。徵詢過老大的意見。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>「另一方面，你是個金盟騎士吧？也許你能幫我做點事情，我就把藥作為報酬。」他抱著希望揚了揚眉毛。</DefaultText>
+      <DefaultText>「另一方面，你是個 &lt;g&gt;金盟&lt;/g&gt;騎士吧？也許你能幫我做點事情，我就把藥作為報酬。」他抱著希望揚了揚眉毛。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,17 +256,17 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>「朋友，你簡直像教堂鐘聲一樣微妙。」</DefaultText>
+      <DefaultText>「Aimico，你還真是個大善人呢。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>「那麼兄弟會的聖武士對此怎麼看呢？」他向她揮揮手，又轉向你。</DefaultText>
+      <DefaultText>「你一個兄弟會的聖武士又知道什麼叫善人？」他向她揮揮手，又轉向你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「所以呢？你會跟著嗎？」他把指尖疊在一起。</DefaultText>
+      <DefaultText>「所以呢？你懂了嗎？」他把指尖疊在一起。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,7 +283,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「你一直在說『它』。這個商人不是基斯嗎？」</DefaultText>
+      <DefaultText>「你一直在說『它』，所以這個商人不是 &lt;g&gt;基斯&lt;/g&gt;？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>「可拉倒吧，你還真是不擅長這個。」</DefaultText>
+      <DefaultText>「Per complanca，你還真是不擅長隱瞞。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,12 +335,12 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>「惡棍們通常都這樣嗎——從你的老大那裡獲取許可？」</DefaultText>
+      <DefaultText>「惡棍們通常都這樣嗎—從你的老大那裡獲取許可？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>「不過這個瘦削男人。人們說它是個讀心者。」</DefaultText>
+      <DefaultText>「不過這個紡錘人。人們說它是個讀心者。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,7 +357,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>「這樣的花招只是用來取樂的話，鹿林也太缺娛樂了。」</DefaultText>
+      <DefaultText>「這樣的花招只是用來取樂的話，&lt;g&gt;鹿林&lt;/g&gt;也太缺娛樂了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -384,8 +384,8 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>他神經質地大笑。「我和你說的可不一樣，朋友！你肯定把我和其他人弄混了。」</DefaultText>
-      <FemaleText>他神經質地大笑。「我和你說的可不一樣，朋友！你肯定把我和其他人弄混了。」</FemaleText>
+      <DefaultText>他神經質地大笑。「我和你說的可不一樣，aimico！你肯定把我和其他人弄混了。」</DefaultText>
+      <FemaleText>他神經質地大笑。「我和你說的可不一樣，aimica！你肯定把我和其他人弄混了。」</FemaleText>
     </Entry>
     <Entry>
       <ID>98</ID>
@@ -404,12 +404,12 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>[出示徽章。]「其實我懷疑你到底是不是真想買東西。」</DefaultText>
+      <DefaultText>[出示徽章]「其實我懷疑你到底是不是真想買東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>「這是一件稀有的寶藏。有人願意花上一筆小錢。
+      <DefaultText>「這是一件稀有的寶藏。有人願意花上一筆錢。」
 
 「我得問一句，這東西你從哪弄來的？」
 
@@ -428,12 +428,12 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>「厄爾內佐很小心。處處謹慎。你想敲詐他？這事沒完，朋友。」他悲傷地咯咯叫著。</DefaultText>
-      <FemaleText>「厄爾內佐很小心。處處謹慎。你想敲詐他？這事沒完，朋友。」他悲傷地咯咯叫著。</FemaleText>
+      <DefaultText>「厄爾內佐很小心。處處謹慎。你想敲詐他？這事沒完，aimico。」他悲傷地咯咯叫著。</DefaultText>
+      <FemaleText>「厄爾內佐很小心。處處謹慎。你想敲詐他？這事沒完，aimica。」他悲傷地咯咯叫著。</FemaleText>
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>「小心——我一個訊號，馬塔魯的怒火就會降臨於此。」</DefaultText>
+      <DefaultText>「小心—我一個訊號，馬塔魯 的怒火就會降臨於此。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -463,7 +463,7 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>「要想去找他的話，你得離開潛民街。直接離開市場，在交叉路口左拐然後再左拐。」他又一次環顧四周。</DefaultText>
+      <DefaultText>「要想去找他的話，你得離開 潛民街。直接離開市場，在交叉路口左拐然後再左拐。」他又一次環顧四周。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -550,7 +550,7 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>「讓我看看你是怎麼將貨物運進涅克塔卡的。」</DefaultText>
+      <DefaultText>「讓我看看你是怎麼將貨物運進 &lt;g&gt;涅克塔卡&lt;/g&gt;的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -565,7 +565,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>「真的嗎？但這無法瞞過德理奧的眼睛。更別說親王了。」</DefaultText>
+      <DefaultText>「Di verus？但這無法瞞過德理奧的眼睛。更別說親王了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -575,7 +575,7 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>他臉色發白。「穿過地下室，但你絕不能使用那裡的升降機，否則德理奧肯定會知道的……」
+      <DefaultText>他臉色發白。「穿過地下洞室，但你絕不能使用那裡的升降機，否則德理奧肯定會知道的……」
 
 他的眉間滲出了汗珠。他有些慌亂地盯著你，直到他身上似乎發生了什麼。</DefaultText>
       <FemaleText />
@@ -589,12 +589,12 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>「等一下。「我不是來打架的。」</DefaultText>
+      <DefaultText>「等一下。我不是來打架的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>「抱歉。不過你說的太多，懂的也太多。我不能冒險放你離開。」他示意守衛發起攻擊。</DefaultText>
+      <DefaultText>「Sientere。不過你說的太多，懂的也太多。我不能冒險放你離開。」他示意守衛發起攻擊。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -604,12 +604,12 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>最終他們找到了泰克胡。</DefaultText>
+      <DefaultText>最終他們看到了泰克胡。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>「抱歉打擾了。是我認錯人了。」他的笑容漸漸消失。
+      <DefaultText>「Eccosi。是我認錯人了。」他的笑容漸漸消失。
 
 他又轉向你。</DefaultText>
       <FemaleText />
@@ -623,18 +623,18 @@
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>「乘坐峽谷中通往舊城的升降機向下。你可以通過一處舊神廟悄悄溜進地下室。」</DefaultText>
+      <DefaultText>「乘坐 &lt;g&gt;邊沟區&lt;/g&gt;中通往舊城的升降機向下。你可以通過一處舊神廟悄悄溜進地下洞室。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>「德理奧的人脈很廣。有什麼東西——或什麼人——穿行於潛民街都是他的管轄範圍。」</DefaultText>
+      <DefaultText>「德理奧的人脈很廣。有什麼東西—或什麼人—穿行於 &lt;g&gt;潛民街&lt;/g&gt;都是他的管轄範圍。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>「不過這話可不是我和你說的，朋友。」</DefaultText>
-      <FemaleText>「不過這話可不是我和你說的，朋友。」</FemaleText>
+      <DefaultText>「不過這話可不是我和你說的，aimico。」</DefaultText>
+      <FemaleText>「不過這話可不是我和你說的，aimica。」</FemaleText>
     </Entry>
     <Entry>
       <ID>150</ID>
@@ -668,7 +668,7 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>「真的嗎？」
+      <DefaultText>「Di verus?」
 
 他看向守衛。</DefaultText>
       <FemaleText />
@@ -700,7 +700,7 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>「現在他派了一名娥狄卡的扼殺者來處理？
+      <DefaultText>「現在他派了一名 &lt;g&gt;娥狄卡&lt;/g&gt;的扼殺者來處理？
 
 「厄爾內佐準備好對付你了。」</DefaultText>
       <FemaleText />
@@ -722,8 +722,8 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>「那好吧，朋友。」他聳聳肩。</DefaultText>
-      <FemaleText>「那好吧，朋友。」他聳聳肩。</FemaleText>
+      <DefaultText>「那好吧，aimico。」他聳聳肩。</DefaultText>
+      <FemaleText>「那好吧，aimica。」他聳聳肩。</FemaleText>
     </Entry>
     <Entry>
       <ID>169</ID>
@@ -754,7 +754,7 @@
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>「啊，你是羅帕魯提到的那個人！看來他們很喜歡你啊。」他搖了搖手指。</DefaultText>
+      <DefaultText>「啊，你就是那些 &lt;g&gt;羅帕魯&lt;/g&gt;提到的那個人！看來他們很喜歡你啊，不過也不是什麼秘密。」他搖了搖手指。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,12 +764,12 @@
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>「啊，你是羅帕魯提到的那個人！不知道你是做了什麼才惹得他們這麼憤怒？」他挑了挑眉毛。</DefaultText>
+      <DefaultText>「啊，你就是那些 &lt;g&gt;羅帕魯&lt;/g&gt;提到的那個人！不知道你是做了什麼才惹得他們這麼憤怒？」他挑了挑眉毛。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>「等等，看來 我搞錯了。 你已經在這裡樹敵了是不是？
+      <DefaultText>「等等，看來 我搞錯了。你已經在這裡樹敵了是不是？
 
 「你現在還敢在這裡逗留真是勇敢。」</DefaultText>
       <FemaleText />
@@ -781,7 +781,7 @@
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>「啊，你是羅帕魯提到的那個人！ 好像他們對你的看法很混亂。」</DefaultText>
+      <DefaultText>「啊，你是 &lt;g&gt;羅帕魯&lt;/g&gt;提到的那個人！好像他們對你的看法很混亂。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,7 +796,7 @@
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>他強行無視了艾德爾。</DefaultText>
+      <DefaultText>他刻意無視了艾德爾。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

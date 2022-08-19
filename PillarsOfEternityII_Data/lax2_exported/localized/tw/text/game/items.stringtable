@@ -1,714 +1,714 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>game\items</Name>
-  <NextEntryID>1</NextEntryID>
-  <EntryCount>123</EntryCount>
-  <Entries>
-    <Entry>
-      <ID>4708</ID>
-      <DefaultText>造成{0}層力量減益狀態</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4709</ID>
-      <DefaultText>使用{0}個詠者禱歌</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4728</ID>
-      <DefaultText>造成{0}真實傷害</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4729</ID>
-      <DefaultText>獲得{0}減益狀態</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4731</ID>
-      <DefaultText>這件烏漆抹黑又傷痕纍纍的重甲上有著一名新遁亞的鍛造大師標記，此地曾是反抗灣的鹿林首都，直到革命發起後被從聚鹿人手中解放。胸甲與肩鎧上均裝飾有瑪珈嵐之焰的符印，但在經年累月的消磨中已幾不可見。
+ <Name>game\items</Name>
+ <NextEntryID>1</NextEntryID>
+ <EntryCount>123</EntryCount>
+ <Entries>
+   <Entry>
+     <ID>4708</ID>
+     <DefaultText>造成 {0} 力量熬煎</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4709</ID>
+     <DefaultText>使用 {0} 詠者禱歌</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4728</ID>
+     <DefaultText>造成 {0} &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4729</ID>
+     <DefaultText>獲得 {0} 熬煎</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4731</ID>
+     <DefaultText>這件烏漆抹黑又傷痕纍纍的重甲上有著一名新遁亞的鍛造大師標記，此地曾是反抗灣的 &lt;g&gt;鹿林&lt;/g&gt;首都，直到革命發起後被從聚鹿人手中解放。胸甲與肩鎧上均裝飾有 &lt;g&gt;瑪珈嵐&lt;/g&gt;之焰的符印，但在經年累月的消磨中已幾不可見。
 
-十二人眾中的最年輕者，橘臨郡的伊斯利已經為公爵效力五年，而在此之前的十年則在家鄉為其伯爵效力。作為近戰格鬥的好手，同時對瑪珈嵐又有著狂熱的信仰，伊斯利似乎是守護大橋的不二人選。公爵為此賜予她一套小型盔甲，包括一件在瑪珈嵐神龕中曾久經沙場如今卻日久生塵的板甲。
+十二人眾中的最年輕者，橘臨郡的伊斯利已經為公爵效力五年，而在此之前的十年則在家鄉為其伯爵效力。作為近戰格鬥的好手，同時對 &lt;g&gt;瑪珈嵐&lt;/g&gt;又有著狂熱的信仰，伊斯利似乎是守護大橋的不二人選。公爵為此賜予她一套小型盔甲，包括一件在 &lt;g&gt;瑪珈嵐&lt;/g&gt;神龕中曾久經沙場如今卻日久生塵的板甲。
 
 儘管戰鬥過程不為人知，但有一件事是肯定的：當神錘炸彈爆炸之後，伊斯利連同身上的盔甲均已蕩然無存。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4732</ID>
-      <DefaultText>十二勇士</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4781</ID>
-      <DefaultText>造成{0}層感知減益狀態</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4783</ID>
-      <DefaultText>為隊伍成員附加{0}層增益狀態</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4797</ID>
-      <DefaultText>殺死{0}頭野獸</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4798</ID>
-      <DefaultText>擁有25點力量</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4801</ID>
-      <DefaultText>需要穿戴盔甲這件事情，很容易就會被人忘記。確切地說，很多事情都會很容易地被人忘記。回憶、悔恨、形而上學的哲學，這些東西在偉大的狩獵中派不上什麼用場，在那些無窮無盡、彼此關聯的試煉中，它們也提供不了什麼幫助。生命之光只垂青於那些承認它的人。為了這場挑戰；為了下一場挑戰；為了每時每刻，每一場挑戰。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4802</ID>
-      <DefaultText>造成{0}層智力減益狀態</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4803</ID>
-      <DefaultText>使用{0}個德魯伊野獸法術</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4846</ID>
-      <DefaultText>黑曜石祭儀小刀</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4858</ID>
-      <DefaultText>合法權利鎖鏈</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4861</ID>
-      <DefaultText>這條項鏈是一對奇異的神器與精巧珠寶結合在一起的產物。儘管來自不同的世界，這些碎片卻有著同樣的外形與力場。單獨分開時，它們會發出熱度與封印的能量。融合在一起時，它們似乎比單獨累加在一起的能量更為強大。金屬中的畸變可能是淬火的結果。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4732</ID>
+     <DefaultText>十二勇士</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4781</ID>
+     <DefaultText>造成 {0} 感知熬煎</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4783</ID>
+     <DefaultText>為隊伍成員附加  {0} 啟迪</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4797</ID>
+     <DefaultText>殺死{0}頭野獸</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4798</ID>
+     <DefaultText>擁有25點 力量</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4801</ID>
+     <DefaultText>需要穿戴盔甲這件事情，很容易就會被人忘記。確切地說，很多事情都會很容易地被人忘記。回憶、悔恨、形而上學的哲學，這些東西在偉大的狩獵中派不上什麼用場，在那些無窮無盡、彼此關聯的試煉中，它們也提供不了什麼幫助。生命之光只垂青於那些承認它的人。為了這場挑戰；為了下一場挑戰；為了每時每刻，每一場挑戰。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4802</ID>
+     <DefaultText>造成 {0} 智力熬煎</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4803</ID>
+     <DefaultText>使用 {0} 德魯伊野獸法術</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4846</ID>
+     <DefaultText>黑曜石祭儀小刀</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4858</ID>
+     <DefaultText>合法權利鎖鏈</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4861</ID>
+     <DefaultText>這條項鏈是一對奇異的神器與精巧珠寶結合在一起的產物。儘管來自不同的世界，這些碎片卻有著同樣的外形與力場。單獨分開時，它們會發出熱度與封印的能量。融合在一起時，它們似乎比單獨累加在一起的能量更為強大。金屬中的畸變可能是淬火的結果。
 
 金屬的切割痕跡表明應該還有第三塊碎片，無論其是被熔化還是被切割開來。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4865</ID>
-      <DefaultText>睿姆岡之眼</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4866</ID>
-      <DefaultText>這塊寶石感覺像是打磨過的冰塊。你握著它時間長了，表面下方有一條裂縫似乎也在跟著你的手。關於所謂的「睿姆岡之眼」的傳說中有一條共性：那就是誰也無法攜帶它太久。所有的故事都提到了某位勇敢的英雄在擁有這塊寶石後最終悲劇般的消失或是葬身於海難之中。有些理論推斷這塊寶石是從睿姆岡的白色虛空中某塊冰柱上斷開來的，因此其無休止的歸家搜尋也將凡人拖入了相同的黑暗命運中。無論這些故事真實與否，這塊寶石的確對持有者有著潛在的影響。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4867</ID>
-      <DefaultText>引爆器碎片</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4868</ID>
-      <DefaultText>這塊神錘炸彈的碎片有著神力波動。其存在本身就像是某種悖論，因為炸彈本身在2808年就爆炸了。瑪珈嵐的祝福與歷史意義讓這件飾品成了稀有貨。儘管這件催化劑並沒有實際引發伊萬德爾橋上的爆炸，但其與神錘炸彈的火焰相共鳴，並似乎仍然在渴望完成其破壞的使命。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4875</ID>
-      <DefaultText>奈瑞思賽拉絲的低語</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4876</ID>
-      <DefaultText>這件斷刃多年來有很多名字，但其上代表背叛的污漬從未拭淨。很久之前，它曾是奴隸坑中某位角鬥士的武器。拿著它的鬥士將它插進了自己主人的後背，而後這把武器便得名「解放者」。後來它被掛在一處富商莊園的牆上，結果一名女僕用它將這家人殘殺殆盡，而它又得了個新名字「莊嚴」。沒人知道它是何時或者怎樣斷掉的，不過它作為正義使者與邪惡剋星的象徵使得它在司坎信徒中非常受歡迎，後者願意無私奉獻將其諸神的祝福注入這把斷刃之中。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4930</ID>
-      <DefaultText>攻擊反射</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4936</ID>
-      <DefaultText>熵能反射之戒指</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5026</ID>
-      <DefaultText>維德溫的日晷</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5029</ID>
-      <DefaultText>這種日晷通常被白天出門在外的牧羊人或農夫拿來查看時間。將中心軸對準某個月份，然後讓陽光穿過針尖大小的孔洞，指向內環上雕刻的某個數字。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4865</ID>
+     <DefaultText>睿姆岡之眼</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4866</ID>
+     <DefaultText>這塊寶石感覺像是打磨過的冰塊。你握著它時間長了，表面下方有一條裂縫似乎也在跟著你的手。關於所謂的「睿姆岡  之眼」的傳說中有一條共性：那就是誰也無法攜帶它太久。所有的故事都提到了某位勇敢的英雄在擁有這塊寶石後最終悲劇般的消失或是葬身於海難之中。有些理論推斷這塊寶石是從 &lt;g&gt;睿姆岡&lt;/g&gt;的白色虛空中某塊冰柱上斷開來的，因此其無休止的歸家搜尋也將凡人拖入了相同的黑暗命運中。無論這些故事真實與否，這塊寶石的確對持有者有著潛在的影響。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4867</ID>
+     <DefaultText>引爆器碎片</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4868</ID>
+     <DefaultText>這塊神錘炸彈的碎片有著神力波動。其存在本身就像是某種悖論，因為炸彈本身在2808年就爆炸了。瑪珈嵐 的祝福與歷史意義讓這件飾品成了稀有貨。儘管這件催化劑並沒有實際引發伊萬德爾橋上的爆炸，但其與神錘炸彈的火焰相共鳴，並似乎仍然在渴望完成其破壞的使命。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4875</ID>
+     <DefaultText>奈瑞思賽拉絲的低語</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4876</ID>
+     <DefaultText>這件斷刃多年來有很多名字，但其上代表背叛的污漬從未拭淨。很久之前，它曾是奴隸坑中某位角鬥士的武器。拿著它的鬥士將它插進了自己主人的後背，而後這把武器便得名「解放者」。後來它被掛在一處富商莊園的牆上，結果一名女僕用它將這家人殘殺殆盡，而它又得了個新名字「莊嚴」。沒人知道它是何時或者怎樣斷掉的，不過它作為正義使者與邪惡剋星的象徵使得它在 司坎 信徒中非常受歡迎，後者願意無私奉獻將其諸神的祝福注入這把斷刃之中。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4930</ID>
+     <DefaultText>攻擊反射</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>4936</ID>
+     <DefaultText>熵能反射之戒指</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5026</ID>
+     <DefaultText>維德溫的日晷</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5029</ID>
+     <DefaultText>這種日晷通常被白天出門在外的牧羊人或農夫拿來查看時間。將中心軸對準某個月份，然後讓陽光穿過針尖大小的孔洞，指向內環上雕刻的某個數字。
 
-維德溫肯定攜帶它參與了聖戰，因為它周圍的空氣中還湧動著力量。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5045</ID>
-      <DefaultText>雙生鰻</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5046</ID>
-      <DefaultText>一名庫亞魯鐵匠鍛造了這件傑作，並用它刺穿了坦格羅亞，稱任何敵人都會葬身在巨鰻口中。在他四處兜售自己的得意之作後，理庫胡在他的夢裡表達了自己對他讓神明蒙羞的失望之情。半是慚愧半是驚恐的鐵匠隨即按照這位神明的指示鍛造了另一把武器科赫帕。他將兩把武器的鋒刃扭合在一起。
+維德溫肯定攜帶它參與了  聖戰，因為它周圍的空氣中還湧動著力量。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5045</ID>
+     <DefaultText>雙生鰻</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5046</ID>
+     <DefaultText>一名 庫亞魯 鐵匠鍛造了這件傑作，並用它刺穿了 &lt;g&gt;坦格羅亞&lt;/g&gt;，稱任何敵人都會葬身在巨鰻口中。在他四處兜售自己的得意之作後，理庫胡在他的夢裡表達了自己對他讓神明蒙羞的失望之情。半是慚愧半是驚恐的鐵匠隨即按照這位神明的指示鍛造了另一把武器科赫帕。他將兩把武器的鋒刃扭合在一起。
 
 之後他盡快賣掉了這把劍，並且此生再未以神之名義鍛造武器。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5058</ID>
-      <DefaultText>湍流衝擊</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5059</ID>
-      <DefaultText>根據某個傳說，有一名烏凱佐的水塑者在海床之上鍛造了這把權杖。杖桿使用了最上等的檀香木。尖端則鑲有一顆上千年老蚌中溫潤的珍珠。水塑者靠著昂德拉的祝福才能將其取出而自己也能全身而退。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5058</ID>
+     <DefaultText>湍流衝擊</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5059</ID>
+     <DefaultText>根據某個傳說，有一名 &lt;g&gt;烏凱佐&lt;/g&gt;的水塑者在海床之上鍛造了這把權杖。杖桿使用了最上等的檀香木。尖端則鑲有一顆上千年老蚌中溫潤的珍珠。水塑者靠著 &lt;g&gt;昂德拉&lt;/g&gt;的祝福才能將其取出而自己也能全身而退。
 
 據說這把權杖是取悅恩加蒂的儀式中的一部分，不過這其中更多淫亂的細節已經失落於歷史之中了。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5062</ID>
-      <DefaultText>終冬胸針</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5063</ID>
-      <DefaultText>這件牛頭墜飾的黯淡金屬上已經沒有一絲光澤。它戴在胸上有些沉重，刺骨之感噬咬著蹭到的皮肉。作為牛眼的寶石律動著模糊的藍色光芒，一陣微風偶爾也會吹拂在佩戴者的耳邊。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5064</ID>
-      <DefaultText>終結宣告</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5065</ID>
-      <DefaultText>若是有人盯著這枚戒指上誘惑般的深淵越久，就越能感到其中傳來的牽引之力，好像觸手拖拽著佩戴者的靈魂。這樣一盯下來可能就過去了好幾個小時，甚至在移開目光後世界彷彿也變得黑暗了。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5062</ID>
+     <DefaultText>終冬胸針</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5063</ID>
+     <DefaultText>這件牛頭墜飾的黯淡金屬上已經沒有一絲光澤。它戴在胸上有些沉重，刺骨之感噬咬著蹭到的皮肉。作為牛眼的寶石律動著模糊的藍色光芒，一陣微風偶爾也會吹拂在佩戴者的耳邊。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5064</ID>
+     <DefaultText>終結宣告</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5065</ID>
+     <DefaultText>若是有人盯著這枚戒指上誘惑般的深淵越久，就越能感到其中傳來的牽引之力，好像觸手拖拽著佩戴者的靈魂。這樣一盯下來可能就過去了好幾個小時，甚至在移開目光後世界彷彿也變得黑暗了。
 
 這枚戒指好像在渴求著虛空碎片。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5069</ID>
-      <DefaultText>巨獸足跡</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5070</ID>
-      <DefaultText>這雙好像裂蹄一般的靴子會讓走過的大地盡數枯萎。製作它的格蘭費倫人將這雙非同尋常的靴子交給部族的女祭司，後者為其以睿姆岡的名義施加了祝福。隨後她將這雙靴子賜給了部族中最英勇的戰士，使其帶著寒冬巨獸的榮耀征戰。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5069</ID>
+     <DefaultText>巨獸足跡</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5070</ID>
+     <DefaultText>這雙好像裂蹄一般的靴子會讓走過的大地盡數枯萎。製作它的 格蘭費倫 人將這雙非同尋常的靴子交給部族的女祭司，後者為其以 &lt;g&gt;睿姆岡&lt;/g&gt;的名義施加了祝福。隨後她將這雙靴子賜給了部族中最英勇的戰士，使其帶著寒冬巨獸的榮耀征戰。
 
-儘管這位戰士花了數月時間才掌握到靴子中附帶的神明恩惠，不過她最終還是——或者說早晚必然——成為了戰場上的災厄之人。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5071</ID>
-      <DefaultText>高階先驅的長袍</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5072</ID>
-      <DefaultText>儘管與其他先驅長袍較為相似，這件皮草卻有著一項「刺激」的差別：向周圍散發的惡臭簡直如同光環一般。這使得除了瓦特尼爾之外沒有人敢進行穿戴，除非他們對味覺與嗅覺完全隔絕。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5122</ID>
-      <DefaultText>野牛之角</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5123</ID>
-      <DefaultText>一名邪惡的海裔曾經侵入亞拜登侍從的鍛造廠並將其中工匠屠殺殆盡——只剩一名鐵匠躲在補給貨箱中逃過一劫。矮人向海裔呼喊，希望能做筆交易。她願意為這名入侵者打造一件最上等的頭盔，只要後者能饒過自己的性命。入侵者給了她一周時間，並且要求這件頭盔要用來紀念自己的神明——寒冬巨獸。
+儘管這位戰士花了數月時間才掌握到靴子中附帶的神明恩惠，不過她最終還是—或者說早晚必然—成為了戰場上的災厄之人。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5071</ID>
+     <DefaultText>高階先驅的長袍</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5072</ID>
+     <DefaultText>儘管與其他先驅長袍較為相似，這件皮草卻有著一項「刺激」的差別：向周圍散發的惡臭簡直如同光環一般。這使得除了瓦特尼爾之外沒有人敢進行穿戴，除非他們對味覺與嗅覺完全隔絕。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5122</ID>
+     <DefaultText>野牛之角</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5123</ID>
+     <DefaultText>一名邪惡的海裔曾經侵入 &lt;g&gt;亞拜登&lt;/g&gt;侍從的鍛造廠並將其中工匠屠殺殆盡—只剩一名鐵匠躲在補給貨箱中逃過一劫。矮人向海裔呼喊，希望能做筆交易。她願意為這名入侵者打造一件最上等的頭盔，只要後者能饒過自己的性命。入侵者給了她一周時間，並且要求這件頭盔要用來紀念自己的神明—寒冬巨獸。
 
-鐵匠不眠不休地鍛造直至最後一晚，她將這件頭盔放在了鍛爐未上鎖的門外。次日清晨，頭盔不知所蹤，而亞拜登的聖所也再未受到掠奪。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5147</ID>
-      <DefaultText>腐蝕臂甲</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5148</ID>
-      <DefaultText>在亡焰列島的海域之下潛藏著一隻巨大的甲殼生物，其表殼比基斯鍛造的任何鋼鐵都要堅硬。它悄悄等在淺灘之中，對毫無防備敢於靠近其地盤的船隻痛下殺手。這對使用此巨獸蛻殼製成的護手在重量與耐用性方面均十分出色。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5152</ID>
-      <DefaultText>蠟封信函</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5153</ID>
-      <DefaultText>這封巨大的卷函像是曬乾的血液書寫在鞣皮上一般，上面還有著野牛的印記。細長銳利的筆鋒說明寫信者當時手在顫抖。
+鐵匠不眠不休地鍛造直至最後一晚，她將這件頭盔放在了鍛爐未上鎖的門外。次日清晨，頭盔不知所蹤，而 &lt;g&gt;亞拜登&lt;/g&gt;的聖所也再未受到掠奪。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5147</ID>
+     <DefaultText>腐蝕臂甲</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5148</ID>
+     <DefaultText>在 &lt;g&gt;亡焰列島&lt;/g&gt;的海域之下潛藏著一隻巨大的甲殼生物，其表殼比 &lt;g&gt;基斯&lt;/g&gt;鍛造的任何鋼鐵都要堅硬。它悄悄等在淺灘之中，對毫無防備敢於靠近其地盤的船隻痛下殺手。這對使用此巨獸蛻殼製成的護手在重量與耐用性方面均十分出色。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5152</ID>
+     <DefaultText>蠟封信函</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5153</ID>
+     <DefaultText>這封巨大的卷函像是曬乾的血液書寫在鞣皮上一般，上面還有著野牛的印記。細長銳利的筆鋒說明寫信者當時手在顫抖。
 
-&lt;i&gt;「榮耀滿身的努亞堡靈視者，
+&lt;i&gt;「榮耀滿身的 &lt;g&gt;努亞堡&lt;/g&gt;靈視者，
 
-我誠摯地邀請您前來參加一次為您舉辦的宴席。吾等志同道合之人聚集在先驅之守望，亡焰列島南部海域的一處小哨站，來見證死亡浮冰的快速擴張。
+我誠摯地邀請您前來參加一次為您舉辦的宴席。吾等志同道合之人聚集在先驅之守望，&lt;g&gt;亡焰列島&lt;/g&gt;南部海域的一處小哨站，來見證死亡浮冰的快速擴張。
 
-寒冰很快將吞噬一切，睿姆岡也將統治整片死亡的艾歐拉。
+寒冰很快將吞噬一切，睿姆岡 也將統治整片死亡的艾歐拉。
 
 我們都渴望能夠參與您的壯舉。
 
 欽羨您無數成就的，
 
 黃昏高階先驅瓦特尼爾」&lt;/i&gt;</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5154</ID>
-      <DefaultText>瓦特尼爾的冰鎬</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5155</ID>
-      <DefaultText>一對簡單的鐵製冰鎬，上面裝有木質把手，用於攀爬冰壁。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5190</ID>
-      <DefaultText>背叛</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5199</ID>
-      <DefaultText>冰錘</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5205</ID>
-      <DefaultText>失落旅行之護符</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5305</ID>
-      <DefaultText>守護者板甲</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5306</ID>
-      <DefaultText>儘管自從格蘭費倫人製作這件盔甲以來可能過去了上千年，它的外表仍然光鮮亮麗——至少直到它與一具屍體共同冰凍了四個世紀。Vytmadh的魔法永久改變了這件盔甲，在其表面覆上了一層冰稜錐刺。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5154</ID>
+     <DefaultText>瓦特尼爾的冰鎬</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5155</ID>
+     <DefaultText>一對簡單的鐵製冰鎬，上面裝有木質把手，用於攀爬冰壁。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5190</ID>
+     <DefaultText>背叛</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5199</ID>
+     <DefaultText>冰錘</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5205</ID>
+     <DefaultText>失落旅行之護符</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5305</ID>
+     <DefaultText>守護者板甲</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5306</ID>
+     <DefaultText>儘管自從 格蘭費倫 人製作這件盔甲以來可能過去了上千年，它的外表仍然光鮮亮麗—至少直到它與一具屍體共同冰凍了四個世紀。Vytmádh的魔法永久改變了這件盔甲，在其表面覆上了一層冰稜錐刺。
 
 究竟這件盔甲是否在幾個世紀前的神廟守護者身上時從白色虛空中獲得了這份祝福猶未可知。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5307</ID>
-      <DefaultText>重新鍛造睿姆岡一名信徒的靈魂</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5308</ID>
-      <DefaultText>收集雷哈妲的剩餘裝備</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5323</ID>
-      <DefaultText>Kaihōa</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5324</ID>
-      <DefaultText>這件古代喇叭或者說Kaihōa非常受到烏凱佐水塑者的追捧，因其擁有著能通過音樂引導水流的獨特能力。胡亞納傳說中提到這件樂器由女神恩加蒂創造作為贈給胡亞納人民的禮物，能夠讓他們和著大地之音和諧歌唱。一個傳統胡亞納民間故事說到了某條河流在水塑者大師們演奏Kaihōa形成的合奏下發生了偏移。使用殺人籐蔓的籐木製作的Kaihōa能發出低沉而悠揚的曲調。它在你的手中溫暖而光滑，並未因時間而褪色。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5331</ID>
-      <DefaultText>Rymsjodda Lager</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5332</ID>
-      <DefaultText>這是一種使用大麥釀造並在若移冰地北部海岸的山洞中沉澱多年的甜味淺棕色啤酒，rymsjodda（在奧德尤瑪語中意為「冰凍之盾」）在沿海定居的民眾之中非常受追捧。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5333</ID>
-      <DefaultText>Ekkevit</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5334</ID>
-      <DefaultText>這種從莓果中提純並摻入少許辣料的烈性酒泛著生鮭魚般的淺粉色。它在若移冰地中也算是稀有貨，在格蘭費倫人的節日裡也是頭等之選，因此很少有存貨流出那片冰封之地。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5307</ID>
+     <DefaultText>重新鍛造 &lt;g&gt;睿姆岡&lt;/g&gt;一名信徒的靈魂</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5308</ID>
+     <DefaultText>收集雷哈妲的剩餘裝備</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5323</ID>
+     <DefaultText>Kaihōa</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5324</ID>
+     <DefaultText>這件古代喇叭或者說 Kaihōa 非常受到 &lt;g&gt;烏凱佐&lt;/g&gt;水塑者的追捧，因其擁有著能通過音樂引導水流的獨特能力。&lt;g&gt;胡亞納&lt;/g&gt;傳說中提到這件樂器由女神恩加蒂創造作為贈給 &lt;g&gt;胡亞納&lt;/g&gt;人民的禮物，能夠讓他們和著大地之音和諧歌唱。一個傳統 &lt;g&gt;胡亞納&lt;/g&gt;民間故事說到了某條河流在水塑者大師們演奏Kaihōa形成的合奏下發生了偏移。使用殺人籐蔓的籐木製作的Kaihōa能發出低沉而悠揚的曲調。它在你的手中溫暖而光滑，並未因時間而褪色。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5331</ID>
+     <DefaultText>Rymsjodda Lager</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5332</ID>
+     <DefaultText>這是一種使用大麥釀造並在 &lt;g&gt;若移冰地&lt;/g&gt;北部海岸的山洞中沉澱多年的甜味淺棕色啤酒，rymsjodda（在 &lt;g&gt;奧德尤瑪&lt;/g&gt;語中意為「冰凍之盾」）在沿海定居的民眾之中非常受追捧。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5333</ID>
+     <DefaultText>Ekkevit</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5334</ID>
+     <DefaultText>這種從莓果中提純並摻入少許辣料的烈性酒泛著生鮭魚般的淺粉色。它在 若移冰地 中也算是稀有貨，在 格蘭費倫 人的節日裡也是頭等之選，因此很少有存貨流出那片冰封之地。
 
 有些極端主義的格蘭費倫人每年會存下一瓶，用於年終慶典、寒冬巨獸的到來以及萬物的終結。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5335</ID>
-      <DefaultText>冰川伊薩魚</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5336</ID>
-      <DefaultText>這種以沿其全身的黑線而聞名的鹹水魚是格蘭費倫人與恩努塔尼克人的傳統桌上美食。儘管通常在捕撈上來後很快就會被烤制烹食，但煙熏干制的伊薩魚也可以儲存相當久的時間，在若移冰地中長途旅行時是非常寶貴的食物。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5344</ID>
-      <DefaultText>酒釀伊薩魚</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5345</ID>
-      <DefaultText>這道被稱作「外交級佳餚」的食譜融合了艾塔波人與恩努塔尼矮克人的烹飪方法。儘管因為麵粉的缺乏而在納斯塔寇中並不多見，這道菜在恩努塔尼克人慶典中仍然是上等之選。這些薄厚不一的魚片依照傳統會在鯨油中油炸成脆餅配上醃製海草一同享用。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5346</ID>
-      <DefaultText>永凍碎片</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5347</ID>
-      <DefaultText>在某些偶然情況下，冰魂怪會自我瓦解為冬眠形態。德魯伊與法師們創造了一種儀式，能將魂怪停留在這個狀態並加以封印。一旦被釋放後，魂怪們將會帶著滿盈的狂怒四散而出，分散敵人注意力或是扭轉戰鬥形勢。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5335</ID>
+     <DefaultText>冰川伊薩魚</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5336</ID>
+     <DefaultText>這種以沿其全身的黑線而聞名的鹹水魚是 格蘭費倫 人與 恩努塔尼克 人的傳統桌上美食。儘管通常在捕撈上來後很快就會被烤制烹食，但煙熏干制的伊薩魚也可以儲存相當久的時間，在 若移冰地 中長途旅行時是非常寶貴的食物。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5344</ID>
+     <DefaultText>酒釀伊薩魚</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5345</ID>
+     <DefaultText>這道被稱作「外交級佳餚」的食譜融合了 艾塔波 人與 恩努塔尼矮克 人的烹飪方法。儘管因為麵粉的缺乏而在納斯塔寇中並不多見，這道菜在恩努塔尼克人慶典中仍然是上等之選。這些薄厚不一的魚片依照傳統會在鯨油中油炸成脆餅配上醃製海草一同享用。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5346</ID>
+     <DefaultText>永凍碎片</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5347</ID>
+     <DefaultText>在某些偶然情況下，冰魂怪會自我瓦解為冬眠形態。德魯伊與法師們創造了一種儀式，能將魂怪停留在這個狀態並加以封印。一旦被釋放後，魂怪們將會帶著滿盈的狂怒四散而出，分散敵人注意力或是扭轉戰鬥形勢。
 
-在封印形態時，魂怪是一片清澈的晶體碎片——不會融化，但摸上去十分冰涼。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5348</ID>
-      <DefaultText>小冰</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5349</ID>
-      <DefaultText>這個摸起來有點冰涼的小構裝體可能還是個原型機。或者也可能是熔補後的產物。或者就是個玩具。
+在封印形態時，魂怪是一片清澈的晶體碎片—不會融化，但摸上去十分冰涼。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5348</ID>
+     <DefaultText>小冰</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5349</ID>
+     <DefaultText>這個摸起來有點冰涼的小構裝體可能還是個原型機。或者也可能是熔補後的產物。或者就是個玩具。
 
-小冰跟隨你時，你獲得對冰凍傷害的額外護甲，同時全隊的冰凍攻擊獲得精準提升。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5364</ID>
-      <DefaultText>白霜構裝體液體</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5365</ID>
-      <DefaultText>這團厚厚的綠色軟泥從顏色上看應該會發冷光，但它在黑暗中卻能發出灼熱的光輝。這團粘液有著堪比將死之人的稠度於腐蝕一切的酸度，任何人都絕不能將其嚥下肚。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5366</ID>
-      <DefaultText>先驅的兜帽</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5367</ID>
-      <DefaultText>一件鑲邊粗糙的麻布與皮製兜帽。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5373</ID>
-      <DefaultText>石人偶</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5374</ID>
-      <DefaultText>一個描繪寒冬巨獸的簡單人偶。上面沒有明顯的附魔或祝福，因此其價值要麼僅為精神上作紀念，要麼只是個裝飾品。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5385</ID>
-      <DefaultText>這把鎬頭的柄被一層層愈發有了年頭的破布包裹著。木製握把上刻有數十個微小的象形符號，講述了納斯塔寇的恩努塔尼克矮人傳說。有些雕刻還整潔清晰，有些則幾乎無法辨識。這些故事包括穿越冰凍雪原的長途跋涉、與巨獸之間的戰鬥，還有被冰雪覆蓋的魂珀之柱。
+小冰跟隨你時，你獲得對 冰寒 傷害 護甲值，同時全隊的 冰寒 攻擊獲得 &lt;g&gt;精準&lt;/g&gt;提升。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5364</ID>
+     <DefaultText>白霜構裝體液體</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5365</ID>
+     <DefaultText>這團厚厚的綠色軟泥從顏色上看應該會發冷光，但它在黑暗中卻能發出灼熱的光輝。這團粘液有著堪比將死之人的稠度於腐蝕一切的酸度，任何人都絕不能將其嚥下肚。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5366</ID>
+     <DefaultText>先驅的兜帽</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5367</ID>
+     <DefaultText>一件鑲邊粗糙的麻布與皮製兜帽。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5373</ID>
+     <DefaultText>石人偶</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5374</ID>
+     <DefaultText>一個描繪寒冬巨獸的簡單人偶。上面沒有明顯的附魔或祝福，因此其價值要麼僅為精神上作紀念，要麼只是個裝飾品。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5385</ID>
+     <DefaultText>這把鎬頭的柄被一層層愈發有了年頭的破布包裹著。木製握把上刻有數十個微小的象形符號，講述了納斯塔寇的恩努塔尼克矮人傳說。有些雕刻還整潔清晰，有些則幾乎無法辨識。這些故事包括穿越冰凍雪原的長途跋涉、與巨獸之間的戰鬥，還有被冰雪覆蓋的魂珀之柱。
 
 描繪最多的景象則是一片向著納斯塔寇北部緩慢延伸的冰雪島嶼。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5386</ID>
-      <DefaultText>冰川剋星</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5388</ID>
-      <DefaultText>霜降</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5389</ID>
-      <DefaultText>儘管這把戰槌的前端沒有從一整塊附魔過的冰塊中鑿開來，有人可能會這麼想。不過，被冰霜覆蓋的鋼鐵中蘊藏著一點潛力無限的精華碎片，使得這把武器充滿了永遠無法滿足的冰冷而急切的渴望。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5390</ID>
-      <DefaultText>白色虛空頭盔</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5391</ID>
-      <DefaultText>這頂頭盔頂上的寒冰碎片散發出刺骨的寒意，能完全抵擋亡焰列島陽光的直射。頭盔內部有股霉味，好像戴在蒼精靈的冰凍屍體上有幾百年之久。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5386</ID>
+     <DefaultText>冰川剋星</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5388</ID>
+     <DefaultText>霜降</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5389</ID>
+     <DefaultText>儘管這把戰槌的前端沒有從一整塊附魔過的冰塊中鑿開來，有人可能會這麼想。不過，被冰霜覆蓋的鋼鐵中蘊藏著一點潛力無限的精粹碎片，使得這把武器充滿了永遠無法滿足的冰冷而急切的渴望。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5390</ID>
+     <DefaultText>白色虛空頭盔</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5391</ID>
+     <DefaultText>這頂頭盔頂上的寒冰碎片散發出刺骨的寒意，能完全抵擋 &lt;g&gt;亡焰列島&lt;/g&gt;陽光的直射。頭盔內部有股霉味，好像戴在蒼精靈的冰凍屍體上有幾百年之久。
 
 即便是最熱的日子裡這頂頭盔也顯得過於寒冷，並會在耳側對主人發出無止盡的低語。
 
-奇怪的是，這頂頭盔更像是來自英格維仙而非若移冰地。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5392</ID>
-      <DefaultText>寒冬壁壘</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5393</ID>
-      <DefaultText>這座佈滿白霜的龐大塔盾混合了英格維仙與若移冰地的製作風格。盾牌的長凸面上散發著難以忍受的嚴寒。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5394</ID>
-      <DefaultText>霜毛斗篷</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5395</ID>
-      <DefaultText>經過冰雪與精華加厚的毛皮穿起來意外地溫暖與沉重。然而在穿戴者身邊的人則會感覺到溫度驟降與持續不斷的刺骨寒風。
+奇怪的是，這頂頭盔更像是來自 &lt;g&gt;英格維仙&lt;/g&gt;而非 若移冰地。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5392</ID>
+     <DefaultText>寒冬壁壘</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5393</ID>
+     <DefaultText>這座佈滿白霜的龐大塔盾混合了 &lt;g&gt;英格維仙&lt;/g&gt;與 若移冰地 的製作風格。盾牌的長凸面上散發著難以忍受的嚴寒。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5394</ID>
+     <DefaultText>霜毛斗篷</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5395</ID>
+     <DefaultText>經過冰雪與精粹加厚的毛皮穿起來意外地溫暖與沉重。然而在穿戴者身邊的人則會感覺到溫度驟降與持續不斷的刺骨寒風。
 
 黯淡的毛皮散發著腐爛的氣味，而上面覆蓋的冰霜碎片則彼此安靜地鳴響著。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5398</ID>
-      <DefaultText>巨龍奈瑞思賽拉絲堅持不懈地維續著自己的生命，在與消磨她血肉、骨髓乃至靈魂的腐爛作鬥爭。很明顯在如此堅定的意志面前，就連死亡都要讓路。巨龍的頭骨空洞而了無生氣，好像一大塊坑坑窪窪的浮木，不過頭骨深處卻不時傳出某個遙遠的低語，希望能重返戰場。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5431</ID>
-      <DefaultText>冰盾</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5432</ID>
-      <DefaultText>財富探尋者的日誌</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5433</ID>
-      <DefaultText>日誌的最後一頁沾上了血跡。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5398</ID>
+     <DefaultText>巨龍奈瑞思賽拉絲堅持不懈地維續著自己的生命，在與消磨她血肉、骨髓乃至靈魂的腐爛作鬥爭。很明顯在如此堅定的意志面前，就連死亡都要讓路。巨龍的頭骨空洞而了無生氣，好像一大塊坑坑窪窪的浮木，不過頭骨深處卻不時傳出某個遙遠的低語，希望能重返戰場。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5431</ID>
+     <DefaultText>冰盾</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5432</ID>
+     <DefaultText>財富探尋者的日誌</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5433</ID>
+     <DefaultText>日誌的最後一頁沾上了血跡。
 
 「摔在冰上，摔斷了雙腿。可能只是因為白色虛空影響了我的心智，但我沒有一丁點兒後悔。很痛苦，但沒有後悔。
 
 他們說，學門手藝。他們說，開家店舖。他們說，買輛馬車。他們說，種棵蘿蔔。
 
 這些話全都是那些碌碌無為坐吃等死的傢伙說的。我寧願在世界之巔尖叫著死去，也不想在底層幽咽啜泣。所以就開始尖叫吧。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5437</ID>
-      <DefaultText>奈瑞思賽拉絲的希望</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5438</ID>
-      <DefaultText>這塊畸形的金屬碎片律動著噴薄欲出的力量。其中還散發著熱量，空手幾乎難以握住。儘管它明顯不是誕生於白色虛空之中的，但這個小東西的起源難以確認，也無人知曉它為何能夠抵擋睿姆岡領域的熵能。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5437</ID>
+     <DefaultText>奈瑞思賽拉絲的希望</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5438</ID>
+     <DefaultText>這塊畸形的金屬碎片律動著噴薄欲出的力量。其中還散發著熱量，空手幾乎難以握住。儘管它明顯不是誕生於白色虛空之中的，但這個小東西的起源難以確認，也無人知曉它為何能夠抵擋 &lt;g&gt;睿姆岡&lt;/g&gt;領域的熵能。
 
 奈瑞思賽拉絲在其中注入了自己的野心與靈魂。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5441</ID>
-      <DefaultText>瑪珈嵐符咒的記憶</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5442</ID>
-      <DefaultText>這些符咒的具體文本已經在白色虛空中被抹除得基本無法辨識了。也許對睿姆岡領域中的某些居民還有意義。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5441</ID>
+     <DefaultText>瑪珈嵐符咒的記憶</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5442</ID>
+     <DefaultText>這些符咒的具體文本已經在白色虛空中被抹除得基本無法辨識了。也許對 &lt;g&gt;睿姆岡&lt;/g&gt;領域中的某些居民還有意義。
 
 邊緣有一小段文字非常清晰：
 
 「讓學者們去爭論我們如何將維德溫的靈魂放入炸彈的吧。一點點不確定性有利無害。我只關心那破玩意會準備爆炸。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5443</ID>
-      <DefaultText>伊萬德爾塔鑰匙</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5444</ID>
-      <DefaultText>儘管這把鑰匙與伊萬德爾橋其他的部分一樣懸停在了那片時空中，卻仍然有著可以使用似的質感。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5448</ID>
-      <DefaultText>定罪之塵</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5449</ID>
-      <DefaultText>這塊微小卻充滿潛力的靈魂精華碎片可以作為某人行為的冰冷擔保。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5450</ID>
-      <DefaultText>這塊微小卻充滿潛力的靈魂精華碎片律動著壓抑不住的侵略性。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5451</ID>
-      <DefaultText>敵意之塵</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5452</ID>
-      <DefaultText>悔恨之塵</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5453</ID>
-      <DefaultText>這塊微小卻充滿潛力的靈魂精華碎片會流出一縷縷內疚與懊悔。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5464</ID>
-      <DefaultText>破誓者的結局</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5465</ID>
-      <DefaultText>某位在鹿林享有一座小城堡的聚鹿領主鍛造了這把戰斧，用於警告任何敢於挑釁他權威的人。當反抗之戰在這個年輕的國度全面爆發後，領主利用這個機會為戰斧附上了娥狄卡的名義，將有不忠嫌疑的人斬首並宣佈支援反抗軍。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5472</ID>
-      <DefaultText>虛空碎片</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5473</ID>
-      <DefaultText>這個冰冷的黑色球體由分解的精粹在白色虛空中凝聚而成。不建議直接觸碰。更不能舔舐。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5474</ID>
-      <DefaultText>先驅的長袍</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5475</ID>
-      <DefaultText>層層疊疊的毛皮被厚皮革縫合在一起。上面還有各種骨頭與象牙作為固定物，以及雙臂與胸部的鋼鐵野牛符號。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5443</ID>
+     <DefaultText>伊萬德爾塔鑰匙</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5444</ID>
+     <DefaultText>儘管這把鑰匙與伊萬德爾橋其他的部分一樣懸停在了那片時空中，卻仍然有著可以使用似的質感。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5448</ID>
+     <DefaultText>定罪之塵</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5449</ID>
+     <DefaultText>這塊微小卻充滿潛力的靈魂精粹碎片可以作為某人行為的冰冷擔保。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5450</ID>
+     <DefaultText>這塊微小卻充滿潛力的靈魂精粹碎片律動著壓抑不住的侵略性。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5451</ID>
+     <DefaultText>敵意之塵</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5452</ID>
+     <DefaultText>悔恨之塵</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5453</ID>
+     <DefaultText>這塊微小卻充滿潛力的靈魂精粹碎片會流出一縷縷內疚與懊悔。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5464</ID>
+     <DefaultText>破誓者的結局</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5465</ID>
+     <DefaultText>某位在 &lt;g&gt;鹿林&lt;/g&gt;享有一座小城堡的聚鹿領主鍛造了這把戰斧，用於警告任何敢於挑釁他權威的人。當反抗之戰在這個年輕的國度全面爆發後，領主利用這個機會為戰斧附上了娥狄卡的名義，將有不忠嫌疑的人斬首並宣佈支援反抗軍。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5472</ID>
+     <DefaultText>虛空碎片</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5473</ID>
+     <DefaultText>這個冰冷的黑色球體由分解的精粹在白色虛空中凝聚而成。不建議直接觸碰。更不能舔舐。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5474</ID>
+     <DefaultText>先驅的長袍</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5475</ID>
+     <DefaultText>層層疊疊的毛皮被厚皮革縫合在一起。上面還有各種骨頭與象牙作為固定物，以及雙臂與胸部的鋼鐵野牛符號。
 
-這件衣物考慮到了先驅之守望的溫和天氣，因此比起若移冰地的傳統服飾增加了不少便捷性。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5476</ID>
-      <DefaultText>不穩定的靈魂精華</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5477</ID>
-      <DefaultText>靈魂能量在聚集過程中會隨時間傾向於不穩定性。由於靈魂的組成部分太過龐雜，以至於輕輕一碰就能使其分崩離析，並導致一次精華爆炸。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5478</ID>
-      <DefaultText>腐蝕靈魂精華</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5479</ID>
-      <DefaultText>某些心懷惡意的基斯會製作出具有相當腐蝕性的靈魂精華。這些人生前的罪行沾染了其靈魂，只留下了腐蝕性的殘片。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5480</ID>
-      <DefaultText>慈悲的靈魂精華</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5481</ID>
-      <DefaultText>這份精華來自多行善舉的基斯死後留下的靈魂。將其吞噬後，使用者會進入靈體形態，被賦予面紗的保護。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5486</ID>
-      <DefaultText>&lt;i&gt;「霜裔隨初雪而來。我們只是慶祝這個季節捕到的最後一頭鯨魚——被我們的英勇捕手拖上海岸的牆頭鯨。我們會將大片肉塊與脂肪割下，大部分用鹽醃製，少部分油炸，少部分裝罐用來之後食用。整個過程中——我們辛苦勞作並享用美味——我們會對它的靈體歌唱，感謝它的犧牲，並讓它回到海洋的靈魂中安息。
+這件衣物考慮到了先驅之守望的溫和天氣，因此比起 若移冰地 的傳統服飾增加了不少便捷性。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5476</ID>
+     <DefaultText>不穩定的靈魂精粹</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5477</ID>
+     <DefaultText>靈魂能量在聚集過程中會隨時間傾向於不穩定性。由於靈魂的組成部分太過龐雜，以至於輕輕一碰就能使其分崩離析，並導致一次精粹爆炸。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5478</ID>
+     <DefaultText>腐蝕靈魂精粹</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5479</ID>
+     <DefaultText>某些心懷惡意的 &lt;g&gt;基斯&lt;/g&gt;會製作出具有相當腐蝕性的靈魂精粹。這些人生前的罪行沾染了其靈魂，只留下了腐蝕性的殘片。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5480</ID>
+     <DefaultText>慈悲的靈魂精粹</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5481</ID>
+     <DefaultText>這份精粹來自多行善舉的 &lt;g&gt;基斯&lt;/g&gt;死後留下的靈魂。將其吞噬後，使用者會進入靈體形態，被賦予面紗的保護。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5486</ID>
+     <DefaultText>&lt;i&gt;「霜裔隨初雪而來。我們只是慶祝這個季節捕到的最後一頭鯨魚—被我們的英勇捕手拖上海岸的牆頭鯨。我們會將大片肉塊與脂肪割下，大部分用鹽醃製，少部分油炸，少部分裝罐用來之後食用。整個過程中—我們辛苦勞作並享用美味—我們會對它的靈體歌唱，感謝它的犧牲，並讓它回到海洋的靈魂中安息。
 
 「我們大快朵頤！我們開懷痛飲！我們放聲歌唱！但當雪幕降下時，我們的聲音也將停歇。我們的靈魂也將平息。初霜帶來了巨角之獸，其蹄印中誕生了子孫。」&lt;/i&gt;</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5487</ID>
-      <DefaultText>&lt;i&gt;「希拉克第一個消失了。雪已下了數日，卻仍無霜裔的蹤跡。有些人開始竊竊私語，說今年也許是個好年份。這樣我們就不用匆匆向北趕路。我們也開始放鬆下來。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5487</ID>
+     <DefaultText>&lt;i&gt;「希拉克第一個消失了。雪已下了數日，卻仍無霜裔的蹤跡。有些人開始竊竊私語，說今年也許是個好年份。這樣我們就不用匆匆向北趕路。我們也開始放鬆下來。
 
-「然而希拉克消失了。誰也不知道是如何發生的。他沒有去打獵，也沒有自尋短見。他一直就在蒲妮奇前面——這可是個明察秋毫的女獵人！——然而片刻冰風刮過後她便失去了蹤影。當大家休息時，他並不在附近。他的足跡到此為止。
+「然而希拉克消失了。誰也不知道是如何發生的。他沒有去打獵，也沒有自尋短見。他一直就在蒲妮奇前面—這可是個明察秋毫的女獵人！—然而片刻冰風刮過後她便失去了蹤影。當大家休息時，他並不在附近。他的足跡到此為止。
 
 「小路兩旁的雪像石頭一般堅硬。」&lt;/i&gt;</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5488</ID>
-      <DefaultText>&lt;i&gt;「我返回時，沒人說我瘋了。沒人說我是個騙子。我們又失去了三個人，都像第一個般悄無聲息地失蹤。我們只看到了一名霜裔——一具憔悴的白色屍體，臉部的凹陷被凍結的鮮血填滿。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5488</ID>
+     <DefaultText>&lt;i&gt;「我返回時，沒人說我瘋了。沒人說我是個騙子。我們又失去了三個人，都像第一個般悄無聲息地失蹤。我們只看到了一名霜裔—一具憔悴的白色屍體，臉部的凹陷被凍結的鮮血填滿。
 
 「當我們抵達殼石曠野時，我們向每條路都派出了斥候。我抽到了代表西方的石頭，並帶著弓箭與戰斧出發。大家希望我能帶著前方安全或危險的話語歸來，但我也可能就此消失。無論如何，我都是為了恩努塔尼克人。
 
-「我在那塊被我們稱為酋長髮辮的大石頭頂端見到了它。那麼白，好像雪一般——若不是陽光在後面將它映出橙色與紫羅蘭的輪廓，我想自己根本看不到它。它越過松樹出現，就連最高的樹也不及它的肩膀。它的角刺穿雲霄將其撕開缺口，雪便從缺口中紛紛落下。霜裔如同雪花一般在它的雙腿間來來往往，像修長而鋒利的冰稜，它們瘦骨嶙峋的雙手握著覆有白霜的矛與盾。
+「我在那塊被我們稱為酋長髮辮的大石頭頂端見到了它。那麼白，好像雪一般—若不是陽光在後面將它映出橙色與紫羅蘭的輪廓，我想自己根本看不到它。它越過松樹出現，就連最高的樹也不及它的肩膀。它的角刺穿雲霄將其撕開缺口，雪便從缺口中紛紛落下。霜裔如同雪花一般在它的雙腿間來來往往，像修長而鋒利的冰稜，它們瘦骨嶙峋的雙手握著覆有白霜的矛與盾。
 
 「我逗留了片刻就趕緊離開。我們必須向東前進。西邊等待我們的只有終結。」&lt;/i&gt;</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5489</ID>
-      <DefaultText>他對若移冰地的瞭解也僅限於故事中。一片廣闊而空虛的白茫之地，好像神廟周圍的藍海，只是冰冷而艱澀。他想像著雪熊那大量的白色毛皮與肌肉，還有能用長矛似的尖牙扎穿冰面尋找食物的海象，並且夢想著乘坐雪橇穿越這片破敗不堪的冰凍之地。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5489</ID>
+     <DefaultText>他對 若移冰地 的瞭解也僅限於故事中。一片廣闊而空虛的白茫之地，好像神廟周圍的藍海，只是冰冷而艱澀。他想像著雪熊那大量的白色毛皮與肌肉，還有能用長矛似的尖牙扎穿冰面尋找食物的海象，並且夢想著乘坐雪橇穿越這片破敗不堪的冰凍之地。
 
 他永遠也見不到它們的。他的領地就在這座神廟中，監視著白色巨胃，保護它不受外人侵擾，以及丟掉次級神明的工具與武器。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5490</ID>
-      <DefaultText>雷哈妲某天下午鍛煉之後把他叫到一旁。睿姆岡的選中者歲數並不大，但她本人則受到寒冬的選擇負責看守其領域的大門。她將這份權力裹在自己身上，雙肩挺立，揚起下頜。她十分自信。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5490</ID>
+     <DefaultText>雷哈妲某天下午鍛煉之後把他叫到一旁。睿姆岡 的選中者歲數並不大，但她本人則受到寒冬的選擇負責看守其領域的大門。她將這份權力裹在自己身上，雙肩挺立，揚起下頜。她十分自信。
 
-隨後她將他從島上送去了若移冰地。她解釋稱，瞭解這片大地就是瞭解寒冬自身。不能瞭解他人的話就無法瞭解自己，而守護者對寒冬的瞭解必須像對自己一樣透徹。
+隨後她將他從島上送去了 若移冰地。她解釋稱，瞭解這片大地就是瞭解寒冬自身。不能瞭解他人的話就無法瞭解自己，而守護者對寒冬的瞭解必須像對自己一樣透徹。
 
 於是他內心砰砰直跳地縮在下一艘補給船上直向南去。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5491</ID>
-      <DefaultText>硬漢回到了冰封的家園。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5491</ID>
+     <DefaultText>硬漢回到了冰封的家園。
 
-若移冰地用霜雪重塑了他——曾經柔軟的雙手如今堅硬如冰，瘦長的雙臂也充滿了肌肉，乾淨的面頰長出了像雪熊毛髮般純白的鬍鬚。
+若移冰地 用霜雪重塑了他—曾經柔軟的雙手如今堅硬如冰，瘦長的雙臂也充滿了肌肉，乾淨的面頰長出了像雪熊毛髮般純白的鬍鬚。
 
 但所有人都死了。有些被撕成碎片，軀體支離破碎開膛破肚。還有些則被永遠凍在了原地。雷哈妲自己還守在入口處，即便死後也保持著警惕。
 
 他沒有任何悲傷，也沒有恐懼。他瞭解這片土地，從而也瞭解寒冬。當灰燼之胃中傳出咆哮聲時，他知道這來自一名入侵者。他舉起了矛與盾，衝進了白色虛空。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5495</ID>
-      <DefaultText>弗約爾德</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5496</ID>
-      <DefaultText>你經常能看到這隻無法無天的雪熊仔在追海鷗或啃你備用的靴子。他什麼都吃，但特別愛吃凍伊薩魚肉以及大塊的腐爛鯊魚肉。</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5600</ID>
-      <DefaultText>嚴謹的信函</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5601</ID>
-      <DefaultText>這封信被整整齊齊地疊成了四方形。
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5495</ID>
+     <DefaultText>弗約爾德</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5496</ID>
+     <DefaultText>你經常能看到這隻無法無天的雪熊仔在追海鷗或啃你備用的靴子。他什麼都吃，但特別愛吃凍伊薩魚肉以及大塊的腐爛鯊魚肉。</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5600</ID>
+     <DefaultText>嚴謹的信函</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5601</ID>
+     <DefaultText>這封信被整整齊齊地疊成了四方形。
 
-「[Player Name]帶著灼熱金屬的碎片行走於亡焰列島之上。這些物品的偉大與你脫不開干係，儘管我們對時機都感到驚訝。
+「[Player Name]帶著灼熱金屬的碎片行走於 &lt;g&gt;亡焰列島&lt;/g&gt;之上。這些物品的偉大與你脫不開關係，儘管我們對時機都感到驚訝。
 
 我們應該抓住這個機會。殺掉[Player Name]。無需掩飾你的行動，因為我們有法律的支撐。一定要把金屬交至伊吉婭的手中。她在佩瑞琪之望是浪費自己的潛能。
 
-讚美流放女王。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5602</ID>
-      <DefaultText>匆忙寫完的信函</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5603</ID>
-      <DefaultText>這封信上沾著煤灰與蠟痕。
+讚美流放女皇。」</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5602</ID>
+     <DefaultText>匆忙寫完的信函</DefaultText>
+     <FemaleText />
+   </Entry>
+   <Entry>
+     <ID>5603</ID>
+     <DefaultText>這封信上沾著煤灰與蠟痕。
 
-「我從沒打算寫下這些。黑色碎片已被找回，而[Player Name]帶著它們——我祈禱這不是出於無知或巧合。
+「我從沒打算寫下這些。黑色碎片已被找回，而[Player Name]帶著它們—我祈禱這不是出於無知或巧合。
 
 如果我們抓緊行動還能來得及。靈視者也許在未意識的情況下遭受著女巫的腐蝕。不要劍下留情。
 
@@ -716,8 +716,8 @@
 
 一定要讓它們遠離佩瑞琪之望。我們的敵人提到過工匠伊吉婭，她身上似乎背負著某種宿命。
 
-以和平與瑪珈嵐的榮耀之名，祝你成功。」</DefaultText>
-      <FemaleText />
-    </Entry>
-  </Entries>
+以和平與 &lt;g&gt;瑪珈嵐&lt;/g&gt;的榮耀之名，祝你成功。」</DefaultText>
+     <FemaleText />
+   </Entry>
+ </Entries>
 </StringTableFile>

@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>「我不太確定我真的很相信你的話。猜我現在在想什麼呢？不行，先等一下——現在好了。」</DefaultText>
+      <DefaultText>「我不太確定我真的很相信你的話。猜我現在在想什麼呢？不行，先等一下—現在好了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>「哦，如果你想的話，你可以看一眼。我不是說你以後想看就能看——只有這次而已。」</DefaultText>
+      <DefaultText>「哦，如果你想的話，你可以看一眼。我不是說你以後想看就能看—只有這次而已。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -277,12 +277,12 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>[離開幻景。]</DefaultText>
+      <DefaultText>[離開幻景]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>[繼續看下去。]</DefaultText>
+      <DefaultText>[繼續看下去]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -294,7 +294,7 @@
       <ID>69</ID>
       <DefaultText>&lt;i&gt;你孤身一人，周圍全是屍體。塞拉芬的、[Specified 0]的、[Specified 1]的、[Specified 2]的、還有許多其他人的屍體。他們眼睛大睜，一眨不眨，眼珠裡倒映著熊熊燃燒的天空。大海在你的腳下咆哮著，彷彿沸騰了一樣。隨著一聲滾雷般的巨響，你腳下的船四分五裂，你掉進了水中。水面冰冷刺骨，彷彿在燃燒一樣；也可能是它滾滾沸騰，彷彿徹骨冰寒一樣。&lt;/i&gt;
 
-幻景消失了，你發現你正盯著那只藍色的絨精看。</DefaultText>
+幻景消失了，你發現你正盯著那隻藍色的絨精看。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -348,14 +348,14 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「你本來以為恩加蒂人、亞彌拉人，還有很多別的人就已經夠可怕了，直到你在某個姑娘的夢境裡，看到亡焰列島上的大人小孩都被烈火吞噬的恐怖景象。
+      <DefaultText>「你本來以為 恩加蒂、亞彌拉，還有很多別的就已經夠可怕了，直到你在某個姑娘的夢境裡，看到 &lt;g&gt;亡焰列島&lt;/g&gt;上的大人小孩都被烈火吞噬的恐怖景象。
 
 他揉了揉皺在一起的眉毛。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>「我看到了貝拉斯與岡恩之外眾神被困在地獄中，他們飢腸轆轆，枯萎成了灰塵與白骨，靠吞噬靈魂得以生存。」</DefaultText>
+      <DefaultText>「我看到了 &lt;g&gt;貝拉斯&lt;/g&gt;與 &lt;g&gt;岡恩&lt;/g&gt;之外眾神被困在 冥界 中，他們飢腸轆轆，枯萎成了灰塵與白骨，靠吞噬靈魂得以生存。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,7 +385,7 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>[什麼都不說。]</DefaultText>
+      <DefaultText>[什麼都不說]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -412,7 +412,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>[一言不發。]</DefaultText>
+      <DefaultText>[一言不發]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,7 +436,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>[目送他們。]</DefaultText>
+      <DefaultText>[目送他們]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>「你覺得這會是俄撒斯的訊息嗎？」</DefaultText>
+      <DefaultText>「你覺得這會是 &lt;g&gt;俄撒斯&lt;/g&gt;的訊息嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,7 +481,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>「是的。我覺得岡恩在向我們展示將來的情景——這樣我們就能想辦法撐過去。」</DefaultText>
+      <DefaultText>「是的。我覺得 &lt;g&gt;岡恩&lt;/g&gt;在向我們展示將來的情景—這樣我們就能想辦法撐過去。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

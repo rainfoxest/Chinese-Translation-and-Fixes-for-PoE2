@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[取出塞口布。]</DefaultText>
+      <DefaultText>[取出塞口布]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[暫時不管她。]</DefaultText>
+      <DefaultText>[暫時不管她]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[仔細檢視鐵項圈。]</DefaultText>
+      <DefaultText>[仔細檢視鐵項圈]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「然後一艘巨大的船朝我們的船徑直駛來，差點把我們的船當場撞碎。是漂浮吊死鬼號。」
+      <DefaultText>「然後一艘巨大的船朝我們的船徑直駛來，差點把我們的船當場撞碎。是 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;。」
 
 「我重重地挨了一下，醒來時都驚魂未定。但接著我就發現那些怪物在推著我和科桑格趕路。」</DefaultText>
       <FemaleText />
@@ -80,7 +80,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>「這種魔法我在亡焰列島從沒見過，也沒聽說過。」
+      <DefaultText>「這種魔法我在 &lt;g&gt;亡焰列島&lt;/g&gt;從沒見過，也沒聽說過。」
 
 「我中過不少詛咒，但從沒遇到過這種的。」</DefaultText>
       <FemaleText />
@@ -97,7 +97,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「弗蘭特正在找漂浮吊死鬼號。如果你知道什麼情況，他會獎勵你。」</DefaultText>
+      <DefaultText>「弗蘭特正在找 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;。如果你知道什麼情況，他會獎勵你。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,7 +107,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[為他們切斷綁繩。]「待在這裡別走。我去開路。」</DefaultText>
+      <DefaultText>[為他們切斷綁繩]「待在這裡別走。我去開路。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -129,7 +129,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「放了我們，舷窗堡壘的所有皇族海盜就都會知道你為我們做的一切。」</DefaultText>
+      <DefaultText>「放了我們，死燈堡壘的所有皇族海盜就都會知道你為我們做的一切。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>「你這變態——！」
+      <DefaultText>「你這變態—！」
 
 「你想給他們一頓美餐？不如準備一場盛宴吧！」</DefaultText>
       <FemaleText />
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>「你這變態——！」
+      <DefaultText>「你這變態—！」
 
 「但願他們逮到你這邪惡的怪胎！希望他們把你的四肢一根一根扯下！」</DefaultText>
       <FemaleText />
@@ -178,7 +178,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「謝謝你，陌生人！有空的話就來舷窗堡壘，我們會隆重地歡迎你！」</DefaultText>
+      <DefaultText>「謝謝你，陌生人！有空的話就來死燈堡壘，我們會隆重地歡迎你！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,7 +243,7 @@
       <ID>45</ID>
       <DefaultText>「戴莫開始叫喊，他們就差點把他的腦袋劈成兩半。」
 
-「我的帶他回舷窗堡壘。」</DefaultText>
+「我的帶他回死燈堡壘。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,12 +258,12 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「詛咒你！下地獄吧！」</DefaultText>
+      <DefaultText>「詛咒你！下 冥界 吧！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[為他們切斷綁繩。]「快，走船體上的那個缺口出去。」</DefaultText>
+      <DefaultText>[為他們切斷綁繩]「快，走船體上的那個缺口出去。」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
