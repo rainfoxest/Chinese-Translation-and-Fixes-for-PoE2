@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_wildrhymer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸賞：冒牌者尤瑪魯</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺死&lt;b&gt;尤瑪魯&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找&lt;b&gt;楠嘉塔&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一名叫做&lt;b&gt;尤瑪魯&lt;/b&gt;的自然神嗣妄想奪取卡罕加王位，他正在試圖組建反抗&lt;b&gt;涅克塔卡&lt;/b&gt;領導層的叛軍。他和自己的追隨者們紮營在了&lt;b&gt;瑪珈嵐之牙東面&lt;/b&gt;的一座小島上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;尤瑪魯&lt;/b&gt;的頭上有一大筆賞金。他就在&lt;b&gt;瑪珈嵐之牙東面&lt;/b&gt;的一座小島上，他和他的寵物獅子絕對不會善待賞金獵人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>尤瑪魯的反叛已經結束。涅克塔卡&lt;b&gt;巨蛇王冠&lt;/b&gt;裡的&lt;b&gt;楠嘉塔&lt;/b&gt;會為他的頭顱付出豐厚的報酬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我殺死了尤瑪魯並且從楠嘉塔處得到了賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

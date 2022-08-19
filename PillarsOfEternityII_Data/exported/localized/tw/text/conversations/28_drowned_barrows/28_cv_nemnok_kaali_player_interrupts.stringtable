@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\28_drowned_barrows\28_cv_nemnok_kaali_player_interrupts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>115</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「死於我手是你的榮幸。接受這份祝福吧。」
+
+涅姆諾克伸出長爪，嘶鳴著直衝而下發動攻擊。
+
+侍僧們興高采烈地歡呼起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我才是這座山唯一的主人，孩子。如果你不效命於我，你的鮮血便將盈滿我忠實的簿記筆下的墨盅。」
+
+涅姆諾克臉上的笑容愈發猙獰，引起信徒們的一陣歡呼聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「卡利，你可以跑了。涅姆諾克的時代結束了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[攻擊]「我受夠了渴望權力的神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「大人，我……很抱歉！我會為你的成功祈禱的！」卡利丟下武器，一溜煙地逃走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「強大的涅姆諾克是麥田里的微風，是眉間流轉的頌歌。他代表了我們全部乃至更多！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「懦弱，背叛……所有下級基斯的瑕疵。我不能接受凡夫俗子來破壞我的偉業。」
+
+涅姆諾克用力發出一聲嘶鳴，發起了攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我……我必須走嗎？」卡利站起來張著鼻孔。他的雙眼閃爍著淚光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你是我的忠實信徒，孩子。現在處理掉這個入侵者！」
+
+涅姆諾克露出一口參差不齊的牙齒，猛撲過來發動攻擊。
+
+侍僧們發出一陣興奮的歡呼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>他朝你眨巴了兩下眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「離開這個地方，但心中不要忘記我，孩子。」
+
+涅姆諾克舉起一隻爪子又放下，然後轉過身不再看卡利。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>卡利緩緩離去，一聲響亮的抽噎聲在房間裡迴盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「怎麼回事？是誰打擾我們敬拜？」
+
+侍僧的聲音響徹大廳。信徒們響亮的吟唱聲沒有中斷，仍在繼續。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「外來者，不許在主人的聖所裡再前進一步！涅姆諾克會吸乾你靈魂的精粹！」
+
+信徒們發出一陣歡呼，吟唱地更賣力了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「我來是為了看看涅姆諾克是不是真神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「是你嗎，卡利？我遇到你父親了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「我……我的父親是個異教徒！我已然凌駕於他之上！」卡利握緊體側的拳頭，扭頭看向了別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「涅姆諾克是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「涅姆諾克是萬物的吞噬者，祂吞下眾神，吐出他們的頭骨！祂是艾歐拉唯一的真神！」
+
+「我展示給你看！&lt;i&gt;你自己看吧！&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「涅姆諾克，你是張口的咽喉，是凝視的眼神，是群星之間的暗影！你是紅色的幕布，琥珀中的秘密，魂珀中的光芒！」
+
+他將手攥成拳，從傷口中擠出更多鮮血餵食深坑的虛空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「我是[Player Name]，[Player Ship]的船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「你……竟沒聽說過偉大的涅姆諾克？」
+
+所有人都吃驚地倒吸一口涼氣，彷彿能把房間裡的空氣都吸掉一樣。侍僧接著剛剛停下的地方繼續吟唱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「你只有一艘船？哈！偉大的涅姆諾克很快就會擁有一支大型軍用帆船組成的艦隊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「卡利，住手！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>[吟唱]「涅姆諾克！涅姆諾克！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[攻擊]「夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「太遲了！看吧，涅姆諾克就要現身了！」
+
+卡利將顫抖的手舉到空中，張開嘴無聲地呼喚著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「別幹什麼傻事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[靜觀其變。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[攻擊]「這場召喚儀式到此為止。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>你還沒來得及動手，卡利就用刀劃破了自己的手掌，一邊獰笑一邊抬著被劃破的手，將血滴進深坑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>他用刀劃破手掌，咬緊牙關，發出嘶嘶聲。卡利朝深坑的入口傾斜上身，將血滴了進去。
+
+下方深處吹來一陣熱風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>[靜觀其變。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「現身吧，敬愛的涅姆諾克，用你奪命的目光令所有異教徒灰飛煙滅吧！」
+
+卡利伸出雙臂。深坑裡狂風呼嘯，彷彿大火將至。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「就是這樣！現在你會慢慢明白了！」
+
+欣喜若狂的卡利舉起匕首，又在手掌上深深地劃了一道。他仰頭狂笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「是的！是的，涅姆諾克要現身了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「情況很不妙啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「與涅姆諾克斷絕關係，不然就去死！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>[靜觀其變。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>卡利張開雙臂，開始低聲唸咒。很多祈求者也開始一起念。鼓點的節奏越來越快。
+
+然後卡利從長袍中抽出一把長匕首。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「你……沒聽說嗎？啊！那你太可憐了！」他用手掌摩擦著拳頭，點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「其實我正準備離開。走錯地方了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「外來者，站住！你看到得太多了，涅姆諾克要求你賠償！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>一個龐然大物從深坑中出現，拍打著皮質的翅膀，侍僧們狂熱的吟唱聲到達了新高潮。
+
+一個生物瞇起像切割過的寶石一樣的雙眼打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>」祈求者，你把什麼東西帶到了我面前？」它注視著卡利，張開爪子比劃了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「偉大的主，這是一個祭品！」卡利指著你。
+
+圓圈周圍的信徒們舉起雙手歡呼起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「不必枉費口舌，侍僧。我已知此人並非效忠於我。」
+
+涅姆諾克揮手示意卡利退開，自己用充滿仇恨的緊張目光盯著你，而信徒們又重新唱起頌歌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「是祭品，強大的涅姆諾克！看哪！」卡利指向你的隊伍。
+
+圓圈周圍的信徒們舉起雙手歡呼起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「我喜歡歡呼聲，但他話中的某些字眼令我有些不安。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「什麼？」帕蕾吉娜看了看你身後是否有其他可能變成祭品的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「船長，他說的該不會是我們吧？」看著卡利的泰克胡不安地將視線移回你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「你得問問我的鳥同不同意。」
+
+麥婭瞇起了眼睛。
+
+伊希薩沮喪地叫了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「靈視者，你知道我只在被窩裡玩過家家。」她好不遮掩地交叉著雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「慢著，什麼？話說，事情是這樣，我其實從來都不&lt;i&gt;是&lt;/i&gt;會去神廟的那種人……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「你應該就是涅姆諾克吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「你是什麼鬼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[靜觀其變。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>這隻生物無言地沉思了片刻，然後無所謂地將注意力轉向了別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>這隻生物張開嘴發出一聲響亮的嘶鳴，嚇得侍僧們趕忙躬身行禮，房樑上的灰塵也被震落下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「真正的神明不應該需要抄書吏。你究竟是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「知識就是力量，還是說我大廳外荒野裡那些不信神的傢伙什麼都沒教你？」
+
+涅姆諾克輕蔑地朝出口做了個手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「孩子，我僕從收集的每張卷軸和每部魔典都令我的力量更加強大。」
+
+涅姆諾克張開雙臂。祈求者們也做了相同的動作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「這些卷軸和魔典算什麼？只不過是障眼法罷了。你根本不是神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「我覺得你看起來像個巨型妖精。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「我……偉大的主？」卡利轉過身，睜大眼睛凝視著涅姆諾克。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「你的信仰竟如此不堅定，一個外來者的話就令你動搖了嗎？」
+
+涅姆諾克把眼睛瞇得更小了。它失望地搖著巨大的腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「財富與榮耀？既然如此，我願意向這樣的雙贏條約『投降』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「有了知識，我比任何凡人都強大。」
+
+「孩子，向我屈服吧。忤逆我只有死路一條。」
+
+信徒的人群中傳來一聲哀號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>[攻擊]「結束這一切吧，惡魔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「你說投降有什麼條件？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「我的誓約如下——前往山的彼方收集擁有力量的魔典。
+
+「將它們交還給我作為你奉獻的體現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「任何時刻都須謹記我就是你的神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「財富與榮耀等待著忠實的僕從。」
+
+涅姆諾克指向隱約可見的雕像腳下的寶物堆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>涅姆諾克看著你緩緩點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「那麼誓約便就此成立。
+
+「歡迎你，我的侍僧。」
+
+它的目光轉到了卡利身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「我已不再需要你了，孩子。這名侍僧更適合侍奉我。」
+
+涅姆諾克伸出一隻爪子指向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「卡利，回去找你父親吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「走開，小鬼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>[攻擊]「我改變主意了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「條件？」涅姆諾克眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>「怎麼會這樣……你毀掉了一切！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>「我還有職責要向山彼方的其他神明完成。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>「你的出場夠華麗的嘛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>「蠢物！有什麼神能超過涅姆諾克！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>「祭品？我不這麼認為。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>「我來這不是為了打架。」涅姆諾克，我們談談吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>「涅姆諾克，請允許我向你獻上祭品——卡利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>沉默籠罩在大廳之中。卡利的表情漸漸凝固，雙頰失去了血色。
+
+緊接著涅姆諾克的下頜咧出一道獰笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「很有誘惑力，但我感覺到你身上還有其他主人的約束。」
+
+涅姆諾克斜視著你，用一根長爪指向你的心臟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>[攻擊]「我寧願夷平這座山也不願向你屈服。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「哈！強大者不需要無用的閒聊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「若不服從，就是死路一條！」卡利念出最後通牒，雙手緊握成拳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「我要走了。想阻攔我就試試。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>&lt;i&gt;「涅姆諾克！涅姆諾克！」&lt;/i&gt;
+
+鼓點的節奏變得瘋狂起來。大部分侍僧都因為長年累月的敬獻而體弱嶙峋，但他們仍然高聲呼喊著狂野的禱詞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「我來不是為了和你爭論你的神格問題。只是來看看而已。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「外來者，你看到的太多了！」卡利咬牙切齒，向前邁了一步。
+
+涅姆諾克看著這一切，讚許地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「啊……你見過的東西比我想像得多。」
+
+「但你雖然見多識廣，還是看不透我的本質。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「然而你依然是個巨型妖精。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>「我要走了。想阻攔我就試試，妖精。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>「希望這個叫涅姆諾克的傢伙知道帶繃帶來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>「這和舊瓦利亞一模一樣……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>「既不衛生又吵得要命。不得不說我並不喜歡他們歡迎來客的習俗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>「船長，我好怕！」泰克胡抓著你的肩膀，縮起腦袋以擋住聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>「有東西要出現了……船長，我有不祥的預感。」
+
+麥婭握住她的武器。她腳下的伊希薩將腦袋縮到了翅膀下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>「別人還說我們收割者嚇人呢……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>「船長，活見鬼了，你這次又害我們捲進了什麼麻煩中？塞拉芬躬身屈膝。他的右耳抽動了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>「安靜！」卡利做了個怪相，又開始更加狂熱地重複起禱詞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>「有了力量，我就能對所有忤逆我的人降下恐怖之雨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>「涅姆諾克……涅姆諾克……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>「涅姆諾克！涅姆諾克！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>「涅姆諾克……涅姆諾克……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>「涅姆諾克！涅姆諾克！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>「涅姆諾克！涅姆諾克！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>「涅姆諾克！涅姆諾克！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>「我已經習慣別人叫我異教徒了，我沒什麼不舒服的感覺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

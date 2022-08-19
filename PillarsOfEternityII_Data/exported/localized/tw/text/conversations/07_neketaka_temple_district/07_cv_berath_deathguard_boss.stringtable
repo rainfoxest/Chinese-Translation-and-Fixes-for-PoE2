@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_berath_deathguard_boss</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>121</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>高大的骷髏伸直了他的脊椎，骨頭移動發出的嘎嘎聲在洞穴裡迴盪。他背上綁著一支鍍金的劍，手裡抓著一把巨大的鏈枷，鏈枷的錘頭是個巨大的骷髏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「賢兄，別來無恙？」</DefaultText>
+      <FemaleText>「姊妹，近可安康？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「又見君至，但言無妨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「神選之人。你我相逢固然幸甚，亦極為不幸；因君既來此，終是與死亡為伍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「此柄鏈枷已近半生不曾見血。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「君且直言，言畢則死至。除非君有實理，方可免繳貝拉斯之稅賦。」
+
+死亡守衛將他巨大鏈枷上插有尖刺的大骷髏頭掄起，砸到腳邊的石頭上。他隨即又把鏈枷的鐵鏈舉過只剩骨頭的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我無意打擾你安息，但我的任務至關重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「若不是貝拉斯垂青於我，我便不可能來到這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我來這裡幹什麼？鎮上的人們說這裡&lt;i&gt;是&lt;/i&gt;社交場所。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你再威脅我試試，你個發霉的骨頭架子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「等等。讓我解釋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>骷髏站定，如死亡般紋絲不動，魔法在他週身翻滾，灼燒著空氣。有那麼一會兒他僅僅是注視著你。
+
+然後他的牙卡卡作響，他將鏈枷舉過肩頭擺動，差一點就打到你的喉嚨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「爾死期已至。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「海上有艘幽靈船。我來這裡是想瞭解露西亞·利文，好讓她得以安息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「貝拉斯的高階牧師對關於你的頌詞遺失感到惋惜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我不是來此奪取你所保護之物，貝拉斯的死亡守衛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我得知了你的故事，便循跡而來——偉大的耶蘇亞，貝拉斯選中的聚鹿人，殺死露西亞·利文之人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「說實話……我只是在探險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[攻擊]「早死早超生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>聽到利文的名字，死亡守衛壓抑著怒火。冰冷但暴烈的憤怒使得骷髏的脊椎嘎吱作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「賊子！願她之魂永世不得見天日！利文欲使貝拉斯墮落，此子卑鄙無恥，幾令艾歐拉毀於一旦！其何人也？不過一骯髒疹瘤於世！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「善。我已知爾遺言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「然，昔日貝拉斯牧師拜訪此墓至今，已有數倍於凡人陽壽之久。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>他打量著你，眼睛安靜地閃爍著。他的牙發出喀啦聲，同時把鏈枷上的頭骨重重地放在地面上，砸出一個小坑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「爾已領略貝拉斯之儀式。爾亦知我盡忠職守，死而後已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>他點點頭，骨頭發出爆裂似的聲音，他把鏈枷上的頭骨重重地放在地面上，砸出一個小坑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>聽到利文的名字，死亡守衛壓抑著怒火。冰冷但暴烈的憤怒使得骷髏的脊椎嘎吱作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>他向前邁出一步，骨頭發出啪的一聲，然後又邁出一步。他非人的聲音咆哮著向貝拉斯喊出咒語，他的靈魂之焰席捲而上，吞沒了那副骷髏骨架。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「關於露西亞·利文，有什麼可以告訴我的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你能跟我說說那場對抗不死族的戰鬥嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「也就是說，你犧牲自己來看守這把神聖的武器？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我必須把最後一塊刻有關於你的頌詞的石碑送去給貝拉斯高階牧師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「你想知道什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我來取噬魂者之劍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我來歸還這把神聖的劍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「利文生前乃是達寇茨聖武士。她蔑視貝拉斯，妄圖染指凡人不應覬覦之神兵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「然其死後亦不安寧。此賊信念扭曲，重生為惡，造出一支不死大軍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我重生為死衛，她則領不死之軍乘邪惡的方菲羅斯號出海遠行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我追其航向，終於一常規航線上尋獲蹤跡。便在達思肯淺灘上設下伏兵。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「靜待良久。遠處海風正勁，卻有片霧飄然而至。利文之船自霧中緩緩而出。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「及至風平，浪靜，幽靈船已衝破我軍埋伏。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「彼時有如一場屠殺。我身受重傷，但得以攜貝拉斯的武器——噬魂者之劍遁走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「然也，這一抉擇並非易事，但我決心已定。為侍奉吾神，我願變成我曾以她之名誓要消滅之物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「此武器不可流落至艾歐拉之中。我須看守它直至永恆。但若我亦是不死族，我便無法保護它遠離不死族。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「為了貝拉斯……我會將這把武器用於正途。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[攻擊]「這把武器我打算自己留著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我再問問你別的事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>他的蒼白色指骨握緊了武器柄部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你自認是天選之人，是吧？但為何我該相信你？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「貝拉斯選中了我。請讓我用這把劍懲罰那些不願接受死亡的罪人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你和我一樣希望看到這把劍用於懲處貝拉斯的敵人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「如果我們將真相永遠埋藏在墓穴中，基斯如何能接受神的教誨呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>一片靜默中，死亡守衛的身影若隱若現。週遭火盆的光芒給他的骨架投下一片溫暖的影子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「除去你我之外，貝拉斯是否曾給予過其他人死而復生的恩惠？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「好吧，你可使用這把武器。暫且如此。除此之外，你須先許下將來定會歸還它的血誓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「若你並非貝拉斯選中之人，我會將你碎屍萬段。但你言之有理。也許歷經無數冰冷夜晚之後，我確實已無力再向他們復仇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我對於基斯的行事之道已不甚瞭解，但失去諸神的指引，世界必將毀滅。」
+
+巨大的骷髏搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[切破手掌。]「我發誓，我將歸還這把劍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[假裝切破手掌。][撒謊。]「我發誓，我將歸還這把劍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我尚未準備好起誓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>他巨大的頭骨發出嘎吱聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「貝拉斯見證了你的誓言——你的命運也隨之決定。」
+
+古老的死亡守衛把劍端舉到你面前，示意你從他只剩骨頭的手上將其取走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「此言當真？你不會有下一次機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[放棄這把劍。]「就這樣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>骷髏手上的劍噴湧出魔力，但他未發一語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「那好吧。我同意。牧師們需要讓貝拉斯的神聖儀式傳遞下去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「它就在我的墳墓裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「你必定有著英勇無畏的靈魂，才會選擇放棄這樣一把威力無窮的致命武器。那麼，我也準備好了繼續守衛它。」
+
+他伸出一隻枯槁的胳膊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「如果你已經準備好了將其讓渡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[交出這把劍。]「它又回歸你的守衛之中了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「還不是時候。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「感謝貝拉斯。」耶蘇亞略一欠身，接過了沉重的劍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「你沒有變得貪心，對吧？」
+
+死亡守衛向你問候，聲音中充滿懷疑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「那就速速陳述你的使命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[攻擊]「我已經警告過你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「那就死去吧，在黑暗中死去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>死亡守衛一動不動地站立著，只有他眼中狡黠的光芒跳動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「你確定貝拉斯不介意你違背生死的循環？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「善。否則我也不會站在這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「打破向我許下的誓詞非常危險。沒錯，所以我知道你會遵守諾言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「她是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「我很瞭解她。」死亡守衛點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「久違了！難得有幸遇上一個知道措辭得當的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我也很榮幸，尊敬的先生。在我死後，鮮有族人前來拜訪。」此等巧遇令人欣喜。
+
+「但我仍需履行職責，你亦知曉，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「此言不虛，我深知該如何處置高大蒼白、冷酷無情之物。」
+
+當伊莎彌兒離去時，亞洛斯雙眼一翻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「相似靈魂彼此之間可互為撫慰。不勝感謝。」他的頭骨在脊椎上轉動，發出如同木柴燃燒的辟啪聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「再好不過，你這愉快的老傻瓜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「Byous。」他肅穆地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「沒什麼可抱怨的，畢竟外面空氣清新，景色怡人嘛。你真該和我們一起去外面瞅瞅，對你有好處的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>死亡守衛眼中的火焰變得更熾烈了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「那什麼，船長，我只是說說哈，但是呢你完全可以……&lt;i&gt;不&lt;/i&gt;這麼做。」
+
+他狡黠地一笑，露出一顆長歪的牙齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「我警告你——切莫以為你能終生佔有這把劍。絕無可能。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「這把劍是不錯，但似乎還不值得為了它又得罪貝拉斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「我同意艾德爾的意見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「嘿，好極了！又一個像伊莎彌兒似的一口鄉音的傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>死亡守衛充滿威脅地看著他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「我再問問你別的事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「我願協助任何追捕利文之人。沒錯。我已知爾遺言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「有了她的達寇茨劍，我可以將利文引誘出來並給她致命一擊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「我請求你帶走它。」當你從他的石棺中取走石碑時，他眼中的火焰躍動起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「艾歐拉切不可回歸至我尚在世時的模樣。古老智慧不應湮滅於時間中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>他漆黑的眼窩中跳動著一對火焰，飽含堅定不移的意志。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>他打量著你，眼睛安靜地閃爍著。他的牙發出喀啦聲，同時把鏈枷上的頭骨重重地放在地面上，砸出一個小坑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>聽到利文的名字，死亡守衛壓抑著怒火。冰冷但暴烈的憤怒使得骷髏的脊椎嘎吱作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「賊子！願她之魂永世不得見天日！利文欲使貝拉斯墮落，此子卑鄙無恥，幾令艾歐拉毀於一旦！其何人也？不過一骯髒疹瘤於世！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「我願協助任何追捕利文之人。「是啊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>骷髏站定，如死亡般紋絲不動，魔法在他週身翻滾，灼燒著空氣。有那麼一會兒他僅僅是注視著你。
+
+然後他的牙卡卡作響，他將鏈枷舉過肩頭擺動，差一點就打到你的喉嚨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「告訴我，女神為何派你前來。立刻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>骷髏站定，如死亡般紋絲不動，魔法在他週身翻滾，灼燒著空氣。有那麼一會兒他僅僅是注視著你。
+
+然後他的牙卡卡作響，他將鏈枷舉過肩頭擺動，差一點就打到你的喉嚨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「想讓我殺你時不忘開懷一笑？無論如何，從實交代。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>骷髏站定，如死亡般紋絲不動，魔法在他週身翻滾，灼燒著空氣。有那麼一會兒他僅僅是注視著你。
+
+然後他的牙卡卡作響，他將鏈枷舉過肩頭擺動，差一點就打到你的喉嚨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「死者無所畏懼。你即將切身體會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「從瓦利亞到亡焰列島遍佈我的足跡，都是為了追蹤利文和這把劍。然後抓住她。殺了她，找回貝拉斯的武器，加以看守。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「我欲瞭解他們，但戰鬥的形勢不利於我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「我被埋葬於涅克塔卡的神殿。但我無法對劍棄之不顧。我便祈求貝拉斯許我第二次機會，為她效忠。
+
+「我不願死去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「噢，好的，這個，呃，都是我的錯。我不該提起這茬事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「我想應該讓你知道，我把你珍貴的劍給了露西亞·利文來換她的船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「詛咒你！福爾松的野獸！詛咒你，願拉斯復仇的骨刺荊棘讓你如墮地獄！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>他向前邁出一步，骨頭發出啪的一聲，然後又邁出一步。他非人的聲音咆哮著向貝拉斯喊出咒語，他的靈魂之焰席捲而上，吞沒了那副骷髏骨架。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

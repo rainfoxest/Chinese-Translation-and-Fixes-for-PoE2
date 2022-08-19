@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\17_dunnage\17_tsk_troupe</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>出色表演</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在&lt;b&gt;流明之庭&lt;/b&gt;為&lt;b&gt;假腿劇團&lt;/b&gt;尋找有天賦的演員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>返回&lt;b&gt;流明之庭&lt;/b&gt;的&lt;b&gt;假腿劇團&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;流明之庭&lt;/b&gt;的&lt;b&gt;假腿藝人&lt;/b&gt;劇團在表演方面遇到了困境。為了更好地演出劇目，扳回頹勢，他們需要一位&lt;b&gt;法師&lt;/b&gt;和一位&lt;b&gt;高個子藍皮膚海裔&lt;/b&gt;的幫助。為了分得一部分利潤，我答應找幾個合適的演員，幫助劇團一起演出。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>為了讓日常演出變得更加有趣，流明之庭的假腿藝人劇團&lt;b&gt;需要兩位新的成員&lt;/b&gt;——一個&lt;b&gt;法師&lt;/b&gt;，還有一個身材高大、可以扮演&lt;b&gt;俄撒斯&lt;/b&gt;的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經成功地僱傭了假腿劇團需要的兩位演員，他們可以開始演出了。我應該前往襯艙城的&lt;b&gt;流明之庭&lt;/b&gt;，與劇團的團長&lt;b&gt;卡蘭德拉&lt;/b&gt;談談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;王棺之地&lt;/b&gt;的法師&lt;b&gt;塔艾娜&lt;/b&gt;對表演很感興趣，但我還得再找個可以扮演俄撒斯的演員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;起重者庇護所&lt;/b&gt;裡有一位&lt;b&gt;藍皮膚的海裔人&lt;/b&gt;，可以在劇中扮演俄撒斯的角色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我雇了一個藍皮膚的海裔人當演員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;王棺之地&lt;/b&gt;的法師&lt;b&gt;塔艾娜&lt;/b&gt;願意加入劇團，但她欠了酒館老闆&lt;b&gt;哈克&lt;/b&gt;700個銅幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我僱傭了一位法師負責舞台劇場效果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>據說，&lt;b&gt;王棺之地&lt;/b&gt;的老闆&lt;b&gt;哈克&lt;/b&gt;在他的住處藏了一大筆錢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>&lt;b&gt;哈克&lt;/b&gt;認為長遠考慮，&lt;b&gt;塔艾娜&lt;/b&gt;能給酒館帶來更多利潤，因此拒絕接受替塔艾娜還的錢。我必須進一步說服他，或者給他更多的錢才行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我已經僱傭了假腿藝人劇團演出需要的所有演員。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

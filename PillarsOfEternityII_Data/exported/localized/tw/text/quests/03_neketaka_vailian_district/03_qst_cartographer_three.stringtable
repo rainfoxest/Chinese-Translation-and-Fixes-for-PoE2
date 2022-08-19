@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_three</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>測繪亡焰列島：西瓦卡拉暗礁</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>探索&lt;b&gt;涅克塔卡西南面遠端&lt;/b&gt;的島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找桑扎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在女王港見到的衝動繪圖師桑扎想要編匯一本亡焰列島的完整指南，但是他一個人沒辦法完成這任務。
+
+我已經完成了一部分測繪，但是長路漫漫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>女王港裡的繪圖師桑扎請求我幫忙為亡焰列島中的未標小島測繪。
+
+我們已經做出了一些成果，但是還有很多事情要做。桑扎要求我去為西南面遠端的島嶼測繪，那些島嶼就在瓦卡拉暗礁與堪加提諸島西面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經完成了地圖上的西南部分。&lt;b&gt;桑扎&lt;/b&gt;應該會很樂意瞭解我的進度。他就在涅克塔卡&lt;b&gt;女王港&lt;/b&gt;的商店裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我發現了一座叢林瘋長的島嶼，上面有一處被魚人佔領的古代胡亞納遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我在一座沙漠島嶼上找到了一處滿是死亡陷阱的胡亞納遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我已經為瓦卡拉暗礁西面的島嶼測繪，並且已經將情報交給了桑扎。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

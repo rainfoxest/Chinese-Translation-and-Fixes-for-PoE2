@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>死神的無淵領域</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到巨龍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>搜索回聲之境並向維持該地存在的靈魂求助。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>進入巨龍的巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>逃離白色虛空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>收集靈魂碎片。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>與奈瑞思賽拉絲對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我進入了寒冷刺骨的&lt;b&gt;睿姆岡&lt;/b&gt;的領域。我只有消滅巨龍&lt;b&gt;奈瑞思賽拉絲&lt;/b&gt;才有希望關閉&lt;b&gt;Vytmadh&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我到達了靈界，但尚未找到巨龍&lt;b&gt;奈瑞思賽拉絲&lt;/b&gt;。為了找到她，我必須繼續深入睿姆岡的嚴寒之境。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>奈瑞思賽拉絲藏身在自己位於白色虛空深處的巢穴中。守護者雷哈妲警告我說如果想深入探索睿姆岡的領域，就要帶上這裡的居民。
+
+我可以在這些&lt;b&gt;腐朽之境&lt;/b&gt;中搜尋魔法幫手，說不定能得到&lt;b&gt;靈魂們&lt;/b&gt;的幫助，這片領域能漂浮在白色深淵上空，全靠這些靈魂。
+
+或者我也可以消滅這些靈魂，並把他們的精粹交給睿姆岡，以換取祂從不輕易示人的感激之情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>在睿姆岡的領域裡，與&lt;b&gt;奈瑞思賽拉絲&lt;/b&gt;對決的準備工作我幾乎已經沒什麼可做的了。
+
+我必須深入她在&lt;b&gt;破碎通道&lt;/b&gt;中開啟的深坑才能追擊她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我與奈瑞思賽拉絲對決後，她的巢穴發生了坍塌，並將我丟進了白色虛空陰冷的苔原中。
+
+睿姆岡和雷哈妲都警告我說掉進了這樣的深淵是永遠也出不去的。我若想證明他們錯了並返回艾歐拉，就要在這個領域中搜尋&lt;b&gt;出去的路&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>我親眼看到一個靈魂攻擊了奈瑞思賽拉絲，但被巨龍撕成了碎片。我找到了靈魂的碎片，也許我能將其重塑，並瞭解巨龍的更多相關情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>我已闖入&lt;b&gt;奈瑞思賽拉絲的巢穴&lt;/b&gt;。
+
+現在我別無選擇，只能面對那頭毀滅了&lt;b&gt;睿姆岡&lt;/b&gt;王國的惡龍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我在&lt;b&gt;溺者王國&lt;/b&gt;找到了&lt;b&gt;韻咖若奧瓦圖理國王一世&lt;/b&gt;，並強迫他面對自己行為產生的後果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我把&lt;b&gt;審判者納西瓦&lt;/b&gt;的受縛靈魂從無止境的審訊中解放了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我在&lt;b&gt;神錘大橋&lt;/b&gt;把&lt;b&gt;聖維德溫&lt;/b&gt;的靈魂從毀滅的循環中解救了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我若想直面&lt;b&gt;奈瑞思賽拉絲&lt;/b&gt;，就必須在&lt;b&gt;破碎通道&lt;/b&gt;中找出追擊這頭巨龍的辦法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我找到了守護者&lt;b&gt;破碎靈魂&lt;/b&gt;的一塊碎片。如果我能找到其他碎片，也許他們能告訴我&lt;b&gt;奈瑞思賽拉絲&lt;/b&gt;的更多相關情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>&lt;b&gt;睿姆岡&lt;/b&gt;同意把我從&lt;b&gt;靈界&lt;/b&gt;放出去，條件是我答應把自己的&lt;b&gt;靈魂&lt;/b&gt;獻給祂。我死後，靈魂將在&lt;b&gt;白色虛空&lt;/b&gt;中被摧毀，永遠無法再次具象化。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>&lt;b&gt;睿姆岡&lt;/b&gt;接受了我成為祂在艾歐拉&lt;b&gt;代言人&lt;/b&gt;的請求，並讓我重回了生者世界。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我摧毀了&lt;b&gt;韻咖若奧瓦圖理國王一世&lt;/b&gt;、&lt;b&gt;審判者納西瓦九世&lt;/b&gt;和&lt;b&gt;聖維德溫&lt;/b&gt;的靈魂，並以此說服了&lt;b&gt;睿姆岡&lt;/b&gt;放我返回生者世界作為獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我令&lt;b&gt;睿姆岡&lt;/b&gt;回想起我過去為祂辦過的事，並說服祂把我放回了生者世界。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我與&lt;b&gt;睿姆岡&lt;/b&gt;針鋒相對，並在戰鬥中擊敗了祂的代言人。祂粗野無禮地把我丟回了生者世界。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>我被放出了&lt;b&gt;靈界&lt;/b&gt;，代價是我把&lt;b&gt;伊德溫&lt;/b&gt;獻祭給了&lt;b&gt;睿姆岡&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

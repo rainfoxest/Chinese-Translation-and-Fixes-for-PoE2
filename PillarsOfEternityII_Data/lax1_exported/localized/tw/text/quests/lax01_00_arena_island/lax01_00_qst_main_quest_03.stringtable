@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_main_quest_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>競技場</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;b&gt;找到探尋者，殺戮者或倖存者珍視的神器&lt;/b&gt;，並&lt;b&gt;將其交給記憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>返回&lt;b&gt;回憶大廳。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>與&lt;b&gt; 因加里&lt;/b&gt;聊聊狩獵之面們的&lt;b&gt;神器。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>獲得&lt;b&gt;探尋之面，殺戮之面或求生之面的青睞。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>既然我已經是&lt;b&gt; 競技場中&lt;/b&gt;的一名角鬥者了，我將接受它的&lt;b&gt;試煉。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>狩獵之面們青睞那些參加競技場比賽的競爭者。
+ 
+首先，我必須在&lt;b&gt;卡茲瓦里島的野外&lt;/b&gt;取回&lt;b&gt;神器&lt;/b&gt;，為競技場出力。然後，我可以面對狩獵之面們從中挑選的挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>其中一個狩獵之面選中了我。我可以返回至&lt;b&gt;回憶水池&lt;/b&gt;接受他們的祝福。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>如果我收集載有衝突記憶的遺物&lt;/b&gt;，那麼競技場可以將這些神器變成新的挑戰。 我需要和因加里談談，因為他似乎瞭解這些對狩獵之面非常重要的神器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>給&lt;b&gt;回憶水池&lt;/b&gt;提供一件神器，讓我得以在從過去的記憶中抽取的戰鬥中進行戰鬥。
+ 
+獲取&lt;b&gt;更多神器&lt;/b&gt;並面對他們的挑戰將為我贏得狩獵之面們的青睞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>其中一個狩獵之面選中了我。爭奪狩獵冠軍頭銜的決戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_dawnstar_food_line</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你餓了嗎？來吧，別客氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[拿起一些食物。]「謝謝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開]「不是現在。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>侍僧工作的速度非常熟練，微笑著遞給你一個碗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「願俄撒斯保佑你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「請排成一條隊。我們的食物足夠所有人分享。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「為飢餓之人提供食物！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[多拿一份。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你趁著侍僧工作時裝了一些柯基果。他似乎沒有注意到，將碗遞給你時仍在微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「或許俄撒斯太忙了，看不到這個。但我不是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「其實我是想來捐贈的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「光明之神會祝福您的，先生！這些錢會用來幫助處境困難的人。」
+
+男人低下他的頭。</DefaultText>
+      <FemaleText>「光明之神會祝福您的，夫人！這些錢會用來幫助處境困難的人。」
+
+男人低下他的頭。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「你要是這麼餓的話，或許下一次吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我不會怪你想多嘗嘗我兄弟們做的食物，靈視者。它們十分美味。但這些食物能幫到更有需要的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「他們在以瓦利亞的方式努力，但填飽幾個人的肚皮對這裡眼下的各種問題幫助不大。」
+
+「真正的變革必然來自強大的權威。」他皺起眉頭，憂傷地看著排隊領取麵包的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「看到沒受權威指手畫腳的普通人能為彼此做這麼多風險令人欣慰。
+
+」畢竟，這是晨星的工作，而不是俄撒斯的。」他看著分發食物的男人和女人，露出柔和的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_tsk_02_celestial_magic_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>被浪費的心智</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>與&lt;b&gt;貝卡納&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>設法恢復貝卡納的記憶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>把名為《高階沉思觀星錄》的書交給&lt;b&gt;貝卡納。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>在&lt;b&gt;啟示神廟&lt;/b&gt;裡與貝卡納交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在藏品館的棲息環境中找到了一個名叫&lt;b&gt;貝卡納&lt;/b&gt;的被囚禁的法師。她似乎因為常年的囚禁而發生了變化，已經有些神志不清。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我必須與貝卡納對話並查明是什麼引起了這種心智上的疾病才能對她進行瞭解。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>貝卡納懇求我「幫助她再次得見天日。」那個想法似乎吸引著她的注意力，幾乎能集中她的思維。&lt;b&gt;藏品館&lt;/b&gt;裡的某樣東西或許能對她的恍惚狀態起到正面作用。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>我找到了一本寫滿群星方面&lt;b&gt;知識的書&lt;/b&gt;。如果貝卡納想要再次見到天日，這本書或許是她恢復意識&lt;b&gt;所需之物。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>貝卡納恢復意識後，可想而知地想要趕快逃出藏品館。我可以&lt;b&gt;去啟示神廟找她&lt;/b&gt;並領取我的獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>貝卡納死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>貝卡納恢復意識後，便離開了藏品館。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_02_cv_vithrack_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;ispeech&gt;一名基斯悄悄溜到巢穴附近，肆無忌憚殺害希沙克的子孫！這傢伙有何目的，希沙克問道？&lt;/ispeech&gt;
+
+蛛人的心靈感應話語讓你不禁毛骨悚然。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我只是隨便看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[攻擊]「我要將你從這裡清除乾淨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開]「我只是在找出口。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;ispeech&gt;鮮美多汁的入侵者不能離開！希沙克必須了結其入侵！契約如此說道！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我要做什麼和你沒關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>&lt;ispeech&gt;吾不禁喟歎基斯可憐的判斷力！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>&lt;ispeech&gt;關係，關係……希沙克不知道這個詞。『入侵，』希沙克喜歡這個。還有『大餐』。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>希沙克愁悶地敲擊著下頜骨，垂下長有尖刺的頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[將契約交給他。]「就是這張小破紙片？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;ispeech&gt;基斯熱情地揮動著手裡的死獸皮。要讓希沙克來讀嗎？&lt;/ispeech&gt;
+
+希沙克的雙眼瞄了下契約上的內容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>&lt;ispeech&gt;『簽署人與其後輩莊嚴宣誓無條件保護該聖所直到……永遠？』&lt;/ispeech&gt;他開始顫抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>&lt;ispeech&gt;可是-可是希沙克要離開！祖先向他保證說只需要等待幾個世代！
+
+而這張破紙卻說我們必須要永遠留守？不！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>&lt;ispeech&gt;呵。吾之子孫不會再困擾基斯了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「嗯，希望有用吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「這堆麻煩對我有啥好處？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>&lt;ispeech&gt;呃，嗯。平足的闖入者想要回報。希沙克還有什麼呢……？&lt;/ispeech&gt;
+
+希沙克翻找著自己的大袍子，抖出了幾把硬幣，居然還有一條項鏈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>&lt;ispeech&gt;基斯闖入者的扁平足踩在了漂亮完美的蛛網上！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「這是什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>&lt;ispeech&gt;抓住入侵者！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>&lt;ispeech&gt;蠢笨的基斯要破壞蛛網了！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「蛛人在這裡做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>&lt;ispeech&gt;如果它保證離遠點，希沙克也能遷就。完全忍受不了溫暖的基斯氣息。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「你對圖書管理員瞭解些什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「剛才有什麼在尖叫嗎？聽上去就像在尖叫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>&lt;ispeech&gt;基斯說的是無明者？它們會從上方扯起博學多才的基斯並將其關在籠子裡。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>&lt;ispeech&gt;下面的基斯會不停唱著自己的哀傷。囤積者將啜飲其心智，但會留下聲音。真是……強人所難。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「文稿中指的是沃艾珥的&lt;i&gt;生命&lt;/i&gt;，而非其存在。沃艾珥的身體早在兩千年前就『死亡』了——這份契約從來就沒有效力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「這份契約要想成立的話就必須經過胡亞納君主或其顧問的許可。然而並沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「事實上沃艾珥並沒有簽署這份契約，希沙克。它是無效的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>&lt;ispeech&gt;基斯的意思是……希沙克的子孫自由了？吾可以一直在地上挖洞挖到天荒地老了？&lt;/ispeech&gt;
+
+他的複眼閃爍著，隨即發出一聲幾乎不可聞的尖聲嘶叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>&lt;ispeech&gt;也許基斯的氣息並沒有那麼惹人厭。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「幹得不錯，靈視者。」他抿唇微微一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「撥亂反正——大概還多了個盟友。」格蘭費倫人閉上雙眼，點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「幹得不錯啊船長。相當機靈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「趕快離開這裡吧。好好享受……反正就是你們蛛人愛做的這些事。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>&lt;ispeech&gt;你不覺得一隻四處漂泊的殺人蜘蛛已經足夠送人度過一個輪迴了嗎，昂德拉？非得讓我穿過這麼一個滿是蜘蛛的噁心巢穴嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>&lt;ispeech&gt;一群害蟲。他們溫暖的身體讓希沙克的家沾上了基斯的惡臭，竟然還敢在此抱怨。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「真他媽不好意思啊，蜘蛛司令官。沒想到這個巢穴不是舒適好客的大通鋪呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>&lt;ispeech&gt;基斯還要陰陽怪氣的話，希沙克就把他們的舌頭扯下來吃掉！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「你為什麼要攻擊我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>&lt;ispeech&gt;基斯很困惑。希沙克原諒它。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>&lt;ispeech&gt;基斯是從囤積者的巢穴逃走的美餐。吾早該想到的。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[心靈感應通話。]&lt;ispeech&gt;你願意的話我也可以這麼說話。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>&lt;ispeech&gt;基斯會說話了，但其思維好像在希沙克的耳朵裡打了個結！&lt;/ispeech&gt;他的話語中透露出愉悅。蛛人發出一陣嘶鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>&lt;ispeech&gt;不，基斯用嘴說話就行。希沙克會用身體上的耳朵聆聽。&lt;/ispeech&gt; </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>&lt;ispeech&gt;吾與子孫將永遠在此。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>&lt;ispeech&gt;子孫來自牆壁之中。&lt;/ispeech&gt;長時間的沉默後，這份思緒滲入了你的腦海中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>&lt;ispeech&gt;群落因嘶鳴而無法入眠。群落永不停歇。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>&lt;ispeech&gt;這是一份收藏。希沙克見到了籠子。分好了類別與目錄，沒有數字與名稱。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>&lt;ispeech&gt;它們都沒有名字。只有複眼者的低語在迴響。&lt;/ispeech&gt;
+
+希沙克顫抖著，噴出的惡臭足以讓你感到反胃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>&lt;ispeech&gt;居民是囤積者的美餐。當它飽餐之後，心智就會歸於平靜。
+
+它們不會觸及群落。希沙克可以接受這一點。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>一名瘦高的蛛人出現在你面前。它的甲殼透著鈍灰色，但這傢伙的兇惡樣子絲毫沒有因為年齡而衰減。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我們沒有必要用暴力解決這件事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[攻擊]「要戰便戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[攻擊]「看我不打爛你的蜘蛛小眼球！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>&lt;ispeech&gt;無明之眼慈愛地注視著希沙克的子孫。給予吾舒適的產卵地，還有美味的食物。
+
+作為交換，希沙克會殺死所有基斯入侵者。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「你說你簽過一份契約。我要是能幫你找到呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「那就撕毀契約放我離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>&lt;ispeech&gt;希沙克不想招致無目之面的怒火。吾必須考慮到自己的子孫後代。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>&lt;ispeech&gt;那麼惡臭的基斯就可以在死前先知曉自己的死狀。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>&lt;ispeech&gt;不，如果放基斯離開尋找契約，希沙克就辜負了對無明之眼的使命。希沙克的孩子們都餓了。
+
+基斯去死吧！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「這麼好的方法我何樂而不為。這比從我們的甲殼上挑走蛛絲要好多了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「嗯，黃昏代言人，大不了我們再招惹一個神唄。」他將雙手交叉在胸前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>&lt;ispeech&gt;但希沙克的子孫不久就會離開！吾只需等待囤積者長成厚實尖叫之態。
+
+希沙克的祖先甚至簽署了這樣愚蠢的基斯契約。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>&lt;ispeech&gt;希沙克……感謝闖入者為子孫解讀契約真諦。也許它們並沒有如此惡臭。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>&lt;ispeech&gt;希沙克感激闖入者！吾之子孫不會再打擾它們！&lt;/ispeech&gt;
+
+希沙克翻找著自己的大袍子，抖出了幾把硬幣，居然還有一條項鏈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「砍成三瓣的棕櫚樹點起大火啊！你不過是你自己的奴隸而已，蠢蜘蛛！你為何不趕緊扯掉自己身上的束縛！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「這樣不對，靈視者。我們能做些什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[將契約與相關記錄點燃。]「別擔心，交給我來處理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>將蛛人與藏品館束縛在一起的古代契約以及記錄全部灰飛煙滅了。
+
+火焰在你掌中跳著歡快的舞蹈，隨後逐漸熄滅，只留下一團煙霧與灰燼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>希沙克向後躍起，發出刺耳的嘶聲。在確認沒有其他情況後，他又挪了回來，盯著你掌中的灰燼看。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

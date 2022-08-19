@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_sea_troll</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸賞：塔哈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺死&lt;b&gt;塔哈&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找&lt;b&gt;阿波科&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一名叫做&lt;b&gt;塔哈&lt;/b&gt;的海巨魔因為自己劫掠&lt;b&gt;涅克塔卡南面&lt;/b&gt;的漁村的行為惡名遠揚。任何帶回塔哈頭顱之人將得到一份賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>有人看見&lt;b&gt;塔哈&lt;/b&gt;劫掠&lt;b&gt;涅克塔卡南面&lt;/b&gt;的沿海村莊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>塔哈已經被解決，女王港&lt;b&gt;野牝別館&lt;/b&gt;裡的&lt;b&gt;阿波科&lt;/b&gt;知道他已經死了肯定很高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我殺死了塔哈並且從阿波科處得到了賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

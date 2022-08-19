@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_15_bs_underwater_dungeon_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「不是我抱怨什麼，不過我不知道我們該怎麼呼吸。伊希，別離我太遠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「至少我不用屏住呼吸，但看到那個水池，我倒想屏住呼吸了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「下面的空氣或許可以呼吸，但並不代表這兒的空氣是衛生潔淨的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「太好了，他們在水下居然有空氣。不過假如空氣中沒有魚臭味的話，我倒不會介意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「聽說發明家艾維拉用一種裝置做過實驗，能把空氣帶到水下，但這裡的規模大得多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我跟雷馬洛說過一百遍了，水下是有空氣的。那個老東西欠我一枚金陽幣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「很高興沒有你死，但不得不承認，在水下呼吸令我頭疼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

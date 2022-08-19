@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_fortune_teller_ear</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>雕像的左耳散發出某種你熟悉的能量，這種能量與狩獵之面神器上散發的能量並不相同。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[拿走左耳。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你把手伸進盒子，握住了木偶的左耳朵，之後使勁一擰。耳朵發出了一聲脆響，但並沒有蓋過占卜師驚訝的叫喊聲。
+
+木雕像坐在盒子裡，快速地眨著眼睛，一隻木手摸索著腦袋旁邊的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「蠢貨，回來了？快滾吧，蠢貨！」
+
+木雕像揚起了下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你好！要給你算上一卦嗎？」
+
+箱內的木偶腦袋伸到邊緣，用空洞的表情盯著你看。
+
+他期待地敲敲金屬投幣槽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你好！想算上一卦嗎？只要一個子兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「別盯著我看了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>他歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>雕像發出了輕微的聲音，木頭眼睛朝你眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我覺得，這東西對我派不上什麼用場。不過……如果你問起來的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>」我早就知道你不是什麼好人！趕緊走吧，否則我……我就要做……做一些讓你不高興的事情了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

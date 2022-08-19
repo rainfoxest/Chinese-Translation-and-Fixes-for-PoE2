@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_cv_backer_npc_marofeto_liano</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你發現一名衣著破爛的著甲男性。他亂糟糟的長鬍子上結著鹽巴，捲曲的頭髮目測很久都沒有梳理過了，裸露的足部上腳指甲已經破裂。
+
+他身上唯一一件可能值錢的東西就是項鏈了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「哦，你好。」他遲疑了一會後決定繼續說下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「真是遷就我這老人家了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「有什麼能夠幫到你的麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「說說你自己吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我以前也風光過。金盟騎士團知道不？後來我接了個活，沒能幹好……
+
+「在&lt;i&gt;那事&lt;/i&gt;之後我就不能跟騎士團混了。」他遙望著遠方回憶起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你能把這些年在亡焰列島遊蕩的心得教給我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我已經教了你我能教的一切。你想免費上課，就去加入晨星。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你向一個糟老頭子尋求心得？行啊……只要三千個子兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>他把這些年身為金盟騎士的討價還價的經驗都告訴了你，讓你學到如何觀察商人看出破綻的跡象。
+
+在確信你不會再被偶遇到的奸商坑錢後，他表示你可以出山了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「那你走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我在亡焰列島遊歷多年，致力於躲避塵世的紛擾。只有磨煉才能讓靈魂變強，你明白嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「就這樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「好吧……我&lt;i&gt;確實&lt;/i&gt;在等人。但我不知道他們何時到來、甚至會不會到來。
+
+「我只知道他們是先知，他們在尋找我。所以我就等著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「那你怎麼知道是不是他們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「祝你好運。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「沒辦法，但無所謂。項鏈在手，我還活著。&lt;i&gt;這&lt;/i&gt;就夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「能給我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[亮出武器]「項鏈？我用得上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「你應該堅信自己沒項鏈也能被先知找到。這才叫考驗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「不對。有人來找我了，他們當然知道我的項鏈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我早該想到的，年輕人。」</DefaultText>
+      <FemaleText>「我早該想到的，年輕人。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「白癡才靠運氣。項鏈在手，我還活著。&lt;i&gt;這&lt;/i&gt;就夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「好、好吧！都拿去吧！」他把項鏈用力拽下來，塞到你手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「也許吧，你說得有道理。」他把項鏈輕柔地取下來。他把它握在手心，面色黯然地把它交給你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「請照顧好它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我做不到，但無所謂了——&lt;i&gt;他們&lt;/i&gt;會知道我是誰。我堅信這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我不需要幸運，我有&lt;i&gt;信念&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我沒有東西能給你了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我最寶貴的東西都給你了，你還要什麼？」
+
+「行，我可以教你……先給我三千個子兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「行……」他戲謔地望著你，像是在思考你怎麼問了個私人問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>老人家的眼神在你臉上與手上遊走，最後停在武器上。他的雙手顫顫巍巍。
+
+儘管以前當過騎士，歲月卻磨平了他的膽氣，他看起來甚至打不過孩童，更別提對抗靈視者了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「不，不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我覺得沒問題。你需要的話，就來找我。」他聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「謝謝你，旅行者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[強化洞察並恐嚇]「給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[強化洞察並恐嚇]「給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_woedica_ruin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你艱難地跋涉數小時穿過一片荒地後，偶然看見空地中心的英格維仙遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你返回遺跡。門依然半開著，當你進入時，你的腦袋並沒有感受到有什麼東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>門在你靠近時開了，而你立即感覺到一種極具壓迫感的東西衝擊著你的腦袋。它測試著你的精神防禦能力，就像尋找一道裂縫再攻入進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>當你近距離觀察時，你發現遺跡的大門裝飾著破碎的娥狄卡之冠的圖案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>緊接著，這東西就像來時一般又迅速消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你返回遺跡。門仍然虛掩著，那東西還在壓迫著你的心智。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

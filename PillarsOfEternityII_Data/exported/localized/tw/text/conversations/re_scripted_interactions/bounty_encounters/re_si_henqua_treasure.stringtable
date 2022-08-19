@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\bounty encounters\re_si_henqua_treasure</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這個區域看起來沒什麼特別的，只有幾塊擺放成三角形的大石頭。
+
+你將這個荒蕪的沙漠通道與亨庫瓦船長地圖上的記號與地標做比較。
+
+這裡就是他埋藏寶藏的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你就地開始挖掘，直到你的鏟子觸碰到一袋錢幣，袋子幾乎被裡面的錢幣撐破。你跪下抱起這一大袋錢，同時發現被埋起來的寶箱的一角。
+
+你迅速挖出並撬開了寶箱。裡面的珠寶器具在陽光下閃閃發光。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

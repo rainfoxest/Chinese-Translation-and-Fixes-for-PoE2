@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_serafen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>術士與紳士</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在舷窗堡壘幫助塞拉芬挖掘關於雷馬洛的消息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>就涅克塔卡的明亮澡堂事宜詢問烏黛恩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>前往梨繪搜尋雷馬洛的蛛絲馬跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>領雷馬洛的賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>塞拉芬想讓我幫他追蹤一位名叫雷馬洛的老海盜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>塞拉芬不相信一個被皇族海盜以叛變為由追殺的海盜——雷馬洛——背負的罪名成立。他請我幫忙去舷窗堡壘搜尋雷馬洛的蹤跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>雷馬洛可能在涅克塔卡佩瑞琪之望的明亮澡堂見了一個名叫烏黛恩的人。也許她知道怎麼聯繫上雷馬洛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>烏黛恩聲稱雷馬洛想在離開亡焰列島前去梨繪進行補給。塞拉芬想讓我們接著尋找老海盜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>皇族海盜在雷馬洛身上投了一筆賞金，交易條件是足以證明他喪命的物品。我得從他屍體上收集證據並把它帶給海盜頭子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>一位名叫瑪娜吉的海盜船長在街上找到了我。她也在尋找雷馬洛，她詢問我是否有這名逃犯的消息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我沒向瑪娜吉透露任何關於烏黛恩的消息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我把烏黛恩的地點告訴瑪娜吉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我在明亮澡堂找到了高貴的精靈戰士烏黛恩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>烏黛恩告訴我：雷馬洛跟她交換了船隻。據她所言，雷馬洛說他打算丟下亡焰列島前往西邊。他想在起航前去梨繪進行補給。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我在梨繪的港口找到了雷馬洛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>雷馬洛透露：他與塞拉芬以前共事過的那位船長，即巫師號上的巴斯蒂安曾用他們救下的奴隸做過奴販生意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>我們找到了雷馬洛曾經用過的箱子，裡面有一封給塞拉芬的信。上面提到某個名叫烏黛恩的人，就在一個叫魔法水域的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>我取走雷馬洛的項上人頭作為證據。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>我把雷馬洛的腦袋交給獵手瑪娜吉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>塞拉芬注意到：載有皇族海盜獵手瑪娜吉的痛苦之悅號停靠在了涅克塔卡的女王港。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>賽麗說，&lt;b&gt;雷馬洛&lt;/b&gt;已經離開了&lt;b&gt;舷窗堡壘&lt;/b&gt;。走之前，他一直住在&lt;b&gt;走廊底右手邊的房間裡&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我們在梨繪找到了雷馬洛，並選擇放他走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我把雷馬洛的腦袋交給皇族海盜，拿到了錢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我把雷馬洛的遺物交給了瑪娜吉。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

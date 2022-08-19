@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\28_drowned_barrows\28_tsk_books_of_power</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>失蹤的魔典</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>將&lt;b&gt;比巴拉的魔典&lt;/b&gt;帶給&lt;b&gt;涅姆諾克&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>將&lt;b&gt;門扎格的魔典&lt;/b&gt;帶給&lt;b&gt;涅姆諾克&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將&lt;b&gt;拳擊手的魔典&lt;/b&gt;帶給&lt;b&gt;涅姆諾克&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>獲取沼澤女巫的魔典。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>獲取吸血妖領主的魔典。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>獲取遠古巫妖的魔典。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;涅姆諾克&lt;/b&gt;要求我取回&lt;b&gt;淹死鬼廢坑&lt;/b&gt;外的三本力量魔典。
+
+涅姆諾克渴望得到的三本魔典中的一本來自一名&lt;b&gt;沼澤女巫&lt;/b&gt;，另一本來自一名&lt;b&gt;吸血妖領主&lt;/b&gt;，最後一本來自一名&lt;b&gt;遠古巫妖&lt;/b&gt;。
+
+我需要在亡焰列島找到這些東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;比巴拉的魔典&lt;/b&gt;是我的了。&lt;b&gt;涅姆諾克&lt;/b&gt;在&lt;b&gt;淹死鬼廢坑&lt;/b&gt;最底層等著我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經得到了&lt;b&gt;門扎格的魔典&lt;/b&gt;，&lt;b&gt;涅姆諾克&lt;/b&gt;在&lt;b&gt;淹死鬼廢坑&lt;/b&gt;最底層等著我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;拳擊手的魔典&lt;/b&gt;是我的了。&lt;b&gt;涅姆諾克&lt;/b&gt;在&lt;b&gt;淹死鬼廢坑&lt;/b&gt;最底層等著我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>魔典據說在&lt;b&gt;一間遙遠的沼澤棚屋裡&lt;/b&gt;的一名老女人手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>這本魔典屬於居住在&lt;b&gt;一處廢船墓地&lt;/b&gt;中的一名不死族法師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>我可以在&lt;b&gt;亡焰列島&lt;/b&gt;中一名巫妖的某個&lt;b&gt;隱藏圖書館&lt;/b&gt;中找到這本魔典。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我已經歸還了&lt;b&gt;比巴拉的魔典&lt;/b&gt;。&lt;b&gt;涅姆諾克&lt;/b&gt;允許我從雕像底座裡挑選一樣獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我已經歸還了&lt;b&gt;門扎格的魔典&lt;/b&gt;。&lt;b&gt;涅姆諾克&lt;/b&gt;允許我從雕像底座裡挑選一樣獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我已經歸還了&lt;b&gt;拳擊手的魔典&lt;/b&gt;。&lt;b&gt;涅姆諾克&lt;/b&gt;允許我從雕像底座裡挑選一樣獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我殺死了涅姆諾克。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我已經把三本魔典都還給涅姆諾克，他對我很滿意。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

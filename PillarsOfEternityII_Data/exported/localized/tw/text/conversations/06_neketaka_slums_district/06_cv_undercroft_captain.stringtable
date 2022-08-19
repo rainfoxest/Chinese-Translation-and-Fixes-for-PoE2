@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_undercroft_captain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>186</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>弄潮號的船長筆直地站在你面前，儘管身材並不高大，輪廓卻分明可見。
+
+她滿是肌肉的雙腿分開而立，厚實而長滿老繭的雙手插在腰上。她揚起下巴陰沉地盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「依我來看，你有兩個選擇。要麼你告訴我是誰派你來的。要麼我就請你嘗嘗槍子兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「德理奧向你致意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[向她出示金陽幣。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「那傢伙只是致以而已？說吧，他這次想要什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「雖然這話說起來很難受，但如果馬塔魯來者不善，我想還是撤退比較好。我不能在他們眼皮子底下給羅帕魯人送食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你是怎麼拿到金陽幣的？敢說謊的話我就把你炸得渣都不剩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「從舊城的一具男性屍體上撿到的。此人是被峽谷的守衛處決而死的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「該死的馬塔魯。至少這枚不是我的。這次不是。」
+
+她搖搖頭，手一鬆，錢幣又落回了你的手中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我該如何確保你的生意安全而隱秘地繼續進行，以保證羅帕魯能填飽肚子呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「隱秘不用你操心。你只需要證明自己可以信任。對我來說就足夠了。」她眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「那你最好為這批光魂珀騰出空間吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「如果這幾種方法你都不喜歡，還有一種我喜歡的方法。給我足夠的錢，讓我雇幾個新人、賄賂幾名官員並好好吃頓肉，我就幫你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你要多少錢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[離開]「等我弄到錢再回來找你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[離開]「我這就離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「三萬枚銅幣應該夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「風險讓晨星背。他們就願意提供糧食，只要能把這些糧食通過地下室偷運進去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「不管怎樣，我還是需要一些保證，我不想到最後發現自己白忙活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「啊，讓我算算……」她掰著手指算著各種開支。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>船長邪惡地一笑，臉色陰鬱而瘋狂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「成交。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「成交。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我們會找個新聯繫人，很快就能備齊貨物了。放心吧，肯定沒問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>船長用肥碩的手撫摸著沉重的錢袋。她的伴著自己腦海中音樂的節拍晃著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我找德理奧的一個聯繫人有事，那人名叫葛溫芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「一名船員跟我提過這件事。你可以在這裡自由行動了。但麻煩你別多管我們的閒事，否則別怪我們不客氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「怎麼樣？讓我開心開心吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「皇族海盜偷運食物給羅帕魯要花多少錢來著？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「你會繼續將食物偷運給羅帕魯嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「峽谷裡的人都知道烏羅格是我的人。除了馬塔魯之外。應該就是他們動的手。」她狠狠向腳下啐了一口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「然後呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「以後再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「他把兩條腿都摔斷了，還好海麗婭大發慈悲，他只是摔斷了腿。但從那之後，他對航海就再也提不起興趣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「這種錯誤水手只能犯一次。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「沒人派我來。你的安保太差勁了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我就喜歡你這樣說話直白的。只可惜我不得不把你宰了。」
+
+她咧嘴一笑，眼神中流露著瘋狂。然後，她吹響口哨召集船員，拔出燧發槍，從高處朝你攻來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>這位船長將眼睛瞇成縫，但片刻之後，她只是嗅了嗅，眨眼看向了別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「小可愛，你知道什麼樣的人才能當海盜嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「看看這是誰——還是什麼來了？」
+
+她短促的手指不耐煩地摩擦著腰帶上的燧發槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>莫萊娜的樣子看起來冷峻而刻薄。她的頭髮在頭頂上盤成了一條大辮子。羽毛還有一點骨頭——用絲帶綁好的牙齒與指骨——從髮絲中微微伸出，就像昏暗光線下的紅酒。
+
+你毫不懷疑她會將剛剛的威脅貫徹到底。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「這有關係嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「若你殺了我手下的船員就有關係。由於這不是我手下人的錢幣，因此沒什麼關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>船長撫摸著綁在大腿上的火藥筒。她發出一陣刺耳的呼吸聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「而你與此毫無關係？那我得知道究竟是怎麼回事。」
+
+她閃爍著兇惡的眼神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[撒謊]「我不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「烏羅格並非不知天高地厚之人。他不該落得如此下場。」
+
+她的舌頭在牙齒上摩擦著，試圖讓自己冷靜下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「他似乎是被打死的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「有時候也只能這樣了。雖然這不是我所希望的。」她歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「烏羅格被殺了，這意味著沒有了他偷運進峽谷的食物，羅帕魯要挨餓了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我有事要跟你說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我聽著呢。快說吧，水手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[離開]「算了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>她的表情有些扭曲，臉龐因為充血而漲得發紫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我們可以避開馬塔魯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>她聳了聳結實的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「而你覺得我會就這麼信你嗎？不行，我還需要一些討價還價的籌碼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「晨星渴望幫助受苦受難者。何不與他們合作呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「至少給我搶四箱來，我就會『更有意願』幫你個忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「兩萬枚銅幣應該夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「不行，我還是給你光魂珀吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「當海盜永遠都充滿樂趣。我期待你滿載而歸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「告訴岡恩神廟的那些好人留意一個有錢的紳士，盡早來做禮拜。」那人是我的大副，他會透露詳情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>船長用肥碩的手撫摸著沉重的錢袋。她的伴著自己腦海中音樂的節拍晃著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[舉起雙手，撤退。]「我不小心走錯了。僅此而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「哦，這可真稀奇。你居然能騙這些虔誠的傳教士幹上這種玷污靈魂的勾當。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「啊，對。你已經向我證明了自己是個很有能力的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「站著別動，小可愛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「至少給我搶四箱來，我就會『更有意願』幫你個忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「別急著走啊。你得為我辦件事，我才會放你走。至於是什麼事……」
+
+她若有所思地用拇指撫摸著擦亮的手槍握把。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[攻擊]「沒門兒，海盜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「哦對了，水手。假如你敢耍我……下次我見到你，會從你脖子開始剝皮，然後把你活活烤死。」
+
+她假裝斯文地朝你點頭道別。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>她贊同地咧嘴一笑，露出歪歪扭扭的小牙齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>她生硬地向你點頭道別。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[撒謊]「是德理奧給我的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>她瞇起眼更為仔細的檢視了一遍這枚帶有刻印的錢幣，但最終點點頭，嘟噥了一聲以示相信你的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「這麼說你是我們的一員了。你來這裡所為何事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>她震驚地接過皮革紮好的硬幣，放在手指間摩擦著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>她臉上的笑容瞬間消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我最喜歡的新海狼可能就是你哦。」
+
+她用舌頭舔了舔牙齒，打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「你好啊，水手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「靈視者。這是我見過最壯觀的爆炸。把敵人炸了個稀巴爛，真爽。」
+
+她眨眨眼，揚起下巴向你打招呼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「來吧，讓我們舉杯，祝友誼地久天長。氣味有點刺鼻，不要在意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「有活兒給我幹嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>她打量了你片刻，然後開口答道：</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我弄到光魂珀了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「啊，多麼可愛啊。嗯，你幹得不錯。我不會忘記你的功勞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「你認識德理奧嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「當然了。他是我在峽谷的聯繫人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[對著她的嘴就是一拳。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>你出其不意地對著船長的嘴就是一記衝拳。這名結實的海盜踉蹌了一下後站穩了腳跟，往地上啐了一口血，手放在了燧發槍的握把上。
+
+她惡狠狠地瞪了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>然後突然仰頭大笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「不行，皇族海盜已經認可了我在他們中的地位。我要你無償為我辦這件事，因為這是我的要求。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>這個矮人吮著牙齒，搖頭晃腦地考慮著你的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「你說的話很有道理。你和我們一起航行，與我們同生共死。你是我們的一員。我們向來照顧自己人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「你幹嘛突然打我啊？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我不喜歡受人威脅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「我一定會牢記這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「老天，你比我更瘋狂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「他從前是個制帆大師。很多皇族海盜船員爭著要把他請上自己的船，但有一天，他在索具上一腳踩空跌了下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「我再說一遍，如果你想引起我的興趣，就得確保我不會白忙活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「雖然這話說起來很難受，但如果馬塔魯來者不善，我想還是撤退比較好。我不能在他們眼皮子底下給羅帕魯人送食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「那就請你速速交給我吧。」船長的臉上一下子有了光彩，不過是貪婪的光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我說話算數。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「心黑手狠、渴望劫掠的人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[搖頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「還是你告訴我吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>她咧嘴一笑。「航海。航海的人才能成為真正的海盜。當然，掠奪也是其中一部分。但離開了大海，你就離開了皇族海盜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「如果你膽大心細，就能從他們鼻子底下把東西偷走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「至少給我搶三箱來，我就會『更有意願』幫你個忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「至少給我搶六箱來，我就會『更有意願』幫你個忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「至少給我搶六箱來，我就會『更有意願』幫你個忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「至少給我搶三箱來，我就會『更有意願』幫你個忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「運送這麼多魂珀很有可能引起別人的注意。為了保護你的生意……少運一些更為明智。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「或許四箱就夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「運送這麼多魂珀很有可能引起別人的注意。為了保護你的生意……少運一些更為明智。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「或許四箱就夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「或許三箱就夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「如果你膽大心細，就能從他們鼻子底下把東西偷走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「我們船上已經裝滿了銀鰭魚，不過這條魚可不一般……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「我這一口咬下去有多深，你怕是也想不到。」他瞇起眼睛看著她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「就是你欺騙了水塑者為你做些瑣碎的小事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>他的語氣中侵略性十足，使得她的嘴裂開一道笑容。瘋狂的莫萊娜把目光轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「也許弗蘭特和你持不同意見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「是的，但艾戴斯和我意見一致。她是我唯一在乎的船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「我升的又不是弗蘭特的旗幟，對吧？我忠於新人，這些生力軍是皇族海盜的未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「希望如此，小可愛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「繼續？不會。但會考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「好吧。小心駛得萬年船，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「好吧。小心駛得萬年船，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「我正好認識個人，這人想要一批未加工的光魂珀。但我手上沒有魂珀可賣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我正好認識個人，這人想要一批未加工的光魂珀。但我手上沒有魂珀可賣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「我正好認識個人，這人想要一批未加工的光魂珀。但我手上沒有魂珀可賣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「你也可以趁他們把貨運進來時在淺水區掠奪他們的貨物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「你也可以趁他們把貨運進來時在淺水區掠奪他們的貨物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>她有些瘋狂的咧嘴而笑，用拇指擦了擦嘴角，露出染成紅色的細小牙齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「峽谷裡的人都知道烏羅格是我的人。除了馬塔魯之外。應該就是他們動的手。」她狠狠向腳下啐了一口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「除非你讓我的努力得到回報。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「我來協助你，算是給艾戴斯船長做個人情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「總有最可愛也最有意思的人爭著討她歡心。」
+
+「在這一點上，你我還挺像的。」莫萊娜像狼一樣露齒而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「我艦隊的指揮官兼新人的無情領袖：艾戴斯船長也不會忘記。如果你覺得自己膽子夠肥，就去舷窗堡壘拜會她吧。」
+
+這位矮人猥瑣地笑了，好像因為自己講了一個只有他們才聽得懂的笑話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「別急著走啊。你以為可以匆匆來到我的港口卻什麼好處都不給我嗎？」她搖著頭，朝你發出嘖嘖聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「那就別磨蹭了，水手。你知道我要什麼。」
+
+船長期待地張開雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「你知道我想要什麼。把光魂珀給我弄來，或者付錢請我跟你合作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「去辦你要辦的事。但別插手我們的事。」她沒好氣地點點頭，示意你可以自行離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「你的手下烏羅格死了。我找到了他的屍體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>她伸手撥弄著自己發間的一塊黑皮。不過又迅速放回她腰間的武器附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「你說烏羅格被人殺了？你看到屍體了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「我在峽口發現的，他的碎肢遍地都是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[聳聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「他總說有什麼大人物到處跟著他，但我叫他閉嘴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「看來那小子說的是真的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「伊諾要我來找你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「我聽說這下面有生意可做，想著能來捐點東西呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「為什麼？我已經見過一名使者了。趕緊說啊，小水手。我這隻拿刀的胳膊正想活動一下呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「有人殺了你的手下烏羅格，另外羅帕魯依然需要食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「嗯，你想得還真周到。說說你想要什麼吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「沒有，但伊諾十分確定他已經死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「那個老頭到處安插了眼線，以至於他自己的眼睛都是多餘的。如果他說發生了某件事，那十有八九是真的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「這麼說伊諾把你當成了第二個烏羅格？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「我本想扒光你的衣服，把你吊掛在鯊魚池的上空，但我或許能用上你這種……有進取心的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「瓦利亞商行的那些孫子們在女王港的磨坊裡存放著大量光魂珀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「是啊，你最好打哪兒來回哪兒去。別磨蹭，不然小心背後挨刀。」
+
+這位矮人瞇起雙眼，將手放在了手槍的握把上，然後嘟噥一聲示意你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「羅帕魯總有一天得自力更生，但目前來說，我們會罩著他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「羅帕魯總有一天得自力更生，但目前來說，我們會罩著他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「我是來這裡尋找商業機會的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「我們的前面有一片廣闊的海洋，靈視者。托你的福。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"絕對忠誠。任何時候只要你需要支援，就告訴我，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「現在，海狼統治了議會。安靜的樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「血雨腥風和戰場！那是我最喜歡的兩個東西——除了酒和黃金。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「讓我考慮考慮吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「瓦利亞商行的那些孫子們在女王港的磨坊裡存放著大量光魂珀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「你也可以趁他們把貨運進來時在淺水區掠奪他們的貨物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「瓦利亞商行的那些孫子們在女王港的磨坊裡存放著大量光魂珀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「你也可以趁他們把貨運進來時在淺水區掠奪他們的貨物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「去辦你要辦的事。但別插手我們的事。」她沒好氣地點點頭，示意你可以自行離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「向我的船員尋釁鬥毆不是吸引我注意力最聰明的方式。但我們在這——有著一腔熱血。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>她打量著泰克胡，手指不耐煩地敲著燧發槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「我們的風格是，先亮出刀劍。隨後問問題。所以，&lt;i&gt;這&lt;/i&gt;一次，我原諒你的魯莽。
+
+「但要明白，你們不能再接近我的船員了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「現在，關於我們的商業合作……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「艾戴斯船長也不會。你最好相信我會發一封信給她來頌揚你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

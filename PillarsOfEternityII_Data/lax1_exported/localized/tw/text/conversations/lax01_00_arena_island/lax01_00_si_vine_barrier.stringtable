@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_vine_barrier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>流水聲依然從你身後傳來，而洞窟戛然而止，無法繼續前進了。通道被一堵磚牆封住了，磚牆表面凹凸不平，絕大部分牆壁上都蓋著一層厚厚的籐蔓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[使用魔法燒掉籐蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[使用武器刺破籐蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[使用符文粉末、拉西果莢與溶液臨時調配一瓶化學溶液，點燃籐蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>根據你在煉金學方面的訓練，你將一些拉西果莢碾碎，把油脂倒入了溶液之中。你把溶液倒在了籐蔓上，緊接著把手做成了杯狀，裝滿了符文粉末。你將粉末輕輕地吹在籐蔓上，粉末覆蓋了溶液表面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>在你的力量面前，籐蔓與灰漿構成的牆壁完全不是對手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>籐蔓擋住了你的猛烈攻擊。你皮膚被籐蔓碰到的地方，都感到了一陣令人不快的刺癢。不過到了最後，整座牆壁都倒了下來，籐蔓也被扯了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你吟唱了幾句咒文，做了幾個手勢，召喚出一團火焰燒光了籐蔓。籐蔓被燒光之後，牆壁也失去了原本的凝聚力，倒了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 0]吟唱了幾句咒文，做了幾個手勢，召喚出一團火焰燒光了籐蔓。籐蔓被燒光之後，牆壁也失去了原本的凝聚力，倒了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>透過牆上的洞，你可以看到一絲光亮。不過，已經足以讓你辨認出那是水的潺潺聲……或者說，是基斯的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 0]通過一套繁複的煉金工序，把碾碎的拉西果莢與某種溶液融合在一起，把混合溶液倒在了籐蔓上。之後，煉金師輕輕地把符文粉末吹在了籐蔓上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0]折騰了幾分鐘之後，整個洞窟都充滿了明亮的綠色火焰。煉金師痛苦的慘叫聲在洞窟中迴盪。火焰馬上就熄滅了，[Specified 0]的雙手和雙臂都燙起了水泡，燒得發黑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>事實證明，砂漿和籐蔓根本抵抗不住[Specified 0]的力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你把符文粉末吹在了牆上，之後小心翼翼地碾碎了拉西果莢，將油脂加入了溶液之中。然而，你的操作不夠小心，溶液在你的手上開始發光，緊接著爆發出一陣明亮的綠色火焰。你的皮膚被燒得焦黑，手臂也失去了知覺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[使用鐵錘與鑿子清理道路。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>雖然花了幾個小時，但你成功地用鑿子鑿倒了搖搖欲墜的牆。牆倒了下去，上面的籐蔓也被一起扯掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>過了一會兒，籐蔓上爆發出了一陣明亮的綠色火焰，籐蔓很快就被燒成了灰。籐蔓被燒光之後，牆壁也失去了原本的凝聚力，倒了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

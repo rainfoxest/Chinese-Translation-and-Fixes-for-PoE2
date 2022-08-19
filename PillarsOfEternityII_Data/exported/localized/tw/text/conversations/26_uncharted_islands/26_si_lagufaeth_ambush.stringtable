@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_lagufaeth_ambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>眾多魚人的屍體讓這個地區凌亂無比。有些被燒得面目全非，而有些則被海浪沖刷的太厲害，以至於只剩下地上的一點點油漬污點可尋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>一大群魚人在我們前頭，而他們巨大的巢母在引領著他們。他們似乎還沒有注意到你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>你的環視能力捕捉到這一瞬間的動作。你意識附近的叢林裡有一大群魚人在埋伏以待。他們無疑是在為死去的朋友尋仇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>當你查探完環境後，你看見一大群魚人在埋伏以待——而且全都將吹鏢對準了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>魚人悲鳴著向你衝過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你轉身準備逃跑，結果發現身後站著一名魚人戰士——正拿吹槍瞄著你。其在你有機會逃走之前吹發了吹鏢，正中你的胸口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>當你查探完環境後，你看見一大群魚人在埋伏以待——而且全都將吹鏢對準了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[從藏身處跳了出來，掏出武器。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你沿著來時的路爬回，盡力避開魔物的注意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>在你能逃走之前，它們一齊吹發了吹鏢。儘管盡力躲閃，仍然有一枚吹鏢正中你的脖子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>它們在你有機會逃走之前一齊發出了吹鏢。儘管盡力躲閃，仍然有一枚吹鏢正中[Specified 0]的脖子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你還沒看到它們就已經聞到了它們的氣味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[搜索這片區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[試圖逃跑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你一路奔跑著，樹葉拍打著你，籐蔓也不停絆住你的雙腿。
+
+然而直到你汗如雨下停住喘口氣時，也沒有看到殺死魚人的是什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你轉身準備逃跑，結果發現身後站著一名魚人戰士——正拿吹槍瞄著[SkillCheck 0]。它在你有機會逃走之前吹發了吹鏢，正中你的胸口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[藏在林下植物中。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[進行伏擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

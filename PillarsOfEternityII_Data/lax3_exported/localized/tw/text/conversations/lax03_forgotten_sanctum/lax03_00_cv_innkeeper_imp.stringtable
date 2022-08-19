@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_00_cv_innkeeper_imp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>妖精粗暴地將粉末與藥草混入研缽中搗著。它斜眼看著你，露出一排尖牙與一條長而不停翻捲的舌頭。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你想要什麼，臭人類？」迷糊小噁心把手指插進混合物裡嘗了嘗味道。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我想休息了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你為何這麼喜歡藥物？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「呃！你覺得亞柯彌&lt;i&gt;沒有&lt;/i&gt;吃藥的話能睡著嗎？」迷糊小噁心搖搖頭，更用力地搗著藥草。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你就是偷走亞柯彌長袍的那個蠢基斯？」這傢伙抽抽鼻孔，發出一陣短促而愉快的呼氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「怎麼。法師們也把你騙到這來了？」妖精搖搖頭笑出了聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「為什麼不把長袍交給迷糊小噁心？穿在臭人類身上壓根就不合身。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「算了吧。另外長袍看起來不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[交出亞柯彌的長袍。]「給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你要這破東西能有什麼用？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「嘖！「隨便你吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「終於！呃，計劃行得通了！」妖精打了個響指，長袍&lt;i&gt;噗&lt;/i&gt;地一聲消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「嘖！不告訴你。臭人類問的問題太多了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「長袍不賣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你搶主人東西的時候很狡猾。迷糊小噁心相信你。」妖精指著你眨眨眼。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「騙？我是被請來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「開始有這種感覺了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「嗯。」妖精點點下巴，湊近仔細盯著你看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「妖精有個好計劃嗯？幾乎可以把亞柯彌的房子搶到手。只有一個問題——不是哪個妖精都像迷糊小噁心一樣聰明。」妖精敲敲自己的腦殼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你喜歡藥嗎？給你，拿上點藥吧。我不需要了。」妖精塞給你幾個包裹——有一些看上去十分可疑。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[交出亞柯彌的長袍。]「我考慮好了。這件長袍給你吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你要打扮成亞柯彌來一場造反嗎？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「要是我告訴亞柯彌這件事呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[點頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「有些妖精需要一點……動機。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「現在你知道了。我們成交嗎？你把長袍交給我。」妖精搓搓手掌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「是個好計劃吧？從臭人類的嘴裡說出來感覺有點蠢……」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「告訴什麼？迷糊小噁心只是個笨妖精，對吧？」妖精將一隻爪子放在嘴邊，眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「算了吧。交易取消。你真是最差勁的人類。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「你見過吞噬者涅姆諾克嗎？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>迷糊小噁心的雙眼看到涅姆諾克本尊現身後瞪得溜圓，抱著雙臂站在一旁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「是嗎？你覺得自己是個聰明的臭人類？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「法師們都是騙子。法師們是&lt;i&gt;最差勁&lt;/i&gt;的人類。不過迷糊小噁心會搞定一切哈？讓你輕鬆一點。」
+
+妖精眨眨眼，看向一堆提純後的藥草與麻醉劑。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你要給我……藥？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我感覺你並不像是受過培訓的藥劑師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「迷糊小噁心想讓基斯做個好夢哈？讓大腦袋好好休息一下。」妖精的聲音帶著安撫的意味，伸出一隻瘦爪子拍拍你。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你不用說話。我們都明白對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「聰明的臭人類想『休息』的時候就告訴迷糊小噁心哈？」妖精舉起爪子捂嘴偷笑。</DefaultText>
+      <FemaleText>「聰明的臭人類想『休息』的時候就告訴迷糊小噁心哈？」妖精舉起爪子捂嘴偷笑。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我不感興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「迷糊小噁心覺得你需要&lt;i&gt;放鬆&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「妖精們&lt;i&gt;什麼都知道&lt;/i&gt;。妖精們看著你四處奔走，解決其他臭人類的麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「白葉的精粹，碾碎的幻葉莓種子，還有龍骨粉的芳香！」迷糊小噁心用爪子從研缽裡挑了一點出來聞聞，點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「得用大量的藥草才能放倒大法師。還好迷糊小噁心是個聰明的妖精。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我不知道你這是在幫助亞柯彌，或者只是讓他更上癮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我能取一點做樣本嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你似乎很樂在其中啊。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「好吧，謝謝你的幫助。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「也許兩個都是。」妖精聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>在你說完之前，迷糊小噁心就一口氣將粉末吹進了你的眼睛。效果立竿見影。你感覺頭暈目眩，好像周圍的世界都在旋轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「告訴我，感覺如何？這份藥物尚處在實驗階段，可能會導致一些不可預知的副作用。」妖精揚起眉毛，抿了抿……嘴唇？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「呃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「這份劑量都能放倒一頭食人魔了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[安靜地觀看。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「呃。或許你說得沒錯。還不夠強勁。」妖精向研缽裡加了更多的白葉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[提供藥物。]「來點漣綿粉如何？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「呃！也許你比看起來聰明一點。」迷糊小噁心開心地將你的禮物加了進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「你聽起來……不一樣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[讓這場旅程抵達終點。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「嗯，我還是不問你什麼蠢問題了。你就好好享受這場旅程吧，朋友。」妖精自己笑笑，讓你逐漸恢復平靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我感覺&lt;i&gt;超贊&lt;/i&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「&lt;i&gt;別再&lt;/i&gt;給我那東西了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>你全神貫注地盯著自己的雙手。
+
+手指動了起來。真的&lt;i&gt;動了。&lt;/i&gt;你。一。想。就。動。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「對於臭人類來說已經夠了。」妖精自己笑笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「呵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「迷糊小噁心很享受這份工作。從中學到不少。一次一個基斯，讓你們全都睡著。」妖精用爪子在喉嚨上劃了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我就不打擾你熬藥了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「呃！你還活著？」你睜開眼睛發現迷糊小噁心正在摸你的前額。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「哦，不錯！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[擰起眉毛。]「再也。不要了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>你在想力帕薩里斯的小伙子們是否都和雷科一樣帥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你在想康賽豪是否吃了你的最後一個堅果蜜餞。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>時間在流逝。你在想俄撒斯能否建起一座他自己都無法推倒的城堡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>你在想他是否會考慮重建你的城堡。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「好。這活不容易。」妖精揮手示意你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"贊-讚美！讚美偉大的主！」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「光芒萬丈的涅姆諾克啊，迷糊小噁心還記得我們的大計劃呢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「臭人類甚至給了我斗篷！」妖精興奮地指著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「時機到來之時，涅姆諾克深愛的盟友會準備就緒。」迷糊小噁心低下頭顱，敬畏般地歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「呃。隨便你吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「如果說寵物其實只有一隻，而我們是通過多重稜鏡進行觀察的呢？就好像營火在穀倉牆壁上映出的影子一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我就應該殺了那個老混蛋。該把他的胳膊直接擰下來。要不是有人攔著我……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「你沒事吧，船長？看你有點上火啊。我給你拿點水來。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「真的，你會因為出汗而失水的。你對靈視者做了什麼，妖精？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>&lt;ispeech&gt;從沒有人和你講過，恩加蒂其實只是個小孩，是深淵的女兒，她的雙親廣闊而未知，甚至能夠吞下整個亡焰列島仍不知足。它們潛藏在海浪下的黑暗中，蟄伏在自己的肉質繭內，通過自己女兒的雙眼注視著一切。等待著。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「不錯啊，靈視者。給我留點！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>泰克胡好像感受到了你逐漸強烈的不安，溫柔地按住你的肩膀將你擁入溫暖的懷抱中。他的皮膚十分軟和，口中發出的噓聲像是浪潮沖刷著海岸。你安心了許多。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「呃！這曾是迷糊小噁心的工作。為亞柯彌熬藥。現在只是興趣而已。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「不想找麻煩吧，涅姆諾克？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「這就是你講的造反？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「等下，你們倆計劃過什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「臭人類船長該好好刷刷盔甲了。聞起來太臭了。涅姆諾克不該受這種罪！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「讓頭骨別咬睡著的涅姆諾克。」涅姆諾克怨恨地看了一眼你背包中的康賽豪頭骨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「涅姆諾克不久就會召喚迷糊小東西。計劃會成功的。需要耐心！」涅姆諾克將一隻爪子劃過忠實信徒的頭皮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「呃。說話聲音別這麼大！」迷糊小噁心豎起一根手指放在嘴上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>涅姆諾克轉向你，嘴唇抿出一絲嘲諷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「迷糊小噁心，偉大的主。小迷糊在廚房裡工作。」妖精歎了口氣又轉向你。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「沒什麼！」妖精向你投來嚴厲的目光，又轉向涅姆諾克。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「這本來是開個玩笑——用來嚇唬他的閃光炸彈。他不應該著火的。對不起，對不起……父親，請別讓我離開。我在外面會死的。」
+
+他的抽噎聲低沉而扭曲——好像從一座長廊對面飄來似的。</DefaultText>
+      <FemaleText>「這本來是開個玩笑——用來嚇唬他的閃光炸彈。他不應該著火的。對不起，對不起……母親，請別讓我離開。我在外面會死的。」
+
+他的抽噎聲低沉而扭曲——好像從一座長廊對面飄來似的。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>當麥婭在拿走她的財物時，伊希薩在死盯著你。他的雙眼像鏡子一般，但你在其中並不能看到自己。你看到的只有鳥群。無盡的天空與其中的鳥群。你被鳥群所淹沒，無所適從。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「你能用這份配方做出『神魂顛倒』嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「呵！臭人類又想要新藥了。藥效更強力，用途更……骯髒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「我找到了這份『提神的噩夢』配方，然後立刻就想到了你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「新藥已經可以拿來實驗了。好好睡一覺吧，蠢蛋。」迷糊小噁心湊近過來親吻了一下你的前額。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>迷糊小噁心瞇眼看著羊皮紙上的內容，點點頭開始組合原料。他將混合物端到一隻經過的老鼠鼻子前，看著這小東西僵成一團立刻死掉之後咯咯笑了起來。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「你有什麼想要忘記的東西嗎？想要逃離，活在夢裡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>迷糊小噁心仔細檢查了一遍配方，然後把一堆藥草、花莖與孢子腺體丟進研缽中開始搗鼓。他用爪子尖挑起一點成品，滿意地歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「說不定？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「我不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

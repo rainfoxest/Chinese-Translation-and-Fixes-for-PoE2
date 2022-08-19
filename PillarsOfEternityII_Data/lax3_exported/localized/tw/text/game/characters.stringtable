@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\characters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>78</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1002</ID>
+      <DefaultText>霜封拉紳</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1003</ID>
+      <DefaultText>凝霜之刃</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1601</ID>
+      <DefaultText>記憶貯藏者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1602</ID>
+      <DefaultText>閃光的夢境獸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1603</ID>
+      <DefaultText>幻景清道夫</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1639</ID>
+      <DefaultText>雪熊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1643</ID>
+      <DefaultText>雪熊媽媽</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1645</ID>
+      <DefaultText>雪熊爸爸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1646</ID>
+      <DefaultText>沃艾珥的先知</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1685</ID>
+      <DefaultText>觀察者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1697</ID>
+      <DefaultText>蜘蛛群</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1698</ID>
+      <DefaultText>月蛛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1699</ID>
+      <DefaultText>蛛人看守者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1700</ID>
+      <DefaultText>圖書館長</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1701</ID>
+      <DefaultText>圖書管理員</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1702</ID>
+      <DefaultText>伊吉婭</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1703</ID>
+      <DefaultText>明鏡心</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1704</ID>
+      <DefaultText>蛛人專家 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1705</ID>
+      <DefaultText>蛛人暴徒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1706</ID>
+      <DefaultText>月蛛幼體</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1707</ID>
+      <DefaultText>希沙克</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1708</ID>
+      <DefaultText>郎歌世</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1710</ID>
+      <DefaultText>泰恩</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1711</ID>
+      <DefaultText>包紮小能手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1712</ID>
+      <DefaultText>卵囊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1718</ID>
+      <DefaultText>貝卡納</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1719</ID>
+      <DefaultText>編輯謀殺者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1720</ID>
+      <DefaultText>修訂的暴徒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1721</ID>
+      <DefaultText>清潔的狂信徒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1726</ID>
+      <DefaultText>惡臭噴劑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1727</ID>
+      <DefaultText>迷糊小噁心</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1728</ID>
+      <DefaultText>費歐雷吉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1729</ID>
+      <DefaultText>維薩特拉茲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1730</ID>
+      <DefaultText>圖書管理員</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1731</ID>
+      <DefaultText>昴拉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1732</ID>
+      <DefaultText>盧塞洛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1735</ID>
+      <DefaultText>皺縮的馬</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1736</ID>
+      <DefaultText>苗條阿吉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1737</ID>
+      <DefaultText>不同尋常的狗</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1738</ID>
+      <DefaultText>奧布里特</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1739</ID>
+      <DefaultText>溫順的小軟泥怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1740</ID>
+      <DefaultText>強化血肉構裝體</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1741</ID>
+      <DefaultText>發光菌怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1742</ID>
+      <DefaultText>發光幼菌怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1743</ID>
+      <DefaultText>巨型發光菌怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1744</ID>
+      <DefaultText>感染菌怪的圖書管理員</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1745</ID>
+      <DefaultText>器官之口</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1746</ID>
+      <DefaultText>想像中的朋友</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1747</ID>
+      <DefaultText>可愛的蜘蛛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1748</ID>
+      <DefaultText>附魔護甲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1749</ID>
+      <DefaultText>奇術士管理人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1750</ID>
+      <DefaultText>咒刃管理人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1751</ID>
+      <DefaultText>小疙瘩</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1752</ID>
+      <DefaultText>雷迪納</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1753</ID>
+      <DefaultText>鵝膏菌</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1754</ID>
+      <DefaultText>好奇的幼菌怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1758</ID>
+      <DefaultText>能量導管</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1759</ID>
+      <DefaultText>驚慌的兒童</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1760</ID>
+      <DefaultText>小眨巴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1761</ID>
+      <DefaultText>小眼睛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1763</ID>
+      <DefaultText>貪婪的觸手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1764</ID>
+      <DefaultText>群星之僕</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1765</ID>
+      <DefaultText>天界幽靈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1766</ID>
+      <DefaultText>息肉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1768</ID>
+      <DefaultText>博拉斯</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1769</ID>
+      <DefaultText>未受感染的貓</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1770</ID>
+      <DefaultText>菌怪捲鬚</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1771</ID>
+      <DefaultText>天體幼菌怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1772</ID>
+      <DefaultText>兇猛腐化魂妖</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1773</ID>
+      <DefaultText>諾特諾克</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1774</ID>
+      <DefaultText>秘法引導</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1775</ID>
+      <DefaultText>動脈息肉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1776</ID>
+      <DefaultText>深淵牧人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1777</ID>
+      <DefaultText>臟器煉金術士</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1780</ID>
+      <DefaultText>被魅惑的妖精</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1781</ID>
+      <DefaultText>阿姨</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1793</ID>
+      <DefaultText>被感染的管理人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1796</ID>
+      <DefaultText>沃艾珥</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_cv_nirro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「靈視者！我懷疑從我聽到你的名字那天起你就是個麻煩了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你已經拋棄了這麼多。你無法&lt;i&gt;買回&lt;/i&gt;對議會產生的影響力。
+
+「要是你擁有更多忠誠就好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「一個有才但薄情的男人，會在同你握手時，卻渴望著往你的後背捅刀子。」</DefaultText>
+      <FemaleText>「一個有才但薄情的女人，會在同你握手時，卻渴望著往你的後背捅刀子。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「如果不是一些無所事事的鹿林貴族駕船駛入這個地區並讓這裡發生了翻天覆地的變化……」</DefaultText>
+      <FemaleText>「如果不是一些無所事事的鹿林貴婦人駕船駛入這個地區並讓這裡發生了翻天覆地的變化……」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「一湧而入，就像劇院外的那些東西一樣……要是我先找到你就好了。我們可能已經一起幹出這樣的大事了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[攻擊]「我聽夠你的閒扯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「卡斯托爾帶著你的燭台一直到最後。而這個可憐的傻瓜過去居然這麼善於判斷性格。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「有用，在一定程度上。但最終還是失望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你不會贏的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你將會意外地死去，朋友。」</DefaultText>
+      <FemaleText>「你將會意外地死去，朋友。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「打贏一個老人沒什麼挑戰性。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我們仍然可以避免更多殺戮，尼洛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「對，即使在此刻。但我會用劍將你的心臟刺個對穿，靈視者，你就此好好安息吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你一直都知道我的忠誠屬於哪裡，靈視者。很遺憾必須以這種方式結束。」
+
+她的聲音平靜，但當她打量你時，你可以看到她的下巴肌肉緊繃著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我們很久之前就該放你走的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「好吧。我應該相信我的直覺的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「算了。我沒有時間浪費在遺憾上了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你將會意外地死去，朋友。」</DefaultText>
+      <FemaleText>「你將會意外地死去，朋友。」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

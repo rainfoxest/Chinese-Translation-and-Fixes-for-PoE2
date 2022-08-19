@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\19_wizard_dungeon\19_cv_concelhaut</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你應該不是來看星星的吧？」他的歎氣聲聽上去有如一片殘破翅膀的拍打聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「不……不！我看著你死了，被掩埋於你那狂傲的城堡紀念碑之下了！」
+
+他殘缺的嘴唇往後拉起，露出了裡面永遠保持著陰冷樣貌的蒼白長牙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你怎麼來亡焰列島了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我原來的復仇計劃就是移平你的城堡……但是那個踏著海浪的魂珀蠢貨搶走了我的機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[攻擊]「我要把你頭顱裝在[Player Ship]上當雕像。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你為什麼會對這座天文站感興趣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「那個自命不凡的貝卡納有可能並不像我們曾經估計的一樣瘋癲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「如果議會是派你阻止我的研究的話，我只能把你的屍骸做成稻草人去警告下一批倒霉蛋了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[攻擊]「別想用那骨頭手碰我，跛子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「如果你已經找到想要的東西了你肯定不會還在這裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「真知灼見啊。好了，如果你已經結束對我的學術研究挫折的剖析了的話，請不要再打攪我了，我是個很忙的巫妖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我不是來打架的，但是如果有生命危險我也會毫不猶豫地反擊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你是見到誰都要作一次自我訴求的演講麼？我是真的聽夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我還在想我的小寵物怎麼樣了呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>一個骸骨般的身影用關節嶙峋的雙手抓著一份卷軸。他身上皺起的皮膚有如老舊的羊皮紙卷，每一個動作都像是要把皮扯碎一般。
+
+他抬起頭看著你，眼神嚴肅而又強烈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我被籠罩在你的陰影之下與在刀劍槍矛之間顛簸的日子已經結束了。
+
+「你我之間醜惡的……&lt;i&gt;友誼&lt;/i&gt;將在這裡結束。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我的背包裡面有一個腦袋形狀的空當，那可不是隨便哪個巫妖都能填補的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我也看見你死過，但是現在不是又見面了嗎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「不管是何種運氣或者是手段將你從靈界救回的，我都要證明那些方法有自己的局限性。」
+
+他瞇起眼睛打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你又一次打攪到了我的計劃，我只能再一次做出回應了！」他握住卷軸將之收走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「別打架，別打架。咱們只想要回小腦袋。其他部分你留著好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「別拿你的髒手碰我，你這惡棍！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「嘿，這不是我們的小腦袋嘛！還以為你不見了呢！」
+
+「都長這麼大了！整個身子都長出來了啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「閉嘴！我受夠了你那堆癡語。」康賽豪呲牙面對著艾德爾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「不要浪費時間在這種愚蠢的回憶裡面了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「這種的冒犯一次就已經無法饒恕了。你的存在……可憎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「說道可憎之物，我不是殺了你了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「說這話前先看看你自己吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「沒有什麼比將通往引魂人之手的大門緊緊關上更能讓我心情愉悅了。」他嘴部的裂縫長的更寬了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你在峭巖堡的狗屎運已經結束了。命運將我們帶到這裡就是為了糾正自己的錯誤。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「看來我們已經墮落到互相嘲諷的地步了。應該很快就能結束了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「啊。我怎麼忘掉你徘徊不散的沉默了呢，這可是所有偉大之人的標誌啊！」他搖了搖頭，脖子上的一塊皮鬆了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你是什麼東西？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「其實……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「如果時間夠的話還是可以的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「裂旗團之前圍攻過峭巖堡，為什麼他們現在為你工作了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我肯定那個豬頭指揮官巴羅林肯定在貝拉斯之輪上譏笑著這其中的諷刺意味。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「裂旗團效忠的對象是滿滿的錢包，我的投資已經夠他們花幾輩子的了。」
+
+他抱起自己的骸骨雙手嘲諷著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「之後我就只是簡單地從我的安眠之地爬到港口去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「之後的問題就是如何將我自己從鹿林拖到一處港口，一次一口土。」
+
+他揉了揉自己的下巴並畏縮了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「再之後我就像任何一個蠢貨都會幹的一樣來到了亡焰列島。我乘船來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「你的存在說明議會也感受到了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「議會之前並沒有重視她的亡焰列島裡面有一處力量之源的理論。但是我現在感受到了那裡的脈動。」
+
+他合上了自己的手指，彷彿是想要從空氣中抓住某種轉瞬即逝的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「難道那個裝模作樣的議會裡面沒有人告訴過你嗎？」他搖了搖頭將卷軸塞進自己的袋子裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「哼。難道外表就這麼有欺騙性嗎？我還以為都很顯而易見了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我是一個不死族，最後一口喘息之前的戰慄，一千本古籍的骸骨聖殿。」
+
+「我是康賽豪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「亞柯彌派我來的。我猜我們應該在找同一樣東西吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「不是大法師議會派我來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「沒有？那就更加可惜了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「漫無目的的死去……在我蹂躪完之後貝拉斯之輪應該會將你飽受折磨的靈魂碾成碎片的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「觀點的問題罷了。有可能是……同一樣東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「但是議會想要的只有知識。我渴望的是知識代表的力量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「認為自己不想要的他們只是一群欺騙自己的蠢貨罷了。」
+
+他哼了一聲，毫無生氣的骸骨鼻竇裡面的什麼東西鬆動了一下發出了一陣干扁的撬動聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你應該自己臣服於我的力量之下的。跟我現在要對你做的事情相比那種結束已經能算得上是獎勵了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「如果你不是來這搶奪此物的話，你的死就會與你的生一樣沒有意義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「那麼你確實是來干擾我的了，這樣子就更加危險了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「與其將我們寶貴的時間浪費在空洞的閒聊上，還不如早點終結這次可悲的會面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>康賽豪冷笑著舉起了自己的骸骨手指然後咕噥了一句咒語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「再等段時間你的耳朵應該就會長出來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「幸運的是我沒有那麼做的必要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「對於一個沒有……皮的男人來說還真是自大啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「那麼我只能借點你的來寫一道能夠縮小耳朵的法術了。」
+
+他對著亞洛斯冷笑道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「啊。怎麼又來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

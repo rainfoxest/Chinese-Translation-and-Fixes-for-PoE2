@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_introduction_initiate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你誤打誤撞地進入了一個房間，房間裡燈火通明，與你來時的隧道形成了鮮明的對比。一位表情柔和，長著一雙圓眼睛的男人靜靜地眨了眨眼，之後清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「這並不重要。重要的是，你終於來了。大家已經等得快不耐煩了，你最好趕緊入場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我覺得你大概是把我和什麼人弄混了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我這是在哪兒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你在挑戰者房間，沒錯吧？那你就是個挑戰者了。除此之外呢？那並不重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>他面無表情地盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「看我生龍活虎的樣子？這地方應該不是妓院，沒錯吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我的背包落在洞穴裡了，我所有最好的藥劑都在那裡面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「聽著，你嚇得連腿都軟了，我能理解你怕死的心情。但在你進入競技場之前，你就應該好好想清楚才對！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>海裔人伸出手指指著拱門，之後退了幾步，一邊退一邊用手搓著石柱。你們之間的大門被關上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>他歎了口氣，從腰間解下一個小袋子，塞到了你的手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「所有人都在等著看你生龍活虎的樣子呢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「胡瑪爾想和你好好談談。去回憶大廳裡找她吧，就在我身後。」
+
+他皺起眉，撓撓後腦勺，清清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「還有，呃，之前的事情很抱歉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「老天啊，牆塌了！這裡到底是&lt;i&gt;怎麼回事&lt;/i&gt;啊？」
+
+他伸著脖子，越過你的肩膀往前看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「慢著，什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你是什麼人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「角鬥場！趕緊去角鬥場！」
+
+他指著附近的門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「這個問題的答案也不重要。我就是那個要把&lt;i&gt;你&lt;/i&gt;帶到大家面前的那個人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你還打算改主意嗎？得了吧，已經晚了。」
+
+他用手指著身後的傳送門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我才不會去你該死的競技場裡呢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「這是怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「下次……別這麼丟三落四了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「什麼？當然不是！趕緊出去吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「你得讓他們看一齣好戲，就是這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「好啊！那你就別進去了！從哪來的，滾回哪去吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>他氣呼呼地穿過了門口，用手摸著欄杆。你們之間的大門被關上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>守衛羞怯地撓了撓已經掉光了頭髮的腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「不用道歉，告訴我這裡總管的人是誰吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我要和這裡總管的人談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「哦，哦！托墨弗艾在上，你的身體裡有一顆戰士的心！想要滿足嗜血的慾望，那你算是來對地方了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「好的，當然沒問題。這裡真正的主人是托墨弗艾，但處理凡間瑣碎事情的人是胡瑪爾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「你還活著，讚美托墨弗艾！我並沒有，呃……我真不該，呃……我應該先弄清楚你到底打不打算加入角鬥比賽，而不是把你，呃……嗯……」
+
+守衛跺著腳，結結巴巴地結束了對話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「而不是把我直接丟進你們的殺戮場？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我上次見到胡瑪爾的時候，她正在樓上觀賞角鬥。你應該找她談談，她知道的事情比我多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「自從上次殺戮以來，我已經很長時間沒玩得這麼開心了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「有些挑戰者在戰鬥之前都一直猶猶豫豫的，直到那個時候，他們才終於弄清楚是怎麼回事。」他嚥了口口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你當時確實是一頭霧水，我卻以為你是被嚇壞了。我真的真的很抱歉！但你現在還活著，這肯定是托墨弗艾的意志！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「是啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「就算真是，也沒關係。卡茲瓦里島確實需要一家不錯的妓院。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「所有的妓院都是競技場，船長，但並不是所有的競技場都是妓院。要我說，這個教訓知道得越早越好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「這裡的味道和野牝別館差不多，沒錯吧？比如說，都是高檔馬廄的味道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「他可真友好，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「這個人就交給你了。」康士坦丁把你推到了中間，盡可能地不被那個人看到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「趕緊給我找點喝的東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「那你應該去找科林，他就在樓梯附近。」他指著房間北側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「不過，你應該與胡瑪爾談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「沒錯，得好好喝上幾杯。沒什麼比拚上老命更能讓人口乾舌燥的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你最好趁你還有錢的時候，把欠我的酒錢還清。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我們可不僅僅是什麼『有些挑戰者』，不過你會這麼想，也蠻可愛的。」
+
+麥婭給槍上好油之後，抬起頭，露出了笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>雷科起勁地點著頭，滿是疤痕的臉上露出了燦爛的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「沒問題，姑娘。我可不想被你當成個欠錢不還的傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「這已經差不多算是道歉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「你看起來像個會打架的傢伙。這可太好了！只要你別死，就能派上大用場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「現在我們算是一路人了，船長！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「最好不要跟他爭論，靈視者。這些人脾氣火爆，一言不合就動刀子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「歡迎來到托墨弗艾神殿，靈視者！這是你溫暖的家園。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

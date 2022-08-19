@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_seeker_fortunetellers_ear</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>搜尋探尋之面的占卜師的耳朵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>獲得&lt;b&gt;占卜師的耳朵。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將&lt;b&gt;占卜師的耳朵&lt;/b&gt;送回給&lt;b&gt;回憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>探尋之面想讓我前往亡焰列島尋找&lt;b&gt;占卜師的耳朵&lt;/b&gt;，可能是字面上的占卜師的字面上的耳朵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>因加里發現攜帶占卜師的耳朵的人可以定位到涅克塔卡的商人中。&lt;b&gt;佩瑞琪之望&lt;/b&gt;商店可能是一個好的開始。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>既然我拿到了占卜師的耳朵，就必須把它新增到&lt;b&gt;回憶水池&lt;/b&gt;中以便進入鎖在裡面的精神史。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我找到耳朵並將其送給了回憶水池，開啟了狩獵之面的另一個挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

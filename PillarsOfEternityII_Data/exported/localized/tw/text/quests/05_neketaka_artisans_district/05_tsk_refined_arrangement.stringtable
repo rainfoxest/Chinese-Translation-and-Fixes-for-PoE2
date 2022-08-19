@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_tsk_refined_arrangement</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>微妙的交易</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在女王港裡的光魂珀磨坊與科蒂娜交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回明亮澡堂找加諾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>回明亮澡堂找加諾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>回明亮澡堂找加諾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>明亮澡堂的主人加諾擔心如果精煉光魂珀的價格繼續上漲他只能關閉澡堂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>加諾要求我與管理光魂珀磨坊的瓦利亞商行官員科蒂娜談一談。他希望我能說服她降低價格。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我成功說服了科蒂娜，明亮澡堂需要的精煉光魂珀應該能便宜點了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我說服了科蒂娜，她現在相信明亮澡堂是有利可圖的投資。她與加諾就低價精煉光魂珀達成了一筆長期交易。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我沒能說服科蒂娜去給予加諾折扣，但是我買到了一批能夠幫助他擺脫眼前困境的精煉光魂珀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>科蒂娜並沒有被我說服，她現在不願再就給加諾的澡堂折扣一事商談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我嘗試了更加文明禮貌的方式，但是科蒂娜並沒有動搖。也許我能換一種方法說服她去給加諾折扣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>如果我無功而返加諾肯定不開心。也許我能想辦法為他獲取一批便宜魂珀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我讓科蒂娜加入了瘋子莫萊娜偷盜明亮澡堂的陰謀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>加諾知道我成功為他爭取到了一份折扣後非常開心。他給了我一份謝禮並說自己欠我一個人情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>加諾知道我成功為他爭取到了一份與科蒂娜的長期合同後非常滿意。他給了我一份謝禮並說自己欠我一個人情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>加諾知道我給他帶來了一批精煉光魂珀他很滿意，但是他擔心為了彌補節節攀升的成本他只能提高澡堂的價格。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

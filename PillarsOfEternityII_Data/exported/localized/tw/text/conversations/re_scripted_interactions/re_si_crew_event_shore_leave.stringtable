@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_shore_leave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>當你在涅克塔卡崎嶇的街道上走著的時候，一直以來的貨車的聲音漸漸消失了。取而代之的，是一陣激烈的爭吵聲，聽起來馬上就要爆發衝突了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「船長？」陌生的水手笑了起來，用凹下去的眼睛看著你。
+
+
+「你應該教教你的水手，要是沒膽量打得你死我活，一開始就別找人挑事。」
+
+她周圍的水手竊笑著，打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我為我同伴的行為感到很抱歉，但我不能讓你們把他弄殘廢，我還要他幹活呢。讓他向你們道個歉，這樣解決問題怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「如果你們不知道我是誰的話，用不了多久，你們就知道了。你們是絕不會想把我惹怒的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[攻擊] 「沒人能對[Player Ship]動手動腳，準備付出代價吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[離開] 「在我看來，[Specified 0]是自找的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你走遠了，身後傳來了[Specified 0]恐懼的尖叫聲，還有拳頭和靴子打在肉上的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>水手們拔出武器，朝你走了過來。[Specified 0]大聲向你道了謝，全速跑向了港口的方向。
+
+水手們一步步走了過來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>水手們看著你們，目光上上下下地打量著你。其中一個水手攤開了戴手套的手，手掌對著你。
+
+「沒必要非流血不可。帶走你的船員吧，船長，事情就算完了。」她看著[Specified 0]。「希望我們以後別再碰到了，水手。」
+
+她轉過了身，大步離開了，其它的水手也走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>水手們互相交換了個眼色，其中一個人點了點頭。她看著[Specified 0]。「那就讓我們聽聽吧，水手。」
+
+[Specified 0]悲傷地看了你一眼，然後轉向了那個女水手。「我很抱歉，女士。」
+
+「他說什麼呢？」其他的水手笑了起來。
+
+「我很抱歉，女士！」
+
+女水手朝你敬了個禮，然後轉身走了，其它的水手也離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「船長？」陌生的水手皺著眉頭，看著你。
+
+「你也和你的水手一樣，是個出千的傢伙嗎？要我看，[Specified 0]欠我們的錢。他來玩我們的骰子遊戲，卻用了灌鉛的骰子。」
+
+她周圍的水手點著頭，目光移到了你的身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「船長？」陌生的水手皺著眉頭，看著你。
+
+「你應該教你的水手懂點規矩，這個白癡喝多了，吐了我們一鞋。」
+
+她周圍的水手點著頭，打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[加入爭論中。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>當你走近的時候，你注意到[Specified 0]被一群陌生的水手圍住了。從他們的服飾來看，你覺得他們不是本地人。他們在吼叫著，[Specified 0]也吼了回去，你弄不清楚他們究竟是因為什麼事情吵起來了。
+
+其中一個水手把[Specified 0]推到了牆上，另一個水手把手放在了武器附近，形勢很危險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[變化為靈體形態。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「或許幾個錢可以擺平這個問題？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>其中一個水手接過了你遞過去的錢袋，用手掂量了一下。
+
+「當然了，朋友。這樣一來，我們之前的事情就扯平了。」
+
+水手們離開了，留下你和[Specified 0]在原地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>其中有一個聲音你認了出來，是[Player Ship]上的[Specified 0]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[使用弓箭，朝不認識的水手射一箭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[偷偷靠近觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>當你走近的時候，你注意到[Specified 0]被一群陌生的水手圍住了。從他們的服飾來看，你覺得他們不是本地人。他們在吼叫著，[Specified 0]也吼了回去，你弄不清楚他們究竟是因為什麼事情吵起來了。
+
+其中一個水手把[Specified 0]推到了牆上，另一個水手把手放在了武器附近，形勢很危險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[大搖大擺靠近。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>水手們把大喊大叫的[Specified 0]推搡進了小巷子裡，你也做好了發動攻擊的準備……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0]看到了你，睜大了眼睛。
+
+「船長！謝天謝地！你要是能幫幫我就太好了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你射出一箭，箭深深地插入了其中一個水手的肩膀裡。水手用手捂著傷口，向後退了幾步，鮮血從他的指縫裡流了出來。
+
+其他的水手一邊看著你，一邊往後退了幾步。其中一個人吹了一聲口哨，之後所有的水手都逃走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你一箭射了出去，箭穿過了人群，射中了旁邊的木桶。幾個人的目光集中在了你身上。
+
+「這龜兒子想射我們！」陌生的水手檢查著自己，確保自己沒被你射出的暗箭所傷。
+
+又一個水手挺直了身子，伸出一根細長的手指，指著你。「你這是自尋死路！」
+
+她身邊的水手們點點頭，拔出武器，朝你走了過來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>其中一個水手接過了你遞過去的錢袋，用手掂量了一下。
+
+「當然了，朋友。這樣一來，我們之前的事情就扯平了。」
+
+水手們離開了，留下你和[Specified 0]在原地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>沉默一時籠罩住了眾人，水手們似乎在考慮著你的話。
+
+其中一個人忽然笑了起來，[Specified 0]趁機偷偷溜走了。
+
+其中一個水手拔出武器指著你。「我們來給這位船長一個教訓吧。」
+
+水手們走了上來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你一言不發，將精粹聚集在自己身上。你的身體變得越來越高，肌肉和骨骼發出了辟辟啪啪的聲音。你的身體上長出了厚厚的皮毛，手上伸出了尖銳的利爪。
+
+水手們的臉上露出恐怖的神色，每個人都猶豫地向後退了一步。當你怒吼起來的時候，其中一個人尖叫起來，所有的人都嚇得逃到了街上。
+
+魔法的效果消失了，你又恢復了原來的樣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 0]走了過來，臉上帶著燦爛的笑容。
+
+「謝謝你，船長！你真的是救了我一條小命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「回到[Player Ship]上吧，水手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「下次再敢給我惹麻煩的話，讓你跪下求饒的人可就是我了。趕緊滾蛋吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「小心點吧。再出這種事情的話，我可不保證能救你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「沒問題，沒問題，船長！」
+
+[Specified 0]朝你的船點了點頭，吹著口哨走掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 0]臉上的笑容消失了。他慌不迭地點了點頭，隨後就朝港口的方向跑過去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我這船長說的是實話，朋友。你們最好還是趕緊走人吧。」塞拉芬的手搭在了武器上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「非常理性的解決之道。」亞洛斯歡快地看著憤憤不平的水手們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「如果你們知道好歹的話，還是拿著錢走人為好。」她用鐮刀在自己的喉嚨上比劃了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「或許幾個錢可以擺平這個問題？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「如果你們知道好歹的話，還是拿著錢走人為好。」她用鐮刀在自己的喉嚨上比劃了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>水手們看著你們，目光上上下下地打量著你。其中一個水手攤開了戴手套的手，手掌對著你。
+
+「沒必要非流血不可。帶走你的船員吧，船長，事情就算完了。」她看著[Specified 0]。「希望我們以後別再碰到了，水手。」
+
+她轉過了身，大步離開了，其它的水手也走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你射出一箭，箭深深地插入了其中一個水手的肩膀裡。水手用手捂著傷口，向後退了幾步，鮮血從他的指縫裡流了出來。
+
+其他的水手一邊看著你，一邊往後退了幾步。其中一個人吹了一聲口哨，之後所有的水手都逃走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

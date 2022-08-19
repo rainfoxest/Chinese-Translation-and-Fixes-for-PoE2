@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_huana_faction_questline\fct_qst_04_the_wahaki</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>碩果纍纍的聯盟</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往&lt;b&gt;奧里奧柯基&lt;/b&gt;，尋找&lt;b&gt;瓦哈奇酋長&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與&lt;b&gt;瓦哈奇酋長&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>解決&lt;b&gt;鉤刺島奴隸販子&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>返回&lt;b&gt;奧里奧柯基&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>回去找&lt;b&gt;奧涅卡莎女王&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>回去找&lt;b&gt;奧涅卡莎女王&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>與&lt;b&gt;若賽爾&lt;/b&gt;談論關於盟友的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;奧涅卡莎女王&lt;/b&gt;要求我為她招募&lt;b&gt;瓦哈奇&lt;/b&gt;部落。儘管部落有著強烈的排外傾向，她仍然認為瓦哈奇能夠成為坎坷未來中的重要盟友。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>部落就在&lt;b&gt;奧里奧柯基&lt;/b&gt;上，海島在&lt;b&gt;涅克塔卡西北面&lt;/b&gt;，上面遍佈著濃密的叢林。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經到達奧里奧柯基，&lt;b&gt;瓦哈奇酋長&lt;/b&gt;也許會想要聽聽奧涅卡莎的提議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;若賽爾&lt;/b&gt;要求我清理掉&lt;b&gt;鉤刺島&lt;/b&gt;上的奴隸販子，那座島嶼就在&lt;b&gt;涅克塔卡的西北面。&lt;/b&gt;這就是她給我提出的贏得&lt;b&gt;瓦哈奇&lt;/b&gt;信任的條件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>鉤刺島上的奴隸販子已經被解決，我應該將這一進展告訴&lt;b&gt;若賽爾&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我已經與瓦哈奇達成合作，我應該將完整匯報告知&lt;b&gt;奧涅卡莎女王&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>&lt;b&gt;瓦哈奇&lt;/b&gt;部落恐怕近期內不會與&lt;b&gt;卡罕加&lt;/b&gt;並肩作戰了。&lt;b&gt;奧涅卡莎女王&lt;/b&gt;也許不會太高興，但是她應該會想要知道這個情況的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>我得返回&lt;b&gt;奧里奧柯基&lt;/b&gt;，向&lt;b&gt;若賽爾&lt;/b&gt;提出瓦哈奇部落與胡亞納人之間的結盟提議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>女王告訴了我向&lt;b&gt;瓦哈奇&lt;/b&gt;部落證明我的身份的口令。&lt;b&gt;「越過破碎的山脈，渡過腐敗的海洋&lt;/b&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;奧里奧柯基&lt;/b&gt;，「受詛咒的群屍之地」就是那裡茂密的柯基（屍果）樹叢林的名字，傳說叢林深處存在著某種&lt;b&gt;英格維仙遺跡&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>女王希望能將胡亞納人團結為過去榮光中的帝國。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>&lt;b&gt;女王&lt;/b&gt;警告我說&lt;b&gt;瓦哈奇&lt;/b&gt;人非常暴力並且為了在亡焰列島的險惡氣候下生存做過難以言喻的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>只要鉤刺島上的奴隸販子依然威脅著瓦哈奇部落，他們就不會考慮結盟提議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我成功將瓦哈奇部落徵召至了奧涅卡莎女王麾下。胡亞納人在亡焰列島的實力將得到顯著提升。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>與瓦哈奇部落的談判以流血收場。瓦哈奇部落不會再加入奧涅卡莎女王的聯盟了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我與瓦哈奇部落的談判沒有成功。奧涅卡莎女王沒有辦法依靠部落的幫助了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

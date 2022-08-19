@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_ship_prow_climb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>從船頭上看，下面的沙洲近得讓人感覺不真實。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>從這裡就可以登上反抗者號的甲板了。每當海浪打進來，這艘船就會發出呻吟聲，像一頭擱淺的鯨魚一樣，但它似乎不會繼續傾斜了。
+
+或許你可以爬上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[使用抓鉤爬上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[爬下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[呆著不動。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你的抓鉤從船頭處垂下來，你可以抓著它爬上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你已經爬上甲板一次了，你很確定再爬一次也不會有什麼問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>意外登陸之後，反抗者號看起來已經破破爛爛了。船體沿著龍骨的方向已經裂成了幾節，被撕成碎片的船帆也成了你和海盜戰鬥過的證明。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[徒手登上船身。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[暫時不做什麼。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[使用抓鉤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你把抓鉤甩了出去，抓鉤牢牢地抓住了木樑。你用力拽了幾下，抓鉤鉤得非常牢固。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你敏捷地抓住了船側，幾乎沒費什麼勁就爬到了上面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你抓住了船首側面的木板，開始向上攀爬。
+
+才爬到一半，你的胳膊就開始酸了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>接下來的一瞬間，你感到胳膊傳來了一陣灼燒般的劇痛，一顆籐壺扎進了你的手掌裡。
+
+突如其來的疼痛讓你鬆開了手，緊接著，你以狗啃屎的姿勢摔到了沙地中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>有了繩子之後，攀爬過程變得容易多了，你沒花多少力氣就爬到了上面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[爬上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你小心翼翼地避開了籐壺，順利地爬到上面，翻了上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你敏捷地抓住了船側，幾乎沒費什麼勁就爬到了上面。艾德爾沒有落後太多，他撐著身子，越過了你旁邊的船舷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>艾德爾比你提前爬到了船舷，他撐著身子翻了過去。之後他轉過來，幫助你爬完了剩下的路程，你們兩個人平安無事地爬到了反抗者號的甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你這一次比上次的表現要好一些……但這僅僅意味著你沒有把手扎傷，你最後還是摔了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

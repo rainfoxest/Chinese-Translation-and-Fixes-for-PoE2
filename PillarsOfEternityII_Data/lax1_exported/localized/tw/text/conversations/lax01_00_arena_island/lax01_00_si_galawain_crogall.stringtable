@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_galawain_crogall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>140</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>野獸的惡臭氣息瀰漫在你周圍，腐爛氣味幾乎難以忍受。
+
+它那泡沫一般的雙眼閃出一絲亮光，看台上的歡呼聲慢慢沉寂，取而代之的是失望的伽拉溫的沉悶嗓音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「這是&lt;i&gt;我的&lt;/i&gt;聖殿！&lt;i&gt;我的&lt;/i&gt;島嶼！&lt;i&gt;我&lt;/i&gt;躲避俄撒斯瘋狂迫害的避風港！」
+
+野獸的尾巴抽動、拍打著競技場的地板。它焦躁不安，渴望大戰一場。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我為那些『面』奉獻了獵手和獵物們的狩獵盛宴，讓他們可以得到暫時的解脫，他們不能剝奪我這個權利！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你摧毀了席格納斯·莫爾！你吞噬了卡茲瓦里的精華！現在我的野獸將吞噬你那傲慢的靈魂！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「靈界出什麼事了？你做了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「喂！你曾經對我起誓過！你以前很尊重我的聖地！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>猶如被熄滅的燈光一樣，伽拉溫的光芒離開了野獸的雙眼。
+
+黑暗從你視野邊緣慢慢收攏過來，直到你能看見的只剩下在靈界虛空中游動的一小點亮光。
+
+突然之間，那點亮光爆發，強力地把你推回到你的軀體之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「等等！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「現在求饒也太遲了吧，貝拉斯的使者。你應該躲在他們屁股後面別出來的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我不在乎有沒有用。你對那些『面』的所作作為極為不公——他們的靈魂不屬於你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「由於你的努力，競技場的試煉將在以後的賽季中一直舉辦下去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「按照傳統，那些未能完成試煉，將生命獻給競技場的人，將成為競技場的一部分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你清理了卡茲瓦里中心的腐爛源頭，貝拉斯的使者。我非常感謝你。願你未來戰無不勝，一切順利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[鞠躬。] 「我所贏得的榮譽便是最大的收穫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「在接下來的幾百年時間裡，競技場將銘記你的高超技巧和頑強不屈，我將盡我所能為你提供幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>猶如被熄滅的燈光一樣，伽拉溫的光芒離開了野獸的雙眼。
+
+黑暗從你視野邊緣慢慢收攏過來，直到你能看見的只剩下在靈界虛空中游動的一小點亮光。
+
+突然之間，那點亮光爆發，強力地把你推回到你的軀體之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我還要去繼續追捕俄撒斯。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「願你在追捕黎明之神的旅途中得到幸運之神的眷顧，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[採取戰鬥姿態。] 「終於來了個合格的對手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>伽拉溫的野獸發出一陣歡樂的低沉笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「你以為我是膽小的野鹿？如果你走過來，我就會嚇得屁滾尿流？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「按照&lt;i&gt;基斯&lt;/i&gt;的設計，所有靈魂都屬於眾神。很快我就會吞噬掉你的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「現在趁你還有舌頭，先編好自己的傳記吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「我殺了狩獵之面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「那些『面』捲入了權力鬥爭。我答應要把你的野獸靈魂放入到雕像中，釋放他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「那些『面』捲入了權力鬥爭。我處理了此事，現在他們會留在雕像中，永遠成為你的囚犯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「你憑什麼認為這個愚蠢的策略會奏效？你以為我會沒注意到？以為我會睜一隻眼閉一隻眼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「我得承認，我很驚訝。畢竟在眾神看來，你是個肆意妄為的生物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「你除了散播他們的精華，什麼也沒做，終有一天我會對付他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[撒謊] 「我不知道你在說什麼。我從未到過靈界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「你在考驗我耐心。」這隻巨大的爬行怪物從牙縫裡擠出嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我不欠你什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我後悔自己所作的決定，但現在想改變的話也太遲了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我這麼做是為了激怒你。即便有什麼好處，對我來說都是一種獎勵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「我們的關係變成這樣，真是遺憾。但我有無數其他的子民，懂得向誰感恩。你不值得我惦記。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「當你來到這座島之時，我叫你離開。你沒有。」
+
+「你心裡清楚我要你怎麼做，但你仍然濫用我的權威。現在你又來乞求&lt;i&gt;原諒&lt;/i&gt;？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「這座島嶼有什麼重要之處？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「那些『面』怎麼會在雕像之中？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「你打算怎麼處置俄撒斯？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「我會蟄伏起來，我不在之時，就讓其他神明鬥個天翻地覆吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「在死在競技場的那一天之前，維哈米一直是個成功的冠軍，也是托墨弗艾的忠實信徒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「我該怎麼處置那些『面』？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「像對付其他手下敗將一樣，讓他們在屈服在你面前。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「對&lt;i&gt;我&lt;/i&gt;來說競技場是一大堆可以吸收的精華，同時也是針對其他眾神的魯莽愚蠢決定的一個保險措施。它是&lt;i&gt;我的&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「你是個膽小鬼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「這樣做很明智。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「來搞定這件事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「沒問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「是嗎？因為我不想跟遇到的每一個敵人動手？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「你看清了我策略中的狩獵循環——飽餐和飢餓，計劃和行動。很好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[撒謊] 「那些『面』捲入了權力鬥爭。我處理了此事，現在他們會留在雕像中，永遠成為你的囚犯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「你覺得對我撒謊有什麼意義？」
+
+伽拉溫的野獸張開的大嘴裡流出一股股濃稠的惡臭海水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[攻擊] 「我不想再廢話了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「那就來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「我受夠了。滾出我的腦袋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「再見，貝拉斯的使者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「我跟島嶼的聯繫又恢復了，但是跟以前有點不一樣！」
+
+伽拉溫那憤怒的力量重重地衝擊著你的胸口。在你努力地喘氣之時，你聽到你聽見那隻怪物發出的低沉嗥叫聲，猶如微風中的低語一般。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「你放了那些『面』！我的野獸將吞噬你那傲慢的靈魂！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「靈界出什麼事了，貝拉斯的使者？趁我現在還有耐心，馬上編好你的故事吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「真可惜。我剛剛開始敬重你呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「然後你又玷污了我島嶼中心的魂珀。這是為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「這樣一來那些『面』就不能跟著我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「為了傷害你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「這樣很好玩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「其實我也不大清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「貝拉斯的使者，向你信奉的神明祈禱吧，因為你的死期將至。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「等等！我們不必吵成這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「如果你殺了我，估計貝拉斯也不會在意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「那就來打一場吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「現在不是討價還價的時候了。光榮地赴死吧，貝拉斯的使者，祈禱你的下輩子能夠更加機靈一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「對於死亡之神，我不虧欠什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「貝拉斯的使者，向你信奉的神明祈禱吧，因為你的死期將至。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「那是永遠不可能的了。快修復競技場。馬上動手！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「好吧，我去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我拒絕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「我感覺到精華在這座島嶼的脈絡中湧動。」
+
+「&lt;i&gt;是的&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>伽拉溫身旁的獅尾虎和狼露出長長的獠牙，發出震耳欲聾的尖叫聲，讓你的耳朵嗡嗡作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「你曾經對我起誓，又違背了誓言！你吞噬了卡茲瓦里的精華！現在我的野獸將吞噬你那傲慢的靈魂！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「你摧毀了席格納斯·莫爾，洗劫了卡茲瓦里！你是個只想要毀滅的無情怪物。我的野獸將吞噬你那傲慢的靈魂！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「別再問問題了！
+
+「你是像獵手那樣戰鬥，還是像獵物那樣做縮頭烏龜？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「現在，你站在我面前了——我，伽拉溫，一個&lt;i&gt;神明&lt;/i&gt;——你想問的就是這個？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「沒什麼。他有他的狩獵，我也有我自己的。他在凡塵俗世間毫無意義的冒險，我一點興趣也沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「&lt;i&gt;你&lt;/i&gt;是怎麼到我的雕像裡來的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「你不該闖入我的領地，也不該侵犯我的私室！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「你不打算派你的野獸來追我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我沒理由這麼做。不過你要想領教一下它的力量的話，我倒可以安排一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「領教一下你的化身的力量？那是必須的呀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「你這麼有勇無謀地死掉，貝拉斯也會原諒我的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「或者你可以幹點有用的事情，比如說幫忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「我要幫誰，靈視者？生活安逸、忘記鬥爭的基斯？還是那些認為鬥爭只是毫無意義的沉悶爭執的眾神？」
+
+「他們都不值得我去幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[給他看托墨弗艾的牙齒。] 「這是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「你已經證明自己是我的盟友，因此我不會因為你的盜竊行為吞噬你。但你應該戒掉這種不齒行為。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「這件聖物是你從靈界中偷來的？」
+
+伽拉溫突然變大，雙臂和肩膀上的長髮豎立起來。他身旁的獅尾虎和雪豹一同嘶叫起來。就連波羅科亞也支起前足，喉嚨裡發出一種低沉的吼叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「那是一種不知從何而來的腐爛蠕蟲，一旦鑽入你的皮下，你就只有等死的份了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>你把注意力集中在托墨弗艾的牙齒上。此時，你的意識被攝入到周圍島嶼及其中央地帶的黑暗冰冷魂珀的更強大意識之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>你追尋黑暗源頭。這是在魂珀中流動的精華的一處隘口，一處要塞。通過牙齒，你撬開魂珀咽喉處的封鎖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>靈魂精華從競技場和周邊的叢林流出，一開始只是涓涓細流，不過很快變成一條狂野的奔流。
+
+伽拉溫在你身邊冒出，化成人形，全身發光。由於力量恢復，他喉嚨裡發出滿意的嗚嗚聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「我很高興，貝拉斯的使者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「你不虧欠那些『面』什麼，他們必須自力更生。」
+
+「打破你對他們的誓言吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「沒問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「我不能這樣做。我必須遵守誓言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「那我跟他們就沒有任何區別。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「但我真的很想用刀捅死你那只巨型蜥蜴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「獵物的吱吱亂叫沒有任何價值。如果他們把你的誓言當成某種紐帶，那只能證明他們的軟弱。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「那你會給我什麼好處？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「饒你不死怎麼樣，你這無知的小崽子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「你知道自己在誰的領地裡覓食。這樣很明智。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「他對無情狩獵的熱情投入，給我留下了深刻印象，因此我問他是否願意作為狩獵之面來監管競技場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「他接受了。態度非常急切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「最好忍讓一下，耐心策劃。蟄伏以待。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「沃艾珥有一顆托墨弗艾的牙齒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「差不多算是吧。已經不復存在了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>伽拉溫的野獸再次看著那顆牙齒，發出刺耳的嘶叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「我只後悔在我親手幹掉我的獵物之前，被你這樣的流浪漢搶了功勞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「我重新點亮哈桑戈的魂珀之後，與眾神交流，當時你說你欽佩他。怎麼變了呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「我是說我欽佩他的&lt;i&gt;勇氣&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「我們認為他是想重新加入萬神殿，而不是將之夷為平地！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「等等，我的死期？沒有這個必要吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「在我處置了睿姆岡之後，你這個假設相當大膽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「你認為他是我們當中的最強者，這也太荒謬了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「可惜。但願下次我們相遇之時，我還能如此的慷慨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「獵物的吱吱亂叫沒有任何價值。如果他們把你的誓言當成某種紐帶，那只能證明他們的軟弱。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「不管你有沒有捅死我的野獸，你的計劃也永遠不會奏效。」
+
+伽拉溫的雙唇由於輕蔑而扭曲成醜陋的嘲笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「就連沃艾珥也明智地信守承諾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「維哈米說他在這裡現形了很多很多次。你不只在這裡囤積靈魂——你還讓他們輪迴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「是的。我吸引適合的靈魂，朝我而來，到這個地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「我看守他們，保護他們，培養他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「待時機成熟，我會收割他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「聽起來是個計劃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「這太可惡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>[攻擊] 「我要結束這個陰謀！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>他的目光變得凌厲而專注。
+
+「你的靈魂會讓這座島嶼富足一陣子。它……積攢了幾世的殺戮和狡詐。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「這不是一個強人所難的陰謀，絕望的生靈自己踩到了陷阱——這是我的&lt;i&gt;權利&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「蜘蛛捕蠅可惡嗎？熊在貧瘠的冬天到來之前填飽肚子可惡嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「但設下陷阱的不是我。」
+
+「至少目前不是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_02_cv_starlight_pedestal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一絲光線穿透了沃艾珥的祈禱室上方裂開的屋頂，照亮了一處空蕩的底座。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>儘管有些時候在無形大廳中很難分辨時間，但現在是白天。有塵粒漂浮在陽光的照射之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>儘管有些時候在無形大廳中很難分辨時間，但現在是夜晚。遙遠的群星將光線染上了一層銀色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[將貝卡納的魔典放在光線中。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[把手伸進光線中擺一擺。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你掌中的皮膚感到了舒適的溫暖。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>摸起來有種奇怪的清涼爽快感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>光線照在空白的羊皮紙與暗淡的符文上。除此之外，什麼都沒有發生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你將書本放在基座上，讓它的封面與書脊沐浴在涼爽的星光中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>貝卡納的魔典上湧動著不安而壓抑的能量。書本猛然打開，讓書頁直對著星空。
+
+好像有一隻無形的手在空白的羊皮紙上填滿了文字，而暗無光彩的符文也再次閃耀。魔典充蓄著能量，隨後再次一動不動，書頁被一陣微風弄皺了。 </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

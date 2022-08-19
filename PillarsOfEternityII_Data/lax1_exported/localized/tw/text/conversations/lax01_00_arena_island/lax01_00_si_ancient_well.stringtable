@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_ancient_well</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>110</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>穆阿圖輕柔的聲音在你的耳邊響起。「這口井的井水是從競技場下面流過來的。如果小心點的話……應該能從這裡進入競技場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[檢查水井。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>這口水井的直徑僅有一碼寬，井壁四周殘留的灰石砂漿已經龜裂發灰。幾塊石頭已經破了，或是被人撬掉了。
+
+你聽到井底深處傳來流水的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[往裡看。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>儘管抓鉤肯定能抓住井壁，但井壁究竟結不結實卻值得懷疑。而且，你也不確定你最長的繩子是否真的能觸到井底。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[放下繩索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你抓住繩子，腳踩在井壁的內牆上，輕而易舉地滑了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你拼勁全力抓住繩子，但感覺手越來越松，豆大的汗珠也從額頭上滑了下來……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[爬回地上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[甩到突出的石頭上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你把試煉石滾進了洞穴，跟著試煉石走入了黑暗之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[後退。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>穿過洞穴的小路逐漸向一側傾斜，微微發光的溪水歡快地流動著。
+
+在你上方，一道微弱的光柱從洞窟頂部的小洞裡傾瀉而下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[沿井壁往上爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[爬回地上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>在繩索的幫助下，你很快地爬了上去，發現自己再次身處島上的森林之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>儘管背上的石頭緊緊地勒著你的肉，你還是抓住了井壁上突出的地方，朝上面的洞裡慢慢地爬了上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>當你終於接近上面的光，抓住石壁的頂端時，你感到肌肉傳來一陣陣酸痛。你爬到了上面，發現自己身處某處林間空地的水井旁邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>向上爬的時候，你的腳扭了一下，尖銳的疼痛傳遍了你的腿。你落進了下面的水中。
+
+你抓住了突出來的石塊，把自己拉出了水面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你的隊友們慢慢地爬了上來，一邊互相幫助，一邊往幾乎完全垂直的井壁上攀爬……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>當你終於從黑暗中爬出去後，你感到身上傳來一陣陣快意，發現自己身處在某處林間空地中的水井井壁旁邊。你返了回去，幫助其他夥伴爬出了水井。你們來到了島上蔥翠的樹林中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[SkillCheck 0]尖叫一聲，滑了下去，還抓住了你的腿。你們兩個人一起落到了下面的水裡。
+
+你成功地爬到了水邊，[SkillCheck 0]已經一瘸一拐了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[把試煉石丟進井裡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[把試煉石交給別人。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你把石頭推給了皺著眉頭的[Specified 0]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>你把試煉石舉到了井壁上，用力壓著井壁，直到石頭的重力把井壁壓垮為止。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>隨著一陣響亮的撞擊聲，石頭落到了井下。它在井下的石壁之間不斷來回彈跳、滾動、破裂，最終變成了四分五裂的石塊，沉到了水底。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你強迫自己的手緊緊地抓住繩子，沿著繩子一路下到了井底。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>痛苦的幾分鐘過去了，[Specified 0]在一塊突出的岩石上落了叫，發出了勝利的呼聲……緊接著，就猛地靠在牆上，大口大口地喘著氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 0]的手鬆脫了繩子，發出了一聲恐慌的尖叫。試煉石和冒險者一起落入了下面的水裡，發出了響雷般的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>幽深的井底閃爍著流水的光芒。圓柱形的井壁上，有幾條發亮的白線在散發著微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>你的手鬆開了繩子，你轉瞬之間就落入了黑暗之中。在一陣恐怖的失重感之後，你猛地砸在了水裡，一陣尖銳的刺痛傳遍了你的後背。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0]從水裡掙扎了爬了上來，身上只有試煉石一小部分，石頭已經摔成了碎片。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>你成功地抓住了巖壁上突出的部分，把自己從水裡拉了上去，感覺身體莫名地變輕了不少。隨即你才意識到，是試煉石變輕了。石頭已經有一半的部分被摔碎了，沉入了水底。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[尋找陷阱。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[識別雕像。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>其中一塊石頭在受壓時沉了下去，這是一塊古老的壓力板。不過，當你在安全距離觸發壓力板時，什麼都沒有發生。
+
+或許某個之前來過的冒險者已經拆除了陷阱，又或者由於無數個世紀的風吹日曬，陷阱的機械裝置已經失靈了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>你並沒有發現陷阱，水井附近看起來非常安全。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>這些雕像看起來像是獵豹，造型很有胡亞納的抽像風格。從雕像側面和下顎上的符號判斷，這些動物應該是聖獸，是叢林之魂。
+
+也可能是這口井的守護者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>很明顯，雕像是大型貓科動物，可能是老虎或者獵豹之類的。雕像上滿是胡亞納抽像風格的漩渦線條，不太容易進一步辨認。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[把抓鉤固定在井壁上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[把繩子綁在貓科動物的雕像上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>你找到了一處可以固定抓鉤的位置，把抓鉤的勾爪固定在了石縫之間。你猛地拉了幾下，確保抓鉤很結實之後，便把繩索丟到了漆黑的水井中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你把繩子拴在了貓科動物雕像的脖子上，看起來像個項圈一樣。你猛地拉了一下，確保雕像很穩固之後，便把繩索丟到了漆黑的水井中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「順著繩子爬下去，[Specified 0]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>亞洛斯眼睛眨都沒眨。「你是在開玩笑吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「嘿，我知道我好像是個大塊頭，很強壯，但這都是我裝出來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「謝謝，不過我身上的醜傢伙已經夠多了。哎喲！」伊希薩啄了一下麥婭的臉，麥婭皺了皺眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「真的嗎？你真的指望&lt;i&gt;我&lt;/i&gt;去拿那東西嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「這塊能把船砸沉的石頭比我都大，船長！……不過我猜，命令就是命令吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「船長，恩加蒂的選民不需要證明任何事情。」泰克胡笑了起來，攤開手，聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我已經有一段時間沒考驗過信仰了，這件事就交給我吧，靈視者。」裘荻捲起袖子，揚起下巴，鼻翼微張。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Specified 0]用繩子把沉重的試煉石牢牢地綁在背上，一步步走到了井壁旁，把石頭丟進了黑漆漆的水井中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 0]一邊發出哼哧哼哧的聲音，一邊慢慢地沿著繩子往下，時不時停下來休息一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>快爬到繩子的盡頭時，你的耳邊充滿了流水的咆哮聲，周圍能看到一處地下洞穴。
+
+你注意到，附近有一處突出的岩石就懸在水面上方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「這可真讓人不舒服。」亞洛斯皺起了眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我猜，我知道它想讓你試煉什麼了。」艾德爾笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「呵，接招吧。」麥婭靠在井壁上，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>帕蕾吉娜用滿是羽毛的手遮住了眼睛，搖起了頭。她透過指間的縫隙，偷偷看著那片殘骸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我不太清楚你在想什麼，船長。」塞拉芬撓了撓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「就算沒什麼價值，至少我們知道這口井有多深了。」泰克胡歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>裘荻眨眨眼睛。「我猜這麼做應該也行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Specified 0]用繩子把沉重的試煉石牢牢地綁在背上，一步步走到了井壁旁，把石頭丟進了黑漆漆的水井中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>你沿著繩子下到了井裡，從[Specified 0]那裡接過了試煉石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>你沿著繩子下到了井裡，在黑暗中與[Specified 0]會合，閃著亮光的水從一個寬敞的洞穴裡傾瀉而出。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>試煉石的重量壓在你的背上，你小心翼翼地爬過了井壁，下到了黑漆漆的井裡。由於石頭的重量，你的胳膊、腿和肩膀都在發顫，繩子深深地嵌進了你手上的肉裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你徒手爬上了井壁，從井裡上來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>小心翼翼地甩了幾下之後，你成功地落在了一處突出的岩石上，緊緊地貼著巖壁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[繼續進入洞穴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>你環顧四周，發現岩石繼續向前延伸，一直到某個洞穴之中。黑洞洞的洞穴似乎在誘使你前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>你走入了黑暗之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>你的繩子掛在井壁上，繩子另一端拴在附近的岩石上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>井壁雖然凹凸不平，但非常滑，沿井壁攀爬可能會很危險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>你的腳下滑了一下，手指也從岩石上滑了下來，蹭掉了一層皮。你落了下去，還把你後面的人一起砸了下去，你們兩個人一起落到了水裡。
+
+儘管腳腕疼得厲害，你還是抓住了突出的岩石，爬上了岸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[爬下水井。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>你落到了井底，發現自己深處某個巨大開闊洞穴的頂部。你不斷地向下尋找著落腳點，感覺肌肉疼得厲害，身上的石頭像是在嚙咬著你的手指一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>痛苦的幾分鐘過去了，[Specified 0]在一塊突出的岩石上落了叫，發出了勝利的呼聲……緊接著，就猛地靠在牆上，大口大口地喘著氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[爬下水井。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>你落到了井底，發現自己深處某個巨大開闊洞穴的頂部。你不斷地向下尋找著落腳點，感覺肌肉疼得厲害，身上的石頭像是在嚙咬著你的手指一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>你聽到頭頂的黑暗之中傳來了[SkillCheck 0]的尖叫聲。你的同伴砸在了你的身上，你們兩人一起落入了下面的水中，水花飛濺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>試煉石的重量壓在你的背上，你小心翼翼地爬過了井壁，下到了黑漆漆的井裡。由於石頭的重量，你的胳膊、腿和肩膀都在發顫，繩子深深地嵌進了你手上的肉裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Specified 0]用繩子把沉重的試煉石牢牢地綁在背上，一步步走到了井壁旁，把石頭丟進了黑漆漆的水井中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Specified 0]用繩子把沉重的試煉石牢牢地綁在背上，一步步走到了井壁旁，把石頭丟進了黑漆漆的水井中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Specified 0]腳下一滑，發出了一聲恐慌的尖叫，便消失在了黑暗之中。試煉石和冒險者一起落入了下面的水裡，發出了響雷般的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>你和你的同伴們使用井壁上突出的石塊當做支點，盡可能地在互相幫助的情況下，一點一點地爬下水井。才過了幾分鐘，你的肌肉就開始酸了，手指像著了火一樣……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>你使用井壁上突出的石塊當做支點，開始往水井下面爬。才過了幾分鐘，你的肌肉就開始酸了，手指像著了火一樣……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>你落到了井底，發現自己深處某個巨大開闊洞穴的頂部。你不斷地向下尋找著落腳點，感覺肌肉疼得厲害，身上的石頭像是在嚙咬著你的手指一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>你的手鬆開了繩子，你轉瞬之間就落入了黑暗之中。在一陣恐怖的失重感之後，你猛地砸在了水裡，一陣尖銳的刺痛傳遍了你的後背。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>你順利地抓住了一塊突出的石塊，把自己從水中拉了出來。你站了起來，肩膀一跳一跳地疼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>試煉石在你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>儘管背上的石頭緊緊地勒著你的肉，你還是抓住了井壁上突出的地方，朝上面的洞裡慢慢地爬了上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>儘管背上的石頭緊緊地勒著你的肉，你還是抓住了井壁上突出的地方，朝上面的洞裡慢慢地爬了上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[沿井壁往上爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>這些雕像看起來像是獵豹，造型很有胡亞納的抽像風格。從雕像側面和下顎上的符號判斷，這些動物應該是聖獸，是叢林之魂。
+
+也可能是這口井的守護者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>你與水井保持著一段距離。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>你繩子的另一端依然在漆黑的水井之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Specified 0]把試煉石舉到了井壁上，用力壓著井壁，直到石頭的重力把井壁壓垮為止。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>瓦特尼爾搖著頭，戴著面具的臉埋在了滿是繃帶的手掌裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>莫珂咯咯地笑了起來。「水花四濺！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「你是把我當成馱牛了嗎？」瓦特尼爾一邊接過石頭，一邊問。「這一定會搞砸的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[放下繩索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Specified 0]在黑暗中與你匯合。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>你用餘光看到旁邊的穆阿圖有點喪氣。「那是一件無價之寶，[Player Name]。」他悲傷地搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>叢林中出現了一塊小小的林間空地，上面的樹枝為這裡覆上了陰涼的綠篷。
+
+空地顯眼的位置有石台，石台被樹根撐出了裂痕，上面滿是泥土和青苔。那裡有一對風吹日曬的雕像，刻著匍匐姿態的叢林貓科動物。雕像的眼睛和耳朵已經不見了，其中一個雕像的爪子也不見了。雕像旁邊是一口小小的石井。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「拜託，這玩意兒比我還高大呢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「我會試一下，但是……」雷科茫然地盯著巨石，然後轉頭對著你，露出邪惡的笑容。「也許我需要一個幸運之吻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「該死，靈視者，你沒聽說要悄悄地進入嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「啊，我以為會更大聲的。」雷科側身靠在井邊上，皺眉看著黑暗井底。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>你的手鬆開了繩子，你轉瞬之間就落入了黑暗之中。在一陣恐怖的失重感之後，你猛地砸在了水裡，一陣尖銳的刺痛傳遍了你的後背。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

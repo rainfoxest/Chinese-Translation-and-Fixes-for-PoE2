@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_complete</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>塞拉芬揚起了海藍色的眉毛，淺談一樣淡綠色的眼睛盯著你看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你的目光簡直要把我身上燒出洞了，船長。我願意聽聽你的想法，但如果是我不打算遵守的那種事情，我可不想向你保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我也可以對你這麼說，你還好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我知道，在梨繪發生的事情或許不至於變成這種結果，但也可能會變得更糟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你想談談嗎？那就談談吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我現在沒時間幹這些沒用的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「老實說，我還好，雖然這有點奇怪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我還好，船長，有什麼想法和我直說就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「沒錯，我們本可以一走了之，做一些再也無法挽回的事情。」
+
+他揉了揉鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「還能變得更糟嗎，船長？一個好人喪了命。那個人對我非常重要，幾乎比這世界上的一切都重要。」他又落得了什麼下場？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你真是個怪人，船長。有的時候你很正直，還有的時候你簡直就是個壞種。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我在想，想讓你變成個稍微正派些的人，估計得像扒層皮一樣困難吧。」
+
+他皺著眉，轉著眼珠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「好吧。」
+
+他微微聳肩，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「如果你打算談談的話，我願意聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我不知道有什麼能說的，船長。」
+
+他移開了目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「那我們就出發吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你發現你在不知情的情況下，參與了奴隸買賣，這種感覺肯定很糟糕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「這世界上有很多規矩，塞拉芬。雷馬洛知道這些規矩，但他還是打破了這些規矩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「雷馬洛並沒有消失，塞拉芬，他只是回到了貝拉斯之輪。他會轉世，之後重生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「眾神會給我們許多考驗，塞拉芬。有些考驗會更加困難，但沒有哪個考驗是無法克服的。無論好壞，他們都對我們很感興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你最好面對現實。雷馬洛之所以會死，是因為他是個叛徒。他背叛了你，也背叛了你的同胞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「讓你經歷這些事情，我真的很難過。如果有什麼可以幫忙的話，只要開口就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「以後如果我們要去西邊的話，至少你在那裡還有個朋友。我本來也有朋友，但後來我的城堡卻被某個傢伙砸爛了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「趕緊閉上你的鳥嘴吧。人人都有本難念的經，你的經並不比別人的更難念。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「這樣解決並不完美，也不會讓所有人都感到開心。但這個解決方式，能讓絕大部分人都感到開心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我們得向委員會報告巴斯蒂安的奴隸買賣，把事情都說清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你心裡清楚，雷馬洛做的是爭取的事情。那些該死的奴隸販子就該落得這種下場！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「無論雷馬洛出於什麼理由，他做的事情都不對。你比他更加出色，你會讓皇族海盜變得更好的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我們還是可以去皇族海盜那裡領賞，你不覺得嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「梨繪發生的事情真是太糟糕了。你唯一能做的事情，就是打起精神，繼續前進。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「沒錯 ，船長，感覺確實不怎麼樣。你可真是太聰明了。」
+
+他臉上的肌肉抽搐著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「天啊，船長，我都知道。雷馬洛一直都在教我海上的各種規矩，他簡直就是本百科全書。發生了這麼多事情，我僅僅是想要知道，他為什麼要這麼做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我猜，我們差不多該去找你那個藍色巨人朋友了吧？」
+
+塞拉芬把手放在武器上，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「所有在海上混日子的人，都多少有點信仰，船長。我猜，有些人只是比另一些人更不信神吧。」
+
+他聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「你連我們的同胞都不是！」
+
+他舉起了手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「這個世界和你想得不一樣，事情並不是非黑即白。不過，我會牢牢記住你是怎麼看待這個世界的，靈視者船長。」
+
+他轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我……很感謝你這麼溫情，我覺得。」
+
+他撓了撓後腦勺，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「哈！你說得沒錯。等我們這邊的事情都辦完之後，說不定我還可以去找雷馬洛呢。」
+
+他笑了笑，發出柔和的笑聲，然後轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「呵，是啊，可惜的是，我沒興趣再去見那個老傢伙了。」
+
+他歎了口氣，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>絨精眨了眨綠眼睛，彷彿被你扇了個耳光一樣，之後瞇起了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「好吧，希望到時候我們也能一帆風順吧。」
+
+他歎了口氣，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「儘管發生了這麼多事情，我依然很高興能在你的手下做事。」
+
+他向你鞠了一躬，轉身走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「說不定能吧。不過少了個腦袋，賞金也會大打折扣。」
+
+他輕輕地笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「就是這種糟心的事情，才讓我們這些老傢伙的心腸變得越來越硬。」
+
+他撓撓頭，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「就是這種糟心的事情，才讓我們這些老傢伙的心腸變得越來越硬。」
+
+他撓撓頭，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>絨精眨了眨綠眼睛，彷彿被你扇了個耳光一樣，之後瞇起了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「或許我得親自去那片水域看看了。當然，是在你的幫助之下。」
+
+他笑了笑，對你敬了個禮，轉身走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「或許我們已經這麼做了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「抱歉，我這麼說，對你並不公平。」
+
+他用腳跺了一下地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>他看著你，目光凝視著你的眼睛。他靜靜地吸了一下鼻子，點著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我們的話算是徹底說完了。」
+
+他轉過身不再看你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我們的話算是徹底說完了。」
+
+他轉過身不再看你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「沒問題，船長。雖然我不怎麼喜歡說實話，但有些真相不應該葬在茫茫大海中。」
+
+他笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「確實如此，我敢說，雷馬洛肯定乾淨利落地要了他的命，那個老傢伙一直都很仁慈。」
+
+他笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「或許是吧，但會不會是我們的規矩太寬鬆了，或者太嚴格了？有權利制定規則的人是誰？我們該找的人又是誰？」
+
+他歎了口氣，揉揉自己的太陽穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>絨精點點頭，發出了一聲悠長、緩慢的歎息。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

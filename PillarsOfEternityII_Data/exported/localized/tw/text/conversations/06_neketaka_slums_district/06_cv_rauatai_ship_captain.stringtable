@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_rauatai_ship_captain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>125</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這名努瓦泰人筆直地坐著。她身邊的桌上是一瓶喝了一半的酒和一個小瓷杯。兩樣東西都散發著茴芹的氣味。
+
+她看起來想要融入人群，她纖塵不染的亮色服裝也讓她十分引人注目。
+
+她與你四目相對。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你找我有什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你有沒有遇到過一個叫伯塔洛的人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「比哈和孩子們依然需要坐船離開這座城市。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我想為比哈和孩子們找一艘足夠大的船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「奧倫不會再和你們一起旅行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你在涅克塔卡的事辦得如何了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「和我說說奧倫的事吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>她渾身緊繃。「那個人威脅過我。要我忘記都難。」
+
+她舉起杯子又喝了一小口，一臉怒容地對著酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我無能為力。客艙已經被一個叫奧倫的矮人預訂了。」她從自己光滑捲曲的夾克上挑走一根線頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我也跟你說了我的船上已經沒空間了。我同意帶走的三個人已經只能勉強地住在貨艙裡了。」她的手緊握著酒杯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我想我們得走了。越快越好。」她壓低聲音蹲了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我想大概是完事了。我賣掉了一批運來的鐵與人工珊瑚，準備帶著紫金草、黑果與昂德拉之星回到努瓦泰。」
+
+她在椅子裡換了個姿勢，扯著自己明顯十分光鮮整潔的衣服。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「他們那群人從屬於金盟騎士團。奧倫……尤其挑剔。」她看向自己的船員，後者贊同地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「舖位的錢已經付了。只要你保證別給我惹麻煩，你就可以把你的朋友們送上我的船。」她環顧四周，確保沒有人在偷聽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「這件事你為何找上我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你難道對伯塔洛的遭遇不覺得難過嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「瑟杜佐努伊，他們在這裡幾乎什麼都沒有。想想看他們能如何從努瓦泰文化中獲得益處吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你是個商人吧？我付你錢，麻煩你帶上他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我在峽谷還是第一次遇到說話這麼有禮貌的人。」聽到你用了敬稱，她點頭表示讚許。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「好吧。我的貨艙裡還能多帶三人，不能再多了。奧倫和他的船員預訂了舖位。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「哈拉米！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我在這兒，瑟杜佐努伊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「今天我們要見的是[Player Culture]來的商人嗎？」她和士兵說話的同時，眼睛仍盯著你。
+
+之後僅僅停頓了一小會兒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「沒這回事，瑟杜佐努伊！」
+
+隊長不安地扭了扭身子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「那麼請你盡快道明來意。我不想再遇到什麼……驚喜。」
+
+她快速瞥了一眼四周，似乎等著有誰從酒館的其他角落裡蹦出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「究竟發生了什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「那些『油腔滑調』的話對你來說太複雜了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「這個傢伙想坐我的船去別處。弄我的跟村裡的擺渡人一樣！」她一口喝下杯中剩下的酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你們胡亞納人已經學得和瓦利亞人一樣油腔滑調了。你們說的話一句都不能信。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「這些胡亞納人已經學得和瓦利亞人一樣油腔滑調了。他們說的話一句都不能信。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我的貨艙裡還能多帶三人，不能再多了。奧倫和他的船員預訂了舖位。」
+
+「當然，你得有錢才行。」她認真得打量了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[支付300銅幣。]「這麼多錢付三人的船費應該夠了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「讓我考慮考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「不過這樣或許也不錯。他剛剛完成了一項守衛瓦利亞光魂珀磨坊的契約。
+
+「我聽說鑄魂師也很挑剔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「他在樓上。只要別打擾他做事就行。」她和船員們迅速交換了一下目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你居然把生意做到了貧民窟，真奇怪啊。你幹的是非法交易吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「你看起來有些緊張。亡焰皇家商行知道你在這做生意嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我以為努瓦泰人都以黃銅堡為各項活動的大本營呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>她卡啦一聲撂下杯子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「大部分人是這樣。」
+
+她躲閃著你的目光。嘴巴抿出一道弧線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「你看起來有些緊張。亡焰皇家商行知道你在這做生意嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「亡焰皇家商行……對這片地區的交易有所管制。
+
+「不過只要他們不知道就沒關係。」她神經質地大笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「假如你帶上比哈和孩子們，我就不向亡焰皇家商行告發你在這裡幹的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>她拉了拉衣領，環顧了一下周圍，看是否有人聽到你說的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「沒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「峽谷是個苦地方。行行好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「叫他們來找我吧。我們越早離開越好。」她在椅子上挪了挪身子，四下張望著酒館，彷彿在等著某個人朝她蹦出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>見你轉移了話題，她鬆了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「就算我行行好，欠我的債還是收不回來。再說了，你看看周圍吧。我不可能把所有不幸的人都帶到努瓦泰去啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「孩子個頭小。你肯定能再多帶幾個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「孩子個頭小。你肯定能再多帶幾個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>她搖搖頭。「我為了帶上這三人以及他們所需的食物和水，已經被迫丟掉了幾箱貨物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「很好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>她搖搖頭。「我為了帶上這三人以及他們所需的食物和水，已經被迫丟掉了幾箱貨物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我已經告訴他不可能了。就這付這點錢，想都別想。」她將空杯子倒放在桌上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「然後呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「多麼無情啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「聽起來沒什麼不對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>她嘟噥著。「他可不這麼認為。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>她有些惱火。「無情總比無腦強。我聽說有商人被騙過，最後把海盜請上了自己的船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>她張大鼻孔。「難過又有什麼用？另外，這個叫伯塔洛的是自討苦吃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>她高高揚起下巴，但你發現了一個能說明問題的細節：她嘴角抽動了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「沒錯，他本該知道在文明人面前應當表現得體。」她點點頭，彷彿在說服自己。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「哈拉米，保持警惕。我們一定不能再搞出什麼大動靜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>她向你眨眨眼，又看向自己的大副。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「哈拉米，這意思是……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「反正別磨磨唧唧的。你已經在我這鬧出不少麻煩了。」她看向自己的船員，用手指做了一個快速轉動的姿勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「那你運氣不錯，因為奧倫不再與我同行了。」她用懷疑的目光看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我已經好久沒以私人名義徵用船隻了，但哈扎努伊應該不會介意。」麥婭捏得指關節嘎嘎作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「這位是麥婭，她的話在黃銅堡還是有些份量的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「沒這個必要。」
+
+她露出一個無力的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「卡納『偶然』用我的步槍向蘭迦努伊最喜歡的鑼開火時也是這副表情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「在他們第一艘船於努瓦泰靠岸之前，我們說話就已經是這樣了。」泰克胡撅起嘴，放在體側的上手握起了拳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「是的，但你們從前是懷著欺騙對方的意圖說話的嗎？」
+
+她慌張地轉過身，不再面對泰克胡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>你再次注意到她的手在不住地顫抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「如果你在這裡做生意，你或許應該瞭解一下當地的文化。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「人們說話時直截了當一些為好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「你們有堅船利炮，何必聽他們花言巧語。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「並不複雜，但我不喜歡浪費時間。」她凶巴巴地瞪著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「要是人人都能這樣就好了。」她朝你舉起酒杯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「再過幾年，這些人都會瞭解我們的習俗，並向蘭迦努伊表示敬意。」她皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>她嚇了一跳。「那種事與我無關。我只是來做生意的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「不過你剛剛問什麼來著……那人叫什麼名字？伯塔洛嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>她又倒了一杯酒，然後把酒瓶狠狠地砸在桌上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>哈拉米聳聳肩。
+
+瑟杜佐看著你們兩個。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「我突然想起來我得給老大寫一篇報告。別在意我。」
+
+麥婭展開一卷羊皮紙，開始書寫瑟杜佐的陳詞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「你……在把我剛說的寫話下來嗎？」她沖塞拉芬揚起一條眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「沒有，姑娘。我只是看到面前的美人頓時詩興大起而已。」
+
+他清了清嗓子，將小紙片收進口袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「不管怎樣，這就是我來這裡的原因。」她擺弄著手中的杯子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「我打賭，這隻是商行搞的那些糟糕又誇張的宣傳。」
+
+這個絨精朝你咧嘴一笑，攤開雙手聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「我暫時還沒有錢。我會想辦法的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>她用懷疑的目光看著你。她旁邊的士兵聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「這樣對你是很方便了。不過沒什麼——我會盡量避開麻煩的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「他之前跟我說他有錢。很多錢。我當時就沒信他。一個住在垃圾堆裡的人怎麼可能有錢付旅費呢？」
+
+她搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「然後他拿出了一枚金陽幣給我看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「金陽幣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「是一種帶有標記的錢幣，象徵著對組織的忠誠。皇族海盜隨身攜帶這種錢幣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「那時我才知道自己正在和一個海盜打交道。我之前聽人說過這些人在峽谷有影響力，但我還沒意識到影響力有多大。」她一臉怒容，打了個顫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「我叫來了守衛，然後守衛們把他拖走了。之後我就沒見過他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「你知道怎麼去潛民街嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「我和這種地方沒有一點關係。」她保持著姿勢不動，眼睛迅速環視著屋子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「不過我聽說，嗯，店主可能知道的多一些。」她謹慎地指向吧檯後面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「伊希，把我的槍拿來。」麥婭揚起了眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「……不過我聽說它在峽口之中。在一處空蕩的商攤後面。」她又向椅子中縮了一點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「這的店主可能會知道。」她的目光掃向吧檯後面，又重新警惕地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「我知道你是哈扎努伊的眼線，不過你要是來這辦她的事，還是別當我們見過面了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「於是你就認定他沒錢，並把他扔去餵狼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「你猜錯了，你這自以為是的聚鹿人。我什麼都沒認定，直到我看到了金陽幣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「反正我都不信。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>她臉色有些蒼白，隨著麥婭書寫的速度越來越快，她將一隻手放到嘴邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「噢，你這藍毛小不點。你打算把它與你那些無法無天的朋友分享，而不是我們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「是，夫人。僅供自娛自樂用，如果你懂我意思的話。」
+
+他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「把你的詩歌念出來給我們聽聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「瑟杜佐，無視他就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「這傢伙又開始作怪了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「啊，我的詩歌，呃，十分淫猥，隊長。不適合念給你們這種體面商人聽。」
+
+他撓了撓後腦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>她看塞拉芬的眼神就像在看一隻話特別多的大老鼠一樣。
+
+她又轉頭看向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「樂意至極。」她緩緩地點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「今天我們要見的是瘋根商人嗎？」瑟杜佐和士兵說話的同時，眼睛仍盯著你。
+
+之後僅僅停頓了一小會兒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「今天我們要見的是當地的商人嗎？」瑟杜佐和士兵說話的同時，眼睛仍盯著你。
+
+之後僅僅停頓了一小會兒。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

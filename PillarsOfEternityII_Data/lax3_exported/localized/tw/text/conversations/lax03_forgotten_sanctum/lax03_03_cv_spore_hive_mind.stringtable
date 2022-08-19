@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_03_cv_spore_hive_mind</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>124</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>真菌深處開了一道口子並釋放出一股氣味刺鼻的孢子，這意味著生物警報已被拉響。
+
+很多真菌生物帶著無言的憤怒轉向了你，令你感到不寒而慄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>&lt;ispeech&gt;她忘了帶走自己的書。把它丟在了我們這兒。她幾乎坐立不安。她的歌聲與我們的不協調。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>「你……感染了昴拉？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>&lt;ispeech&gt;分享郎歌世時，這是一種交流。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>&lt;ispeech&gt;她匆忙之際，把書掉在了這裡。戴面具的覬覦著緊隨其後。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「你曾想要設法感染昴拉？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「你提到了戴面具的人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>&lt;ispeech&gt;是的。是藏品館來的，散發著魔法和不毛之地的臭味。我們並非刻意攔截它。我們見識過它能造成的危害。這裡沒有它的容身之處。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>&lt;ispeech&gt;提問只會讓能量變質。你向郎歌世屈服後，我們會以收水稅的形式取回失去的東西。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「你提到了戴面具的人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>&lt;ispeech&gt;是的。是藏品館來的，散發著魔法和不毛之地的臭味。我們並非刻意攔截它。我們見識過它能造成的危害。這裡沒有它的容身之處。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>&lt;ispeech&gt;分享郎歌世時，這是一種交流。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>&lt;ispeech&gt;郎歌世很高興能稱你為朋友。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>一堆雜色的菌怪肉躁動地泛著漣漪。從長毛的膜深處伸出一根莖稈，其頂端是一個形狀有些類似眼球的蘑菇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>眼球盯著你，之後脫落下來滾到了別處，在地上留下一道濕噠噠的粘液。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>「你好？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>「你這是典型的第五階段感染。偏執、領地意識強、不穩定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>「呃……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>[攻擊]「不行。不管這玩意兒是什麼鬼東西，都非死不可。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>菌堆僵了一下。不安的漣漪順著它的肉蔓延。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>&lt;ispeech&gt;我們是大法師郎歌世。你是什麼人？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>「我是[Player Name]，[Player Ship]的船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>「你不是郎歌世。我認識她，她不是黴菌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>「你不是郎歌世。她死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>「我感到很不舒服。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>菌堆伸出一根長捲鬚，暴露出檢查你周圍空氣的肉膜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>&lt;ispeech&gt;你的軀體/精粹能與郎歌世的歌聲共存。現在，你將接受我們的贅生物。&lt;/ispeech&gt;第一根捲鬚上分裂出了一根新的捲鬚，這根捲鬚上遍佈倒刺，上面有粘稠的綠色液體滴落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>&lt;ispeech&gt;人類。直立。很高效。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>&lt;ispeech&gt;精靈。樂觀。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>&lt;ispeech&gt;絨精。詭秘。才氣煥發。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>&lt;ispeech&gt;神嗣。可靠。惹人注意。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>&lt;ispeech&gt;海裔。圓柱形。很高效。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>&lt;ispeech&gt;矮人。遠足者。很便利。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「你&lt;i&gt;不&lt;/i&gt;是郎歌世。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[攻擊]「你離我遠點。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>菌堆停頓了一下。十幾根沒有眼瞼的眼柄伸出，著迷地觀察著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>&lt;ispeech&gt;……但和我們的追捕者不同，我們並不殘忍。我們追求長久地活下去，並開出和你一樣美麗的花朵。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>&lt;ispeech&gt;昴拉。大法師。目標是戴面具的覬覦者，在沃艾珥的祈禱室將其擊殺。我們將她和郎歌世歸在了一起。那以後，她就把自己鎖在南邊的石門裡。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>&lt;ispeech&gt;昴拉。大法師。我們曾試圖把她和郎歌世歸在一起，但給她逃了。她把自己鎖在南邊的石門裡。法術為她敞開了道路，我們沒有跟隨。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>[攻擊]「多說無益。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>「你是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>&lt;ispeech&gt;菌怪之地曾是我們的土壤和影子。後來一隻巨手把我們摘起，並把我們的球莖心臟栽在了牆後的盆裡。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>&lt;ispeech&gt;在我們成長的時間裡，我們蠕動著穿過圍場的縫隙逃了出去。現在我們在這裡變為語言的花園，並找到了郎歌世。&lt;/ispeech&gt;最大的捲鬚指了指一堆書。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>&lt;ispeech&gt;現在我們以郎歌世的身份生長，並唱著她的思想之歌。現在我們向著散發光和水的身體生長。當我們的菌怪觸碰到心臟時，我們就能獲得真正的自由。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>「你想生長在沃艾珥的身體上？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>&lt;ispeech&gt;正是。這麼做令我們愉快。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>&lt;ispeech&gt;各種負面因素使身體花園的機能低下，但我們會充分利用它的存儲器官。我們的菌怪之地將再次欣欣向榮。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>「請隨意長在沃艾珥的身上。我不是來阻止你的。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>&lt;ispeech&gt;你為花園而歌唱嗎？太令人愉快了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>&lt;ispeech&gt;郎歌世將仁慈地對待你。願你的水分聚集在合適的容器裡。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>「我也可以將你以共生體的形式帶走，但你必須承諾不會越過我們之間的界線。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>菌堆遲疑了一會兒，考慮著你的話。菌堆裡飄出一陣刺鼻的氣味，好像它正在流出消化用的酸液。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>&lt;ispeech&gt;吃下這個。因我們的交流而感到愉快，我們也會因你而感到愉快。&lt;/ispeech&gt;一個小黴菌鱗莖從一個開口裡&lt;i&gt;咚&lt;/i&gt;的一聲落下。它散發著肥沃土壤和新鮮腐質的氣味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>[吃下菌怪鱗莖。]「那我就恭敬不如從命了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>你用超人的意志力咬了一口麻口的軟肉。咬下同時，一股酸味充斥了你的口鼻。黴菌球破裂消失，你還沒來得及下嚥，它就順著你的喉嚨消失了。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>&lt;ispeech&gt;你的軀體十分理想。我們不會後悔的。&lt;/ispeech&gt;你的五臟六腑裡湧起一陣不適感，但很快便褪去了。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>「聽到你這麼說我很高興。大概吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>&lt;ispeech&gt;給。就用這個語言禮物來結束我們的交流吧。此物應該能幫助你到達更安全的花園。&lt;/ispeech&gt;滴水的捲鬚指向一本書。還有一把鑰匙叮噹一聲落在了你腳邊的地上。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>「我對感染已經見怪不怪了。祝你過得愉快，朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>「過去我曾精心料理過努亞堡的花園。這次應該也會十分令人愉快吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>「我討厭這樣。我討厭一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>「轉念一想，還是不要了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>&lt;ispeech&gt;你還沒準備好與郎歌世融為一體嗎？真令人傷心。&lt;/ispeech&gt;菌堆伸出一根刺表示不讚許。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>「我不能讓你感染沃艾珥的身體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>&lt;ispeech&gt;遭遇阻礙。郎歌世需要新鮮土壤。如果你想妨礙我們，我們就會把障礙拆除。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>「好吧。你去感染身體吧，讓我過去就行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>[攻擊]「可我會先拆了你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>[攻擊]「你的死期。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>「你的……贅生物？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>&lt;ispeech&gt;郎歌世必須擴散。必須遵循古老的傳統。我們必須生長。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>&lt;ispeech&gt;你的軀體十分理想，是適合我們生長的土壤。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>「我只是想找大法師昴拉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>&lt;ispeech&gt;郎歌世是連接多座花園的思想籐蔓，我們的根鬚已經觸碰到了他最古老的歌。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>&lt;ispeech&gt;與軀體辯論沒有助益。當你的歌與我們的融合後，你很快就會明白。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>「你為何認為你是郎歌世？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>&lt;ispeech&gt;我們就是郎歌世。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>「我早已洞悉她祖先的靈魂。郎歌世不是寄生生物。她是眾多靈體的聚集體。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>「如果我能從讀到的東西中瞭解到些什麼的話，那就是郎歌世知道將生物融合在一起應該是自然而然發生之事，不能由一方強加給另一方。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>「我們就不能各走各的路嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>[攻擊]「誰都別想佔據我的軀體。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>&lt;ispeech&gt;你的話只是令人不快的藉口。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>&lt;ispeech&gt;只有一條路可走。我們必須逃出監獄，你的水能給我們繼續前進的力量。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>「不對。你顯然不僅僅是普通的寄生生物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>&lt;ispeech&gt;你的歌聲多麼美妙，你的生命之水多麼動聽。我們渴望將其歸入郎歌世。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>[攻擊]「我不允許你感染我或其他任何人。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>「我不想和你打，但你讓我別無選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>&lt;ispeech&gt;只有最適應環境者才有選擇這種奢侈的權利。我們在為了生存而奮鬥。當我們安排好未來的土壤後，我們也會體會到選擇的自由。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>[給予殺真菌劑「你的追捕者們想對你使用這東西，但我認為你不應落得那種悲慘的下場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>&lt;ispeech&gt;獻給我的嗎？郎歌世還記得還人情的喜悅……&lt;/ispeech&gt;菌怪似乎在猶豫地換著重心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>[給予真菌肥料]「你的生長並不需要我。用這個就行了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>「我們遇到的劍會說話，魚會說話，現在居然連黴菌都會說話。我的天啊。等遇到不會說話的東西時再把我叫醒吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>「船長。我知道你時不時喜歡……新奇的體驗，但這東西想要感染你。取代你。把你變成蘑菇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>「我只是把話說清楚，以免你搞不清楚狀況。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>「有意思，你的第一反應居然是和黴菌做朋友。可有些朋友並不值得你大費周章地去結交，你有沒有想過呢？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>「你嘴上這麼說，心裡卻更願意一把火燒了感染體。你的忍耐力令我刮目相看。」費西娜聳聳肩。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>「這可……真美……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>「在你看來或許如此吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>「黃昏代言人，你終於開竅啦？」他的笑聲變成了一系列劇烈的咳嗽聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>「你們聽到了嗎？靈視者？還是說我終於發了瘋？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>「喂，你忘了帥氣、迷人與機智。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>「或許我們在人群中確實很顯眼，但若沒有魅力和智慧，外表就只是一副皮囊。」泰克胡朝菌堆眨眨眼。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>「我也因此而自豪。」麥婭屈伸了一下二頭肌，朝菌堆眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>「指的是不同尋常的生長物。它想要……把你變成它的一部分。」他皺眉蹙額。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>「他想要把你變成贅生物，成為它自己的延伸，真可怕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>「靈視者，它指的是生長物。一種鼓起來的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>「噢，可不是嘛。它們真的很漂亮。真的，呃，很芳香。」他熱情地直點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>「我為何能聽到你說話？你為何能明白我想表達的意思？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>&lt;ispeech&gt;我們已經瞭解了思維肉體的實質。我們的歌聲在所有物質中迴盪。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>無論你多麼努力，你不斷把鱗莖往裡塞，直到它變成一團無法辨認的糊狀物。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>&lt;ispeech&gt;你的軀體並不合適。妥協之歌已經唱到了尾聲。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>「要是我做不到怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>&lt;ispeech&gt;那我們無法原諒這種無禮的行為。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>「你要我幫忙把你的嘴縫上嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>「通常情況下是的。」他似有所指地皺起眉，咧嘴一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>「我並不是很想知道它是怎麼知道的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>「沒人告訴過你妄加揣度是很沒禮貌的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>&lt;ispeech&gt;我們的歌聲嚇到你了嗎？你不喜歡我們的花園嗎？很快它將成為你自己生長的園地。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>「身體的免疫系統難道不會排斥你們嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>&lt;ispeech&gt;在我們掙脫虛假圍場的束縛之前，我們考慮過移植排斥反應的可能性。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>&lt;ispeech&gt;身體正在沉睡。正在做夢。只有水在流動，不會產生反射性痙攣。等到免疫系統察覺到我們的存在時，我們早已支配了更高級的機能並已將這種防護手段無效化。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>&lt;ispeech&gt;感謝你的擔憂。你是個十分體貼的軀體。我們會好好珍惜你。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

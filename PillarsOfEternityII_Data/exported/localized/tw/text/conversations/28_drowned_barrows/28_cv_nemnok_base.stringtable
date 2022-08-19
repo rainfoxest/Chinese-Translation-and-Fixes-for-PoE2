@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\28_drowned_barrows\28_cv_nemnok_base</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我為你的圖書館帶來了一本魔典，涅姆諾克。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「讓我看看。」涅姆諾克靠近了一些，對你的背包呼扇著鼻孔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[給出魔典。]「拳擊手的魔典，從某位古代巫妖的手裡搶來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[給出魔典。]「比巴拉的魔典，從某位沼澤巫使的小屋裡發現的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[給出魔典。]「門扎格的魔典，曾是某位碎礁的吸血妖幻術師所有物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「等下，我有問題要先問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「好極了。如果一名傲慢的外來者能擊敗死亡，那麼我和我的同族當然也能。」
+
+涅姆諾克輕撫著魔典點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「啊。這個老巫婆的亂塗亂畫裡倒是有不少值得研究的東西。」
+
+涅姆諾克捏著書脊用力抖動。有不少蠹蟲從書中掉到了地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「好極了。你果然是我的忠實信徒，孩子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我還有一本魔典要交給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我想多瞭解一些你的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我目前的書已經足夠多了。拿著你的最終獎勵離開這裡吧。」
+
+涅姆諾克漫不經心地指了指三個箱子，然而其自身的注意力卻在其它地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「侍僧，離開這裡。等待我再次召喚你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你回來了。」涅姆諾克伸出一隻爪子示意你暢所欲言。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「說出你的想法，侍僧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「去寶藏堆裡挑選吧，但只能帶走一件。」
+
+涅姆諾克伸出一隻長爪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「感謝你，慷慨的涅姆諾克。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「兩件小玩意。明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「只有一件？涅姆諾克，理智一點……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「一件獎勵已十分豐厚，孩子。你在質疑我嗎？」
+
+涅姆諾克靠近了些，一股灼熱而腐臭的氣息撲面而來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[攻擊]「這些寶藏都是我的。想阻攔我就試試。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「至少到目前還沒有。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你為神明付出了多少，獎勵就有多少，孩子。」
+
+涅姆諾克點了點長著角的腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「你是不是聽錯了，侍僧？你沒有一點紀律性嗎？」
+
+涅姆諾克瞇起眼睛湊近過來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「既然我們之間的協定已被打破，就得盡力把餘下的事情做好。」
+
+涅姆諾克某只碩大的眼球饒有興趣地凸了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「告訴我你需要什麼，涅姆諾克。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>涅姆諾克低聲嘟噥了一下，爪子一揮，面前便憑空出現了一瓶墨水和一卷羊皮紙。涅姆諾克將一隻長爪蘸了蘸墨水，開始書寫冗長而晦澀的抄文。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「對於頭腦簡單的傢伙，簡單的指令就夠了。
+
+「把我指名的書帶回來，你就可以挑選你的獎勵。」
+
+涅姆諾克指了指巨大雕像腳下的一堆箱子。它的爪子一點，羊皮紙便出現在你手中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「走吧。不要再浪費我的時間了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「你覺得他得吃了多少精靈才能變那麼大？」
+
+大妖精哼了一聲懷疑地瞪著艾德爾，但似乎並沒打算偷聽他講話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「高興之至。」亞洛斯揉著耳朵向後退去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「啊，我想他肯定有很多重要的事要做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我可憐的耳朵。好吧，我們能走了嗎？」泰克胡用小指挖著耳朵，旁邊的頭髮扭作一團。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我們就沒有其他更好的事能做了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>&lt;ispeech&gt;你對這事有把握吧，船長？甭管有沒有巨魔那麼高，妖精就算被供奉養肥了也沒法開船。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「如果你要留在我的力量之山裡，就得幹活去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我的孩子，我們的誓約需要你忠實無比的服務。
+
+「你做好覺悟了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[攻擊]「我才不會為你賣命，惡魔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「你竟敢蔑視我的信任？那就去死吧！」
+
+涅姆諾克向下一指，充滿怒意的尖嘯聲在整個大廳久久迴盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「沒有……那個必要。謝謝，涅姆諾克。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我該走了。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「絕不會如此，涅姆諾克。我因感恩而知足。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我曾是鎖鏈與奴役下的恐懼與脆弱之神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「如今我憑借知識掙脫了鐐銬，現在我就是一方之主！」
+
+侍僧們的祝禱聲再度響起，在大廳中迴盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「你聽起來有點像司坎，但……你不是司坎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「我只是沒見過你出現於眾神之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「沒有其他問題了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我是涅姆諾克。高山之神。興許還有其他名字，孩子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「不要再問了。就算我的忍耐也是有限度的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我還在幫你四處尋找魔典。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「好極了，孩子。你忠實的服務將會在今生與來世換得獎賞。」涅姆諾克將雙臂交叉在胸前。周圍的許多侍僧也是如此。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我又為何要限制自己向一群心胸狹隘者的議會屈服呢，孩子？」涅姆諾克避開了這個話題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「你沒有追著不放是明智的，孩子。我的侍僧們不該為瑣碎之事鑽牛角尖。」涅姆諾克讚許地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「別辜負了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>&lt;i&gt;「涅姆諾克！涅姆諾克！」&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

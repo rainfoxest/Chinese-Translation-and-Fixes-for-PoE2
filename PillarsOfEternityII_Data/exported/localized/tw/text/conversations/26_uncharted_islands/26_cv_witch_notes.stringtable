@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_cv_witch_notes</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這些筆記是用一種奇怪的代碼寫的。你不知道這些筆記記載的是什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[用你的煉丹術科學知識來破譯筆記。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[用你已忘記很久的語言來破譯筆記。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[把筆記放在一邊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>煉丹術的方程很複雜，需要你對科學的理解非常透徹。
+
+你只要花一點點時間和一點點耐心，就可以將方程破譯得更詳細，並解開剩下部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[破解代碼]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>密碼可以保護筆記內容，這會是你遇到的最複雜的密碼之一。
+
+然而，它對你來說就是小菜一碟，你很快就破解了代碼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你意識到這些筆記是用一種與英格維仙相關的古老語言寫的。
+
+你知道其中一些符號的含義，並可以利用這些符號梳理出這本筆記的要點。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_09_to_hunt_a_god</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>狩神</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>探索島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>前往挖掘場。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>搜索英格維仙遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>風暴過後，俄撒斯的蹤跡即將消失。如果想要跟上他，我們需要在島上找到有關他的跡象的線索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我們在風暴中跟丟了俄撒斯，但是他似乎在我們撞船的時候去往了內陸。
+
+他的身形如此巨大，肯定會留下一些關於他去向的痕跡。探索小島是再次找到他的最好機會了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>國王港的總督提到有數名目擊者都看見了一個「巨人」去往了東面瓦利亞商行鑄魂師們管理的一處挖掘場。我應該去那裡調查一番。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我已經到達了一處巨大的挖掘場，整個設施都圍繞著某種英格維仙遺跡。很明顯這裡巨大的腳印就是俄撒斯穿過這裡時踩出來的，而且這裡與努亞堡一樣都因為他變得一片狼藉。
+
+我最好四處調查一下。也許我能弄清楚他到底在尋找什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>國王港的人們目擊到了一個巨人。也許總督知道更多情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>挖掘場裡的一名靈體說有看見過一道耀眼的光芒。聽上去與將我引入貝拉斯國度的信標很像，但是靈體說光芒已經黯淡。也許俄撒斯的到來與此有關。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我通過英格維仙遺跡內的一根巨大的魂珀之柱與俄撒斯連接了。我取回了仍在他體內的屬於我的精粹碎片，但是在那之後俄撒斯就斷開了與我的連接。他似乎正在從光魂珀中汲取力量。如果這就是他穿行亡焰列島時的力量來源，尋找其他魂珀之柱就能夠幫助我找到他。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

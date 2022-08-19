@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_bad_deal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「這是魔法。」那個聲音說道，「它可以召喚野獸，襲擊你的敵人。這座城市這麼危險，它可以救你一命。你的生命肯定要比幾枚銀幣更值錢吧。」男人的牙齒反射著火光。
+
+「想要的話，就跟上吧。」男人的身影消失在黑暗之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[進入隧道。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>那個海盜嘟囔了一聲。「你還是想要嗎？」他的目光打量著你，「這麼說吧，兩千個子兒。我不知道它&lt;i&gt;值不值&lt;/i&gt;這麼多錢，但這件事還是別讓咱們的朋友們聽見吧。」他指了指角落裡的屍體。「要是我為了個不值錢的東西丟了命，那我肯定會很不高興的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>領頭的海盜往前走了幾步，火把湊近了你的臉，之後頓了頓。「哎喲我天，是[Player Name]？」
+
+另一個海盜舉起了武器。「咱們這一票還幹不幹了？」
+
+「把那東西放下，白癡。這是[Player Name]，是咱們皇族海盜的朋友。」</DefaultText>
+      <FemaleText>領頭的海盜往前走了幾步，火把湊近了你的臉，之後頓了頓。「哎喲我天，是[Player Name]？」
+
+另一個海盜舉起了武器。「咱們這一票還幹不幹了？」
+
+「把那東西放下，白癡。這是[Player Name]，是咱們皇族海盜的朋友。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>在隧道的另一端，是一群拿著火把和武器的皇族海盜。角落裡擠滿了屍體，火光在它們乾癟的眼神中跳動。有的屍體手上纏著繃帶，還有的臉上沾滿了泥巴。
+
+「這群傢伙真是太好騙了，是吧？」那個海盜抽出了武器。「只要拿點奶酪過來，這群外來的老鼠就吱吱喳喳地上鉤了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「把他們給我活剝了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「成交。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>海盜頭領抿著嘴，點了點頭。「合作愉快。」
+
+他接過你遞過來的錢，另一個海盜把雕像交給了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[使用戰技讓皇族海盜目盲。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>海盜們一步步接近你，你向前走了一步，打了個響指。精粹從你身上湧了出來，閃瞎了他們的眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>海盜們一步步接近你，[Specified 0]從你身邊向前邁了一步，打了個響指。精粹湧了出來，閃瞎了海盜們的眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「你差點砍了自己人，這件事辦得可不怎麼樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>海盜頭領鞠了一躬。「要想不砍錯人，只能一個人都不砍。我是個海盜，沒什麼好道歉的……但我的眼睛不像過去那麼好使了，或許這件事我得道個歉。」
+
+其他的海盜看著你們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[試圖逃跑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你轉身就跑，盡可能地在大街小巷中胡亂穿行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你朝隧道入口拔足狂奔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你轉過身，想要從隧道裡跑出去，但一大群海盜衝了過來，擋住了出口。
+
+海盜頭領笑了起來。「你真的以為我們動作那麼慢嗎？你是看到我們有人戴著假腿，才會這麼想，對不對？實話告訴你，我覺得不太高興。我的右胸腔有點難受，你傷了我的心，我也要把你的心捅穿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你轉身就跑，盡可能地在大街小巷中胡亂穿行。謝天謝地，海盜們並沒有跟在你身後。
+
+當你停下來喘氣的時候，才注意到[Specified 1]不知哪裡去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>雖然你只是匆匆看了雕像一眼，但你很清楚，它並不僅僅是個裝飾品。它的內部隱藏著某種潛在的力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「把雕像給我，別磨蹭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>海盜頭領茫然地瞪了你一會兒，之後退了一步。他的手下環顧著四周，還有幾個人準備拔出武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「要花多少錢，才能讓你把那東西交給我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「轉念一想……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>他聳聳肩。「我還以為你是個有錢人呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我們來談談吧，這件事不用靠暴力解決。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>那個海盜笑了起來。「你臉長得這麼蠢，話倒是說得挺好聽。」他歪過了頭。「你覺得一條命值多少錢呢？在我開價之前，你好好想想吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「成交。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>男人從你手裡接過了錢袋。「非常感謝，我尊貴的老鼠，你現在可以走了。」
+
+你沿著來時的方向回去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[進行伏擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「這滑不溜手的傢伙，比你想得更難對付，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「把嘴巴閉上，耳朵張大點！他們可能還在附近……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[通知守衛。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你找到了一位馬塔魯守衛，告訴了他小巷子裡那個可疑的聲音。
+
+「那你覺得，我該拿這件事怎麼辦？」守衛臉上帶著不悅的神色，皺眉問道。
+
+「別問我，這是你的工作。」另一個守衛說道。「行了，趕緊走吧。這群傢伙都像老鼠一樣難抓，不過說不定你能抓住他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>涅克塔卡的貧民區裡，陰暗的角落比有光亮的地方還多，還有些只有胡亞納人才知道的街道和巷子。當你穿過其中一條小巷時，某個聲音叫住了你。你轉過身，發現黑暗中有一隻手伸了出來。蒼白的手掌上放著一尊小雕像。在昏暗的光線下，它看起來更像是一幅剪影。你剛想走過去看清楚，手掌就合了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>第一個守衛說服另一個守衛陪著他一起去，一邊嘟囔著，一邊走了。
+
+「謝謝你的通報。」剩下的那個守衛對你說，「你可以繼續忙你的事情了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>穿斗篷的男人看著其他的海盜。「聽到了嗎？他說，不用靠暴力解決！」
+
+海盜們發出了喧鬧的笑聲。</DefaultText>
+      <FemaleText>穿斗篷的男人看著其他的海盜。「聽到了嗎？她說，不用靠暴力解決！」
+
+海盜們發出了喧鬧的笑聲。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>他揉著下巴，有意做出思考的樣子，然後開了口。「就兩千個字兒吧，這個價格挺公道的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>海盜笑了起來。「或許我們可以放你走，也不至於把你剝得太……」他舔了舔嘴唇，「……太一乾二淨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>塞拉芬搖起了頭。「這句話可沒&lt;i&gt;那麼&lt;/i&gt;有意思，夥計們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「這群狗娘養的！」一個海盜喊了起來，她的吼聲在隧道裡迴響著。又一個海盜罵了起來，指責你使用魔法的行為有多麼卑鄙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>當你跑過轉角的時候，你聽到海盜首領厲聲呵斥著他的手下。「閉嘴吧，情況不好的時候，我們也是這麼幹的。」
+
+你逃到了街上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你拔出武器慢慢向前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>幸好海盜們並沒那麼聰明。他們沒有包圍街道，而是一窩蜂地在身後追著你。
+
+這群水手一開始還能跟得上，但你一個快速的折返跑之後，他們還是被你甩掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 1]拉著你，帶著你在蜿蜒的大小街小巷裡跑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 1]拉著你跑了起來，在狹窄的小巷子中拔足狂奔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>幸好海盜們並不擅長長跑，在一陣漫長的猛跑之後，你甩掉了他們。
+
+海盜們要麼彎下腰，要麼大口大口地喘著氣，他們的身影被越甩越遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>那個海盜失望地放下了武器。「啊，去他媽的。」
+
+「閉嘴，白癡。」海盜頭領哼了一聲，吸了兩下鼻子。「還是說，你想當叛徒，嗯？」
+
+那個海盜趕緊搖頭，挺直了身子。「不敢，老大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「你應該是新來的吧，你好像不知道我是什麼人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>海盜頭領搖搖頭，笑了起來。「很好。」
+
+他伸出一隻戴著寶石戒指的手指，指著你，臉上帶著愉快的笑容。「你以後會是個了不起的海盜。放鬆點，小子們。或許我們確實搶到過這個寶貝，但運氣可比海浪變得還要快。就把雕像交給這個未來的海盜吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[離開]「我這就離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「再見了，夥計。」他向你鞠了一躬。</DefaultText>
+      <FemaleText>「再見了，小姐。」他向你鞠了一躬。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>海盜頭領茫然地瞪了你一會兒，之後退了一步。他的手下環顧著四周，還有幾個人準備拔出武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>海盜頭領茫然地瞪了你一會兒，之後退了一步。他的手下環顧著四周，還有幾個人準備拔出武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>海盜頭領皺起了眉。「好吧，他媽的。」
+
+「你以後一定會成為一個了不起的海盜。或許你應該用你聰明的腦袋好好想想，要不要真的當海盜看看。放鬆點，小子們。把雕像給他吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>海盜頭領笑了起來。「恐怕不行。」他舉起了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>他向你鞠了一躬。「下次再見吧，親愛的朋友。」</DefaultText>
+      <FemaleText>他向你鞠了一躬。「下次再見吧，親愛的朋友。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>海盜頭領歎了口氣。「我猜這地方可以徹底派上用場了。有人想喝酒嗎？」
+
+他看著一具屍體，一隻大老鼠一邊吱吱叫著，一邊爬上了屍體的褲子。海盜頭領向後傾著身子。「行吧，看得出來，你有點忙。我就不打擾你和你的小情人好好享受了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>巷子裡點著一根火把，照亮了某條隧道的入口。你穿過了入口大門。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

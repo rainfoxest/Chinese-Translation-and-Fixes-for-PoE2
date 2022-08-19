@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\16_wahaki_island\16_cv_wahaki_trader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>109</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一名年輕女性走上懸崖的邊緣，一邊露齒而笑一邊往下瞅。她用手指撫摸著狩獵長弓彎曲的表面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「好吧又怎麼了？」琪佩哈皺起眉等待著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「女王奧涅卡莎二世派我來和你們談結盟的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我想交易。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[攻擊]「你以為在懸崖上就安全了嗎？我會證明你大錯特錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「這是什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「答對了。女王肯定走投無路了才派你來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「怎麼，你大老遠跑來居然都不知道來的是什麼地方？」她饒有興趣地歪著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我要和你們的酋長談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你運氣不錯。這座島上只有我和外來者交易。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你只能跟我談。若賽爾從不在外來流浪者身上浪費時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我有貢品要進貢給部落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「若賽爾會在裡面等著你。」她向一名懸崖守衛示意放下升降梯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「這點錢只夠我進去通報一聲。僅此而已。不要浪費機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我是來警告你們的。鉤刺島的奴隸販子們想要報復你們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>琪佩哈的表情凝固了，她將手伸向腰帶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「沒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我想要更深入瞭解你們部落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「更深入？怎麼個深入法？」琪佩哈斜視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我想對偉大的瓦哈奇首領表達我滔滔江水般的敬仰之情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「嗯，若賽爾會喜歡的！我們已經很久沒有看過小丑的滑稽表演了，最後一次看的是索波魯喝了柯基果酒後從瀑布上跳下去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>她將兩根手指放入口中，吹響了刺耳的口哨聲，使整座堡壘裡的人處於全面警戒狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「又是你。你想怎樣？」琪佩哈雙手叉腰，皺著眉俯視你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「如果你是來跟我閒聊的，那盡量長話短說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我要走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你為了動物毛皮而進入叢林，卻來到了一片空地上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>聽著，我只想好好談談。我們能談談嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[離開]「我回到了自己的船上，那裡很安全。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我能進去嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「只有瓦哈奇族人能進入奧里奧柯基。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我很熟悉你的膚色，但你依然是外來者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你或許是亡焰列島本地人，但你依然是外來者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「明智的選擇。」她揮揮手趕你走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[攻擊]「沒什麼正事要談。只有投降條件。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>你把一袋錢拋了上去。琪佩哈順手接住，並輕輕地擠壓了一下，以判斷裡面有多少錢。
+
+她雖然收了你的錢，但看起來還是十分侷促不安。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「有人闖進來了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「謊話連篇的外來者。你打算先贏得我們的信任，然後把我們的側翼暴露給敵人！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「你佔領著高地。我要是耍花招只是自尋死路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我與各部落無冤無仇。我過去為他們做了很多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「他們派我來殺你們，不是和你們談話。我和你談本身已經是一種冒險的行為。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>她緩緩地點點頭，一臉戒備的神情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「外來者，無數雙眼睛在盯著你。你要合理利用在奧里奧柯基的時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[攻擊]「你說得沒錯。我第一個拿你開刀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我想瞭解在古代災難中倖存的人民。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「我想瞭解亡焰列島最令人敬畏、名氣最大的部落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「我想研究瓦哈奇部落的人民和生活方式。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「沒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>她點點頭，放鬆了戒備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>她向腰帶垂下手，說明她要麼沒明白你的意思，要麼不喜歡你說的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>她的表情凝固了，有那麼一刻，你以為她會跟你動手。接著她咧嘴放聲大笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>她立刻站直身子重新上下仔細打量你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我們記得與涅克塔卡城的女王訂立的古老契約。契約的密語是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「亡焰列島必勝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「越過破碎的山脈，渡過腐敗的海洋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「受詛咒的柯基果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我……啊，忘記密語了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>她慢慢搖搖頭。她拿起弓，朝你的腦袋射出一箭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[撒謊]「女王奧涅卡莎二世派我來和你們談結盟的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你一彎腰，成功地躲過了這支箭。琪佩哈暗自罵了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>箭只射中了你的肩膀，但依然疼痛難當。琪佩哈看到你的狼狽樣，發出刺耳的笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「你面前的是瓦哈奇部落的大本營。這是我們的堡壘、避難所和神廟。這裡不歡迎外來者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「你轉身原路返回到了你的船上。那裡很安全。」
+
+她拾起獵弓，搭上一支箭，瞄準了你的方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[聽下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「嗯，空地上&lt;i&gt;空無一物&lt;/i&gt;。你一個問題也沒問。」她生氣地俯視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我沒有啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「如果你無法聆聽，那就別想談。」她歎了口氣，將箭頭指向了地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「不行。你以為我站在這裡是為了鍛煉身體嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[攻擊]「我無視了她的屁話，亮出武器發起了衝鋒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「你駛向遠方的國度，沒有再提及你並沒有看到的東西。」她瞥了你一眼以示警告，然後快速點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「關於本地人，有什麼事情我需要知道嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我為了更多的利益幹過更糟糕的事。假如我撒謊，你肯定能看出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「我每遇到一個民族都會做記錄。純粹是個人喜好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「你少忽悠我。根本沒有密語。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「布拉波是我們的神秘主義者。他確信假如他不堅持每天敬拜神明，這座堡壘就會倒塌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「至於其他人……呃。你就自己去問周圍人吧。我在這裡不是負責滿足你好奇心的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「鉤刺島的奴隸販子膽子不小，敢派刺客來這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「對這份看起來怪怪的柯基酒有什麼瞭解嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>她皺著眉，仔細審視你手中的果實，並用食指輕輕的戳了它幾下。
+
+柯基果被戳得搖搖晃晃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「別吃這玩意兒！」她用雙手做著複雜的施展結界的手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「這個果子已經長蟲了。林中的害蟲黃蜂將幼蟲產在了這顆柯基果內。」她朝林中瞥了一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「我會警告其他人。前往別吃這玩意兒，除非你想要蟲子在你的氣管上鑽洞，把你的五臟六腑全吃光。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「我想找到鉤刺島並消滅其頭目。她或許會對此感興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>琪佩哈依然面無表情，但不由自主地朝懸崖邊挪了幾步，饒有興致地仔細打量你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「我怎麼知道你是不是和其他外來者一樣謊話連篇呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「冒生命危險的是我。最糟糕的情況是我在鉤刺島丟了性命，而你們不會受任何影響。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「我想徹底剷除鉤刺島這個禍患。這對你我都大有裨益。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「聽著，你就放我上去吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「這兩種情況聽起來都不錯。」琪佩哈瞇起了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「你贏得了和若賽爾見面的機會。外來者，當心別跌到了。」她朝懸崖下啐了一口，厭惡地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「哼。你做夢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「你的話很動聽，可你要是敢騙我……」琪佩哈歎了口氣，體側的雙手握緊了拳頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「嗯，不說話是明智之舉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「很好，就是這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「你跟天靈碎片一樣老是不停地出現。」她朝泰克胡點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「有東西吸引著我一次次回到奧里奧柯基。」泰克胡朝她眨眨眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「你這話可別讓奧阿塔聽到。」她皺起眉重新看向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「哼！居然企圖像買麵包一樣買到信任，外來者真是愚不可及。」她厭惡地俯視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「你以為信任可以買到嗎？你和外來者處得太久了吧。」她雙手叉腰，朝你歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「但願我們其他人的世界觀不會變的和你一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「如果你們想比外來者活得更久，就得採用他們的思維方式。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「就把這當做我為你們必然的勝利略盡綿力吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「那就當我什麼都沒說過吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「我倒想呢。」她交叉雙臂，等待著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「如果這些錢能餵飽你們的戰士，那就沒有白花。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「由於你將自己的身份從『討厭的傢伙』成功變成了『賓客』，你想交易時可以來找我。」
+
+琪佩哈交叉起雙臂，離開了懸崖邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我要找個地方休息一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

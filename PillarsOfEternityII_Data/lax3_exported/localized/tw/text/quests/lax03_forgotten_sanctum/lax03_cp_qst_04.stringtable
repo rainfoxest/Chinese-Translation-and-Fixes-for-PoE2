@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_cp_qst_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>內部謎團</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>進入沃艾珥的身體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>清掉沃艾珥的膽汁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>進入神秘之心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>向繕寫室的記憶存儲儀提供正確的記憶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>面對沃艾珥的先知。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一個叫&lt;b&gt;費歐雷吉&lt;/b&gt;的強大法師進入了神明沃艾珥&lt;b&gt;龐大的身體內部&lt;/b&gt;。如果我想要阻止殺害昴拉的兇手，阻止他讓這龐然大物聽從於他的意志，我就必須&lt;b&gt;找到他&lt;/b&gt;，否則他會造成更嚴重的危害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>獻祭之後，我可以進入&lt;b&gt;沃艾珥的身體&lt;/b&gt;了。我可以繼續&lt;b&gt;追費歐雷吉&lt;/b&gt;了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>費歐雷吉跑到了&lt;b&gt;身體更深處的地方&lt;/b&gt;，要進入那裡，必須穿過一條&lt;b&gt;充滿酸性膽汁&lt;/b&gt;的管道。如果想找到他的話，我必須先&lt;b&gt;把管道清理乾淨&lt;/b&gt;。或許我可以&lt;b&gt;干擾膽汁的流向&lt;/b&gt;，讓它不再流進管道裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>儘管有&lt;b&gt;危險的膽汁&lt;/b&gt;攔路，我還是進入了管道深處。我現在可以&lt;b&gt;跟著費歐雷吉進入神秘之心&lt;/b&gt;了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>為了&lt;b&gt;進入沃艾珥的身體&lt;/b&gt;，我必須將在檔案庫中找到的記憶&lt;b&gt;上傳&lt;/b&gt;到繕寫室的&lt;b&gt;記憶存儲儀&lt;/b&gt;中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>費歐雷吉從沃艾珥的先知處&lt;b&gt;奪走了控制權&lt;/b&gt;，還不知用了什麼辦法，把自己的靈魂變成了千眼異型。現在，&lt;b&gt;我必須從他的猛攻中活下來&lt;/b&gt;——這場戰鬥將會決定&lt;b&gt;沃艾珥的身體何去何從&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我找到了一條巨大的堅韌管道，可以將膽汁導入中央通道。或許我可以&lt;b&gt;想辦法把它破壞掉。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;有一隻巨大的眼睛&lt;/b&gt;控制者西側腸腔內酸性膽汁的流動方向。我必須想辦法&lt;b&gt;干擾它的正常運轉。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>這軀體會將膽汁從&lt;b&gt;腔體內的儲液器運到東邊&lt;/b&gt;。我沒辦法改變儲液器本身，但或許我可以&lt;b&gt;對膽汁做些什麼手腳。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我用炸彈炸毀了南部腸道的管道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我讓巨大的眼球停止了工作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我凝住了東邊儲液器中的膽汁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText> 我得到了&lt;b&gt;一瓶除菌藥膏。&lt;/b&gt;如果&lt;b&gt;把它和別的什麼東西混合起來&lt;/b&gt;的話，或許可以擾亂身體的正常運轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>其中一個管理人在筆記中提到，&lt;b&gt;把除菌藥膏與真菌材料混合在一起&lt;/b&gt;，可以調製出&lt;b&gt;效果極強的凝血劑。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>我得到了&lt;b&gt;除菌藥膏&lt;/b&gt;與&lt;b&gt;真菌材料。&lt;/b&gt;如果在東側房間的&lt;b&gt;容器中將它們攪勻&lt;/b&gt;，它們應該足以堵塞管道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>我得到了一個&lt;b&gt;煉金炸藥&lt;/b&gt;，威力足以炸掉黑島上的火山岩。&lt;b&gt;用它來炸掉膽管&lt;/b&gt;應該是小菜一碟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我消滅了沃艾珥的先知，這樣一來，我也殺死了沃艾珥的神軀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我饒了沃艾珥的先知一命。沃艾珥的神軀應該會再次陷入沉睡，不再會被打擾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我說服了沃艾珥，他會利用他的神軀來幫助我追殺俄撒斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我殺死了沃艾珥的先知，把沃艾珥的神軀交給了檔案庫的菌怪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>我饒了沃艾珥的先知一命，把沃艾珥的神軀交給了大法師康賽豪。 </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

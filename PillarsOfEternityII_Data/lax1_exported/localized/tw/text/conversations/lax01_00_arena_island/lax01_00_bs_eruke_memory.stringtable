@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_bs_eruke_memory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「別再胡鬧了，是時候了。斧頭很鋒利，她一點痛苦都不會感覺到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「不要！求求你了！這頭豬是我的朋友。明明還有那麼多別的豬，為什麼不去殺它們啊？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「別的豬也都躲不過這一刀。如果想活過這個冬天，咱們就必須把倉庫裡堆滿吃的，要養活的東西越少越好。行了，別再這麼幼稚了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

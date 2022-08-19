@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_murder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>不斷急促敲你的門。[Specified 3]站在門口，甲板上人聲鼎沸。
+
+「抱歉，船長，但是我們有個問題需要你解決。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「把謀殺犯扔下船去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「昂德拉將是這事的審判者。綁在船底拖曳[Specified 1]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「給我拿鞭子來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「把[Specified 1]的繩子解開。現在。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>水手們高呼著走到船對面，把謀殺犯扔下船。當他們把[Specified 1]舉起來，塞在嘴裡的布掉了下來，她尖叫著說她是無辜的。但轉眼間她已被扔出船外，除了淺起的水花和幾聲低吼，就一切安靜了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>繩子迅速穿過欄杆，發出劇烈的唰唰聲，然後就繃緊了。水手們退到船尾，撈出一個血淋淋的失去去意識的人。
+ 
+[Specified 1]仍然還活著，按海上規則，懲罰已經結束。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>水手們對這一決定發出噓聲。你擰緊皮鞭，把血從皮條裡絞出來，並告訴大家回去幹活。
+
+[Specified 1]被麻木地吊在桅桿上，[Player Ship]繼續航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「到此為止。」 [Specified 3]肩上扛著短棒說道。「船長有令。散了散了，回去幹活！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>繩索一直滑動著，直到一個繩結卡在絞車上，[Specified 1]被拖到船身下方長著動物甲殼的位置。血肉泡沫開始冒上來，在船後的水跡中翻滾。
+
+你告訴船員，就說謀殺犯已經死了，並把繩索鬆開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「有沒有證據證明[Specified 1]犯了這宗謀殺罪？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「船長！」[Specified 0]對侮辱被指控 者。「我們在[Specified 2]的脖子上發現了[Specified 1]的皮帶！你們我就不知道了，我的皮帶只是拉屎和辦事的時候才會解開。或許在城市來說這不算證據，但我們是在無邊無際的大海上，相互之間無法防範，絕不能出現謀殺犯！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"[Specified 1]整個月在說[Specified 2]欠了多少錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 3]對被指控者皺著眉頭。「船長，[Specified 1]一直在煽動對[Specified 2]的怨恨已有一段時間了，談論後者在上個港口時的放蕩行為。這也已經不是什麼秘密了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「有目擊者嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>水手們你看看我，我看看你。
+
+「有嗎?」[Specified 3]問道。「你們聽到船長的話了。有人看到這莊謀殺案的發生嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「當然沒人看見了！」[Specified 0]擦了擦鼻子說道，「船員們都在值班或睡覺，跟往常一樣！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Specified 0]對著被捆綁且嘴被塞住的[Specified 1]伸出手指。
+
+「我們已獲得所有必要證據了，船長，不用擔心。只要你發話，我們就迅速解決這事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「告訴我發生了什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「船長，像別人一樣，你也很清楚，絨精在有機可乘的時候是有點嗜殺瘋狂的！」[Specified 0]抓住[Specified 1]的頸背將絨精推上前來。「在這個的黃色小牙齒上有血跡！你覺得這會是巧合嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我記得你說[Specified 2]是被勒死的。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我相信這件事情跟你們說的這些廢話毫無關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「他們是邪惡的小野獸，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 3]看著你。「船長，你有什麼命令？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「這麼說，你是說因為絨精是謀殺犯，所以[Specified 1]有罪？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「呃，當然不僅僅因為這點，船長……」[Specified 0]的目光移開，「我的意思是，並不是人人都能克服自己的天生本性。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 4]咯咯笑了起來，然後眨了眨眼。「老天，你不是認真的吧，是嗎，船長？」
+
+[Specified 0]憤怒說道。「哦，船長是認真的。給那傢伙鬆綁。」其他船員放了[Specified 1]。「這樣我們沒人能安心睡覺了，船長。鬼知道下一個會是誰被勒死？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"[Specified 1]在甲板下面勒死了[Specified 2]。我們會把化神崇拜者扔下船，但是……你的船，你說了算。」
+
+[Specified 4]在甲板上大叫：「而且還說你應該比老混蛋船長更加睿智。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>在甲板上，你看到[Specified 1]被繩子綁著，嘴被堵住。[Specified 2]躺靠著舷牆，幾個船員蹲伏在旁邊，淚流滿面，他們把一塊裹屍布蓋在臉色蒼白的屍體上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>船員相互拍著彼此的背，對正義的伸張感到欣慰，[Player Ship]繼續航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Specified 3]莊嚴地把皮鞭遞給你，皮鞭是馬革做的握把，綁著分層的皮革，每條皮革釘有鯊魚牙齒和魚鉤。 
+
+[Specified 0]和[Specified 4]控制住了[Specified 1]。被定罪者伸長脖子，絕望地看著你，尖叫聲因嘴被堵著而聽不清。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>你每一鞭子下去，鞭子就將皮肉深深勾住，需要使勁拉才能拉出來。
+
+三鞭子後，[Specified 1]昏了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[繼續鞭打。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「懲罰夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>你回頭看看船員們，又揮起了鞭子，繼續鞭打。倒鉤一次次撕扯著[Specified 1]的背，撕下大塊大塊的肉，甲板上鮮血四濺。
+
+你直到看到肋骨和脊椎以及內臟方才住手。你離開，將屍體留給你臉色蒼白的船員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>水手們相視而笑。
+
+「老天，」 [Specified 4]說道，「我就告訴你說船長知道如何處理這事！」
+
+「你說的是綁在船底拖曳？」[Specified 0]咧嘴笑道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「你似乎聽得很清楚了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「按慣例，[Specified 0]。讓昂德拉判決。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>船員把掙扎的[Specified 1]推到船首，繩索的一端拴到她的腳上，另一端系到錨上。當[Specified 0]把她從船上推下去時她試圖尖叫，但嘴被堵著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 0]笑了起來，拍著[Specified 4]的背。「拿繩子來，把那個謀殺犯扔下船去。我們看看大海將如何懲罰這罪行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「如你所願，船長。」皺了皺眉，[Specified 0]轉向另一名船員。「讓我們看看昂德拉的意志是怎樣的。」
+
+其他水手齊聲喊著：「船底拖曳！船底拖曳！船底拖曳！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>船員把掙扎的[Specified 1]推到船首，繩索的一端拴到她的腳上，另一端系到錨上。當[Specified 0]把她從船上推下去時她試圖尖叫，但嘴被堵著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「當然沒人看見了！」[Specified 0]擦了擦鼻子說道。「船員們都在值班或睡覺，跟往常一樣！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1]蹣跚離開甲板水手時，衝你微微一笑，一邊按摩著她的手腕上被鐐銬卡傷的地方。
+
+[Player Ship]繼續航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1]蹣跚離開甲板水手時，衝你微微一笑，一邊按摩著他的手腕上被鐐銬卡傷的地方。
+
+[Player Ship]繼續航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>船員把掙扎的[Specified 1]推到船首，繩索的一端拴到他的腳上，另一端系到錨上。當[Specified 0]把他從船上推下去時他試圖尖叫，但嘴被堵著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>船員把掙扎的[Specified 1]推到船首，繩索的一端拴到他的腳上，另一端系到錨上。當[Specified 0]把他從船上推下去時他試圖尖叫，但嘴被堵著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>水手們高呼著走到船對面，把謀殺犯扔下船。當他們把[Specified 1]舉起來，塞在嘴裡的布掉了下來，他尖叫著說他是無辜的。但轉眼間他已被扔出船外，除了淺起的水花和幾聲低吼，就一切安靜了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「呃，是的。我的意思是，它有手和手指，都有，是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[搜索[Specified 2]的靈魂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>你釋放你的靈識，搜索[Specified 2]可能留下的任何蛛絲馬跡。你什麼也沒找到。受害者已經走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「當然，小子。這就是你所說的，好吧。」
+
+塞拉芬以細縫般綠黃色的眼睛注視著那人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"[Specified 1]在甲板下面勒死了[Specified 2]。我們會把化神崇拜者扔下船，但是……你的船，你說了算。」
+
+[Specified 4]在甲板上大叫：「而且還說你應該比老混蛋船長更加睿智。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「[Specified 1]捅了[Specified 2]，那個可憐蟲死了。」[Specified 3]歎息道。「可能應該由你來解決。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 3]向集合的水手們示意。「[Specified 0]在下面的吊床裡找到了[Specified 2]，[Specified 1]的匕首連同握柄一起深深插在肋骨之間。」
+
+[Specified 0]點點頭，前額冒汗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「幾名水手挨罵，[Specified 1]用一把錘子擊倒了[Specified 2]。這個可憐的人失血而亡。」[Specified 3]皺眉說道。「半數的船員想把[Specified 1]扔進酒裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>你又多施了兩個法術以喚醒[Specified 1]，水手的頭無知覺地靠著桅桿。被定罪者的背部鮮血直流。
+
+船員們看著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[繼續鞭打。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「[Specified 2]醒來了，但脖子被勒著，他低頭看到一個鼓鼓的錢包在[Specified 1]的枕頭下面！」
+
+[Specified 1]想掙脫鐐銬，但受其他船員嘲弄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「[Specified 2]醒來了，但被捅了一刀，硬幣也找不到了！」
+
+[Specified 1]想掙脫鐐銬，但受到其他船員嘲弄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「[Specified 2]碰巧在爭吵中被[Specified 1]重重一擊。廢話！」
+
+[Specified 1]想掙脫鐐銬，但受到其他船員嘲弄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「我看見了。」[Specified 0]往前站了出來。「我的意思是，我沒有真正看到事情的發生，但我看到那個混蛋，我是說 [Specified 1]，在事情發生後從船艙跑上來。」那名船員對[Specified 2]唯唯諾諾的樣子感到不滿。「那就是我如何發現屍體的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「不，船長，」[Specified 4]說道，「但我看到[Specified 1]今天下午磨那把匕首。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「船上氣氛不怎麼緊張，船長，」[Specified 0]說道。
+
+「遵命，」[Specified 4]咕噥著說。「只是在釋放一些過剩精力。要不是[Specified 1]用那把錘子發瘋，把[Specified 2]的頭蓋骨當釘子敲，一切應該好好的。只有上帝知道是什麼促使那混蛋那麼幹。」
+
+[Specified 0]點頭，認同該說法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「因打牌上演全武行，船長，」[Specified 0]說道。「沒用武器，但你知道，結果[Specified 2]被打倒了，[Specified 1]手裡拿著棒子。」
+
+[Specified 3]皺著眉頭說。「聽起來可能是意外。」
+
+「不是意外，」 [Specified 4]咕噥說，「[Specified 1]是個殺人犯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

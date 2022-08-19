@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_sick</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>101</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0]在你的船艙裡找到你。透過打開的窗戶，你可以聽到你的一名水手劇烈乾嘔的聲音。
+
+「如果這樣繼續下去，船長，你的船員將無法讓船航行。他們幾乎都不能正常工作了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>疾病開始慢性發作。個別船員咳嗽，個別船員發抖。但很快在全體船員中暴發，就像兇猛的波濤橫掃甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[找到船上的外科醫生。]「你能告訴我為什麼我的船員都病了嗎，[Specified 1]？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你覺得我應該怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「打開藥物儲備。每個人拿需要的藥物，直到病好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「收帆拋錨。我們要停下來解決這個問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[找到船上的外科醫生。]「你能告訴我為什麼我的船員都病了嗎，[Specified 1]？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你覺得我應該怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「打開藥物儲備。每個人拿需要的藥物，直到病好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「收帆拋錨。我們要停下來解決這個問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>我們要消除這些毒素帶來的折磨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[祈禱神靈幫助。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我感覺好像五臟六腑都爛了一樣。」外科醫生回答說。「可能與你讓我們放在船艙中的那些死魚有關。但我並非責怪之意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 1]考慮。「至少你應讓生病者盡可能多休息。如果你認為我們還有多餘的藥物，那現在是最應該使用的時候了。」
+
+醫生皺眉說道。「為了獲得最好的結果，雙管齊下吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specified 1]劇烈咳嗽，吐痰。「是那個傢伙幹的好事，船長。從那艘瘟船傳染來的，我懷疑。不太可能死人，但會讓大家虛弱，容易發生事故。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「最好的辦法是用藥物治療。可能我們的庫存足以治療所有人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你命令打開藥箱，向船員發放藥物。船員們發抖且臉色蒼白，他們感謝你，期待戰勝疾病。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你像個仁慈的善者在飽受病痛折磨的船員當中走來走去。你用輕聲的聖歌和結界手印安撫你的水手們，平息他們對捕撈的病魚產生的憤怒。每個人都感謝你，期待戰勝疾病。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>雖然並非完全情願，但泰克胡還是在船員中走動，用他的淨化魔法和魔力恩惠每個受病痛折磨的船員。他讓每個水手比原來更健康了，船員們深深感謝你們倆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>船員們執行著你的命令，船停了下來。船員們都從他們的非常駐崗位下來，在欄杆邊盡量休息以恢復到最佳狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>疾病逐漸過去，隨著船員能吃能喝，他們的精神也好轉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>在[Specified 1]的指導下，水手們打開香藥草包，用杵和臼搗碎葉子。
+
+很快每個船員都在他們的胸口敷上厚厚的一大塊芳香藥膏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你召喚你的守護神——雙面死神不要眷顧你的船，並清除船員們遭受的疾病。隨著水面升起一片霧氣，一股寒意降臨船上。風停了。
+
+大約一小時的時間，船遇到霧朦朦的無風期。[Specified 2]發誓說在船首左舷聽到低語聲。
+
+然後，一下子霧散了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>即使沒有其它工作要做，船員們看起來病得越來越嚴重。 [Specified 4]幾乎下床都困難。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你要我向死神禱告？」裘荻饒有興致地噘起嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>經過神聖的洗禮後，你感覺被淨化了。船員們唱起讚美神靈的聖歌，高興地把手頭有的任何硬幣或小玩意祭獻給神靈。
+
+你繼續航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「讓每個人回去幹活。我們有要去的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「讓每個人回去幹活。我們有要去的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 0]把你的命令傳了下去，引起船員們一陣抱怨。
+
+船在疾病的籠罩下繼續航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>船揚帆啟航，由於船員得了凍骨病，花的時間比預想的多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 5]召喚神靈幫助，淨化能量瀰漫整艘船，強化了船上的一切。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 5]在船員當中走動，平靜地誦唱和作出結界手印緩解員們的消化不良。每個船員感謝你們倆，期待戰勝疾病。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「讓我們幫助他們恢復健康。拋錨，確保每個人得到需要的藥物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你命令收帆並分配藥物給水手們。經過治療和康復，船員們很快又生龍活虎了。當甲板上響起水手號子，你知道他們又準備好揚帆啟航了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「一切照舊！滿帆前進！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>船員返回工作，但隨著凍骨病傳開，他們連簡單的任務也無法完成。沒有人掌舵，沒有人操縱索具，船停了下來，任由漂泊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>隨著時間的推移，疾病繼續發展。然而，船員們悶悶不樂地履行著自己的職責。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>醫生輕輕搖了搖頭，皺著眉頭。「是該死的腐疫，船長，跟那艘瘟船的一樣。如果我們帶病航行，將來肯定會損兵折將。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「凍骨病，」[Specified 1]絕望地回答道。「那艘瘟船上傳染來的。如果不治療會要人命的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>疾病就像突然暴發的東北風暴橫掃全船。無論何時，好像總有半數的船員讓自己身體的一端懸在欄杆外，另一端浸在水桶裡。
+
+那氣味甚至能刺激你眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>船員們感激獲得休息的機會，雖然不斷的咳嗽使他們疲勞不堪。接下來的幾天，疾病繼續發展。當船又重新啟航時，船員們都不願意前往蔚藍的大海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>船啟航了，但因船員受疾病折磨，時間進度落後。
+
+你聽到甲板上傳來一聲大叫，然後是重重的「砰」的一聲。[Specified 3]頭昏眼花，從索具上掉了下來。這名船員現在得了腦震盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>船員們返回工作，但隨著腐爛病傳播，他們越來越痛苦。很多船員身上發生潰爛，大多數人至少有一隻眼睛而發腫睜不開，並且還長了一層老皮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>一天之內，沒有哪個船員是呼吸輕鬆的。每個人咳得嗓子痛，吐出帶血的痰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>很快，你的船員變成了全身流膿、眼睛腫脹，還有粗糙皮疹的罹患者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>你的船員們在甲板上慢吞吞地走著，工作也不怎麼起勁。他們的腰間和腳踝突出一個個骨刺。當骨刺穿破他們的皮膚時，隨之而來的是鮮紅滲血的傷口。
+
+船上到處是痛苦的哀嚎聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 0]在你的船艙裡找到你。透過打開的窗戶，你可以聽到你的一名水手劇烈乾嘔的聲音。
+
+「如果這樣繼續下去，船長，你的船員將無法讓船航行。他們幾乎都不能正常工作了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1]帶回來數瓶很濃的褐色薊花油。這種油膩膩的藥膏塗在身上的疾病感染區域時引起不舒服的劇烈刺痛感。
+
+很快，每個船員皮膚上都塗上了大大小小的褐色粘塊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1]從船艙回來，帶來一小箱深黑色的土壤。「全身腐蛆，」水手咕噥著說，「它們會將導致骨刺的疾病源頭全部吃掉。它不漂亮也不討人喜歡，但它能夠挽救生命。」
+
+每位船員輪流到[Specified 1]，讓他們的病變肉體接受昆蟲處理。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>你向光明之子祈禱，不禁想起促使你來到亡焰列島的緣由。當你誦唱時，天空的顏色變成了黎明的玫瑰紅。黎明之光落到甲板上，溫暖著休息的水手們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你祈禱火焰女神燒滅你的船員的疾病。隨著你的身體發燒，你開始感到頭暈目眩。隨著高燒嚴重，你摔倒在甲板上，模模糊糊聽到其他船員不舒服地咕噥著。
+
+燒退了，亡焰列島的涼風吹乾你的汗水，你的思緒又清晰了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>你向你的守護神——復仇之神祈禱，提醒他你的船員需要力量來祈求神靈降世。影子拉長，黑暗降臨船上。所有蠟燭的燭光在風中搖晃。
+
+[Specified 2]和[Specified 3]發誓說看到一個不熟悉的人潛伏在甲板下面，但搜查卻什麼也沒有。
+
+終於，無邊的黑暗過去，迎來了亡焰列島的自然之光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>你向神秘之神祈禱，祈求從這些疾病解脫。
+
+一切進入黑暗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>通過適當治療，船員很快康復了。很快他們在甲板上朝著地平線高唱起水手號子。
+
+你繼續航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>你在艏樓上很快恢復意識，背對大海站在那裡。其他船員環顧四周，一臉茫然。
+
+疾病沒有了，但是兩天也過去了，沒有船員記得其間發生了什麼。
+
+你永遠不明白。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Specified 1]把手弄成杯形從他的嘴抹過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Specified 1]捏她的鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 0]重新出現。「抱歉，船長，存備藥物快用完了。我們沒有船員需要的藥物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 0]重新出現。「抱歉，船長，存備藥物快用完了。我們沒有船員需要的藥物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>你命令收帆，並升起一面綠旗在主桅桿上警告其它船隻離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[等待疾病結束。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>船員們在甲板上怒目而視，關節上突出的骨刺使得有些人看起來像是全副武裝的工作性構裝體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>第二天，[Specified 2]隨[Specified 4]一起上了黃泉路。第三天[Specified 0]也隨他們去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>第二天，[Specified 2]隨[Specified 4]一起上了黃泉路。第三天[Specified 0]也隨他們去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>幾個小時後，[Specified 0]來找你。「壞消息，船長，[Specified 4]去世了。在我們將屍體送往昂德拉的懷抱之前，我們將讓[Specified 2]說幾句話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>幾個小時後，[Specified 0]來找你。「壞消息，船長，[Specified 4]去世了。在我們將屍體送往昂德拉的懷抱之前，我們將讓[Specified 2]說幾句話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Specified 0]敲門。「抱歉給你帶來壞消息，船長，但是[SkillCheck 0]出現了凍骨病的症狀。那是一種棘手的疾病，最終會讓船員死去。」
+
+水手的目光移往別處片刻，然後看著你注視的目光。「你有什麼命令？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「讓[Specified 1]看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「把[SkillCheck 0]關在住處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「不能冒傳染的風險。我會把[SkillCheck 0]扔下船去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 0]皺眉。「已照做，船長。醫生確認了。他說唯一能做的就是吃藥和休息，即使那樣，也會有傳染的風險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「那就吃藥和休息吧。確保[SkillCheck 0]獲得藥物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我不能殺了自己的朋友！我們會找到其它辦法的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0]移開目光。「遵命。同時還得？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>船員隨便敬了一個禮。「遵命，船長。」
+
+[Specified 0]離開你，[Player Ship]繼續航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 0]點了點頭。「艱難的決定，但是正確的決定。「我將確保……將病人隔離。」
+
+當你到甲板上時，[SkillCheck 0]跪在你面前，被綁著腳踝和手腕。白花花的骨刺從繩索之間突出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>亞洛斯看著你的眼睛，好像他已在盼望這一刻。他虛弱地點點頭。
+
+「這是正確的決定，[Player Name]。重要的是找到俄撒斯。」他因疼痛而面部抽搐並發抖。
+
+「我已盡我所能了。但剩下的由你決定——就像以往一樣。或許我們下輩子再見。」他最後痛苦地向你微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「我隨你處置。你必須堅持到最後。
+
+「但是幫我個忙。告訴俄撒斯他有很多很棒的追隨者。告訴他，他仍然要對追隨者負責。
+
+「你告訴他，他欠他們的。」艾德爾從咬緊的牙齒間呼吸。他看著你，等待著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「伊希……現在你跟船長了。我說不，你個笨蛋！我……」
+
+沒有遵循她的命令，伊希薩留在麥婭身邊，輕輕吻著她的耳垂，輕柔低語。麥婭痛苦地臉部抽搐，但是沒有再抗議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>帕蕾吉娜瞇起金色的眼睛，死死盯著你。
+
+「這些病並非不治之症，你知道的吧。也許你不知道。也許你壓根兒不在乎。」
+
+她轉身背對你。
+
+「如果這麼做能令你覺得自己是個很了不起的船長，那你就得一不做二不休。別讓船員們覺得你心中還存有一絲仁慈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>他皺著眉頭吐了口痰。「這對誰都不好，你知道，靈視者船長。凍骨病是有人倖存的。我自己已經倖存過兩次！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「究竟我做了什麼，上帝讓我到這個世界上來就為了讓我這樣可憐的結束？那些牧師……他們的預言是錯的，在我看來。
+
+「亡焰列島才是有病的。」
+
+被擊敗後，泰克胡沒有再與你對視。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「靈視者，如果你覺得這麼做就會讓我停止履行職責，那你就錯了。就算這具肉體腐朽，我還有別的履行職責的方式。」
+
+裘荻高昂著頭，看向大海，做好了葬身水底的準備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[SkillCheck 0]掙扎著想擺脫鐐銬。「請不要這樣做，[Player Name]！肯定還另有辦法！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[把[SkillCheck 0]扔下船。]「對不起，朋友。如果還有別的辦法拯救所有人的話……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[把[SkillCheck 0]扔下船。]「我不想這樣，你也不想，全體船員也不想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[把[SkillCheck 0]扔下船。]「我很抱歉你沒有早點得凍骨病。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[把[SkillCheck 0]扔下船。什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「……我做不到。把[SkillCheck 0]關到住處！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>沒有其他儀式，你直接把被囚禁者扔到欄杆外面。一聲尖叫後是不大的濺水聲，這就是你從[SkillCheck 0]聽到的最後聲音。
+
+船員們面面相覷，表情緊張。你不知道他們究竟更怕什麼——瘟疫還是船長。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>船繼續航行，讓大家鬆口氣的是，沒有進一步的病發跡象出現。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>船員交叉雙臂發出歎息，目光與你的注視交匯。「如果這病傳開，船長，我們沒有藥物可以治療所有船員。大家將會死去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>船員交叉雙臂發出歎息，目光與你的注視交匯。「如果這病傳開，船長，我們沒有藥物可以治療所有船員。大家將會死去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「你聽見我怎麼說的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「你聽見我怎麼說的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「假如我們所有人都已時日無多，那我應該可以祈求我們的靈魂安全通過地獄。」
+
+她點點頭，然後低下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「至高無上的俄撒斯啊，您有無數化身，其中最偉大的乃是岡恩。我懷著感恩和無盡的崇拜之情，謙卑地向您禱告。神啊，請聆聽我的話語，憐憫您處於水深火熱中的信徒吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「我們穿越死亡的黑暗瘟疫時，並不畏懼即將到來的收割。因為您的燈籠會給我們指明方向。您已為我們鋪好了穿越地獄的道路，而我們也不會跌跌撞撞或偏離路線。我們欣然接受生命的終結，並剝去腐爛的軀殼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「然後，我們會經由您之手獲得重生。」
+
+「直到永遠，正如滾滾的貝拉斯之輪，」
+
+「阿門。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[SkillCheck 0]掙扎著想擺脫鐐銬，被塞住的口中嘟噥著聽不清的哀號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[SkillCheck 0]掙扎著想擺脫鐐銬。「請不要這樣做，[Player Name]！肯定還另有辦法！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

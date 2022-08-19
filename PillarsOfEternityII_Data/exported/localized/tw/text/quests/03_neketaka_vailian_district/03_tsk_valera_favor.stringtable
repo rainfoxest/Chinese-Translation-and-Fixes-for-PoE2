@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_valera_favor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>更大的收穫</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到水手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>說服水手離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>回去找馬蒂諾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>馬蒂諾想要將幾名努瓦泰水手趕出女王港酒館。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>馬蒂諾想要將一群亡焰皇家商行水手趕出女王港裡的野牝別館。他看上去傾向於永久性的處理方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我猜我已經找到馬蒂諾提到的那群人了，他們正在&lt;b&gt;野牝別館&lt;/b&gt;的陽台上狂歡。現在我得請他們離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我已經擺平了士兵們。瓦雷拉莊園裡的馬蒂諾應該會想要聽我的消息的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>馬蒂諾提到水手們之前在野牝別館外面唱著歌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>基利·瓦雷拉提出如果能讓努瓦泰水手們遠離酒館，自己就願意為他們演奏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>馬蒂諾對我的工作很滿意，但是似乎與此同時他正在謀劃著別的什麼東西。 下一個他想要對付巴達托家族。我對此表示反對，但是我覺得我已經沒有時間去說服這些家族了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>馬蒂諾對我的工作很滿意，但是似乎與此同時他正在謀劃著別的什麼東西。 他接下來想要對付巴達托家族，並且允諾自己準備好出手時就會來找我。局勢正在迅速升溫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>家族爭鬥已經停息，馬蒂諾的詭計也沒有意義了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_si_crane_cargo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在鵝卵石鋪成的庭院之上，堡壘上壁掛著一個木製的升降架，升降台上放著一大堆沉重的黑色木桶。升降架發出了咯吱聲，輕輕地晃動著，拉緊的繩子發出著吱吱呀呀的響聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[丟出匕首，割斷捆貨的繩子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[施展法術，弄斷捆貨的繩子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[丟出匕首，割斷捆貨的繩子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[施展法術，弄斷捆貨的繩子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你朝捆貨的繩子悄悄地擲出一把匕首。你兩指夾住匕首，手腕用足力氣將匕首扔了出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>匕首寂靜無聲地飛了出去，正中目標。匕首輕易地割斷了升降架的繩子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>為了防止被人看見，你急匆匆地丟出了匕首，丟得完全沒有準頭。它沒有命中繩子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>托盤砸在了地上，失去繩子的貨物倒得到處都是。木桶與木箱掉在地上，發出巨大的響聲，裡面的貨物全都砸在了粗糙的鵝卵石地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>托盤砸在了地上，失去繩子的貨物倒得到處都是。
+
+昂里特還沒來得及反應，就被砸在了下面，碎裂的木片和散落出來的貨物把她埋了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0]朝捆貨的繩子悄悄地擲出一把匕首。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0]扔出的匕首寂靜無聲地飛了出去，正中目標。匕首輕易地割斷了升降架的繩子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0]急匆匆地丟出了匕首，完全沒有切到繩子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你撓著下巴，思考著自己可以做的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你暫時無法施展任何能在這種時候派上用場的法術。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Specified 0]揚起了眉毛，朝你的方向看了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0]暫時無法施展任何能在這種時候派上用場的法術。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[施展魂能之刃。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[施展爆焰術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[施展死靈之槍。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[使用武器射出法術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[做些別的事情。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你輕輕地揮起了手，向繩子施展了一個法術。法術「砰」地一聲擊在繩子上，升降架上的東西立刻砸了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[施展魂能之刃。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[施展爆焰術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[施展死靈之槍。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[使用武器射出法術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[做些別的事情。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 0]輕輕地揮起了手，向繩子施展了一個法術。法術命中了繩子。繩子發出一聲脆響，升降架上的東西立刻砸了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[朝捆貨的繩子射出一箭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[朝捆貨的繩子射出一箭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>為了避免引起注意，你以迅雷不及掩耳之勢一箭射了出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>&lt;i&gt;叮！&lt;/i&gt;你射出的那一箭精確地切斷了繩子，嵌進了後面的石牆上。緊接著，所有的貨物都翻倒在了地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>那一箭射進了升降台上的木桶裡，木桶裡流出了酒紅色的液體，滴在下方的鵝卵石地面上。
+
+蛇眼康德溫只是抬起頭，粗略地看了懸在空中的貨物一眼，便又去賭了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>為了避免引起注意，[Specified 0]以迅雷不及掩耳之勢一箭射了出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>&lt;i&gt;叮！&lt;/i&gt;，[Specified 0]射出的那一箭精確地切斷了繩子，嵌進了後面的石牆上。緊接著，所有的貨物都翻倒在了地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>那一箭射進了升降台上的木桶裡，木桶裡流出了酒紅色的液體，滴在下方的鵝卵石地面上。
+
+蛇眼康德溫只是抬起頭，粗略地看了懸在空中的貨物一眼，便又去賭了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

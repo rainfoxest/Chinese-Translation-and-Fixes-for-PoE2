@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_backer_npc_coel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你對此人的第一印象是他那俗不可耐的紅粉服飾，鮮亮得像只孔雀。定睛一看後，你看到的是個高瘦的稚氣少年，雖然頭髮有點蓬亂但五官還是挺帥的；他面露友好的微笑。
+
+他輕聲自語，查看著路過的人們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我的好先生，幸會！」他向你誇張到嚇人地揮揮手，示意你靠近。</DefaultText>
+      <FemaleText>「我的好姑娘，幸會！」他向你誇張到嚇人地揮揮手，示意你靠近。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「很高興見到你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「日安，朋友！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我能為您做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「說說你自己吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我都不用說，像您這麼睿智的人肯定看出來了：我是個……演員！」說到演員一詞時，他如沐春風地堆笑，還鞠了個小丑似的躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你能把你作為表演家的經歷教給我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「哎喲，朋友，我可不能讓您勝過自己呀。有什麼其他需要，您可得自己去學了。」他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「&lt;i&gt;榮幸&lt;/i&gt;之至。但我總得維持生計吧。
+
+「所以……三千個子兒您意下如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>他的訓練……很有個性。他先描述了一個想讓你表演的人物形象——街頭混混、苦悶水手和暴躁貴族——接著他跟你講台詞，然後要你代入人物來背誦。
+
+然後，他向你展示如何用角色扮演來騙取好處。你證明自己學成了之後，他滿滿地微笑一下，向你道別。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「願好運常伴著您，吾友！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「舞台、酒館與街角——它們既是我的家，也是我的避風港。我在艾歐拉旅行，與心懷感激的人們分享我的&lt;i&gt;天賦&lt;/i&gt;，並四海為家。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「能賺很多錢嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「必須的，大把大把的。」有個笑話，大意為我不是人，而是行走的銀行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「小老百姓們可喜歡演員啦。我們為他們那悲催的生活帶去神秘與刺激。
+
+「沒錯，這可是諸神幹的事呀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你是不是破產了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>他開口之時，你注意到他軟靴的頭部已經穿舊了。再仔細一看，你發現他的長袍從褶邊那裡開了線，帽子的眉角處也打了厚厚的修正。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「大膽！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「但是……您說得對。我好氣啊。自巨大的雕像砸下來以後，時運不濟，亡焰列島沒幾個人有餘力賞錢了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「您的慷慨……振奮人心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「你能這麼想，我真高興！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「像我這樣的人要維持生計挺難的。偶爾會有小蠢蛋拿我的表演當真——我因為模仿權貴被驅逐出城三次了！
+
+「狗日的白癡根本不懂我表演中譏諷的閃光點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「給。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「不，不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「好極了！那就開始吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「若是改變主意了，您知道該上哪找我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「結果我就學會了如何自衛。但是我承認，我的戰鬥技巧最多只能用來擊退狼群或者是想要偷我包的小偷！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「幸虧我從來沒有需要真正動粗的時候。我的口才已經足夠讓我解決大部分問題了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「你的口才是真的不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[聳聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我說的是真的！」他皺起了眉頭，兩隻手捏在了一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「多謝誇獎！自己的天賦被人賞識的感覺很不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「說實話，我寧願去背誦十四行詩也不情願去揮舞斧子，但是人活在世上沒辦法事事都稱心如意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[強化虛張聲勢與街頭智慧]「給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

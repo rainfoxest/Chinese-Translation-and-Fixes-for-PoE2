@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_arena_sea_cave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>74</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>淡淡的海風吹拂在你的臉上，籐蔓覆蓋的通道通往前方的海面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>洞穴附近的水面平靜下來，引導你穿過隧道。
+
+在洞窟涼爽的黑暗中行駛了幾分鐘後，你返回了海面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>你把船再次駛到了洞穴附近，船員們都緊張地看著你。然而，當你再次接近洞窟的時候，湍流又湧了出來，把你推回了海上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你回到了前往卡茲瓦里島的秘密洞窟入口處。水流帶著你穿過隧道，駛入了小島的中心湖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>小島南北方向有幾英里長。浪濤拍打著陡峭的懸崖，海鳥像標槍一樣扎進海裡，之後又飛回了天上。蔥鬱的森林像皇冠一樣座於懸崖上方，籐蔓從懸崖上垂下來，像一條面紗。在叢林之上，還有一座更高的山峰高高矗立，彷彿要插入雲中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>船員們把小艇從海裡拖到了岸上，[Specified 0]向你敬了個禮。
+
+「有什麼命令嗎，船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>小島南北方向有幾英里長。浪濤拍打著陡峭的懸崖，海鳥像標槍一樣扎進海裡，之後又飛回了天上。蔥鬱的森林像皇冠一樣座於懸崖上方，籐蔓從懸崖上垂下來，像一條面紗。在叢林之上，還有一座更高的山峰高高矗立，彷彿要插入雲中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Specified 1]站在你身邊，朝陰影做了個手勢。
+
+「那是個洞窟，還挺大的。水的顏色很暗，那裡應該很深，大概是條海溝之類的。如果你打算冒險的話，說不定可以把它當做一條天然的航道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「把船帶過去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「有什麼想法嗎，[Specified 0]？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「這是普林西海盜的陷阱嗎，塞拉芬？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[離開] 「算了，去水更深的地方吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>命令聲在艙口下迴盪，發動機轟鳴起來，[Player Ship]慢慢地駛向漆黑的水域。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我從來沒做過這樣的事情。但在你的手下，這種事情其實並不少見，船長。」
+
+[Specified 0]皺起眉頭，盯著水面。
+
+「只要我們慢慢前進，我覺得應該會很安全。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「應該不是，船長，至少我沒聽說過這樣的陷阱。」
+
+絨精把手放在眉毛上，遮住陽光，打量著懸崖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「打算讓你的鳥去偵查一下嗎，麥婭？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「小鳥兒，幹點有用的事情吧。」麥婭指著伊希薩，伊希薩發出一聲熱切的叫聲，飛了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你目送伊希薩消失在懸崖下的陰影之中。過了幾分鐘，它飛快地飛了回來，停在了麥婭伸出的前臂上。她湊近了伊希薩，把伊希薩埋在自己的胸前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「有什麼東西把他嚇壞了，船長。這小傢伙抖得像狂風裡的棕櫚葉一樣。」麥婭皺起了眉，從口袋裡掏出了一點兔肉，餵給伊希薩吃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>甲板上響起了號子聲，索具咯吱作響，[Player Ship]慢騰騰地駛入了黑暗的水域中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>懸崖越來越近，海岸線上傳來的刺耳的水聲，蓋過了甲板上的喧囂聲……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>島嶼的方向傳來了一陣激盪的海浪，船吱吱嘎嘎地晃了起來。船員們一邊叫喊著，一邊跌跌撞撞。你的胃猛地一沉，像是被搡了一下。一陣令人不快的刮擦聲表明，你的船已經碰到了海溝的邊緣。
+
+小島就在你眼前越飄越遠……你被推回了海上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「仁慈的昂德拉啊，保佑我們吧！」[Specified 2]抓住桅桿，喊了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「以沃艾珥的聖名啊，」[Specified 1]嘟囔道，「這到底是怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「要我說，剛剛的海浪不是出自我母親之手，是水塑者們幹的好事。」泰克胡對右舷翻滾的海浪大做了個手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>船員們在等待你的命令……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我們有危險嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你覺得你能化解它嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「這裡有水塑者嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「要我說，要是他們真想弄沉我們的船，他們早就那麼做了。」泰克胡用拇指撐著下巴，思考著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我做不到，這肯定是好幾個水塑者合力做到的。就連恩加蒂最喜愛的兒子，也不是他們的對手。」泰克胡歎了口氣，聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「如果他們真是工會派來的，我不會對此毫不知情。除非，他們根本不是工會的人。要我說，是更麻煩的傢伙。」泰克胡用鼻子歎息了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Specified 1]站在你身邊，朝陰影做了個手勢。
+
+「那是個洞窟，還挺大的。水的顏色很暗，那裡應該很深，大概是條海溝之類的。如果你打算冒險的話，說不定可以把它當做一條天然的航道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「狩獵之面應該會保佑我們順利通過，前進吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「有什麼想法嗎，[Specified 0]？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[離開] 「算了，去水更深的地方吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我從來沒做過這樣的事情。但在你的手下，這種事情其實並不少見，船長。」
+
+[Specified 0]皺起眉頭，盯著水面。
+
+「只要我們慢慢前進，我覺得應該會很安全。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你在漆黑的洞穴中前進，身後是冷冰冰的微光，彷彿陽光在海面上反射而來的光芒。海水立刻變得平靜下來，像玻璃一樣順滑。當水流衝進前方的洞穴時，你的船加快了速度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>命令聲在艙口下迴盪，發動機轟鳴起來，[Player Ship]慢慢地駛向漆黑的水域。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>甲板上響起了號子聲，索具咯吱作響，[Player Ship]慢騰騰地駛入了黑暗的水域中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>懸崖越來越近，海岸線上傳來的刺耳的水聲，蓋過了甲板上的喧囂聲……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你進入了一座巨大的洞窟，洞頂非常高，看起來沒什麼危險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「別再說那些迷信的東西了，水手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「把嘴閉上，[Specified 2]，否則我就要讓你閉嘴了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「馬上就到了，夥計們，保持冷靜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>洞窟變亮了。當你繞過彎道時，明亮的光芒映入了你的眼中。你順利地駛過了隧道，來到了小島內部的湖中。你的前方高聳著一座懸崖，上面綴滿了野生的植物，空氣中迴盪著大自然的旋律。
+
+在你的命令下，船員們下了錨，備好了上岸用的小艇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>一道陰影從懸崖上投下來，像一道醜陋的傷口，深藍色的水流像鮮血一樣從陰影中流出。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我們準備回海上了，[Specified 0]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我在岸上的那段時間，碰到什麼麻煩了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「老實說，我應該回島上了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「沒問題，船長！」[Specified 0]他又向你敬了個禮。「所有人各就各位，我們準備起錨了！」
+
+船上傳來了一聲歡呼聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「沒有，一點都沒有，船長。」
+
+「別忘了那只該死的鳥！」[Specified 1]喊了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 0]皺起眉頭。「沒錯，確實有只掛鳥。應該是獵鷹之類的，翅膀展開之後，和海裔人的胳膊差不多長。我們一部分人捕魚的時候，遭到了它的襲擊。這件事確實很怪，不過[Specified 2]已經用棍子把它攆走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 0]眨眨眼。「好……好吧，船長。我們馬上就把小艇放回去。」
+
+你回到了陸地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>從內湖到海上的通道，彷彿半掩在被籐蔓組成的面紗之後。當你靠近之後，水面平靜了下來，緊接著就開始變暗了。
+
+你的船加快了速度，進入了洞穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Specified 3]瞄了你一眼。「這種事情，我怕是怎麼都習慣不了，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「船駛得很穩，[Specified 0]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「你得勇敢點，[Specified 3]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「別再這麼怪裡怪氣的了，[Specified 4]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「沒問題，沒問題，船長。」[Specified 0]瞪了另外兩個水手一眼，水手們不再說話了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我才沒害怕呢！」[Specified 3]結結巴巴地說道，「我只是說，這事情太怪了。」
+
+其他幾個水手笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 4]只是笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>在黑暗中行駛了幾分鐘之後，船從隧道裡衝了出來。你的面前是開闊的海平線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我們出海吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我要回岸上去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>一道陰影從懸崖上投下來，像一道醜陋的傷口，深藍色的水流像鮮血一樣從陰影中流出。
+
+那是個洞穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>如同半空中一聲炸雷，你腳下的甲板開始分崩離析。你周圍的世界彷彿天旋地轉了許久，隨後你便落入了水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>你意識不清地漂在水面上，旁邊四散著破碎的木板和鋼鐵。你沒有什麼力氣繼續游泳，只能眼睜睜看著自己沉入水面。
+
+黑暗籠罩了你的全部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「仁慈的昂德拉在上，」 [Specified 2]在你身邊嘟囔道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 4]笑了，朝其他的船員投去了不安的一瞥。「沒什麼事情能比接下來的事情更古怪了。」
+
+「這可真是太棒了。」 [Specified 3]嘟囔道。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

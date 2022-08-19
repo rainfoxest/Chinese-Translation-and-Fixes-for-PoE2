@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_crypt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一個鬱鬱蔥蔥的狹長山谷展現在你腳下。你發現一個雜草叢生的石頭建築一直延伸到峽谷裡面遠處。
+
+石頭建築前有一大片空地，上面遍佈遠古的柱基和大量破碎的石雕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>你快速通過通往地穴的熟悉小路並進入裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>當你靠近後，你發現石頭建築實際上是地穴入口，儘管門廊上佈滿了厚厚的泥土並且像被汗水浸得濕滑的皮膚一樣潮濕，你還是繼續向下走，進入到黑暗之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

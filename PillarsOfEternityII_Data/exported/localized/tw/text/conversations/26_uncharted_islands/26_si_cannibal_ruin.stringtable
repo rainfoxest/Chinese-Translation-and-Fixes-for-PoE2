@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_cannibal_ruin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你前面是一座古老建築群的廢墟。當你靠近倒塌的石頭入口時，你會注意到石頭上用剝落的棕色油漆潦草地畫著幾幅奇怪的圖畫。
+
+你彎下腰去以便更好查看，發現這些畫描繪的是一些暴力畫面，包括斬首、肢解、絞刑和其他恐怖事件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[進入遺跡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>遠處火把的光照在遺跡的牆上忽明忽暗。無法理解的話語飄到你的耳朵裡，散發著腐肉味和很重的血腥味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你離開遺跡和那些令人不安的圖紙，繼續探索該島。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你迅速返回遺跡之中，並且這一次小心沒有亂碰石頭上可怖的潦草繪畫。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

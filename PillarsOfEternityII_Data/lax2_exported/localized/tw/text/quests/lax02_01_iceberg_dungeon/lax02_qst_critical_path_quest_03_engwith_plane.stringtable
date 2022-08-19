@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_03_engwith_plane</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>無盡疑問</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在無盡疑問中搜尋被束縛靈魂的精粹塵埃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>將精粹塵埃交給被束縛的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>再找到一粒被束縛靈魂的精粹塵埃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>將第二粒塵埃交給被束縛的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>找到最後一粒被束縛靈魂的精粹塵埃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>將第三粒塵埃交給被束縛的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>在無盡疑問的核心面對審判者納西瓦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>與被束縛的靈魂對話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我發現了包圍在銅和石頭裡的古代巨大魂珀之柱領域，這與我之前遇到的英格維仙機器十分相似。一個&lt;b&gt;女性的靈魂&lt;/b&gt;被束縛在了入口處附近，光芒暗淡，奄奄一息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>這個受盡折磨的靈魂被一名&lt;b&gt;英格維仙審判者&lt;/b&gt;困在了這裡。她相信自己能帶我去找折磨她的人，但條件是我必須找到她被奪走的靈魂碎片。我應該&lt;b&gt;在區域內尋找線索&lt;/b&gt;，幫助她脫離困境。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我在魂珀柱內通過了一次考驗，並得到了&lt;b&gt;靈魂精粹的塵埃&lt;/b&gt;。如果我把它交給&lt;b&gt;被囚禁的靈魂&lt;/b&gt;，或許能改善她的狀況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我把第一粒塵埃交給被囚禁的靈魂後，她反應良好，但尚無法幫我找到審判者，更別說奈瑞思賽拉絲了。我應該去下一根&lt;b&gt;魂珀之柱&lt;/b&gt;搜索她的&lt;b&gt;碎片&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我通過了第二場考驗，得到了第二粒&lt;b&gt;靈魂塵埃&lt;/b&gt;。&lt;b&gt;被囚禁的靈魂&lt;/b&gt;肯定能從中受益。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>被囚禁在此處的&lt;b&gt;靈魂&lt;/b&gt;的官能似乎很快就能完全恢復了。我只要給她第三顆&lt;b&gt;精粹塵埃&lt;/b&gt;，或許就能把她從監獄中放出來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>第三場考驗給了我第三粒&lt;b&gt;靈魂力量塵埃。&lt;/b&gt;這或許是&lt;b&gt;靈魂完全恢復所需&lt;/b&gt;的最後一粒塵埃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>我解救了被束縛的靈魂，但她似乎記不清自己的過去了。不過，如果我想要與造成這麼多苦難的英格維仙人當面對峙，她願意帶我去&lt;b&gt;此領域的中心&lt;/b&gt;見&lt;b&gt;審判者&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>如果我想瞭解這個領域的意義，就得找到一個願意與我交談的&lt;b&gt;靈魂&lt;/b&gt;。被束縛在&lt;b&gt;入口附近的&lt;/b&gt;&lt;b&gt;女性&lt;/b&gt;或許能幫我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我將&lt;b&gt;悔恨之塵&lt;/b&gt;交給了&lt;b&gt;被束縛的靈魂&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我將&lt;b&gt;敵意之塵&lt;/b&gt;交給了&lt;b&gt;被束縛的靈魂&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我將&lt;b&gt;定罪之塵&lt;/b&gt;交給了&lt;b&gt;被束縛的靈魂&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我將&lt;b&gt;悔恨之塵&lt;/b&gt;交給了&lt;b&gt;被束縛的靈魂&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我將&lt;b&gt;敵意之塵&lt;/b&gt;交給了&lt;b&gt;被束縛的靈魂&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我將&lt;b&gt;定罪之塵&lt;/b&gt;交給了&lt;b&gt;被束縛的靈魂&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我將&lt;b&gt;悔恨之塵&lt;/b&gt;交給了&lt;b&gt;被束縛的靈魂&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我將&lt;b&gt;敵意之塵&lt;/b&gt;交給了&lt;b&gt;被束縛的靈魂&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>我將&lt;b&gt;定罪之塵&lt;/b&gt;交給了&lt;b&gt;被束縛的靈魂&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我幫助了&lt;b&gt;納西瓦九世&lt;/b&gt;面對她自己。作為回報，她答應幫助我對付巨龍&lt;b&gt;奈瑞思賽拉絲&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我幫助了&lt;b&gt;納西瓦九世&lt;/b&gt;面對她自己。她將自己的靈魂與我融合，我將引導她回到&lt;b&gt;貝拉斯之輪&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我幫助了&lt;b&gt;納西瓦九世&lt;/b&gt;面對她自己，之後用&lt;b&gt;白色虛空摧毀&lt;/b&gt;了她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>我在戰鬥中消滅了&lt;b&gt;審判者納西瓦&lt;/b&gt;和&lt;b&gt;被束縛的靈魂&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

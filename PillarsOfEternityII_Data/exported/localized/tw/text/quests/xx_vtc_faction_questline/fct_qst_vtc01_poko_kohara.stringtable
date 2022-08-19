@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc01_poko_kohara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>貿易條款</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>調查&lt;b&gt;波格科哈拉&lt;/b&gt;的局勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>返回&lt;b&gt;女王港&lt;/b&gt;的&lt;b&gt;瓦利亞商行總部。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>瓦利亞商行派出一支探險隊前往尋找波格科哈拉。然而其從此杳無音信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;瓦利亞商行&lt;/b&gt;要求我追尋首支探險隊的足跡前往波格科哈拉並且必要情況下完成其未竟的事業。第一步是乘船前往&lt;b&gt;提卡瓦拉&lt;/b&gt;。
+
+&lt;b&gt;瓦利亞商行&lt;/b&gt;答應只要我能解決這件事就給我報酬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>商行代表會想知道在&lt;b&gt;波格科哈拉&lt;/b&gt;究竟發生了什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我向瓦利亞商行做出匯報並獲得了報酬。只要我想的話隨時可以找瓦利亞人再接活幹。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

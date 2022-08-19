@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_00_cv_bekarna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>273</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「八方飛馳的群星，掠過無盡的虛空……」這位法師揚著眉毛，研究者周圍的空間。她看起來沒有留意任何東西，卻又在同時注意著一切事物。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你這是怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開]「我馬上就回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「一隻巨大的……手，把我擄走了。」她踮起腳，做了個抓走的手勢，看起來就像是從鳥巢裡掏走鳥蛋一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你能……讓星星再次恢復正常嗎？」貝卡納期待地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[把《高階沉思觀星錄》給她。] 「來，貝卡納，我把你的星星帶回來了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>她一臉懷疑地接過了書，但當她看到書上充滿秩序感與和諧感的星圖時，她的目光立刻就釘在了書上。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我必須得想辦法回到上面，或者是離上面最近的出口。等我安全之後，我們再好好談談，可以嗎？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「在這之前，我有些問題要問你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你該明白，我不是處於好心才救你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「再會，貝卡納。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「一會見吧，我的朋友。」她笑著，抓住你的手，握了一下，隨後便走掉了。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你……需要什麼嗎？」貝卡納侷促不安地看著你，似乎不清楚應該把視線放在什麼地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我還記得你。」貝卡納對你露出了燦爛的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[把貝卡納的魔典還給她。] 「看看我找到什麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[把星鐵給她。] 「這東西可以當做天體催化劑來用嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「是什麼激發了你對星星的研究慾望？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「還有，謝謝你，靈視者。我現在已經有&lt;i&gt;兩個&lt;/i&gt;朋友了，我感覺人生無比充實。」她遞給你一袋錢幣。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「趁我……再次失憶之前，帶上這些。這些是我從藏品館回來的路上找到的。雖然不算太多，但我也只能找到這些了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「藥水再怎麼多都不嫌多，謝謝。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我把你從危難關頭救了出來，而你就給我這點喝的東西來打發我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我很感謝，但你比我更需要這些藥水。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「如果真想推進晦密之廳的研究工作的話，恐怕我需要更多的東西。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「好吧。如果你非要這樣的話，這些也給你吧。我本打算用它換取平安出島的機會，現在我得想點別的辦法了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你說得有道理，給你。等你以後傳播你的新發現時，記得把我的名字列在贊助人的名單裡。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「這個地方奪走的並不僅僅是我的感知能力。藏品館會奪走人們身上的&lt;i&gt;一切&lt;/i&gt;，一切重要的東西。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我倒是不怎麼喜歡藥水，不過如果這座聖所裡有盆栽植物的話，我會拿藥水給它澆點水的。」貝卡納笑著，聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「聽起來是本很特別的書，換一本應該要花很多錢。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「你的書真可憐，我會把他安然無恙地帶回來的。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我考慮一下。」但不保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「當然，我已經準備好了給你的酬謝金。那些無面人偷走了我身上的一切，&lt;i&gt;卻沒碰&lt;/i&gt;我的錢包。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「謝謝你。我明白，在這座亂七八糟的圖書館裡找一本書，無異於大海撈針。」她深深地鞠了一躬。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我明白，你的慷慨也是有限度的。等你找到那本書的話，希望你還能記得我這個人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「收下吧，這些是你的研究經費。這些錢是泰恩扔下的，我之前想把錢還給他，但他說這些錢不是他的。」她聳聳肩。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「找到了！我現在想起自己是怎麼被捲入這件事情裡的了。我當時在尋找一塊天體催化劑。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「那些星星總能讓我明白，自己在這個廣闊的世界有多麼渺小。我們彼此殺戮，我們血流成河，我們處於各種各樣的原因刀劍相向。但把這些放在星光之下時，這一切都顯得微不足道。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「沒人知道那塊星鐵落到了什麼地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我覺得沒什麼比研究流星更有趣的事情了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我還有別的事情要做，不過如果我找到什麼的話，我會第一個通知你。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「人總是有什麼事情要做，是吧？當然，我理解你的做法。畢竟這是我的目標，不是你的。」貝卡納朝你鞠了一躬，往後退了一步。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「是&lt;i&gt;一顆流星&lt;/i&gt;。它們穿過虛空，為艾歐拉帶來祝福，偶爾還會帶來隕石坑或是花火表演。它蘊含著強大的奧術能量，可以作為催化劑使用。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「那我們可真是心有靈犀，謝謝你，靈視者。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「往後點，靈視者。我為這一刻已經等了太久了，就算是感謝的話，也要等一會再說了！」貝卡納全身緊繃，分開雙腳，把手裡的魔杖指向天空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>一陣你感覺不到的微風吹起了貝卡納的長袍，拂動了她的頭髮。她睜開眼睛，笑意漸漸地爬上了她的唇邊。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「你剛剛創造了一個新的法術，有沒有感覺有什麼不一樣的地方？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我猜我得出發了。恭喜，貝卡納。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我感覺像是在長長的蜿蜒樓梯上走了好久，終於爬到了上面。打開門，發現有一架閃閃發光的望遠鏡就擺在我面前。現在，我可以盡情探索整個星空了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「怎麼樣？我看起來像個大法師了嗎？」貝卡納擺了個造型，歪著頭，臉上掛著傻傻的笑容。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>她伸出雙手，輕輕地拍打著，試圖從空氣中抓到什麼東西。當她張開雙手，發現手中什麼都沒有的時候。她用手摀住了雙眼，靜靜地哭了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[給她一顆藍寶石。] 「給你，這是我替你抓到的。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「[Player Animal Companion]，試試能不能讓她打起精神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>你的朋友感受到了她的悲傷，它跑過去，靠在她身邊，用鼻子輕輕地蹭著她，直到她停止哭泣為止。她低頭看了一眼，忍不住笑了起來。
+
+[Player Animal Companion]受到了注視，看起來也同樣開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>你把寶石放在了她手心裡。她盯著寶石，眼睛睜得大大的，眼神中充滿了難以置信與感激。
+
+然後她搖了搖頭，輕輕地回贈給了你什麼東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我沒見過這樣的星空，上面沒有我認識的星星。」她指著天花板，歎了口氣，又抬起頭觀察著天花板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我聽說過你的事情，我已經找到你的天文台了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「每當我忘記自己是誰的時候，我的星象儀都會提醒我我是誰。可我不知道它現在在哪。它丟了，丟失在群星之中了……」她環顧四周，似乎完全不再在意談話的內容。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你……你找到它了？你找到那棟有星星玻璃的房子了？」貝卡納睜大了眼睛，小心翼翼地走近了一步。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「你能幫助我重新找回星空嗎？」她嚥了口口水，懇切地摸了摸你的胳膊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「你說星象儀，你喜歡星星嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>她點點頭。「我最喜歡星星了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「跟我來，我們一起找到星空吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「你想讓我修好你的大腦嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「過陣子吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「是&lt;i&gt;這個&lt;/i&gt;星空。」貝卡納指了指自己的頭。她點點頭，就好像在闡清自己的意思一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「這裡的星星全都&lt;i&gt;錯了&lt;/i&gt;，我必須讓它們再次恢復正確。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「這座監獄會隱藏……含義？語言會受到束縛。」貝卡納抓著頭，沮喪地顫抖著。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「你在說些什麼呢？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「&lt;i&gt;星星。&lt;/i&gt;你還沒明白嗎？我能看到這些星星，但這些星星的位置都錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「你說的『星空』指的到底是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>她退後一步。「不是那個星空。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「這座監獄會隱藏……含義？語言會受到束縛。」貝卡納抓著頭，沮喪地顫抖著。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「我的內心已經壞了，只有星星才能讓我再次恢復正常。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我的內心已經壞了，只有星星才能讓我再次恢復正常。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「好吧，再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「打起精神來吧，這裡其實也沒那麼糟。你不是還有個蠻不錯的小……居住地嘛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「這裡&lt;i&gt;什麼都沒有&lt;/i&gt;。」她朝你皺起眉頭。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「這裡的星星只有眨個不停的眼睛，和咬牙切齒的嘴巴，這裡不是我該來的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「我不知道該怎麼幫助你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「幫助——對啊！來&lt;i&gt;這裡&lt;/i&gt;。」 她咬著下唇，用手揉著太陽穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「我發現了一個秘密。一個大秘密，或許只是大秘密的開端而已？那隻手不喜歡這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「你提到了一隻手，是掌秘人把你關在這裡的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「巨大的手。這個地方，一根手指，明白嗎？很多只手，很多手指。」她點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「哦，我的天啊。」她把手放在書頁上，閉上雙眼，歎了口氣。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「一切都慢下來了，我腦海中的噪音也安靜下來了。&lt;i&gt;謝謝你。&lt;/i&gt;」 她睜開雙眼，看著你，臉上慢慢浮起了笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「抱歉，我下次再回答你的問題吧。我已經迫不及待想從這牢籠裡逃出去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「現在不是問問題的時候。拜託了，我們可以之後再討論這些問題。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「他們兩個和我說了你……最近發生的不幸遭遇。我替你感到難過，大法師議會應該早點出面才對。」她瞟了泰恩和郎歌世一眼。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我們確實沒站在卡罕加宮的屋頂上，向整個世界宣佈過我們打算幹什麼，但這不意味著我們什麼都沒做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「好吧，沒人邀請&lt;i&gt;我&lt;/i&gt;去解決俄撒斯的問題。我只是這麼來了，我猜我們大家的想法應該都差不多。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「當我來這裡的時候，有個無面人把他從我身上搶走了。我從那之後就一直擔心他，擔心得要命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「你稱你的魔典為『他』？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「他是我的小朋友。我們共同經歷過很多事情，咱倆身上的這些痕跡都是很好的證明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「他的書脊已經有點晚了，而我自己的目錄也缺了幾頁。但只要我們在一起，我們就差不多算是個半吊子法師了，是吧？」貝卡納摸摸自己的頭，臉不對稱地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「我猜，知識才是這裡唯一能用的貨幣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「在這個地方，所有的書都會被放在檔案庫。我本想自己去找的，但如果魔典不在手上，我就沒辦法和那些無面人戰鬥。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>她緊緊地把魔典抱在胸前，發出了安心的歎息聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「你就不能抄寫一本新的魔典嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「我還在找你的魔典。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「我還沒找到星鐵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「我猜，你也不能找個別的東西來替代你的朋友吧？」貝卡納朝[Player Animal Companion]靠過去，輕輕地拍著它的頭，它用鼻子蹭著貝卡納的手。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「這本書是我的一部分，明白嗎？我所有的思緒和結論都會到他那裡，這樣一來……&lt;i&gt;如果&lt;/i&gt;我忘了這一切，我還能再找回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「這些東西是很難從頭開始再來一遍的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「是我，貝卡納，[Player Name]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「是我幫你逃出藏品館的，你還記得嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「這裡怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>她歎了口氣。「當然，是你把我的星星找了回來。抱歉，我只有在天文台裡才會感覺比較放鬆。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「我們之前見過……是嗎？我的記憶時常會從腦海中消失，尤其是當我情況不太穩定的時候。」她把天文書籍緊緊地抱在胸前。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「你已經跑過很多地方了，所以我不妨多問一句——你有沒有見過我的魔典？」貝卡納咬著下唇，四處環顧著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「不用擔心我的情況。就算我可能認不出你的樣子，在我的記憶之中，也會有你存在過的&lt;i&gt;印象&lt;/i&gt;。」
+
+「不知……不知這麼說你能否理解。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「謝謝你回到我的身邊。」過了很久之後，她才把注意力轉到你身上。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「謝謝你，我想找到它，就像想回到天文台一樣急切。我不打算在找到他之前一個人回去。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「我知道，但你願意去找就已經很慷慨了。哪怕是天氣情況非常好的情況下，流星也很難捉摸，就算是靜止不動的時候也很難找到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>她翻開魔典，翻到後面的書頁中，一邊讀著上面的字跡，一邊咬著拇指指甲。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「有什麼事情嗎，靈視者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「仁慈……在這裡太稀缺了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「我沒有能幫到你的東西，貝卡納。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「星星可以幫助我。星星是……穩定的？把想法組織起來，變成規律。可以預測，令人舒心。」她揚起眉毛，努力地搜索著合適的詞。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「只要你能找到星星，你就能找到我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「我一直以來都在研究這些隕星的特質。如果我的研究結果正確無誤，只要再有一片星鐵碎片，我就能創造出屬於我的第一個法術了。而且，我的魔典朋友也在這裡。」她拍著魔典，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「等你創造出這個咒語之後，你能成為大法師嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「考慮到大法師議會的情況，恐怕麼這麼簡單。想成為大法師要花上幾年時間，就連康賽豪都要不斷奮鬥，才能贏得別人的認可。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「即便如此，我也打算試一試。」貝卡納攥緊了拳頭，眨了眨眼。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「你還是別費力氣了，親愛的，大法師議會不過是一群老騙子的聚會罷了。他們假裝自己關心某些形而上學的、無法實現的『更大的善』，實際上就是是為了逃稅罷了。」康賽豪做著鬼臉，一邊說著，一邊揚了兩次眉毛。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「康賽豪更……更像個人的那段時間裡，他在撰寫自己的研究成果論文時患了過敏症。結果，對他研究成果的評審工作相當困難。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「真的嗎？這是你當時的經歷嗎？我當時就那麼晃蕩進了議會裡面，拽過來一把椅子坐著，誰都沒有問我任何問題。」泰恩聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「晦密之廳就像喜鵲一樣，對所有發亮的東西都感興趣。在整個亡焰列島上，這裡是我們最有可能找到天體催化劑的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「天體催化劑是什麼東西？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「亞洛斯，你對此有什麼想法？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「就是充滿魔力能量的星鐵，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「我認為她指的是從流星中提煉出的隕鐵。這種隕鐵充滿了秘法能量，而且從各個方面而言，都非常難以得到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「啊，他說得沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「啊，你已經知道了！我們真應該當科研夥伴！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「郎歌世，泰恩，你們知道她指的是什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「她指的是擁有秘法性質的星鐵碎片，據說這種樣本還有幾片。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「我沒什麼可補充的了，我感覺我就是來湊個數的。」泰恩笑了起來，把注意力轉回到貝卡納身上。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「等我得到了星鐵碎片，完成我的咒語之後，我向你保證，你會是這世界上第二個使用這強力咒語的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「費西娜，你看起來若有所思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「她以為她能從流星中提取能量。遺憾的是，這完全是浪費時間。不過，我還是很欽佩她的抱負，我總是認為這樣的抱負超出了我的能力範圍。」費西娜轉過了身，叉起雙手。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「我的母親告訴我，如果你不把群星當做目標，你就永遠無法登月。以後不妨多試一試，費西娜。」貝卡納拍了拍她的肩膀。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「可能還得再花一些時間。我應該找幾件更漂亮的長袍，或不定應該再戴上一頂漂亮的尖帽。」她聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>貝卡納小心翼翼地接過石片，把它反過來，打量著它坑坑窪窪的表面。她睜大了眼睛，全身紋絲不動。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「就是它了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「稍等一會，靈視者。如果我活到一千歲的話，我有可能會忘記某些話。不過，先讓我把它們記在屬於它們的位置吧。」她打開了魔典，用清晰而優雅的筆調寫起了符文。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「給，貝卡納的午夜白日夢。看起來還不錯，是吧？」她合上了魔典，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「把它留作紀念吧，我的朋友。它很適合用來裝飾餐桌。把力量的轟鳴抓在自己的掌中，這很讓人放鬆，不是嗎？」貝卡納吻了一下自己的手指，用手指輕輕觸摸著星鐵，之後把星鐵遞給了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「我不知道接下來會發生什麼，但能走到這一步，我很欣慰。尤其是我還有這麼出色的夥伴。」她抓著你的手，用力握著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「你創造了一個新的法術？就在這裡？就在剛才？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「我其實早就構想過這個法術了，不過當時還缺了點什麼。」她低下頭，看著手裡的星鐵，臉上露出了疲憊的笑容。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「現在，我只想和我的魔典，還有我的天文台好好待一陣子，再喝上一杯美味的熱茶。」她緊緊地抱住了魔典。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>貝卡納對你露出了淺淺的微笑，隨後又打開了魔典，研究起自己寫下的符文。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「我知道，最近有一顆流星落在了黑島上。一塊明亮的紫色岩石劃過了天空，降落在這個區域。唯一的問題是要怎麼找到它。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「這座監獄的看守可能不會允許你拿走星鐵。如果你必須傷害什麼人才能得到它的話……乾淨利落點，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「星星總是照耀著我們，但我們對它們卻幾乎一無所知。當我們直視它們的時候，它們就像眾神一樣神秘莫測。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「對我來說，魔法也是同樣的存在，讓人感到謙卑。我們把魔法的力量化為符文，化為魔典，但即便是這些，也不過是魔法散發出來的光芒，並不是魔法本身。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「你是怎麼把那座天文台建造起來的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「那座小島位於某片有爭議的海域裡。某一天，努瓦泰人派來了一艘殖民船，加固海灘上的防禦。作為回應，瓦利亞人對那片海域進行了海上封鎖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「為了解決領土爭端，奧涅卡莎舉行了公開審理。當時我是唯一一位沒有代表她敵人的請願者。她認為，如果能讓這些商行雙手空空地回去，那一定會很有意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「她甚至出資資助了我的天文台，還捐了十整箱的書！在那之後，我們就一直都是好朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「什麼？這怎麼可能？這不就意味著你錯過了那些星星了嗎？真是荒唐！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「奧涅卡莎一有時間就會過來，她很喜歡觀星。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「多虧了你，我才能想起這麼多，我學到的東西比我忘記的東西還要多。謝謝你，靈視者。要是沒有我的好朋友們，這一切都不太可能成真。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「沒錯，她已經很長時間沒睡過好覺了，船長。沒人應當被關在這樣的監獄裡。」塞拉芬看著那位法師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「記憶、心智、靈魂、這三者之間有內在聯繫。」伊德溫一邊交叉著手指，一邊解釋道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「如果其中一者受到了傷害，其它兩者通常也會嚴重受損——而且通常是不可逆的損傷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「而且你還有一把小椅子，還有別的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「我也讀過那麼一兩本書，它們比絕大多數人都更適合陪你度過漫漫長夜。」裘荻點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>瓦特尼爾哼了一聲。「&lt;i&gt;你&lt;/i&gt;還讀過書？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「這是我的台詞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「真是該死。那群人在執行任務的過程中，毀掉了多少天才的頭腦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「我從來不碰那種東西，它會讓我做噩夢。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「我們能繼續了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「為什麼星鐵會擁有秘法能量？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「關於它們的能量，還有許多未解之謎。流星很少會落在艾歐拉大陸上。僅僅因為這個原因，就已經有很多法師懶得去研究它們了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「我只不過是個帶著望遠鏡的法師而已，但據我推測，群星之中有某種生命，而它的能量會時不時地來到我們的世界。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「我也剛想問這個問題，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「流星在落到這裡之前，要穿過極為濃厚的以太層。我懷疑這個過程會把一切有意義的能量都消耗殆盡。我更認為，它的能量是來到艾歐拉之後才聚集起來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「你是怎麼發現自己被困在藏品館的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「之前，我在黑島的上空看到了一顆流星。那麼美妙，那麼輝煌！我僱傭了幾個僱傭兵去把它找來，但在那之後很長一段時間，我都沒再聽過他們的消息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「幾個星期之後，他們的首領回到了天文台，但那個人……整個人看起來都不對勁。就像是他的意識已經不再屬於他自己一樣。我拼盡全力反抗，但他還是把放聲尖叫的我拖進了那個監獄裡。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「關於我的研究，掌秘人不想讓其中一部分公之於眾，但他們沒說究竟是哪部分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「貝卡納的午夜白日夢，它是做什麼用的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「它可以將星光轉化成一個有生命的球體，球體會激發促進它碰到的一切。之後，球體會再度重新變回以太。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>麥婭向伊希薩皺了皺眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「我們也那麼親密過嗎？還是別這樣了，我更喜歡『互不尊重』的相處方式。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「我猜，就是它難以估量的容量與神秘，激發了我所有的熱情。在困難的時候，它們會給我希望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>[給她看貝卡納的魔典。] 「這有什麼幫助嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>她摸著魔典的封面。她斷斷續續地認出了這本書，臉上的表情也不斷地抽搐著，但隨後就變成了一片茫然。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「這些是貝卡納的語言……但不是她的星星。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「只要能找到希望，我們就應該抓住希望。」他抓住你的手，快速捏了一下，臉上露出了燦爛的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「哈！幹得漂亮。我可沒想到奧涅卡莎居然這麼詭計多端。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「船長，我認識這個囚犯，她叫貝卡納。她把她的研究成果呈給了大法師議會，但那些人卻把她狠狠地嘲弄了一番。」想起這件事，費西娜皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「貝卡納？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「她的心智已經受損了。她已經沒辦法用直白的語言對話了，不過她的隱喻能力好像相當出色。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「又是隱喻。在這種情況下，我只能想到一個和手有關的東西。」費西娜交叉著雙臂。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「還有，謝謝你，我的朋友。大法師議會殘忍地對待我，但我從未忘記過你的仁慈。」她握住了費西娜的手。費西娜抿緊嘴唇顯得很拘謹，但依然接受了她的舉動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「我的天啊，難道她的心智又出問題了嗎？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「我以前也把魔典弄丟過。亞柯彌在魔典上倒了蜂蜜，把它放在屋頂上，後來被海鷗叼走了。我猜他只是想懲罰我，因為我揍了他最喜歡的妖精。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「總有一天你得明白，身為法師，必須學會適應環境，是吧？」費西娜更挺直了一點，揚起了下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「至於我自己，我在戰鬥環節表現不佳。我試了很多次，才把大法師議會的所有人一口氣全都打敗，次數多得我都不想承認。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「而且，我那篇關於如何有攻擊性地部署秘法盾牌的論文中，確實有很多漏洞，亞柯彌是個相當糾結細節的傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「考慮到你的情況，你不應該是直接就進入大法師議會才對嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「每一位郎歌世都必須憑自己的本事通過大法師議會的試煉。」
+
+「雖然我得承認，我們從一開始就佔了一定先機。」她的目光閃閃發亮，帶著惡作劇的神色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「我覺得不是這本書。或許畫著星圖和漂亮插畫的書能讓她安定下來。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「我只是給了你一杯茶，你沒必要像只感激的小貓一樣用小爪子拍我。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>「巫師都有各自古怪的癖好。秘法中肯定有什麼東西，會讓所有基斯都陷入瘋狂之中。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「如果你打算先解釋它對我們有什麼好處，再具體講你的故事，我們都已經明白你說的是什麼了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「我沒見過你使用任何法術，你到底是怎麼知道就是它的？」費西娜走近幾步，想要看清楚，但貝卡納攔住了她。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「我喝完早茶之後也會有類似的感覺，不過我就不添油加醋地描述它了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>費西娜靠過來，看著紙上的字跡。她看起來像是不知道該把目光放在什麼地方一樣。到了最後，她轉向了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「大法師議會不配得到像她這樣的天才。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「很多事情都是你自己發現的，你卻把功勞都歸給了我們。不如好好享受你的成就，告訴我感覺如何，怎麼樣？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「你的法術是個……魔球？這……這是在逗我玩嗎？」泰恩的臉上失去了一些血色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「你打算幹什麼？打算篡奪我偉大的成就嗎？還是說，這是徹頭徹尾的抄襲？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「泰恩，如果你給我個說話的機會，我會和你解釋清楚的。」貝卡納皺起了眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「控制法術總是不太容易，不過這個開頭應該還不算糟糕吧？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「你是怎麼樣失去記憶的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「儘管問吧，朋友，我沒什麼緊急的事情要忙。」貝卡納笑了起來。</DefaultText>
+      <FemaleText>「儘管問吧，朋友，我沒什麼緊急的事情要忙。」貝卡納笑了起來。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「你雇來的僱傭兵後來怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>「藏品館肯定已經把那些僱傭兵關起來了，把他們變成了邪惡實驗的新的實驗對象。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>「每天都有看守者把屍體丟進坑裡，或者把那些活生生的人扔下去餵蠕蟲犬吃。」想到這個場面，貝卡納皺起了鼻子。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>「遺憾的是，對我來說，記憶出現問題已經不是什麼新鮮事了。幾個月之前，我的一個咒語出了意外。從那時起，我就時不時地需要提醒自己到底是誰。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>「至於藏品館裡的尖叫聲？那就完全是另一碼事了，它能把你的記憶徹底擦掉。我在那裡呆了好幾天，盡最大的努力想要想起什麼，卻只能想起不要忘記呼吸。」貝卡納從回想中停了一會兒，揉了揉自己的脖子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>「我認為，我的意識之所以還能剩下一部分，完全是因為那場意外。我的一部分被存在了&lt;i&gt;這裡&lt;/i&gt;，那些尖叫聲無法抵達這個地方。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>「在你出去找星鐵的時候，我恰好撿到了這本看起來不錯的書。書裡剛好也有空白的書頁，就像是在等著我們一樣。」她朝你眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>「希望它能幫你成就偉大的事情。」她羞紅了臉，把魔典交給你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>「在你走之前，收下我的臨別禮物吧。你為我做了這麼多，我欠你的可不僅僅是一張卷軸而已。貝卡納從包裡拿出了一本魔典，開始慢慢地畫起了第二套符文。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>[給她看貝卡納的魔典。] 「這是你的嗎？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>貝卡納揚起了眉毛，從你的手中接過了魔典。她隨便翻到了某一頁，發現書頁是空白的，搖起了頭。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「這該死的牢獄。它奪走了我的心智，我的財產，甚至連我的語言都不放過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「我的魔典和我心意相通。星星滋養著我們，我們需要它們。如果你能到這處設施的最高點，或許那裡會有窗戶之類的東西吧？」她把魔典還給了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「我準備把你的魔典放在星光下，看看會發生什麼事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「你為什麼不自己去找？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>「看看我有沒有時間吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「要我冒著被抓回監獄的風險，重新回到藏品館裡嗎？不是所有人都全副武裝，隨時可以和那些觸手怪打一架的。」她上上下下地打量著你。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「謝謝你，朋友，你知道該去哪裡找我。」貝卡納歪著頭，微笑著。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「我從來沒聽說過哪本魔典還需要星光。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「是啊，他非常特別。」貝卡納點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>「我又不是讓你去把星星搬過來。如果有什麼地方能看到星光，只要和我說一聲就好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>「你覺得她也給她的魔典起了個名字嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「你運氣真好。如果只能選兩個人做朋友的話，靈視者絕對是個不錯的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>「看來我們拿錯了書，說不定她對觀星有關的書會更感興趣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>「或許關於天文學的書能引起她的興趣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>「我一點都不懷疑，共和國的某個人準備抓住這個機會，一下子躍入大法師的行列中了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>「你為什麼會覺得，這麼做能有效果呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>「你已經看到星星是怎麼樣幫助我的了，同樣的事情也能作用在我的魔典上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>「我們對魔法的天賦和使用方式——每個人都不太一樣，是吧？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>「這麼做根本沒有理由能管用……但我猜，也根本沒有理由&lt;i&gt;不管用&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>[給她看貝卡納的魔典。] 「這有什麼幫助嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>她摸著魔典的封面。她斷斷續續地認出了這本書，臉上的表情也不斷地抽搐著，但隨後就變成了一片茫然。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>「這些是貝卡納的語言……但不是她的星星。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>「我覺得不是這本書。或許畫著星圖和漂亮插畫的書能讓她安定下來。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>「看來我們拿錯了書，說不定她對觀星有關的書會更感興趣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>「或許關於天文學的書能引起她的興趣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>「貝卡納。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>「我猜這大概是我的名字。這個名字繡在我的袖子上，所以我才知道。」她緊握雙手，退了幾步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>「你……你認識我嗎？就連我自己都不認識我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>「這裡的星星全都&lt;i&gt;錯了&lt;/i&gt;，我必須讓它們再次恢復正確。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>「你的魔球法術，是我學會的第一個法術。當我看清楚，你是如何利用躁動不安的心智，利用它的混沌、痛苦與不確定性之後……我是絕不會那麼做的。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「那個魔球讓我大開眼界，即便現在也是如此。所以，如果我的法術和你的法術很像，這隻是因為我是這一切影響的結果。我想以自己的方式去啟發別人，就像你曾經啟發過我那樣。」貝卡納緊握雙手，抬起頭，看到了一臉震驚的泰恩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>「貝卡納，你有什麼要為自己辯護的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>「泰恩，你太小題大做了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>「是啊，確實如此。」貝卡納深吸了一口氣，平靜下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>「是嗎？你真是站著說話不腰疼，畢竟你有你的船、你的寵物、你的『靈視者能力』、你的城堡……哦，你已經沒有城堡了，但這不是重點！是那個魔球成就了我。要是沒了它，我&lt;i&gt;什麼都不是&lt;/i&gt;。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>「呵，我……我猜我得想你道個歉。你的魔球法術很出色。等這邊的事情結束之後，我可以推薦給你幾個相當出色的簿記。畢竟等你成了大法師之後，要是印刷出了錯誤，那就是你的責任。」泰恩咧開了嘴，露出了驕傲的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>「那就太好了。」貝卡納笑了起來，注意力重新轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>「我幫助你不是為了這些紀念品，我想得到那個法術。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>「好吧，如你所言。」貝卡納凝視著你，點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>「找到了！我現在想起自己是怎麼被捲入這件事情裡的了。我當時在尋找一塊天體催化劑。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

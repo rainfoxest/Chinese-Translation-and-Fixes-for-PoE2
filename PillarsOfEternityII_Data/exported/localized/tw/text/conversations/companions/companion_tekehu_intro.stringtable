@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_tekehu_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>182</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你還需要什麼嗎？還是說，你已經感覺非常舒服了？」泰克胡笑著，攤著手，等待著你開口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你是泰克胡，是吧？阿羅海親王讓我來找你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我沒想到親王這麼快就答覆我了。要我說，巨蛇王冠正處於壓力之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「如果你不介意跟著靈視者出海的話，[Player Ship]還有個空船艙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我猜你和你的公會長相處得不太好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「因為你是個出色的水塑者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「因為你太漂亮了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「因為你是個神嗣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「因為我是個神嗣，我出生的時候，就得到了神海女神之吻。」
+
+他伸長了胳膊，彈了一下由肘及腰，像魚鰭一樣的附肢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「哈！小心點，我最擅長奉承別人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「比我長得更奇怪的人，可不是每天都能見得到的。」泰克胡用大拇指撓撓下巴，朝你點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「怎麼說？你也和別的人一樣，是來對著恩加蒂的選民發呆的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「水塑能力是恩加蒂賜予胡亞納人的禮物。很顯然，我也是她的賜福，我是部落的救世主，嘖！」
+
+他抱起雙臂做了個鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我猜你和你的公會長相處得不太好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「沒錯。要我說，這既是祝福，又是詛咒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>一個藍皮膚的胡亞納人臉上帶著笑容，上下打量著你。
+
+他絕大部分皮膚都覆蓋著魚鱗，他的「頭髮」懶洋洋地擺動著，就像是海葵的觸手隨波逐流一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「阿羅海親王具體是怎麼和你說的？」泰克胡抱著胳膊，說出了這句話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「這並不重要，我早就知道走私犯和水塑者之間有勾結。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「讓我追查羅帕魯人之中的黑市商販。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「讓我抓住羅帕魯人使勁晃幾下，看看有沒有什麼贓物掉出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「黑市嗎？不過這和我沒什麼關係，除非……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「是啊，這就說得通了。如果涅克塔卡有什麼東西不見了的話，下面的人會第一個知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「親王沒有提起任何關於水塑者的事情嗎？」泰克胡皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我還以為他最關心的是公會的事情呢，看起來我猜錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「為什麼這麼說？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「我只是把原話告訴你而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「因為我曾私下裡告訴過他一些事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「這件事我們換個地方說吧，畢竟隔牆有耳。我們去峽谷說吧，怎麼樣？」泰克胡皺起了眉，盯著公會大門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「我認為親王一直都是這樣，只說不得不說的部分，其餘事情都不告訴別人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「如果你不介意靈視者同行的話，我就接受你的提議。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「讓我考慮考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我們去峽谷吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「考慮考慮吧。」泰克胡聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「走私！他們明明建造過哈扎努伊的塑像，這種行為實在是在褻瀆我們的藝術。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「儘管開口吧，我聽著呢。」泰克胡咬著手指，很明顯心不在焉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「只要你不介意成為靈視者的同伴的話，下次出海的時候，你盡可以加入。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「只要能讓我從公會的束縛中解放出來，就算你把我拿去當你的船首像，我都沒意見。」
+
+泰克胡歪過了頭，摸著眉心處圓形的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「是啊，我把&lt;i&gt;藝術&lt;/i&gt;帶進了我們的公會，但他們並不允許我們表達思想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「俄撒斯要對他的行為負責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「我只想知道怎麼能幫他的忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「那就要看其餘的神是怎麼決定的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我也不知道，你有什麼主意嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「亡焰列島上的許多凡人也需要為自己的所作所為負責，看來眾神也沒什麼區別。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「那個綠人看起來不太需要幫忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「要我說，他們肯定會在這件事情上爭吵不休。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>他點點頭，摸著自己的下唇，似乎在認真考慮這件事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「要我說，我並非對你一無所知。我聽說了魂珀巨柱的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「或許用不了多久，船艙就會聞起來一股魚味。不過要我說，船員們會因為彼此聯繫在一起而變得更加美麗。」
+
+他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「在我們出發之前，我得提一句，親王派我來找你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「我會誇他幾句，請他喝上一杯，看看事情會變成什麼樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「哈！要我說，吧整個亡焰列島的朗姆酒都拿來，也不夠他喝的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「我倒是希望能控制海潮，把他一直捲進深不見光的海底。」
+
+泰克胡聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「靈視者嗎？在佩瑞琪之望這個地方，我一直都是這裡的怪人！」他把手放在唇上，露齒而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「靈視者嗎？在佩瑞琪之望這個地方，我一直都是這裡的怪人！」他把手放在唇上，露齒而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「除了馬塔魯牧師之外，我們這裡能與靈魂交流的人並不多。」他抿著嘴唇，關切地打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「猜得不錯，但並不是因為這個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「麥魯禁止我追隨恩加蒂，但要我說，恩加蒂肯定不希望我錯過&lt;i&gt;這一切。&lt;/i&gt;」
+
+藍皮膚的胡亞納人用拇指揉著下巴，對你眨著眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「跟我來。我需要人幫忙解決一下蛇妖問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>泰克胡點點頭，緊張地看著入口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「我知道你是什麼人，你可以穿過生死之間的那道薄紗，之後把它撕得支離破碎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「我們出發吧，讓我們詛咒世上的每一條毒蛇！願它們早日褪下它們最後的蛇皮！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「泰克胡，要我說，這是你最後一次逃避責任了！」
+
+穿著精緻長袍的公會長盯著她面前的藍皮膚海裔，兩人身型相近。
+
+其餘的學生圍成了一個鬆散的圓圈，邊看熱鬧邊竊竊私語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「你想說什麼就說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「應該馬上就會結束了。」他朝你眨眨眼，之後繼續對公會長皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「我已經快沒有耐心了，老鯊魚。你一直在著壓抑我，都夠讓理庫胡喝上一壺的了。」
+
+儘管兩人的年齡有明顯的差距，泰克胡還是對公會長豎起了桀驁不馴的手指。
+
+她用鼻子哼了一下，深深地吸了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「這聽起來很重要，或者說，很容易引起爭議。或者說，兩者都是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「是啊，只要和&lt;i&gt;這個傢伙&lt;/i&gt;扯上關係，就是這樣。」她朝泰克胡點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「你有什麼事情想對親王說嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「要我說，他是個和平時期的忙碌戰士。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「是啊，我之前給親王送了一封信，還沒有得到他的回復呢。」泰克胡抱起雙臂，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>「不好意思，女士。」他朝帕蕾吉娜眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>「快住口吧，拜託。我既不想聽你那些可笑的奉承話，也不想你奉承我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>「好吧……那我這隻雄鳥只好離雌鳥遠一點了。」
+
+他帶著苦笑望向了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「在整個亡焰列島的異國鳥類之中，你的羽毛是最漂亮的。」
+
+他低下頭，伸手碰了碰自己額頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>「因為你是恩加蒂的選民。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>「沒錯，這裡的人敬畏一切與大海有關的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>「唯一的問題是，我是應該回去履行責任呢？還是應該在浴室裡多享受幾個小時呢？」
+
+泰克抿起嘴唇摸著自己的頭髮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>「浴室啊，當然要在浴室裡享受了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>「你應該先考慮自己的責任。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>「要我說，泡在水裡很舒服。如果有人陪著的話，就更舒服了。」
+
+他帶著讚許的眼神看著你，笑容變得更燦爛了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>「有什麼要說的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>「嘖，等我完全恢復狀態之後，再去公會也不遲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>「你是個奇怪的夥伴，我們兩個可以成為嚇死人的一對！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>「你是個有很多毛的夥伴，你身上的毛真是光彩照人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>泰克胡歎了口氣，目光上上下下打量著你。他隨意地清清嗓子，移開了視線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>「我不介意你看著我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>「等等，我的意思並不是說……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>[也朝他清清嗓子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>「啊呵，我無意冒犯。」他舉起了一隻手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>「是嗎？我已經開始喜歡上你了。」他揚起了眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>「走吧，我很想和公會保持一段距離，哪怕這意味著我們一路上沒那麼多好吃好喝也無所謂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>「要我說，他為峽谷選了個合適的人。」</DefaultText>
+      <FemaleText>「要我說，他為峽谷選了個合適的人。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>「等你追上這個到處亂跑的神之後，你打算怎麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>「看起來像是一條不願服從的小魚掙脫了漁網。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>「是啊，要是有誰用船槳抽他一個耳光，我怕是不怎麼介意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>「要我說，有這麼個任性的孩子，恩加蒂是會哭的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>「對一個珍視著自己對女神的責任的水塑者來說，你浪費在逛窯子上的時間太多了。」
+
+公會長繞開泰克胡隨後大步離開了人群。
+
+眾人朝泰克胡又看了一眼，之後散去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>「過分！」泰克胡歎了口氣開始捋起自己的頭髮。
+
+他揚起眉毛，注意力轉到了你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>「要我說，問題出在我身上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>「要我說，你引起了我的注意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>「要我說，只有時間是絕不會被浪費的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>「你也應該還幾句嘴，讓他們明白你的立場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>「你當然是了，我看得出來他們為什麼敬畏你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>「難道你不應該更心存感激一些嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>他撅起上嘴唇，朝你揮著手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>「要我說，我不是什麼水手，對死亡更是一無所知。我是個藝術家。」
+
+他在空中打了個響指。附近的水蒸氣凝結起來，變成了一個水球，浮在他的手掌上方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>「我的族人們不明白這一點。對他們來說，水塑法就像是磨墨，造紙，練習書法之類的事情。」
+
+水球掉在地上，在他的腳下濺了開來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>「這麼說吧，我很好奇你都能做些什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>「我並不討厭生性敏感的藝術家。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>「如果你的能力能淹死我們的敵人，你願意怎麼叫它就怎麼叫它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>「海潮會帶給你以外的禮物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>他拍了拍你的肩膀，露齒而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>「我……我們會經常戰鬥嗎？啊，真是遺憾。」
+
+泰克胡抓了抓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>「我還聽說，追趕魂柱的人……是個死人。」
+
+泰克胡揚起了一條眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>「聽起來他們對你施加了很多壓力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>「靈視者是……做什麼的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>「我可以與死者的靈魂交流。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>「我相當於現世與暗空的中間人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>「我觀察別人，不過大部分是死人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>「嗯，原來如此。」他輕撫下巴，點著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>「我是貝拉斯的使者，至少現在是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>「如果你會表演雜技的話，我們會相處得很好的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>「哈，恩加蒂的孩子變成了一隻嗚嗚叫的海豹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>「魚味對咱們現在的空氣品質來說，算是種調劑了都。很高興與你同行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>「我們剩下的人有發言權嗎？」他盯著你和泰克胡，臉上明顯流露著惱怒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>帕蕾吉娜咬著牙，轉著眼睛，發出了一聲長長的歎息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>「伊希，盡量別碰這個怪人身上的觸手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>「以前從來沒人誇過我美麗。」她羞紅了臉，移開了視線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>「我以前就一直覺得，我們的船長對藍色的美人兒毫無抵抗力。歡迎上船，小伙子。」
+
+塞拉芬鞠了一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>「只要有人肯幫忙，我就接受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>「該從哪裡開始說起呢？要我說，我的稱號太多了！我是涅克塔卡天賦異稟的水塑者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>「那就出發吧！恩加蒂的選民將會踩扁每一條扭動的毒蛇，走吧。」他朝著樓梯點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>「我暫時不需要別人的幫助了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>「如果……如果你是這麼想的話，那我就為我的同僚們祈禱吧，願他們安然通過坦格羅亞之胃。」
+
+泰克胡用胳膊擋住了眉毛，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>「我不過逃掉了&lt;i&gt;一堂課&lt;/i&gt;，我去了一趟山上。宮殿的大門還是關著的，除非是你帶我去見奧涅卡莎。」
+
+他交叉著雙臂，揚起了眉毛。人群的嘟囔聲變大了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>「你&lt;i&gt;一個人&lt;/i&gt;去的？我告訴你要有耐心，但你總是把我的話當成耳邊風！」
+
+她突然意識到還有人在旁邊看著，於是讓自己的語調平靜了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>「我看到你之前和麥魯吵起來了，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>「是啊，要我說，我這隻漂亮的小魚總是能引起別人注意！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>「他是恩加蒂的孩子？昂德拉嗎？那個深海女神？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>「我聽說過恩加蒂的選民，但我基本從來沒見過真人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>「是啊，對&lt;i&gt;某些人&lt;/i&gt;來說，這種區別更加明顯。」他用手背朝公會長揮了揮手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>「你看到了嗎，麥魯？終於有人讚成我與生俱來的權利了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>「我不知道我有沒有把自己當成過神明的兒子……」</DefaultText>
+      <FemaleText>我不知道我有沒有把自己當成過神明的女兒……」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>「有些人總是滿腦子想著自己，讓人難以忍受，是吧？」
+
+她皺著眉，瞪了泰克胡一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>「或許你也猜到了……我也是恩加蒂之子，這並不是我自己亂想出來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>「麥魯那條老鯊魚……要我說，她太頑固了，不肯承認這一點。但等她去了佩瑞琪之墓的時候，她會需要有人幫忙的。」泰克胡對樓梯點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>「我已經準備好揮灑我們敵人的水了。怎麼說？我的提議保持不變。」泰克胡揚起了眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>「麥魯和我是有分歧點，但是……可怕的損失。」泰克胡歎了一口氣，他撫平了腦後一縷亂動的頭髮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>「公會長。人要講道理。」
+
+他甩了甩自己海葵般的頭髮，每一根球莖似的髮絲都閃爍淡淡的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>「那我們一起去找他好了。大家都喜歡給靈視者開門。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>「你是一個水塑者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>「你應該在涅克塔卡見過我的藝術品吧？」泰克胡眉頭一皺突然緊張了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>「卡罕加宮的接待室裡面就有我的『恩加蒂之珠』，明亮澡堂裡面還有我的『嬉戲牧師之舞。』」
+
+泰克胡抱起雙臂朝門口點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>「從有胡亞納人起就有水塑者了。但是從泰克胡開始這才是門&lt;i&gt;藝術。&lt;/i&gt;」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>「水塑法好像是很有名望的天賦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>「通過我們與神靈之前的聯繫，胡亞納人能夠像黏土一般塑造流水，我們能將流水塑造成固定的形態。」咧嘴笑著的泰克胡調整姿勢展現出一種流動著的，幾乎沒有重量感一般的姿態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>「如果努瓦泰的戰艦離城市太近我們能夠輕鬆擊沉他們的每一艘船，但是我們中還是有人有著……更加溫柔的愛好。」他歎了口氣，然後重新站直。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>「&lt;i&gt;有些&lt;/i&gt;人能夠看清水塑法真正的意義，這是上天賜予我們用來表達自己的禮物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>「你的部落從來沒有教過我們的藝術品的知識嗎？」他嘖嘖著搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>「得警告你，船長。恩加蒂賜予她最喜愛的兒子的可不是只有完美的外表。」泰克胡甩了甩頭髮然後自滿地歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>「什麼，你能在水下呼吸嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>「你是在袍子底下藏了個魚餌嘛？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>「我期待能夠瞭解其中的全部。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>「猜的不錯。只要不超過，呃……」泰克胡抱起手臂思考著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>「不要把魚餌牽扯進來，船長！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>「你肯定會瞭解的。總有一天。」他擠了擠眼睛，他的眼睛瞬間變得與打磨過的縞瑪瑙珠子一樣黑暗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>「嗯。我期待著能給你介紹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>「真不錯。你這麼特殊我真是太開心了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>「阿羅海派我來找你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>「Lutu！Mas sma luzu。」雷科侷促地縮起頭，試圖掩藏火燒似的臉頰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

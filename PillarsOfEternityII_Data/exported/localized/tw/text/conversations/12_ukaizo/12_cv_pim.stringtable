@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_cv_pim</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「記得我嗎，船長？」
+
+船長雙肩僵硬，掏出了武器，大步向你走去。他激動地揮著一隻手臂，但到目前為止，他一直瞄準著地面。
+
+在他身後，海盜們偷偷地溜出陰影。他們的表情嗜血。熱切。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「可能這個能喚起你的記憶。」「你謀殺了兩位船長委員會最高級別的船長。
+
+「這麼做時，就表示你向皇族海盜宣戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我不會看著烏凱佐落入海盜之手的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「忘了失落的黃金之城吧。烏凱佐能焚盡並沉沒我在意的一切。
+
+「血債血償。用一條命換兩條命。這就是我來的目的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[攻擊]「早死早超生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你是來復仇的……現在？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「沒必要再流血了。我們不必非這樣不可。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「對，但我們要這麼做。」皮姆對著你的腳啐了一口。然後，他最終舉起了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我確實做了，船長。那麼什麼樣的復仇更過癮呢，從你手中奪過失落的黃金之城——就在你相信它屬於的你之時？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「保重，該死的。」我要剝下你的皮當旗子！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我的天啊！把他們炸成碎片！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

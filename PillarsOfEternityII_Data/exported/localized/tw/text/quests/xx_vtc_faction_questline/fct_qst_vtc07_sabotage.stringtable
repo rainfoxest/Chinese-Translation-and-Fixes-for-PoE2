@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc07_sabotage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>爆破黃銅堡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在靈魂先知尖塔與佛羅恩交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>潛入並摧毀亡焰皇家商行的炸藥庫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>返回瓦利亞商行總部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>參加皇宮會議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>向主管匯報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>卡斯托爾主管在瓦利亞商行裡的地位已經安全了，他準備通過摧毀炸藥庫癱瘓亡焰皇家商行。
+
+他建議為了防止有人懷疑瓦利亞商行，我需要與鑄魂師一起找出更加隱秘的方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>主管已經命令鑄魂師去幫助我進入炸藥庫。等我準備開始的時候我需要去找佛羅恩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>佛羅恩認為她可以通過使用魂珀之柱將我傳送至炸藥庫。這方法應該能夠幫助我繞過全副武裝的衛兵，但是我之後得想辦法從裡面逃出來。
+
+我也可以選擇自己想辦法進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>炸藥庫已經成了一堆冒著黑煙的廢墟。該回瓦利亞商行總部了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>奧涅卡莎女王召集起了皇宮會議討論炸藥庫爆炸事件。我需要去皇宮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我成功洗脫了商行的嫌疑。我可以在女王港總部作完結報告。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>炸藥庫已經成為了一片廢墟，我在女王發出指控時幫助總督證明了自己的「清白」。瓦利亞商行成功癱瘓了爭奪烏凱佐中的頭號敵人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>炸藥庫已經成為了一片廢墟。多虧了我在皇宮的證詞，主管成了這次事件中的罪人，瓦利亞商行現在群龍無主。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>阿爾瓦瑞主管在瓦利亞商行裡的地位已經安全了，她現在準備通過摧毀炸藥庫癱瘓亡焰皇家商行。
+
+她建議為了防止任何人懷疑商行參與此事，我應該與鑄魂師們一同找出更加隱秘的執行方式。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

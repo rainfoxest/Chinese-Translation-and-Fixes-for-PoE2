@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_slayer_lion_statue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>殺戮之面的獵人之首之獵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>獲得&lt;b&gt;獵人之首。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將&lt;b&gt;獵人之首&lt;/b&gt;送回&lt;b&gt;回憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>殺戮之面令我找回另一個神器給回憶水池——&lt;b&gt;一個雕像丟失的頭。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>因加里收到消息說，&lt;b&gt;損壞的雕像&lt;/b&gt;在&lt;b&gt;胡亞納遺跡的某個地方。&lt;/b&gt;那個雕塑的頭可能非常漂亮。
+
+紀念碑和最厲害的獵人，遺跡已經被人群淹沒，雜草叢生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我在莫塔勒奧柯茲找到了獵人的頭，而且必須將其返回給&lt;b&gt;回憶水池&lt;/b&gt;，如果我想從其中抽取戰鬥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我將獵人之首加到了回憶水池中， 解鎖了一個額外狩獵之面挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

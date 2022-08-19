@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_herbalist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你好。奎茲莉，為你效勞。」她放下手裡的園藝剪，帶著溫暖的微笑上下打量你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「讓我看看你這裡都有什麼東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「歡迎回來，陌生人。對我的貨物有問題就儘管提出來。」她向你點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「能見到友好的面孔真不錯。我們這很少有人敢冒險向南旅行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你有點本事吧？」她把手放在腰間，對你饒有興趣地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我想你應該對我賣的藥草很熟悉了。我離開以撒密陀時只帶了包裡能裝下的，所以現在只能靠本地植物來維持庫存了。」她指指一排蘭花和密封罐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我知道你剛到亡焰列島不久。也許還有些水土不服吧？我這的藥草能幫你治療病痛或者更糟的情況。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你怎麼知道我才來這裡不久？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「這沒什麼。你剛剛露出一副『照單全收』的表情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「一名草藥學家來佩瑞琪之望做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「最可能的答案是錢，不過我想這並非你此行的目標。」她微微一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「也許和隔壁的魔法店理由相同。佩瑞琪之望是一處文化與創新的集大成之地，向旅行者們展現出胡亞納人志在天下的野望。」她聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「沒錯我是藥草學家，但我也為自己是種花人而自豪。我覺得在這座城市某處開一家花店會是不錯的想法。這樣很容易吸引遊客。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「給點時間，一切都會好起來。」她將一綹髮絲束於耳後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>她的目光掃向塞拉芬，久未離開。隨後她再度看向你，微微有些臉紅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「看看沒什麼的，姑娘。」
+
+塞拉芬咧嘴一笑向草藥學家鞠躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

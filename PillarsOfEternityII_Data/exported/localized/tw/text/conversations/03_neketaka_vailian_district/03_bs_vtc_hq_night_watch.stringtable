@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_bs_vtc_hq_night_watch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「現在不是辦公時間，你沒必要來這裡。請移步。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「如果我有緊急情況呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[撒謊]「我有重要文件忘拿了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「阿爾瓦瑞總督批准我通行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[攻擊]「這個總部挺氣派啊。要是被人用你的血染成紅色就可惜了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>守衛將兩根手指放入口中，吹出刺耳的口哨聲。她拔出武器向前邁步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「這裡似乎一切正常。請稍等，我這就為你開門。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「如果你的文件真那麼重要，那你大可放心，因為這棟樓有我守著。只要有我在，一張羊皮紙都過不了這個門檻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「如果你的事跟文書工作或滴蠟蓋章相關，這棟樓主要就是幹這兩件事的，你等到明天上午再來也不遲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「先生請進。」</DefaultText>
+      <FemaleText>「女士請進。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「晚上好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「如果你是來找瓦利亞商行談業務的，只能請你等到明早再來了。我們現在不辦公。」守衛傾斜了一下腦袋，以示警告。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「先生，總部尚未開門。」</DefaultText>
+      <FemaleText>「女士，總部尚未開門。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「也許我們可以本著互惠互利的原則達成一致？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「如果你有意捐助我錢，我會心懷感激地收下，但門我是不會開的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「一點辛苦費，不成敬意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我沒錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「回到我之前的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「如果你打算大費周章說服我放你進入總部，我勸你別浪費時間了，不過你可以試試。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「呃，反正有沒有都沒啥兩樣。你想找好心人施捨你錢的話別來找我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「十分感謝，朋友。」她把你的錢幣放進衣袋。</DefaultText>
+      <FemaleText>「十分感謝，朋友。」她把你的錢幣放進衣袋。</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

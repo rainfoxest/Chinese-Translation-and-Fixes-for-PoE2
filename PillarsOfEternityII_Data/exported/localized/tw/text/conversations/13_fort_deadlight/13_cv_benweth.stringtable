@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_benweth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>137</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>本維斯正在仰著脖子，大口大口地喝著墨綠色瓶子裡的東西。看到你之後，他把酒瓶猛地摔在了牆上，漂亮的地板上落滿了玻璃渣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「警報響了，你居然還敢大搖大擺走進這地方，你可真是個有種的傢伙。不過我已經記不住你是誰了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>本維斯用手擦了擦濕漉漉的槍機，甩了一把眉毛上的汗。他臉上帶著邪惡的笑容，朝船員們做了個飛吻的動作。隨後，他用充滿怒火的眼睛緊緊地盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>本維斯目瞪口呆地張著嘴，努力想喘上來幾口氣。他看著自己的船越駛越遠，眉毛皺得彷彿臉上刮起了一場風暴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「快走吧，你這條綠林好漢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「沒什麼比喝光了酒的杯子更讓人洩氣的了，我得弄點海盜烈酒來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「這是怎麼回事？你們玩的這麼高興，還想少了我嗎？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「哦，我知道了！你們這些傢伙想聽我彈琴了，對不對？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「把耳朵張大點，好好聽聽吧！你們肯定沒聽過這麼好聽的琴聲！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「到底是誰敲的船鍾？怎麼回事？！最好別是——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「這他媽的是怎麼回事？！住手！住手，那他媽是老子的船！！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「那些狗雜種日的偷船賊！我要把他們全都淹死！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我要把你的臉皮剝下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我見過你嗎？」他皺起眉頭，撓了撓後頸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「這麼說吧，我惹過之後又忘了的人多了去了，不只你一個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「讓我給你的腦袋一拳，就能幫你想起來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我們無冤無仇，我來這裡並不是打算找你報仇的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我猜這種事情確實會發生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「真的嗎？！你根本不記得我是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「想這樣的話，你得先打我一拳才行。而我多半是不會允許你這麼做的。」
+
+他發出了笑聲，笑聲陰沉而嘶啞。他把雙手叉在了胸前，手臂上的肌肉一跳一跳的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「哦，是嘛，你的話還真是……胡說八道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>」沒錯，你這張臉就很難讓人記住。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「哦，我想起來了。你是那個被困在風暴裡的迷糊船長，我記得你幹掉了我好幾個船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>他哼了一聲，露出了歪歪扭扭的牙齒，長滿老繭的手指摸著臉上的傷疤。但你注意到，他一邊摸著臉，一邊卻在環顧著四周，尋找援兵。
+
+他的同伴們並不在附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你該意識到，你已經被海盜們包圍了吧？這些海盜都全副武裝，而且聽我的命令。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你應該意識到了，我們是在整個舷窗堡壘戒備最森嚴的地方吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你來這裡，你以為你能做得了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「現在可沒人救得了你了，小本。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「絕大部分人都醉得打不了架，剩下的人都準備看熱鬧呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我毫不費力就來到了這個地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我是來殺你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[攻擊] 「不如我讓你見識見識吧，這還能痛快點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>汗珠從他的臉頰上流了下來，他的臉抽搐著，甩開了汗珠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「或許他們確實喝得爛醉，沒錯。」
+
+他沉下了臉，甩了甩肩膀，不肯退步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「是嘛，你還真是又勇敢又能打，我猜，我應該對你表示尊敬才對。」他歪過了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「那你可得先排隊了。想殺我的人，你不是第一個，也不會是最後一個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「好吧，那我得把眼睛睜大點才行。」他帶著半是嘲諷半是笑意的神情，抽出了手槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「如果你想和我打上一仗，那就來打，但你別以為能活著離開這座要塞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[對著他狂野地大笑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我覺得，想解決這個問題，不用非流血不可……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「要親近你的朋友，但要更親近你的敵人，這句話你沒聽說過嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你是喜歡被捆在船底下，還是喜歡被吊在桁桿上？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我打算和你做筆交易。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「先把嘴閉上，好好考慮考慮。你很需要我這樣的人成為你的夥伴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「弗蘭特在密謀把你除掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「你這種胡來的行為，會給皇族海盜的繁榮昌盛帶來風險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「你怎麼回事，你是瘋了吧？」他臉上的神采消失了，皮膚上的傷疤清晰可見。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「那就說給我聽聽吧……」他瞇起了眼睛，舔著嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「所以我應該最親近你，是這麼回事嗎？」
+
+他笑了起來，露出了醜陋而邪惡的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「聽著，我雖然不怕你，但我也不想自尋死路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「要想這麼做，你得先活捉我才行。這種事情可不太現實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我喜歡交易。對我越有利的交易，我越喜歡。」他露出了像鯊魚一般的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你是說殘忍又堅韌的人嗎？我在你身上看得出來，你擁有著海盜的精神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「接下來說的話你可得當心點，否則我可能會把你的腸子塞到你嘴裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「是啊，沒錯，他當然要除掉我了。他他媽的可是個海盜啊，沒錯嗎？他能認得出那些威脅到他的傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你的口氣就像弗蘭特的鸚鵡一樣。」他哼了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「而你，看起來就不怎麼能了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你要是敢繼續喳喳，我就直接把棍子捅到你嗓子眼裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「你為什麼要襲擊我的船？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「你們一直談論的這個艾戴斯船長是什麼人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「趕緊滾出我的視線，否則我就殺了你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[戳向他的喉嚨。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「只要是被我看上的船，我差不多都會襲擊。要是不親自去檢查檢查的話，你可不知道會找到什麼財寶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「不過，沒了亞龍號，我一段時間內怕是沒辦法親自搶東西了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「你現在待的地方，就是她的要塞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我們喝掉了她特意藏起來的好酒，我猜她可不會太高興，我得找個合適的人來當替罪羊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「不愧是我看上的人，說話我都這麼喜歡。」</DefaultText>
+      <FemaleText>「不愧是我看上的人，說話我都這麼喜歡。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「那我可要被你的腸子噎死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我來這裡是想給你個教訓，但買教訓不一定非要付出血的代價。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「看來你已經明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「就不能用和平的手段來解決這個問題嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「拿腸子噎死人確實需要技術，否則在被自己的腸子噎死之前，可能就先失血過多死了。」
+
+「你還是想來拿我試試嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>」好吧，我有很多錢可以買你的仁慈，你想要什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「好吧，這麼說吧，這次算你贏了。對於那些贏得我信任的人，我可以成為他們的好夥伴。」
+
+「目前來說，這個人就是你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「恐怕沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「如果你找我有事的話，我就在艾戴斯的房間裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我明白了，我當時就應該親手把我幹掉。現在看來，我得補救這個錯誤了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「這句話還記得嗎……『我要把你的腦袋掛在我的船艙裡。』」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「你還真是個言出必行的人啊，花上這麼多時間都不在乎。」他粗野地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[做個粗魯的手勢。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「我還是想不起來。」他雖然這麼說著，嘴巴卻咧開了，眼神似乎也閃了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「當時刮了一場可怕的風暴，那時候你打算向我投降，把你的船交給我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「是嗎？這聽起來有點耳熟……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「你以為我會這麼說嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「來，我們來打個不死不休吧。」他對你露出了瘋狂的笑容，緊接著抽出了手槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「或許我只是想談談而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「那就快談吧，有話快說。如果你打算耍什麼花招的話，我告訴你——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「就算是我，處於下風的時候也是會投降的，沒錯。」他重重地嚥了嚥口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「這是一大筆錢，我猜我們兩個算是扯平了吧。」他發出了明顯不滿的聲音，把一個沉重的包裹丟在了你的腳下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「你是瘋了吧！」
+
+他的臉上露出了震驚的神色，之後恢復了常態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我們這些新海盜都不喜歡弗蘭特的老教條，她是我們這些人的領袖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我們的船長現在可能還在海上，不過用不了多久，她就會回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「我會讓海上那些船不再追捕你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「至於在這裡，你想去什麼地方，我的船員都不會攔著你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「我需要一些錢幣來撐起我的口袋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「我需要某些漂亮的奢侈品來裝飾我的船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我要舷窗堡壘的每個船員都讚頌我的名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我這裡剛好有這樣的東西。要是擺在船長室的話，沒什麼比它更氣派了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「這裡所有的海盜都會瞭解你的力量與智慧，我向你保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「要是沒了阿本，還怎麼慶祝節日！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我記得，我當時是說要把你朋友的皮剝下來當褲子穿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[用拳頭打他的肚子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[扇他的臉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「我的天啊！」伴隨著一聲爆裂的響聲，鮮血飛濺。本維斯的頭歪到了一側，他跌跌撞撞地去拿他的武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>本維斯被打得彎下了腰，肺裡的空氣被打得湧了出來。他咬緊牙齒，嘴唇上都是血。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「去你媽的！」他單膝跪了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[繼續打他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[把拳頭攥得辟啪作響。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「住手，住手！」他用手搓著嘴巴，想把血抹掉，但卻弄得整個下巴上都是血。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>他警惕地看著你，往地上吐了口血。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「但我周圍都是這樣心狠手辣的傢伙，多一個人，對我又有什麼意義呢？」他嘲笑道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「如果你和我打，你只會讓自己丟臉而死，或者是先死再丟臉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「我覺得我已經開始喜歡你了，臭傢伙。或許，我可以不用把你活剝，看看接下來會怎麼樣……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「很高興我們達成了差不多算是愉快的共識。」他冷笑一聲，用舌頭舔了舔牙齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[離開] 「下次再見了，朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>他緊張地看著周圍，舔了舔嘴唇，汗從他的下巴上流了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>他緊張地看著周圍，舔了舔嘴唇，汗從他的下巴上流了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>他緊張地看著周圍，舔了舔嘴唇，汗從他的下巴上流了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「如果有哪個人要被自己的腸子噎死的話，那個人就是你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>你朝那個傻笑的船長一拳打了過去，但他的動作比你更快。他雖然塊頭很大，卻靈活地躲開了你的攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「我說，老本，就是這條小狗崽惹你的麻煩嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「呸！是該有人來教訓教訓阿本了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「有屁快放，你這條劈舌頭魴魚。只要我還活著，你們外來人就別想動我們的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[用手挨個指著每個海盜，用拇指在喉嚨處比劃一下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「我是船長評議會派來的人，你們也打算反抗弗蘭特嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我已經殺了不少你們的人了，再殺幾個又能怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>[攻擊] 「那我們就來打一架吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「你說……什麼？別看我，我可不想第一個動手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「哎喲，嘖！已經九聲船鍾都敲過了嗎？我，額，我得幫我的同伴們搬貨去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「你是在打我的臉嗎？你他媽的要去什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「抱歉，老本，但是我……我聽到船長叫我了，下次我請你喝一杯吧，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「沒用的廢物。」本維斯用手捂著臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「你剛剛說，這群海盜都怎麼樣……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「來，我們來打個不死不休吧。」他對你露出了瘋狂的笑容，緊接著抽出了手槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「艾戴斯從來都不會碰到這樣的問題。好吧，你他媽有屁快放吧，你找我想幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「你們已經聽到他的話了，夥計們。」</DefaultText>
+      <FemaleText>「你們已經聽到她的話了，夥計們。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「怎麼樣，氣壞了吧？」他往後退了一步，躲開攻擊，爆發出一串笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

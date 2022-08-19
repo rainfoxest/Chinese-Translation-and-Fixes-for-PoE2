@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\challenges\challenge_qst_ultimate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>終極挑戰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>擊敗永恆大法師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在淹死鬼廢坑中擊敗毀滅者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>擊敗水塑者的秘密。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>擊沉亡焰恐怖號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>摧毀昂德拉之臼彼端的守護者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>在涅克塔卡消滅掘進器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>擊殺水晶女皇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>摧毀饕餮大山。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>擊殺秘法魔符大師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>摧毀鐵爪巨像。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>擊殺伽拉溫的怪物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>擊殺崛起的巨龍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>擊敗寒冬巨獸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>擊殺記憶貯藏者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>擊敗先知。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>在亡焰列島尋找最致命的敵人並將其擊敗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>這名大法師已經逃過死劫太多次了。確保他不會再次逃脫。
+
+或者至少可以斬下他的頭顱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>淹死鬼廢坑的深處有一隻汲取秘法能量而體型碩大的惡魔。找到它，結束它的統治。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>在涅克塔卡被遺忘的高牆下，有個被古代水塑者儲存下來的秘密。將其擊殺。
+
+這名敵人會巧言令色換取自由。不要被它的話語蒙蔽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>某只有翼巨獸在拉紳的地穴中築了巢。
+
+你沒有多少機會面對這隻巨獸。不要錯失良機。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>有某位歷經滄桑的守護者在昂德拉之臼彼端沉睡著。讓它從使命中解脫吧。
+
+要注意——你得盡快完成這項任務。不要讓其他人搶先。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>有某只無比貪食的生物依靠所有丟進涅克塔卡峽谷的東西為食。幹掉它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>水晶女皇與其族群藏在亡焰列島北方的海域裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>饕餮大山吞食著數個世代的胡亞納人而仍然沒有得到制裁。不要再讓它生長下去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>整日研究秘法魔力的魔符大師已經神智不清了。終結她的瘋狂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>這件被遺忘在角落裡聽天由命的金屬裝置可能會落入壞人之手。確保這樣的事情不會發生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>有東西在卡茲瓦里島上滋生。去那裡讓它消停一會兒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>在南方的海域中有一處冰川小島上住著一隻死裡逃生的巨龍。
+
+可能有不少機會能避免與其正面衝突。不要走這些捷徑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>一隻可怕的野獸在白色虛空中遊蕩。終結掉它空虛的存在。
+
+你可能很想換個方式擺脫這差事。你一定不可以這麼做。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>有某個受折磨的靈魂聚合體在遺忘之地遊蕩。找到它，讓它安息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10031</ID>
+      <DefaultText>某種恐怖的東西在黑島中興風作浪，威脅稱要帶來比俄撒斯更為可怕的威脅。找到並擊敗它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>任務失敗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>你通關了終極挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

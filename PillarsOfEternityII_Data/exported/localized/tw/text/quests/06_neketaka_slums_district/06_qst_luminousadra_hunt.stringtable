@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_luminousadra_hunt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>貨物與勞務</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>獲取三箱光魂珀原礦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>將魂珀帶給莫萊娜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>獲取四箱光魂珀原礦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>獲取六箱光魂珀原礦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>在&lt;b&gt;地下室&lt;/b&gt;尋找&lt;b&gt;瘋子莫萊娜&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>在&lt;b&gt;舷窗堡壘&lt;/b&gt;與&lt;b&gt;艾戴斯船長&lt;/b&gt;交談</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>管理峽谷中&lt;b&gt;地下室&lt;/b&gt;的皇族海盜船長&lt;b&gt;瘋子莫萊娜&lt;/b&gt;希望以黑市價格出售精煉光魂珀。為了贏得她的信任我需要獲取六箱魂珀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>瘋子莫萊娜的一個買家正在以黑市價格收購光魂珀原礦，但是莫萊娜手頭上沒有一點存貨。
+
+按照她的說法，瓦利亞商行在&lt;b&gt;女王港&lt;/b&gt;的&lt;b&gt;磨坊&lt;/b&gt;裡面存有精煉光魂珀。
+
+我可以從磨坊裡面偷出三箱魂珀或者在海上伏擊準備將魂珀運出涅克塔卡的商行船隻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>瘋子莫萊娜正在涅克塔卡里的&lt;b&gt;地下室&lt;/b&gt;等待精煉光魂珀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>瘋子莫萊娜的一個買家正在以黑市價格收購光魂珀原礦，但是莫萊娜手頭上沒有一點存貨。
+
+按照她的說法，瓦利亞商行在&lt;b&gt;女王港&lt;/b&gt;的&lt;b&gt;磨坊&lt;/b&gt;裡面存有光魂珀原礦。
+
+我可以從磨坊裡面偷出四箱魂珀或者在海上伏擊準備將魂珀運出涅克塔卡的商行船隻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>瘋子莫萊娜的一個買家正在以黑市價格收購光魂珀原礦，但是莫萊娜手頭上沒有一點存貨。
+
+按照她的說法，瓦利亞商行在&lt;b&gt;女王港&lt;/b&gt;的&lt;b&gt;磨坊&lt;/b&gt;裡面存有光魂珀原礦。
+
+我可以從磨坊裡面偷出六箱魂珀或者在海上伏擊準備將魂珀運出涅克塔卡的商行船隻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>我應該去&lt;b&gt;地下室&lt;/b&gt;尋找艾戴斯的下屬&lt;b&gt;瘋子莫萊娜&lt;/b&gt;，那裡是胡亞納首都涅克塔卡的執法機關沒發現的一處隱蔽地穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>&lt;b&gt;艾戴斯船長&lt;/b&gt;想在&lt;b&gt;舷窗堡壘&lt;/b&gt;與我和談。她向我保證這不是什麼陷阱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;瘋子莫萊娜&lt;/b&gt;需要最起碼三箱光魂珀原礦去供給她的買家。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;瘋子莫萊娜&lt;/b&gt;需要最起碼四箱光魂珀原礦去供給她的買家。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;瘋子莫萊娜&lt;/b&gt;需要最起碼六箱光魂珀原礦去供給她的買家。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我給瘋子莫萊娜提供了她需要的魂珀，作為感謝她的隊伍將幫助我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我給瘋子莫萊娜提供了魂珀。她在地下室的隊伍將給我提供幫助，她說我應該去舷窗堡壘見見她的領導艾戴斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;艾戴斯船長&lt;/b&gt;要求我去協助自己手下一名叫做&lt;b&gt;瘋子莫萊娜&lt;/b&gt;的船長，莫萊娜負責管理著涅克塔卡里一個叫做&lt;b&gt;地下室&lt;/b&gt;的秘密藏身點的走私行動。如果我能夠找到這名皇族海盜船長並幫助她，艾戴斯說不定會更願意與我合作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>我收到了一封來自&lt;b&gt;艾戴斯船長&lt;/b&gt;的信件。她知道我已經擺平了她的副手&lt;b&gt;本維斯&lt;/b&gt;，現在她想要與我在&lt;b&gt;舷窗堡壘&lt;/b&gt;見面。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

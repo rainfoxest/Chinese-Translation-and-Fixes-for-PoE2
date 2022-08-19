@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_quest_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>107</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「強大而可怕的力量在作祟，[Player Name]。而你似乎，再一次陷入了風暴中心。」
+
+亞洛斯用雙手把弄著肩帶的邊緣，意味深長地皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我答應過我會告訴你我混入國王港的這幫鑄魂師之中幹什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你可能已經猜到了，我在監視他們。搜集這個地區各種鑄魂活動的相關情報。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「所以呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我希望我能像你一樣思維清晰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>他雙唇緊閉，用鼻子歎了下氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「為什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我想你是在尋找灰鑰社的某個團體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「灰鑰社對鑄魂學有著特別的興趣。我希望透過它揪出他們的蹤跡。」他的眼中閃出一絲喜悅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「沒錯，最好還能想辦法讓他們開口。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「然後呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「真聰明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「聽起來像是個很籠統的計劃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「舊瓦利亞事件之後，我更深入地思考了灰鑰社與其特殊的結構。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「大多數都是穿著長袍的瘋子，如果我沒記錯的話。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「它存在了兩千多年了。不管你對他們的動機和行徑有什麼看法，其生命力確實令人讚歎。」
+
+他雙手背在身後，開始來回踱步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「噢，很有意思。」他瞥了你一眼，但嘴角卻揚了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「那時候我才意識到自己目光有多短淺。竟以為自己在弄清灰鑰社的運轉方式之前就能改變它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「那時候我才意識到自己目光有多短淺。竟以為自己在弄清灰鑰社的運轉方式之前就能搗毀它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>亞洛斯若有所思的表情消失了，伊莎彌兒咯咯地笑了起來。
+
+過了一會兒，她再次離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「如果你倆鬧夠了的話……」他瞥了你一眼，但嘴角卻揚了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我找到一些文獻，涉及灰鑰社在亡焰列島上的一個古老秘密團體。有可能是歷史最悠久的分支之一，如果資料可信。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「而且他們似乎已經獨立運轉——不受撒奧斯直接干預——將近兩千年了。」他熱切地望著你，希望你有所領會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「你認為通過觀察他們，可以瞭解到灰鑰社的運轉方式。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「以及如何改造它們。沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「以及如何消滅它們。沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「很好。我們怎麼找到他們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「所以說他們很老。重要嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「很多資料裡把他們稱作「塗鴉面具人」。但我在這裡沒碰到一個聽說過這個稱謂的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「但現在有個難題。」他不再踱步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「確切地說，我不知道他們在亡焰列島的什麼位置。但我希望我們可以一起尋找他們。」他叉起雙手，滿懷希望又略帶倦意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我會盡全力幫忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「別擔心，亞洛斯。我保證我們會找到他們，無論如何。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我相信你。」他微笑著，但眼角流露出一絲擔憂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我不想空許承諾。已知的線索太少了，但我們會盡力一試。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「這就是我唯一的請求了，[Player Name]。」他低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我明白。我只是希望如果我們偶然發現他們，你能允許我進行調查。」他低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「在怪物橫行的列島上尋找灰鑰社的一個古老分派。行，簡單。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>他笑了起來。"對於在眾神之怒下倖存的靈視者來說，我希望如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「從這開始事情就變複雜了。」他撅起嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「這隻是第一步。」不過，他的耳朵變紅了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你沒理解嗎？如果我瞭解了他們是如何持續運轉的，我就能悟出改造灰鑰社的辦法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你沒理解嗎？如果我瞭解了他們是如何持續支撐的，我就能悟出消滅灰鑰社的辦法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>當你靠近一個畫著奇怪符號的哨站時，亞洛斯將一隻手搭在你的胳膊上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「很好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「能晚點兒再說嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「不要緊，我已經知道你在為灰鑰社效力了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「別告訴我你在為另一個秘密組織工作……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「我沒時間聽那些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「這跟我來到亡焰列島的原因有關。跟我要搜尋的人有關。」他意味深長地把目光從你身上移回英格維仙塔樓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「恐怕不行。」他意味深長地把目光從你身上移回畫著符號的哨所和英格維仙塔樓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我現在才知道，最好別在一個能解讀靈魂的人面前保留秘密。」他面露微笑，但很僵硬。</DefaultText>
+      <FemaleText>「我現在才知道，最好別在一個能解讀靈魂的人面前保留秘密。」他面露微笑，但很僵硬。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「如果不重要我就不會堅持了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「噢，很有意思。」他面露微笑，但很僵硬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我在過去幾年犯了一些錯誤。因此，我已經更深入地思考過灰鑰社的結構。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「奧里奧柯基的瓦哈奇會在臉上塗畫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「其實，我可能知道他們是什麼人。很久以前，撒奧斯親訪了一位瓦哈奇酋長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我不明白。你發現了什麼？」他露出不安的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「真的嗎？那麼也許我們去那裡能有所斬獲。」當他望向你時，藍色的眸子裡閃爍著希望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>隨後，他把目光挪回了荒廢的英格維仙塔樓。還有它旁邊的獨木舟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「讓我們四處查看下吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我們究竟要開往何處，靈視者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我們會過的努瓦泰人一定會把你在哈桑戈說過的話傳開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「不過其他人會想知道你見到的東西，[Player Name]。
+
+「他們會指望你來給出答案。」他遲疑地看著你，眉頭緊縮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「我必須如實說出我的所聞所見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我會把他們想聽的告訴他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我很擔心這樣做的後果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「我說什麼無關緊要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「你難道不擔憂接下來會發生的事嗎？你可能會推進哪些事件？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「這究竟是什麼意思，亞洛斯？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「如果我思前顧後那麼多，我就什麼也幹不了了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「別人拿著我的話做什麼是別人的事，不是我的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「當然了。那正是我謹慎措辭的原因。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我懷疑我的回復將意味著不可挽回的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「這不是個小問題。」他捏了捏鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「說得倒輕鬆。」他惱怒地張開雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「我也是。」他的眉頭皺得更緊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「你聽到俄撒斯親自透露了他要終結輪迴的計劃。」他從牙縫裡說道，四處張望，一副生怕有人偷聽的樣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「現在，亡焰列島的其餘人都想知道瑪珈嵐之牙發生了什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「我沒什麼要說的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我知道。這讓我犯難。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我能理解。」他衝你遺憾地假笑了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「好吧。至少我不是獨自承受了。」他苦笑了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「它讓我想起了那個吸引我到亡焰列島的問題。
+
+「那個我一直都在逃避的問題。」他撓了撓後頸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「所以說你在監視你的朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>他皺眉蹙額。「並非出於惡意。根本沒有更好的辦法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「灰鑰社是怎麼運轉的？你是怎麼搞明白的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「當然是通過研究其本源。」他停頓了片刻，向你展示了一個勝利的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「呸，我可沒慫恿這小鬼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我們有更加緊要的事。我不能為此繞道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「我們走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「如果有時間的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「這就是我唯一的請求了，[Player Name]。」他低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「謝謝你，[Player Name]。」他親切地一笑，但他但表情裡暗藏著一絲不安。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「我不知道你怎能如此肯定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「我還是想不通，你是怎麼精確地知道它們將表達出什麼意思呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「現在我該解釋一些事情了。」他舔了舔嘴唇，想了想接下來要說的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「無論什麼人住在這兒，他們顯然已經在這裡生存了很長時間。」
+
+他望著畫有奇怪符號的哨所。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「不管怎樣，都晚了。我想我已經盡力了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「不管怎樣，天還亮著。我想我已經盡力了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「這是瓦哈奇的地盤。這個符號是對外來者的警告。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「希望你能抽點空出來。因為關於那夥人的動機和行徑我還有挺多話想說的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「它看上去很像灰鑰社的標誌。但不知道為什麼……有點扭曲。」他歪著頭，像是在從另一個角度觀察它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「我願意洗耳恭聽。不過請想想我們能從他們那裡學到些什麼吧。」
+
+他再次轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「艾德爾，稍安勿躁。我不是在替他們辯護。」
+
+他再次轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

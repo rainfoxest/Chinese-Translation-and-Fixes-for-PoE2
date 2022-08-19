@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_04_si_pool</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這個池子裡膽汁的化學氣味燒灼著你的鼻孔。雖然液體通過下方的肉質管道排出，池子周圍的管道源源不斷地往豎井中噴入更多液體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[向下進入導管。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你爬進了液體裡，液體溫吞的熱度令你不安。
+
+你一開始還以為很安全，但肌肉將你抓緊往下拽時，你感到渾身皮膚開始刺痛，之後變成了灼燒感。
+
+你的皮肉開始脫落，同時你越陷越深。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>豎井直通沃艾珥畸形身體的深處。雖然膽汁的酸味充斥著腔室，沿著管渠往下降似乎還算安全。
+
+至少暫時如此。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>腔室的肌肉邊緣微微顫動，好像在抵禦著腐臭膽汁的侵襲。向管渠裡灌入液體的導管似乎因不間斷的水流而很不耐煩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[調查池子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你在前方看到了不斷擴張的微弱紅光……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你認為進入膽汁對你的健康肯定沒好處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[向下進入導管。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>豎井光環的側面各處都沾著膽汁，一直向下延伸，直到你視野的盡頭。你估計爬下這個洞後就爬不上來了。
+
+通往沃艾珥身體核心的這趟旅行有去無回。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[下山。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>根據無面管理人的反應判斷，費歐雷吉似乎從這裡下去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>深坑看著就很噁心，聞起來更噁心，就像食人魔茅廁裡的十幾枚臭雞蛋一樣難聞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你像蜘蛛一樣小心而熟練地沿著排水管往下爬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>儘管你時刻都想著小心翼翼地沿著排水管往下爬，但你還是手一滑，腳也踩空了。你在一片可怕的漆黑中不停墜落。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

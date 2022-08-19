@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_fortune_teller</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>68</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你好！要給你算上一卦嗎？」
+
+箱內的木偶腦袋伸到邊緣，用空洞的表情盯著你看。
+
+他期待地敲敲金屬投幣槽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你好！想算上一卦嗎？只要一個子兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「有什麼能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「給我算一卦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>木偶閉上眼，捻起手指。你聽到箱中零件旋轉與敲擊的聲音。
+
+他的眼睛重新睜開，這一次其中閃爍著琥珀色光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我得知你闖入了亞柯彌莊園。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「那座莊園是一處堡壘。我和一名絨精同伴認為亞柯彌是不會在乎少一點金幣或寶石的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「有塊天然巨石擋在亞柯彌的居所與明亮澡堂之間。」「加諾讓我們帶著鎬頭在他的地下室紮營。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「之後發生了什麼事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「經過一番努力，你還是被殺了。真可悲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「那是一次神不知鬼不覺的行動。沒人知道你要來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「嘿，你比看起來要聰明。我們也許能撬開前門的鎖，但誰知道另一邊會有多少守衛呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>他向你眨眨眼。
+
+他把手伸向機器中的某個小拉桿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我們直至找到秘室也未被發現。沒有鎖眼，只有一堆寶石。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「當他在鼓搗鎖頭時，某個妖精對我們起了疑心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你猜怎麼著——花上五百個子兒，你就能接著聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「拿著吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你要錢能有什麼用？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我得攢錢離開這地方。五百個子兒能給零件上好油。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「痛快說，否則我就把你這箱子丟到女王港的海底去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「亞柯彌會覺得這很有趣並把我留在那下面。」
+
+木偶的陶瓷眼球在眼眶裡滴溜溜直轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[撒謊]「我已經聽亞柯彌本人講過了。我只是想聽聽你的說法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「他肯定一直在笑個不停。」
+
+木偶的雙手緊緊握住，表現出滿是壓抑不住的怒火。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「沒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你的故事是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我沒想到這種小玩意裡也會有靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我不應該和顧客多聊天的。」他敲敲投幣槽，向你眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你算的東西會成真嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「當然。向來如此。」
+
+他一眼不眨地看著你，好像在等你說他騙人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「那你不如自己去聖梯中的鑄魂師高塔。不用這麼傻看著我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我看到一個……黑髮女子。不，是紅頭髮。非常深的紅色。也許那就是黑色。她想要你幫她找回……婚戒。在她支付報酬時要小心——她的錢包裡藏著一隻蠍子。我不清楚是為什麼。」
+
+他煩躁地用頭點向一邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我看到……一座房子。四面牆，天花板，還有地板。都是木製的。如果你在那裡睡上四晚，你的一位真愛就會在街上出現。動作要快，否則紅衣的吟遊詩人就會攜她而去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我看不到更多了……除非你再給我一個子兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「你並不擅長這個吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我想要回我的錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「呵，我還想變回人形呢。錢不在這下面，相信我。概不退款。這是亞柯彌定的規矩，不是我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我給你算的如此精準！成真的時候你會感謝我的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「給我再算一卦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我看到一處岔路。有一座人類的雕像……有個身披長袍的人。走向了左側岔路。如果你走右邊，會有大麻煩。別問我為什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我在亞柯彌手裡吃了虧，確切來講並未生還。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「混蛋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我看到……一個水桶。不，是一艘船！你馬上將會踏上旅程……還是說你正在旅途中？如果你遇到一個……戴帽子的人，千萬別和他說話。後果你承擔不起。」
+
+他像賢者一樣點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我沒什麼能幫你算的了。大部分人從不問兩次。」
+
+機器吐回了你的硬幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我看到……一座島嶼。那裡犬牙差互的海岸上繚繞著烈焰，但你終將踏上彼處。有人在等待著你。我想那是個男人。一位老朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我還有其他問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>他把頭歪向一邊等著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「怎麼，沒硬幣了？哼。我知道的就這麼多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>你花了整整一個小時，將硬幣挨個塞進伊夫倫的投幣槽裡。在此期間，伊夫倫搓著他的木頭手掌哼著歌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「經過一番謹慎行動後，我們成功避開所有守衛潛入了亞柯彌莊園。」
+
+他的眼神閃耀著自豪的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「再和我講講你是闖入亞柯彌莊園的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「喜歡聽好故事嗎？人之常情啊。」
+
+伊夫倫笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「啊。可憐的費西娜。連我也未能預見到。」他的木頭眼皮低垂了一些。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「胡亞納人對亞柯彌將你奴役在此有什麼意見嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「女王有一位大法師供其差遣簡直欣喜若狂，怎會顧得上我。」
+
+他的鉸鏈嘴巴抿出一個苦笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「我不能責怪她。胡亞納人的日子也不好過，我們都很缺錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「警報響了。我都不記得我是怎麼死的了。醒來時我就在這箱子裡，亞柯彌說我要以工作來償還欠下的債。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「你死後你的同伴如何了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「亞柯彌說他也死了，不過『派上了好用場』。抱歉我不想推敲這句話是什麼意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我想變大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>他張張嘴又合上，眼睛機械地左右撲閃著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我不知道具體該如何去做。抱歉。不過同樣感謝你的分享。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「嗯。」伊夫倫敲敲機器上的銅製硬幣槽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「『哦，伊夫倫，你是對的。我竟然對你有所懷疑！』你肯定會這麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「嘗嘗這個，你這混蛋！還有這個！」
+
+硬幣槽迅速彈出不少硬幣，像石子一樣向你砸來。伊夫倫機械地笑著，他的頭前後搖擺，反覆搖著拉桿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「感覺不錯。」伊夫倫歎了口氣，閉上眼睛縮回了箱內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「嗯，我在外面已經很有名了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「給一個銅板吧，祝你好運，善良的先生？」</DefaultText>
+      <FemaleText>「給一個銅板吧，祝好運，善良的夫人？」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

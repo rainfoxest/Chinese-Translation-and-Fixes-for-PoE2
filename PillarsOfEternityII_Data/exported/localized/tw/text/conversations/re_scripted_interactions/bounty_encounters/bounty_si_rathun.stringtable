@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\bounty encounters\bounty_si_rathun</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>沙漠中瀰漫著一股好似頭髮堆在鍛爐中燃燒的惡臭。緊接著你看到一群人影在山坡頂端出現，個個身材高大，並且週身燃燒著烈焰。那是一支拉紳掠奪小隊。
+
+風中依稀飄來對方含糊不清的吹噓聲——最近某次成功的劫掠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>其首領的外表與描述中的厄諾斯·布瑞斯極其相似，這是個屢次襲擊基斯商船的狂信者。他頭上有一筆不菲的賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

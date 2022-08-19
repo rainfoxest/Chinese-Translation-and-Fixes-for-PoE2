@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_sanza</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>99</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「噢！你好！歡迎光臨小店！看到新客人真讓人高興！」
+
+桑扎向後仰去，佈滿滄桑的臉上綻開大大的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「啊，嗯，沒錯，下次—下次你可不能再給我有老鼠尿味道的錢袋了，明白嗎？不然我要按鼠倍的價格收費。啊，我是說數倍！數倍的價格。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「如果沒有其他事情，那就再會了。感謝你的，呃，惠顧。歡迎下次光臨。最好帶些錢。
+
+「至少把它們擦亮些。這才是好小伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我能為你做些什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「偉大的探險家回來了！這裡永遠歡迎你，我的朋友。請隨意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「讓我看看你這裡都有什麼東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你在這裡是做什麼的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「當然，當然！我很樂意。當然了，這裡主要出售書籍和一些小玩意兒。還有定制的地圖，你看……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「啊，我是個繪圖師！我繪製地圖。而且我幹得不壞——願諸神原諒我沒有過於謙遜地介紹自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「過去我曾經到海邊去自己進行繪製，但現在我沒這個時間了。太多地圖要畫！
+
+「可惜了。亡焰列島還有好一塊地方我想看看呢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「歡迎回來，歡迎回來！很高興再次見到你。說說看，這次的航行如何？一帆風順？希望沒有事會耽誤你的探險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「求求你，你想要什麼都行！只—只要你放過我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「實際上，我寫書還挺在行的！噢，不過我不會為此勞煩你。請原諒我的嘮叨，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你說你在寫書？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我在編撰一位探索者口述的亡焰列島見聞。至少會包括奧涅卡莎女王的部落所要求的那一部分。」
+
+「我的書會開創一個新的種類！探索者俱樂部會為之&lt;i&gt;瘋狂&lt;/i&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我說不上是最&lt;i&gt;強壯&lt;/i&gt;的戰士，否則我就親自上馬了。
+
+「話雖如此……但這不是很棒嗎？一本亡焰列島的探索者指南！如果有朝一日……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「嘿！那東西……那東西是我的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「你可以物歸原處嗎？拜託？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「噢，天啊。我……我需要那東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我親愛的卡萊布啊！你——你這禽獸！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你就……在這兒過夜嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「啊，嗯。偶爾。」他一隻手摸著額頭，從耳朵尖到脖子都漲得通紅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「好狗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你也這麼覺得嗎？他可真是個了不起的傢伙，是吧？」桑扎的臉上露出大大的笑容，容光煥發得彷彿能照亮屋子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「他最近狀態不太好。我跟你說，我覺得他是厭倦大海了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「你也知道，我跟工作結了婚。我實在是……實在是太&lt;i&gt;專注&lt;/i&gt;了，埋首於地圖之中，一抬眼就發現天已經亮了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我可跟你說，跟地圖睡在一起總歸比跟卡萊布睡在一起好多了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「如果你需要亡焰列島任何一塊穩定區域的地圖，找我準沒錯。而且我收費合理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「你會以為船長們都是群無所畏懼的傢伙。況且我提供的報酬很合理！」
+
+桑扎雙手抱臂，長歎一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>桑扎移開了視線。嘴角露出一絲充滿渴望的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「他總是喜歡拱毯子。」他撓了撓後頸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「好哇！我會成為有史以來最出名的探險者！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「胡亞納人肯定已經探索過這片區域了。你就不能問問他們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「呃，是這樣，他們或許是去探索過了，但是他們一個字也不肯向我透露！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我猜是因為他們不想讓入侵者在自己的土地上瞎跑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「你有沒有想過，他們拒絕你是出於正當理由？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[點頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「我確實沒怎麼考慮這方面！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「你應該好好想想。」泰克胡雙手抱臂，低頭怒視著桑扎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我有膽量，還有一艘船。要我幫忙嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「祝你好運。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「此言當真？這真是——哇！我都不知道該如何感謝你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「等你一回來，我就填補上我地圖裡的空缺，並把你的見聞編寫進書裡！」
+
+「天哪，這肯定會&lt;i&gt;精彩至極&lt;/i&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我的計劃是探索所有還沒經過測繪的島嶼，有些島嶼甚至還沒有命名過。全靠你了，朋友！」
+
+「你不可能對命名一個小島不感興趣！」</DefaultText>
+      <FemaleText>「我的計劃是探索所有還沒經過測繪的島嶼，有些島嶼甚至還沒有命名過。全靠你了，朋友！」
+
+
+「你不可能對命名一個小島不感興趣！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「真是太遺憾了。我保證過會署上他們的名字！說不定還會讓他們寫卷首題詞呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「哦，別用那種眼神看著我。保守秘密固然很好，但是有人想讓一整個部落消失的話，如果地圖上沒有記載他們的存在，這件事辦起來就容易多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「……或者說，原定計劃如此。事實上，因為這個雄心勃勃的計劃過於危險，沒有人願意為我探索島嶼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「你打算把這些指南賣給誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「當然是賣給所有人啊！這才是關鍵，不是嗎？」
+
+「啊，雖然成本包括紙張和材料，但總的來說我定價非常合理！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「如果有報酬，我願意接下這個工作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「你需要探索一大片土地——我是說——水域，而且有些島嶼出於&lt;i&gt;非常&lt;/i&gt;危險的水域之中。」
+
+儘管談話的內容嚴肅，但桑扎臉上快樂的表情絲毫不變。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「別擔心，我早有計劃。我們先讓你小試牛刀。等你有過經驗之後，我保證你也會愛上這份工作！
+
+「什麼都阻止不了我們！我是說，阻止不了你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「當然了，什麼都阻止不了你這樣一位經驗豐富的船長！天哪，我簡直等不及了。我早早就全都計劃好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我為你的書積累了一些材料。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「噢，太令人興奮了！我們來看看……天哪，我可沒預料到會這樣。而且距離國王港這麼近！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我再也找不到比你更好的合作夥伴了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「棒極了！我簡直迫不及待想……噢，你畫的那是個小魚人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「太棒了，我一直想知道那裡究竟有什麼。我列了一份清單。火焰巨人，火焰巨蟻……沒有火焰蛇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「太棒了，我一直想知道那裡究竟有什麼。我列了一份清單。火焰巨人，火焰巨蟻……沒有火焰蛇。
+
+「……等等，也就是說——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「關於你那本書……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「如何？如果你是前來購買副本的話，恐怕我目前進展甚微，尚未成文。」
+
+桑扎以一聲戲劇性的歎息結束了語句。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「我認為我們可以從商行在國王港的前哨站周圍的水域開始探索。
+
+「那個地區有……兩個島嶼，沒人重視它們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「等你一回來，我就填補上我地圖裡的空缺，並把你的見聞編寫進書裡！」
+
+「天哪，這肯定會&lt;i&gt;精彩至極&lt;/i&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「無需多等。我已經去過那裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[離開。]「我得走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「你……什麼？
+
+「真是令人難以置信！太棒了！想想看，萬一你沒有碰巧光顧我的小店！可就是錯失良機了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「你幹的太棒了！噢，這本書會成為自卡西尼的&lt;i&gt;冒險家&lt;/i&gt;之後最暢銷的書，而且那本書還是&lt;i&gt;垃圾&lt;/i&gt;愛情小說——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「拿好——這是你的酬勞，朋友。當然了，這才僅僅是一個開始。我們的前途一片光明！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「我建議，下一站選擇提卡瓦拉。你意下如何？這是一個胡亞納小村子，就在東南邊。」
+
+「這次包括三個小島，全都是不討人喜歡的無名島。如果你斜著看的話，它們在提卡瓦拉周圍連成了一個小三角形…」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我會等著你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「你做到了！你真的——噢，我明白了，你是開玩笑。
+
+「我不得不說，你這麼做很過分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「這是你應得的報酬！
+
+「但是為何滿足於此呢？我們進展良好，你自己的能力也得到了顯著提升。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「這次我要拍你去西方遠處。比國王港還遠，比瓦卡拉暗礁還遠，甚至比堪加提諸島還遠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「那裡有許多年沒人去過，充斥著各種黑暗的傳說。
+
+「但我肯定你不會有事的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我已經為你準備好酬勞了。我就知道你肯定不會讓我失望！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「現在我們要徹底淌進水裡了。可以這麼說。
+
+「我們將瑪珈嵐之牙東邊的幾個島嶼稱作焚火沙洲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「如你所想，那裡有點熱。有兩個島嶼還沒經過調查。
+
+「要前往那幾個島，你從碼頭出發後要向東北方向行駛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「如果你願意在書裡放一些漂亮的插畫，那麼眼下就有一位探險者為你效勞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我們即將大功告成！地圖上只剩一個角落的空白了！」
+
+桑扎匆忙地搜索了他的口袋，然後是背帶，最後遞給你一個鼓鼓的錢包。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「卡萊布，現在不行……我一會兒再帶你遛彎……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「恐怕我休息不好就什麼也幹不成。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「不過，這也情有可原……那一帶水域實在是……說實話，就是那片地區害得我總是雇不到人，直到你出現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「該朝西北出發，去往拉扎伊海峽了。前人對那裡的島嶼的探索僅限於遠遠看上一眼而已。
+
+「我知道你可以做得更好！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「你做到了！你真的成功了！天哪，我簡直想親你一口！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[眨眼]「請自便。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「別這麼幹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「冷靜點，夥計。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>桑扎胡亂揮揮手，臉紅到了耳根。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「這……這會讓我們兩人都名留青史！絕對會！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「恭喜你出現在一部著作的備註裡。」麥婭用胳膊肘捅了捅你的肋骨嘲笑道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「如果人們能活在歌謠中，又怎麼會選擇讓冰冷的墨水記錄自己呢？」泰克胡來回巡視你和桑扎，眼中滿是疑惑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「無需多慮，真正的壯舉往往不為人知。」他堅定地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「此話當真？他真的完全不瞭解你有多重要嗎，靈視者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「這是咱們船長事跡中最無聊的那部分。裡面甚至都沒提到過妓院。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「他根本就不知道自己在說什麼，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「我已經快完成了！過段時間再來，我會為你獻上《亡焰列島探險者指南》的第一份副本！」
+
+桑扎一邊拍掌一邊在原地手舞足蹈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「給你——如約一般，這本書屬於你了！
+
+「我還另外冒昧贈送了一份小禮物到你的穿上。希望你喜歡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「……你不這麼認為嗎？」
+
+在泰克胡的凝視下，桑扎有些畏縮。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3975</ID>
+      <DefaultText>胡亞巴·瑪哈深處</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3982</ID>
+      <DefaultText>科哈特卡娜曠野</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3983</ID>
+      <DefaultText>瓦庫彭科窪地</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4002</ID>
+      <DefaultText>盧圖阿·韋剋剋瀑布</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4033</ID>
+      <DefaultText>希哈里克高坡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4034</ID>
+      <DefaultText>彭嘉卡峽谷</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4035</ID>
+      <DefaultText>特柏瓦普</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4075</ID>
+      <DefaultText>回憶大廳</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4076</ID>
+      <DefaultText>觀眾坐席</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4077</ID>
+      <DefaultText>旅館</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4078</ID>
+      <DefaultText>碼頭</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4147</ID>
+      <DefaultText>回憶水池</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4148</ID>
+      <DefaultText>可用挑戰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4171</ID>
+      <DefaultText>貢品神器</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4172</ID>
+      <DefaultText>已選擇挑戰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4173</ID>
+      <DefaultText>追獵者，殺戮者，求生者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4174</ID>
+      <DefaultText>接受挑戰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4177</ID>
+      <DefaultText>追獵者之路</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4178</ID>
+      <DefaultText>殺戮者之獸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4179</ID>
+      <DefaultText>求生者之台</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4180</ID>
+      <DefaultText>狩獵冠軍</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4181</ID>
+      <DefaultText>狩獵儀式</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4182</ID>
+      <DefaultText>求生者的試煉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4183</ID>
+      <DefaultText>巨熊團起源於艾爾·格蘭芬瑟，是一群遊俠與德魯伊組成的戰團，他們出於對萬物的虔誠而團結在一起。他們擁有訓練有素的戰寵以及變形魔法的力量，比普通的僱傭兵團更加兇猛。
+
+即便你有資格參加全部三項試煉（探尋者、殺戮者與求生者），你也只能選擇一項參加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4184</ID>
+      <DefaultText>殺戮者的試煉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4185</ID>
+      <DefaultText>焦鐵兄弟會由一群自詡為巨龍獵人的成員組成，如今早已解散，襲龍者們據說是焦鐵兄弟會最後的成員。喚魂師是襲龍者們的頭領，出於對獵物的模仿，他會在敵人頭上降下烈焰。不僅如此，他們用來獵殺巨龍與亞龍的武器威力強大，可以像撕開龍鱗一樣，輕而易舉地撕裂基斯的軀體。
+
+即便你有資格參加全部三項試煉（探尋者、殺戮者與求生者），你也只能選擇一項參加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4186</ID>
+      <DefaultText>追獵者的試煉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4187</ID>
+      <DefaultText>寂靜五人組並不擅長兜圈子說話——他們甚至一句話都不說。這幾位譯靈使在一起生活訓練多年，彷彿一心同體。他們可以通過沉默進行溝通，凝聚力強，協調性高，很難對付。
+
+即便你有資格參加全部三項試煉（探尋者、殺戮者與求生者），你也只能選擇一項參加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4188</ID>
+      <DefaultText>瘋子的記憶</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4189</ID>
+      <DefaultText>在狩獵儀式的第三場試煉中，挑戰者將會面對自己記憶中的某個敵人。至於你，競技場為你準備了梅沃德這個敵人。梅沃德的怒火可能會由於受到虐待而變得更加熾熱，也可能會由於得到憐憫而被化解，這取決於你曾如何對待這位努亞堡的舊主。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4190</ID>
+      <DefaultText>元素苦痛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4191</ID>
+      <DefaultText>與其他角鬥者在競技場中廝殺之前，每位獵人都必須先完成狩獵儀式。所有的新角鬥者都要通過元素的試煉。如果這些獵人連沒有腦子的魂怪都對付不了，他們又怎麼能成為一名旗鼓相當的角鬥者呢？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4192</ID>
+      <DefaultText>血流成河</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4193</ID>
+      <DefaultText>在狩獵儀式的第四項試煉，也是最後一場戰鬥中，兩隊角鬥者必須互相廝殺。兩隊角鬥者會走入競技場，但只有其中一隊人能活著走出競技場，贏得托墨弗艾的祝福。僅僅讓敗者投降是無法獲得勝利的，因為競技場需要祭品。勝利者只有跨過失敗者的屍體，才能繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4194</ID>
+      <DefaultText>蛇妖的試煉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4195</ID>
+      <DefaultText>成功通過元素試煉的挑戰者，接下來必須面對蛇妖的獵殺。儘管蛇妖在體型與力量上與基斯不相伯仲，但蛇妖戰士、蛇妖弓手和蛇妖薩滿會聯手作戰，它們能輕而易舉地消滅倒霉的敵人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4198</ID>
+      <DefaultText>追獵者之影</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4199</ID>
+      <DefaultText>這場戰鬥重現了某位追獵者的角鬥者。角鬥者在殊死一搏之後，被敵人的陰影僕從殺死。殺死他的刺客早就知道他是個狂暴的野蠻人，擅長在戰局中跳出跳進。於是，刺客對他的陰影僕從下了特別的指示，用來針對他狂野而難以預料的戰鬥風格。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4200</ID>
+      <DefaultText>烈焰泰坦之戰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4201</ID>
+      <DefaultText>儘管絕大部分戰士都抵抗不住時間的侵蝕，但英格維仙的泰坦的力量卻永遠都不會衰退。千百年過去了，這些巨型構裝生物的意志依然堅韌不拔，身體也依然堅不可摧。這場戰鬥會再現英格維仙遺跡中，某場時運不濟的探險。一陣短暫而激烈的廝殺過後，這座古城的不朽巨像消滅了所有的探險者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4202</ID>
+      <DefaultText>戰術食人魔</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4204</ID>
+      <DefaultText>換生靈之舞</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4205</ID>
+      <DefaultText>最受觀眾歡迎的試煉。在換生靈之舞試煉中，角鬥者們需要在無法使用自己身體的情況下，戰勝敵人。只有被托墨弗艾真正賜福過的戰士，才能在失去核心力量的情況下，依然能通過挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4206</ID>
+      <DefaultText>屍鬼大軍忍耐試煉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4207</ID>
+      <DefaultText>鼓起勇氣，準備面對洶湧而來的屍鬼之潮吧。這群屍鬼渴望血肉，毫無憐憫之心。它們會像蝗蟲一樣，將技術不佳的角鬥者啃得連骨頭都不剩，也因此臭名昭著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4208</ID>
+      <DefaultText>軟泥怪的秘密</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4209</ID>
+      <DefaultText>沼澤軟泥怪具有天生的領地意識和保護意識，會以性命來守護自己選擇的居住地。一些軟泥怪與魔法結界產生了一種共生關係，如此一來驅逐它們會更加困難。富有進取心的探尋者們在啟動的結界中冒險之時，必須想辦法對付他們的原始敵人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4210</ID>
+      <DefaultText>堅韌觸手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4211</ID>
+      <DefaultText>要準備好面對這個敵人，它會從失敗中汲取力量。這場戰鬥會重現喬理安·德·拉爾德斯之死。她是一位野心勃勃的詠者，她本想召喚出越來越強大的對手，用來鍛煉力量。結果卻發現，她召喚出來的敵人比她想像得要厲害得多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4212</ID>
+      <DefaultText>骷髏海忍耐試煉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4213</ID>
+      <DefaultText>任何一個成功通過狩獵儀式的角鬥者，都能輕而易舉地消滅一兩隻骷髏。然而，只有技藝精湛的戰士，才能在無窮無盡的骷髏海中存活下來，消滅這些毫不畏懼、瘋狂攻擊的怪物。做好打持久戰的準備，消滅數不勝數的骷髏大軍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4214</ID>
+      <DefaultText>蜘蛛之網</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4215</ID>
+      <DefaultText>兩隻蜘蛛族母已經在各自的巢穴中做好了伏擊的準備，等待勇敢（或是愚蠢）的角鬥者主動送上門來。儘管沒有基斯的聰明頭腦，它們卻有自己的野性與狡詐。它們是追獵者的神選者，許多獵人都成為了它們的獵物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4216</ID>
+      <DefaultText>尖牙與毛皮的試煉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4217</ID>
+      <DefaultText>儘管獅尾虎與其它的貓科動物很少聯合起來共同狩獵，但許多獵人曾入侵了貓科動物們共同的領地，因而遭到了神出鬼沒的獅尾虎和它們敏捷的表親們的共同獵殺。做好準備，面對大大小小貓科動物們的死亡接觸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4270</ID>
+      <DefaultText>斷手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4277</ID>
+      <DefaultText>剃刀大軍</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4278</ID>
+      <DefaultText>普通的野豬脾氣火爆，憑一己之力單打獨鬥。而卡茲瓦里島上的大野豬則得到了祝福，擁有托墨弗艾的堅韌與怒火。多個世紀以來，這座島上已經有無數獵人在獵殺野豬的過程中送了命。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4279</ID>
+      <DefaultText>魚人之巢</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4280</ID>
+      <DefaultText>魚人既凶狠又殘忍。一隻魚人構不上什麼威脅，但當魚人成群結隊出現的時候，就非常可怕了。這場戰鬥會再現某場折戟沉沙的突襲。在這場戰鬥中，魚人巢母和邪惡的魚人們早就做好了準備，挑戰者將不得不面對它們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4287</ID>
+      <DefaultText>蜥人編年史</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4288</ID>
+      <DefaultText>愚蠢的蜥人會單打獨鬥，但強大的蜥人部落會從小開始訓練亞龍。蜥人會訓練這些同為爬行類的表親，讓它們矢志不渝地保護它們的蜥人主人。這場戰鬥會讓人回想起胡亞納人來到這座島上之前，島上到處遊蕩者蜥人與亞龍狩獵隊的時光。如果歷史走偏了一步，這座島說不定還會在蜥人的控制之下，而這座競技場可能也根本就不會建成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4295</ID>
+      <DefaultText>聯合王冠</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4296</ID>
+      <DefaultText>做好準備，你將重現某場與一群食人魔海盜之間的戰鬥。食人魔身高有基斯的兩倍高，塊頭也比基斯大好幾倍，它們就是殺戮之面的化身。即便只有一隻食人魔，也能承受相當程度的攻擊，造成慘重的傷亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4361</ID>
+      <DefaultText>大逃殺</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4362</ID>
+      <DefaultText>追獵者、殺戮者與求生者的神選之人都展現出了各自的技藝。是時候讓三支隊伍互相廝殺，爭奪狩獵之王的無上榮耀了。在這場大混戰中，所有人都要各自為戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4433</ID>
+      <DefaultText>蛇妖薩滿邪教</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4434</ID>
+      <DefaultText>在這場戰鬥中，角鬥者們將面對一群劇毒蛇妖。它們的領袖是一隻劇毒蛇妖薩滿，擁有召喚援軍的能力，還可以強化劇毒蛇妖們的力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4473</ID>
+      <DefaultText>鑄魂師的荒唐忍耐試煉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4474</ID>
+      <DefaultText>這場戰鬥將重現某位鑄魂師災難性的成功實驗的最後時刻。在這場戰鬥中，角鬥者們將面對一大群構裝體，而手邊能派上用場的東西，只有鑄魂師草率設計而成的故障保險裝置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4475</ID>
+      <DefaultText>龍兄虎弟</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4476</ID>
+      <DefaultText>這場戰鬥會重現韋德羅兄弟臨死前的英姿。這對兄弟在各自擅長的魔法領域登峰造極，哥哥專注於自己的魔法領域，而弟弟則專注於反制哥哥的魔法。他們在實驗室中測試彼此的防禦能力時遭到了攻擊。在戰鬥中，他們各自殲滅了無數敵人，最終壯烈犧牲，靈魂回到了貝拉斯之輪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4481</ID>
+      <DefaultText>筆記保衛戰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4482</ID>
+      <DefaultText>保護研究筆記，不要讓大法師手下桀驁不馴的妖精們破壞了它們主人的研究成果。儘管妖精們算不上什麼大威脅，但妖精們每破壞一堆研究筆記，都會為所有戰鬥人員（除妖精之外）附加一層緩慢死亡的效果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4487</ID>
+      <DefaultText>維瑟·卡篤之墓</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4488</ID>
+      <DefaultText>這場戰鬥重現了對維瑟·卡篤之墓的掠奪。曾經的盜墓賊渴望在這座滿是陷阱的陵墓中盜取財寶，等待他們的卻只有死路一條。或許在這場競技場的試煉中，在這場充滿殺機的尋寶遊戲中，你的表現會比那些人更出色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4494</ID>
+      <DefaultText>科特·彭加</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4495</ID>
+      <DefaultText>換生靈的試煉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4496</ID>
+      <DefaultText>伽拉溫的千面化身又被稱為換生靈。換生靈對換生靈的遺物——換生靈斗篷的持有者發起了挑戰……而現任的持有者，剛好就是你。擊敗狩獵之主的強大化身，守護你的頭銜與榮耀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4558</ID>
+      <DefaultText>勒布塔拉小道</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4580</ID>
+      <DefaultText>女王的辯護</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4726</ID>
+      <DefaultText>Vox Machina - Grog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4727</ID>
+      <DefaultText>Vox Machina - Vexahlia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>Vox Machina - Keyleth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>Vox Machina - Percival De Rolo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>Vox Machina - Pike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>Vox Machina - Scanlan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>Vox Machina - Shaun Gilmore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4733</ID>
+      <DefaultText>Vox Machina - Vaxildan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5011</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5012</ID>
+      <DefaultText>來自大洋的一夥強者前來挑戰你的冠軍頭銜。向這個叫「聲音器械」的團隊證明你的力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5018</ID>
+      <DefaultText>&lt;b&gt;探尋者，殺戮者，求生者&lt;/b&gt;已安裝。當你在《永恆之柱II：亡焰列島》中取得足夠的進展後，總管會聯繫你，你將自動開始這段冒險的第一個任務，進入卡茲瓦里島。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5020</ID>
+      <DefaultText>總管有話想對你說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5130</ID>
+      <DefaultText>伊洛</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

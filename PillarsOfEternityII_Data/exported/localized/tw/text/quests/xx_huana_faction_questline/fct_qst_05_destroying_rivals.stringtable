@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_huana_faction_questline\fct_qst_05_destroying_rivals</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>商人問題</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>潛入&lt;b&gt;亡焰皇家商行的炸藥庫&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>返回皇宮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>活下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>與&lt;b&gt;奧涅卡莎女王&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>返回皇宮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;奧涅卡莎女王&lt;/b&gt;要求我幫助她摧毀&lt;b&gt;努瓦泰人的炸藥庫&lt;/b&gt;，並將罪名栽贓給&lt;b&gt;瓦利亞商行&lt;/b&gt;。此事將癱瘓努瓦泰的軍備武裝，同時毀壞瓦利亞殖民地領導層的聲譽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我將能夠自行斟酌潛入&lt;b&gt;炸藥庫&lt;/b&gt;一事，但是我不能留下任何能夠推翻事件偽裝的證人。如果我能夠在不被人發現的情況下做手腳，之後的爆炸應該就能夠銷毀所有證據。
+
+炸藥庫就在&lt;b&gt;黃銅堡碼頭東面&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>炸藥庫已經成了一堆冒著黑煙的廢墟。&lt;b&gt;奧涅卡莎女王&lt;/b&gt;會想要知道這件事情的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我將自己是炸藥庫爆炸案背後的犯人這件事告知了所有勢力領袖。
+
+事後的情況一片狼藉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>卡斯托爾主管被誣陷成了爆炸案的真兇並且被放逐進了峽谷。我應該去&lt;b&gt;卡罕加宮&lt;/b&gt;與&lt;b&gt;女王&lt;/b&gt;見一面，偷偷探討我們的成功。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我使用更加直接的方式解決了貿易商行們。現在沒有辦法以優雅的方式處理此事了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;瓦利亞商行總部&lt;/b&gt;裡面的一名職員告訴我說&lt;b&gt;卡斯托爾主管&lt;/b&gt;已經被&lt;b&gt;巨蛇王冠&lt;/b&gt;&lt;b&gt;皇宮&lt;/b&gt;召見。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我與&lt;b&gt;瓦利亞商行&lt;/b&gt;的聯繫有可能可以幫助我摧毀&lt;b&gt;炸藥庫&lt;/b&gt;。女王只要求我牢牢銘記我對&lt;b&gt;胡亞納&lt;/b&gt;的忠誠心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我在&lt;b&gt;炸藥庫&lt;/b&gt;裡設置好了炸藥，得趁爆炸之前趕緊逃出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我成功進入了&lt;b&gt;炸藥庫&lt;/b&gt;。接下來，我需要在&lt;b&gt;最底層&lt;/b&gt;找到一個適合安放炸彈的秘密之處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我把炸彈交給了&lt;b&gt;哈扎努伊·卡魯&lt;/b&gt;，和他說了女王準備炸掉炸藥庫的計劃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>瓦利亞商行已經成了炸藥庫被毀一案的替罪羔羊，亡焰皇家商行也沒有識破這騙局。奧涅卡莎女王答應將支援我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我決定不遵從奧涅卡莎女王的計謀行事並且向來訪的與會者們揭示了是我摧毀了炸藥庫這一事實。女王與努瓦泰領導人們都不喜歡我的背叛。現在任何一家貿易商行或者是胡亞納人都不會再歡迎我了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我決定不遵從奧涅卡莎女王的計謀行事並且堅持證明卡斯托爾主管是清白的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我決定不遵從奧涅卡莎女王的計謀行事並且揭示了我對皇族海盜的忠誠心。女王與努瓦泰領導人們不喜歡我的背叛。我已經宣佈了自己的陣營，貿易商行們或者胡亞納人都不會再歡迎我了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>我將摧毀努瓦泰炸藥庫的計劃告知了哈扎努伊並且將爆炸物交給了她。她解除了炸彈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>我用暴力解決了奧涅卡莎女王的問題，根本沒有用任何計謀的必要。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>卡斯托爾主管現在已經鞏固了自己在瓦利亞商行的地位，他準備通過摧毀努瓦泰炸藥庫癱瘓努瓦泰軍隊。他建議為了防止任何人懷疑商行參與此事，我應該與鑄魂師們一同想出更加隱秘的執行方式。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>阿爾瓦瑞主管現在已經鞏固了自己在瓦利亞商行的地位，她準備通過摧毀努瓦泰炸藥庫癱瘓努瓦泰軍隊。她建議為了防止任何人懷疑商行參與此事，我應該與鑄魂師們一同想出更加隱秘的執行方式。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

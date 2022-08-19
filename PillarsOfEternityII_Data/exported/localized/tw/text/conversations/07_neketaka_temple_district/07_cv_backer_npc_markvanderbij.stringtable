@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_backer_npc_markvanderbij</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你發現一個中年人在檢查一個與你見過的任何工具都不像的金屬工具。他腰間掛著幾個長得差不多的東西，乾淨有序地排列著。它們看起來像拔牙或釘馬蹄鐵的工具，但要精緻得多。
+
+他穿著嶄新的奶油色長袍。火繩槍的槍管就在他的肩膀上，有些惹眼。當他注意到你時，雙眼發光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「日安，旅行者。我看見你盯著我的傢伙什看。如果你對醫學有任何興趣，只要問我就可以了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我的長袍到底怎麼沾了這些血啊？我&lt;i&gt;剛剛&lt;/i&gt;才清理完！"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「是，什麼？需要幫忙嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你好！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「那麼好吧。有問題嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「說說你自己吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我是一名醫學研究者。在你提問之前，不，我不是指鑄魂學。也不是指魔法，也不是，神啊，饒了我吧，&lt;i&gt;妖術&lt;/i&gt;。藥品——藥品。研究基斯的身體，及其內部運作方式等。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你能教我你在研究中學到的知識嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我已經教了你我能教的一切。但不要灰心——記住，孜孜不倦的好學精神造就敏銳的大腦！」他露出大大的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我告訴了您我的麻煩，我想這是我唯一能做的！現在安頓下來，我為&lt;i&gt;這&lt;/i&gt;一刻準備了演講。」
+
+「……當然，這&lt;i&gt;會&lt;/i&gt;花你們三千個銅幣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>他示範了幾個用夾板固定傷處以及縫合傷口的技術。一旦確定你明白了，他就會讓你學習一本描述亡焰列島上各種本土草藥及其各種療效的圖解說明手冊。
+
+最後，他繼續詳細介紹信仰和科學探索的本質。當他確定你已經學了能學的一切，會拍拍你的肩膀，微笑著一邊溫柔地規勸你學習更多知識，一邊送你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「小心腳下！」你離開時他高興地向你揮手告別。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>男人的長袍上閃著神秘能量的影子。衣邊和袖子上縫上了許多符號，似乎這個效果就源於這些符號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我對魔法的使用有點疑慮。魔法有用，這我承認，但它是個枴杖——阻礙科學發展的枴杖，你明白的。
+
+「我有點不得人心，正如你想當然的那樣！……這就是為什麼我這兒有一把火繩槍的原因。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我的一個病人在可疑的情況下死了。前一天早晨他們還好好的，後一天早晨就死了。」
+
+「&lt;i&gt;有人&lt;/i&gt;在努力詆毀我的工作，我知道。但他們不會成功的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我到亡焰列島這兒來是為了避開對手們的破壞偷襲。而且我必須告訴你，在亡焰列島肯定有相當多的工作要做！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「『不得人心』是什麼意思？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「哦，一種受迫害妄想症。自得其樂吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你也會有這種情結的，如果你遇到過我所經歷的事的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「不，不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「如果你改了主意，可以在這裡找到我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「呃，真體貼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[增強煉金術和宗教技能] 「給。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

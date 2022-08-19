@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_the_duel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>傷口撒鹽</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到拉羅·巴達托。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與決鬥者們對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>解決衝突。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>妮拉·巴達托擔心她的弟弟拉羅有可能惹上了麻煩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>妮拉說她的弟弟失蹤了。他應該在女王港裡的某處。妮拉想要我盡快找到他並把他送到巴達托莊園。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我遇見了來自巴達托與瓦雷拉家族的兩個年輕男子之間的決鬥。他們看上去並不喜歡被人打擾。如果我介入的話，此事肯定會有一個有趣的結局。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我發現拉羅正在與奧索·瓦雷拉決鬥。這絕對是妮拉口中的「麻煩。」我可以想辦法中止決鬥，或者最起碼讓戰鬥快點結束。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>妮拉提到拉羅與他的朋友們經常在酒館，西南橋與瀑布後閒逛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>決鬥以拉羅·巴達托成為勝利者結束了。他看上去並不滿意這場勝利，但是他建議我如果想要找工作的話可以去見見他的母親伊扎莉·巴達托。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>決鬥以奧索·瓦雷拉成為勝利者結束了。他看上去並不滿意這場勝利，但是他邀請了我前去瓦雷拉莊園。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我將兩個年輕的蠢蛋趕出了瀑布。他們有可能會再次嘗試鬥劍，但是最起碼我在的情況下他們應該不敢。看上去我看見的只是兩個家族之前更加微妙深遠的爭鬥的表象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>在拉羅·巴達托與奧索·瓦雷拉的決鬥中，我成為了唯一的勝利者。我猜他們的家族應該不會太開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>奧索·瓦雷拉成為了這場決鬥的勝利者，拉羅·巴達托的臉也因此變得稍稍丑了一點。沒人死，兩方應該都會滿意。日常生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>拉羅·巴達托成為了決鬥的勝利者，奧索·瓦雷拉身上多了一道紀念自己失敗的決鬥傷疤。沒人死，兩方應該都會滿意。日常生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>巴達托與瓦雷拉家族的兩個年輕男子似乎選擇了女王港魂珀磨坊上的瀑布作為決鬥地點。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

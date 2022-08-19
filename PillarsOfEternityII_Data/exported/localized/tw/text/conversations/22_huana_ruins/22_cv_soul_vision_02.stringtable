@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_cv_soul_vision_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這個揮之不去的靈魂以一種慵懶、催眠的方式繼續遊蕩。它似乎並不知道或並不關心它的生命已經消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[讀取靈魂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>那個金輪像俄撒斯的拇指一樣重，但你不帶走點東西是不會離開的。卡斯托爾主管的臉上露出一絲笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>然後你的靴子把一根鬆脆的股骨踩成兩截。你還記得……這個島不是應該被遺棄嗎？
+
+也許你沒有打敗來到這裡的胡亞納探險隊。
+
+突然，金環失去了光芒，就像死掉了一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你把它放到一個山洞裡好好保管起來。
+
+面對那些四肢畸形、滿嘴惡臭的大傢伙，你向海灘都跑不出十步就會被撕個稀爛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>當她把你像一塊抹布似的甩到一大片乾渴的籐蔓上時，你血流如注以至於忘了尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[不要執著於回憶。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>裘荻伸出燈籠，其中的光亮因為又收割了一個靈魂而搖曳著。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_constable</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>維護秩序</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往格雷西街道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與伊拉里交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>回去找&lt;b&gt;塞維亞&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>回去找&lt;b&gt;塞維亞&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我提議通過說服幫派領袖&lt;b&gt;伊拉里&lt;/b&gt;來幫助&lt;b&gt;塞維亞&lt;/b&gt;維護國王港裡&lt;b&gt;格雷西街&lt;/b&gt;上的秩序。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>前往位於&lt;b&gt;國王港西面&lt;/b&gt;的&lt;b&gt;格雷西&lt;/b&gt;街道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經到達了格雷西街道。現在我得找到&lt;b&gt;伊拉里&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我說服&lt;b&gt;伊拉里&lt;/b&gt;接管&lt;b&gt;格雷西街道&lt;/b&gt;並避免了任何劫掠行為。&lt;b&gt;
+
+指揮官塞維亞&lt;/b&gt;會想要知道這件事情的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我殺死了&lt;b&gt;伊拉里&lt;/b&gt;。&lt;b&gt;指揮官塞維亞&lt;/b&gt;並沒有要求我那麼做，但是她應該會想要知道具體發生了什麼的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我被好幾名強盜攻擊了，但是裡面沒有人符合&lt;b&gt;伊拉里&lt;/b&gt;的外觀描述。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我攻擊了&lt;b&gt;伊拉里&lt;/b&gt;，這導致&lt;b&gt;格雷西街道&lt;/b&gt;的問題永遠也不可能和平解決。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我為塞維亞處理了格雷西街道的問題。她的守衛們又少了一件頭痛事情。 </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

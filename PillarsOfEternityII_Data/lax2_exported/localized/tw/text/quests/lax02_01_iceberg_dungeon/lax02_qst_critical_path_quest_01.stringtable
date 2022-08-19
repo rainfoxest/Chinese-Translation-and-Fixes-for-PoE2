@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>貴賓</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>閱讀蠟封信函</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>前往先驅之守望</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>與瓦特尼爾交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>調查外面的騷動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>在先驅的撤退找到瓦特尼爾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我受到一份蠟封上帶有&lt;b&gt;睿姆岡&lt;/b&gt;標記的&lt;b&gt;信件&lt;/b&gt;。我應該拆開一讀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>一名信使將一張蠟封上有&lt;b&gt;野牛標誌&lt;/b&gt;的&lt;b&gt;皮革卷軸&lt;/b&gt;送到了我的船上。有時間的話我應該拆開一讀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>一個自稱&lt;b&gt;暮色先驅&lt;/b&gt;的團體邀請我參加一場為我舉辦的盛宴。我不認識他們，也不知道他們究竟為何而慶賀我。
+
+要想查明真相，我就得前往南海中一處名為&lt;b&gt;死亡浮冰&lt;/b&gt;&lt;b&gt;巨大冰山&lt;/b&gt;，並找到這個團體在該處的崗哨：&lt;b&gt;先驅之守望&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我得到消息稱暮色先驅的領袖&lt;b&gt;瓦特尼爾&lt;/b&gt;經常在&lt;b&gt;定居點中央建築&lt;/b&gt;內部的小教堂裡布道。他應該知道喚我來此所為何事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>正在布道的瓦特尼爾提到了我在世界末日以及萬物終結之中扮演的角色，但外面的嘈雜聲打斷了他。聽到聲響的先驅們不知為何變得歡欣鼓舞。我應該去一探究竟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>&lt;b&gt;瓦特尼爾&lt;/b&gt;門都沒能出。我已經殺掉了身為先驅信使的腐朽之龍。我應該去找那名神嗣並詢問事情經過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;瓦特尼爾&lt;/b&gt;已不在庇護所內，但外面也不見他蹤影，他肯定在&lt;b&gt;先驅的撤退&lt;/b&gt;中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我當著&lt;b&gt;先驅們&lt;/b&gt;的面揭穿了&lt;b&gt;瓦特尼爾&lt;/b&gt;的騙局。他跑路了，但逃走之前提到了冰山深處有一座神廟，裡面有一道現實世界的裂口，那道裂口可當作通往&lt;b&gt;白色虛空&lt;/b&gt;的入口使用。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>&lt;b&gt;瓦特尼爾&lt;/b&gt;告訴我說冰山深處有一座冰封的神廟。據信，這座神廟裡有一道現實世界的裂口，也是通往&lt;b&gt;白色虛空&lt;/b&gt;的入口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我把&lt;b&gt;瓦特尼爾&lt;/b&gt;殺了。他臨死前提到冰山中有一座神廟，其中有一道現實世界的裂口，也就是通往&lt;b&gt;白色虛空&lt;/b&gt;的入口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>一個名為&lt;b&gt;暮色先驅&lt;/b&gt;的組織邀請我前往&lt;b&gt;死亡浮冰&lt;/b&gt;的&lt;b&gt;先驅之守望&lt;/b&gt;參加一場為我舉辦的盛宴。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_2604_campsite_skaen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你身陷在一片充滿惡臭又悶熱的叢林中，厚厚的樹冠將熱量牢牢的鎖在地面上。你的鼻頭掛滿汗珠，額上的汗水也順著下巴滑落到地上。整個世界除了你，似乎沒有任何活物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你是風暴中的低語著......」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>你那個不停抱怨的同伴幾個小時之前就不再吭聲了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你在一條寬闊的水道旁停了會兒，水道已經阻塞了，不過你還是清洗了一下身體，突然你聽到前方的叢林中有東西移動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>留給塞拉芬，這個傢伙每十分鐘就能弄出點新玩意來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>他向你舉起了雙手。「我們沒有惡意。顯而易見，我們一直在這裡等你，因為我們......」他掃了一眼與你同行的其他人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>他輕輕的鞠了一躬。「我們有個提議，請到我們這裡來細說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[走近一些。] 「我聽著呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「等等，你們到底是誰？怎麼會知道我的名字？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「不必了。我在這裡就挺好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[攻擊]「我的提議與你的剛好相反——去死吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>他伸出一隻手，似乎想握住你的手，不過他夠不著。「您出現了。跟預言中說的一樣。」
+
+另外兩位禮貌的低頭小聲說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>那個人從身上的長袍裡掏出一個娃娃。那是一個擁有黑石眼睛的化神。
+
+「&lt;link="glossary://GlossaryEntry_Skaen"&gt;沉默奴隸&lt;/link&gt; 讓您帶著這個。小小禮物，對您的忠誠略表心意。也為了平復您的心情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「沒聽說過司坎這麼大方過。這個所謂的禮物到底是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「十分感謝。請替我向你們的主人問好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我不感興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[攻擊]「司坎應該會更喜歡我直接殺了你，從你的屍體上拿走，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>那個人咯咯的笑了起來。「的確不是。」他拿出了一個小稻草娃娃。「這是一個化神。燒掉它，你就能召喚出司坎助你一臂之力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>那個人將小木頭人放在離你腳不遠的地方。
+
+「燒掉它，主人就會出現一小會。」他微微一笑。「如果是其他人的話，應該早就提出要求了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「不過沉默奴隸覺得你有巨大的潛力可挖。」他微微一笑。「您一定知道原因。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>那個右邊的基斯是個披頭散髮的海民，歪著頭。「你確定？」
+
+「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>那三人平靜的笑了笑。「那麼正如先前所說。你會毀掉一切的......」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>那個人放低了聲音。「有一個地方就藏在這片荒野中......那是片古老的地方，由&lt;link="glossary://GlossaryEntry_Skaen"&gt;沉默奴隸&lt;/link&gt;掌管著。他們在等待一個願意做出犧牲的人......「
+
+「一次&lt;i&gt;真正地&lt;/i&gt; 犧牲，」 他旁邊的女人邊向你的同伴點頭邊說道。
+
+「......他會一個一個對這種勇於奉獻的精神進行嘉獎。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>」當然了。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>他鞠了一躬。「就這樣吧[Player Name]，努亞堡的靈視者。」
+
+「小心點，」那個女人說。「你的前路還很漫長。」
+
+他們穿過河流，消失在遠處的叢林中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「沉默奴隸見了你，希望你能將潛力完全發揮出來。你現在還沒發揮出全力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>左邊有個基斯，是個瘦瘦的光頭精靈，他抬起頭來。他的眼睛都被燒壞了，而他的聲音就像吹過干蘆葦的風。
+
+「神明已經為你安排好了一切......這隻不過才是冰山一角而已。」他輕蔑的在你周圍的叢林中招了招手。「這個化神讓你活到.....看到最後一幕的時候。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我們是一個朋友的朋友，」那個人說道。「也許是潛在的朋友。當然這個朋友也十分有潛力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>那個右邊的基斯是個披頭散髮的海民，歪著頭。「你確定？」
+
+「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>」當然了。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>女人得意的笑了笑。「就這樣吧。然後你就不會再見到我們了，隨便你怎麼看吧。」
+
+中間的那個男人輕輕的鞠了一躬，然後這三人便退走。
+
+消失在了叢林裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「帶我去那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我絕不會這麼做！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>那個人搖了搖頭。「我們做不到。你必須帶著你選擇的禮物走過去。選吧，好好選。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>那個男人鞠了一躬，然後向叢林深處走去。「穿過這條河。沿著你找到的足跡走。等你見到那個地方你就知道了。」他微微一笑。「再見，[Player Name]。等你回來的時候我們應該已經走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[跟隨他們的指引。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我仔細考慮了一下，你走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>那個右邊的基斯是個披頭散髮的海民，歪著頭。「你確定？」
+
+「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>儘管這個指引含糊不清，你還是出發了。趟過了河，沿著發現的第一個足跡，漸漸深入這片荒原。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>儘管這個指引含糊不清，你還是出發了。趟過了河，沿著發現的第一個足跡，漸漸深入這片荒原。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>緊張的回頭掃了一眼那三人，[Specified 0]你們倆根據他們模糊的指引，就這樣走進了荒原。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>緊張的回頭掃了一眼那三人，[Specified 0]你們倆根據他們模糊的指引，就這樣走進了荒原。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「離開吧。現在就走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你沒花多少力氣就找到了這個地方。那個人說的沒錯，當你看到它的時候就知道了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>你徘徊了幾個小時，汗流浹背，精疲力竭，終於跌跌撞撞地走到一個空曠的地方。你抬頭望去，那個地方一定是你的目的地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>這不是胡亞納神龕，只是隱藏在荒原深處的一座神廟，沉重的石頭一個挨著一個，靠在山體光滑的巖壁上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[搜索這片區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>你遲疑了......也許你再也沒有機會找到這個地方.......</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>在這個神廟的中心你找到了一個簡單的祭壇，上面帶著古老的鋸齒狀溝槽，溝槽裡還有一些早已乾涸的血跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[獻祭[Specified 1]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>你將武器推入[Specified 1]的胸膛，在他彌留之際將他的身體平放在祭壇上。
+
+他睜大了雙眼[Specified 1]雙手緊緊抓著你。他沾滿鮮血的手指從你的胸口滑落。用盡所有力氣吸進最後一口氣之後，他還是死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>出於某種奇怪的本能，你越砍越深，骨頭的斷裂聲和肌腱的撕裂聲不絕於耳。
+
+你將手伸進裂開的傷口，周圍的肌肉依然扭曲著包裹你的手，直到你的手指觸到某個結實且粗糙的東西。
+
+你從這個身體中掏出一個玩偶，幾根木棍紮成了一個人形，眼睛是用一對黑色石頭做成的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>儘管對你的答案不太滿意，你的隊伍還是跟著你從叢林中走了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>雖然失去[Specified 1]讓大家很痛心，不過大家依然跟隨著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>儘管對你的答案不太滿意，你的隊伍還是跟著你從叢林中走了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>雖然看起來他們有很多問題要問，但當你轉身走出叢林時，他們依然跟著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[選擇一個夥伴跟著你。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[攻擊]「我選擇你們三個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「我不幹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>那個右邊的基斯是個披頭散髮的海民，歪著頭。「你確定？」
+
+「這可沒有第二次機會，」那個人說道，「而這東西很可能關乎你的生死。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>」當然了。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>你回頭看了看，讓[Specified 1]跟著你走。並讓其他人等你回來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>光頭精靈被燻黑的眼洞指向了[Specified 1]。「不，再選一次。這次好好選。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>你回頭看了看，讓[Specified 1]跟著你走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[摧毀那個祭壇。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>你對著祭壇踹了一腳，然後抓住一個堅固的樹枝，開始撬石頭。也許是感受到自己免於一死，[Specified 1]也過來幫忙，你們兩個就在這個古老的祭壇處忙活了一陣。
+
+當你離開這塊地方的時候，似乎聽見背後的叢林裡有笑聲傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>你回到殘餘的隊伍中，眾人立刻來詢問[Specified 1]的情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>你將化神裝進背包，頭也不回的離開神廟，繼續你自己的旅程。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「誰？我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「很抱歉......他們沒能挺過來。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「你還是不知道的好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我殺了[Specified 1]還從他的屍體中剖出一個玩偶。有什麼問題嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>三個基斯從樹叢中走出來然後跳進了水裡。他們襤褸的長袍隨著水流而翻滾。快走到小溪中心的時候，他們停了下來。
+
+他們中間那個草原住民幸福地朝著你微笑。
+
+「[Player Name].努亞堡的靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「你有什麼事想對我說，就在我的朋友們面前說吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>左邊的光頭精靈搖了搖頭。「這可不行，」他粗聲粗氣的說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>中間那個長的好看的微笑著向你鞠了一躬。「再見[Player Name]。」
+
+一行三人慢慢後退，直到消失在了叢林之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「而你的到來，」左邊的光頭精靈說道：「則是在預料之中的。」他抬起頭，雙眼已經被燒燬，只能用黑洞洞的眼窩望著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>光頭精靈冷哼了一聲。「真讓人佩服啊，不過這太愚蠢了。再選一次吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>你將武器推進[Specified 1]的胸膛，在她彌留之際將她的身體平放在祭壇上。
+
+她睜大了雙眼[Specified 1]雙手緊緊抓著你。她沾滿鮮血的手指從你的胸口滑落。用盡所有力氣吸進最後一口氣之後，她還是死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>雖然失去[Specified 1]讓大家很痛心，不過大家依然跟隨著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>你能感受到那些滾燙的目光照在你的背上。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

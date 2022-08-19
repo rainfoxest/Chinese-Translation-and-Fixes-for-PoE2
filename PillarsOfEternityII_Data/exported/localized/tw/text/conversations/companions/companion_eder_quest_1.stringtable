@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_eder_quest_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>159</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「晨星之子。不曉得在這兒能不能碰到他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「嘿，我在找一位女士，來自鹿林。」
+
+艾德爾在一位老嫗面前揮了揮手，好像生怕她有白內障似的，然而她似乎沒有。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你知道我一直在強調：對我來說，沒有什麼比一起把你從貝拉斯的契約中解放出來更重要了，你知道嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>艾德爾的頭微微傾斜。他的眼睛不停地搜索著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「他們是伙白癡我是早有預料。只是沒想到這麼白癡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>艾德爾洩了氣。「我們沒趕上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我有個老相識住在這兒……只是個老朋友啦。最後一次聽到她的消息，是說她來此地定居了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「沒準咱們可以打聽打聽，問問她還在不在這兒。也許她能幫上咱們的忙吶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你是怎麼認識她的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「呃，這個……我倆都在飾金谷長大……在同一座神廟……」
+
+艾德爾斜眼看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你臉紅了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「你說是就是咯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你可以信任我，你知道的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「好吧，好吧，我們曾經，呃……你懂的……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「畫面感真強。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我就喜歡這種類型的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「就知道你懂。你肯定會喜歡她的啦，我敢保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「矮個子，暴脾氣。名叫艾拉法·梅錫。聽說過嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「我認識一個艾拉法，但姓對不上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「那個艾拉法不怎麼熱情——如果事先未打招呼就來拜訪，那她應門時一定會拿把手槍指著你的鼻子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「對不上？」
+
+艾德爾咬著他的煙斗柄，下巴歪向一邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「那沒錯了，就是，呃，就是她。那她現在跟她，呃，老公一起生活？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「這我就沒注意了。」
+
+艾德爾舒了超長的一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「哈，挺低調啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「……只知道她有個兒子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「她敢那樣對我的話，她的每個鼻孔都會被一把槍指著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>艾德爾的身體徹底僵硬了。似乎在微風中搖擺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「這很重要嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「她有兒子了？呃，多大了？是個小孩兒嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「噢，這下可好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「沒，好奇而已。」
+
+艾德爾緊攥著煙斗，指關節已沒了血色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「噢，我也說不好。已經幾年沒見了。他現在應該是個大小伙子了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「哇，那是，呃，那是挺好的。好吧，謝謝你的幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「你不想知道上哪找她麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「對噢，我……正打算問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「上次聽說時，她在哈桑戈。在那裡弄到一塊兒地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「那，咱們應該去那兒瞧瞧。感激不盡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「嗯，我曉得。真的。」
+
+艾德爾的氣息縈繞在胸口，他的嘴微張著，很快對自己的話產生了懷疑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「但還有一件事我得去處理。算是順道吧。我正打算告訴你呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「是關於愛的事。你無需解釋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「在障礙重重的道路上，多加一件算什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「當然可以了。之前一直都是我在利用你完成我的目標。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「很公平。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「謝了，我還怕解釋不清哩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我沒把這事當作障礙啊。除非她瘋了。
+
+「倒是很有可能真瘋了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「沒錯，你懂的啦。你，呃……等等，你剛說什麼？」
+
+他沒再深究，繼續他的正題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「你這麼想我很高興。當然，神明脅迫你靈魂的事咱們還是要處理。用不了太久。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「這個女人。我，呃……好罷，愛這個詞不太恰當。但那段在飾金谷的歲月裡，她曾經對我很重要。」
+
+他頓了頓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「當我司職鹿灘鎮長時，我有想過鹿灘未來的願景。那就是在維德溫遺贈發生前的飾金谷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「遺贈結束後，我滿腦子想的都是如何修復諸神造成的創傷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「了結了撒奧斯，鹿林也沒什麼讓我留下的理由了。我琢磨著，還是跟隨家人一起回聚鹿會更開心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「總之，我不指望你理解我。但我必須得知道她如今安好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「聽起來她最後有了個兒子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「這件事不能等到貝拉斯解放我以後再說嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「不是跟你對著干啊，可我真的不知道還有沒有以後了。雖然你大抵是我唯一不敢對賭的傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「每當你需要做些什麼才能保住靈魂安定的時候，我都緊緊地追隨著你。咱們經歷了不少磨難，但都挺過來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「現在，我請求你讓我處理一件自己的事務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「對——對，沒錯。正好那陣子誕生在鹿林的孩子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我認識她的時候，她還有一個兒子，還只是個嬰孩呢。但維德溫的遺贈奪走了他的正常生活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我不知道他後來怎樣了，但他是空嬰啊，結局從來不必多問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「也許他有了個弟弟。」
+
+艾德爾陷入沉默，眨了幾次眼後才注意到你一直在場。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「你確定你真的想知道結果嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「不啊。但我沒辦法放手。起碼現在沒辦法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「上次見到艾拉法時，我倆相處得很愉快。現在她有了個兒子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>艾德爾生硬地聳慫肩，他的微笑也略帶尷尬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我腦袋裡設想的是：咱們來到這裡，她就責罵我，怪我來打擾她。」
+
+「那，我就心滿意足了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「她是那種可以戰勝一切磨難的人。她應該在這兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「至少你知道她後來怎麼樣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「你一定很難過吧。我都覺得難受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「也許她只是躲著你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「好吧，這完全是竹籃打水一場空。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「感覺好不真實。」
+
+他搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「嘿，你要是想找個肩膀哭一下的話，我就在這兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「我也這麼覺得。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「那也有可能吧。我倆最後那一晚，不是我的最佳表現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「那孩子看上去很像她。但真的很難相信是她把他拉扯大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「看他那雙眼睛，像他大哥勝過像他媽媽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「以前沒聽過這什麼光耀之徑的信徒，但這種人我清楚得很。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「如果他們喜歡把自己想像成士兵，那我們可以跟他們打上一仗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「也許我們應該見見他們，瞭解一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「聽上去他們擁有堅定的信念。我會尊重這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「我打賭他們的晚宴很歡樂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「基本上，我是反對迫害俄撒斯信徒的。不過現在我開始看到這事兒的另一面了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「也許你說得對吧。我反正是寧願拿這時間做點別的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「可不是麼。他們信念堅定，堪比撒奧斯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「是啊，恨不得把他們和杜蘭斯鎖在一個房間裡。看看他們多久能討論出氧氣不足的對策。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「若是艾拉法在，她一定會叫我別插手。她一定會說我只會搞出一堆爛攤子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「但她留下的只有那孩子了。如果非得深究還留下什麼的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「我要不去會會這些光耀之徑的信徒，咒我變成司坎的化神罷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「聽起來，貝亞恩就要上那艘船了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「他們打算把那玩意停在俄撒斯旁邊，然後自刎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「真希望他們在貝亞恩加入之前就付諸行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「要是咱們追不上的話……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「好，我們現在就出發。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「等我覺得合適時我們會去的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「他是個無藥可救的人。沒必要去追。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「也許對你來說沒必要罷，但對我來說很重要。你是要一起來，還是我自個去？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「我們一起去找他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「你只能靠自己了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「是嗎？那就這麼辦吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「好啦，好啦。祝大雕像和你的靈魂好運罷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我就知道我喜歡你是有原因的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「好吧，只是——別太晚了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「嘿，那個年輕人——咱們在哈桑戈遇到的小伙子，他有點讓我想起艾拉法啊。可他還說不認識她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「他為何說謊？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「你急著想見她，但你又遮遮掩掩的。為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「呵，記得她嗓門兒挺大。總是得把她的嘴堵上，不然她就得安排小狗在隔壁房間狂嚎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「聽起來是個很特別的女人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「幾句話之前你就應該打住了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「我猜這的居民都得時刻保持警惕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「聽起來她在等你啊，艾德爾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「這就是永遠最好從後面潛入的原因。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「有意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「某些方面我做到了。對此我很自豪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「但成功的喜悅並沒我設想的那麼棒。於是我意識到還有那麼一個人，我得展示給她看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「最後一次見到她時，她要去新錫瑪。可等我去那兒找她，才發現她早已離開多時。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「就是艾拉法，本該是她最後一個留在鹿林見證我的成就與理念。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「在我看來，那就是努力讓俄撒斯信徒平安歸家，安穩過活。我就這麼找到了暗夜集會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「過了一陣子，我開始想起戰爭剛結束時的歲月，那時我們都失去了安全感。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「而我想的最多的，還是那個我沒能幫助的女人，她不得不在暗夜抱著一個沒了靈魂的嬰孩離家而去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「又見到他們真的很高興。打仗以後我們幾乎沒再見過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「但還是合不來呵，我和他們。我跟誰都沒法溝通，倒不僅僅是因為聚鹿人那滑稽的講話方式啦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「只是，人們都把填飽肚子放在第一位。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「在大洋彼岸的那片土地上，好像我所經歷過的一切都沒發生過。沒有過戰爭，沒有過遺贈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「就連我的父母都錯過了我的大部分經歷。這點倒是挺讓我慶幸的。但是，我們能談論的只有我小時候的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「然後我想起了一個可以溝通的人。沒準也只有她了。於是我登上一艘船，走上了另一條路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「我之前提過的，我認識她時她就有了的那個嬰兒。也是個男孩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「我們快走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>艾德爾勉強地擠出了一個微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[點頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>艾德爾沉默了片刻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>艾德爾哼了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「恐怕他們從不跳過飯前的祈禱儀式。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「你能答應我，咱們現在就走嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「你沒權利那麼做。那孩子沒傷害過任何人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「從現在起，你走你的陽關道，我過我的獨木橋。就此別過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[凝視艾德爾。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「只是朋友，哈？」裘荻揉了揉後頸，顯然不太舒服。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>裘荻的臉變得通紅，她轉過身，用手捂著眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「是你說的比較委婉，還是說你真的這麼慫啊？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「不太確定我剛剛腦補的畫面是來自你還是我。反正效果不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>裘荻歎息著，把她的頭髮拽到面前，就像能迴避這一刻似的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>亞洛斯目瞪口呆。
+
+然後樂了。
+
+他盯著艾德爾的樣子就像貓盯著受傷的老鼠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>帕蕾吉娜的目光在這兩人之間來回游移，金色的眼睛越睜越大。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「艾德爾，我們要做的事比你的私事更緊要。如果我們不找到俄撒斯，其他的一切都不重要了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「我不怪你離開。但是，好吧，我希望你不要走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「祝你平安，朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「現在我們得重新找個人幫我們搬運沉重的盾牌了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「那以後誰能來替我抵擋敵人的尖刀利刃呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「這是我的底線，亞洛斯。也許你也該捫心自問一回。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「對不住，我沒法陪你走到最後了。我原本想跟你一同完成這項使命。」
+
+艾德爾走了。他沒有回頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「艾德爾，這是你當面對話俄撒斯的機會！我們讓一切恢復正常的機會。
+
+「拜託了，讓我們完成這項使命。」一起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「等等。你要去哪？我們……我們也許再也見不到面了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「亞洛斯，答應我一件事。如果他在做的事是對的，請助他一臂之力。
+
+「如果不……你告訴他，我會來找他算賬的，遲早。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「裘荻，你，呃……你叫我很驚喜。要是岡恩看不見我從你身上看到的閃光之處，你就告訴他，他配不上你。
+
+「這句話送給人還是神都合適。」
+
+他似乎想走近她，但卻定在了原地，就像靴子陷入了厚厚的淤泥中一般踟躕不前。他只尷尬地點點頭，勉強擠出個微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「聽我說，我曉得你事務纏身。但咱們要及時找到貝亞恩，得趕快行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「我很&lt;i&gt;高興&lt;/i&gt;能幫你學數學。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「哎呀，你只需要叫大聲點把它們引出來！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

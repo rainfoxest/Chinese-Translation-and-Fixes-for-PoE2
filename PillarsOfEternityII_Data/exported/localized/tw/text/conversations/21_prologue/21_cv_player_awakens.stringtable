@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\21_prologue\21_cv_player_awakens</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你回到了你的身體，彷彿從一場斷斷續續的醉夢中醒來。船體不斷搖動，你的四肢傳來一陣陣刺痛。不斷的衝擊像鐵錘一樣，在你的顱內敲打著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>艾德爾用呆滯的眼神看著你的身體，不知看了多久，連煙都從煙斗裡冒出來了。
+
+當你的胸膛剛剛開始起伏時，他便跳了起來。他大口地喘著氣，咳嗽幾聲，呼吸也變得急促起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「大人，你活過來了嗎？」</DefaultText>
+      <FemaleText>「夫人，你活過來了嗎？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我還活著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我渾身疼得厲害。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我很虛弱，但我相信一切會好起來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「能活著就不錯啦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「可能是我的錯。為了把你弄醒，我每天都得扇你耳光，越扇越用力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「沒錯，你已經暈過去很長時間了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「鑒於你受了這麼多罪，還能活著已經相當了不起了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你已經不省人事了那麼長時間，我真害怕你已經沒救了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「至少說，已經基本沒救了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我真不希望你一醒來聽到壞消息，但我恐怕確實有些壞消息要告訴你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我已經知道了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[保持安靜。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「老天在上啊！我們——瑪珈嵐之火啊，船長還活著！」一個年紀較大的人揉著充滿血絲的雙眼盯著你，口中吐出一股麥酒的酸味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你是怎麼知道的？你一直都在裝死嗎？」
+
+他用手戳著你的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「大人，你這幾周都沒怎麼動過，你是怎麼——」</DefaultText>
+      <FemaleText>「夫人，你這幾周都沒怎麼動過，你是怎麼——」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我曉得這要求太高了，但你最好全副武裝，返回甲板。這兒應該有一些裝備。」
+
+他指著附近的櫃子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「先把自己武裝起來會是明智之舉，大人，我旁邊的衣櫃裡有一些裝備。」</DefaultText>
+      <FemaleText>「先把自己武裝起來會是明智之舉，夫人。我旁邊的衣櫃裡有一些裝備。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「沒想到居然真的成功了。」
+
+艾德爾以難以置信的表情盯著你，他拍著手，像是想弄清楚這是不是真的。他聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「很好，你欠我個人情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「得了，少裝了。你已經醒了！你醒過來還想幹嘛？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「感覺怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「英格利姆，你嘴巴的裡的臭味連死人都能熏活過來。
+
+「現在，我們該怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「那些海盜，他們打算和你談判，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你感覺怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>聲音在你胸中迴響，那是努亞堡倖存總管的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>聲音在你胸中迴響，那是努亞堡倖存總管的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「努亞堡已經被毀了，俄撒斯佔據了瑪洛斯·努亞的雕像，從地面上突然出現，把周圍的一切靈魂都吞噬了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「雖然不知道是怎麼回事，但他體內似乎有你靈魂的碎片。或許正是因為這樣，你才能活過來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「而你還能活下來，這一定是因為你靈魂的力量非常強大。
+
+「但即便如此，你也僅僅是勉強活了下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「俄撒斯走得越遠，你的身體就會變得越虛弱。我們租來了這艘船，一路跟著他來到了亡焰列島。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「繼續跟著吧，這個世界總是能給我找到新的使命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「對呀，照我看，總得有個人給諸神當替罪羊才行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「希望他們不用總是把你叫到靈界，才能向你揭示這些使命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「死亡是一種深邃的體驗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「可不是麼，人人都該死一次試試。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「希望你會過上很多，很多年才會再死一次。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我？你不記得了嗎？」
+
+艾德爾指著自己的臉，做出了一個最有代表性的表情。見你沒有反應，他聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我是這艘船的船長，以前在鹿林那邊是個響噹噹的人物。我以前是個大名人，還有座叫做努亞堡的城堡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「人人都管我叫靈視者。我喜歡到處亂跑，和死人聊天，所有見過我的人都被我嚇得半死。」
+
+他舉起手，彎著手指，裝作是爪子的樣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「而你呢，你不過是個普通的農民，跟著我到處冒險的那種。每次被襲擊的時候，你就負責替我挨揍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「真有意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「聽起來好像不太對勁。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「真的嗎？我還以為恰恰相反呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「別擔心，你會想起來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「啊，瞧？你想起來了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「如果你這麼說的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「唔，好吧，好像你才是那個嚇死人的靈視者，我一不小心記錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「但城堡以前是我的，這我記得清清楚楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「好吧，就算不是，等戰鬥打起來了，我也不介意你再替我多挨幾下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「總之，你還沒回答我的問題呢。你感覺怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

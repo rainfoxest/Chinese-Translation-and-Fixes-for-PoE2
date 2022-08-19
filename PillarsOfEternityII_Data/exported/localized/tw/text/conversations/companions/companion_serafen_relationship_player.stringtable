@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_relationship_player</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>146</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「船長，有些事情我覺得不太對勁。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你發現塞拉芬皺著眉，用眼角斜瞟著你。當你轉過去看著他的時候，他僵硬地站在那裡。他臉上再次擺上了木然的神色，但卻瞇著眼睛，迎著你的視線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你好啊，船長！如果你有空的話，我很想感謝你能讓我上船。」
+
+他一隻毛茸茸的手放在肚子上，一隻腳向後蹬著，向你深深地鞠了一躬，耳朵幾乎都要碰到地面了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你好，船長！」
+
+塞拉芬向你敬了個禮，毛茸茸的臉上露出了燦爛的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「和我說說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「不太對勁？最好別是你的私生活的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「別拿你的問題來麻煩我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「很好，謝謝你給我擺正了位置。」
+
+你的頭骨中迸發出一陣憤怒的火花。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>&lt;i&gt;你聽到了一陣急促的喊聲與尖叫聲，鞭子落在你後背上。一陣陣疼痛嚙咬著你的肩胛骨，那種疼痛彷彿頭髮被扯下來，或是指甲被拔下來一樣。你被綁在船頭，冰冷的海水侵襲著你的身體，你的四肢疼得要命。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「如果說實話——我真的很他媽不願意說實話——我不知道我該怎麼和這群人相處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「這裡的怪人並不只有你一個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「怎麼了？有什麼問題嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我也覺得你不適合這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「是嗎？對那些單槍匹馬的人來說，這座群島可能會是個要命的地方。但如果有朋友保護你的話，這片水域就要安全得多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我覺得，你應該更信任我一些。在你的船員裡面，沒有哪個人能像我一樣瞭解亡焰列島上的危險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你的意思是？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「信任是贏來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我記住了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「好吧，或許我還沒贏得你的信任。但我覺得，信任就像水一樣，從上面流到下面是最容易的辦法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我不是你的傭人。我不是什麼管火藥的，也不是什麼打掃艙房的。而且我他媽更不是你的什麼奴隸，明白了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我自會考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「謝了，船長。」
+
+塞拉芬刻意地看著自己的靴子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「你在想什麼事情嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「有什麼問題嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[無視塞拉芬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「是啊，船長。不過你幹了這些勾當之後，你覺得我會想些什麼呢？」
+
+塞拉芬亂蓬蓬的鬍子下面，嘴唇緊緊地抿著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[洞察] 「我知道，對你來說，在我手下工作並不太舒服。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「和我說說吧，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「說吧，這是命令。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我一直在想，你和弗蘭特船長之間都有什麼區別。雖然我不怎麼喜歡那個老混蛋，但我至少有理由可以相信他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你盯著塞拉芬看了幾秒鐘，他垂下了眼睛。當你把注意力轉到其他地方的時候，你感到了一陣溫暖的解脫感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「之前那艘船，有什麼讓你懷念的地方嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我顯然要比弗蘭特好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「那就走人吧！有些人不想呆在我的船上，我的船上也沒有給這些人的位置。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「那我就可以開心地卸任了。我要回閒暇先生號上，去找我真正的夥伴們了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我允許你離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「沒錯，趕緊混蛋吧，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「不行，我需要你留在船上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「恕我直言，靈視者，混你媽的蛋吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>塞拉芬臉上帶著譏諷的笑容，諷刺地向你敬了個禮，轉身走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「這麼說已經太晚了，靈視者。你和我嗎？我們已經不再是夥伴了。或許我們從來都不是夥伴吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我和閒暇先生號上的船員雖然算不上血濃於水，但至少那些臭傢伙們會尊重我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「這一點我也承認。但就像弗蘭特一樣，哪怕是一個鹿林的農民都能看出來，咱們兩個並不是什麼朋友，以後可能也不會是朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我希望我們能成為朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我不需要你把我當朋友，我只需要你對我效忠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「但船長，問題是，我幾乎沒見過比你更差勁的傢伙了。眾神都知道我不是什麼虔誠的人，但和你相比，我簡直就像個瑞德賽的聖人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我做了什麼事情，讓你覺得那麼糟糕？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「抱歉，我會想辦法改進的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我想怎麼做就怎麼做，如果你受不了，你就只能變成鯊魚的零食了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「眼睜睜看著朋友被流沙吞噬，這種事只有王八蛋才能幹得出來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我可以聽你的話，只要你別把別人抓來當奴隸，也別把那些無辜人們的家園燒成平地就行。」
+
+他緊緊地盯著你的眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我很高興有你在我身邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你客氣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>塞拉芬的毛髮立了起來，睜大了眼睛。他的手一直在腰間的武器旁邊顫抖著，之後他長長地呼了一口氣，臉上擰出了一個陰冷的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你簡直就是個惡棍，船長。但我會按你說的去做……至少現在會。」</DefaultText>
+      <FemaleText>「你簡直就是個毒婦，船長。但我會按你說的去做……至少現在會。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>塞拉芬嚴肅地像你鞠了個躬，然後就回去幹活去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我想也是，是因為你我才這麼不舒服的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我不期望你能明白我的想法，但我希望你能服從命令。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「和我說說閒暇先生號吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我沒時間聽你說這些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「對我來說，我們的船就是我們的家庭。我把你當做兄弟一樣看待，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「呵，比起兄弟，我覺得我更像一個瘋瘋癲癲的叔叔。不過你這麼說，我還是很高興。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「你是我重要的船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我有個禮物要給你。這件小東西是我前幾次劫掠的時候弄到的。要不是我把它好好地藏起來的話，肯定已經被瑪娜吉搶走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我明白，你是這艘船上重要的船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「如果你抱怨完了的話，我還有別的事情要做呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「所以你把它藏在什麼地方了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「謝謝你的禮物，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「禮物還是算了，你自己留著吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「要是我告訴你把它藏在哪了，你恐怕就不想要它了……」
+
+塞拉芬故作輕鬆地吹起了口哨，輕輕地抓了抓屁股。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「好吧，靈視者船長，我回去幹活了。」
+
+他皺著眉頭，抓了抓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「呃？那就隨便你吧。不過我得告訴你，如果拒絕一個海盜真心送給你的禮物的話，運氣可會變得越來越痿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「瑪娜吉為什麼要對你那麼殘忍？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「哈！我開玩笑呢，船長！我是把它藏在鬍子裡了。當時我還沒編胡辮呢，無論是什麼東西，基本都能藏進我的毛裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「每次劫掠之後，瑪娜吉都會把我渾身上下搜刮個遍。後來我想到，她是絕對不會靠近我的鬍子的，她說我的臉長得就像只蜥蜴王一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我也不知道怎麼回事，船長。我一開始還以為她喜歡我呢。有時候，姑娘們心裡越是喜歡你，就會越是對你刻薄。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我上船才不到半個月，她就有兩次想要弄死我。我當時在想，說不定她愛我愛得要發瘋了吧。」
+
+他靜靜地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「一丁點都不喜歡她，但男人總會有需要的時候。後來我發現，她的下面也和別的姑娘下面一樣濕潤。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「你喜歡瑪娜吉嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「愛情會讓人們做出瘋狂的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「轉念一想，我還是別聽這個故事了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「後來我偷偷地跟她說，說或許我們也可以滾個床單什麼的。她斬釘截鐵地拒絕了我，或許那是我最接近死亡的一次吧。」
+
+他畏縮地退了一步，揉揉自己的喉嚨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「不能怪你，瑪娜吉也是我最不想提的那種話題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「就像我說的那樣，我始終都沒弄明白過。如果我不是絨精，或者她也是絨精，就不知道會怎麼樣了。雷馬洛曾經說過，她或許是因為妒火中燒，但只有沃艾珥本人才知道他的話是什麼意思。」
+
+他聳了聳肩，攤攤手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「所以實際上是怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「搶了她深海獵人的交椅？或許吧。只要我真的打算這麼做，我有朝一日肯定能超過她。或許她也是這麼想的吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「閒暇先生號是整個皇族海盜裡最厲害的戰船，弗蘭特船長也是最受人尊敬的船長。能成為他的船員，是件非常值得驕傲的事情……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「你可別低估了自己的能耐，船長，也別低估了我的能耐。我一踏上這艘船，就知道會有個好機會在等待我。」
+
+他笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「那你為什麼還要離開他們，加入我的船隊呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「謝謝你告訴我這些事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我猜你要說『但是』了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「沒錯，你猜得沒錯。如果想上閒暇先生號，這意味著我要離開巫師號，離開我唯一的家人們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「家人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「我從來不知道家人是什麼意思，直到我上了巫師號。他們就是我的家人，對我來說血濃於水。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「而且你得相信我，我認為我能派上很大用場。」
+
+他笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「非常樂於效勞。現在，我得失陪一下了，我已經快要控制不住自己的情緒了。」
+
+塞拉芬朝你敬了個禮，露出了燦爛的笑容，然後轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「可別自在過頭了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「我哪敢啊，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「你是從哪裡得到它的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「而且，我覺得你戴著它會很漂亮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「我離開巫師號的時候，是雷馬洛送給我的。他總認為我有朝一日也能成為船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「謝謝你的禮物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「你把它給我了，你以後就不想當船長了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「你應該留著它，等到你當上船長的時候把它戴上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「你？當船長？這可真滑稽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「或許當我還是個菜鳥海盜的時候，我也想過要當船長。但自從我給弗蘭特幹活，和你幹活，看到船長都要做哪些事情之後……這麼說吧，我覺得這就像是結婚一樣，它就是不適合我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我很榮幸，船長。希望它能派上用場，哪怕只有我一半的用場也行。」
+
+他深深地鞠了一躬，向你敬了個禮，然後轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我其實也能當個差不多的海盜船長，只是我的對手總是低估了我的能力，我的朋友們也一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「為什麼不適合呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「首先，船長要和委員會打交道，而我剛好不擅長那些應酬、寒暄，也不擅長任人唯親或者諂媚於人，我就是個沒耐心的絨精。」
+
+他搖了搖頭，但隨即露出了笑容，用手指戳著自己的胸膛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「但最重要的是，我的心腸太軟了，比我的肚子還軟。說不定也長了不少毛吧。」
+
+他笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>當你的幻景消失時，塞拉芬已經轉過身了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「嘿，他說得沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>他站直了身子，挺著下巴，抿起嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「那你得更努力才行。」
+
+他搖搖頭，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「我知道，我們並不是一直都能合得來。但能從閒暇先生號換到這裡，在你的手下工作，這依然是個可喜的變化。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「你做事很有分寸，而且你也並不是個糟糕的人。能從閒暇先生號換到這裡，這是個可喜的變化。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「我已經見過了閒暇先生號的風景，學到了能在上面學到的一切。我認為，一個追殺神明的靈視者，肯定能大大地開拓我的眼界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「沒錯，船長，這個屁肯定不是從你的嘴裡放出來的。」
+
+他莊重地點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「有些事情還是放在心裡別說出來比較好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「或許她覺得你是個威脅吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「我覺得我能理解，有時候我也想把你從船上扔下去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「你也不算是很有禮貌吧，或許是你冒犯了她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「懂了，謝謝你這麼提醒我，靈視者船長。看來我得好好練練游泳了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「沒錯，我也知道我是這樣人。我的嘴巴有好幾次都讓我陷入了麻煩之中。」
+
+他竊笑著眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「不過瑪娜吉也不是那種感情細膩的人，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「呃！真讓人噁心！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「你也好啊，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「什麼事情讓你這麼高興？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「老實說，自從我離開巫師號之後，我還從來沒感覺到這麼自在過。那時有雷馬洛還有很多其他人，真是段讓人開心的日子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>塞拉芬快速眨了幾下眼睛之後，擠出了一個笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「為了表達我的謝意，我有件貢禮要獻給你。只有偉大的船長才能佩戴這件東西，我認為你剛好適合。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>塞拉芬微微皺起了眉，盯著你看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「或許我也能像你一樣當個船長，把所有的事情都處理好，對所有人都很親切。但你這樣的人確實很少見，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「當船長就要不斷地做出越來越困難的選擇。等我的靈魂去見昂德拉的時候，我可不希望到時候背負著太多重擔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「大部分船長都沒多少自知之明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「你的心腸有多善良，你的嘴巴就有多臭，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「我很喜歡大家稱讚你的樣子，靈視者。他們很聰明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「我總是能引起姑娘們的注意。」
+
+他眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「我也希望能相信你這些話，船長。」
+
+他搖搖頭，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「如果你是在開玩笑，船長，這個玩笑可真不好笑。如果不是的話……」
+
+他悲傷地搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「你應該還清楚地記得，你把費西娜家的那個小伙子&lt;i&gt;賣&lt;/i&gt;給了努瓦泰人吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「兩個詞形容你，船長：騙子、爛人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「幾乎所有的事情都讓我高興，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「用我提醒你一下，那個被你綁架之後，又被你殘忍殺害的年輕絨精姑娘嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「雖然我並沒那麼喜歡亞洛斯，但我應該提醒你，你是怎麼讓那個可憐的傻瓜陷入困境的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

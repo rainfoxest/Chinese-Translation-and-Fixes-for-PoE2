@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_prefightbanter_slayers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「這不是靈視者嘛！」
+
+一個中氣十足的男子發出了渾厚的聲音。雖然聲音很熱情，但這個戰士的眼睛狹長而敏銳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「比我想像的還嬌小。」
+
+矮人哼了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「在競技場裡，出言不遜對你沒有半點好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「比我想像的要高，但是沒關係。」
+
+侏儒聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「如果這就是我們的競爭對手，那勝利必將屬於我們了。」
+
+一群魚龍混雜的士兵，每一個都裝備著比自己手還多的武器，在你接近時停了下來。他們從浮誇的頭盔裡上下打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「嗨，我是[Player Name]。這是一個禮貌的自我介紹，現在輪到你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「抱歉……你是？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[你交疊雙臂，摩拳擦掌，什麼也不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我是不是應該聽說過你們才對？我其實不怎麼關注馬戲團演出。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[無視他們，繼續走。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我們是襲龍者——現任狩獵冠軍。考慮到我們平時進行的打獵遊戲，像你這樣的基斯簡直是小菜一碟。」
+
+面帶笑意的戰士把雕文斧子從一隻手拋到另一隻手中，悠閒地舞弄著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「襲龍者？不是襲群龍者，複數嗎？所以你們只能對付一隻龍？聽起來一般般嘛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「願托墨弗艾保佑你，直到我們在戰場上見面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我要讓你知道，我們屠了&lt;i&gt;三隻&lt;/i&gt;龍！托墨弗艾保佑我們戰團，很快所有人都會看到！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[強忍著笑意。] 「加起來三隻龍？真可愛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「厲害了，但離我的記錄還差得遠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你媽媽一定很高興生了你這麼個東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「厲害。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「那你究竟屠了幾隻？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「好吧，在北曠野有只飛龍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「我殺了棲居於我城堡下的魂珀龍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我殺了棲居於瑪珈嵐之牙的岩漿龍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「在白際山有只高山龍……被我殺了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「大膽的想法，我接受了。如果你顫顫巍巍，讓我們面對一支不值得動手的隊伍，反倒是一種恥辱。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「好吧，我們就是這般愛嘮叨和嘲諷。我們等著你。」
+
+戰士一邊苦笑著向你敬禮，一邊與他的烏合之眾趾高氣揚地走下吊橋，在觀眾的掌聲中進入中央舞台。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你殺過沼澤龍嗎？沒？好吧，我為自己殺了一隻，為你殺了一隻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我殺了奈瑞思賽拉絲，死亡浮冰的屍龍。殺她好幾回了，其實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我殺了水塑者的海龍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「不管怎樣，任何人都有運氣好的時候。」
+
+戰士交疊雙臂，抬起下巴輕蔑地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「了不起，所以說你屠了兩隻龍。日晷一天會走兩次運。」
+
+他清了清嗓子，重心從一隻腳移到另一隻腳上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「好吧……所以說你屠了三隻。&lt;i&gt;真&lt;/i&gt;厲害。失敬失敬。」
+
+戰士以一個浮誇的動作向你鞠躬，假裝很崇拜的樣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「四隻？好吧……那……太了不起了。」
+
+他輕咳一聲，低頭望向腳尖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>當你列舉成就時，這個戰士歎著氣，什麼也不說，只等著用他的長篇大論來回應你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「也許我們應該聲稱&lt;i&gt;這麼多&lt;/i&gt;，襲群龍者。」
+
+矮人那邊的美男子突然插話，引來他首領的怒視。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「襲群龍者，你是想強調次數唄。」她得意一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「你們倆……都給我閉嘴。」
+
+戰士搖了搖頭，牙關緊咬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「也許直接列舉你沒殺過的龍更容易一些？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我認為這就是我殺過的所有龍類了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「很好！我懷疑我們在競技場上的相遇之時便是你的歸西之日，但如果你能活下來，將來興許能成一番屠龍大業。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「好吧。我們，呃，還有場，呃，仗要打……所以……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「比我們殺的多，」他的格蘭費倫同胞舉著一根手指插話道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「數學真好。你自己會算就行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「被你殺掉的那些龍……我想當時不會是在睡覺吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「似乎大多數人都這麼想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「嚇得舌頭打結了？如果你怕了，那說明你還有點腦子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「你曾經贏得的？幹得漂亮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「謝謝。上個賽季的終極白刃戰異常慘烈，不過最後，我們還是贏得了狩獵冠軍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「更美妙的是，我們贏得了殺戮者的注意。他賜予我們佩戴殺戮者利爪參戰的權利。」
+
+他把巨斧扛在了肩上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「好斧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「你有沒有弄明白凶兆之獸為什麼沒出現？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「那可不咋的。我建議你也整一把，不過我這把是絕無僅有的。」 
+
+他笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「這對所有人來說都是個謎，尤其是胡瑪爾。她堅信凶兆之獸必會定期降臨的『自然法則』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「恐怕托墨弗艾詛咒我們是競技場的……&lt;i&gt;糟糕來客&lt;/i&gt;，所以……為防萬一，我們力求拿出最好的表現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>這些戰士們垂著頭，臉色蒼白，嘴巴緊閉，匆匆從你身旁走過，湧入競技場。
+
+儘管觀眾用熱烈的掌聲歡迎襲龍者，但他們進場時明顯僵滯猶疑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「還活著呢？你們比看起來頑強。」
+
+他微微一笑，一隻手扶著斧柄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「不管怎樣！生死時刻即將來臨。」
+
+他誇張地一甩披風轉身，大步邁向競技場。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「聽見了嗎，靈視者？他們在為你的死亡詠唱！」
+
+他舉起緊握的雙拳，接受觀眾讚美的洗禮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「小伙子們，讓觀眾看看他們想要的東西吧！」
+
+他掏出了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「噢，太棒了。又一夥沉默的怪胎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>他哼了一聲，略顯緊張，脖子上的筋肉紛紛隆起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「她為我的成就感到驕傲。「但我不確定那跟什麼有關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「你已經忘了我屠過的那些龍嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「恐怕被殺死的榮耀將全部屬於你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「我們在鬥爭中向托墨弗艾致敬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「願最傑出的基斯獲勝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「沒忘。只是覺得那無關緊要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「看起來你有幸被襲龍者斬殺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>塞拉芬皺眉蹙額。「船長，也許你想法很好但說出來真不怎麼高明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「我剛才不就這麼說的，不是嗎？抑或是呢？」他望向他的同伴，其中一個聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「他只看重殺戮和生存下來的人。如果你兩樣都不沾，你拿什麼致敬他？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我們會的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「生死時刻正等著你呢。別讓它等太久。」
+
+他誇張地一甩披風轉身，大步邁向競技場。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我打算兩樣都做到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「你忘記了勇於探尋的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[恭敬地低頭致敬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「被殺總比被偷襲好，襲龍者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「如果有必要，我們會偷襲你的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「其實，我沒屠過龍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>眾人旋即陷入沉寂之中，襲龍者交換著難以置信的眼神。沒憋住的笑聲突然打破了緊張的氣氛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「我殺了奈瑞思賽拉絲，死亡浮冰的屍龍，但隨後她飛走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「『有幸成為……』瑪珈嵐的火焰，有些人只是一心求死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「謝謝，但我們會躲過的。」艾德爾揚起了一條眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「我期待在競技場上見到你。我們的較量無疑會為觀眾獻上值得回味的體驗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「我不確定這算不算，朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「當然不算。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「別扎靈視者的心，朋友們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「你屠龍。我們也屠龍。這代表我們棋逢對手。總之，更公平了。」
+
+幾個襲龍者將信將疑地交換了眼神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[打呵欠。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

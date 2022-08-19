@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_cv_cartographer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>太陽疤痕胡亞納撇了一眼手裡皺巴巴的羊皮紙片並緊張地問候你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「有什麼能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「如何？你還需要別的東西嗎？」阿特普擔心地皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>這個製圖師咬著他的拇指指甲，低聲自言自語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「阿特普，繪製圖師。我沒什麼要賣了，除非你還需要買其他什麼東西嗎？」他清了清嗓子，手掌快速旋轉捲起羊皮紙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你從這塊完整的垃圾中回過神來了？不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你是發現莫塔勒奧柯茲的製圖師，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「關於莫塔勒奧柯茲和其他聖島，我還有些疑問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我的發現仍待證實。」一個謹慎的微笑蔓延到他的雙唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「人們認為聖島消失在波濤之下。如果我碰到一個，那麼沒有什麼比這個發現更能讓我一鳴驚人了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我不會拒絕好奇心！那麼，繼續吧。」他的嘴角抽動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「告訴我關於聖島的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你是怎麼發現的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你提到整個部落都消失了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「啊……如果非談不可的話。」他耐心地示意你繼續。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我們的先祖將亡焰列島四面的幾個特定島嶼劃分出來作為集結點，以防止發生巨大的不幸導致分裂部落。即使是他們也猜不到這些島嶼會變得有多重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「數千年前，火山爆發、風暴以及地震嚴重影響了亡焰列島。這些確實發生過，但絕對沒有這麼……凶殘，或者沒有同時發生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「從那之後，我們再也沒有發現過任何古老的聖島了。恩加蒂在波浪下帶出了些東西，帶出了整座墳墓。其他的消失在時間裡並被完全忽略了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「風暴將我的船迫出航線時，我正在環礁附近的水域航行。我對這片水域不熟悉。當一個綠點出現在我的小型望遠鏡裡時，我就揚帆起航了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>他看著你，嚥了一下口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「在發現有人居住的跡像之前，我不知道那裡遠離海灘。標記了坐標並按照夜晚天空的指示確定了方向後，我就向涅克塔卡進發了，去告訴國王我的發現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「懂了——亡焰列島碎了。逝去的生命……無法計數，而且被遺忘的遠遠超曾經可能被記住的。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「為什麼將一個製圖師帶上法庭？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我最近有幸發現了——再次發現了，如果誠實地說的話——一個消失的聖島。」他的神態明亮起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「如果我去這個島探險的話，可能會發現什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「死亡。」阿特普移開目光，他的臉失去了血色，直到他注意到你的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我不是有意嚇你！這些島經歷了巨大的災難，陰鬱沉默了上千年。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「如過你登上聖島，不要期待有人會歡迎你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「胡亞納是通過聖島上尋求庇護才活下來的——挽救我們的社會，而不僅僅是任何一個部落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「有人告訴我瓦哈奇人在保護著這些島嶼，但那是他們的事。」阿特普聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「你在行駛中一定見識過許多東西。發現過烏凱佐的跡像嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>僅僅聽到一個詞語就引起了他的關注，但他的嘴唇抿成一條斜線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「並不是每一個亡焰列島都有一個不喜歡開闊水域希望看一眼消失的烏凱佐胡亞納的。」他歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「如果我能走一走我們先祖走過的海灘上，看一眼他們留下的東西……就不枉此生了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你希望能在烏凱佐找到什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我們都希望能找到相同的東西——對我們史前文化的解疑。我們曾經是誰，能告訴我們我們現在是誰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「但是，如果我自私點的話……是為了地圖。航海圖！我們的祖先曾經是狂熱的探險者，他們的一卷羊皮紙可以教我們的知識就超過我們在過去一個世紀學會的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「想想我們一年喪失了多少歷史，比接下來的一千年少多少嗎？無論我們的人民自己期待什麼，我們可能永遠不知道我們的理解是對還是錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「關於製圖師公會，你有什麼瞭解？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「好，那你肯定見過桑紮了？」他上下打量你，揚了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「公會是……要我說非常慷慨。我們並不像其他公會那樣正式。」他聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「但我們確實計劃組建一支遠東探險隊。這將使我們的……我們的小小嗜好在很大程度上合法化。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「桑扎沒提那個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你們會穿過風暴之幕嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「希望你們能安然無恙地到達那兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「太好了，謝謝你！有合適船長坐鎮，我認為任何事都是可能的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「太好了，那麼我猜他提到了我們找船長時會遇到麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「除了能幹不暈船外，還要瘋狂和膽魄……但太好了，我們干了。」
+
+他微微笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我剛好知道這樣一個人。看向皇族海盜的船長托拉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「皇族海盜——」
+
+他停了下來並看了左右。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「很好，繼續說吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「祝你好運，希望你找到合適的船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「太好了，謝謝你。你能相信嗎，我們招募不到參加自殺性任務的人？」他咬著指甲聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「嗯，為了這樣一個……危險操作信任海盜值得嗎？」他抬起手指觸摸自己的嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「那麼將她帶到我這兒來。我毫不懷疑如果她……如果她是你說的那個人，那她就是一個合適的水手。」他歎了口氣，修理著他的眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「這個海岸彎彎曲曲的，甚至這位老領航員都感到困惑，直到我發現自己在海岸中心為止。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

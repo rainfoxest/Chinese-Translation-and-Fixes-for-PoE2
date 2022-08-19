@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\crew\crew_cv_steward</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「老爺，有何吩咐？」</DefaultText>
+      <FemaleText>「夫人，有何吩咐？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「老爺，我們出發前應該先處理一下你船上的資源問題。」</DefaultText>
+      <FemaleText>「夫人，我們出發前應該先處理一下你船上的資源問題。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我是怎麼弄到這艘船的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我接下來該怎麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「老爺，我以前在努亞堡是您的總管。」</DefaultText>
+      <FemaleText>「夫人，我以前在努亞堡是您的總管。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「努亞堡已是一片廢墟，對著一片瓦礫惆悵並沒有什麼意義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我建議我們前往涅克塔卡成，老爺。那裡是亡焰列島最大的城市，我們在那裡也能更好地確定方位。」</DefaultText>
+      <FemaleText>「我建議我們前往涅克塔卡成，夫人。那裡是亡焰列島最大的城市，我們在那裡也能更好地確定方位。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我建議我們前往哈桑戈。如果報告屬實，那俄撒斯最近或許途經過那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「如果俄撒斯已經去了瑪珈嵐之牙，那恐怕我們也非去那裡不可，老爺。」</DefaultText>
+      <FemaleText>「如果俄撒斯已經去了瑪珈嵐之牙，那恐怕我們也非去那裡不可，夫人。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「老爺，我們此行路途遙遠且危險重重。我建議您先做好周全的準備再迎接即將到來的挑戰。」</DefaultText>
+      <FemaleText>「老爺，我們此行路途遙遠且危險重重。我建議您先做好周全的準備再迎接即將到來的挑戰。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「老爺，已經是時候了。您準備好後我們就立刻起航前往烏凱佐吧。」</DefaultText>
+      <FemaleText>「夫人，已經是時候了。您準備好後我們就立刻起航前往烏凱佐吧。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「如果我們想活著穿越昂德拉之臼，那我們就需要一切可以利用的優勢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「不過國王港似乎物資充足，最近的災難也使一些水手失去了船，他們正在尋找新船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我有個令人悲痛的消息：風暴令我們損失了數名船員和大部分給養。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我建議我們先購買更多物資並招募更多船員再返回外海，不然我們恐怕堅持不了多久。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我保住了您雄厚資產中的一小部分，並購買了反抗者號，還僱傭了一小隊船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「很不幸，那也花光了您僅剩的資產。
+
+「考慮到現狀，我的做法若有不妥之處還請見諒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「遠在您出生之前，我就把自己的靈魂束縛在了魂珀之耀的王座上，在將近兩百年的歲月裡，努亞堡變成了我身體的延伸，我能感覺到堡壘內部發生的一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「失去這種束縛的感覺……怪怪的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「不過我真是太不像話了，居然跟老爺您抱怨起我的得失來了。」</DefaultText>
+      <FemaleText>「不過我真是太不像話了，居然跟夫人您抱怨起我的得失來了。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「我建議謹慎行事。據當地人說瑪珈嵐之牙是個凶險無比之地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「亡焰列島的各大勢力似乎都急需你的協助，而他們都各自擁有相當可觀的資源。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「如果您能與他們其中之一結盟，他們或許就能協助我們，只不過他們的對手恐怕不會高興。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「若不與他們結盟，則您就得為這艘船購買一切能買到的升級，我們在風暴中才有活命的可能。」
+
+「即便如此，我們的旅途依然艱險無比。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「老爺，很高興看到您身體健康。」</DefaultText>
+      <FemaleText>「夫人，很高興看到您身體健康。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「老爺，有何吩咐？」</DefaultText>
+      <FemaleText>「夫人，有何吩咐？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「老爺，請問有何需要？」</DefaultText>
+      <FemaleText>「夫人，請問有何需要？」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

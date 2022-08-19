@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_arena_innkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一個女矮人坐在一張矮桌子謀面，從她眼角和嘴角的皺紋判斷，她的年紀已經不小了。她滿頭黑色的卷髮披散在肩膀上，間或夾雜著幾絲灰色。
+
+她瞇起眼睛，打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你好啊，旅行者。我們的小宿舍是給那些準備挑戰試煉儀式，或是在競技場裡角鬥的戰士們準備的。」
+
+她朝左邊的門打了個手勢，裡面是個陰暗的房間，擺滿了高高的床鋪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你好啊，挑戰者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「讓我們看看你都有什麼好東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[離開。]「下次再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「不好意思，觀眾必須自己想辦法找地方住。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「有什麼感興趣的嗎？」
+
+她的頭微微傾向右側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「胡瑪爾告訴我，讓我好好招待招待你們，至少暫時如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「沒問題，來好好看一看吧。」
+
+她站了起來，把椅子推到了角落裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你好啊，角鬥者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你好啊，角鬥冠軍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「狩獵之面的朋友就是我的朋友。」多萌卡直了一下身子，朝你點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「知道你在對付那頭怪物，我的客人們都能睡個好覺了。不過，你最應該好好休息休息。」多萌卡朝你笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「這地方也算是旅館嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「小點聲，她都聽到了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我們的床鋪很簡陋，不過我們這裡有各種各樣的訓練場地，可以鍛煉你的技巧——這些地方對觀眾是不開放的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你們的標準真是太高了。我在黑暗櫥櫃有自己的房間之前，亞柯彌一直讓我和他的妖精們睡在一起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「嘿，她已經盡了她最大的努力在做了，別這麼苛刻了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「那是隻老鼠還是條狗？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

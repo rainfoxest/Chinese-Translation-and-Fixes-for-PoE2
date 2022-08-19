@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_namai</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「需要個籃子嗎，先生？您可以用它裝各種各樣的東西。」</DefaultText>
+      <FemaleText>「需要個籃子嗎，女士？您可以用它裝各種各樣的東西。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「願亞彌拉的柔風輕撫汝身。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我們張開雙臂歡迎你，你卻殺害了我們的族人！快滾出這個地方！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「要我說，克拉里奧一定會把林克的死怪罪在伊卡瓦頭上，莫克哈真是太傻了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你到底為什麼要這麼做？！快放過我們吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「天啊，海麗婭這段時間刮了許多次風暴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「其它部落的人從來沒來過我們這裡，你是從很遠的地方來的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_campsite_explorers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>235</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這裡的土地龜裂而貧瘠，周圍安靜得瘆人。鋸齒狀的小山丘突兀地急轉而下，直入清澈寧靜的大海。天空中沒有鳥兒飛過，你也沒見到任何野豬、野鼠或蜥蜴的蹤跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[進入他們的營地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[吃些東西，休息一下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[試圖從他們這裡偷東西。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你向前走了幾步，較進的兩個帳篷門簾被撥開，一位穿著聚鹿服飾的木精靈輕盈地走了出來，旁邊有個藍色皮膚的大個頭海裔人。還有一位草原獵人，手裡舉著一把大弩，正對著你的心臟。「別再前進了，陌生人。」他開口道。
+
+這個精靈溫和地朝你笑著，和他剛剛說出的話似乎背道而馳。
+
+營地裡，那個穿著長袍的人沒有任何動作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「關於這座島的事情，你們瞭解多少？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>海裔人搖了搖頭，說：「幾乎一無所知。」聚鹿人笑了起來，回答道：「知道一點吧。」
+
+「怎麼了？」皮膚黝黑的獵人問道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[吃些東西，休息一下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你接過了一碗湯，湯的味道平淡無奇，裡面加了一些調料。你在這古怪的營地裡度過了整個晚上的時光，最後在他們的營帳裡睡了過去。
+
+你夢到了一堆蟲子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[試圖從他們這裡偷東西。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你和冒險者們談了一陣子之後，查德蘭說起了關於營地的事情，說起來如何站崗，如何燉菜之類的事情。
+
+趁她在你和營火之間挪了一下身體的時候，你把手伸到了她的腰間，摸走了她的匕首。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你編了一個極為誇張的故事，說山的南側有一個村子。村子裡有許多失去父母的兒童，正在遭受各種疫病和惡疾的折磨。故事講完的時候，矮人和瓦利亞人已經泣不成聲了。
+
+你也同樣放聲大哭起來，你對他們說，如果他們有什麼能捐出來的藥品，你很願意把這些藥帶過去，一切都是為了孩子！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>女人輕輕地笑了起來。「僅此而已，或許你應該親口問問他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[攻擊]「夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>精靈睜大了眼睛，她的瞳孔中跳動著營火的火焰。兩個男人走到了你和她之間，拿弩的人笑了起來。
+
+「真遺憾啊。」穿著長袍的人口中發出了細微的刺耳聲音。「把他們殺光，有什麼東西都拿走吧。」
+
+長袍掉在了地上，消失無形，融入了陰影之中……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>幾個不同種族的人走了過來，身上穿著優質的盔甲和武器。
+
+領頭的是個矮人，她皮膚曬得黝黑，舉起手向你致意。「你是從那條路下來的嗎？」她問道。「這就是說，你們已經解決了那群該死的雙頭魔了，對嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「那些遺跡在東北海岸的位置，那裡可不是什麼安全的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>你走進了營地，坐在了營火旁邊。雖然他們似乎本打算把火弄滅，但你坐在這裡之後，海裔人又往裡添了一根柴。
+
+矮人指了指掛在火上的燉鍋。「我們還剩了點湯，只是魚肉和蔬菜的燉湯而已，沒什麼太好的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[吃些東西，休息一下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>你和冒險者們一起吃了晚飯，在營火邊講了各自的冒險故事。到最後，你覺得累了，他們騰出了陣亡戰友的帳篷留給你過夜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[試圖從他們這裡偷東西。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>似乎沒人注意到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你隨意地打量著營地，看看有什麼可以偷的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>你走進了營地，坐在了營火旁邊。儘管為首的人對你很熱情，但剩下的人對你的到來不冷不熱，只是勉強地應付著你。
+
+營地裡的絨精朝你走了過來。「營火和歡迎是免費的，但喝湯和過夜就要花錢了。畢竟，我們只有商務上的關係而已。」她指了指火上的燉鍋和遠處的營帳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[攻擊] 「我更想搶走你們的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>轉瞬之間，矮人臉上溫暖的笑意變成了扭曲的冷笑。「這就是你們的真面目嗎？只不過是一群流浪的土匪而已嗎？」
+
+她對其他人做了個手勢，眾人包圍了過來。海裔人舉起戰斧笑著，露出了滿嘴的牙齒。「讓我享受一下把你大卸八塊的過程吧，[Player Race]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「你們怎麼想？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[接近營地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[偷偷溜向營地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「你那位戴兜帽的朋友是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「這裡有些不太對勁。」亞洛斯說道，「這裡有某種非同尋常的魔力，但我說不清究竟是什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「好吧，首先，我們先餵它們點胡蘿蔔吃，讓它們喜歡我們。然後我們可以給它們刷刷毛，它們的毛都髒了。如果這麼做它們還不喜歡我們的話，我們就再試試胡蘿蔔。」艾德爾的注意力始終在馬的身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「湯聞起來很香，簡直是有點太香了，我覺得這是個陷阱。」
+
+麥婭斜著眼睛，用拇指支著下巴，慢慢點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「看起來不太像陷阱，船長，感覺起來也不像。那個老傢伙身上一點敵意都沒有，差不多吧。」塞拉芬皺起眉，撓了撓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「看別人做飯，算不上什麼了不起的大冒險。不過要我說，像這麼休息一下還蠻好的。」
+
+泰克胡摀住了咕咕作響的肚子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Specified 0]聳了聳肩。「如果是陷阱的話，看起來可不怎麼像。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>你心裡也不太確定，不過只有你能做出回答。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>相比之下，前面的營地就要熱鬧多了。營地裡的馬試圖掙脫拴馬樁，一個穿著長袍的人頭上罩著兜帽，坐在一個木箱上。小小的篝火上掛著一個湯鍋，鍋裡濃香四溢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>三人帶著你走進了營地之中。營地裡只有幾個人，而營帳卻似乎太多了。精靈彬彬有禮地在營火邊給你讓出了個位置。穿著長袍的人並沒有對你的到來做出回應，斗篷在他身上投下了一道難以刺破的陰影。
+
+「我們這裡有湯，」海裔人開口道，「確切地說，是燉湯。如果你願意在這裡休息的話，也可以用我們的帳篷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>你從穿長袍的人身後悄悄接近，朝營火的方向移動。你穿過了第一個帳篷，沒有發出任何聲音。這時，一個手持勁弩的草原獵人從左邊走了過來，手裡的勁弩對著你的腦袋。
+
+「不准再往前走了。」他的聲音非常低沉，甚至比手上那支準備在你頭上開個大洞的弩箭更加令人毛骨悚然。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Specified 1]朝你點了點頭，悄悄地靠了過去，領著你向前走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>你朝著營火的方向摸了過去，腳下乾燥的泥土傳來了柔和的觸感。正當你懷疑自己這麼做究竟是不是個錯誤的時候，一個手持勁弩的草原獵人從左邊走了過來，手裡的勁弩指著你的腦袋。
+
+「連死人都能聽到你的腳步聲。」他的聲音非常低沉，甚至比手上那支準備在你頭上開個大洞的弩箭更加令人毛骨悚然。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我的朋友很喜歡你們的馬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「我們不是來惹麻煩的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我想去哪就去哪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[離開] 「我們馬上離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>艾德爾點了點頭。「這麼說吧，我們還沒見過它們，所以我也不敢肯定。但我感覺它們應該不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>聚鹿女人朝荒蕪之地輕輕鞠了一躬，棕褐色的卷髮鬆散地垂在臉上。「如果是這樣的話，我們有什麼理由拒絕你們呢？請來和我們一起烤火吧。」她朝營地做了個手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>聚鹿人的臉上依然掛著微笑，頭輕輕地朝右邊傾了傾。「是誰呢？」她的話聽起來像歌聲一樣，吐出的語句彷彿協調的樂音。「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>聚鹿女人朝荒蕪之地輕輕鞠了一躬，棕褐色的卷髮鬆散地垂在臉上。「如果是這樣的話，我們有什麼理由拒絕你們呢？請來和我們一起烤火吧。」她朝營地做了個手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>海裔人笑了起來。「真有意思，在我看來，你們就是來惹麻煩的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>海裔人與草原獵人交換了個眼色。海逸人點了點頭，獵人把武器放了下來。
+
+「如果你們想加入我們的話，」精靈開口道，「只要開口就行了，我們&lt;i&gt;非常&lt;/i&gt;好客。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>海裔人與草原獵人交換了個眼色。海逸人點了點頭，獵人把武器放了下來。
+
+「如果你們想加入我們的話，」精靈開口道，「只要開口就行了，我們&lt;i&gt;非常&lt;/i&gt;好客。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>他們目送你離開。當你再次回頭的時候，眼前的帳篷和煙火都消失了，穿著長袍的人影也不見了——整座營地的痕跡都消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>海裔人搖搖頭。「真的是這樣嗎？還是說，你依然有種受困的感覺呢？不是還有很多扇門沒有向你敞開嗎？你的雙腳不是依然走在荒蕪的土地上嗎？不是還有許多條路依然沒有展現在你眼前嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「我們不是來惹麻煩的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>草原獵人哼了一聲，調整了一下握弩的姿勢。「或許你一開始就應該把這句話說清楚。」
+
+聚鹿人輕輕地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[攻擊]「夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>正當你準備發起進攻的時候，穿著長袍的人影輕輕地動了一下，變成了扁平的幻象。那可能是影子，或是幻象，無論如何，它已經消失了。
+
+但你並沒有感到寬慰，因為你身後也有人影接近了你——那是你之前沒有注意到的人影……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「我是[Player Name]，[Player Ship]的船長，以前是努亞堡的靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我是個探索者，也是個冒險家。我是鏟奸除惡之人，我是平凡者的救星。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我只是眾神的僕從而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「我的名字就是我的名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>列島海裔撅起了嘴，臉上的表情看起來既像是鬼臉，又像是微笑。「而且不僅如此，這一點毫無疑問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>持弩的男人朝地上啐了一口。「我們也如此。你既來為陌生人，便始終為陌生人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「我看得多，說得少。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>伴隨著極為輕微的動作，穿著長袍的人低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>你從穿長袍的人身後悄悄接近，朝營火的方向移動。你穿過了第一個帳篷，沒有發出任何聲音。這時，一個手持勁弩的草原獵人從左邊走了過來，手裡的勁弩對著你的腦袋。
+
+「不准再往前走了。」他的聲音非常低沉，甚至比手上那支準備在你頭上開個大洞的弩箭更加令人毛骨悚然。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>一位穿著聚鹿服飾的精靈，從另一個帳篷裡步履敏捷地走了出來。「你好啊，陌生人。」她臉上帶著溫和的笑容。
+
+一個寬肩膀的列島海裔人站在了手持弩箭的男人身邊。你注意到，那個穿著長袍的身影一動沒動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「這裡的帳篷很多，你們剩下的人都在什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>草原獵人笑了起來。「就在周圍。」
+
+「他們負責警戒。」精靈說道。
+
+海裔人點了點頭。「警戒危險，也警戒別的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「這裡的地形……這片大地看起來就像是被某種強大的力量扭曲破壞了一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「這個地方……幾乎讓我感到神聖……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「像這樣的小島，我本以為會看到飛鳥、蜥蜴和昆蟲之類的，但這裡沒有任何生機。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「我只是生來好奇而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[走過去看兜帽下面的面孔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「喂！你是什麼人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「不必了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>你一步步接近人影，人影沒有任何動靜。你每朝他走一步，都感覺似乎離他更遠了。這一小段路似乎走了幾分鐘之久，營火已經到了你身後的位置，但你就是停不下來。
+
+你彎下了腰，看著兜帽下面。兜帽下面有一張臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>那是[Player Ship]上，[Specified 2]的臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>人影並沒有任何回應，只有火光和陰影在他的長跑上跳動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>女人笑了起來，海裔人聳了聳肩。
+
+獵人皺著眉頭，看著遠方的地平線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>那是一張沒有毛髮的面孔，皮膚灰白，嘴唇細長，鼻子很窄，沒有眼眶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「[Specified 2]？你在這裡幹什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[點點頭，回到你的座位。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[逃跑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「沃艾珥嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Specified 2]揚起了眉毛。「我為什麼不能在這裡呢，船長？」
+
+聲音聽起來極為平靜安詳，彷彿是從深淵底部傳來的回聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>他的面孔笑了起來，嘴角翹了上去。「當然不是。」
+
+人影站了起來。「人的外表與本質並不相同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>你顫抖起來——不，是你腳下的大地在顫抖，或是空氣在顫抖。地上的塵土開始震顫，你腳下的地面突然出現了一個深坑，你感覺胃都要提到了嗓子眼。
+
+你落入了黑暗之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>你坐回了木箱上，穿著長袍的人影不再看你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「你們怎麼連個問題都不能好好回答？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>聚鹿人點點頭。「或許是這樣，許多年前，這裡發生了一場大災變。」
+
+海裔人搖了搖頭。「不過其它的事情，我們也沒什麼可說的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>三個人看著你。精靈臉上帶著笑容，海裔人揚起了一條眉毛，獵人皺著眉頭。
+
+他們沒有回答你的問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>皮膚黝黑的獵人點了點頭。「真的是見鬼了，是吧？」
+
+海裔人笑了起來，尖牙在火光的映照下反著光。「這不禁讓人懷疑，湯裡燉的究竟是什麼東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>草原獵人哼了一聲。
+
+海裔人點了點頭。「你確實有理由懷疑，但問題的答案，你必須親自探尋才行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>三個人看著你。精靈臉上帶著笑容，海裔人揚起了一條眉毛，獵人皺著眉頭。
+
+他們沒有回答你的問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[離開] 「我……我得走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>當你醒來後，周圍變得空空如也。沒有帳篷，沒有馬匹，甚至沒有營火留下的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>聚鹿女人朝荒蕪之地輕輕鞠了一躬，棕褐色的卷髮鬆散地垂在臉上。「如果是這樣的話，我們有什麼理由拒絕你們呢？請來和我們一起烤火吧。」她朝營地做了個手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>這裡有四個人，你得想辦法引開他們的注意力……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[低語] 「嘿，你拉住他們，不停說話，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[製造出一個魔法誘餌，引開他們的注意力。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[放棄這個計劃。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>你決定還是不要從他們這裡偷東西了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Specified 3]點點頭，轉向了三人，開始講起了你們的冒險故事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Specified 3]點點頭，轉向了三人，開始講起了你們的冒險故事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>你謊稱要去解決一下內急，離開了。當你離開營地之後，你做了幾個手勢，念了幾句咒語，一隻足以吸引注意力的召喚物出現了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[Specified 3]找了個體面的藉口，從營火旁邊離開了。過了一會兒，你聽到營地另一邊傳來了召喚生物的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>你決定靠自己來引開他們的注意力，但這意味著偷東西的任務得交給另一個人來完成……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[低語] 「看看他們有沒有什麼值錢的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[搜索營地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[搜索營地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>你簡單搜索了營地，找到的東西少得可憐：只有營帳、鋪蓋卷和枕頭。你找到了一個小包裹，裡面有幾個眼球盯著你看。
+
+這些眼球看起來很新鮮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>你簡單搜索了營地，找到的東西少得可憐：只有營帳、鋪蓋卷和枕頭。你找到了一個小包裹，裡面有幾個眼球盯著你看。
+
+這些眼球看起來很新鮮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>你簡單搜索了營地，找到的東西少得可憐：只有營帳、鋪蓋卷和枕頭。你找到了一個小包裹，裡面有幾個眼球盯著你看。
+
+這些眼球看起來很新鮮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Specified 4]點點頭，偷偷離開了。吸引三個人注意力的任務落在了你的身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>草原獵人皺起了眉。「呆著別動。」
+
+三個人循聲走了出去，營地裡只剩下你和那個一動不動的穿長袍的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[拿走它們。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[把它們留在原處。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[拿走它們。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[把它們留在原處。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>你回到了營火處，三人似乎對此一無所知。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>你回到了營火處，三個人都看著你。獵人臉上的皺紋變得更深了，但精靈依然笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「郎歌世的著作《對定理的錯誤認知》，我一直都讀得暈頭轉向……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「這麼說吧，你們聽說過鹿林人、瓦利亞人和絨精的歷史嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「從文化層面來說，胡亞納人與努瓦泰人並沒有那麼多共同點，反而是與艾爾·格蘭芬瑟人更加接近。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「我和你說，靈界就是由一大堆管子構成的世界……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「享受濃湯之前，我們還是先低下頭，對眾神表示謝意吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>三個人完全被你的話吸引住了。他們全神貫注地聽著，直到[Specified 4]回來為止。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>三個人沒怎麼注意你說的話，眼神始終在不斷留意著周圍的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>三個人完全被你的話吸引住了。他們全神貫注地聽著，直到[Specified 4]回來為止。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>三個人完全被你的話吸引住了。他們全神貫注地聽著，直到[Specified 4]回來為止。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>三個人完全被你的話吸引住了。他們全神貫注地聽著，直到[Specified 4]回來為止。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>三個人完全被你的話吸引住了。他們全神貫注地聽著，直到[Specified 4]回來為止。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>當[Specified 4]再次坐回你身邊的時候，他的臉色有點發綠，還帶著某種被嚇到了的表情。
+
+三人似乎對此一無所知。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>當[Specified 4]再次坐回你身邊的時候，他的臉色有點發綠，還帶著某種被嚇到了的表情。
+
+三人警覺地看著你們兩個。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>當[Specified 4]再次坐回你身邊的時候，他的臉色有點發綠，還帶著某種被嚇到了的表情。
+
+三人似乎對此一無所知。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>你從高山上下來的時候，在沙漠中發現了一處小小的營地。
+
+裡面有幾個帳篷，有幾匹疲憊不堪的馬，還有辟啪作響的營火。如果說有人埋伏在裡面的話，這樣的景象未免太惹人注目了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「我已經解決它們了，徹底解決了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「沒有，我和它們做了筆交易。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「我是繞路過來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「哦，是啊，我把它們都幹掉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「這麼說吧，我把它們都幹掉了，這個消息值多少錢呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>她眨眨眼睛，用一塊布擦了擦額頭。「這個問題問得好。我是查德蘭，我們是來自盎然之地的『魂珀之妖冒險隊』。」
+
+「是&lt;i&gt;魂珀之耀&lt;/i&gt;冒險隊才對。」一個高個子男人打斷了她的話，男人穿著精良的盔甲，皮膚宛如有裂口的黑曜石一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>女人拍起了手。「太棒了！這可真是這幾個星期以來最好的消息了。」
+
+站在矮人身後的海裔人歎了口氣。「我還以為這趟冒險裡，終於能有機會測試一下我們的能耐了呢。」
+
+穿著長袍的蒼精靈看了她一眼。「死亡早晚都會找上我們，沃什卡，別那麼著急投入它的懷抱。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>身材矮小的絨精眨了眨眼。「交易？」她問道，「什麼交易？你把一個同伴餵它們吃，然後剩下的人可以過去？」
+
+「別胡鬧了，米吉。」矮人搖了搖頭。「他們應該就是把一些肉扔過去了，趁那些畜生吃完肉之前跑了過來。」她朝你眨了眨眼。
+
+海裔人笑了起來，掂了掂手中沉重的戰斧。「這樣一來，那些畜生就得由我們來殺了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>她睜大了眼睛。「真的嗎？」她看著身邊的列島海裔人。「&lt;i&gt;你&lt;/i&gt;怎麼就沒找到能繞的路呢，沃什卡？」
+
+她笑了起來，露出了滿口的尖牙，沃什卡聳了聳肩。「我還是想弄死那幾個混蛋。再說了，查德蘭，開路的人不是你嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>冒險者們對視了幾眼，矮人撓了撓頭。
+
+「老實說，這個問題我還真沒怎麼考慮過。通常都是別人付錢給&lt;i&gt;我們&lt;/i&gt;，讓我們去殺怪物。但這些雙頭魔已經把我們困在這裡好幾個星期了，那該死的怪物，還差點用石頭砸死了米吉。」
+
+一隻身材嬌小的家絨精用力點了點頭。「真的是太驚險了！我的耳朵差點被削下來！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>矮人皺起了眉頭。「我最後跟你說一次，弗蘭克，才不是呢！你要是這麼想叫『魂魄之耀』的話，就別在這裡呆著了。」
+
+一位穿著長袍的蒼精靈走了過來，鬍子上沾滿了汗珠。他歎了口氣，揉揉額頭。「關於那些雙頭魔……」他說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>矮人看著你。「你看起來是個直爽的傢伙，這樣……就2000個銅幣吧，當然，各個地方的貨幣都有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>矮人皺起了眉頭。「我覺得1000個銅幣應該差不多了，我們相信你說的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「我認識那張臉，是沃什卡嗎？」麥婭瞇眼看著冒險隊裡的一位成員。
+
+那是個海裔人，瘦削的藍色腦袋上滿是黑色的辮子。她朝麥婭點了點頭。「沒錯，好久不見了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「你倆認識？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>[不理會她們。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「蘭迦努伊讓我們在靶場裡一起訓練，想看看我們兩個能不能合得來。」
+
+麥婭交叉起雙臂，舔著腮幫。「而我們兩個合不來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「那條路在危險的巖壁旁邊，如果你們真的要走，一定要小心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「那條路非常容易找，而且非常安全，只要往前走就行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「我把那條路在地圖上標出來吧……當然，不是免費的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>瓦利亞冒險者笑了起來，敲了敲自己的胸甲。「對我們來說，危險就像是老家的情人一樣。誰都想躲開她，但最後還是滾到了她的床上。」
+
+「我也希望事情不是這樣，不過，他說得沒錯。」矮人給了你一個小錢袋。「就當做情報費吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>她朝沃什卡笑了笑。「看起來我們明天可有事幹了。」
+
+海裔人聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>矮人只考慮了一會兒，就遞給了你一個錢袋和一張手繪的區域地圖。「沒人比盎然之地的孩子更瞭解安全通道的價值。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>矮人指了指營帳。「有了你們的幫助，看起來我們又可以開始冒險了。至少來我們這裡坐坐，在火邊暖暖身子吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>矮人摸著自己的下巴。「好吧，或許你還不是我們的朋友，但你肯定不是我們的敵人。反正我們一時半會兒也走不了，不如來我們的火邊坐一坐，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>探險者搖搖頭，哼了一聲。「大部分地方我們都沒去過，我們是從那邊幾里的地方上的島。」她用拇指比著西邊的海岸。
+
+「但那群該遭天殺的雙頭魔擋住了我們，我們沒法繼續前進了。」瓦利亞人埋怨起來，絨精用力地點了點頭，耳朵一跳一跳的。
+
+矮人笑了笑。「我們正在尋找某些遺跡，遺跡的位置應該就在那邊。這座島已經夠偏僻的了，難以想像，居然還有人在這裡造了東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>女人拍起了手。「太棒了！這可真是這幾個星期以來最好的消息了。」
+
+站在矮人身後的海裔人歎了口氣。「我還以為這趟冒險裡，終於能有機會測試一下我們的能耐了呢。」
+
+穿著長袍的蒼精靈看了她一眼。「死亡早晚都會找上我們，沃什卡，別那麼著急投入它的懷抱。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>探險隊裡的小絨精丟給了你一個沉重的皮帶。「這是你要的錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>探險隊裡的小絨精丟給了你一個沉重的皮帶。「這是你要的錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>矮人只考慮了一會兒，就遞給了你一個錢袋和一張手繪的區域地圖。「沒人比盎然之地的孩子更瞭解安全通道的價值。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「我想多瞭解一些你們的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「你瞭解這座島嶼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>[吃些東西，休息一下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>矮人點點頭。「我明白了，你得小心點。亡焰列島是個危險的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>矮人指了指黝黑下巴上的傷疤。「這麼說吧，我們是在盎然之地遇到的，我和米吉都來自那裡。」她指了指矮個子絨精。「她可是讀心術的專家。而弗蘭克來自舊瓦利亞，是達寇茨聖武團的成員。」
+
+高個子男人用鐵手套敲了敲自己的胸甲，鞠了一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>米吉笑了起來。「現在我們正在搾乾一位聚鹿貴族的錢袋，那個人是亡焰列島冒險家協會的成員。」絨精輕輕地笑了起來。「差不多就是這樣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「我敢說你們肯定有很多了不起的冒險故事吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「盎然之地是什麼樣子？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「你們居然能活這麼久，真讓人驚訝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>瓦利亞人抬起了頭，彷彿被這句話打開了話匣一樣。「是啊，我跟你說，你都不知道。」
+
+「他又來了。」沃什卡對你搖起了頭。「你這可是自找的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>查德蘭深深地吸了口氣。「那絕對是個神奇的地方，你就從來沒見過像那樣綠樹成蔭的地方。那裡有五顏六色的鳥，有像寶石一樣漂亮的蜥蜴，還有狩獵！直到離開之後，我才知道我有多想念那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>米吉笑了起來。「你要是知道這句話我們已經聽過多少次了，那你才會驚訝呢。」
+
+「熟能生巧而已。」萊斯羅迪凝視著沙漠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「確實到處都是沙子，謝謝了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「這些訊息可不算太充分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>[試圖偷走矮人的匕首。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[試圖忽悠他們，讓他們給你一些藥劑和其它醫療物資。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[溜到帳篷後面，偷走他們的東西。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>你長長地打了個呵欠，身子向後傾了過去。你注意到營帳裡放著幾個沒扎上的包裹。在火光之中，你注意到包裡有一些閃亮的東西。
+
+你找個藉口離開了營火，之後直接奔向了營帳裡。你在包裡面找到了一大堆小東西。你把這些東西放在了自己的小包裡之後，便與其他人會合了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>[進入他們的營地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[離開]「不必了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>矮人點點頭。「我明白了，你得小心點。亡焰列島是個危險的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>她睜大了眼睛，臉上掛著笑容，拍了拍手。「太棒了！這不正是魂珀之妖冒險隊要找的東西嘛！」
+
+絨精笑了起來，鼻翼抽搐著。「希望你們還給我們留下了一部分財寶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>瓦利亞人笑了起來，發出了短促的溫厚聲音。「沒錯，確實是這樣。我身上到處都是沙子，就連我不知道的地方都有。一想到有些姑娘會看到我落魄成了這幅樣子，我就替她們感到難過。」
+
+絨精搖起了頭。「我們&lt;i&gt;大家&lt;/i&gt;都替那些不開眼看上你的女人感到難過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>穿著長袍的格蘭費倫人從燉湯上移開了視線。「查德蘭說得沒錯，我們對這裡的瞭解確實有限。」
+
+「別這麼說嘛！」查德蘭捏了捏自己的鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「她這是嫉妒。」他向你眨眨眼。「我征服過那麼多女人，這樣米吉很不高興。」
+
+米吉叉起胳膊，嘖嘖舌頭。「別扯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「我就是從盎然之地來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>查德蘭揚起了眉毛。「真的嗎？那你肯定知道那裡是什麼樣子！那裡到處都是不可思議的動植物，還有山谷、山脈、峽谷與峭壁，就好像繪圖師把地圖揉成一團，直接丟在了海裡一樣！」雖然她嘴巴咧得很大，但笑容並不太愉快。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「你們為什麼要走？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>查德蘭不再看你，目光移到了營火上。
+
+「她的狗死了。」萊斯羅迪似乎察覺到了氣氛，簡單地說了一句。
+
+矮人皺起了眉。「牙牙不是狗，是狼，而且是一條好狼。他一直都陪在我身邊。」她把握緊的拳頭放在胸前。「他會永遠陪著你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>米吉深沉地點了點頭。「確實，這裡有一半多的植物都想把你生吞活剝了，但至少確實有些&lt;i&gt;值得一看&lt;/i&gt;的東西。」她皺起眉頭，盯著沙漠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>弗蘭克沒有理會她。「要說起以前的冒險，應該從哪裡開始講起呢？是講令人瑟瑟發抖的瑟因觸手怪？講瑟洛拿女裁縫的蕭瑟故事？還是講波泊威波瀾壯闊的波折之旅？！」
+
+「他還以為他是個詠者呢。」沃什卡說，「雖然他的熱情能在一定程度上彌補不足，但他畢竟還是缺乏天分。」
+
+「安靜點，你這把老斧頭。」他看著你。「如果你們能留下來的話，我很樂於在晚飯的時候講給你們聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>查德蘭皺起了眉頭。「我理解你們的苦衷，但我也不能就這麼把補給給你們，讓我自己的人處於危險之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>轉移了大家的注意力之後，你把手伸向了查德蘭的匕首，但她一把抓住了你的手腕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>[Specified 2]朝你輕輕點了點頭，示意明白之後，就溜到了查德蘭身邊。
+
+你根本沒注意到你的同伴從矮人身上偷走任何東西，不過神偷不就應該是這樣的嗎？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>[Specified 2]朝你輕輕點了點頭，示意明白之後，就溜到了查德蘭身邊。
+
+過了一會兒，她高喊了起來，把你的同伴推搡到了營地中間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>[Specified 2]講述了[Player Ship]上一大堆悲慘的故事，講述你把所有的醫療補給都分給了殖民地裡得了凍骨病的病人，現在船上哪怕是有人生了點小病，都沒法進行治療。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>查德蘭一邊擦著鼻子，一邊從帳篷裡取出了一個包裹。「請收下這個吧。雖然沒多少東西，但哪怕幫上一點忙也是好的，是吧？」
+
+矮個子絨精搖起了頭，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>正當你準備在帳篷裡大肆搜刮的時候，那個絨精出現在你的身後，拔出了武器。
+
+「你想找什麼嗎？」她揚起了一條眉毛。「我感覺你像是想偷東西的樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>[Specified 2]笑了笑，禮貌地藉口說要去方便一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>幾分鐘後，[Specified 2]回到了營火處，身後還跟著那個矮個子絨精——絨精手裡拿著武器。
+
+「我發現這傢伙在亂翻我們的東西，查德蘭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>[Specified 2]朝你詭秘地笑了笑，之後回到了營火旁邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>塞拉芬皺起了眉頭，清了清嗓子。「很抱歉打擾各位，你們為我們做的一切已經很熱情了。但希望你們明白，我們正在執行一項慈善任務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>[Specified 2]點點頭，禮貌地藉口說要去方便一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>[放棄這個計劃。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>你決定還是不要從他們這裡偷東西了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>塞拉芬擦了擦眼睛。
+
+」我們是從國王港來的，在那裡，瘟疫正在孩子們之間流行。你們應該也聽說過了，沒錯吧？只要是感染上這種疾病的小姑娘小伙子，他們的內臟就會慢慢變成膿液……聽著他們發出痛苦的呻吟，這可真是——」絨精移開了目光。「算了，這些細節還是不說了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>「以沃艾珥之名啊，這到底是怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>他的面孔笑了起來，嘴角翹了上去。
+
+那個人站了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>矮人看著你。「你看起來是那種擅長對付怪物的傢伙。這樣……就2000個銅幣吧，當然，各個地方的貨幣都有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「它們已經死透了，該給我報酬了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「我已經把它們幹掉了，不過報酬就免了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>醒來之後，你謝過了他們，離開了。他們祝你一路順風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「給我雙倍的報酬吧，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>矮人想了一會，歎了口氣。「好吧，雙倍就雙倍吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>米吉哼了一聲。「不怎麼樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>查德蘭指了指旁邊的蒼精靈。「這位是萊斯羅迪，來自若移冰地，魔法的事情都由他處理。還有，這位是沃什卡。」她朝那位列島海裔點了點頭，「錢花光了之後，她就離開了努瓦泰。」
+
+「其他的人都是花錢雇來的人，不過其中有幾個身手還是挺不錯的。無論是盎然之地，還是亡焰列島，我們都去過了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「我不是來惹麻煩的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「我不是來惹麻煩的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

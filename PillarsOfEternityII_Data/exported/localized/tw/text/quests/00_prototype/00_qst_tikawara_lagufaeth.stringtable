@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_prototype\00_qst_tikawara_lagufaeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>巢母之怒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在&lt;b&gt;赫希納溪谷&lt;/b&gt;獵殺魚人巢母。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回&lt;b&gt;提卡瓦拉&lt;/b&gt;島的貿易站找&lt;b&gt;海姆西&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>營救被囚禁在村子裡的魚人幼崽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>在&lt;b&gt;赫希納溪谷&lt;/b&gt;擊殺魚人巢母。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>營救被囚禁在&lt;b&gt;提卡瓦拉&lt;/b&gt;村莊裡的魚人幼崽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;海姆西&lt;/b&gt;擔心&lt;b&gt;提卡瓦拉&lt;/b&gt;島的魚人會對村子構成嚴重威脅。她想要殺死巢母。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;海姆西&lt;/b&gt;想要消滅&lt;b&gt;提卡瓦拉&lt;/b&gt;島的魚人。她告訴我巢母住在島上的溪谷中。消滅她應該能使這些生物四散而逃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經消滅了巢母。&lt;b&gt;海姆西&lt;/b&gt;聽到這個消息肯定會很高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>部落抓到了幾隻魚人幼崽。巢母想把他們從村子裡救出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>&lt;b&gt;海姆西&lt;/b&gt;認為只有消滅巢母才能讓魚人不再來騷擾村民。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>魚人巢母心急如焚，一心只想救出她的幼崽。救出幼崽可以確保魚人與村子停戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我在溪谷中找到了巢母。令我不解的是，她並沒有攻擊我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我放走了被囚禁在村子裡的魚人幼崽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>現在我已經能說服巢母不再來騷擾村民了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>我聽人說&lt;b&gt;海姆西&lt;/b&gt;正負責處理魚人問題。我可以在村裡的貿易站旁邊找到她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>&lt;b&gt;海姆西&lt;/b&gt;允許我放走囚禁在村裡的魚人幼崽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>我在海灘邊找到了一個籠子，裡面關著幾隻魚人幼崽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;海姆西&lt;/b&gt;拒絕放走魚人幼崽。我完全可以自己解決魚人幼崽問題……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我消滅了魚人巢母，解除了村子面臨的威脅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我放走了被囚禁的魚人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我已設法讓&lt;b&gt;提卡瓦拉&lt;/b&gt;島的魚人與部落停戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我殺死了魚人巢母和海姆西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>胡亞納人抓了幾隻魚人幼崽，巢母想把他們救回來。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

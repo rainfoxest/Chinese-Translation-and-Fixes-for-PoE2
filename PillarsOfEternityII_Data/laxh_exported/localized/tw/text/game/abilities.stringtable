@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5139</ID>
+      <DefaultText>大弧度揮舞彎刀，以先手權為代價獲得穿透加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5140</ID>
+      <DefaultText>以先手權為代價使出擁有額外穿透能力的強力攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5141</ID>
+      <DefaultText>長杖攻擊將蘊含更加強大的能量，以先手權為代價攻擊目標週遭敵人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5142</ID>
+      <DefaultText>角色大力揮舞戰槌，以先手權為代價傷害目標護甲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5143</ID>
+      <DefaultText>謹慎地使用細劍，瞄準致命弱點以保證攻擊成功。使用此種方式戰鬥將以先手權為代價提升精準。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5144</ID>
+      <DefaultText>小心瞄準敵人護甲中的弱點，以先手權為代價提升穿透能力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5145</ID>
+      <DefaultText>以先手權為代價使出擁有額外穿透能力的強力突刺攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5146</ID>
+      <DefaultText>以先手權為代價換來小型盾牌更有效率的近戰武器攻擊防禦。當攻擊你的近戰武器失手，你的下一次武器攻擊將獲得精準加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5147</ID>
+      <DefaultText>使用盾牌格擋來襲武器攻擊，以先手權為代價完全抵抗攻擊（如果防禦成功的話）。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5148</ID>
+      <DefaultText>揮舞手杖格擋來襲攻擊，以先手權為代價獲得針對近戰武器的格擋加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5149</ID>
+      <DefaultText>野蠻人在擊殺一名敵人後將立即清空自身先手權。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5150</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+咒法系法術的力量等級增加。
+
+獲得「召喚魔寵」法術：召喚一個生物來協助法師。魔寵不擅長戰鬥，但可以為主人提供被動加成。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用塑能系和幻術系法術。
+非咒法系法術的先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5151</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+附魔系法術的力量等級增加。
+
+獲得「自由行動」被動效果：當法師受敏捷減益狀態影響時，他們會清除該減益狀態並短暫對該狀態免疫，每場戰鬥一次。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用幻術系和變化系法術。
+
+非附魔系法術的先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5152</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+塑能系法術的力量等級增加。
+
+塑能系法術有較小几率產生「雙重施法」，即立即對目標再次施加法術的傷害和效果。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用變化系和咒法系法術。
+
+非塑能系法師法術的先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5153</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+幻術系法術的力量等級增加。
+
+獲得「反射鏡面」被動技能：首次遭到攻擊時，自動獲得「鏡影術」效果，每場戰鬥一次。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用咒法系和附魔系法術。
+
+非幻術系法術先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5154</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+變化系法術的力量等級增加。
+
+獲得「狂暴化身」法術：法師變身為食人魔。變身後，無法使用法術，但各項體能屬性增加。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用附魔系和塑能系法術。
+
+非變化系法術的先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5155</ID>
+      <DefaultText>（粉碎轟擊）-野蠻人擊殺目標之後將立即清空自身先手權。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5156</ID>
+      <DefaultText>（暴民姿態）-附近敵人數量將會減少戰士的先手權，數量越多效果越顯著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5157</ID>
+      <DefaultText>即使身穿笨重又緊身的盔甲，戰士也能如行雲流水一般行動自如。該技能可以使大幅降低戰士穿著盔甲時的先手權懲罰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5158</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+攻擊4米之外的目標時，「命中到暴擊」的轉化獲得加成。
+
+攻擊距離4米以內的目標時，獲得額外穿透。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+先手權增加。
+
+格擋降低。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5159</ID>
+      <DefaultText>弩、勁弩與所有火器的裝填先手權減少。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5160</ID>
+      <DefaultText>降低切換武器時的先手權懲罰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5161</ID>
+      <DefaultText>降低遠程武器移動時的先手權懲罰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5162</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+街鬥士受夾擊或重傷時，偷襲更加致命，先手權減少。
+
+街鬥士同時受夾擊和重傷時，武器暴擊傷害增加。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+當街鬥士既未受夾擊亦未重傷之時，先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5163</ID>
+      <DefaultText>當殘酷宇宙跟隨你時，你護甲引起的先手權懲罰降低，全隊使用火槍造成的傷害增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5164</ID>
+      <DefaultText>當盧塞洛跟隨隊伍時，你獲得對敏捷減益狀態的抗性，另外隊伍在快速使用物品後的先手權降低。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5165</ID>
+      <DefaultText>當艾普西隆跟隨你時，你護甲引起的先手權懲罰降低，全隊在戰鬥中移速提升。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5166</ID>
+      <DefaultText>當亞伯拉罕跟隨你時，你護甲引起的先手權懲罰降低，隊友擊殺敵人時恢復部分生命值。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5167</ID>
+      <DefaultText>當納爾維跟隨你的隊伍時，你獲得決心加成，隊友護甲引起的先手權懲罰降低。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5168</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+一開始就擁有一個額外的武器套裝和武器熟練。
+
+切換武器為自由行動。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+持續&lt;xg&gt;恢復&lt;/xg&gt;能力減弱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5170</ID>
+      <DefaultText>無法移動</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5171</ID>
+      <DefaultText>克己</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5173</ID>
+      <DefaultText>夜間先手權減少。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

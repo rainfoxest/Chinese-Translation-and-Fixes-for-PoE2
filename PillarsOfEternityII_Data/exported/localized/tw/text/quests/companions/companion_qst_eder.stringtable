@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_eder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>光耀之徑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>尋找可能認識艾德爾朋友的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在哈桑戈尋找艾拉法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>調查光耀之徑的信徒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>前往「先遣」船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>追逐光耀之徑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>營救貝亞恩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>把&lt;b&gt;貝亞恩&lt;/b&gt;帶回&lt;b&gt;哈桑戈&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>艾德爾有意聯繫一個他的老相識，她可能與晨星之子一起住在亡焰列島上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>一定有某個晨星之子聽說過她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我們見到的一個晨星認為艾拉法應該與她兒子一起住在哈桑戈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我們見到了艾拉法的兒子貝亞恩並瞭解到她已經去世了。
+
+他似乎捲入了一個名叫「光耀之徑的信徒」的晨星教派；他們的領袖名為迦德理安·博斯克，對俄撒斯在亡焰列島的行動有獨到的軍事見解。
+
+儘管已經得知了艾拉法的消息，艾德爾還是很關心她兒子，並想親自調查這一教派。
+
+貝亞恩建議我們去涅克塔卡的岡恩神殿找一位名為奧格涅的女士，她負責招募光耀之徑的新人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>局面漸漸明朗：光耀之徑的信徒可能想通過在俄撒斯身旁死亡而加入他。
+
+貝亞恩說他想作為這群人的先鋒——成為第一批加入俄撒斯的人中的一員。他們的船停靠在涅克塔卡。
+
+我們得趕在它離港前抵達。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我們沒來得及登上停在涅克塔卡的光耀之徑船隻。
+
+我向艾德爾保證追上它，如果貝亞恩在上面，就把他救下來。
+
+他們在跟隨俄撒斯——因此肯定會向北追隨他的毀滅之路。
+
+因此，時間至關重要。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>我得找到貝亞恩並及時將他弄下船來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>&lt;b&gt;貝亞恩&lt;/b&gt;受了這麼多苦，&lt;b&gt;艾德爾&lt;/b&gt;認為現在最應該做的事情，就是把他帶回&lt;b&gt;哈桑戈&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我被告知要去涅克塔卡的岡恩神廟找一個名為諾達岡德的晨星長者談談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;奧格涅&lt;/b&gt;身上帶著某些揉皺的文件，這些文件可能隱藏著某些訊息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我們成功地說服貝亞恩不要喝教派裡其他人飲用的毒藥。他活過了考驗，但貌似並不是很滿意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>貝亞恩在我們面前服下了毒藥，但我們成功地把他救回來了。他活過了考驗，但貌似並不是很滿意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我們未能阻止貝亞恩與光耀之徑的其他信徒一起尋死的嘗試。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>奧格涅攜帶的文件暗示：光耀之徑的信徒可能想通過在俄撒斯身旁死亡而加入他。
+
+貝亞恩說他想作為這群人的先鋒——成為第一批加入俄撒斯的人中的一員。他們的船最近在涅克塔卡停靠過。
+
+我們得趕在它離港前抵達。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

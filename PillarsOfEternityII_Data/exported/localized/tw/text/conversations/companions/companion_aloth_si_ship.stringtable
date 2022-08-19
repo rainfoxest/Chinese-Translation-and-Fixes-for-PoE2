@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_si_ship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>當你正在繞過一個岩石小島時，你看到一艘船在地平線上漂泊，船帆在微風中翻動。
+
+上面畫著一個粗糙的符號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>但你發現一具屍體斜靠在舷緣上，還有一具攤在舵盤上。
+
+還有一支箭沒入桅桿。
+
+亞洛斯出現在你身邊，也在觀望著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「那個符號——看起來像是灰鑰社標誌的變體。」
+
+亞洛斯放下望遠鏡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「讓我們調查一番。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你認為他們是灰鑰社？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我沒時間深究這個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我也是這麼想的，」亞洛斯說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「也有可能是被他們襲擊了。
+
+「灰鑰社成員很少這麼明目張膽地宣示自己。但我們只有看了才知道。」亞洛斯說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「拜託，[Player Name]。可能會一無所獲，但萬一他們是灰鑰社，也許能把我們引向塗鴉面具人呢。」
+
+亞洛斯皺起眉毛，擰動著望遠鏡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「太糟糕了。我們遇上更大的麻煩了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「如果我們現在不看看，就說不好那艘船會漂向何處了。或者誰會捷足先登。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>當你從它旁邊駛過時，亞洛斯什麼也沒說，只是看著那艘船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你掏出望遠鏡，盯著那個符號。
+
+畫得不怎麼細緻，但看起來可能是一根戰棍。也可能是一把劍。
+
+或是一把鑰匙。
+
+除了翻動的船帆和搖晃的線，你看不出任何動靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我看它像瓦哈奇部族的戰棍。他們襲擊船隻後，畫上這個符號警告其他人。」
+
+泰克胡叉起雙手打了個寒顫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「有可能。儘管如此，還是值得靠近看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

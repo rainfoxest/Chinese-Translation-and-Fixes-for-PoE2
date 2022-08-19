@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_neketaka_rauatai_district\08_cv_guards_chat_about_deadfire</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「藍天綠地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「當地人根本不知道他們有多幸運。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「胡亞納人住在天堂裡面，但是他們並不保護這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「圍牆在哪裡？火炮在哪裡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「難以置信。我從來沒有見過這麼美麗乾淨的大地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>她點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你們兩個似乎已經著迷於景色了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「如果你喜歡這景色，你&lt;i&gt;一定&lt;/i&gt;還要去看看聚鹿的叢林和盎然之地的峽谷！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「這裡的土地，豐饒蔥綠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我聽說過那裡的美景，但是我不知道能不能比得上這地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你一定是習慣了這裡了。」她翻了個白眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「瑪珈嵐之牙迸發的時候我在站崗。從這裡就看見了煙塵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「之前我還以為這地方看上去要比惡土安全。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>兩名守衛眺望著城牆外的景色：女王港在不遠處閃爍著光芒，前面就是滾滾波濤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你怕不怕那頭巨像會來這裡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「怎麼可能！就算它真的來了，我們的火炮能對付那東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我肯定哈桑戈的戰壕兵也是這麼想的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「亡焰列島是個特別的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「我小時候是在風暴與岩石中渡過的。
+
+「努瓦泰是我的靈魂，但是這個地方已經把我迷住了。」他快速地眨了眨眼睛，像是在害怕錯過這景色一樣，哪怕一瞬間也不想錯過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「不，是其他什麼東西。
+
+「我只是還不清楚到底是什麼。」他撓了撓後腦勺眺望著，也許是希望能夠在這裡的景色中找到答案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「亡焰是資源豐富的島嶼群。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你是被它代表的可能性吸引了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「亡焰列島的價值在於它的人民，永遠不要忘記那一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「是傳說與謎團，英格維仙遺跡，古代故事……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我也不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「不要跟我說你沒有折服於這景色。還是說你其實是更喜歡寒冰與苔原？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>她對著你搖了搖頭之後重新轉頭眺望起了景色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>她點點頭。「這裡有太多東西了。我們能在這裡做太多事情了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「也許就是這個。」他轉過了身，整個人都沉醉在了景色裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我不是很相信那些東西。亡焰列島是一個豐饒之地。是賦予我們人民的一個承諾。」她轉向了她的朋友。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「誰是亡焰的人民？古時的胡亞納人？還是現在住在這裡的海盜們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「亡焰屬於那些能夠成為主宰，能夠在這裡建造之人。
+
+「&lt;i&gt;那&lt;/i&gt;才是真正激動人心的事情。」她對著華貴的街景點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>她聳聳肩。「亡焰列島是另一個邊疆，滿是資源，等待著我們去建造。
+
+「&lt;i&gt;那&lt;/i&gt;才是真正激動人心的地方。」她對著華貴的街景點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「亡焰列島終將加入努瓦泰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你覺得這塊大地能夠保持這蔥綠色麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我們能在亡焰列島上建立太多東西了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「這是塊不錯的土地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

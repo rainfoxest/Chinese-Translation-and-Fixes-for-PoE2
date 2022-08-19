@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_okauro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>68</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一個穿盔甲的胡亞納人轉過來，上上下下地打量著你。她在漫長而安靜的沉思中保持著這個姿勢一動不動。
+
+最後，她取出一枚銅幣，把錢幣平衡放置在她的指關節上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「獵人。你是來為你的賞金契約嗎？」歐考羅叉起雙手，打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「怎麼，旅行者？」歐考羅轉臉看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「來買人頭的。不會更簡單了，要我說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「那你這有什麼賞金任務呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你有什麼其他愛好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我是金盟騎士團令下的聖武士。自從我宣誓就職後，從未離開工作崗位超過一個下午。」
+
+她直挺挺的站著，手握拳頭放在心臟的位置，但她的某個舉止讓她變得柔和起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「如果你要建立賞金契約，我知道這些島嶼上有定會死人。
+
+「他們的命運已經注定了。錢幣只會越聚越多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「苦行者瓦格拉因違反寺院秩序被通緝。他的信徒為他的死建立了賞金契約。」
+
+她拿著一枚銅幣，充滿愛的檢查它的邊緣，食指沿著曲線撫摸著銅幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「海妖奧娜德蕾常出沒於岩石海岸，引導著船隻葬身海底。十多個船隻的生還船員都把他們的錢幣投向她。」
+
+她拿起一枚銅幣舉向天空，欣賞著它是如何映襯光線的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「伊柯諾，一個非常狡猾的法師，在一次單挑中殺死了馬塔魯勇士。有人指責他是努瓦泰的特工。
+
+「他們已經建立了一個賞金契約，看著他被殺。」
+
+她的手掌裡有一對錢幣。當她的另一隻手經過它們上方時，只留下了一枚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「拉紳將軍厄諾斯·布瑞斯已經恐嚇了經過亡焰列島的商船。他似乎認為島嶼需要他的保護。」
+
+她在每個展開的手指間的縫隙中放入銅幣，欣賞著營造出來的效果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[送出德加斯的腦袋。]「送你一個死了的苦行者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[送出奧娜德蕾的腦袋。]「水手可以高枕無憂了。暫時是這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[送出伊柯諾的腦袋。]「我為法師帶來了正義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[送出厄諾斯的腦袋。]「他的火焰已經熄滅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「然後我們的客戶把黃金變為正義！」
+
+她遞給你一袋沉甸甸的錢幣時點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你的錢幣債券唱出低沉的死亡之歌。幹得好。」
+
+她遞給你錢袋的時候，用手緊緊扣住你的手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「想像一下，如果更多胡亞納知道怎麼將錢幣用作武器，我們能從這些島嶼中得到什麼？」
+
+她把砍掉的頭顱藏在肩下，點點頭，遞給你一袋錢幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「這在信守的承諾中有很大的力量。還有巨大的回報。」歐考羅舉起一袋巨大的錢幣，毫不猶豫的存放到你的臂彎裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你已經出色的履行了你的賞金契約。去把你的錢袋排成一排，用財富交換兌現的承諾。
+
+「我也會這樣做的。」
+
+奧涅卡莎點點頭，觸摸著自己的眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「去履行你的賞金契約。用兌現的誓言充實自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「在這之前，我還有幾個問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我會帶著他的首級回來的。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「暢所欲言吧，要我說。」她拍了拍身旁沉重的錢袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我會帶著她的首級回來的。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你已經訂立了契約，要把首級的賞金帶給我。不要讓自己負擔過重！」
+
+她咯咯笑著，在兩個手掌間傳遞著叮噹作響的錢包。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「到你回來證明你已履行職責時，我會準備好更多的工作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我還在追獵拉紳厄諾斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我還在追獵法師伊柯諾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我還在追獵還要奧娜德蕾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我還在追獵苦行者德加斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「賞金契約可以等。我知道你很堅守你的航向。」
+
+歐考羅的嘴角露出一絲微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「你準備好時，我會在這。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我一直都為出價最高者服務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「近來，眾神常常引導我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「告訴我，你是那種眼裡只有錢的人嗎？」
+
+她把手指拱起成波浪形，使錢幣從一個指關節翻轉到下一個指關節。
+
+她看起來著迷於運動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「好吧。你的理解超過大多數人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「死時，他們引導著你的靈魂，但活著時，你受金錢的束縛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「把行動轉化為報酬是指揮我們這個世界的百寶書。一切都在沿著&lt;i&gt;賞金契約&lt;/i&gt;的軸心轉動。」
+
+她一邊說話，一邊用她空著的手撫摸眉頭。她的錢幣繼續不間斷的進行它曲折的行程。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我喜歡得到報酬，如果這就是你的意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「我支付賞金，利用死亡為我們的世界建立秩序。你會幫我繼續這個過程嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「不。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「那你就是欺騙自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我會先好好想想的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我得走了。再見。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「權衡輕重。我想我們會殊途同歸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你知道，我們想讓他們參與一種古老的機制，這種機制可能跟貝拉斯之輪一樣久遠了，以此來&lt;i&gt;領取&lt;/i&gt;我們的賞金。」
+
+她把手放在武器的刃柄上，點了點頭，以自豪的心情打量著這個地區。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「絨精在涅克塔卡西北部鉤刺島的荒野四處流竄。」
+
+她握拳攥住銅幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「可以在庫瓦奧里庫胡群島西塊找到她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「伊柯諾在庫瓦奧里庫胡群島中央島嶼上翻閱著他的魔法書。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「有人看見他躲藏於瑪珈嵐之牙南部中心點的一座小島上。
+
+「因為要賺錢，所以他不能停止貿易。敵人以他們的資金作保，要看看這個怪物被屠殺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「你已經向我證明了你知道賞金契約的價值。如果你想做，有更多工作給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我們沒有完成。還需要你的契約，而且如果你的錢包還空著的話，我們可以互相幫助。」她揚起了眉毛，等待著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「要我說，我們的工作快完成了，你的契約也用完了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「我還喜歡編織。偶爾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「浪費錢。如果他是我們的特工之一，他不會被抓住的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「孰對孰錯我們說了不算——只要堅守我們的誓言就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「跟你合作很愉快，歐考羅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「毫無疑問，姐姐。當然了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[試著偷走她的錢幣。]「或許。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>你在錢幣消失在歐考羅的手中之前，一把抓住錢幣。
+
+或者，你以為你抓住了。進一步檢查發現你的手是空的。
+
+歐考羅微笑著捕捉住你凝視的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>在你走近之前，錢幣消失在她的手中。你的手不小心掃到歐考羅，他深深的注視著你的眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「下一次有報酬經過我們的手中時，讓它履行契約的賞金。誓言。賞金。」
+
+她用兩根手指夾住錢幣，平放在你的手掌中，然後把它留在那。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「抱歉。我不會再試了。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

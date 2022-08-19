@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_desert_ruin_sand_trap_escape</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>沙子湧入房間，在你的腳踝處聚集，並且每時每刻都在上升，越來越高。唯一的出口是你身後的石門，它被緊緊地密封了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[嘗試打開門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[對門施一個腐蝕法術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[對門扔手雷。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[對門扔一顆震盪炸彈。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[對門投擲一顆膿皰炸彈。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[對門扔內爆炸藥。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 1]抓住門的邊緣並拉門。門開了一寸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1]擠到門口，並試圖把門打開，但是門卻一動不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[更用力地推。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[放開門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 1]鬆開門。隨著基斯的一記悶擊，門砰地一聲關上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0]完成施放一個腐蝕法術，並將它快速投到門上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>裂縫將門撕成兩半，然後門坍塌到地上。隊友爭先恐後地穿過開口，終於安全了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>一道巨大的裂縫使門分開了。門被嚴重損壞了，但還沒有被毀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>法術融入到門裡面，用一層腐蝕性的液體將門包裹住，但門只是輕微損壞了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>手雷命中門，爆炸後出現一團有毒的煙霧和火光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>門碎了，倒在地板上。隊友爭先恐後地穿過開口，終於安全了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>震盪炸彈命中門，爆炸後出現一團有毒的煙霧和火光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>膿皰炸彈命中門，爆炸後出現一團有毒的煙霧和火光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>內爆炸藥彈命中門，爆炸後出現一團有毒的煙霧和火光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>門碎了，倒在地板上。隊友爭先恐後地穿過開口，終於安全了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>門碎了，倒在地板上。隊友爭先恐後地穿過開口，終於安全了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>門被摧毀了。隊友爭先恐後地穿過開口，終於安全了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>用力一喊，[Specified 1]將門推開，以便擴大縫隙。這樣就有足夠的空間讓剩下的隊友擠過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Specified 1]努力使門打開，但卻沒有用。門砰地一聲關上了，壓碎了[Specified 1]的手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[把門拉開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[[Specified 1]把門打開後，就逃跑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1]撐著不讓門關閉，這樣同伴也可以逃跑。當最後一個人擠進門口時，[Specified 1]最後用力推開門，並衝出房間到達安全的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>當剩餘的同伴都逃跑後，[Specified 1]鬆開門讓它恢復原位。當大家都安全時，[Specified 1]將飛鏢投入走廊裡。門砰地一聲關上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1]試圖將門推開，但沙子的壓力太大了，門砰地一聲關上了。在這個過程中，[Specified 1]的一個肩膀扭傷了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1]撐著不讓門關閉，這樣同伴也可以逃跑。當最後一個人擠出門口時，[Specified 1]試圖最後推開門，但力度卻不夠。[Specified 1]被令人窒息的沙子困住並活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 1]撐著不讓門關閉，這樣同伴也可以逃跑。當最後一個人擠出門口時，[Specified 1]最後用力推開門，並衝出房間到達安全的地方，但在出去時，門卡住了[Specified 1]的腿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。 
+
+你被活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>當你急於投擲炸彈時，沙子已經上升到了你的胸部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>當你準備炸彈時，沙子上升到了你的膝蓋處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。 
+
+你被活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>當你急於投擲炸彈時，沙子已經上升到了你的胸部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>當你準備炸彈時，沙子上升到了你的膝蓋處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。 
+
+你被活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>當你急於投擲炸彈時，沙子已經上升到了你的胸部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>當你準備炸彈時，沙子上升到了你的膝蓋處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>你試圖把這個炸彈投擲出去，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。 
+
+你被活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>當你急於投擲炸彈時，沙子已經上升到了你的胸部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>當你準備炸彈時，沙子上升到了你的膝蓋處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 0]試圖施放法術，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。 
+
+你被活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>當沙子繼續上升到胸部時，[Specified 0]設法施放法術。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>當[Specified 0]施放法術時，沙子已經越過了你的膝蓋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>你及時將門打開，但為時已晚。
+
+沙子已經沒過了你的嘴。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。 
+
+你被活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>當沙子升到你的胸口以上時，[Specified 1]爬向門口，沙子不斷擠壓你肺部的空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>當沙子已經越過了你的膝蓋時，[Specified 1]爬向門口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 1]努力進一步將門打開時，但[Specified 1]太晚了，
+
+沙子已經覆蓋你的嘴了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。 
+
+你被活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Specified 1]拉緊門。沙子上升到你的胸部，它的重量會壓住來自你的肺部的呼吸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Specified 1]拉緊門。沙子越過你的膝蓋，使你動彈不得。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 1]盡力打開門，但沙子的流動是無情的。門砰地一聲關上了，[Specified 1]被壓死了。因為沒有出路了，同伴被沙浪給活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Specified 1]用肩膀撞門並推門。沙子上升到你的胸部，並且沒有停止的跡象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 1]推門，因為重力造成肌肉緊拉。沙子上升到你的膝蓋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>爆炸並沒能撼動大門表面絲毫，僅僅留下了一塊黑漬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 0]完成施放一個腐蝕法術，並將它快速投到門上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 1]及時將門打開時，但[Specified 1]太晚了，
+
+沙子已經到你的嘴這裡了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。 
+
+你被活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>當沙子升到你的胸口以上時，你爬向門口，沙子不斷擠壓你肺部的空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>你抓住門的邊緣並拉門。門開了一寸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>當沙子已經越過了你的膝蓋時，你爬向門口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>你擠到門口，並試圖把門打開，但是門卻一動不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>你努力進一步將門打開，但太晚了，
+
+沙子已經覆蓋你的嘴了。當你只剩最後一口氣的時候，蒼白騎士失望的面貌在你的腦海裡閃現。 
+
+你被活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>你拉緊門。沙子上升到你的胸部，它的重量會壓住來自你的肺部的呼吸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>你拉緊門。沙子越過你的膝蓋，使你動彈不得。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>用力一喊，你將門推開，以便擴大縫隙。這樣就有足夠的空間讓剩下的隊友擠過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>你努力使門打開，但卻沒有用。門砰地一聲關上了，壓碎了你的手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[抵住大門幫助隊員逃離。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>你撐著不讓門關閉，這樣同伴也可以逃跑。當最後一個人擠進門口時，你最後用力推開門，並衝出房間到達安全的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>你盡力打開門，但沙子的流動是無情的。門砰地一聲關上了，壓碎了你的手。因為沒有出路了，同伴被沙浪給活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>你撐著不讓門關閉，這樣同伴也可以逃跑。當最後一個人擠出門口時，你最後用力推開門，並衝出房間到達安全的地方，但在出去時，門卡住了你的腿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>你用肩膀撞門並推門。沙子上升到你的胸部，並且沒有停止的跡象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>你推門，因為重力造成肌肉緊拉。沙子上升到你的膝蓋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>當剩餘的同伴都逃跑後，你鬆開門讓它恢復原位。當大家都安全後，你也迅速衝入走廊。門在你身後砰地一聲關上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>你試圖把門推開，但沙子的壓力太大，門猛地一下關上了。在此過程中，你扭傷了一側肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>你鬆開了門。門帶著足以碾死基斯的力量砰地一聲關上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>你試圖施放法術，但是沙子上升得太高，太快了。當你只剩最後一口氣的時候，蒼白騎士的失望的面貌在你的腦海裡閃現。 
+
+你被活埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>當沙子繼續上升到胸部時，你設法施放法術。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>當你施放法術時，沙子已經越過了你的膝蓋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>你完成施放一個腐蝕法術，並將它快速投到門上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>你完成施放一個腐蝕法術，並將它快速投到門上。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

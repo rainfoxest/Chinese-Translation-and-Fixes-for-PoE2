@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_03_cv_enchanted_armor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一枚被銹蝕已久的獎章用鐵鏈串過這件血紅色盔甲的頸甲掛在胸甲前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[檢查項鏈。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[驅散附魔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>這件掛飾上有不少十分強力的法術與咒語——毫無疑問是為了給盔甲注入靈魂精粹使其假裝擁有智慧與生命。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[調查護甲]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>這件全新護甲深紅色的光澤在你的注視下似乎在變換流動。護板上鑲著金，沿著邊緣蝕刻的是精美的符文網格。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>護甲顫動了一下，然後散落在地。令它保持直立的法術已被破除。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[擦拭項鏈]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你用手指輕撫獎章，感覺到一股魔力從你的手直傳上你的手臂。
+
+隨著輕柔的金屬刮擦聲，護甲的頭盔轉向了你……
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[驅散附魔]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你在自己的行李中翻找出了一塊白堊。你將其碾碎，並小心翼翼地用它抹進魔符裡。你希望這麼做能在不觸發附魔的情況下令其失效。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你調節好呼吸，全神貫注地回想你受過的訓練。你一邊念著驅魔咒語一邊伸出一隻手，並用你的靈魂對抗護甲上的附魔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>不過，護甲的護手裡緊握著的劍卻有使用過的痕跡，包括上面早已風乾的血跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

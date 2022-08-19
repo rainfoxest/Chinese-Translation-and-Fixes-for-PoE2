@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_seeker_tapestry</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>探尋之面的盟姻侍女之獵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>偷竊&lt;b&gt;盟姻侍女之獵。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將&lt;b&gt;盟姻侍女之獵&lt;/b&gt;返還給&lt;b&gt;記憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>探尋之面分配給我的任務是： 從亡焰列島偷回被竊的掛框。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>因加里瞭解到掛毯被竊，現今正掛在&lt;b&gt;水上的一個商店&lt;/b&gt;裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我已經從襯艙城的流明之庭珍寶屋中取得了掛毯。要想進入它的精神史，我必須將其新增到&lt;b&gt;回憶水池中。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我將盟姻侍女之獵放入了回憶水池中，解鎖了狩獵之面新挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

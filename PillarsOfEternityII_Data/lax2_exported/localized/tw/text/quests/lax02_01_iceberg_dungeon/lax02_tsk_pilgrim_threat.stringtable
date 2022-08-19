@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_tsk_pilgrim_threat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>高高在上者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>擊敗高地凸巖的朝聖者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在先驅的住所與布萊茲對話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;先驅布萊茲&lt;/b&gt;要我幫先驅之守望的睿姆岡崇拜者們解決一個問題，即先他們一步來到&lt;b&gt;死亡浮冰&lt;/b&gt;的信徒。這些&lt;b&gt;朝聖者&lt;/b&gt;在守望上方安營紮寨，見人就打。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>充滿敵意的&lt;b&gt;朝聖者&lt;/b&gt;在先驅之守望和睿姆岡神廟之間安營紮寨。我得擊敗他們才能確保守望的安全，並確保通往Vytmadh的道路安全暢通。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我應該告訴&lt;b&gt;布萊茲&lt;/b&gt;朝聖者不再會對他們構成威脅了。她大概在先驅之守望的&lt;b&gt;冰上釣魚洞穴&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>沒有專業裝備的話，我很難攀越高地凸巖。高階先驅也許有辦法幫助我完成攀登。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我從瓦特尼爾那裡弄來了冰鎬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我在&lt;b&gt;高地凸巖&lt;/b&gt;消滅了狂熱的朝聖者。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

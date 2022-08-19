@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_companions_adra_followup</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>當你清醒過來時，感覺有人把手放在你背上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「太神奇了！你去了哪裡？看到些什麼？！
+
+「別想瞞著我，因為我感覺發生了什麼情況。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「嘿，你還好吧？才剛把你救醒，要是你這麼快就掛了，總管會讓我吃不了兜著走啊。」
+
+
+
+雖然艾德爾的語氣輕鬆，但你看見他雙眼中流露出急切的關懷之情。。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「上次見到你這副模樣時，你是遭遇了覺醒。
+
+「沒什麼問題吧？」他仔細打量著你的臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我還好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我沒事啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我不太確定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「記得一個兩千歲高齡的瘋子和你在夢裡聊天那次，你也是這麼講的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>他勉強擠出一個禮貌性的微笑，不過繼續帶著關切的表情盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「那好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「既然&lt;i&gt;你&lt;/i&gt;不能確定，那我真的有點擔心了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>他擔心地皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你最好都嘔出來，讓自己舒服一點。我可以等。」
+
+她雙手抱在胸前，一臉關切地看著你。過了一段時間，等你沒有再出現乾嘔現象了，她鬆了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「到底出什麼事兒了？你碰了下魂珀就……全身僵住了。接著你手一鬆，又恢復正常。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我見過你與亡者靈魂交流，但這次完全不一樣。
+
+「出什麼事了？」他睜大眼睛盯著閃閃發光的魂珀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「好吧。到底出了啥事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我看到了俄撒斯。他也看到了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「俄撒斯把自己連接在光魂珀上，我通過精粹聯繫上了他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你問我，我問誰？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你找到他了？這次我們的進展相當順利啊，對吧？」他興奮地有點眉飛色舞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「你和他……真的嗎？！我就知道。我是說，太棒了，靈視者。對不對？」
+
+裘荻結結巴巴地說著，興奮地跳上跳下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「真不知這算好事還是壞事，不過他沒殺你嘛，所以我覺得可以管它叫好事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你應該想不出他接下來要去哪裡吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「岡恩怎麼說？他會來跟我們見面嗎？我們接下來該怎麼辦？他給了你一項神聖任務，對吧？就像他之前給我的任務一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「他該不會把計劃透露給你了吧，有嗎？至少，他有告訴你要去哪兒吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「他正前往下一個光魂珀之柱。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我只知道我們要去為我的神明執行任務。如果他在找光魂珀之柱，那我們就到下一個柱子去阻止他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「呃，你不是一直利用靈魂和眾神交流嘛。現在看來，要是俄撒斯在利用這種光魂珀，我們就得找更多的來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「也許我們可以找一下光魂珀的其他源頭。他此前確實接觸過這一個光魂珀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我很想知道他有什麼目的，還有為什麼讓我看到這些夢境。」
+
+「我所看到的事情，在你的靈魂裡留下了一個印記。」雖然空氣清新，但她還是不自覺地揉了揉手臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「那兒可有上千座島吶……這簡直是大海撈柱啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「至少他比撒奧斯更容易看到。」他的目光從柱子上移開，似笑非笑地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[撒謊]「對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「等等，你這是要吐了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[撒謊]「對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「啊，不要往我這邊吐！」裘荻誇張地往後退，睜大眼睛，等著你吐出來。
+
+看你沒有任何要吐的意思之後，她才鬆了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我沒事啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「你確定嗎？因為你的臉色有點發青。」
+
+她雙手抱在胸前，一臉關切地看著你。過了一段時間，等你沒有再出現乾嘔現象了，她鬆了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我不清楚岡恩要我做什麼。不過他顯然要我見到你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「俄撒斯一見到我就夾著尾巴逃掉了！也不見得有多牛逼！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我就喜歡你這種添油加醋的說法。」他調皮地咧嘴笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我很肯定做過一個夢，夢見你被我的神明像踩死蟲子一樣踩扁，靈視者。」她哼了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「沒準他覺得和一個比他的頭還大的人相見挺尷尬的罷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「有成千上萬個苦難靈魂困在俄撒斯體內。我卻無力去拯救他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「可是……俄撒斯應該不是故意要造成如此災難的吧。你說是嗎？」他一臉驚愕地看著你，嚥了一下口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我不相信重生之神願意讓靈魂受苦。如果他是在收穫靈魂，肯定是有什麼目的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「嗯。」
+
+你說話的時候艾德爾不住地在一旁歎氣。他轉過身去，摸著鬍子，略有所思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「看到俄撒斯所到之處帶來的苦難，我要阻止他的決心愈加堅定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「跟往常一樣。每次當神明就快要給我一些答案的時候，他就切斷了聯繫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「看來他們得雇些牧師來幫忙了。」他調皮地咧嘴笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你下次可以試一下多聽別人講話，自己少說兩句。我媽以前就經常這樣訓我。」她咬住自己的下嘴唇，盡量不笑出聲來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「起碼你還能聯繫神明，這可比大多數人強多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「可能這就是&lt;i&gt;我&lt;/i&gt;能當上船長的原因吧。他正去找光魂珀的路上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「他在找光魂珀。我們要搶先一步阻止他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我看到他的路上有更多的光魂珀。但他要我別跟著，還說『會有美好的事情發生』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「真好奇二十年前他對瑞德賽拉斯人是不是也這麼講。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「好在我沒有按照命令行事的習慣。」他看了一眼柱子，眼神中流露出悔恨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「有沒有告訴他，我跟你在一起？這樣他會改變心意的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「你和他……真的嗎？！我就知道。我是說，太棒了，靈視者。對不對？」
+
+裘荻結結巴巴地說著，興奮地跳上跳下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「你找到他了？這次我們的進展相當順利啊，對吧？」他興奮地有點眉飛色舞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「真不知這算好事還是壞事，不過他沒殺你嘛，所以我覺得可以管它叫好事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我不相信重生之神願意讓靈魂受苦。如果他是在收穫靈魂，肯定是有什麼目的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「可是……俄撒斯應該不是故意要造成如此災難的吧。你說是嗎？」他一臉驚愕地看著你，嚥了一下口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「嗯。」
+
+你說話的時候艾德爾不住地在一旁歎氣。他轉過身去，摸著鬍子，略有所思。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

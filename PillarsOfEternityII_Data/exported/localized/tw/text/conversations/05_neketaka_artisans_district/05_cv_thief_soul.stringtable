@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_thief_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這塊平板似乎是用來製作亞柯彌的鋼鐵構裝體的。你感受到了一份破裂而困惑的靈魂精粹碎片。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[讀取靈魂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你漫步在亞柯彌莊園的大廳中。這裡的佈局對你再熟悉不過，你帶著自信走過每一個轉角。
+
+與你為伴的只有距你三步之遙的影子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你來到了一扇厚重的秘室門前。門鎖是由寶石嵌入岩塊中製作的。
+
+伊夫倫環顧四周，太過全神貫注以至於沒有注意你小心的行動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你還沒來得及開始下一步行動，就遭受了一記彷彿大錘般的暴擊。倒在地上意識模糊的你最後看到的只有面前冰冷的石地板，與一隻鐵爪構裝體的重拳無情襲來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>正當金庫大門打開時，一名亞柯彌手下的妖精出現在轉角，高聲叫喊道。
+
+你立刻扭頭就跑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[將寶石按組合擺好，祈禱順序無誤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[做手勢示意他抓緊時間。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>一點噪音並不會打擾到妖精總管。伊夫倫點點頭，加快了動作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>伊夫倫不見了蹤影，但某間打開走廊內傳來的一陣布料的窸窸窣窣聲指明了他的藏身之處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「如果讓靈魂用於如此邪惡的用途的話，我就真的該死了。現在跟我走吧，你這可憐的迷途鬼。」
+
+裘荻表情嚴峻，提著燈籠在構裝體的內臟上面來來回回的晃動，吸收著小偷殘餘的精粹。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

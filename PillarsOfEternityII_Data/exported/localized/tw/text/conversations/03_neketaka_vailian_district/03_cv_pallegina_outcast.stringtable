@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_pallegina_outcast</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「什麼——？靈視者？！真……真的是你嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>帕蕾吉娜驚訝地張著嘴。儘管她的頭髮和羽毛梳理得和你上次見到她時一樣整齊，她胸甲上的五陽圖案已經被小心地刮去了。她低頭看了一眼護甲，又抬頭繼續看著你，眼神中帶著難過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「就算在努亞堡，你也肯定聽說了我回到共和國後發生的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「是聽說了。很抱歉事情沒能如你所願。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「不服從命令就是這種下場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[聳聳肩。]「或許吧。我不清楚。我並沒有關注你說的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>她看向別處，向你感激地點點頭。在接下來的幾秒內，你注意到她收緊了下頜的肌肉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「共和國沒有滅亡。這才是最重要的。在這裡，商行就算沒有我的干預，生意似乎也照樣做得很好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>她眨了眨金色的大眼睛，凝視著你。她鼻孔張開，脖子上靜脈緊繃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>&lt;link="neutralvalue://瓦利亞語：你這白癡，去死吧！反正這都是你的錯！但願海怪吞噬你的靈魂，你這人渣！"&gt;「Vu maddicche postenago! Buffan vi! Cues es malgro me fulpa med tuor! Peri chue na cracuna ve engeri! Vu tros men merla!」&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>帕蕾吉娜的辱罵仍在繼續，儘管你聽不懂。她用手做著一系列侮辱性的手勢，向後退去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>她的污言穢語引起了女王港各處的瓦利亞人的注意。有些人看得津津有味。一位母親遮住了她笑嘻嘻的兒子的眼睛，不讓他看到這粗俗不堪的畫面。帕蕾吉娜憤怒地跺著腳離開了現場，女王港的生活節奏也恢復如常。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「嘿，這堆羽毛我認識呀！帕蕾吉娜！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「好久不見！不過你的盔甲怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你倆認識？我是說……就算你們認識我也不會吃醋啦。」裘荻來回掃視著你和帕蕾吉娜。她咬了咬下嘴唇，不再說話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「船長，你認識這姑娘？原來你喜歡羽毛啊，我都不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「你覺得她剛剛那一通說的是啥？聽上去她好像氣炸了啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「連伊莎彌兒都沒她那麼厲害。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「她活該。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「噢，我喜歡她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「帕蕾吉娜，你不如來幫我吧。我正在追擊俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你現在為瓦利亞商行效力嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我說了，很抱歉事情沒能如你所願。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>她聽到你的話，挑起雙眉，眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「考慮到我們之前經歷過的一切，你提出這種要求我並不吃驚。但不行，我不會與你同行，靈視者。要是我跟你走，那我運氣好的話說不定能混個死亡的結局。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>她無力地笑出聲。她低垂下目光，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「沒有。和公爵有關的商行都不會僱傭我了。現在我在別人船上當守衛謀生。至少我能和同胞在一起，就算他們看不起我也沒關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>她目光轉移到了別處，並用鼻子長出了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「道歉並不能挽回什麼，但我心情變好了。真的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「帕蕾吉娜，後會有期。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「不，不會變成那樣。我向你保——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「拜託。事情並沒有變得那麼糟——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你應該心懷感激，因為我來找你——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「祝你平安，靈視者。」
+
+悲傷與憤怒的表情在她臉上一閃而過。但很快又換上了你熟悉的鎮定的表情。她點了點頭，轉身離去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「要不，咱們以後還是別一上來就提俄撒斯了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「帕蕾吉娜，你要好好保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「祝你一路平安，好走不送！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「穩啊，船長。穩如老狗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「祝你平安。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「連我都目瞪口呆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「去死吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

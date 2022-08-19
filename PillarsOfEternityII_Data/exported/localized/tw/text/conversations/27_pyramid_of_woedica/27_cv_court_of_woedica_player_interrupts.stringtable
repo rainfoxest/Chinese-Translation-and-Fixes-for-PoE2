@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\27_pyramid_of_woedica\27_cv_court_of_woedica_player_interrupts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>當你進入金字塔底部的大廳時，你注意到了一大群全副武裝，穿著鐵絞喉制服的人。
+
+在人群中間，有個人跪在地上，雙手被困了起來。他絕望地四處張望著，看到你的時候，他睜大了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>跪在地上的是一位年邁的精靈，身上的衣服骯髒不堪。他臉上的肌肉扭曲在一起，彷彿被逼入絕境的困獸一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「快說出你的目的，不然就和他一起死吧。」她鋼鐵般的眼神盯著你。通過面具上的裂痕，你可以看到她的眼睛閃爍著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「有入侵者！殺了他們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「你闖入了娥狄卡之庭的審判，外來者。你要留心接下來的舉動，否則你就會成為下一個被至高耀後凝視之人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「哦，謝天謝地！求求你救我出去吧，他們瘋了，他們徹底瘋了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「閉嘴，否則我會讓你閉嘴！」審判者對奧斯瓦爾德吼道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「這個人欠了我一大筆債，我是來這裡討債的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「你在娥狄卡之庭沒有任何權威可言，只有至高耀後才是這裡的主人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「願你的靈魂在進入貝拉斯之輪前，能從今生的錯誤中學到教訓！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[交叉雙臂，大聲怒吼。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「你的生命將在神聖的娥狄卡之庭走向終點，他也一樣！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「他們打算以棄誓的罪名審判我，他們說我背叛了聚鹿帝國！但我已經……已經一百多年沒回過那裡了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>站在跪在地上的人面前的，是一位威風堂堂的女性，她的臉被娥狄卡面具遮住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「那些打算對我撒謊的人，會發現我並沒那麼好騙。告訴我，靈視者，你見過多少個……無辜的靈魂？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[攻擊]「放他走，否則就面對我的怒火吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「你們給無辜之人定罪，到底是出於惡意，還是僅僅因為無能？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「解釋一下。」審判者的手握緊了劍鞘，發出了揉搓皮革的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「我是個靈視者。我曾遇到過不少在你們手上飽受折磨的靈魂，並不是所有人都有罪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[離開] 「轉念一想，我還是趕緊走吧……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>[攻擊] 「我沒什麼要說的，我會很快送你上路！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「你闖入了我們的審判，入侵者。說明你的來意，否則就和這個棄誓者一起死吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「那你就會像一個白癡一樣死在這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「啊，很榮幸見到你，努亞堡的靈視者。我們都很清楚你的所作所為。」她的話很短，帶著一股危險的意味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>審判者被你不恰當的問題氣得怒髮衝冠。她緊緊地握住了劍柄，準備大步上前。但忽然間，她不確定地停在了原地。
+
+她的隨從們互相看了幾眼，誰都沒說什麼。既沒有挑戰她的權威，也沒有為她辯護。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「我們已經警告過你不准再回來了，現在，你該付出代價了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「這筆債務為他的罪名增加了新的證據，感謝你的證詞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我們很尊重貴教團的聲譽，荒蕪行者。在審判結束之後，娥狄卡之庭將會根據我的決定，給與你一定的補償。我可以向你保證，這個人現在身無分文。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「膽敢擅闖神聖聽證會之人，該當處以死罪。而犯下這條大罪的人，就是你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[攻擊] 「那我只好從你們的屍體上拿走屬於我的錢了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「一個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[撒謊] 「有幾個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[撒謊] 「多得數不清。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>她死死地盯了你一陣子，由於面具遮擋，你看不到她面具之下的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「就算你說的是真的，你也必須理解這麼做的道理。想像一下，我們為這個骯髒的傢伙帶來了應有的懲罰，這對更偉大的事業會有怎樣的好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「是誰認為領主應當為虐待人民負責？是誰獵殺了背叛鄰人的逃犯？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「這個人是怎麼回事？對棄誓之罪來說，死刑實在是太過火了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我只看到你在對人動私刑，如果你在審判中犯了錯誤，這剛好證明了我的看法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「我贊同神聖之庭的審判，請繼續吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「一個戴著面具的謀殺犯居然和我大談正義，這可真有意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>她死死地盯了你一陣子，由於面具遮擋，你看不到她面具之下的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「你的謊言和奧斯瓦爾德的罪行一樣明顯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「我的女王——志高耀後，對背信棄義者恨之入骨。雖然表面看來不是什麼大罪，但一旦人背棄了誓言，就會犯下可怕得多的大罪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「違背了諾言，無數家庭分離崩析。拋棄了承諾，無數城市化為廢墟。有哪一場戰爭不是因為棄誓而起呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「比如他。」她指著奧斯瓦爾德。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「他背棄了對國王與祖國的誓言，在反抗之戰中，與反抗軍並肩作戰。如果他當初沒有叛國，有多少生命本可以免於塗炭呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「不，靈視者。如果背棄了誓言……人就沒有價值了，甚至比這更糟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「你願意冒著生命危險，來為像他這樣的人辯護嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「這完全是一派胡言，船長。只有當你宣誓效忠那個人值得你效忠時，誓言才有存在的意義。」
+
+他毫不掩飾地對審判者露出不悅之色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「這是個明智的決定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「聚鹿的奧斯瓦爾德，你犯下了叛國罪與棄誓罪，這兩項大罪應當判以死刑。在娥狄卡的凝視之下，你即將接受正義的審判。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「祝你一路平安，[Player Name]。請收下它，作為對你信念的謝禮吧。但我要警告你，如果再敢回到這片神聖之庭，你將以死論處。
+
+「願守誓者指引你的道路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>她死死地盯了你一陣子，由於面具遮擋，你看不到她面具之下的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「我感覺得到……你的話語中並沒有欺騙的意思。我們真的冤枉了這麼多人嗎？」
+
+她閉上了面具後的眼睛，原地待了一會兒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「很好，帶上這個人，消失吧，但不要再回來了。我必須向娥狄卡祈禱，尋找答案。你最好快點，否則我可能會改主意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「是誰說他們有權力為更偉大的事業服務？又有誰能保證，他們不會變得和他們追殺的那些人一樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「或許這種審判手段並不完美，但如果他們真的能制裁那些逃避正義的人，我們就不應該干涉他們。」他對戴著面具的女人點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「撒奧斯還相信，所有的權力都在他手中。他濫用這種權力，為許多，許多人民帶來了災難。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>審判者的跟班一臉冷酷地走到你身邊，打算在你引起更大騷動之前，把你帶離娥狄卡之庭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「為了一個人都不冤枉，你寧願讓這些畜生逍遙法外，是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「我只是來看表演的。去殺了他吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「就算是奧斯瓦爾德這樣聲名狼藉的騙子也應該接受適合的懲罰。我們決不能罔顧法紀濫用私刑，否則自己也將成為法外之徒。」
+
+審判者清清喉嚨站直身子，準備宣讀審判。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,2181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_xoti_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>415</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「嗚～呼！是時候歇口氣了。我的腳起了嚴重的水泡。」
+
+她雙手撐在膝蓋上，身體前傾，吸了口新鮮空氣。她的視線從未離開過你的臉龐。她的面頰漸漸泛起了紅暈，她朝你傲慢地一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「告訴我你在想什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你是怎麼成為岡恩而非俄撒斯的崇拜者的呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你感覺怎麼樣？你最近被噩夢困擾過嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你對俄撒斯怎麼看？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「就說到這裡吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你可能覺得我們不是典型的俄撒斯信徒。當然了，他們堅持光明勝過黑暗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「但是那場戰爭，觸及了我的家人。改變了他們。殺了——我已經記不清了，當時親眼目睹的。」她輕蔑地說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「其他人變堅強了，成了倖存者——這種事情我見的太多了，甚至是多年後。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你的家人發生了什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「有其他人像你一樣嗎？其他的岡恩信徒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「他們死了。」裘荻直勾勾地看著你的眼睛。毫不退避。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「不，靈視者，我真的不想。」她搖著頭，避開了你的目光。她低垂的睫毛在她的面頰上部留下了陰影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「當然了，不過我們人數不多，四處分散。大多數都不留守在神廟。守護靈魂需要跋山涉水。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我主要通過看書來學習。遇到任何關於岡恩的文字，我都會用骯髒的手染指它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「讓我們聊點別的吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「沒必要拐彎抹角。我聽著呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「裘荻，我希望你跟我一起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「就知道你會回心轉意。那我們就繼續前進吧。」她雙手一拍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「一次也沒有。得謝謝你，我現在睡眠像小孩兒。不，別那還好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「我從未想過萬事皆空的感覺會如此溫暖和美妙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「沒間斷過。沒一個白天或夜晚是我看不到黑暗的。但也沒什麼了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「靈視者，我的血液裡流淌著一股野性。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「當我入睡時，它們就在我的腦子裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「有時候我能用舌根嘗到它們，就像一團沙礫。這種情況會發生在我接收到一個特別……動盪的靈魂時。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我們說聖戰期間還是死後的他？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「好吧，在他死之前，他還是我大多數教友認知中的那個俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我感覺到了你與其他晨星格格不入。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我想，渴望消滅黑暗，或許就是光明的天性吧，但這樣是無法獲得平衡的。」她低著頭，若有所思地用大拇指撫弄著鐮刀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「夜晚和死亡不像是壞事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「你和艾德爾似乎很合得來啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你這麼覺得？」她朝你狡黠一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我的意思是——」裘荻目光低垂，歎了口氣。她的舌尖，如暗淡的玫瑰，輕輕舔了下嘴角，留下濕潤的微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「你很關心他，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「也許是你年紀太小。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「是。我試著不去關心，但我無法自已。」她點點頭，臉微微泛紅，匆匆坦白道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「你對一個二十七歲的女人這麼說？還是你覺得我不成熟——也許跟其他人更般配？」
+
+當她回頭時，她的眼裡流露出欣喜之色，仔細打量起你的嘴唇，你的鼻子和你的下巴。然後，更糟糕的是，她眨了眨眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「靈視者，問題是我覺得他不怎麼喜歡我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「是在暗示我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「什麼鬼，裘荻？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「她先開始的！」裘荻怒不可遏地啐了一口，幾乎吐在了你腳上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「好吧。也許是我開的頭。但都是那個羽毛腦袋自找的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「好吧，嘿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「嗯？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我聽著呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「我該去搜尋迷失的靈魂了。」她點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「嗯。我們最好繼續前進。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「你需要我的時候，喊上兩聲就行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「作為一個女祭司，你應該這樣咒罵嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我想不應該。」她自信地咧嘴一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「但沒辦法，我就是有那麼一點點兒任性。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「不過我有分寸。我媽媽有次逮到我在黑果叢裡跟人親熱。「我當然跟她大吵了一架。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「但我沒做任何更出格的事。而且我其實沒說真正的髒話。」
+
+她擺了擺鐮刀，作無可奈何狀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「有時候那種情緒……就這麼從我體內翻湧而出。該死的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「害怕自然的事情沒用。生命不是一條很長的直線，它是循環的。你去要蛻去舊的，變成新的。」她搖著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「燈籠在燃燒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「他是個不錯的傢伙。人很好。就是有點老。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「也許吧。但這要取決於……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「我去，裘荻。我不是那個意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>她忍不住笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「你說話很像我的高階女祭司在爭論是否把焦油從我體內拍出時的樣子。」
+
+她重重地歎了口氣，用腳尖點著地面。踢了幾下之後，然後停下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我最好還是不開玩笑了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[什麼也不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[不假思索地吻她。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「取決於什麼？」裘荻幾乎毫不猶豫地默默走近你，用她的鞋尖抵著你的鞋尖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>沉寂了半晌後，裘荻尷尬地清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>震驚的聲音試圖從她嗓子裡發出，但你把它吞了下去——侵入、征服、索求，直到她軟化在你強硬的攻勢下，並開始羞怯地回應你的吻。
+
+然後她熱情地投入其中，緊緊地抓著你的肩膀和脖子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我就當你說不了……謝謝你毫不費力就讓我失望。」
+
+她焦躁地用手指撫著鐮刀的平面，你可以看到她的指甲近乎沒有血色，髒兮兮的，而且快被咬禿了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>當你跟她分開時，她還輕吟著試圖追隨你的嘴唇。但是突然間她回過神來，偷偷四下張望，臉頰發熱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「天啊！剛剛……我是說，我……」她用手給自己扇了扇風，尷尬地低下頭，被吻腫的嘴唇仍舊楚楚動人。
+
+當她抬頭再次望向你時，棕色眼睛 充滿了陰鬱。深度的渴望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「靈視者，你現在要吻我了嗎？因為如果你……我猜我可能不會抱怨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我原本只想表示儘管你和艾德爾很般配，但年紀差得有點兒大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「當然了，為什麼不呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「抱歉，我沒興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「你認為我很膚淺。」她的臉微微泛紅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「是嗎？」她的嘴唇緊緊地抿了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「你真的很會泡妞。不是嗎，靈視者？」
+
+裘荻吐了口氣，但她只是一時惱怒，很快便開始舔自己的嘴唇，熱切地盯著你的嘴巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「但這還是沒有回答我的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「我嬸嬸是教會我生命輪迴的人。還有死亡。一切是怎麼按階段發生的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「無論向前或向後——從播種到腐爛再到重生——這都只是存在和平衡的狀態。明白沒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我最初就是這樣瞭解到俄撒斯的另一面——岡恩的。」
+
+她自信而開心地笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「在那之後，我讀了岡恩的所有教條——我能得到的一切資料。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「比如？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「奈爾韋斯的十二章經。另外，還有來自一些小先知的使徒書信。它們中有很多不是當今經典的一部分，但那並不意味著它們是錯的。」
+
+她雙臂交叉在胸前，神色憔悴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「按傳統，最後出生的孩子要擔任俄撒斯的牧師。好吧，我用自己的方式做了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「沒有嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「願意詳細說說嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「現在不行。「也許永遠不會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我為你失去家人感到遺憾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「裘荻，你殺了你的家人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>幾次心跳之間，她看起來好像要哭了，臉被看得見的痛苦刺得扭曲了。但她隨即用髒兮兮的手在鼻子下面擦了擦，心情徹底平復了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「別人感到遺憾從來對我起不到任何作用。但我還是會謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>幾次心跳之間，她看起來好像要哭了，臉被看得見的痛苦刺得扭曲了。但她隨即用髒兮兮的手在鼻子下面擦了擦，心情徹底平復了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「不。我那時還不是收割者。我也沒學會憐憫的價值。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「真該死，希望我在你眼裡不是個傻子，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「徹底澄清了關係也是件好事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「但不只是這個問題……真的。我已經盡了最大的努力，但我覺得也許他不喜歡我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[純潔地親吻她的臉頰。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「算了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「噢！這……跟我想像的不一樣……」
+
+一時間，她不知道自己該笑還是該哭。隨後，被逗樂的表情打破了她臉上的僵硬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「可能是上天注定的吧。」失望之情，溢於言表。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>裘荻向前倚，顯然是想跟你碰嘴唇。但你在她能夠嘴對嘴前的一瞬間把臉扭開了。你又在她臉上甜蜜地吻了一下。
+
+她被驚得渾身一顫，手指從搭在你身上的地方鬆開——她退了一步，整個臉變得通紅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「忘了他吧。你可以做得更好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「做什麼？還是你想說跟誰做？」
+
+當她回頭時，她的眼裡流露出欣喜之色，仔細打量起你的嘴唇，你的鼻子和你的下巴。然後，更糟糕的是，她眨了眨眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「你為什麼那樣覺得？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「你逼得太緊了。讓他有點兒不耐煩了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「他是那樣的體貼周到——不管是對我，還是對其他人。而且他真的很強壯。我知道如果我父親還活著的話，一定會喜歡他的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「除了每次我跟他說話時，他總喜歡懟我嗎？」她苦笑著，看起來既窘迫又好笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「這真是一個女孩最渴望聽到的……不錯，棒極了。還有沒被我嚇跑的人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「這是天意，裘荻。你要向前看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「也許他喜歡你，但他不善於表達。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「一個不能承認自己感情的男人能有多好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「我猜你說的沒錯。」她皺眉蹙額。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「你向他展示過你的……魅力了沒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「我的……我的什麼？」她皺著眉頭，雙臂交叉在胸前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[緊緊盯著。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「你個性中好的那些方面。比如你的激情和機智。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「我是在說女性特有的部位。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「噢。」她慢慢開口笑了，手臂放回了身體兩側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>她回瞪你。她氣呼呼地用舌頭舔著牙齒，但她先眨眼了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「我的天啊，靈視者！」她一時語塞，用手搓了搓嘴。她慌亂地四處張望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「不。是的。我的意思是，也許吧。我試了幾次。但沒什麼效果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「不，沒有。我也不會。主動投懷送抱，那真是……」
+
+她突然卡住了似的，隨即低頭捂面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「能不能小聲點？沒——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我應該怎麼辦？你會幫我的，靈視者，對麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「堅持。這是你目前唯一能做的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「給他足夠的時間——和空間——去轉變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「說得沒錯。我也知道如果你害怕受傷，就很難抓到雄鹿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>裘荻咬了咬下唇，然後無聲地歎了口氣。她似乎輕輕嘀咕著什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「你應該一直跟他糾纏俄撒斯和聖戰的事。或是他死去的兄弟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「那樣我們早晚會滾床單，真的嗎？因為我每次提起這些，就像嘴裡有死老鼠味未似的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「以這個節奏，恐怕永遠等不到那一天了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「叫我多疑症吧。但我會考慮這個辦法的，這點我可以向你保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「希望你是對的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「有天晚上，當所有人都睡著後……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>隨著她的希望明顯破滅，她的整張臉都垮了。她不敢與你直接對視，一邊咬著嘴唇，一邊從睫毛下邊偷瞄你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「你可能認為我很天真，而且你可能是對的——但我見過不同類型的兩個人組成一個家庭，而且我覺得夫妻之間就該有點兒小摩擦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「也許是我愚弄了我自己？只是比平時嚴重了一些？」
+
+裘荻低下頭，看著自己的腳尖靜靜地點著地面。沉默了良久後，她再次抬起頭，眼神裡寫著不服氣， 帶著堅毅的表情聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「好吧，如果所有事情都能那麼順利，我們就沒有必要崇拜神明了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「別打主意了。艾德爾是我的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>裘荻的喉嚨裡發出了如同脖子被掐的聲音。她雙目圓睜，用拳頭捶著自己的胸口，一時透不過氣，直到她成功吐出話來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「實在抱歉。我不知道你們兩個已經……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「當然了，我不會再說起他了。」她伸著下巴望向一邊，顯然不願意再繼續這個話題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「停停停。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「繼續……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>她清了清嗓子，用手捂著嘴，你不知道這是出於尷尬還是她在竊笑。但她的姿勢被一聲歎息打亂，她隨之委頓前傾，你幾乎感受得到她渴望的重量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我可能借了一瓶朗姆酒，然後搖醒了他。我覺得打著燈籠可能更方便說話。你知道，如果只有我們兩個人的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「好吧。你需要知道的就是我倆沒成。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「他看我的表情就像一隻蠍子爬進他的睡袋裡一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「你是不是想的有點多？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「如果你想要的是激情，那你找錯地方了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>她沒忍住笑了出來，趕忙把兩隻手捂在了自己嘴上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「是嗎？選錯人了嗎？」裘荻清了清嗓子，她從脖子開始泛起了紅暈，她用拳頭遮住了自己的下半張臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「這是個合理的觀點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>她漸漸地笑逐顏開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「沒了，這幾乎是大家的共識了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「當然了。我就挺喜歡你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「你和麥婭似乎挺合得來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我們確實合得來，難道不是嗎？我喜歡麥婭。她比鐵還剛硬，卻像貂皮一樣光滑，同時還很精明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「真的嗎？你不會只是為了保護我的感受才這樣說的吧？」她把你從胸部到大腿慢慢看了一遍。帶著打量的眼光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「靈視者，我很感激你站在我這邊。有時候一個女孩兒對自己產生了懷疑，就感覺全世界都認為自己是錯的……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「但即使當我們意見不合時，我也知道你會支援我的。你應該知道我對你也一樣。」
+
+她重重地歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「但這並不能解決我的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「我確實希望有一天能養育自己的小孩，無論是不是跟別人一起。」她歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「那得假設我們都活足夠長……以及我對即將來臨的黑暗判斷有誤。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「同時還得……」她用手搓了搓後頸，做了鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「也許，我一直在錯誤的地方尋找相互理解的愛和真情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「我必須得承認，你對我太好了。我從沒想過自己能有一絲機會。但現在，我想知道……
+
+靈視者，你……想要我嗎……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「我只是試圖給你提些關於艾德爾的建議。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「噢——噢。你當然是了。」她用牙齒咬著下唇，尷尬地望向別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「我知道。我的確是一團糟。毫無希望。如果你的性命依賴於一袋糧食，那我就無法靠魅力走出它！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「當然了，她還很漂亮。」裘荻的眉頭微皺，與此同時，一種奇怪的表情——警覺——不禁流露出來。然後她對自己微微笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「我會竭盡全力的。這點我可以向你保證。我只是……」
+
+她情不自禁地朝你投來一個燦爛而充滿希望的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>她表情突然一緊。振動傳向她的肩膀，髖部，片刻後，她的燈籠也隨之響動，最終在皮套夾上穩定下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>她輕輕搖了搖頭，鬆開了嘴唇。然後她突然站了起來，略帶怒意，再次驕傲地抬起下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「變得比現在更瘋？我真不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「你打算怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「別擔心。我們會找到辦法的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「會嗎？有可能嗎？我不知道。」裘荻用髒髒的手指捏了捏鼻樑，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「靈視者，我真不敢相信你站在她那邊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「至少我知道你是支援我的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「帕蕾吉娜是對的。別總是那麼死心眼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「我永遠都支援你，裘荻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「而你——你沒起到任何作用，我再補一句。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「噢！靈視者，你讓我如此——你讓我想掐死某個人。而我認為謀殺與女祭司的身份有點兒不相稱。」她回頭大喊著，鐮刀在空中嗖嗖作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「你——你還好意思說支援我？！介意說說怎麼個支援法麼，靈視者？因為此時此刻，我感覺更像是被你用刀子捅了一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「就算這是她自找的！」
+
+女祭司把憤怒的目光移回你身上。她用鐮刀的刀背戳在了你胸口上。戳一下。怒目而視。再戳一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「你知道嗎？算了。我不需要任何管著我。不需要我媽媽——願她安息。不需要我的高階女祭司。也不需要你。」
+
+裘荻使勁地踢了下地面，弄得碎屑飛揚。然後她怒氣沖沖地離開了，嘴裡還不忘小聲地咒罵一句。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「靈視者，我想知道我能幫你做點什麼嗎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「你在想什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「要不下次再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「好吧，簡單點說……想的是你。」她重重地嚥了嚥口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「喔。那好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「你也許會說是某個有時迴避光明但心腸和頭腦都不錯的俄撒斯信徒。」
+
+她的臉頰變成了粉紅色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「那是什麼意思？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「我知道這是怎麼回事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「你知道？那我希望它是個好兆頭。或者至少在我獲得的普通預兆里是最好的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「原諒我的冒昧。我知道我有點兒，沒頭沒尾的，但我很關心你。比我說的程度還要深。」
+
+她手指顫抖著，在外衣上擦了擦手心的汗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「你跟艾德爾會不會更有戲？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「我也希望如此，老實說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「不。我敢肯定我倆成不了。」
+
+她聳聳肩，撓了撓後頸，但出人意料的事，她似乎不怎麼難過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「說實話，我本以為我會為此心碎的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「我沒興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「謝謝你的提議，我們敞開心扉地聊過幾次。我想我們至少是朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>她面帶春天般的清新笑容，點頭表示感謝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「我只想知道你有沒有可能回應我的感情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「我以為答案已經夠明顯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「我覺得你對艾德爾有意？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「不，我不會的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「我為什麼會覺得——甚至相信——靈視者會看得上我？不顧一切想得到，是的。但希望……？」</DefaultText>
+      <FemaleText>「我為什麼會覺得——甚至相信——靈視者會看得上我？不顧一切想得到，是的。但希望……？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「一開始我也這麼認為……有一直到天，我突然意識到他不是那個讓我怦然心動的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「你打算等他多久？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>她重重地嚥了嚥口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「你是什麼意思，靈視者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「他不適合你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「算了。我們該行動起來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「我知道。他似乎對人人都好，除了我。」她輕輕歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「反正我知道我跟你沒有機會，所以我想也許……但現在我想那不重要了。再也不了。」
+
+她張開髒兮兮的手指按著太陽穴，然後沿著頭皮，把頭髮撥亂了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「我試過了，可就是沒辦法把你從我的思緒和夢境裡剔除。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「與其說想什麼，不如說是想誰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「我也不知道我是怎麼了。每當他靠近時，我舌頭就打結了，但當他不在時，我又忍不住想他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「好吧，那是你的觀點。但既然你說了，我會把話放在心上的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「與此同時，我們最好還是重回正題吧……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「我幾乎不敢相信——你會同樣熱切地想要我。」
+
+裘荻低下頭，但卻沒能掩飾她的羞赧和笑意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「是時候醒來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「裘荻，我其實一直都在這裡等著你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「他自然也不能像你一樣讓我魂牽夢繞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「其實我沒勇氣想要你。我沒想過靈視者會看得上我。」</DefaultText>
+      <FemaleText>「其實我沒勇氣想要你。我沒想過靈視者會看得上我。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「我對你的仰慕遠遠勝過他。」她舔濕了嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「你在。我知道你在。只是……」她害羞地低下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「我們為什麼不在一個更……私密點的地方繼續這個話題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「所以現在怎樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「靈視者，我還以為你從不會提要求。」伴隨著低沉而熱切的笑聲，她拽著你往前走時。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「有很多我渴望嘗試和看到的……或者不看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「如果你確定，我會義無反顧地站在你身邊。看好了，我會讓你驕傲的。你和我的神明。」
+
+她小心翼翼地把自己的手指跟你的交織在一起。當她深深地凝視著你的眼睛時，她的瞳孔擴張了，吞噬了虹膜的那一抹棕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「但你最好現在就知道——我不是一個樂於分享的女人。」
+
+她身體前傾，用自己的嘴唇觸碰你的嘴唇。她輕輕地點了幾次後，才對你打開朱唇，當她開始深吻時，她閉上了雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「好吧，我們走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「真的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「就等你這句話了。」她朝你咧嘴一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「咱們去船長室裡繼續這個話題吧，在那我們可以慢慢來。我只是想讓你對我耐心點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「你關心是以……朋友的身份嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>她的臉一下子從耳朵上方紅到了鼻尖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「不止。我不止關心你。我想要你，靈視者。一直都是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「我也想要你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「我真的受寵若驚。但你不覺得我們還有更重要的事要擔心嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>「比如暴走的岡恩嗎？還有即將來臨的最終大收割的黑暗嗎？」她牙關緊閉，羞紅的臉上寫滿了痛苦……和決心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>她粉色的舌尖在嘴唇上掃了一遍。她吮著自己厚厚的下唇，隨後吐出一口熱氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「沒錯，我想是的。謝謝你提醒我當務之急是什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「聽起來像是肩頭的重擔落地了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>她腳尖點地，拖著一隻靴子來回刮蹭地面。她聳起肩膀，停頓了片刻，才放了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「說真的，還是算了吧。就當我從來沒提過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「不用擔心，靈視者。我是說真的。」她下顎上的肌肉響了一下。她挺直了肩膀，離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「仔細想想，與我相比你是何等強大，這幾乎說不通，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「如果是真的，我會非常……非常開心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>[把一縷散開的頭髮別到她耳後。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>裘荻從容自信地咧嘴一笑，露出一排整齊的大白牙。她用舌尖舔著這些珍珠般的牙齒，細細地觸碰著一顆犬牙，然後小心翼翼地將你們的手指交纏在一起。
+
+瞳孔微張的她吸入一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「靈視者，我會讓你慶幸你選了我的。等著瞧吧。」
+
+她身體前傾，用自己的嘴唇觸碰你的嘴唇。她輕輕地點了幾次後，才對你打開朱唇，當她開始深吻時，她閉上了雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「裘荻，你是我的，而且只屬於我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「這就對了。」女祭司小心翼翼地牽起你的手，把你的掌心放在她的心口上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「我猜你身上的其他部位也像手這麼熱。甚至更滾燙。」她喉頭一緊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>「當你這樣觸碰我時，即使隔著衣服，我也能感覺到烙鐵般的炙熱。靈視者，我已經把你的名字印在了我心上。如果你只允許我這樣做過的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>「我想親自驗驗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>「天啊。」結束後她氣喘吁吁，眼裡滿是驚歎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>「我改變主意了。我覺得這不是一個好想法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>「你在跟我開玩笑嗎？靈視者，我不太喜歡被捉弄。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>「我不會再對你投懷送抱了。」裘荻皺著眉頭，沖地上啐了一口，然後轉身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>「我們還是分手吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>「你的味道就像被遺忘的夢。就像命運。」結束後她氣喘吁吁，眼裡滿是驚歎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>「讓我把燈籠調暗些。我希望我們之間只有暗影。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>她用一隻手懶洋洋地弄亂了頭髮。她飢渴地望著你，不過她應該已經很滿足了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>「那是神聖的。毋庸置疑，靈視者，你是來自神明的祝福。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>「有何區別？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「跟我說說引發聖戰和身處聖戰中的他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「後來的。我是說，現在這個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「我只知道我的家人教我的。」她撓了撓後腦勺，有些遲疑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「那你指的是岡恩了？當然了，我的神明可能也聽從於俄撒斯。有何不可呢？但俄撒斯死了。死亡需要改變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「它在呼喚我。我的使命和我的神明。它知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「也許，我一直在錯誤的地方尋找相互理解的愛和真情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>「你在暗指什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「別說了。我不想聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「我知道這很瘋狂，而且如果我說出來你很可能會永遠討厭我……但如果我不說的話，我會更恨我自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「更像是心裡的重擔。」她點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「俄撒斯附在了一個人類體內……當那個人類被炸成粉碎時，我們都認為俄撒斯死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>裘荻用手指輕敲嘴唇，若有所思地沉吟著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>裘荻的背一下子挺得筆直，她的表情變得僵硬起來——她往常臉上掛著的那份笑意瞬間蕩然無存。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>「等你想好了再說。因為我太喜歡反悔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「結束了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「有點兒幽默感好吧。我開玩笑的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>她歎了口氣，所有鬥志瞬間喪失殆盡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>「我知道我可能有時候……過於熱情了。所以我猜我對這個結果並不意外。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>「所以在剩下的旅程中，你最好睜著一隻眼睛睡覺。」
+
+她甜甜地笑著，但眼裡藏著一絲煩憂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>「我只希望我們還是好朋友。」她低下頭。捏了捏後頸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>她的身體瞬間放鬆了下來。她略帶窘迫地露出釋然的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>「別那樣逗我了。我分不清你哪句真哪句假了。」
+
+她搖著頭，用拳捶你的肩膀——狠狠地——你注意到她眼中正醞釀著黑暗的怒火。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>「無論未來的日子裡會發生什麼——我都不會忘記是誰幫我擺脫了重重噩夢——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>「——以及那些靈魂給我帶來的重負。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>「所以你離完成使命不遠了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>「噢，是的，靈視者。」她嚴肅地點點頭，兩眼籠罩著陰影。
+
+當她把燈籠提到自己面前時，它的鏈條猛烈地響動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>「你能聽到裡面的聲音嗎？我新捕捉到的靈魂？」
+
+當裘荻靠近燈籠上的玻璃側耳傾聽時，她長長的睫毛，如同渡鴉的翅膀一樣，欣喜若狂地忽閃著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>「他們已經給了我這樣甜蜜，死一般的夢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>「我覺得，從人文角度上看，瑞德賽人只結成能繁衍出可育後代的伴侶……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>「沒錯，你想說……？」她臉一黑，雙臂交叉在胸前，把腰扭向一邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>「我們需要讓鳥和蜜蜂說話嗎，裘荻？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>「很顯然，這跟你沒關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>「別生氣，我只是好奇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>「靈視者，我已經接生過夠多的牛犢、小孩、豬崽了，包括我自己的胞弟胞妹們，我什麼不懂？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>「有關係，但不是你想的那樣子。我很固執，沒錯。但我並非完全無知。」
+
+她用皮膚乾燥且沾滿泥的指節蹭了蹭鼻子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>「好吧。」她聳聳肩，把胳膊放回了身體兩側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>「那麼我也只是好奇你為什麼在意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「我只是驚訝於你的另類。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>「只是……還是忘了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>「只因我與眾不同，這輩子我耳邊的牢騷就從沒停止過。」她撓了撓耳朵，再次聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>「只要我侍奉好我的神明，我哪還在意別人喜不喜歡我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>「好。你忘我就忘，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>「長遠來看，你是對的。我媽希望我成長為敬畏神明的光明使者，養育足夠多的孩子以維持家族農場的經營。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>「但那不是真正的我。我也說不清我將來想不想變成那樣。我是岡恩的一名收割者。我的使命不是務農，而是守護亡魂，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>「現在，你也許認為我可以二者兼得。也許有一天我會的。也可能永遠不會。但這是由我和我的神明決定的。」
+
+她歎了口氣，肩膀耷拉著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>「我只是在想……在那之前我怎麼做重要嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>「我認為他的一部分確實死了——他基本上放入肉軀的那部分。那部分代表了生。以及死後的重生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>「這意味著可能活下來的那部分——橫行亡焰列島海域的那個——是與脫落，腐爛和凋零為伍的那一面。
+
+「那就是死亡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>「俄撒斯附在了聖維德溫身上。但在聖戰期間，他被炸得粉身碎骨。人類的肉體都一樣。最終，都會消亡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>「作為重生之神，俄撒斯自然會回來。但令我觀點跟家人還有高階女祭司發生分歧的，是我研究了岡恩的神化。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>「我熟知生命輪迴背後衰退和&lt;i&gt;死亡&lt;/i&gt;的那一面。凋落。腐爛。重生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>「消失的東西不會再回來。回來的東西已經變了。一直如此。
+
+「即便回來的是一位神明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>「他不再是曾經的他了。不可能完全一樣。這就是為什麼我會認為他的另一個化身——他在光明中的黑暗面——如今燃燒得更加明亮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>「我不太可能背棄神明賦予我的使命。即使它殺了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>「我信你，靈視者。我發誓我相信。我只是……我有時會擔心什麼事情會發生在自己頭上。但，算了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>「有時候我能用舌根嘗到它們，就像一團沙礫。這種情況會發生在我接收到一個特別……動盪的靈魂時。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>「我永遠都支援你，裘荻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>「靈視者，有很長一段時間沒有人願意支援我。能遇到你我是多麼幸運。
+
+「讓我覺得這都是天意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>「還有&lt;i&gt;你&lt;/i&gt;。我現在對你無話可說。靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>[奪走裘荻的鐮刀。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>[哈哈大笑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>[走開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>「嘿！該死的，靈視者！你那是偷！」她撲過來奪鐮刀，你屢屢輕鬆躲開。沒過多久，裘荻的臉紅了，她在笑，看起來她既想掐死你，又想吻你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>裘荻眼睛圓睜，整張臉都變紅了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>「你覺得我反應過激了。好吧。也許是。但你沒必要表現得這樣。」
+
+她雙臂交叉在胸前，皺著眉頭，隨後苦惱地笑了。她搖了搖頭，轉身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>「我對你永遠氣不起來，算你走運。」她吐了口悶氣，轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>「我本來是要幫你的，就像你總幫我一樣。」她害羞地撓了撓後頸，臉上露出了燦爛的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>「做過，最近夢到你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>「你曾在汪洋深泊中行走，但是你沒有淹死。你的手中還抓著通往艾歐拉終結的鑰匙。」
+
+她的臉上帶著強烈的情感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>「我見過星辰在雕像邊圍繞，我見過靈魂像淚滴一樣徘徊於閃閃發光的魂珀上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>「我的神走進了雷暴之心。他將在那裡找到黑暗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>「除了神之外還有誰能知道艾德爾到底在想什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>「問題？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>「船上生活就像是冒險是不是？想想我們能航向的那麼多地方，我們能看見的那麼多風景。與被困在農場裡面……或者隱居在神廟後完全不一樣。」
+
+裘荻打量著船隻的外殼的時候將自己的鐮刀抵在腰間敲打著。滿意自己眼前事物的裘荻點了點頭，微笑著看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>「很高興我們聊過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>「如果想要聊天，或者想要以另外一種方式交流的話你知道去哪裡找我。」她眼神滿是頑皮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>「當然了，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>「我們到底要不要做這個？」
+
+裘荻舔舔裂開的嘴唇，瞇起眼睛望向古城遺跡。她高高舉起的燈籠在她的臉上映出清晰的陰影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>「我們已經走到現在，而且僥倖還沒送了性命。趁我們的好運用光之前還是趕緊和我的神開打吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>「為了追獵你的神而押上一切值得嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>「無論俄撒斯出了什麼事，我都會支援你。對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>「如果我們能活下來的話……沒什麼，算了。我以後再和你說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>「你說我們能和他講道理嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>「應該算是吧。當然我做過一些現在讓自己後悔的事。岡恩在上，我的雙手已經沾滿了鮮血。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>「但我已經沒有別條路可走了。」裘荻冷酷地縮起下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>「當然。如果岡恩想弄死你的話，我估計他也會親自下手的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>「這可是你說的。」一抹詭譎的笑容轉瞬即逝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>「動搖一位神明的意志？你在開玩笑吧？」燈籠被她放下後發出吱吱嘎嘎的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>「這和運氣毫無關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>「好像和謙虛也無關吧。」裘荻朝你簡單笑了笑。她歎了口氣，肩膀也鬆弛下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>「嗯，如果有誰能做成的話，我估計肯定就是你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>「除此之外，他在亡焰列島四處踐踏的那部分也沒在瑪珈嵐之牙幫上我什麼忙。」
+
+她用一隻顫抖的手捋過髮絲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>「我以為結果會有所不同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>「我們也該去弄明白自己之後是死是活了吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>「我的燈籠現在沉甸甸的。四處晃蕩的時候幾乎能聽到裡面靈魂的聲音。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>「我的燈籠每裝一個靈魂都在我手裡沉重一分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>「靈視者，能和你談談嗎？就一會兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>「你在想什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>「跟我說說引發聖戰和身處聖戰中的俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>「你對聖戰之後的俄撒斯有何看法？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>「曾是如此，而現在我會再來一次，這次則會更加血腥。想想所有那些會被我活活剝取靈魂的人吧。」
+
+裘荻點了點大腿旁沾滿血污的鐮刀，背脊一陣顫抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>「那麼，我們去最後一次面對我的神吧。查清我們自己在這終結的時代能做些什麼吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>「它在瑪珈嵐之牙的表現並不好吧？不過我們肯定可以再次動搖我的神的意志。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>「如果這對你靈視者都一樣的話，我可不想錯過神降黑暗於我們頭上的一刻。
+
+「我想要看到岡恩成為死亡之真神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>「不然呢？岡恩是死亡與腐爛之神，也是我們熟知的重生之神俄撒斯的另一面。
+
+「但俄撒斯死在了聖戰之中，而如今我們都清楚岡恩要摧毀輪迴循環。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>「這就是你認為將會發生的事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>「告訴我靈視者，如果靈魂自身都無法再生的話，還會有所謂的光明與誕生之神嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>她久久沒有回答，你甚至覺得她不會再開口了。然後她點了點大腿旁沾滿血污的鐮刀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>「當然，我會做你的好後盾。就算你是要對抗我的神。」
+
+但她的話語空洞無力——就像一句明顯的謊言。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>她用燈籠指向遠處陰影籠罩的遺跡，烏凱佐那破碎的殘骸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>「嗯，我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>「不，我想先跟你談談別的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>「肯定是很重要的事才要現在對一遍吧。好，我聽著呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>「把我當成你的第二個影子就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>「我們是會凋零還是繁盛？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>「我的意思是——」裘荻目光低垂，歎了口氣。她的舌尖，如暗淡的玫瑰，輕輕舔了下嘴角，留下濕潤的微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>「我真同情你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>「過程很緩慢，但你終會成功的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>「你早前想和我說什麼來著？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>「我想知道&lt;i&gt;你&lt;/i&gt;在想什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>「你知道我的意思。我跟你&lt;i&gt;說過&lt;/i&gt;的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>「好吧。」她聳聳肩，把胳膊放回了身體兩側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>「說實話，我本以為我會為此心碎的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>「你想討論麥婭的事嗎？和我說說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>「消失的東西不會再回來。回來的東西已經變了。一直如此。
+
+「即便回來的是一位神明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>「這意味著可能活下來的那部分——橫行亡焰列島海域的那個——是與脫落，腐爛和凋零為伍的那一面。
+
+「那就是死亡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>「有時候那種情緒……就這麼從我體內翻湧而出。該死的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>「其他人變堅強了，成了倖存者——這種事情我見的太多了，甚至是多年後。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>「他們死了。」裘荻直勾勾地看著你的眼睛。毫不退避。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>「害怕自然的事情沒用。生命不是一條很長的直線，它是循環的。你去要蛻去舊的，變成新的。」她搖著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>「按傳統，最後出生的孩子要擔任俄撒斯的牧師。好吧，我用自己的方式做了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>「在那之後，我讀了岡恩的所有教條——我能得到的一切資料。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>「當然了，不過我們人數不多，四處分散。大多數都不留守在神廟。守護靈魂需要跋山涉水。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>「我的神走進了雷暴之心。他將在那裡找到黑暗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>「我不太可能背棄神明賦予我的使命。即使它殺了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>「有天晚上，當所有人都睡著後……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>「你可能認為我很天真，而且你可能是對的——但我見過不同類型的兩個人組成一個家庭，而且我覺得夫妻之間就該有點兒小摩擦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>「好吧，如果所有事情都能那麼順利，我們就沒有必要崇拜神明了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>「我最好還是不開玩笑了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

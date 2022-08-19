@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc00_meet_rdc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>黃銅之國</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在黃銅堡與哈扎努伊交談</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在皇宮與亡焰皇家商行的哈扎努伊見面了。我應該去跟她繼續聊聊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>哈扎努伊卡魯統領著當地的努瓦泰部隊。努瓦泰借亡焰皇家商行的身份在亡焰列島控制著數塊地區。哈扎努伊和她的人民憑借這一點成為了一股不容小視的勢力。
+
+我應該去與她談一談，看看我跟她之間有什麼共同的利益。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>哈扎努伊卡魯的辦公室就在帝國總部後面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我已經與哈扎努伊見過面了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>亡焰皇家商行不再想與我有瓜葛，我沒有辦法再向他們匯報了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

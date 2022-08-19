@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_betrayal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>盜亦有道</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在舷窗堡壘與艾戴斯對峙</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與艾戴斯交談</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>回去找襯艙城烽火信標處的弗蘭特。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>決定艾戴斯的命運</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>擊敗弗蘭特</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>將弗蘭特的提議告知艾戴斯</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>解除弗蘭特的權利</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>與艾戴斯交談</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>讀取艾戴斯的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>將艾戴斯的提議告知弗蘭特</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>在襯艙城與弗蘭特船長交談</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>在舷窗堡壘與艾戴斯交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>在舷窗堡壘與艾戴斯交談</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>弗蘭特控訴艾戴斯有違抗命令，擅離職守，過度殘忍以及煽動反皇族海盜言論的罪行。船長評議會投票決定處決艾戴斯，但是只有她一個人知道該如何召喚漂浮吊死鬼號，弗蘭特需要知道這個情報才能夠處決艾戴斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>弗蘭特已經將處決艾戴斯船長的任務交給了我。她躲在了自己的避難所舷窗堡壘裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>弗蘭特認為艾戴斯一直沒有透露出操控漂浮吊死鬼號的方法。他需要得到這條情報才能夠處決她。她已經被囚禁在了烽火信標處的烽火台頂部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我通過讀取艾戴斯的靈魂得知了召喚漂浮吊死鬼號的方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>艾戴斯摧毀了她自己針對漂浮吊死鬼號的研究成果。除非有人能夠說服她分享這份情報，否則就只能通過讀取她死後的靈魂獲取這知識了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>我將艾戴斯從烽火台頂部的守衛們的看守中解放了。現在擋在我道路上的只有弗蘭特和他的評議會成員們了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>弗蘭特願意給艾戴斯換一種更溫柔的懲罰，他願意放逐她而不是處決，但是這麼做的前提是艾戴斯願意說出有關漂浮吊死鬼號的情報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>艾戴斯已經準備好與我共同操控漂浮吊死鬼號了。我首先需要解決弗蘭特。船長繼續在襯艙城裡的烽火信標要塞中統領著皇族海盜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>事態最後以血戰告終。弗蘭特和他的追隨者們都死了。我應該告訴&lt;b&gt;艾戴斯&lt;/b&gt;，她已經自由了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>艾戴斯以叛國罪遭到了處決。&lt;b&gt;弗蘭特&lt;/b&gt;讓我探查她的靈魂，瞭解藏在她心中關於&lt;b&gt;漂浮吊死鬼號&lt;/b&gt;的情報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>艾戴斯已經同意用自己知道的情報換取克魯薩的遠航處罰。希望弗蘭特願意接受這些條件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>皇族海盜的首領邀請我去襯艙城裡的烽火信標與他會面。似乎發生了一件與皇族海盜利益相關的大事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>我已經用我的方式處理了弗蘭特的問題。評議會的老領袖已經再也不能控制皇族海盜了。等到我將這情況告知艾戴斯後她將成為新的領導人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>我已經用我的方式處理了弗蘭特的問題。評議會的老領袖已經再也不能控制皇族海盜了。等到我將這情況告知艾戴斯後她將成為新的領導人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>艾戴斯認為弗蘭特在自己沒有掌控所有權力之前是不會善罷甘休的。她建議我放了她然後去徹底解決弗蘭特。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>艾戴斯提議用關於漂浮吊死鬼號的情報換取克魯薩的遠航作為懲罰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;弗蘭特&lt;/b&gt;被我說服了。他願意讓&lt;b&gt;艾戴斯&lt;/b&gt;乘著克魯薩的遠航號，活著離開&lt;b&gt;襯艙城&lt;/b&gt;，但是這麼做的前提是艾戴斯交出召喚&lt;b&gt;漂浮吊死鬼號&lt;/b&gt;的方法並且永遠再不用皇族海盜的名號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>只要弗蘭特從船長評議會中退位，艾戴斯就會同意交出自己的情報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我嘗試去說服艾戴斯，但是她不願意接受我的提議。她寧願去死也不願意在弗蘭特掌權的情況下交出情報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我決定親自處理這個問題並且殺死了艾戴斯。之後我通過讀取她的靈魂查明了召喚漂浮吊死鬼號的方法：在海上對著劍說出達寇茨誓言。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>弗蘭特因為艾戴斯身上背負的指控處決了她。皇族海盜裡面再也沒有了反對的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我成功找到了弗蘭特與奴隸販子勾結的證據，這在皇族海盜中是死罪。我通過這份情報說服了皇族海盜們去處決弗蘭特而不是艾戴斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>艾戴斯身上背負著重罪，我成功說服她去接受克魯薩的遠航，與風暴對抗是她維護自己的榮譽的最好選擇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>弗蘭特背叛的證據已經被我發現，他同意只要永遠沒有其他人知道真相，他將會卸任皇族海盜的最高指揮，這樣艾戴斯將能夠接管船長評議會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我決定終結艾戴斯的生命。弗蘭特現在可以自由掌控皇族海盜了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>我決定終結弗蘭特的生命。艾戴斯現在可以接管船長評議會並帶領皇族海盜在亡焰列島發展了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>我決定殺死艾戴斯與弗蘭特，群龍無主的皇族海盜將注定走向滅亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>我在同意幫助艾戴斯之後將她留在了烽火信標。弗蘭特不會喜歡我們的行為的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>弗蘭特和艾戴斯的分歧已經到了無法逆轉的地步，弗蘭特要求將她以背叛皇族海盜的罪名處決並且派遣了我作為他的處刑人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>艾戴斯承認自己摧毀了有關露西亞·利文與耶蘇亞戰鬥地點的現代名稱的相關證據。但是，她是在自己確定那就是正確的地點之後為了防止弗蘭特知道這個情報才這麼做的。她現在已經準備好與我共同找到那個地方。我需要解決阻擋在她與皇族海盜的新時代之間的弗蘭特。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText>我收到了一封來自弗蘭特的信。他已經將船長評議會聚集到襯艙城裡的烽火信標並且希望我盡快去那裡與他會面。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

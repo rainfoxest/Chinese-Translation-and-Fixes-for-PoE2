@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_sanguine_harvest_empty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你面前的石頭祭壇上除了表面覆蓋的乾燥、剝落的血塊和頭髮碴外什麼也沒有。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[檢查祭壇。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>祭壇前面的空地因數個世紀的踩踏和數不盡的跪拜而變得光滑無比。從上面某處滴下來的水在祭壇後面形成一個泥沼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[搜索祭壇周圍區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你到祭壇後面並將手掌探到泥沼中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[SkillCheck 0]的手掌探到祭壇後面的泥沼裡發現了一本破損的日誌。日誌肯定已經破舊了，但其中一些頁面還是可以看清字跡的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你粗略搜索了一遍遺跡，但沒發現什麼有趣的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>保險起見，你又一次搜索祭壇附近，但還是沒發現什麼有價值的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你從祭壇表面鑿下一些從前的血塊並且在石頭上發現了許多密密麻麻的砍痕，這證明此處曾舉行過許多慘絕人寰的獻祭儀式。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你發現一本破損的日誌半埋在泥沼裡。頁面浸滿了水，但其中一些仍然可以看清字跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

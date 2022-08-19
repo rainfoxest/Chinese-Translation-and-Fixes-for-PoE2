@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_captain_personality</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>水手回頭看了看，然後回到你身邊。
+
+「如果要讓這些少男少女聽從你的命令，你可能需要正確的介紹方式。讓他們明白你的意圖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「呃……」[Specified 0]皺著眉頭看著甲板。「最近配給非常低了。這樣會使船員覺得基斯不適合做船長。」水手咳嗽。「不過有時候露露臉還是可以改變事態的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[集合對船員講話。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[回自己住處去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0] 召集船員到甲板集合。這小群水手悶悶不樂地掛在索具上，坐在板條箱上，或靠在欄杆上。
+
+你踏上甲板，大伙的眼睛轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你關門時，[Specified 0]茫然地看著你。
+
+「大概就是這樣……」你聽到水手在返回甲板的途中咕噥著。
+
+你的船繼續航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我的字典裡沒有違抗命令這個詞。我說跳，你只能問我從多高的地方跳下去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「這艘船重要的不是船板和船帆——而是你們全體船員。我會給你們作為船長能給的一切。我希望你們也是如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我知道我一路睡到這裡，現在我醒了，可以找趣頭了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「很高興我們終於搞定了。現在回到你的崗位，否則我要把人丟下船去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 4]她向前邁步。
+
+「請原諒，船長，但我想問，這艘船在亡焰列島的使命究竟&lt;i&gt;是&lt;/i&gt;什麼？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「那個巨型裸體雕像奪走了我的一部分靈魂。我要把它拿回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「俄撒斯所到之處留下的儘是破壞和絕望。我們要將這樣的惡行扭轉過來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我們要獵殺一個骯髒的混蛋之神！誰支援我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你們每個人到這兒來都有自己的原因，我想你們都不願意說。對於我來說也是如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>船員筆挺地站著一動不動，只隨著船的搖擺而動。誰也不敢看誰一眼。一粒汗珠流到[Specified 0]的鼻尖，滴落到甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「遵命，船長！」[Specified 3]歡呼，發出輕聲的笑聲。[Specified 0]拍手，其他船員加入，微笑點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specified 3]笑了起來。「不是說該我們小睡一會了嗎？」
+
+「你本來就沒怎麼醒著，[Specified 3]不是嗎？」[Specified 2]還擊道。
+
+船員笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>船員眨眨眼睛，在前往各自崗位前猶豫了一下，抓起繩索、錘子和拖把。
+
+你轉身回到你的住處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>船員們懷疑地面面相覷，紛紛小聲咕噥著。
+
+[Specified 1]做了一個祈求上帝的手勢。「我們的船長感動了上帝。」
+
+[Specified 3]點頭，表情憂鬱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 1]低聲祈禱，依舊點了點頭。
+
+[Specified 0]向前站出來。「為工作順利完成並賺到了錢乾杯！」
+
+[Specified 3]歡呼，其他同伴微笑點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「天啊，船長打算要穿過這個……」 [Specified 3]歎息道，一隻手捂著拉長的面孔。
+
+「但願昂德拉不在裡面，」[Specified 1]嘲弄說，引起一陣緊張的笑聲。
+
+「必須有人阻止它！」[Specified 5]鬆開了握緊的拳頭，攤開手掌。「無論它的目的是什麼，總之已經殺死了很多人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>船員小聲議論，緊張地你看我我看你。 
+
+[Specified 3]聳聳肩。「船長說的有道理。」
+
+[Specified 0]點頭，然後立正敬禮。「我們知道我們到這裡的使命，船長。那就是為你效力。」 
+
+[Specified 5]認真點頭。「我們願為你效勞，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「歡迎上船[Player Ship]，女士們，先生們。我是[Player Name]，你的船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「很高興加入你，船長！」[Specified 3]大聲說道，同時露齒而笑，好幾個其他船員也頻頻點頭。[Specified 2]從上面交叉著雙臂對你微笑，[Specified 1]輕輕鼓掌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你是說我有什麼需擔心的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「喂，船長。傳統而已。還有社交那一套。「[Specified 0]咯咯笑道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「喂，夥計！我想拿什麼就拿什麼，想什麼時候拿就什麼時候拿。我的船也是如此！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「離別多年，我又回到了亡焰列島溫暖廣闊的水域。回來真好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「現在&lt;i&gt;有&lt;/i&gt;了一隊船員。你相信嗎，我房間裡的那尊雕像說你們這幫人無足輕重？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「這些眼睛揭開了死亡的面紗，我回來了，作為貝拉斯的信使和她的意志的執行者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「注意！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 1]掃視[Specified 2]，他迅速搖頭否決任何意見。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>聚在一起的水手們輕聲笑著，[Specified 1]的笑聲最終成為不由自主的大笑。
+
+「船長說的不是你，[Specified 1]！」[Specified 3]大聲說道，引發又一陣歡樂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>猶豫片刻後，混亂的水手們立正，以來自艾歐拉不同文化的方式敬禮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我打算運營一艘做正事的船。我們不是海盜，不是掠奪者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「這裡哪位喜歡錢?跟我干，你將會得到比基斯更多的錢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「掠奪品和戰利品，小伙子們，姑娘們！我們要的是該死的掠奪品和戰利品！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我不是來回答問題的！滾回你的崗位！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「現在，那是任何水手都唾手可得的東西了！」[Specified 3]在空中揮了揮拳說道，引起一陣笑聲。它最終變成一陣歡呼，然後成為粗聲、下流的水手號子。
+
+頭慢慢搖晃著，[Specified 0]咯咯笑起來。「你肯定會說亡焰列島語，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>艾德爾反應最快地立正。他的動作一反常態的快速和正式，其他船員好像也注意到了，紛紛跟著他做同樣動作。
+
+對艾德爾來說，他也非常訝異於自己的身體竟對你的命令有如此反應，就好像是條件反射一樣。他的臉上情不自禁地露出微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我覺得有更大的事情擺在我們面前，」亞洛斯皺眉說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>船員散開，返回他們的崗位，輪船——你的船——繼續航行，在亡焰列島湛藍明亮水中乘風破浪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「歡迎回來，船長！」[Specified 3]大聲說道。其他船員咧嘴笑著並點頭，或輕聲拍手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「呃，那是海盜最喜歡聽的話了！」
+
+塞拉芬咧嘴笑著說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「當然是我們了。沒人能阻攔我們。」
+
+高舉起燈籠和鐮刀，裘荻的影子蓋過了整個甲板。這就是靈魂收割者巨大的剪影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>她交叉著雙臂。「我&lt;i&gt;不&lt;/i&gt;會與我供奉的神明為敵。不過減輕他無心造成的苦難應該沒什麼問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>艾德爾走上前，看著全體船員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「呃，那是海盜最喜歡聽的話了！」
+
+塞拉芬咧嘴笑著說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>當[Specified 0]出現在你門邊，用抹布擦著汗漬時，你剛出海不久。
+
+「打擾了，船長。我們出海有一陣子了，你好像一直不太想說話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>亞洛斯的眉毛動了動。他點點頭表示理解你的緘默。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「他拿走的可不止那些，並且，他現在沒有搶奪你的東西，並不意味著他將來不會。我們在同一條船上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

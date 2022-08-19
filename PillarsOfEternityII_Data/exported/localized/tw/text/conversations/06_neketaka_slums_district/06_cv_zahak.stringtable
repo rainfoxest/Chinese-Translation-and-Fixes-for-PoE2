@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_zahak</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>184</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;ispeech&gt;這是什麼，[Player Race]生物？&lt;/ispeech&gt;蛛人昂起腦袋，用頭上的許多只眼睛盯著你。
+
+它奇形怪狀的同伴也帶著不自然的緊張情緒看向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>蛛人擁有探查力量的靈魂在你腦海中追尋著某個疑問。它奇形怪狀的同伴筆直地站在一旁等待著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你們的窺探行為惹怒了你們的一些鄰居。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你對厄爾內佐有何瞭解？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你在峽谷裡幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我需要補給。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>蛛人離開了她的思維，就像丟棄一件玩厭的玩具一樣。
+
+它將注意力集中在你身上。
+
+你感覺到它在翻閱你的思維，就像在翻書一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>&lt;ispeech&gt;我們對女人和她不值一提的恐懼不感興趣。&lt;/ispeech&gt;蛛人一邊的口器上翻，擦了擦眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>&lt;ispeech&gt;我們挖掘！挖掘這裡眾多居民思維中的無數秘密。很多地方還深藏著更多秘密。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你腦海中浮現出一幅幅畫面。都是回憶。
+
+你看到了皮特莉，她克制著咳嗽的衝動，告訴你澇肺病的事。
+
+你還看到了厄爾內佐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[防護你的心智。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[集中意志力對抗蛛人。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「住手！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[讓蛛人探索你的思維。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你將蛛人趕了出去，有那麼短暫而幸福的一刻，你的思維恢復了清晰。
+
+隨後，這個生物突破了你的防線，繼續開始入侵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我們非看不可！我們非知道不可！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>蛛人進一步深入。
+
+它看到你在厄爾內佐點裡和他交談的場景。你詢問有什麼藥能治澇肺病，而厄爾內佐開始回答。
+
+蛛人饒有興趣的發出啾啾聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[將蛛人趕出你的思維。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「滾出我的腦袋！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[讓蛛人探索你的思維。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你動用自己的力量抵抗蛛人，最終把這個生物趕出了你的思維。
+
+它向後踉蹌了幾步，下頜骨沮喪地抽搐著。
+
+精靈皺眉蹙額地揉著腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你聚精會神，撫平你的思維，將其變得和結冰的湖面一樣光滑空白。
+
+你輕輕地在冰面下繼續思考，而蛛人無法突破冰面。
+
+這隻生物發出惱怒的嘶鳴聲。一隻食人魔發出低沉沙啞的咆哮聲與之呼應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我們只是想瞭解！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>它繼續溫柔而堅定地向你的記憶逼近。
+
+你腦海中浮現起了自己與厄爾內佐談話的場景。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>他跟你說了瘦削男人的事，並表示如果你殺了他，他就給你藥。
+
+蛛人離開了你的思維。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>&lt;ispeech&gt;你找那個女商人有什麼事？&lt;/ispeech&gt;它的眼睛好奇地抽動著。它的同伴眼睛一眨不眨地盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「夠了。我有權保守自己的秘密。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「你已經見到了我的記憶。我沒什麼可隱瞞的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[攻擊]「我也是奉命行事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「厄爾內佐要我殺了你，以換取一種珍貴的藥物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>&lt;ispeech&gt;是的。但我們知道那個叫厄爾內索的女人正在密謀對付我們。我們聽到她腦海中的低語。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>&lt;ispeech&gt;是的。我們明白了你想要的是藥。
+
+因此我們會告訴你一個秘密。&lt;/ispeech&gt;它輕拍著彎曲的爪子，激動得差點跳起舞來。
+
+精靈搖晃著輕輕拍手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>&lt;ispeech&gt;你把秘密就這麼脫口而出告訴了我們？多麼稀奇。多麼美妙。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>&lt;ispeech&gt;是的，這個厄爾內索幾乎不跟我們說話，但她的思維透露了很多訊息。我們知道她密謀對付我們。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>&lt;ispeech&gt;但只要我們能輕易識破她的刺客，我們就有備無患了。&lt;/ispeech&gt;
+
+你能感覺到蛛人的滿意之情就像溫暖的光輝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>&lt;ispeech&gt;但你並不在乎厄爾內索。只在乎藥。
+
+我們告訴你一個絕妙的秘密。&lt;/ispeech&gt;它輕拍著彎曲的爪子，激動得差點跳起舞來。
+
+精靈搖晃著輕輕拍手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>&lt;ispeech&gt;但你知道如何隱藏秘密。因此我們會告訴你一個秘密。&lt;/ispeech&gt;它輕拍著彎曲的爪子，激動得差點跳起舞來。
+
+精靈搖晃著輕輕拍手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>&lt;ispeech&gt;如果你還能把她幹掉，那我們就向你出售特別的東西。給你特價。&lt;/ispeech&gt;它的口器貪婪得吧嗒作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>&lt;ispeech&gt;她的貯藏室有個秘密入口。&lt;/ispeech&gt;它的眼睛放著光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>&lt;ispeech&gt;由於那個守口如瓶的傢伙不在了，很多人來找我們買東西了。我們有很多東西出售。很多東西可看。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>蛛人更加深入你的腦海之中，挑揀著你的記憶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。聚鹿大帝國。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「別進入我的腦海中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我們還是談談吧。你想知道什麼？不如直接問我吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「動手吧。我沒什麼可隱瞞的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「滾出我的思維，不然我要你的命！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[什麼都不做。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>蛛人向後退去，生氣地磨著一邊的下頜骨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「這其中有什麼秘密？」
+
+你感到頭中有一陣輕柔的摩挲感。
+
+又一個聲音在你的腦海中響起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你想要什麼秘密？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>&lt;ispeech&gt;口舌之言乏味和冗長。&lt;/ispeech&gt;它把下頜骨咬合在一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>&lt;ispeech&gt;明明能親眼看到，為何還要開口去問呢？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「城下之城。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「遺跡中還有一座城！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>&lt;ispeech&gt;那裡到處都是年代尚不久遠的秘密，與爭鬥與背叛有關。
+
+我們想知道的是年代更為久遠的秘密，埋藏在更深處、刻在風化的石頭上的那種。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>它厭惡地發出啾啾聲。
+
+精靈咬牙切齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「他的思維太狹隘，只關注小事。你在乎他幹嘛？你——」
+
+精靈突然陷入沉默，嘴還張著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[攻擊] 「夠了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「給我們看，給我們看！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「女商人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>&lt;ispeech&gt;就是自稱厄爾內索的那個人。&lt;/ispeech&gt;
+
+它不耐煩地揮舞爪子，一個食人魔也做著相同的動作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「厄爾內佐是個男的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>&lt;ispeech&gt;好吧。在我們看來沒什麼兩樣。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[攻擊]「我受夠你了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>&lt;ispeech&gt;但現在這已不是秘密。我們談談別的秘密吧。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>&lt;ispeech&gt;她腦海中還低語著別的秘密。&lt;/ispeech&gt;它輕拍著彎曲的爪子，激動得差點跳起舞來。
+
+精靈搖晃著輕輕拍手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>&lt;ispeech&gt;「你的秘密是什麼？為什麼不讓我們看女商人的思維？&lt;/ispeech&gt;它的眼睛好奇地抽動著。它的同伴眼睛一眨不眨地盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>&lt;ispeech&gt;只不過到時候你會惹怒其他男女商人們。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我們聽到了腳步聲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「有東西過來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>&lt;ispeech&gt;沿著她店舖東邊的木製通道走。她就在那裡秘密地為德理奧運輸物資。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>&lt;ispeech&gt;沿著她店舖東邊的木製通道走。她以前就在那裡秘密地為德理奧運輸物資。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>&lt;ispeech&gt;厄爾內索賣很多東西。賣給普通百姓，也賣給勢力強大的犯罪集團頭目。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>&lt;ispeech&gt;她既愚蠢又容易識破。我們不會在她身上繼續浪費時間了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>&lt;ispeech&gt;她害怕我們。害怕我們搜集並散佈她的秘密。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;ispeech&gt;所以她的店舖才有一個秘密入口。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>&lt;ispeech&gt;沿著她店舖東邊的木製通道走。她以前就在那裡秘密地為德理奧運輸物資。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>&lt;ispeech&gt;沿著她店舖東邊的木製通道走。她就在那裡秘密地為德理奧運輸物資。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>&lt;ispeech&gt;啊，讓我們看看吧。&lt;/ispeech&gt;蛛人愉悅地敲著爪子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>&lt;ispeech&gt;什麼都行！有什麼要什麼！&lt;/ispeech&gt;
+
+它一下扎進你的腦海笨拙地摸索著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>&lt;ispeech&gt;我們只是想看看。想瞭解。而基斯習慣於把他們的秘密藏起來。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>&lt;ispeech&gt;流浪者！你也四處巡遊過。你能否認這一點嗎？&lt;/ispeech&gt;它的懇求在你的腦中轟然作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>&lt;ispeech&gt;你尋找著神秘與啟示！你也十分渴望求知。&lt;/ispeech&gt;它的懇求在你的腦中轟然作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>&lt;ispeech&gt;稍一觸及便知，你的腦海中縈繞著數以百計的疑問。你能否認這一點嗎？&lt;/ispeech&gt;它的懇求在你的腦中轟然作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>&lt;ispeech&gt;你貯藏著知識！來自善於學習的生命中大量的事實與細節。你能否認這一點嗎？&lt;/ispeech&gt;它的懇求在你的腦中轟然作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>&lt;ispeech&gt;你追求著自然世界的謎題並為之困惑。你能否認這一點嗎？&lt;/ispeech&gt;它的懇求在你的腦中轟然作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>&lt;ispeech&gt;是的，你來到亡焰列島也是為了尋求知識。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>&lt;ispeech&gt;死亡。生命。一片汪洋，上面肆虐著風暴、海盜還有……&lt;/ispeech&gt;
+
+俄撒斯巨大發光的頭部浮現在你的腦海中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[等待。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>&lt;ispeech&gt;你也品嚐過其他人腦海的思緒。你能否認這一點嗎？&lt;/ispeech&gt;它的懇求在你的腦中轟然作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>&lt;ispeech&gt;你瞭解了許多不為人知的秘法知識！其力量在你體內奔流不息。你能否認這一點嗎？&lt;/ispeech&gt;它的懇求在你的腦中轟然作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>&lt;ispeech&gt;啊，了不起的秘密！&lt;/ispeech&gt;
+
+你聽到蛛人辟啪作響地摩擦著顎骨。這聲音就像一名暴食者貪婪地舔著嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「你們願意告訴我一個秘密嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「好啊。你對我們一直很慷慨。」
+
+食人魔慢慢點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>它惱怒地咬合著口器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>&lt;ispeech&gt;你都不肯把自己的秘密告訴我們，我們又怎會告訴你？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>&lt;ispeech&gt;貧民窟下方有一處古老、寒冷、被人遺棄的地方。遭到這座城市遺忘的人在那裡被吞沒。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>&lt;ispeech&gt;但這個地方曾經是城市的一部分。它的神廟也是，裡面供奉著遠方被遺忘的女神。&lt;/ispeech&gt;它的眼睛發著微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「為何告訴我這件事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>&lt;ispeech&gt;我們想看到你讓厄爾內索栽在自己的秘密上。
+
+拿走你要的藥物。&lt;/ispeech&gt;
+
+它悄悄靠近你。食人魔和精靈雙目無神、表情呆滯，也向前走了幾步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「保持警惕，船長。不用把思維探查太當回事，但他們的把戲絕不止這一種而已。」
+
+塞拉芬仔細端詳著蛛人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>於此同時，蛛人漸漸進入了你的腦海中更深處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「好吧，那我就告訴你個秘密吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「很好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>&lt;ispeech&gt;如何？&lt;/ispeech&gt;它興奮地發出啾啾聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「我其實並不是左撇子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「轉念一想，我得再考慮考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「眾神其實是英格維仙創造出來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>[撒謊]「我這輩子從未做過任何錯誤的判斷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「悠著點，船長。你或許可以不用像通常那樣急於回答對方。這次先考慮考慮。」
+
+他超蛛人皺皺眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「我差點被俄撒斯殺死，又被貝拉斯復活了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[防護你的心智。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>它又抓住了另一段思緒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「塞拉芬，把這個怪物趕出我的大腦！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「遵命，船長！」絨精的思維與蛛人的思維發生激烈碰撞，而這都發生在你已被塞滿的思維裡，與此同時整個房間也發生了強烈的震動。
+
+就像蜘蛛躲避被踩扁一樣，蛛人的意識避開了塞拉芬，並鑽入你思維的深處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「塞拉芬，救救我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>&lt;ispeech&gt;快給我滾，你個腦子有病的臭蟑螂！&lt;/ispeech&gt;
+
+塞拉芬咒罵的話語充斥著你的思維，這陣騷亂將蛛人的思維利爪從你的記憶上掰開，並將其拋出你的意識。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「這次亂說話的人不是我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「別人一看我就知道我是個老實人。可憐的刺客是這條帥氣的魚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「太過分了！我十分確信我絕對&lt;i&gt;不&lt;/i&gt;容易識破！」
+
+「……是這樣的吧？」他怯生生地轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「我不喜歡它給我們起的外號。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「沒錯，就是我們。和空玻璃杯一樣能被一眼看穿。」
+
+他朝你使了個顏色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「我來告訴你什麼叫容易被識破，你這特大號的枕套！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「更大的蜘蛛我也弄死過。隨時等你下令。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「看看就好，別動手摸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「好吧，我先來。」
+
+他清了清嗓子。「你們這一族中真的有毛茸茸可以飼養的類型嗎？」
+
+有一名蛛人的眼神轉向了艾德爾。過了一會，它又轉了回來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「是個蛛人。真噁心。真不敢相信他們居然讓這種東西棲息於此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「噢，這怪物令我渾身起雞皮疙瘩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「我猜你只打算透露自己的秘密吧。」他若有所指地咳了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>它停止了動作，只剩一根尖牙在顫動，動腦思考著。
+
+你感覺到它在感受你的思維，以判斷你的話是否屬實。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「好啊。你對我們一直很慷慨。」
+
+食人魔慢慢點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>它尖聲長叫。&lt;ispeech&gt;我們厭倦了你的把戲，[Player Race]生物。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「你撒謊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>&lt;ispeech&gt;那個叫厄爾內索的女人死了。我們在你的思維裡看到了這個事實。&lt;/ispeech&gt;這隻生物修長的手指喜悅地抽動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「他名叫『厄爾內佐』。是『佐』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>&lt;ispeech&gt;這是什麼嗡嗡聲？你牙齒間塞了只蒼蠅嗎？&lt;/ispeech&gt;他的下頜骨饒有興趣地猝然一動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[出示獎章。]「你知道哪兒有人買這樣的東西嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>&lt;ispeech&gt;這種愚蠢的小玩意兒對我們來說有什麼用？厄爾內索收這種東西。&lt;/ispeech&gt;它揮了揮長著利爪的手，示意你把東西拿走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>&lt;ispeech&gt;你想知道其他鬼鬼祟祟的小偷如何移動他們的財物。
+
+這是個相當有價值的秘密。&lt;/ispeech&gt;它的利爪歡快地動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>它停頓了一下，用密密麻麻的小眼睛一眨不眨地注視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>蛛人的目光轉向了泰克胡，後者不自覺地皺眉蹙額。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>&lt;ispeech&gt;這個人沒什麼秘密。和其他水一般的傢伙不同。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「我們已經知道巨龍的事了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「泰克胡，你有什麼想法？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>&lt;ispeech&gt;他們的腦海中有一個潮濕的洞穴。一灘污池下有一道憎恨的眼光。是某個死掉女人的悔恨……&lt;/ispeech&gt;蛛人狂喜地轉著眼球。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「胡言亂語！這隻漂浮的蜘蛛最好把話解釋清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>&lt;ispeech&gt;嗯？你還找到了什麼秘密？&lt;/ispeech&gt;蛛人將飢渴的眼光轉回你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>&lt;ispeech&gt;基斯身上有不少秘密。他們最深的秘密都在城市的高牆之內。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>&lt;ispeech&gt;但你的腦海中又有什麼秘密呢？&lt;/ispeech&gt;蛛人將飢渴的眼光轉回你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>&lt;ispeech&gt;他們潛伏在我們正下方的一處地方，離這兒的商人靠得很近，但空間足夠容納他們的船。人們稱那裡為地下室。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>&lt;ispeech&gt;他們乘厄爾內索店舖旁邊的升降機，像蜘蛛一樣下降到那個地方。但那裡戒備森嚴，是的。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>&lt;ispeech&gt;不過還有一條秘密通道。&lt;/ispeech&gt;它交叉起雙爪，點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「告訴我這些有什麼用啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「這種情況不會持續太久。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「無論什麼地方，總有後門。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>&lt;ispeech&gt;乘坐峽谷的升降機下降到被懲罰者去的地方，然後穿越舊城的遺跡。往西南方走，到達一處古老的神龕。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>&lt;ispeech&gt;沒錯。&lt;/ispeech&gt;它交叉起雙爪，點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>&lt;ispeech&gt;有一條通往地下室的秘密通道。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>&lt;ispeech&gt;但要當心，假如遺跡中的潛伏的利爪怪物沒能殺掉你，地下室的基斯也會令你難逃一死。&lt;/ispeech&gt;它來回擺動的口器發出刺耳的笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>&lt;ispeech&gt;你已經知道貧民窟下方有一處地方。而在更遙遠的海底還有一處地方。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>&lt;ispeech&gt;在那裡藏著一個連眾神都竭力掩飾的天大的秘密！若能揭開這個秘密……那將多麼美妙啊。&lt;/ispeech&gt;它的眼睛發著微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>&lt;ispeech&gt;名叫德理奧的人知道。但她有很多秘密。不怎麼歡迎來客。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>&lt;ispeech&gt;但她也許會邀請有資格的人。這個人得在這一帶頗有名氣。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「我不相信這種生物。一點也不信。」他盯著蛛人，然後看向出口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>蛛人向後踉蹌了幾步，下頜骨在痙攣中抽動碰撞著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。亡焰列島的溫暖海洋。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。努瓦泰被風暴侵襲的海岸。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。以撒密陀的富饒平原。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。舊瓦利亞漸弱的力量。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。盎然之地的荒野。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。若移冰地的廢土。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>&lt;ispeech&gt;靈視者。鹿林。離開已久的家。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>&lt;ispeech&gt;她生前害怕我們。害怕我們搜集並散佈她的秘密。但她現在什麼都用不著害怕了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>&lt;ispeech&gt;厄爾內索之前賣過很多東西。賣給普通百姓，也賣給勢力強大的犯罪集團頭目。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>&lt;ispeech&gt;所以她的店舖才有一個秘密入口。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>&lt;ispeech&gt;你向絕望與赤貧者伸出援助之手，你不畏懼他們的骯髒！你否認這一點嗎？&lt;/ispeech&gt;它的懇求在你的腦中轟然作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>&lt;ispeech&gt;下等之人將你稱作朋友。背後的匕首，被偷走的硬幣，這些行為對你來說有如呼吸一般自然。你否認這一點嗎？&lt;/ispeech&gt;它的懇求在你的腦中轟然作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>&lt;ispeech&gt;你，她應該會想要見你。是的。是的。她知道你的名字，小巷裡有人在低語著你的名字。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>&lt;ispeech&gt;但是你的朋友們，此地的惡棍盜賊，他們不關心古老的秘密，他們根本不關心！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>&lt;ispeech&gt;你的朋友們，此地的破碎生物們，他們知道古老的秘密，他們知道，但是他們不告訴我！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

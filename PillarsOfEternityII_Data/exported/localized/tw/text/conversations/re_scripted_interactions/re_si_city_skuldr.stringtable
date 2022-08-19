@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_skuldr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>水果腐爛的臭味和死魚的腥味，再加上幾百種沒那麼刺鼻的臭味，一下子裹住了你。
+
+寂靜的貧民窟裡，只有你的腳步聲迴盪在黑暗之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你轉過了街角，聽到一聲悲哀的喊聲：「救命啊！」
+
+你看到了一大群醜惡的影子，聽到了低沉的嘶嘶聲和利爪在石頭上奔跑的聲音。一大群蝠魔映入你眼中，它們的獠牙在黑色的皮毛下發著光，腿上滿是扭動的洞穴蛆蟲。它們不斷地咬著下顎，彷彿要將空氣撕開一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[施展咒語，讓怪物群慢下來。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[吸引怪物的注意力。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[讓姑娘等死。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你在空氣中花了幾個神秘的符號，召喚精粹限制住了蝠魔的移動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你衝進了蝠魔群裡，用肩膀把一隻蝠魔撞倒在地。那只蝠魔一邊發出嘶嘶聲，一邊站了起來。其它的蝠魔轉過了身，用飢渴的眼睛盯著你，對你呼出惡臭的氣息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你不再理會那個女孩，她的悲鳴聲漸漸被蝠魔的咆哮聲蓋了過去。
+
+你走出去幾條街之後，一個羅帕魯女人從人群中衝了出來，抓住了你的胳膊。
+
+「你見沒見過一個姑娘，大概這麼高？怎麼說？」她用手比著一個年輕姑娘的高度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 1]往前走了一步，對嘶吼的蝠魔念起了咒語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0]大喊一聲，衝了上去。蝠魔們的注意力轉向了你們。
+
+它們發出了飢餓的咆哮聲，朝你們衝了過來……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你向前衝了過去，但沒留意到地上有一隻翻倒的大鍋。你被大鍋絆了一跤，四仰八叉地摔倒在地。
+
+蝠魔一邊用好奇的目光看著你，一邊朝你聚了過來，口水流到了地上。它們一邊走近，一邊分散開來，想要把你包圍……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0]非常出色。他壓低了身子，保持著完美的平衡，像獵鷹一樣向前疾行。
+
+幾隻毫無覺察的洞窟蛆蟲擋在路上。[Specified 0]用靴子把它們踩成了爛泥，在到處都是蛆蟲膿液的地面上向前跑著。
+
+蝠魔們轉過了身，口水都流到了地上。它們一邊走近，一邊分散開來，打算包圍[Specified 0]……和你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[吸引怪物的注意力。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「這裡靜得嚇人，你不這麼覺得嗎？」亞洛斯警覺地看著周圍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「看起來這裡少了點什麼東西。比如說，人都不見了。」艾德爾檢視著空無一人的街道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「不錯的街坊嘛。」麥婭打了個響舌，示意伊希薩待在她身邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「這麼靜可不是什麼好兆頭，船長。」塞拉芬的鼻翼扇了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「別走得這麼用力，船長。我們之中……有人不太適應死魚的味道。」泰克胡被影子嚇了一跳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我知道比起生者，我的職責要求我更花更多精力引導死者，但這種生存條件也太差了。沒人應該受這種苦。」
+
+裘荻搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「靜得都能聽到你自己的心跳聲。」伊德溫悄悄地說道，一絲細微的笑容爬上了她的嘴角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>涅克塔卡的貧民區周圍全是高聳的山壁。即使在正午的時候，這裡的街頭巷尾也不見天日。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>涅克塔卡的貧民區周圍全是高聳的山壁。它們擋住了所有的視野，讓你根本看不到天上的星星。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>在怪物們的另一側，是一位穿著胡亞納人服飾的小姑娘，雙手握著一把閃閃發光的寶劍。她狂亂地朝蝠魔揮著劍。隨著她的揮舞，劍發出了咆哮的聲音，讓怪物們不敢接近。然而，怪物們還是一步步接近了她。她的雙眼帶著哀求的神色，看著你。
+
+「求求你了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「快從這裡跑出去，孩子！這些怪物就交給我吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>女孩搖著頭又揮出一劍，一隻蝠魔向後退了幾步。「我跑不了！我身後無路可走了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[朝蝠魔衝過去。] 「那就救吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[攻擊蝠魔。] 「好吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我們都對付過那麼多怪物了，&lt;i&gt;這些&lt;/i&gt;傢伙你反倒害怕了？」艾德爾沉下了臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「真的嗎？！你為何見死不救？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>塞拉芬打了個呵欠。「你腦子進水了嗎，船長？我敢拿娥狄卡的腚眼子跟你打賭。對手是那群狗日的怪物，那個姑娘連個球的機會都沒有！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>裘荻怨恨地抓住你的肩膀。「我們完全可以救她，別告訴我你打算袖手旁觀。你還在等什麼？我們去幹掉這些怪物吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「你說得沒錯，那就由你去吸引它們的注意吧，[Specified 0]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「這不關我們的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0]瞪了你一眼，之後轉向了怪物……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你不情願地朝流著口水的怪物們走了過去……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>女人的臉上露出了笑容。「天啊，謝謝你！願恩加蒂保佑你！」
+
+她朝你指的方向跑了過去，你繼續前進了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[讓女孩吸引怪物的注意力，趁機發動突襲。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>你拔出武器慢慢向前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>魔法命中了蝠魔。蝠魔們大聲咆哮著，撕扯著困住它們的能量精粹，抓著對它們強勁的肌肉根本不會構成任何阻礙的靈球。
+
+怪物們朝你的方向轉過了身，一邊發出嘶嘶聲，一邊朝你逼近……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[朝蝠魔的方向比個手勢。] 「她就在那邊。 如果你動作快點的話，應該還能找到她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「不，我沒見過，很抱歉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「把你的髒手從我身上拿開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「天啊，那個蠢姑娘！她總是想證明自己，總是想給自己惹麻煩，就好像嫌家裡的麻煩還不夠多一樣！她到底想證明什麼？證明她能像她爸一樣死於非命嗎？」
+
+她搖了搖頭。「抱歉，陌生人。那我自己去找她吧。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>女人退後一步，像是被扇了個耳光一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「願恩加蒂保佑我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>你衝進了蝠魔群裡，用肩膀把一隻蝠魔撞倒在地。那只蝠魔一邊發出嘶嘶聲，一邊站了起來。其它的蝠魔轉過了身，用飢渴的眼睛盯著你，對你呼出惡臭的氣息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你向前衝了過去，但沒留意到地上有一隻翻倒的大鍋。你被大鍋絆了一跤，四仰八叉地摔倒在地。
+
+蝠魔一邊用好奇的目光看著你，一邊朝你聚了過來，口水流到了地上。它們一邊走近，一邊分散開來，想要把你包圍……</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

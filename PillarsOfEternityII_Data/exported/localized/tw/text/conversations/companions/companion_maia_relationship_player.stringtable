@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_maia_relationship_player</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>349</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>麥婭清了清嗓子，又咳嗽一聲，抬起頭，迎上了你的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>伊希薩打起了精神，小心翼翼地往前跳了一步。他仰起頭，目光盯在你身上，仔細審視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我只是想說，要不是我和裘荻已經……」麥婭本想繼續說下去，但自己又打住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我就直說了吧，你差不多是個相當不錯的人。」麥婭抿起嘴唇，上上下下地打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「啊……就當我什麼都沒說吧，不是什麼重要的事情。」麥婭對著自己的拳頭咳嗽一聲，移開了目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我只是想說，要不是你和那個小魚孩已經親密無間的話……」麥婭本想繼續說下去，但自己又打住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我一直都想說，你已經……有目標了。這真是太遺憾了，船長，你已經差不多是個很不錯的人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你也並不算寒磣嘛，士兵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「只是差不多？真的只有這樣而已嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我通常能選的夥伴只有一群從吟遊學院退學的傢伙，以為自己是個水手。一個真正的&lt;i&gt;船長&lt;/i&gt;已經比他們要好多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我知道，不過還是很感謝你這麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「你有沒有……呃，這真是個蠢問題，但我還是要問。」
+
+麥婭抱著胳膊，重心從一隻腳移到了另一隻腳上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「你有沒有和哪個人走得很近，哪怕這種關係並不……尋常？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「啊……我倒不是說我不高興，只是……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「不用多說了，我還是讓你好好喘口氣吧。快來吧，伊希。」麥婭打了個響舌，叫走了伊希薩，注意力從你的身上移開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我曾經被一位神明踩過一腳。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你是說，比如說，和另一個男人嗎？」</DefaultText>
+      <FemaleText>「你是說，比如說，和另一個女人嗎？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「如果你覺得這就算不同尋常，那你可得好好上一課了，朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「在甲板下面，只有兩件事要記住：給自己找找樂子，還有別把錢弄丟了。她拍了拍自己的腰包。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我指的是，來自不同階級的人也能和睦相處……一起享受海灘上的假期。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「是啊，這可真是一點都不『尋常』啊，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「啊，你指的是船長和船員之間偷偷約會吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「某個人一直都是不守規矩的水手嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「我能猜出來接下來的談話會變成什麼樣子。我們還是保持職業關係吧，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「沒錯，差不多就是這樣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「我在這裡，只是想……看看風往哪邊吹而已，你可別想多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「這就像在是解繩結一樣。」麥婭歎了口氣，眼珠轉了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「在[Player Ship]上，船長就是定規矩的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「現在的風很平靜，但所有人都知道，風總是會說變就變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「尊卑有序是很重要的，否則就會產生各種麻煩的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「無論怎樣，我並不反對你的意見，我剛剛只是好奇而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「我想和你繼續保持朋友的關係，我認為這才是更重要的事情，麥婭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「真是個有趣的答案，我喜歡你這種權威感。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「風確實是這樣。」她笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「我以前享受過那樣的場面，說不定早晚有一天，我還可以再享受到這種場面吧。」
+
+麥婭把手搭在臀上，一個人笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「如果他不喜歡某個人的話，我也不會喜歡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「你的意思是說，某個人得先和你的小鳥搞好關係，這樣才能……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「你得告訴我這是怎麼回事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「怎樣的人，才能成為伊希薩的……特別的朋友？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「我這麼說了嗎？」麥婭抱起胳膊，揚起了眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「不是所有人都喜歡鳥，這也能理解，有時候我自己也受不了那個臭烘烘的小毛球船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「但我和伊希最多也只分開過透幾口氣的時間。無論你願不願意，你都得明白這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「你都能看穿別人的靈魂，不如你來告訴我是怎麼回事吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我已經記下來了，以備後用。不過我有一些問題要問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「誰是最乖的小鳥？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「就這樣吧，加油，小鳥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>伊希薩發出了高亢的鳴叫，用鳥喙啄著自己翅膀上的羽毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「我真不敢相信我會這麼說，不過我想和你的鳥聊聊天。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「如果你好好問問他的話，我敢肯定他會告訴你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[試著窺視伊希薩的靈魂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>當你剛剛聯結到伊希薩的靈魂時，他就轉過了頭，用冰冷而尖銳的目光看著你。他的眼神就像是鞭子一樣打在你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>&lt;ispeech&gt;哎呀，這可真是出人意料。&lt;/ispeech&gt;
+
+某個聲音穿過了你個意識。那是某個女性的聲音，你還聽到了羽毛髮出的沙沙聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[低語] 「海麗婭？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>麥婭朝你的方向看了一眼，皺起了眉。在旁人的眼裡看來，你只是在自言自語而已。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>&lt;ispeech&gt;你打算窺視這隻高尚生物的靈魂深處，你究竟想知道什麼？&lt;/ispeech&gt;
+
+伊希薩晃起了腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>[低語] 「麥婭建議我和伊希薩搞好關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[低語] 「我在想，如果我能讓這隻鳥喜歡我的話，麥婭就會喜歡我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[低語] 「高尚的生物？你說的真的是這個伊希薩嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>&lt;ispeech&gt;我明白了。&lt;/ispeech&gt;
+
+一陣微風輕撫著伊希薩的羽毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>&lt;ispeech&gt;你應該早就很清楚，不要相信麥婭所說的一切。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>&lt;ispeech&gt;你走到現在這種……狀況，你肯定是相當相信麥婭。
+
+你真的這麼確定，她值得你這麼信任嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>&lt;ispeech&gt;整個亡焰列島都在遭受肆虐的當下，能找到這樣一個人，把這麼多時間用在精心設計的前戲上，確實是件有趣的事情。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>[試著給伊希薩餵食。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>你一打開包裹，伊希薩就跳了過來。他伸著頭，看看裡面有沒有吃的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>問到鯊魚肉的味道時，他的眼睛瞇了起來，眼神中充滿熱切。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>他失望地轉過了頭，開始用爪子刨著地。
+
+很顯然，你這裡沒有他想要的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>[不再給伊希薩餵食。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>他歪著頭，用好奇的目光打量著你，一會看看你的眼睛，一會看看你的包裹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>[把鯊魚肉朝他的方向扔過去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「真是一隻快活的小鳥啊。」麥婭抱起胳膊，咧嘴笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「當然，也會變成一隻胖鳥。用不了多久，我大概就得像扛酒桶一樣把它扛在身上了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>伊希薩認真地盯了鯊魚肉一會兒，緊接著就把拘謹拋在了腦後，狼吞虎嚥地吃起了鯊魚肉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>[低語] 「有什麼可以給我的建議嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[低語] 「我猜我沒什麼想說的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[低語] 「我已經回答了你的問題，現在輪到你來回答了。你在伊希薩的靈魂裡幹什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>&lt;ispeech&gt;或許你並不像我一樣瞭解他。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>&lt;ispeech&gt;我敢向你肯定，這隻小鳥非常飢餓，勞累過度，而且有時並沒得到足夠的重視。&lt;/ispeech&gt;
+
+伊希薩張開翅膀，帶著明顯的好奇打量著自己的羽毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>&lt;ispeech&gt;除了這點之外，剩下的你自己來觀察吧。&lt;/ispeech&gt;
+
+你感覺到某個人愉快地朝你聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>&lt;ispeech&gt;我在觀察。這隻叫伊希薩的小鳥可以讓我很方便地觀察到你的旅程。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>&lt;ispeech&gt;希望你盡量別太介意。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>&lt;ispeech&gt;祝你的求偶儀式一帆風順，靈視者。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>聲音消失了，你發現自己正盯著伊希薩警覺的眼睛，而他的眼睛已經不再充滿智慧了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>[低語] 「你又在這裡幹什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>&lt;ispeech&gt;我在問你問題。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「有趣的是，伊希挑人的眼光很……講究。」
+
+麥婭低頭看著她的鳥，臉上帶著笑意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「希望你也能像我一樣，覺得這很有意思。」麥婭抱起胳膊，咧嘴笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「我有一些問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「如果只是假設的話，當然很好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「我還是算了吧，不過還是很感謝你能這麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「當然了，這些只是假設而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「你的意思是說……我們……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「船長，我剛剛不是告訴過你，讓你不要想多了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「我的意思是說，只是假設而已。」她清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「我應該說句感謝吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「誠心誠意的讚美，相信我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「對我來說，所有的關係都不同尋常。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>&lt;ispeech&gt;我還是不要評判別人的感情為好，應該讓它不受干擾地盛開，或枯萎。&lt;/ispeech&gt;
+
+海麗婭發出了一聲意味深長的歎息，你感到脖子後面傳來了一陣涼風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>[低語] 「你對麥婭有什麼看法？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>聽到自己的名字，麥婭皺起了眉，又朝你的方向看了一眼。她看起來想是想要說些什麼，但隨後搖了搖頭，重新去忙自己的事情去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>&lt;ispeech&gt;你經常從鳥兒那裡聽取人際關係的建議嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「早點總比晚點好，是這樣吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「這取決於擺在我面前的是什麼，而地平線那邊又有什麼……船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「我覺得，我對這樣的事情不感興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>[低語] 「先是昂德拉，現在又是你？難道就&lt;i&gt;沒有&lt;/i&gt;哪個神不會附在我的船員身上偷偷觀察我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>&lt;ispeech&gt;我能想到一個，不過你剛剛那是反問句嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>「是，船長。」麥婭轉過身，朝你眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>「我總是會對某種人有特別的感覺，無論他們外表如何。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>「你覺得什麼樣的人能成為夥伴？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>麥婭摸著你的胳膊，隨後自己被自己的行為嚇了一跳，趕緊把手拿開了。
+
+她的手指上起了繭子，非常溫暖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>「雖然不知道接下來會怎麼樣，但我很喜歡現在的樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>「不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>「或許是我說得不太清楚吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>「盡量別說髒話吧。」麥婭笑著往後退了幾步，把你讓了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>「我通常都喜歡聰明一些的人，儘管他們未必總是那麼聰明，總能看得出來我是個有能力的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>&lt;ispeech&gt;我感覺得到，麥婭並不會輕易對別人推心置腹。她對你的注意甚至超乎你的想像。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>「我以前很喜歡有女人陪在我身邊，如果……出於某種原因……你打算問的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>「至於&lt;i&gt;你&lt;/i&gt;還是別開口了，因為我的答案是——沒門。」麥婭對泰克胡做了個鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>「天啊，我還什麼都沒說呢！」泰克胡帶著被冒犯的表情看看麥婭，又看看你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>「當然了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>&lt;ispeech&gt;她有很多她自己的想法，這一切可能只是在轉移你的注意力。
+
+也有可能，她是在軟化你，好讓她主人們的計劃順利進行。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>&lt;ispeech&gt;「啊……我又說多了。我不過是個創造女神，又哪裡瞭解人類的求偶行為呢？&lt;/ispeech&gt;
+
+伊希薩歪著腦袋，朝你眨眨眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>「只要能用腦子把事情好好想清楚的話，男人湊合著也行吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>「而女人在談話方面通常要更勝一籌，我倒不是說這有什麼不好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>「呵，我是怎麼跟你說的，伊希？」她用腳尖親切地戳著小鳥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>「這確實很有意思，不過我覺得我們得打住了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>[喂伊希薩更多鯊魚肉吃。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>他貪婪地接受了你的食物，大口大口地嚼著鯊魚肉，渾身上下都帶著難以掩飾的快樂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>他懇切地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>「我這裡已經好像沒有鯊魚肉了，不好意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>伊希薩灰溜溜地跳走了，注意力轉向了別的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>「哦，你有事嗎船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>「不是你想引起我的注意嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>「你在想什麼事情嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>「不想？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>「什麼？我嗎？」麥婭笑了起來，抱著胳膊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>「好吧，如果你有時間的話，再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>「我有一些問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>「差不多算是吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>「你也知道，我當上船長也就是沒多久之前的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>「好吧，所以我才會和你說這些悄悄話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>你覺得，他在說自己是只非常乖的小鳥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>&lt;ispeech&gt;給你個忠告，靈視者。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>&lt;ispeech&gt;至少在這一點上，他和麥婭非常相像。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>他這次的眼神既堅定、又貪婪。他啄著你的東西，就像是在啄食腐爛的屍體一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>[喂伊希薩更多鯊魚肉吃。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>他張開翅膀，落在肉上，狼吞虎嚥地吃著，每一口都盡可能地往嘴巴裡塞滿了肉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>「我從來沒見過他這麼悲傷的樣子，下次還是別這麼逗他了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>「我們的關係應該變得更友好了吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>「這麼說吧，你已經達到能獲得我青睞的最低標準了。」
+
+麥婭抱起胳膊，咧嘴而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>「這已經幾乎比絕大部分人都要好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>「我們接下來會怎麼樣呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>「嗯……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>「嘿，別這麼急嘛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>「只要這不違反我們之前的協定，我猜我們兩個都希望能一直這樣下去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>「我知道我一直都有些猶豫不定，我現在也是如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>「用不了多久，你就會先說出你的看法，我就喜歡你這種熱切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>「你一開始確實讓我覺得猶豫不定。但我覺得，你開始有了這樣的想法，你覺得我們可以成為……某種關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>「對我來說，船上每個人都能吃好喝好很重要，就算是鳥也不例外。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>「那可是上等的鯊魚肉，希望他喜歡吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>「在我看來，這是個好船長該有的特點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>「這麼說吧，我喜歡隨身帶著生肉的男人，這一點我們可以說清楚。」</DefaultText>
+      <FemaleText>「好吧，我喜歡隨身帶著生肉的女人，這一點我們可以說清楚。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>「你的表現……我已經記住了。」麥婭咬著指甲，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>「表現？你剛剛是在考驗我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>「站在你面前的可是海軍的神槍手，她還有一大群兄弟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>「世上的一切都是考驗。但你餵飽了我的小鳥，你做得非常不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>「很高興你能這麼說。雖然在我看來有點太謹慎了，不過我還是很高興。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>「如果你打算靠這招忽悠我一直照顧你的寵物，那你可失算了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>「我只希望我能通過你下一次考驗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>「嘿，我們兩個不都是這麼想的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>「你呢？你喜歡什麼樣的人？」她歪過頭看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>「只要愛歐瓦拉對我有一點暗示，我就願意加入邪教。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>「我喜歡紀律嚴明的人，比如帕蕾吉娜那種。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>「我發現，神射手的魅力總是會讓我把持不住。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>「我喜歡那種自由自在而又有原則的人，比如塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>「我知道我有些猶豫，但我喜歡讓事情這樣發展下去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>「所以你終於相信，我是不會帶著我們撞上礁石的囉？很好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>「我知道我們正在漸入佳境，但我也希望能有些個人空間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>「說得沒錯，我覺得我們兩人都需要一些空間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>「你肯定能的，只要別把船開到海灘上去就行了……船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>「好吧，看來有些人完全理解偏了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>「不管怎樣，感謝你抽出時間陪我說這些話。還有……感謝你的鳥食。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>「這……好吧，這還真是不同尋常。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>「我們每個人都是慾望的奴隸，不是嗎？」她搖著頭，笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>「是這樣嗎？」她把手指放在唇上，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>「真是個有趣的選擇。」麥婭揚起了眉毛，臉上漸漸露出了微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>「像裘荻這樣，充滿熱情的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>「像泰克胡那樣的人，我是說……看他一眼，你就明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>「我盡量不去想這樣的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>「那種又熱心又務實的人，比如艾德爾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>「那種又專注又複雜的人，比如亞洛斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>帕蕾吉娜惹人注目地清了清嗓子，試圖尋找其它可以吸引她注意的東西。最後，她在盔甲上找到了一塊污漬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>「除了雷馬洛之外，咱們船長大概是第一個意識到我有思想、有道德的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>「我想，我也很喜歡你，靈視者。」她紅潤的臉上露出了燦爛又活潑的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>「天啊，看我一眼，你就明白了！」
+
+泰克胡笑了，長吁了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>「行吧。」艾德爾微笑著聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>「這樣的評價可比『無聊又死板的人』強多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>「我不怪你，生活總是會給你帶來這樣那樣的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>&lt;ispeech&gt;讓她成為你的夥伴……就目前為止，在我看來，事情很複雜。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>&lt;ispeech&gt;你並沒有對她展現出相同的熱情，我懷疑她能帶給你的，並不是你想要的東西。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>&lt;ispeech&gt;但你早就很清楚這一點了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>&lt;ispeech&gt;還是說……你並不清楚？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>[低語] 「清楚什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>&lt;ispeech&gt;或許這句話輪不到我來說，你遲早會明白的。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>[低語] 「清楚她是個刺客嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>&lt;ispeech&gt;想從事這種冷酷無情的職業，只有技藝高超的人才能做得很好。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>&lt;ispeech&gt;暫時先別去想這件事情了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>「一下子發生了這麼多事情，我在想我們能不能……天啊，我們能不能談談。」麥婭扶著額，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>「你在想什麼事情嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>「什麼事情都可以和我說，麥婭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>「或許以後再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>「你是個好船長，或許這句話並不足以表達我的意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>「以後再說？看來你真的以為，我們以後還會有很多時間。」
+
+她閉上了眼睛，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>「趁著我還沒把苦水倒給你聽……不如讓我請你喝一杯，怎麼樣？」麥婭環視了一下四周。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>「我們可以繞道去趟黃銅堡的軍官休息室嗎？我打算喝上一杯。」
+
+麥婭聳聳肩，歪著頭看你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>「如果有時間的話，到時候再去吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText>「謝謝你，船長，希望你不介意我在路上胡思亂想。」
+
+她長長地歎了口氣，點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>[把酒給她。] 「還是我請吧，敬忠誠的小鳥們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>[把酒給她。] 「來，敬我們自己一杯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>「願我們的敵人自取滅亡。」麥婭舉著酒杯，朝你眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText>「敬我們了不起的大船，還有更了不起的船員。」她拿起酒杯，在莊重的沉默中舉著杯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>「不如你直接和我說說發生了什麼事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText>「或許你不靠酒壯膽也能說得出來，但我做不到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText>她咕嘟一大口，把酒一飲而盡，歎了口氣，用手背擦了擦嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>「好啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText>她打了個響指，兩杯泛著泡沫的酒杯端了上來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>「普通的酒館不行嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>「我更喜歡這樣的地方……而且也沒有嘈雜聲，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>805</ID>
+      <DefaultText>「我想卸下那些並不必要的心事。」麥婭皺著眉，聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>806</ID>
+      <DefaultText>「我想告訴你……關於那片水域的一些事情。」麥婭搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>807</ID>
+      <DefaultText>「什麼事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>「你指的是昂德拉之臼吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>809</ID>
+      <DefaultText>「你指的是普遍意義上的大海嗎，還是說……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>810</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>811</ID>
+      <DefaultText>「我指的是昂德拉之臼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>812</ID>
+      <DefaultText>「不，我指的是昂德拉之臼。」她又喝了一大口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>813</ID>
+      <DefaultText>「我就知道你很聰明。」她又喝了一大口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>814</ID>
+      <DefaultText>「敬昂德拉之臼，還有在那之後的一切。」
+
+她心不在焉地舉起了空酒杯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>815</ID>
+      <DefaultText>「感謝貝拉斯，有你替我們指引方向，像活指南針一樣。」
+
+「我想說的是，無論有沒有指南針，努瓦泰人都會出海。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>816</ID>
+      <DefaultText>「這件事讓你很擔心嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>817</ID>
+      <DefaultText>「這就是你想說的事情嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>818</ID>
+      <DefaultText>「如果我的船上少了某位出色的指揮官，那我就什麼都不是了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>819</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>820</ID>
+      <DefaultText>「我覺得，我想說的是……關於不確定的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>822</ID>
+      <DefaultText>「但現在……放眼望去，四周都是大海。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>「我和[Player Ship]會對你始終如一。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>「有人喝多了，開始感傷了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>「會對死亡多愁善感，你真是個不幸的刺客。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>「如果事情不是這樣，我本該會登上那支艦隊，漫無目的地飄著。」
+
+「有可能也不會喪命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>「但現在看來……能在你的手下服役，我很感激，船長。」
+
+她舉起酒杯，凝視著你。當她意識到酒已經喝光了之後，她打了個響指，另一杯酒被端上來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>「馬屁精。」麥婭把拳頭舉到嘴邊，打了個嗝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText>「有趣的是，我知道你是說真的，但我還是擔心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>「有的時候我會懷疑，這並不是你真想要的結果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText>「當亡焰列島的各方勢力都在彼此爭鬥的時候，你卻在和一個神明角力，想要奪回你的靈魂。」
+
+「我會……」
+
+她舉起酒杯，頓了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>837</ID>
+      <DefaultText>「在這場瞬息萬變的戰鬥中，能成為你的船員，這讓我有種我也在掌舵的感覺。」
+
+她把一半的酒喝光了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>839</ID>
+      <DefaultText>「你想聽女人的心裡話嗎？侮辱她的職業就行了，混蛋傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>840</ID>
+      <DefaultText>「你想說什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>842</ID>
+      <DefaultText>「我來讓你看看，喝多了難過的人是什麼樣吧。」她打了個嗝，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>843</ID>
+      <DefaultText>「我們面前有這麼多不確定的事情，我們真的有餘地做……&lt;i&gt;這種&lt;/i&gt;事情嗎？」
+
+她舉起酒杯對著你，晃動著杯子裡的酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>844</ID>
+      <DefaultText>「沒有餘地可以創造餘地，我知道這並不容易。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>845</ID>
+      <DefaultText>[親吻她。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>846</ID>
+      <DefaultText>「我覺得是這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>847</ID>
+      <DefaultText>「我們還有更優先的事情要做，這件事比我們更加意義重大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>848</ID>
+      <DefaultText>「我認識的麥婭並不害怕不確定的事情，她會計算它們，就像開火之前計算風向一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>849</ID>
+      <DefaultText>「如果下次我再變成這樣的話，我得讓你陪在我旁邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>850</ID>
+      <DefaultText>「服從你的命令。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>851</ID>
+      <DefaultText>「好吧，我看我要失業了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>852</ID>
+      <DefaultText>「盡可能地努力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>853</ID>
+      <DefaultText>「我看得出來，有些東西確實值得靠雙手去爭取。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>854</ID>
+      <DefaultText>「我覺得這麼做不會有用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>855</ID>
+      <DefaultText>「每次都是這樣，每當我想瞄準視野範圍之外的東西時，準頭就會消失無蹤。」
+
+「我不能讓這種事情發生。」
+
+麥婭歎了口氣，皺起了眉。她打了個響指，又要了一杯酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>856</ID>
+      <DefaultText>「我們已經找過樂子了，我現在得繼續回去工作了。」
+
+「另外……我從來沒和我的老闆提起過我們的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>857</ID>
+      <DefaultText>「你這麼想，我感覺很遺憾，我還以為我們的關係要更特別呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>858</ID>
+      <DefaultText>「我還有其他問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>859</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>861</ID>
+      <DefaultText>「總之，我們確實是某種關係。至於酒錢就別擔心了，記在我的賬上就行了。」
+
+她朝侍者做了個手勢，不再和你說話了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>862</ID>
+      <DefaultText>「呃……我喝得已經像個酒桶了。我應該用更健康的方式來理清思緒，比如織毛衣或者做標本。」
+
+她拍著肚子，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>864</ID>
+      <DefaultText>「所以說，你&lt;i&gt;就是&lt;/i&gt;想忽悠我替你喂伊希薩！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>865</ID>
+      <DefaultText>「沒錯……上好的鯊魚肉可沒那麼容易得到！」麥婭摀住了嘴，不讓自己笑出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>866</ID>
+      <DefaultText>你的身子傾了過去，你的唇壓在了她的唇上。最開始，你感覺就像是在親一塊木板一樣。但到最後，她軟了下來。
+
+長吻結束了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>867</ID>
+      <DefaultText>「這個吻讓我渾身都酥了，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>「我明白一個吻應該是怎樣的感覺，船長。你的心並不在我身上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText>「每一杯酒都是我真正的心聲，船長，不要品一口就走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>「船長……只要我們一起掌舵，這艘船就彷彿永遠都不會沉一樣。我很喜歡這種感覺。」
+
+「伊希薩也很喜歡，雖然他怎麼想並不重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>他朝艾德爾快速看了一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>他朝塞拉芬快速看了一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>[靜靜地喝光你的酒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>[乾杯] 「敬我們的艦隊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText>[乾杯] 「祝我們馬到成功。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>「我們來這裡做什麼，麥婭？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>「等我準備好，你就知道了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>「敬每個在波濤之下喪命的朋友。」麥婭把酒杯舉得更高了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>「願俄撒斯一步沒走好，摔倒在海溝裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText>[乾杯] 「敬[Player Ship]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>883</ID>
+      <DefaultText>「還有每一位在哀歌女士的背上航海，違背她意志的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText>「我之前並不是這麼想的，我是在想……」她打住了話頭，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>888</ID>
+      <DefaultText>「你說得沒錯，從一開始，我大概就明白這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText>「謝謝你這麼做，麥婭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText>「這件事就不用提了。我是說真的，別提。要是被人知道我知情不報，我可能就要有麻煩了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText>「或者是航海，我們以後可有大把的時間可以航行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText>「或者練習瞄準。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>894</ID>
+      <DefaultText>「你可以先從給伊希薩餵食開始。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>895</ID>
+      <DefaultText>「沒錯，沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>896</ID>
+      <DefaultText>「在海浪的起伏之下射擊海鷗，我應該能做得到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>897</ID>
+      <DefaultText>「我以前也想過。」
+
+被突如其來的目光注視著，伊希薩揚起頭，叫了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>「來吧，我們出發吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>899</ID>
+      <DefaultText>猶豫一會兒之後，麥婭抱住了你。她緊緊地抱著你，就像是在暴風雨中緊緊抱住桅桿一樣。
+
+鬆開你之後，她喘了幾口氣，整理好了髮髻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>「我還有其他問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>902</ID>
+      <DefaultText>猶豫一會兒之後，麥婭抱住了你。她緊緊地抱著你，就像是在暴風雨中緊緊抱住桅桿一樣。
+
+鬆開你之後，她喘了幾口氣，整理好了髮髻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>「好了，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>904</ID>
+      <DefaultText>「抱歉，我……我並不是沒碰過別人，我只是不太習慣一場旅途結束之後，還能有人陪在我身邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>905</ID>
+      <DefaultText>「我不想讓這一切結束。你想出去散散步，享受一下屬於我們兩個的時光嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>「或許是個不錯的主意。等我的腦子清醒之後，我肯定能想出個更好的注意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>「聽起來不錯，麥婭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText>「或許下次再說吧，我們有很多事情得好好考慮考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>「你怎麼樣都可以，船長。等到了我們的房間之後，你可以盡情地考慮。」
+
+她清了清嗓子，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>910</ID>
+      <DefaultText>「我們可以進去，聊聊天。如果最後變得不僅僅是聊天，我們也很清楚會變成什麼樣子，為什麼會變成這個樣子。」
+
+她抱著胳膊，等待著你的回應，臉上的表情既審慎又好奇。
+
+伊希薩開始整理起羽毛，不過看起來像是把臉藏進了羽毛裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>「這裡有一間特別的房間，用來招待高級指揮官和他們的客人。」
+
+「其實更加像是衣櫃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>「我覺得，我們可以享受一下比酒館裡面髒行軍床更好的大床。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>913</ID>
+      <DefaultText>「看看是誰突然就心急起來了。」麥婭笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>915</ID>
+      <DefaultText>猶豫一會兒之後，麥婭抱住了你。她緊緊地抱著你，就像是在暴風雨中緊緊抱住桅桿一樣。
+
+鬆開你之後，她喘了幾口氣，整理好了髮髻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>916</ID>
+      <DefaultText>「船長。」她清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>918</ID>
+      <DefaultText>「如果沒有你陪在我身邊，我連半個船長都算不上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>919</ID>
+      <DefaultText>「這種話相當於慫恿手下造反。」麥婭不滿地打了個響舌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>「怎麼？我已經說了自己的想法。你肯定也有不少想說的吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>922</ID>
+      <DefaultText>「我喜歡你，麥婭。我們就等著瞧吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>「我很榮幸，但我們還是要保持專業精神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>「榮幸之至，船長。」麥婭的嘴邊微微露出一絲笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>「伊希，你就不能啄一下泰克胡嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText>伊希薩好像明白似的眨眨眼，慢慢轉向泰克胡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>928</ID>
+      <DefaultText>「要我說，這條鯊魚會決定誰在何時吃掉他。」
+
+泰克胡雙手抱臂，低頭怒視著伊希薩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>「好吧。看來&lt;i&gt;有人&lt;/i&gt;一直在做晨練運動呢。」
+
+麥婭從眉頭上抹下一滴汗珠，清清喉嚨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>934</ID>
+      <DefaultText>「作為一名船長、靈視者以及天知道什麼之類的工作計肯定是件飢渴的工作。做得好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>935</ID>
+      <DefaultText>「你做得也很好，士兵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>「噢。下次放輕鬆點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText>「在這裡每天掙扎求生還是很有助於保持身型的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>938</ID>
+      <DefaultText>「說得夠多了，士兵，還有工作等著我們呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>939</ID>
+      <DefaultText>「這我不敢保證，船長。你最好得跟緊我的節奏。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>「聽到長官這麼說真令人開心啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText>「該揚帆起航了，看看亡焰列島又給我們安排了什麼。」
+
+看起來心滿意足的麥婭雙手交叉掰著指節。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>「好了，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>「難道我會不知道嗎！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

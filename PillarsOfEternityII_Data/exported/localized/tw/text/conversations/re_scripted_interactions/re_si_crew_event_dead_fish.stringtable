@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_dead_fish</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>甲板上的爭吵讓你未注意到船的輕微搖晃以及地平線上廣闊的藍色。
+
+「半數的魚都死了！」[Specified 0]驚叫道，「我們最好把捕到的整批魚全扔掉，以免船員吃了也死翹翹！」
+
+「我們拖上來的時候它們看起來還活蹦亂跳的！」[Specified 1]面對甲板上的魚堆動作誇張地反駁道。「魚離開水自然會死！魚本來就是這樣的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[檢查魚有無疾病跡象。] 「讓我們檢查一下捕獲的魚群有沒有生病。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我們可扔不起食物。把魚放在船艙中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「還是把魚扔到海中吧。我不能拿船員的健康冒險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>好幾條魚鱗片變色，肚子腫脹——明顯生病了。病變的肉可能讓船員生病。
+
+「明白嗎？」[Specified 0][Specified 1]悶悶不樂地問道。「你要把這些垃圾給我們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「明白嗎，[Specified 0]？船長知道我們不可能就這樣把完好的食物給扔了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「明智之舉，船長。」[Specified 0]高興地點頭。
+
+兩名船員舉起魚桶，把魚全部倒入大海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>沒有明顯的疾病跡象——沒有流膿的瘡瘍或眼睛流血——可能有未被察覺的細微魚病跡象。
+
+「船長，如果我們留下這些魚，你的船員可能數天不能工作。」
+
+「你比我奶奶操心的事兒還多，[Specified 0]沒有疾病跡象。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>沒有變色、開放性瘡瘍或肚子腫脹。魚看起來非常健康。
+
+「我就說沒什麼危險的，」[Specified 1]幸災樂禍，雙手叉腰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0]目瞪口呆。「你是開玩笑嗎，船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你覺得呢，[Player Animal Companion]？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Player Animal Companion]走近魚桶，嗅了嗅魚，抓起一條，像禮物一樣遞給你。[Specified 1]盡情大笑。
+
+「看來我們得到一名船員贊成了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Player Animal Companion]嗅了嗅魚，然後從魚桶抬起他們的鼻子，搖頭向你示意有問題。[Specified 0]歎息道，
+
+「看起來，相比我們的一些水手同胞，[Player Animal Companion]就是聽不進去勸了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你聽見我怎麼說的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「想想還是把它們扔了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0]歎了口氣。「（如果）我們留下這些魚，船長，極有可能——」
+
+「貯藏起來，」[Specified 1]叫道。「船長的話就是法律。讓我們把魚放到下面去。」
+
+兩人抬起魚桶搬向艙口，留下你返回船尾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 1]向[Player Animal Companion]看去。「我像旁邊的水手一樣飢餓，或許更加飢餓，但想想[Player Animal Companion]的反應？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1]使勁點頭。「我知道之前我是想保留這些魚，但那是在你指出魚的肚子和鱗片等等問題之前。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[清除魚的毒質。]「我們將解決這個問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>在魚桶上方展開你的雙手，你召喚周圍空氣中之精粹，驅使它穿過魚桶，消除裡面的疾病。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我們可扔不起食物。把魚放在船艙中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「還是把魚扔到海中吧。我不能拿船員的健康冒險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>通過幾聲低語，你叫來[Player Animal Companion]，他來到甲板上站在你面前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>雙手展開在魚桶上方，[Specified 2]召喚你周圍空氣中的精靈，驅使它們穿過魚桶，化解了裡面的疾病。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「你會治好有病的魚？」[Specified 0]眨著眼睛問道。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

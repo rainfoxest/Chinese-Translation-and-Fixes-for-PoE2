@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_02_cv_memory_hoarder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你面前的東西塌陷成一堆皺縮的血肉，內部還有腐爛的氣息噴散出來。
+
+精粹在你身旁流動著，有聲音在你耳邊不斷迴響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「入侵者！」這怪物的某一張大口發出了聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你是來救我們的嗎？」另一張面孔嘶鳴著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你入睡時不會做夢，」第三個聲音說道，宛如耳語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你必須得幫幫我們！我們被困在這了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你看到了不可視之物！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「放了我們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「告訴我你想要什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「別再胡言亂語了，說點有用的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[攻擊]「別胡攪蠻纏了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「永遠入夢吧，沉睡者！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「英格維仙的恐怖毫無邊界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「啊，它看起來並不友好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「告訴我該瞄準哪張臉就行了，船長。」麥婭嚥了下口水，眼神在每張擔憂的臉上游移。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「可憐的傢伙們。也許殺了它們反而是種解脫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「娥狄卡在上，船長……也許我們該給它們一個解脫？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「船長，這個聲音！我們真不該到這裡來的！」泰克胡將雙手摀住耳朵和眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「讓我們把它們渡向光明吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我感覺這既非一股意識又非多重意識。更像是……一團嗡嗡響的蚊蠅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「別激怒它，費西娜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我本想能找到這個糟糕之地的監管者，但似乎我們只找到了又一名囚犯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你能聽懂它在說啥嗎？」雷科厭惡地撇了撇嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我們還是別管它快走吧。你說這東西不會跟上來吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你踏入了無人應至之地！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「求求你了！只要你能為我們奪回……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「並沒有什麼救贖。只有淒厲的哭喊聲迴盪在這處停屍坑中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>面目可憎的怪物佇立在你身前。它的肢體——或者說不過是一團肌肉狀的觸手——皺縮蠕動著，多張面孔有的在呵欠有的在發牢騷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「你一定是來救我們的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「視而不可視。已視。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「退後！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「有什麼能為你做的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「只要你們能先統一意見……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[將手伸向武器。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[攥緊拳頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「閉嘴！或者我來讓你們閉嘴！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我們回望。望到你。望穿你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[離開]「沒問題，我正準備走呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我在努力！你不懂嗎？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「船長，我們之前也聽過這東西。」費西娜摀住一隻耳朵向後退了幾步。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「這是藏品館的聲音。瘋狂的代言者。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>你突然清楚地看到一處大孔張開，沾滿血污的捲鬚從深處不斷揮舞著。有樓梯從沃艾珥巨大的身體中出現，而其受到呼喚的源頭是一段不斷脈動的記憶——或者說是被獻祭——位於海量書籍中的一台機器中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>視景逐漸消失，只留你不斷發抖著。你感覺靈魂中多了一把鑰匙。如果你能找到這台機器——記憶存儲儀——你就能啟動它。
+
+但你仍不知道哪一段記憶才能開啟通往深淵的路。&lt;i&gt;那個&lt;/i&gt;被費歐雷吉佔有了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>視景逐漸消失，只留你不斷發抖著。現在你清楚如何操作繕寫室內的記憶存儲儀了——包括它所需要的記憶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「尖叫聲停止了，但我耳中的聲音還在迴響。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「讓我想起自己曾經參加過的一次婚禮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「什麼樣的邪惡魔法才會創造出這樣的怪物？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「終於安靜下來了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我們又消滅了眾神創造出的一件邪惡工具。做得不錯，靈視者。」
+
+她拭淨自己武器上的血跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「這樣邪惡而腐爛的靈魂還是趁現在淨化了比較好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我也是這麼想的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「它裡面的記憶是什麼，被詛咒之殼困住的人嗎？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「你做得很好，靈視者。儘管我們沒法補償它們在這裡受到的虐待，但……已經足夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「眾神怎麼會允許這種事情發生？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「允許？孩子，眾神就是這件事的&lt;i&gt;始作俑者&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「完事了？我們可以走了吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「真的嗎？&lt;i&gt;那就是&lt;/i&gt;神軀的鑰匙嗎？這真是，太可笑了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>精粹在你的身旁流動著，你在其中感受到了某種珍貴之物的氣息，像是這東西的核心——或是&lt;i&gt;被它吞噬掉&lt;/i&gt;的東西。
+
+它滑入了你體內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「我們拿到了需要的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「那個法師提到了昴拉的名字。我們接著找她吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「還有誰準備要離開這個邪惡之地了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[將它甩掉。]「還不算最糟的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[輕聲吹著口哨。]「哇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>你的聲音迴盪在黑暗中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我是從[Player Culture]來的對吧？我……應該是吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>你的頭在打轉，視野一片模糊，逐漸失去意識。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>你的視線有點模糊，但你搖搖頭將對方說的話全部拋開。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

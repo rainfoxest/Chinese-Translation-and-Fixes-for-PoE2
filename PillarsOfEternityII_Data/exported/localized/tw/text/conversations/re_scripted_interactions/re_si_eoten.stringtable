@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_eoten</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>114</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你意識到你一開始誤以為是幾塊大石頭的東西，實際上是雙頭魔——兩個頭的怪物。你看著他們當中的一個漫不經心地舉起一塊巨石扔進海中。雙頭魔狂笑，他們的笑聲粗啞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[觀察雙頭魔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[用能力致盲雙頭魔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[偷偷接近雙頭魔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你一邊向前衝，一邊拔出武器，沙中的雙頭魔步履蹣跚。它憤怒咆哮，喚醒了它的同伴，迎擊你的攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>沙中的雙頭魔驚訝地咕噥著。它向兩邊看看，然後抬起脖子盯著天空。它在自己的臉前揮舞著手，困惑地咕噥著。
+
+拿著掃帚的雙頭魔嘲笑它瞎了的同伴，然後目光落到你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你悄悄穿過沙地，讓粗大的柱子作為你和雙頭魔之間的掩護。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>當你朝著雙頭魔移動，它的一個頭猛地向你咬來，可能已經從它的眼角餘光看到了你的移動。
+
+這頭怪獸以驚人的速度從他埋在沙中的胯部掀起一大塊沙石，向你扔來。雖然沙塊在空中解體，但你仍然被雙頭魔跨下的沙子直接打在臉上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>雙頭魔第三顆醒著的頭怒視著另外那顆睡著的頭，用掃帚猛扇它。噴了一下鼻息，第二顆頭眨眨眼醒了，咆哮起來。雙頭魔空著的手扇了第一顆頭一巴掌。
+
+兩個頭彼此咆哮，但離這麼遠，你聽不確切他們在說什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>沙中的雙頭魔嘲笑拿著掃帚的雙頭魔，用粗壯的手指指著它。後者用腳爬起來，邁著沉重的步伐走向坐在沙中的雙頭魔，那個雙頭魔笑得更大聲了。
+
+拿著掃帚的雙頭魔向下朝著沙中的雙頭魔咆哮，然後開始把它腿上的沙掃掉，引發一聲狂怒的大叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>第二隻雙頭魔直坐在太陽下，腿埋在沙中。它輕拍沙子，用它沉重的手掌把沙子堆起來。雖然看起來它專注於玩耍，但你懷疑它的四隻眼睛應該可以很好地察覺周圍情況。
+
+第三隻怪獸用一把掃帚擦著它的背，一張洞穴般的巨嘴打了個哈欠，另一張嘴安詳地發出鼾聲。
+
+你沒有看到其它雙頭魔，但可能有其它的潛伏在尖石之間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>道路蜿蜒進入山中，僅比馬車寬一點點。陡峭的懸崖下面是波濤洶湧的大海，海水拍打著岩石濺起白色的泡沫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>白沙朝著海上細細的地平線延伸，偶爾有些尖石頭從地面突起，參差不齊。你注意到在前方亂七八糟的岩石間有動靜。
+
+一群雙頭魔正在石柱間休息。其中一隻雙頭怪物在打盹，它的下巴垂到了毛絨絨的胸部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[對魔物說話。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[尋找替代路線。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[偷偷接近雙頭魔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>難以看清楚，但好像有一道壁架沿著懸崖邊緣蜿蜒，繞過雙頭魔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0]指出一條沿懸崖邊緣蜿蜒的狹窄壁架，可以繞過雙頭魔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>看起來除了從它們中間穿過去，沒有繞過雙頭魔的路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>當你接近時，雙頭魔發出咕咕嚕聲。抵著石頭，他們站了起來。
+
+「有食物了！」其中一個高興地大叫起來。它們用肩膀扛起沉重的樹幹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你可嘗試通過，但如果掉到下面的水中，將必死無疑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[嘗試通過。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你緊貼著崖壁，以免被雙頭魔看到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 1]使你頂著崖壁，你讓身體貼著石頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你慢慢沿著懸崖前進，每一步都更為小心，這時上方傳來的沉重咕嚕聲引起了你的注意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Specified 1]引導你沿著懸崖前進，每一步輕手輕腳，放低身姿，這時上方傳來沉重的咕嚕聲引起了你的注意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>雙頭魔向下怒視著你，其中一隻用香腸似的手指朝下面指著你。另一隻發出咆哮，你感覺好像要把你從懸崖突出的石頭上推下去。
+
+隨著它們接近，石頭開始震動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你慢慢接近雙頭魔，看著前面狹窄的小道，你不確定自己能不能悄無聲息地接近這些傢伙……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「如果你讓我過去，我可以給你些食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「別惹我們，怪物，否則我讓你葬身大海！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你知道你的朋友瞞著你把食物藏起來，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>每隻雙頭魔撓撓它們的腦袋。「或許我們應該讓這小傢伙過去？」
+
+「不值得為了點食物惹麻煩。何況還有鋒利的刀和飛快的箭等著我們。」另一隻點點頭。
+
+它們轉身爬向更高的壁架，讓你安全通過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>雙頭魔對你的虛張聲勢咯咯笑了起來。「軟蛋說硬話，但不管怎樣，他的皮和骨頭都得斷送在這裡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>雙頭魔彼此注視片刻。「洗耳恭聽，」其中一隻說道，「你可以給我們什麼呢，小傢伙？」
+
+「最好有點吸引力，」第二隻咕噥著說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>一隻雙頭魔看看另一隻，撓著腦袋。「你怎麼說？」
+
+另一隻抓抓下巴想了一下。「我覺得我們現在吃了他們，再把他們的食物留到後面享用。」
+
+第一隻發出低沉的咯咯笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「什麼？！」兩隻雙頭魔一起咆哮起來，看著彼此。「你藏食物？」它們問道。「沒藏！」它們齊聲叫道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我表示懷疑，」其中一隻怪獸撓著肚子說，「幾個星期都沒食物。」
+
+另一隻慢慢搖著頭有些傷心地說道。「不過現在有食物了。肉軟，汁多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>隨著它們向前靠近，石頭開始顫動……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「如果你讓我過去，我可以給你些食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「說到食物，你不能相信雙頭魔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我的朋友親眼所見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「確實！」一隻雙頭魔大聲說。「你&lt;i&gt;不能&lt;/i&gt;相信雙頭魔！」
+
+「你&lt;i&gt;就是&lt;/i&gt;一個雙頭魔！另一隻大聲回應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「獨佔了一整根火腿！」[Specified 3]對著怪獸大叫，使勁點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「獨佔了一整根火腿！」[Specified 3]對著怪獸大叫，使勁點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>其中一隻雙頭魔猛揍另一隻，重重一擊擦過笰二隻的肩膀，打在岩石上，懸崖搖晃。
+
+另一隻抓住攻擊的那隻，兩個撕扭在一起。石頭掉落在你旁邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>第一隻雙頭魔腳下一滑，一瞬間好像是暫停在絕壁的邊緣，四肢翻在空中。
+
+當它下落時，它抓住了第一隻的胳膊，兩個傢伙一起掉入下面的大海。
+
+小道異常的安靜……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[提供甜蜜堅果。]「這又美味又健康。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[提供硬麵包。]「我這裡有一些好吃的……麵包……。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[提供船長的美食。]「我有各種美味海鮮可以給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「轉念一想……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「這隻野豬崽如何？」那麼新鮮，還在撲騰亂動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>雙頭魔彼此注視片刻。「洗耳恭聽，」其中一隻說道，「你可以給我們什麼呢，小傢伙？」
+
+「最好有點吸引力，」第二隻咕噥著說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>你到了壁架中途。你可找出一處突出的岩石，借此回到小道。但這段路程看起來跌宕起伏而險峻，比你以往碰到的情況都要更加艱難。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[提供陳年鯊魚肉。] 「你喜歡鯊魚肉嗎？我有一些精製陳年鯊魚肉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[提供蔬菜。]「看起來你可能想吃些蔬菜。從涅克塔卡新鮮採來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「不！」雙頭魔搖著頭。「這些我什麼都不吃。要更好的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「不！」一隻雙頭魔大叫道。「我們願意重新考慮的意見才是最終的想法。我們重新考慮的結果是主意不變。我們現在吃了你！」
+
+第二隻咯咯笑著，一隻手撓著肚子，另一隻手舉著充滿威力的棍棒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「小豬？」雙頭魔抓起野豬崽，豬崽尖叫著，蹄子在空中撲騰著。「小豬！」它把獎品遞給另一隻雙頭魔。它伸出手去接，但第一隻雙頭魔把它的手拍開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「船長！手老實點！」
+
+泰克胡吃驚後退。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>雙頭魔嗅著肉塊。「臭魚。」它使勁聞了聞，然後點了點頭。「臭魚就像海中的雙頭魔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>雙頭魔用手抓起海鮮，塞進它們的幾個胃中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「麵包？」雙頭魔的鼻孔——一共四個——因吸氣而擴張開。「不……&lt;i&gt;硬麵包&lt;/i&gt;。你要給我們吃硬麵包？！」崖壁隨著這聲咆哮的提問而搖晃。
+
+第二隻雙頭魔捶打著自己的胸脯。「我們將用這小傢伙的血來軟化硬麵包！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「成交。滾吧，小傢伙，否則我們又餓了……」
+
+它們爬上懸崖，讓出了你前面的路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>隨著你腳下的石頭移動，你的胃在翻騰。有那麼的一刻，你失重了，然後你墜向大海。出於絕望和本能，你的手胡亂揮舞，你的手指抓到了你上面的壁架。
+
+大海在下面湧動著……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>你不由自主喘息著，岩石垮塌，使得[Specified 0]從壁架墜落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>你返回小道，因剛才使勁用力而汗流滿面顫抖著，總算回到了踏實的地面。
+
+雙頭魔仍然潛伏在上面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>你沿著壁架一步一步、一寸一寸移動。時間好像融化了，在憤怒的大海上方延伸為永恆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>你沿著壁架一步一步、一寸一寸移動。時間好像融化了，在憤怒的大海上方延伸為永恆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>終於，你到了壁架的另一端。你爬上小道，汗流滿面，肌肉發抖。
+
+雙頭魔仍然在上方，遺忘了你，你前面沿懸崖蜿蜒的小道暢通無阻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[爬上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「救命！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你呼吸了幾口氣，然後使勁對抗重力，你的腳在石頭上亂蹬，慢慢爬上了壁架。上了壁架之後，你休息了幾分鐘恢復力氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>你呼吸了幾口氣，然後使勁對抗重力，你的腳在石頭上亂蹬，慢慢爬上了壁架。上了壁架之後，你休息了幾分鐘恢復力氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>伴隨著痛苦的哼聲使勁一拉，[Specified 3]把你拖回了壁架。你抓住岩石，汗流滿面，刺激著你的眼睛。
+
+你不敢往下看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>伴隨著痛苦的哼聲使勁一拉，[Specified 3]把你拖回了壁架。你抓住岩石，汗流滿面，刺激著你的眼睛。
+
+你不敢往下看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>你的肩膀因剛才的使勁用力而疼痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>你沿著壁架一步一步、一寸一寸移動。時間好像融化了，在憤怒的大海上方延伸為永恆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>臉上抽搐著，[Specified 3]按摩著他的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>臉上抽搐著，[Specified 3]按摩著她的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>死命一抓，[Specified 0]成功抓住壁架邊緣，一隻手掛在那裡，下面是憤怒咆哮的大海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>使勁一拉，[Specified 4]幫助[Specified 0]爬回了壁架。兩人掛在峻峭的巖面上，汗流滿面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「救[Specified 0]！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[拉[Specified 0]上來。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[用魔法強化[Specified 0]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[給[Specified 0]繩索。]「抓住！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Specified 4]一手抓住[Specified 0]的手腕，一手抓住衣服。兩人喘息著一起奮力把[Specified 0]拉回壁架。
+
+[Specified 4]握著的手逐漸變得無力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>你使出每塊肌肉的力量，把[Specified 0]拉回了壁架。你們倆吊在那裡，下巴滴著汗水，大口呼吸著海風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>你一手抓住[Specified 0]的手腕，一手抓住衣服，你試圖把你的同伴拉回壁架，但你的肌肉不聽使喚。你的手指火燒火燎地疼痛。
+
+最終鬆開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Specified 0]放開壁架，用一隻手去抓繩索。你正打算將繩索纏繞在你身上，此時[Specified 0]握著的手鬆開了——隨著一聲驚恐的尖叫，你的同伴掉向大海。
+
+你的手指抓緊繩索，但繩索撕扯著你的手掌，燒灼著你的手。你看到鮮血從你的手指間流了出來……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Specified 0]放開壁架，用一隻手去抓繩索。你正打算將繩索纏繞在你身上，此時[Specified 0]握著的手鬆開了——隨著一聲驚恐的尖叫，你的同伴掉向大海。
+
+你的手指抓緊繩索，但繩索撕扯著你的手掌，燒灼著你的手。你看到鮮血從你的手指間流了出來……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>你詠唱著，把精粹輸送進入[Specified 0]。微弱的光芒照射在你懸空的同伴身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Specified 5]有節奏地吟唱，一隻手抓住石頭，另一隻手打開並朝向[Specified 0]。微弱的光芒照射在後者身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>使勁一拉，[Specified 4]幫助[Specified 0]爬回了壁架。兩人掛在峻峭的巖面上，汗流滿面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>你使出每塊肌肉的力量，把[Specified 0]拉回了壁架。你們倆吊在那裡，下巴滴著汗水，大口呼吸著海風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>……然而你忍著劇痛抓得愈發緊，繩索終於停了下來。你冒險向下看了一眼，看到[Specified 0]掛在繩子的另一端。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>……繩頭從你的手中滑了出去。隨著繩頭在你面前的空中慢慢起伏不定，時間幾乎凝固了。然後繩子滑了出去。
+
+[Specified 0]掉了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Specified 0]尖叫著從壁架消失，掉了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>當[Specified 0]引導你朝著雙頭魔移動，它的一個頭猛地向你倆咬來，可能已經從它的眼角餘光看到了你們的移動。
+
+這頭怪獸以驚人的速度從他埋在沙中的胯部掀起一大塊沙，向[Specified 0]扔來。雖然沙塊在空中解體，但你的同伴仍然被雙頭魔跨下的沙直接打在臉上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>雙頭魔的咆哮越來越大聲，吵醒了第三隻雙頭魔。當它眨眨眼睛睡去時，玻璃珠般的眼球裡閃現的寒光直射到你身上。隨著一聲暴怒的咆哮，它站了起來。
+
+其它雙頭魔注意到了你。「食物！」它們齊聲咆哮道。
+
+這些怪物朝你奔來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Specified 0]引導你悄悄穿過沙地，讓粗大的柱子作為你和雙頭魔之間的掩護。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「食物！」雙頭魔咆哮道，引起了它的同伴的注意。
+
+怪物向你奔來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[繼續觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「確實！」一隻雙頭魔大聲說。「你&lt;i&gt;不能&lt;/i&gt;相信雙頭魔！」
+
+「你&lt;i&gt;就是&lt;/i&gt;一個雙頭魔！另一隻大聲回應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>你呼吸了幾口氣，然後使勁對抗重力，你的腳在石頭上亂蹬，慢慢爬上了壁架。上了壁架之後，你休息了幾分鐘恢復力氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>你呼吸了幾口氣，然後使勁對抗重力，你的腳在石頭上亂蹬，慢慢爬上了壁架。上了壁架之後，你休息了幾分鐘恢復力氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>你使出每塊肌肉的力量，把[Specified 0]拉回了壁架。你們倆吊在那裡，下巴滴著汗水，大口呼吸著海風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>你使出每塊肌肉的力量，把[Specified 0]拉回了壁架。你們倆吊在那裡，下巴滴著汗水，大口呼吸著海風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>你一手抓住[Specified 0]的手腕，一手抓住衣服，你試圖把你的同伴拉回壁架，但你的肌肉不聽使喚。你的手指火燒火燎地疼痛。
+
+最終鬆開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

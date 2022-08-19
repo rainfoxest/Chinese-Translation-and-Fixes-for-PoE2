@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_survivor_skull</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>求生之面的主母頭骨之獵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>獲得&lt;b&gt;主母頭骨。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將&lt;b&gt;主母頭骨&lt;/b&gt;交回&lt;b&gt;回憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>求生之面希望我前往&lt;b&gt;涅克塔卡&lt;/b&gt;尋找某個&lt;b&gt;倖存下來的&lt;/b&gt;人或物。我可以將自己發現的東西交回以便取悅野豬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>因加里發現我的尋找的東西可在涅克塔卡的&lt;b&gt;死者祭壇&lt;/b&gt;中找到。那可能是指城市的&lt;b&gt;懸墓。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我找到了懸墓中的主母頭冠——儘管遇到了一些意想不到的困難。如果我想利用它的精神史，必須將其送回&lt;b&gt;回憶水池&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我將主母頭骨新增到回憶水池中，解鎖了競技場中的額外挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

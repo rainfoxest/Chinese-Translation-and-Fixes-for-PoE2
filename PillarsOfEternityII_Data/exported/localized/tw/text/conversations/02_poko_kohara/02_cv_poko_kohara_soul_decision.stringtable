@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_poko_kohara\02_cv_poko_kohara_soul_decision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你制伏了狂暴的靈魂，將他們撕成了構成他們精粹的微粒。
+
+在這團精粹雲霧之後，你感覺到了輪迴的牽引，且引力不斷增強。這根支柱依然與自然流動阻隔著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[將自然流動的精粹重新引導入魂珀，使其重新變為光魂珀。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[引爆魂珀，摧毀支柱。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你將精粹推過越來越寬的通道，流向靈界。它們猛烈翻騰，打著旋流向遠方。突然，你周圍的以太變成了翻騰的漩渦。
+
+你趕在這股力量將你的靈魂捲走之前向著你的身體前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你將被腐化的精粹變為了毀滅性的力量，撕裂你周圍的空間。
+
+你趕在自己也被毀滅之前向著你的身體前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>精粹中湧動著力量。將其送入輪迴能恢復你周圍的魂珀。
+
+將其打碎會引爆力量的脆弱平衡，摧毀支柱。
+
+無論你作何打算，靈界的引力都在變得越來越強。你必須盡快做決定。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_si_wall_climb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一堵白色的石牆朝天空的方向伸展著，就像海中升起的浪潮一樣。在舷窗堡壘的牆垛和底部的基巖之間，開著有一扇拱形的窗戶，帶著鹹味的海風吹了進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>一堵白色的石牆朝天空的方向伸展著，就像海中升起的浪潮一樣。在舷窗堡壘的牆垛和底部的基巖之間，開著有一扇拱形的窗戶，帶著鹹味的海風吹了進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[檢查要塞牆壁。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[爬到開著的窗戶處。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[爬到海岸下面。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[爬到開著的窗戶處。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[朝窗戶的方向扔出抓鉤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[放下繩子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>鋸齒狀的尖石不時地從石壁上突出來。半風化的岩石看起來非常尖銳，但依然很結實，或許能支撐一個人的重量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>一陣海霧打在了你臉上。陣陣烈風朝堡壘吹來，呼嘯著穿過直指天際的城垛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>窗戶雖然很高，但嵌在堡壘的巖壁中，非常結實。如果力氣夠大，能把抓鉤扔到上面，就可以抓著抓鉤爬上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你往上爬著，一部分支撐點不堪重負崩塌了，但還有一部分很結實。就這樣，你一點一點向上爬著，離上面的窗戶越來越近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你一馬當先爬在前面，探索著爬上去的道路與支撐點。你手腳並用抓著支撐點，其餘的人也調整了步伐，跟在你身後一個個爬了上來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你一馬當先爬在前面，探索著爬上去的道路與支撐點。你手腳並用抓著支撐點，其餘的人也調整了步伐，跟在你身後一個個爬了上來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你甚至連汗都沒出，就爬進了窗戶，遁入了黑暗之中。你站在那裡，撣掉了手上的灰塵，環視著周圍的情況，</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>攀爬的過程比你想像得更加漫長，你的肌肉開始酸痛，已經快要支撐不住了。當你終於爬到窗戶上時，你已經被汗濕透了，渾身發顫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你順著繩子滑到了岩石遍佈的海灘上，在離繩端還有幾英尺的地方跳了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你朝著海岸線走去，腳下傳來了貝殼咯吱咯吱的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你把抓鉤扔進了敞開的窗戶裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>抓鉤緊緊地抓住了巖壁，你沿著繩子爬了上去，爬到了一個黑乎乎的房間裡。你站在那裡，撣掉了手上的灰塵，環視著周圍的情況，</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[朝窗戶的方向扔出抓鉤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你用力甩了幾下之後，把抓鉤扔到了窗沿上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>懸在空中的繩子像一條蛇一樣，爬上了開著的窗戶，你用力拉了幾下，把鬆弛的繩子拉直。抓鉤抓得非常結實。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>鉤子快速地在空中劃出一條曲線，朝窗戶的方向飛了過去。但它只勾住了幾英尺之下的石壁，之後便落回了地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 0]用力甩了幾下之後，把抓鉤扔到了窗沿上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>懸在空中的繩子像一條蛇一樣，爬上了開著的窗戶。[Specified 0]用力拉了幾下，把鬆弛的繩子拉直，抓鉤抓得非常結實。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>鉤子快速地在空中劃出一條曲線，朝窗戶的方向飛了過去。但它只勾住了幾英尺之下的石壁，之後便落回了地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>你把繩子拴在窗戶上，之後把它放下了海灘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Specified 0]朝你露出了侷促不安的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>當你終於爬上了窗戶時，所有人都滿身大汗，但大家都露出了勝利的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>過了一會兒，你聽到了一陣咒罵聲和氣喘吁吁的聲音——這些聲音是從那些落後的人口中發出來的。你率先爬上了視窗，剩下的人依然面紅耳赤地努力往上爬，胸口也劇烈地起伏著。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

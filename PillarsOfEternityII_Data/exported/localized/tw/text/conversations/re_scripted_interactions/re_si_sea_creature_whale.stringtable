@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_sea_creature_whale</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>122</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>天空萬里無雲，海面風平浪靜，你的船員們的交談卻籠罩著一種不祥的氛圍。他們聚集在了右舷扶手旁盯著海面。為了一探究竟你加入了他們。
+
+一個閃爍著的巨大影子正在浮上水面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「拿好長矛，準備狩獵！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「大家都冷靜一點。我們不要擋住這海獸的去路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>它將你的小船繞著拖了一大圈，拍打船身的同時差點把[Specified 3]的手臂給擰了下來。
+
+儘管如此，你還是感覺到海獸的力量已經開始衰退。
+
+幾個小時之後你總算制服了它。你的船員們從屍體上扯下了一條條肥美的肉塊以備儲藏。在那個晚上你們享用了有史以來最美味的一頓大餐-肉品驚人的甜美鮮嫩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>船員們返回了工作崗位，但是巨大的海獸還是在你的船旁逗留了好久。一天慢慢過去，你聽見輕撫的波濤上傳來低沉而又憂傷的音樂。一種柔和的寧靜感籠罩了所有人。當夜晚來臨，海獸靜靜地臥在船邊，黑暗中有了一絲令人安心的光芒。
+
+清晨時候，海獸早已離開，但是它帶來的寧靜感還在。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「它們被叫做深海的巨人們，」[Specified 0]說道。「胡亞納認為它們生活在海底最深處，在那裡它們可以靠近世界之心，它們很久才會上浮一次。能看見一頭被認為是無比的運氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>一隻修長蒼白的生物浮出了海面。它的皮膚呈透明狀，上面點綴著冉冉磷光。你看見了皮膚裡面薄紗般的器官輪廓。生物慢慢翻滾著，它用一隻發光的藍色眼睛盯著你。眼睛後面的神經有吊索一般粗細。
+
+[Specified 0]微笑了。「這頭還很年輕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 1]靠在了扶手上。「畜生身上有好多肉。這好東西能給我們帶來好多天的口糧。當然，前提得是船長同意這麼做。」[Specified 1]充滿希望地看了你一眼。
+
+大部分人都低語表示贊同。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 2]凶狠地笑了笑。「能配得上狩獵之主的獵物。我們來點刺激的吧，船長！」
+
+一聲歡呼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0]後退了幾步，神色緊張。「殺死一頭昂德拉的使者？我們絕對不能褻瀆這個祝福。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你的船員們歡呼雀躍地衝上了小船。
+
+海獸看似遲緩但其實非常強大-你輕鬆就將長矛刺進了它的血肉裡面，它拍打起支索帆大小的鰭片。[Specified 2]被一擊拍下了小船。
+
+你將[Specified 2]拉上來的時候野獸已經離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你的船員們歡呼雀躍地衝上了小船。
+
+海獸動作緩慢，但是你們大部分的魚叉都落空了。雖然有幾根穿透了它厚實的皮膚，但是並無法阻止海獸下潛逃走。
+
+船員們消沉地劃回了船上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>船員們回到了自己的工作崗位，巨大的海獸回到了海洋深處。
+
+[Specified 0]一臉氣餒地看著它離去。「這麼快就離開了，甚至都沒有唱歌？這是凶兆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[仔細辨別。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「以沃艾珥之名，那究竟是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「準備發射火炮！所有人準備戰鬥！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我們快調轉船頭離開這！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>波濤洶湧的大海一直延伸向地平線盡頭，深藍色的浪花翻捲出白色的泡沫。
+
+「船長！」[Specified 3]在桅桿上大喊著。「水裡有東西向左舷來了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>船被大浪推上頂峰，緊接著又陷入波谷，整艘船晃個不停。[Specified 0]在後甲板上頂著漫卷而來的海水緊握扶手發號施令。
+
+[Specified 3]指向躁動不安的海面。「前面的水裡有什麼東西！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你立刻認出了屬於光輝幽魂那發著冷光的輪廓。這種大型鯨類在整個亡焰列島都因其富含肉質而遭到獵捕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>在你的印象中，這種大小且能發光的海洋生命只有一種——光輝幽魂。其身上甜美的肉質使其成為了捕鯨者眼中完美的獵物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「是光輝幽魂！簡直沒有比這更美好的徵兆了！」
+
+泰克胡攥起雙手，發出一聲悠長而樂動的呼喊直穿層層波浪。鯨魚則以一次莊嚴的噴水作為回應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Specified 5]注視著光芒。「肯定是光輝幽魂。龐大又會發光的鯨魚。據說這傢伙的肉相當美味。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>不管這是什麼，它的體形都十分龐大，並且像燈籠一樣發著光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「不知道。」[Specified 5]說道。「不過它要過來了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我的神啊。」[Specified 1]嘟噥著。
+
+海面翻湧著波浪。有某種龐大而發光的輪廓逐漸接近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「等一下，船長……」[Specified 1]說著，看向[Specified 0]。「和我想的一樣嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「有什麼想法嗎，船員們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[深入海獸的思緒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>你將自己完全放開於海獸的思緒面前，感受著它靈魂在你意識邊緣刺痛的脈動感。
+
+這種感覺十分複雜，它的思維幾乎與基斯別無二致。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你感覺自己聽到了它靈魂中的歌聲，那是某種早在詞彙成形前就有的原始輓歌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>其攪動不停的腦海中毫無魚類的空白與冰冷之感，比你想像中的野獸遠複雜許多。雖然這頭海獸的思維仍然停留在野生動物的階段，但絕對要比馬或牛等動物高上不少。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Specified 2]歎了口氣，其他的船員也返回到自己的工作中。你繼續向前航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 2]愉悅地高喊著，[Specified 1]則大呼致敬。船員們迅速將小船放下。他們用船槳在水中攪動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>你的手下將海獸吊起，掛在了船的一側。他們從屍體上扯下了一條條肥美的肉塊以備儲藏。
+
+在那個晚上你們享用了有史以來最美味的一頓大餐——肉品驚人地甜美鮮嫩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>小船前端衝破了水面，將[Specified 3]重重撞在船舷上緣，而[Specified 1]則緊緊握住斷掉的繩索一端。
+
+海獸的身影漸漸消失在它前來的深淵之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你看到左舷欄杆外有一道黑暗身影從深淵中漸漸顯現。一塊厚重斑駁的背峰皮膚劃開了水面。
+
+隨著水下傳來一陣猶如號角般的聲音，巨獸背上也噴出兩道強勁的水花。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[仔細辨別。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「有什麼想法嗎，船員們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[深入海獸的思緒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「拿好長矛，準備狩獵！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「大家都冷靜一點。我們不要擋住這海獸的去路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>厚實的圓腦袋表明這是某種鯨魚，很可能是弓頭鯨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Specified 5]皺起眉頭看著水面。「也許是弓頭鯨？或者是牆面鯨。總之肯定是頭鯨魚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>是頭鯨魚吧……你這麼想著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「不知道。」[Specified 5]說道。「不過它要過來了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Specified 2]的舌頭閃爍在裂開的嘴唇之間說道，「是只牆面鯨，船長。整片亡焰列島上最適合獵殺的鯨魚了。」
+
+[Specified 1]發出輕蔑的哼聲。「最有可能是只弓頭鯨。你看到那個V形水柱了吧？這是因為它有兩個排氣孔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Specified 2]嘲笑道。「這完全不影響狩獵。」
+
+「只要它不會潛入水面弄沉我們的小船！」[Specified 1]翻了個白眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Specified 0]後退了幾步，神色緊張。「殺死一頭昂德拉的使者？我們絕對不能褻瀆這個祝福。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 2]愉悅地高喊著，[Specified 1]則大呼致敬。船員們迅速將小船放下。他們用船槳在水中攪動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>你的船員們歡呼雀躍地衝上了小船。
+
+海獸看似遲緩但其實非常強大-你輕鬆就將長矛刺進了它的血肉裡面，它拍打起支索帆大小的鰭片。[Specified 2]被一擊拍下了小船。
+
+你將[Specified 2]拉上來的時候野獸已經離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>它將你的小船繞著拖了一大圈，拍打船身的同時差點把[Specified 3]的手臂給擰了下來。
+
+儘管如此，你還是感覺到海獸的力量已經開始衰退。
+
+幾個小時之後你總算制服了它。你的船員們從屍體上扯下了一條條肥美的肉塊以備儲藏。在那個晚上你們享用了有史以來最美味的一頓大餐-肉品驚人的甜美鮮嫩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>鯨魚以驚人的速度潛入水面，讓[Specified 1]大聲咒罵了一句「該死」。
+
+小船和所有人一併隱沒在巨浪之間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>你的船員們用繩索將海獸緊緊捆好，將其拴在船側的欄杆上。他們擠在屍體旁邊將肉塊剔下，同時搾取油脂。
+
+他們一邊高唱著捕鯨號子，一邊做著這份血腥的工作。
+
+[Specified 0]在前甲板皺起眉頭望向他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Specified 2]歎了口氣，其他的船員也返回到自己的工作中。你繼續向前航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>又過了緊張的幾秒後，船員們一個個浮出水面，邊賭咒邊破口大罵。[Specified 0]皺著眉頭丟下一根繩索。
+
+隨著船隻再度啟航，[Specified 1]環顧四周。「有誰看到[Specified 3]了嗎？」
+
+誰也沒有。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>這頭巨獸和船保持相同節奏已經好幾個小時了，它的歌聲似乎讓[Player Ship]的每塊木板都為之顫抖。[Specified 0]一直低聲哼哼著，[Specified 2]還給海獸投了點吃的。
+
+[Specified 1]歎了口氣。「它們不吃硬麵包的。」
+
+[Specified 3]笑了起來。
+
+船繼續向前開著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>一隻龐大的蒼灰色生物在你面前的水中時隱時現，翻騰著平鰭狀的尾巴。
+
+「以昂德拉之名，那到底是什麼？」[Specified 0]大叫道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[仔細辨別。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「準備發射火炮！所有人準備戰鬥！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「拿好長矛，準備狩獵！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「大家都冷靜一點。我們不要擋住這海獸的去路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我們快調轉船頭離開這！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 0]點點頭，開始大聲發令。船員急匆匆衝過甲板進入艙室，下面傳來一陣金屬摩擦的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「我們沒有炮彈了，船長！」[Specified 0]大喊道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>在其再次出沒於波峰時，你看到有三根尖牙從海獸前方突出，如同三叉戟一般。
+
+是巨角鯨。這種龐大的食肉鯨可以將船體一側刺出大洞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Specified 5]賭誓道。「是巨角鯨！看到那些角沒有？」
+
+你聽說過此類巨獸，這種龐大的食肉鯨可以將船體一側刺出大洞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>是頭鯨魚吧……你這麼想著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「不知道。」[Specified 5]說道。「不過它看起來很生氣……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Specified 0]張大了嘴巴。「我的天，船長你在開玩笑吧？」
+
+儘管如此，[Specified 2]還是拿起一把魚叉。「其中一根尖牙我要了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>小船落入水面，船員們一陣顛簸。
+
+隨著齊心協力地划槳，大家逐漸接近了巨角鯨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>你的船員們歡呼雀躍地衝上了小船。
+
+海獸看似遲緩但其實非常強大-你輕鬆就將長矛刺進了它的血肉裡面，它拍打起支索帆大小的鰭片。[Specified 2]被一擊拍下了小船。
+
+你將[Specified 2]拉上來的時候野獸已經離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Specified 2]手握魚叉從小船縱身跳下……
+
+巨獸來回扭動著，下頜不停咬合。只有[Specified 2]的上半身接觸到了水面。
+
+「我的昂德拉啊，」[Specified 0]嘟噥著目睹巨獸將小船撕碎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「好的，船長！」[Specified 0]向掌舵的[Specified 4]與船桅眾人發出指令。船員們急匆匆衝過甲板作為回應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Specified 0]有點猶豫。「沒有一個經驗豐富的來掌舵？求求諸神顯靈吧！」大副開始高呼指令，船員們開始在甲板上穿梭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Specified 4]瞇起眼睛盯著前方，毫無血色的指節緊握在舵盤上。右舷船體傳來一陣彷彿利刃劃過盾牌的聲響，某只巨大的灰色野獸從海中衝出，怒吼時露出了三根尖牙。
+
+它又一次墜入海面，掀起的大浪讓小船左搖右擺，[Specified 4]攤開手腳牢牢扒在甲板上。舵手沒有再爬起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>小船開始改變方向，但並沒有足夠的速度，[Player Ship]因為海獸從下方的撞擊而不斷顫抖。木板下方有什麼東西分裂開來，有人拿起工具衝向了艙口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Specified 3]的目光對上了你的雙眼。「這樣不確定能否行得通，船長。」
+
+巨獸像是給出提示一般從海浪中呼嘯而出，三隻碩大的尖牙撞向了船側。上方的尖牙戳進了船桅與主帆，而下方較厚的尖牙則穿透船側從甲板上紮了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[SkillCheck 0]勉強保住自己沒有被其中一隻尖牙戳穿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>有一隻尖牙傷到了[SkillCheck 0]的腿，你的同伴捂著傷口痛苦地嚎叫著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「開炮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「趁它被船體卡住的時候攻擊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[向其投擲炸藥。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[試圖平息它的怒火。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[向其使用魔法轟擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>你召喚靈體並轉化其精粹，然後設法觸碰這隻巨獸的心靈。
+
+你找到了這顆滿溢著侵略性與飢餓的狂怒球體，並小心地將其解開，試圖平息巨獸的怒火。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Specified 5]召喚著靈體，伸出一隻手對巨獸施加祝福。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Specified 1]手握利刃向前跨步，縱身躍向扭動的巨獸。水手貼著上方的長牙用武器一次次戳向鯨魚的頭部。
+
+隨著一聲驚雷般的炸響，[Specified 0]將火繩槍內的彈藥一股腦傾瀉在巨獸的眼內。
+
+這頭巨獸終於不再動彈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>你盤算了一下自己目前有的東西……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[投擲手榴彈。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[投擲祭禮炸彈。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[投擲膿皰炸彈。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[投擲閃電炸彈。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>你使用魔法箭投向巨獸，傷到了它的皮肉，不過這傢伙仍然在不停撲動，長牙刺穿了甲板，滿是利齒的下頜則咬嚙在船體之上，更加凶暴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Specified 5]使用魔法箭投向巨獸，傷到了它的皮肉，不過這傢伙仍然在不停撲動，長牙刺穿了甲板，滿是利齒的下頜則咬嚙在船體之上，更加凶暴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>整艘船因為下部的火炮發射而猛地一抖，炮彈在巨獸身上炸開幾個大洞，濺起蓬蓬血霧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>整艘船因為火炮齊射而猛地一抖，但並沒有炮彈命中目標。巨獸不停撲動著，要將船體撞爛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>如同半空中一聲炸雷，你腳下的甲板開始分崩離析。你周圍的世界彷彿天旋地轉了許久，隨後你便落入了水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>你意識不清地漂在水面上，旁邊四散著破碎的木板和鋼鐵。你沒有什麼力氣繼續游泳，只能眼睜睜看著自己沉入水面。
+
+黑暗籠罩了你的全部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>鯨魚的長牙還插在船上，鮮血將甲板洗刷了一遍，不過[Player Ship]終於又迎來了平靜。
+
+船員們聚集在一起，安靜地相互拍拍後背，然後開始收穫這頭巨獸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>這頭巨獸紋絲不動，你看向它漆黑的大眼睛。你在其中讀出了啟示。
+
+鯨魚從船上滑下，又回到了水中。甲板上再次陷入一片寧靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[做些別的事情。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>巨獸扑打著。你沒有什麼時間……與選擇了……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>你將炸藥直接投向了巨獸的通氣孔……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Specified 5]將炸藥直接投向了巨獸的通氣孔……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>炸藥卡進了巨獸與甲板之間，對船體來說相當危險……
+
+「你瘋了嗎？！」[Specified 0]大叫道。
+
+它爆炸了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>巨獸的背部噴射出大量鮮血與內臟殘渣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>火焰從尖嘯的巨獸身上迸發而出，燒焦了它的皮肉，甚至燎到了你自己的眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>腐蝕炸彈在尖嘯的巨獸體內爆炸開來，將其中的致命物質全部導向它的肺部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>巨獸的背部躍動著藍白色的電弧，跨度從桅桿之高直連到海面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Specified 1]安靜地禱告著，[Specified 0]拍拍你的後背。[Specified 3]盯著大海。
+
+就連水面也異常安靜。至少現在如此。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>不過巨獸並沒有管水手，而是直衝[Player Ship]而來。它猛撞向船的一側，將[Specified 2]完全撞進了船體。水手軟綿綿地跌入了海面。
+
+上方的尖牙戳進了船桅與主帆，而下方較厚的尖牙則穿透船側從甲板上紮了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Specified 0]後退了幾步，神色緊張。「你殺了一名恩加蒂的孩子？還要褻瀆這份祝福？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Specified 0]後退了幾步，神色緊張。「你殺了一名恩加蒂的孩子？還要褻瀆這份祝福？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「放它走！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>如果鯨魚潛入水下，他們就麻煩了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Specified 1]咒罵著，但還是割斷了魚叉繩索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>巨獸最後從通氣孔噴出一團水柱，然後潛入水下，只留下翻動不息的大海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

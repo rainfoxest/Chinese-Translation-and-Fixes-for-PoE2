@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_arena_potion_seller</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>136</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這個精靈站在貨車前，一隻瘦削的手捏著某個小工具，另一隻手小心翼翼地握著一條厚皮帶。他咬著下唇，眉毛也由於專注而擰在了一起。
+
+他身邊到處都是藥劑和藥水散發出來的刺鼻味道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「歡迎回來。有什麼能幫得上忙嗎？」
+
+煉金術師把他的設備挪到了旁邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[清清喉嚨。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你在幹什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「有東西賣嗎！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>那個男人深吸了一口氣，往後退了一步。手裡的工具和裝置差點掉在地上，他趕緊把這些東西捧在懷裡。他嘟囔了一句，之後瞇著眼睛看了你一眼。
+
+他眨眨眼，藏起了臉上不悅的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「要不要來看看我精心挑選出來的藥劑？在競技場裡，一瓶合適的藥劑足以改變一個人的生死。」
+
+精靈張開了手，讓你看到他的貨車。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「讓我看看你這裡都有什麼東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[離開。]「下次再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>那個男人對你眨了眨眼，看了看手頭的工作，之後視線又移到了你的身上，睜大了眼睛。他的嘴巴一張一翕地動了幾下，嚥了口口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「這東西我稱之為『尼羅的極光激變器』，或者叫做『精華電池陣列』，或者叫……總之呢，叫什麼名字並不重要。它可以用來收集周圍環境中的精華，把它們轉換成可觸及的形態，以備後用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「老天啊，我很抱歉，旅行者。我只是，我只是有點太醉心於，呃，我的個人研究了。現在我準備停下來了。」
+
+他小心翼翼地把工具和設備放在了貨架上，搓搓手掌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>那個男人對你眨了眨眼，看了看手頭的工作，之後視線又移到了你的身上，睜大了眼睛。他的嘴巴一張一翕地動了幾下，嚥了口口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「老天啊，我很抱歉，旅行者。我只是，我只是有點太醉心於，呃，我的個人研究了。現在我準備停下來了。」
+
+他小心翼翼地把工具和設備放在了貨架上，搓搓手掌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「收集精華，不是個隨機態的不穩定過程嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我沒看到溢流閥，也沒看到排氣孔。如果它收集的精華太多了，會怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「看起來值不少錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「沒錯！確實如此！」
+
+他睜大了眼睛，咧開了嘴，整個臉上都煥發出了光彩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你是說——呃，沒錯，它只是個原型機。還有很多地方需要改良呢。」
+
+他小心翼翼地把它抱在懷裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我承認，它還沒到理想的程度，不過你也看到它上面的分置電路與魂珀平衡器了。這兩個東西放在一起，就能把過載風險與精華解離風險降到最低，理論上是這樣的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我畢生的精力都用在它身上了。我做了無數研究，做了無數實驗，還被人從新錫瑪趕出來了。說實話，它就是我存在本身的意義了。」
+
+他歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「這座叢林，更確切地說，這座競技場處於精華渦流的狀態之中。這裡周圍環境中的精華濃度，比我到過的所有其它地方都要高得多。但若想收集這種能量，駕馭這種能量，我需要競技場中角鬥者的幫助。」
+
+他把手伸進頭髮裡揉著，弄亂了頭髮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「或許我能幫你的忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「這條腰帶還處於實驗階段。競技場裡已經夠危險了，你還要我再把它戴上嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你願意嗎？」
+
+他咧開了嘴，酒窩都要陷進眼睛裡去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你要幫我做的事情，就是把這條腰帶繫在身上。我的意思是說，當你在競技場裡戰鬥的時候。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「等我報名參加戰鬥之後，我再來找你吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我已經開始戰鬥了，我會把你這條特別的腰帶好好繫著的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你回來了！這意味著，腰帶已經準備好了嗎？」
+
+他漆黑的眼睛上上下下地打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「至於那條腰帶嘛，我好像把它弄丟了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「它摸起來非常溫暖……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「事實上，我是來看你的藥水的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我覺得它還沒準備好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「哦，當然了，好吧。把它繫在身上就是了，剩下的事情，交給它就行了。」
+
+他用手指撓撓頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>他憤怒的臉變得煞白。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「你……你在開玩笑吧？老天啊，你是在開玩笑吧？是吧？」
+
+他把臉埋在了手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「老天啊……我所有的心血……為什麼啊？我為什麼要相信別人啊？我再也不會犯這個愚蠢的錯誤了。」
+
+他發出了一陣漫長、高亢的哀叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[離開。]「下次再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「太棒了。」
+
+尼羅接過你遞過去的腰帶，把它放在貨架上面，又將兩條銅線固定在魂珀帶扣上。能量流過了小小的孔規，最後流進了一對燒瓶裡。燒瓶裡的液體散發著精華的微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「非常好，非常好。太棒了，你收集的精華真是太充足了！有了它，我自己都不知道我能做出多麼了不起的東西！」
+
+他漲紅了臉，笑著，把腰帶放了下來。他從貨架上拿下了一個魂珀製成的容器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「太有趣了，雖然能量不如我想得那麼強，不過比之前可要好太多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「嗯……能量雖然很弱，不過已經足夠開始試驗了。可以做一些前期測試。可以用來檢驗，嗯嗯，檢驗科學原理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「等我收集好能量之後，你準備用它做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「如你所見，煉金術師會局限於能採集到的材料。不過，我們做的所有的事情，最終都是從萬物中提取精華。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「通過向藥劑材料中注入靈魂能量，我希望這樣做能大大提高整個提取過程的效率。至於結果嘛？那就是幾乎無窮無盡的魔藥！」
+
+尼羅開心地笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「說實話，它其實很安全。或許，我的意思是說，它&lt;i&gt;理論上&lt;/i&gt;有可能會導致精華洩漏，造成嚴重後果。但舉例來說，這種情況只有在被連續擊打，或者是你戴著腰帶摔倒的情況下才會發生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「不過哪怕是最嚴重的後果，也不過是你遭到中等程度的電擊而已，一點都不會致命！這麼說吧，只要你當時不是已經快死了，就沒什麼問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「已經準備好了。帶著它去參加戰鬥，等它充能完畢之後再把它交給我吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「實際上不會那麼簡單，不過……這麼說吧，等你安排好了之後，我會在這裡等你的。謝謝你，真的，太謝謝你了。」
+
+他的笑容看起來溫暖而真誠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「是這個頭骨指引我走上這條路的，或者說，是這條路的這個分支。這件事情是在競技場裡自然發生的。有一位冠軍死了，但由於他的頭骨裡充滿了精華，他的頭骨開始自行製造……確切地說，並不是藥水，但卻是……某種物質。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「稍等一會兒。」
+
+他轉過身，用工具折騰了幾下裝置，之後又轉過來看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「好了，這樣它就能產生更強的能量了，只要你能遇到靈魂更強力的敵人就行了。」
+
+他把腰帶還給了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我用你之前帶給我的東西，做出了這瓶藥劑。它證明了我的理論和工藝都是正確的，我希望你能帶上它。」
+
+他把藥劑塞在了你的手裡，杯上精心加工過的黃銅散發著溫暖的觸感，杯裡的液體靜靜地冒著氣泡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「稍等一會兒。」
+
+他轉過身，用工具折騰了幾下裝置，之後又轉過來看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「好了，這樣它就能產生更強的能量了，只要你能遇到靈魂更強力的敵人就行了。」
+
+他把腰帶還給了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「這是用你上次帶給我的東西做出來的成果。我一開始也以為成功了，但加進去的魂珀似乎讓實驗結果變得有點……不可預料了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我相信，我已經得到了想要的東西。我準備開始改進設計了。或許假以時日，我也能做出力量強大、性能可靠的裝置，用它保護整個艾歐拉的所有生命吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「說不定，我們能讓這個世界變得更加美好。我真的，發自真心地謝謝你，[Player Name]。」
+
+他眨眨眼，漲紅了臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「說真的，我都不知道該怎麼感謝你才是。在你繼續推動鑄魂學發展之前，有什麼事情我能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「沒問題，來看看有沒有什麼感興趣的東西吧。」
+
+他打開了一個大箱子，裡面裝滿了試管、燒瓶與小瓶子，每個瓶子都貼好了標籤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「沒問題，來看看有沒有什麼感興趣的東西吧。」
+
+他打開了一個大箱子，裡面裝滿了試管、燒瓶與小瓶子，每個瓶子都貼好了標籤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「不好意思，當我沒問過吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「所以說……它是一條腰帶……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[走開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「抱歉，朋友，我之前……我有時候對工作有點過分專注。」
+
+他把東西推到了一邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我們的雄姿把你驚呆了吧？」泰克胡歎了口氣，將搭在肩膀上的頭髮梳理到腦後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我們的雄姿把你驚呆了吧？」泰克胡歎了口氣，將搭在肩膀上的頭髮梳理到腦後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>他冷笑一聲，瞇起眼睛，把腰帶抱在胸前，彷彿在安慰那條腰帶一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「腰帶？腰帶？！哦，沒錯，確實是腰帶。不過它可不僅僅只是一條腰帶。」
+
+他皺起了眉，手指小心翼翼地撫摸著上面的銅線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「『照理是用來』是鑄魂師最喜歡的用詞。」他不以為然地說道，同時瞥了一眼腰帶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>他得意洋洋地遞給你一條纏著銅線的腰帶。你注意到，銅線上綁著小小的魂珀碎片。腰帶的帶扣似乎是用銅片做的，上面還嵌著魂珀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「這玩意兒的容量看起來還不到我燈籠的一半。」她聳聳肩，並未覺得那東西有什麼了不起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>他瞇起了眼睛，把腰帶拿遠了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我不打算干。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>尼羅似乎大受打擊，整張臉都耷拉下來了，肩膀也塌下去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「你&lt;i&gt;萬&lt;/i&gt;不可這麼做。」亞洛斯一臉怒容，遠離了你幾步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「如果我繫上那條腰帶，晚上就能睡個安穩覺了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>亞洛斯大聲歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「我能理解。這麼說吧，或許我&lt;i&gt;沒法理解&lt;/i&gt;，但只能接受。如果……如果改變主意的話，可以回來找我。只要你還在競技場裡戰鬥，你就有機會幫助我創造歷史。」
+
+他長長地歎了口氣，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「因為打架時你說的那些事一件都不會發生。」
+
+塞拉芬用綠色的大眼睛翻了個白眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「在激烈的打鬥中，你說的這幾種情況應該不太可能發生吧。」
+
+伊德溫將一根彎曲的手指伸到嘴前，但這樣也遮不住她自鳴得意的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「你的想法有一定的高明之處。只不過太過危險了。」
+
+她若有所思地用指尖輕觸上唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「它絕不會出意外的！」
+
+他的抗議聲似乎響得有點太快了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「真是太棒了！如你所見，每次你在競技場中戰鬥，它都會補充大量的精華。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「這件事情對我有什麼好處？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「轉念一想，我覺得這不是個好主意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「推動了鑄魂學的發展，這個榮譽還不夠嗎？」
+
+他笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「開玩笑呢。當然，我不會讓你空手而歸的。我不僅會付你錢，而且如果——我是說，&lt;i&gt;等到&lt;/i&gt;實驗成功之後，我會與你一起分享成果。」
+
+他皺了皺眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「太棒了！」
+
+他把腰帶遞給了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我的意思是說，成果就是魔藥，不知道我說得清不清楚。我真是把事情越說越亂了，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「船長，看來你又給我們變出了一個蒼精靈鑄魂師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「總比第二個毛茸茸的藍色小混蛋強。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「姑娘，你這話太傷人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「事實上，我是來看你的藥水的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我現在很難過，難道你看不出來嗎？下次再說！」
+
+他揮手把你攆走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「伊希，離那裡遠點。」鳥剛要把喙伸進晃動著液體的頭骨，就被麥婭一把推開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我不是第一次用頭骨當杯子喝東西……別告訴我的高階女祭司就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「謝謝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「飲之不盡的頭骨酒杯，這真是我夢寐以求的好東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「你想讓我用這麼噁心的東西喝酒嗎？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「有了你給我的那些東西，有了你將會給我的那些東西，我應該不會再用到它了。」
+
+他笑了起來，但目光一直在頭骨上打轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「一點都沒錯！它實在是太方便了。哦……你在開玩笑呢，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「它一點都不噁心！我已經把它徹底洗乾淨了！」
+
+他哼著說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「哦，天啊，您就是努亞堡的靈視者，是吧？我怎麼能沒認出來您呢？我怎麼能這麼笨呢？」
+
+他用手揉著額頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「歡迎回來，大人，有什麼能為您效勞的嗎？」
+
+他深深地鞠了一躬。</DefaultText>
+      <FemaleText>「歡迎回來，女士，有什麼能為您效勞的嗎？」
+
+他深深地鞠了一躬。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「你的實驗進展得怎麼樣了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「多謝您的幫助，進展得很順利。如果有什麼新的事情要匯報的話，我會立刻通知您的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「沒關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「是[Player Name]&lt;i&gt;領主&lt;/i&gt;。」</DefaultText>
+      <FemaleText>「是[Player Name]&lt;i&gt;女士&lt;/i&gt;。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「我在這裡的事情，就不要宣揚出去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「向您致以我最誠摯的歉意。不知……不知有什麼事情能幫忙……有什麼能效勞的嗎？」
+
+他清了清嗓子，挺直了肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「嗯，尼羅還活蹦亂跳的嗎？我還以為他肯定早就把自己炸成碎片了呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「這種現象的部分原因是由於魔法，或者說，是由於——這麼說吧，是死去的角鬥士們釋放出來的能量。不過，這座競技場本身也會操縱精華。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「之後呢，把它交給我就行了，簡單易懂。」
+
+他嚥了口口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「那絕對是一場奇景！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「我該怎麼為它充能呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「可別忘了呼吸啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>他眨眨眼睛，深深地吸了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「幹得好，小伙子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「你應該能往這東西裡加點別的配料吧？比如酒精什麼的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「你這次的想法，我真是再同意不過了，姑娘！真可惜我們沒辦法事事一致。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「確實。」她捏了捏她的鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「真是個好主意，姑娘。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「我覺得，只加精華就足夠了吧。」他緊張地笑了起來，小心翼翼地抱著自己的機器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「哦！」
+
+他翻起了貨架，之後小心翼翼地遞給了你某個人類的頭骨。總之，大體上差不多是人類的頭骨。頭骨的頭蓋骨已經不見了，裡面旋轉著濃稠的紅色液體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「我必須得好好感謝感謝你！」
+
+他把腰帶放下來，拿過了一個杯子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「不管怎麼說，我希望你能留著它。至少這是我該做的事情。」
+
+他把杯子塞進了你的手中，杯中的液體散發著稜鏡般的光澤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「真是太神奇了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「真是太有趣了。」她貪婪地盯著裡面的液體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「他過去的幾個月過得很艱苦，還和死神打了交道。」</DefaultText>
+      <FemaleText>「她過去的幾個月過得很艱苦，還和死神打了交道。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「哦，是你啊。你的……妹妹怎麼樣了，她是你妹妹吧？」尼羅盯著康士坦丁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「莫非是你女兒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「這是你頭一次說對。」康士坦丁皺起眉頭。「媽的，我真的看起來這麼老？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

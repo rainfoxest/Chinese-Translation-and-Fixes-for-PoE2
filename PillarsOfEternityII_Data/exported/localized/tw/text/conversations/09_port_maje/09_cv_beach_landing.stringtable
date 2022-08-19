@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_beach_landing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「這一路上你睡的時間怪長的呀。」
+
+
+
+「本來想叫醒你的，但看你臉埋在沙子裡還挺安詳的，就不忍心喊你了。」
+
+
+
+艾德爾理了理頭髮，清掉了一條纏在頭髮上的海草。他仔細地檢查了一下，然後把它丟在沙地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「船的事兒你就別操心了。它擱淺啦，喏，就在那。」
+
+
+
+他指向反抗者號，不過從你這兒看去，很難不注意到它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>海浪的聲音把你吵醒，發現自己躺在沙灘上。你從風暴中倖存，被海水沖到一個陌生的沙灘上。
+
+周圍沙地上散落著反抗者號的殘骸。你看到附近有一尊熟悉的半身石像。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「不幸的是，我們仍然需要反抗者號。除非你想在這座島上住一輩子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「看到你醒了，我就放心了，大人。我擔心你會就此一睡不起。」
+
+你的總管看起來卡在石頭堆裡了。儘管如此，她的語調仍然很高興。</DefaultText>
+      <FemaleText>「看到你醒了，我就放心了，夫人。我擔心你會就此一睡不起。」 
+
+你的總管看起來卡在石頭堆裡了。儘管如此，她的語調仍然很高興。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「眼下你最好去看看有沒有人煙之處。實在沒辦法的話，就雇一個造船匠來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「說不準。亡焰列島有很多島嶼，有些相當小。
+
+好消息是，如果風暴沒有把我們刮得太遠的話，我們應該還在海圖上的水域裡。此地應該是瓦利亞商行的工作動範圍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「呃……出什麼事了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「這是什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「咱們先看看有沒有別的倖存者。再想個法子把船修好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「船擱淺了吧，好像。
+」
+
+
+「雕像面朝內陸。想來他在此地尚有要事，要麼就是他也得問個路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我們肯定是在颳風暴期間離岸太近。於是反抗者號擱淺了。
+
+「在戰鬥中或者風暴中倖存下來的船員，估計被拋出甲板了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「不知道，但這裡風景很不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我、討厭、船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「噓。它就在你後面呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我感覺附近確實有一些倖存者。其他人就……你可以給他們一些指引，[Player Name]，除此之外便幫不了他們什麼了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「現在該怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「能把船修好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「不管你打算怎麼做，如果有人幫忙的話成功的機率會大一些。先找找倖存者吧。
+
+「然後再找補給品。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「所以才會遇到那個卑鄙的海盜船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我是有這麼想過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「要是有足夠的時間和補給的話，應該可以修好。但即使修好也沒辦法把反抗者號推回到海面上去。
+
+「你需要一隊船員。昨晚有不少船員犧牲了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「這個我恐怕幫不上忙。我不是質疑艾德爾大師的能力，不過沒有補給的話他也修不好船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「此言甚是。我尤其需要牛排。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「修補船身只是個開始。把反抗者號推回到海面上去，需要人手。
+
+確切地說是需要一隊船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「這要由你來決定，不過……俄撒斯仍然掌握著你的一部分靈魂。
+
+「最後一次見到他時，他正走向內陸。應該不難找到他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「有幾個倖存者已經算不錯的了。最好一起過去看看他們的情況如何。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[高聲喊叫]「貝拉斯，求你幫幫忙吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>除了屍鬼的嚎叫以及海浪不斷沖刷海岸的聲音之外，並沒有任何回音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「換我就會求俄撒斯前來相助，但就怕祂聽到後真的來一趟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[祈禱]「貝拉斯，此時此刻我急需幫助，請開開恩吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「要是俄撒斯走這個方向，應該不難找到他。只希望沿路有人能活下來為我們提供線索。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「現在嘛，活著的只有你和我了，再加上那邊那位輪椅女士。」
+
+
+
+艾德爾朝海灘遠處點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我可不想坐著救生筏離開這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「大人，有件事想要麻煩你解釋一下：你是怎麼復活的？」</DefaultText>
+      <FemaleText>「夫人，有件事想要麻煩你解釋一下：你是怎麼復活的？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我的靈魂進入了異界，貝拉斯給了兩個選擇：要麼找到俄撒斯，要麼死亡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「看來是因為眾神太蠢了，搞不清楚俄撒斯在幹什麼，因此他們派我回來查個明白。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[瞇著眼睛望向大海。]「我是以貝拉斯使者的身份復活的。我要去執行一項特殊任務——找到俄撒斯，查清楚他的計劃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「這群神啊。你答應替他們阻止一個瘋子，結果他們卻反過來威脅你的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「看來他們還沒蠢到跑來這兒直面俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「妙啊。我猜世上若有什麼任務可稱得上特殊，非咱們這個莫屬了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「根本就沒得選。不過，不管怎麼說，你仍然是我的大人，我會竭盡所能助你一臂之力。」</DefaultText>
+      <FemaleText>「根本就沒得選。不過，不管怎麼說，你仍然是我的夫人，我會竭盡所能助你一臂之力。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「這確實是一項極其危險的任務。不管怎麼說，你仍然是我的大人，我會竭盡所能助你一臂之力。」</DefaultText>
+      <FemaleText>「這確實是一項極其危險的任務。不管怎麼說，你仍然是我的主子，我會竭盡所能助你一臂之力。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「貝拉斯給了我一項神聖使命。要我為其他諸神追殺俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「更糟的工作兒我也接過。鏟糞而已，至少不會有被巨神踩扁的風險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「前提是，這次事故並沒有損害你身為靈視者的能力。如果你還能看到死者的靈魂，能與它們交談的話，那能使我放心不少。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「好吧，我想我們最好趕快行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「艾德爾，我必須自己做這件事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「真的嗎？就好像你航行了半個地球，自己治療自己到恢復健康？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我並不是不喜歡你的幫助，我知道這聽起來很奇怪，但我需要自己做這件事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「別搞得這麼難。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我沒讓你幫忙，我現在不想你幫忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「好吧，呵呵。不知道去哪或者去做什麼，被困在了一個離家幾千英里的島上，不過……是的，我想我會把事情搞明白。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「好，呃……俄撒斯會好運的，我想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「那好吧。在我聽來像是俄撒斯得到了你靈魂中最美好的部分，因為留在你身上的部分肯定不值得保留。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

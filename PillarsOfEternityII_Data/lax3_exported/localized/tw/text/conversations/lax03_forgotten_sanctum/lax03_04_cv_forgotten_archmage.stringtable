@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_04_cv_forgotten_archmage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>192</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你認出了費歐雷吉熟悉的長袍。他背對著你，雙手向兩邊伸展，正在將數量龐大的精粹注入沃艾珥神軀的心臟部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你不過是個蟊賊罷了，就讓你的靈魂也放在檔案庫裡吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「真的嗎？&lt;i&gt;那就是&lt;/i&gt;神軀的鑰匙嗎？這真是，太可笑了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「等等，我見過這東西。真是眼熟——」
+
+穿著長袍的身影朝你笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「不，只是另一個外來者。看來先知真的應該加強安保工作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「保持警惕，這個人是個法師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「這個人總是擺著一副權威架子，我不喜歡這個樣子。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「那就報上你的大名吧，別耽誤時間了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我是[Player Name]，努亞堡的靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「是大法師議會讓我來這裡的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「離那個灰色的大嘴巴遠點，否則有人可就要受傷了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我是來找昴拉的，但你好像先找到她了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「你殺了她！你別以為能逃得掉！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「以沃艾珥之名，那&lt;i&gt;究竟&lt;/i&gt;是什麼東西？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「此時此刻嗎？我對此非常懷疑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>他哼了一聲。「你認為我是個傻子嗎？梅沃德才是努亞堡的靈視者，誰知道那個小破棚子對他而言有什麼重要的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「昴拉以為她能得到本不屬於她這種人的力量，我讓她打消了這個念頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「啊，這個是記憶貯藏者，先知的小小計劃其中之一。它可以隱藏那些掌秘人收集來的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「不過，你打算轉移話題，別以為沒注意到這一點。你是什麼人？你來這裡做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[攻擊]「現在該結束了。覺悟吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你說什麼？」
+
+他來回看著你和那個多面實體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「是嗎？我希望他們至少給過你充分的補償，而不是簡單地派你過來替他們賣命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「再見了，努亞堡的靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「梅沃德很多年前就死了，我就是他城堡的繼承人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「很多年前？原來是很多年前啊。」
+
+她用戴著手套的手指，小心翼翼地摸著自己的面具。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「這都不重要了。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「所有人，抽出武器！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我就知道最後會變成這個樣子。」費西娜咬著牙，拔出了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「啊，去他媽的，船長。他要動手了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我不接受你的道歉。」麥婭伸手去拿武器。伊希薩羽毛豎了起來，做好了準備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「好啊，現在我們算是一路人了，船長！」塞拉芬舔了舔嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我希望你沒有欺騙過你的造物主，因為你很快就要去見他了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「而且還把那裡翻修過了。不過現在的樣子，恐怕不算太好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「啊，看起來記憶貯藏者已經蠢蠢欲動了。祝你做個美夢，外來者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「啊，眾神啊。我能看到——不——我能&lt;i&gt;感覺&lt;/i&gt;到一切了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「費歐雷吉！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你是想把我們所有人都害死嗎？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我正想把你切成碎渣呢，王八蛋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「恐怕你的冒險故事只能在這裡落幕了，而且沒人會記得你的故事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[靜觀其變。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>他身緊繃。「看來是有客人來了。」
+
+他轉向了你。他的臉上沒戴面具。這個精靈的面容，看起來就像是被雕刻家隨手抹掉了一半一樣。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>費歐雷吉轉向了你，他的臉上沒戴面具。這個精靈的面容，看起來就像是被雕刻家隨手抹掉了一半一樣。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我恐怕我們——我——不能允許你干擾我，[Player Name]。我們已經結合得太緊密了，現在已經停不下來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「說清楚，你和什麼結合得太緊密了？你打算幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「聽聽你在說什麼啊，你已經要失去自我了！你正在被吞噬——被這個不知道是什麼東西的傢伙吞噬了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「共同體？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[攻擊] 「老天，我真的很想殺了你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「共同體。」
+
+他的笑容咧到了兩邊，就像被火焰燒卷的葉子一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「這些大廳裡的一切知識，一切記憶。它們都在湧進來，湧入這尊巨大的神軀之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「早在進入神軀之前，我就已經忘記自己是誰了。但有了這個身軀，我就能恢復本來的面貌了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我從來沒聽說過你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>」我可以非常確定地告訴你，歷史上並沒有這麼一位大法師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「哦，你就是&lt;i&gt;那個&lt;/i&gt;費歐雷吉！你為什麼不早點這麼說呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>&lt;ispeech&gt;告訴我們，闖入者。你想起了什麼？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>&lt;ispeech&gt;所有人都聽說過我們！就算別的都忘記了，他們也會記住以我們的名字命名的咒語！費歐雷吉的火牆術。費歐雷吉的七彩之牆。費歐雷吉的潔淨屏障。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「真了不起。這麼出色的人，到底發生了什麼事情，才會變成這個樣子呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「所以，基本上都是和牆有關的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「這麼說吧，這些法術的名字都已經被人忘了，你就是個無名小卒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「掌秘人是怎麼扯上關係的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「費歐雷吉曾經是整個大法師議會中最出色的成員之一。他是個天才，但後來神秘消失了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「那個方式就是你創造出來的，對不對？就是有你名字的那個法術？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「好吧，或許我什麼都沒想起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>先知的眼神顫動了一下，你感到一陣明顯的失望從你臉上劃過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「他戴著面具？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>塞拉芬瞟了你一眼，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>先知的眼神顫動了一下，露出了愉快的神色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>&lt;ispeech&gt;哪怕是在無知者之中，我們的名聲依然存續。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>&lt;ispeech&gt;我們可愛的法術。我們的七彩之牆，我們的火牆術，我們的絕對防壁。那個法術讓整個議會都刮目相看。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>先知的眼神突然變得銳利起來，每隻眼睛都緊緊地盯著你。中間的大眼球瞇起了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>&lt;ispeech&gt;不，我們會被人銘記的。我們理當得到我們贏來的名聲。&lt;/ispeech&gt;
+
+它的憤怒撲面而來，就像高爐裡的熱氣一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>&lt;ispeech&gt;和牆有關的東西？和牆有關的東西！&lt;/ispeech&gt;
+
+空氣中充滿了憤怒的情緒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>&lt;ispeech&gt;如果現在的年輕人就是這個樣子，我們真要替艾歐拉痛哭一場了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「如果你覺得靈視者就算很糟的話，那你真應該看看泰恩是什麼樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「又開始擺學究架子了。」費西娜哼了一聲，搖了搖頭。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>&lt;ispeech&gt;我們——我——我加入了掌秘人。我忠實地侍奉沃艾珥。後來，我漸漸地領悟了更深層次的啟示。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>&lt;ispeech&gt;他們讓我當了高階謀士。高階法師、先知與秘法學家。那個時候，我們——我——便發現了真相。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「昴拉？」
+
+面具稍微動了動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「看來昴拉說的是實話。」
+
+他聳聳肩，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「請允許我滿足一下好奇心，你有沒有聽說過大法師費歐雷吉？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我還沒收到報酬呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我這麼做，是為了亡焰列島的安寧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「多幾個大法師朋友也無妨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「我來這裡可不是為了錢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「前者有一點，後者也有一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「真是讓人一點都不意外。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「啊，看來你是那種愛逞英雄的人，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「那你肯定是對大部分大法師都不怎麼熟悉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「啊，那就是被威逼過來的了。如果戳到了你的痛處，我表示歉意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「就在這裡，就是此刻，我們就是這麼衝動的傢伙。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「這個白癡真是該殺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[攻擊]「我感覺自己會享受這件事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「大法師沒有朋友，他們只有手下和敵人。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「不關你的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>戴面具的人靜靜地盯著你看了好幾秒，隨後什麼也沒說，輕輕地聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「我可以向你保證，這個過程既古怪、又不舒服。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「一點都沒聽說過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「在大法師議會的官方歷史上，從來沒有這個法師的名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「我猜，這個人就是你吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我在監獄裡找到了一本瘋言瘋語的日誌，只有那上面提到過這個名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「這很重要嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「哦，沒錯。下面的書架上就有一本書，介紹了他的各種光輝事跡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「這不可能。不過才過去幾年，掌秘人不可能這麼快就把記錄清除掉了。」
+
+他盯著自己的雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>他發出了一聲長長的歎息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「沒什麼事情比這更重要了。」
+
+他的身子朝前傾了過來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[搖頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>他發出了一聲長長的歎息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「你確實不認識我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我還在布拉岡諾的時候，我花了很多時間學習大法師議會的歷史，而你的名字確實不在上面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「亞柯彌經常像著迷一樣說起他同事的事情，但他從沒提過這個名字。」費西娜轉了轉眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「看來，它的效果並不僅限於這裡。並不僅限於我自己的意識，也不僅限於昴拉的意識。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「除非，有可能……難道是掌秘人發現了某種可以傳播的方法嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「你在說什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「誰知道呢，我嗓子都有點疼了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[等他說完。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[攻擊] 「還是讓我把事情變簡單點吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>他安靜地笑了起來，聲音被面具遮住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「你懷疑有某種原因，讓所有人都忘記了你？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>他把注意力轉向了你，表情藏在了面具下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「不，不對，這不應該影響到文字記錄。但我有沒有確認過文字是否真的受到了影響？沒有，我只有目擊者，而且並不是不偏不倚的目擊者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「這種事情很有可能。我們甚至以前有可能聽說過這個名字，但我們關於它的記憶卻被掩蓋掉了。」
+
+她對穿長袍的男人皺起了眉頭。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「我就認識某個曾被整個世界都遺忘的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「抱歉，這一切都要把人弄糊塗了。你們還是不要把事情變得更加複雜為好。」
+
+他從長袍中抽出一根法杖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「再見了，陌生人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「我們成功了，朋友。打開大門，接納我吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「我不是把你變成蟲子了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「你可沒告訴我就是你殺了昴拉，你本可以替我節省很多時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「努亞堡的靈視者，貝拉斯的使者，狩獵冠軍，黃昏代言人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「努亞堡的靈視者，貝拉斯的使者，黃昏代言人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「努亞堡的靈視者，貝拉斯的使者，狩獵冠軍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「努亞堡的靈視者，貝拉斯的使者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「但說真的，我還以為你是蟲子呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「你都把我說渴了，真謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「你遇到的那個是假的費歐雷吉。他只是一個幻象，一個縮影。不過是個簡單的法術而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>&lt;ispeech&gt;我們會喚起一切。我們所知的一切，我們未知的一切。&lt;/ispeech&gt;
+
+那個法師的意識在你的腦海中迴響。它猛烈撞擊著你的意識，彷彿一隻食人魔使勁拍著關閉的大門一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「你是怎麼知道這些稱呼的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「知識從我們身上流過，就像水流經水管一樣。它經過水輪，注入容器之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「可據我所知，幻象是凝結而成的精粹，而不是什麼凝結在一起的蟲子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「不管是不是假的，你都要對昴拉之死負責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「最終流到哪裡呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「哦，我們知道。我們知道——很多很多東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「所以你才要進行這個命令儀式嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「如果你以為，你把精粹餵給這個神軀就能控制它的話，那你可要大失所望了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「神軀的靈魂就像大海一樣，深不可測，波瀾起伏。你會被淹沒的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「我不太確定他是不是真的打算控制這個生物……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「準備好要掩護我了嗎，隊員們？我覺得這裡要血流成河了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「如果我們打算活著逃出這裡的話，我覺得我們沒什麼別得可選……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「不過是個穿著漂亮衣服的人而已，更糟糕的情況我們都經歷過。我們是不會讓他復活這些大傢伙的，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「我一直以為能找到個明白事理的對手，看來今天這個不是。」麥婭對伊希薩做了個手勢，準備好了武器。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「我們不知道這個人有什麼能耐，靈視者。準備應對任何情況吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「這地方感覺可相當不對勁啊，船長。簡直他媽像個漩渦一樣。」
+
+他抓著腦袋側面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「事情總會血流成河，不是嗎？這一次，我真的認為我們的任務非常有必要。」泰克胡慢慢地歎了口氣。費歐雷吉靠了過來，泰克胡像水一樣流動起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「我還以為你不會問了呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「該死！太遲了，我們已經阻止不了這一切了，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「就在你後面，靈視者！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「這個怪物是扭曲之物，我們必須糾正它才行。我們快點把事情做好吧。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「我不會離開你身邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「很好，讓我們結束這個法師的空談吧，黃昏代言人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「我已經掩護好&lt;i&gt;你&lt;/i&gt;了，靈視者。至於剩下的蠢貨們，他們就只能靠自己了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「我也在湧入它其中，我們曾經形如一體。我能感覺得到，就像心臟跳動一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「我們可以幫你，費歐雷吉。但如果你已經失去了自我，那就不行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「我不能讓你這麼做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>[攻擊] 「到此為止了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>&lt;ispeech&gt;我們想起了年輕的費歐雷吉，那位了不起的賽林學徒。我們想起了不屈不撓的費歐雷吉，那位秘法騎士。我們想起了不蝕者費歐雷吉，那位議會裡的大法師。還有費歐雷吉，掌秘人的高階謀士。&lt;/ispeech&gt;
+
+這些匿名、稱呼、記憶——還有它們之中的情感，彷彿浪潮擊打在海灘上一樣，衝擊著你的意識。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「灰鑰社也參與過這樣的事情吧，亞洛斯？說不定他們只是讓你當個甩手掌櫃而已？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「你是不是忘了？都是因為&lt;i&gt;你的&lt;/i&gt;神明從地下室裡爬出來，才造成了這一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「你們兩個，都給我認真點。這裡可不是銅板巷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>&lt;ispeech&gt;你知道我們的事情嗎？真奇怪。這裡是個被遺忘的地方，是失落之物的聖所。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>它巨大的中心眼球在眼眶裡轉著，目光盯在你身上。它的瞳孔開始放大，把你吸了進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>[攻擊] 「去死吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>它巨大的中心眼球在眼眶裡轉著，目光盯在你身上。它的瞳孔開始放大，把你吸了進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>[攻擊] 「他在一個眼球裡被人捅死了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>你往前走了幾步，對方向你眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「就算變了樣子，他的心智還是那麼不穩定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「好極了，他現在既躁動不安又不穩定了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>先知的眼神突然變得銳利起來，每隻眼睛都緊緊地盯著你。中間的大眼球瞇起了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>&lt;ispeech&gt;沒人能扼殺我們。他們埋葬了那些先人，但沃艾珥絕不會被他們埋葬。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>&lt;ispeech&gt;你也知道那個秘密。我們看到了，那個秘密就在你的頭腦中閃爍著。那巨大的謊言，如同空白天空上的群星。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「你這句話是什麼意思？那些先人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「巨大的謊言？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「這些都不重要，我是不會把神軀交給你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>[攻擊]「我聽膩味了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>&lt;ispeech&gt;眾神的誕生。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>&lt;ispeech&gt;你該不會認為英格維仙就是最初的那群人，是吧？也不會認為，只有英格維仙人，是吧？你已經聽說過胡亞納人了。在他們之前，還有很多其他人。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>&lt;ispeech&gt;在這件事情上，你別無選擇，渺小的入侵者。我們已經合而為一了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>&lt;ispeech&gt;我們不能放你這麼出去。就像費歐雷吉一樣，你也被太多的秘密玷污了。你必須得到淨化。&lt;/ispeech&gt;
+
+那只生物升了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>&lt;ispeech&gt;英格維仙只是在整個世界都帶來了影響力，卻沒有實現永恆的統治。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「告訴我什麼時候該動手吧，靈視者，我很樂於揍他一頓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「老實說，這可真是太超前了——」 他睜大眼睛瞪著你，聲音也在顫抖，看起來被嚇壞了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「各種各樣的稱號。這聽起來和你以前有點像，亞洛斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「我和他&lt;i&gt;一點&lt;/i&gt;都不像。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「靈視者，你覺得他是不是想說——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「噓，雷科，現在不是插嘴的時候。」亞洛斯用手摀住了那個年輕人的嘴巴，示意他安靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_guard_horn_ext_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「嘿，你！這個地方你不能進！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[攻擊] 「真的嗎？有誰能阻止我呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「該死的！」海盜往後跳了半步，跌跌撞撞地抓起了槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[舉起雙手退回來。] 「是我走錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>這個一臉髒污的海盜朝地上吐了一口唾沫，走近幾步，把你沿著來時的方向趕了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你聾了嗎？你這隻老鼠！「我說了，這地方不是你該來的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「很好，這可是你自找的，我沒說錯吧？」
+
+她舔了舔參差不齊的牙齒，把號角舉到嘴邊，深吸一口氣，胸腔也隨之膨脹起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「所有人拿起武器！有人闖進來了！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「如果狂本和你達成了交易，那你肯定是船長中的狠角色。我收到命令了，你可以請便。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

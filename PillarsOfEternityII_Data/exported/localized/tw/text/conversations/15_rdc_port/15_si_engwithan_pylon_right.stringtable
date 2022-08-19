@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_engwithan_pylon_right</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>圓環依然圍繞著高塔無精打采地旋轉。靠近後，你聽到它正在發出微弱的嗡鳴聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你發現高台上裝著一台小型機器，周圍環繞著旋轉的圓環。似乎是英格維仙製造的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[關閉機器。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你關閉了這台機器。浮空的圓環艱難地緩緩停下，它散發的能量也驟然消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[檢查機器。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你留意了一下圓環旋轉的速度和機器嗡鳴聲中存在的不易察覺的規律。一番鼓搗之後，你弄明白了高塔的運作原理。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你無論怎麼擺弄這台機器，就是無法弄清其用途。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[設法破壞機器。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你朝控制面板猛砸了幾下，將這台精密的機械砸壞了。片刻後，機器周圍的圓環停止了旋轉。它散發的能量也驟然消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>不管你怎麼用力砸，高塔都絲毫不受影響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>整座建築物劇烈地顫抖起來，你差點被震得跪在地上。屏障閃爍了一下，然後「噗」的一聲消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>隆隆聲這次變得更響了，你對面的屏障忽明忽暗地閃爍著。牆壁上迅速出現多道裂痕，之後更多地方開始漏水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>低沉的隆隆聲響徹整座遺跡，靠你最近的一扇窗戶上的屏障短暫地閃爍了一下。附近有小股水流開始流淌。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

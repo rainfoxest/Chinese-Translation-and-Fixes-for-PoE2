@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_sand_graveyard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>腳下踩到骨頭。沙中有很多骷髏，或半埋在風積沙丘中，或在太陽下任憑風吹日曬而褪色。他們的屍體仍然穿著破爛的殘留物或衣服，他們的包裹與他們的四肢纏繞在一起。
+
+幼龍像禿鷹一樣盤旋在你上空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[搜尋骷髏。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[保持不打擾那片區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你感覺什麼東西拖著你的腿。主母銳石靠在你的靴子旁，盯著沙丘，然後向上看著你。她驚恐地睜大雙眼。她害怕這個地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你走到最近的骷髏，將包裹從其遺骸上解開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>由於你打擾了骷髏的安息，數個沙魂怪從沙漠站起來，隨著一陣大風，直接向你衝來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>這裡很奇怪，沙子活力十足。它好像正在微風中舞動，但並沒有風。數堆砂礫高過沙丘，排列非常有序。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你與那些骷髏保持安全距離，繼續探索島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[使用遠距離武器測試沙堆的反應。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>沙堆自行旋轉成為一個小風暴。它席捲各個沙丘，它的爆發喚醒了它旁邊的沙堆。它們一起從沙漠中升起，成為一片旋轉的沙雲，一起向你快速逼近。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

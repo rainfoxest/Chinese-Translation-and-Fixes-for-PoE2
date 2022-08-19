@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_08_post_sabotage_reaction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「好吧，我知道了。會有人注意到嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我們讓眾神的重拳降臨於敵人身上吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我覺得我們還是&lt;i&gt;不要&lt;/i&gt;再回到那裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「這讓我想起了我的童年。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「真該死，我覺得爆炸規模不可能會&lt;i&gt;那麼&lt;/i&gt;大的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「瑪珈嵐的火焰山雀，船長！巫師號絕對不會做出那麼瘋狂的事情來！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「諸神還真是眷顧你，靈視者。從沒見過你這麼幸運的人。」</DefaultText>
+      <FemaleText>「諸神還真是眷顧你，靈視者。從沒見過你這麼幸運的人。」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

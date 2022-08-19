@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_magran_high_priest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>瑪珈嵐牧師有如一尊巨石。他的長袍下是粗壯的身材。
+
+他的眼神堅定、冷靜，點頭向你致意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「每一道障礙都是一個我們必須回應的挑戰。它們是磨礪我們，使我們鋒利的磨刀石。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「穆海去世了。我希望火化他的遺體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「穆海！？」
+
+牧師說話時發出嘶聲，打破了他冷靜的表象。他掃視你們兩人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「穆海已與瓦哈納斷絕關係。女王禁止任何人與他接觸。
+
+「沒錯，如果不是因為她生病了，她就會被放逐到地下城，現在這場病殺死了她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你身為一個瑪珈嵐牧師，似乎卻十分順從。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「那是什麼意思？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「盲目地進行攻擊只會讓劍刃變鈍。
+
+「瑪珈嵐教導我們要燒淨我們體內的弱點：恐懼，慾望，傲慢。那些東西會使靈魂從內部開始腐爛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「一個來自瓦普阿的群體想尋求穆海的建議，因為眾所周知她是一個了不起的導航員。
+
+「穆海在來到涅克塔卡之前，住在奧維齊。瓦普阿和奧維齊敵對了許多年，那時奧涅卡莎女王還沒有即位。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「女王希望我們所有部落聯合起來一致對外。
+
+「她無法容忍穆海的犯罪行為。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「她故意向他們指出錯誤的航向。這並不等於說她就謀害了他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「在部族之中共享資源。如果不公平分配，我們讓馬塔魯統治我們還有什麼意義呢？穆庫姆用鼻子歎息了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「好吧，怎麼說呢……這種分享的對象僅限於我們的人民。盡可能的，分給我們每一個人。
+
+「馬塔魯的職責是引導和保護。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「抱歉，我不知道是這麼回事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「關我什麼事？別擋我路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「她在孤獨中死去。這樣還不夠嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「你是要違抗我們女王的命令嗎？」
+
+牧師鄙夷地看著你，佈滿溝壑的臉上擰出一個嚴肅的皺眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「不，但我的意思是你應該這麼做。否則等著瞧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[把遺體扔進火裡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「事情不會就這麼算了的，外來人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我不會為了穆海製造更多衝突。
+
+「但是記住了，此等愚行只會為你帶來悲傷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「有人用刀劍殺人，有人用詭計殺人。
+
+「歸根結底，二者沒有什麼不同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「來，把遺體交給我吧。我會把她埋葬在城牆之外。
+
+「我只能為她做這麼多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[把遺體給他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「不行，我要達成她的遺願，把遺體火化。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「我會履行我的承諾。謝謝你，外來人。瓦普阿得以見證她受到懲罰，而女王的律法得到了遵守。
+
+「你做得對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「她與自己的人民站到了對立面，她是咎由自取。
+
+「她不配擁有與諸神同行的榮耀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「諸神除了惹麻煩外一無是處。他們根本談不上什麼榮耀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「但是……據說你向理庫胡起誓了。向貝拉斯。他們說的話難道也是謬誤嗎？」
+
+「這場對話過於危險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「很好。我要怎麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「火化遺體只是個象徵。又不會對任何人有壞處對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「如果舊日仇恨使我們再度分裂，那就對我們所有人都有壞處。」
+
+「穆海並不無辜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「她沒有辦法贖罪嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「穆海已死。她輸掉了最後一場戰鬥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你回來幹什麼？想繼續自取其辱嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「榮耀？別扯了。諸神毀了一切他們接觸到的事物。他們中大部分都是騙子和懦夫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「誰說贖罪的機會會隨死亡消逝？對有些人而言，恰恰是開始。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「她仍是你們中的一員。她的靈魂無法安息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我聽說你是女王的朋友。她信任你的判斷。
+
+「……既然如此，那我也該信任你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「你為人不錯，這麼重視我們中的一員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「我不能實行完整的葬禮。她的同胞仍在迴避她。
+
+「但是如果瑪珈嵐的火焰將她吞噬……那就這樣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「你畢竟是個外來人。你對我們的風俗一無所知。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「你離開太久了，兄弟。你忘記了何為正確。」</DefaultText>
+      <FemaleText>「你離開得太久了，姐妹。你忘記了何為正確。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「嘿，你！「你們在幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「噢，沒事。只是在扔垃圾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[逃跑。]「什麼也沒有！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「但是這到底……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「難道沒有別的辦法嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「你不屬於卡罕加的部落。
+
+「你為什麼要這麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「好吧。她就交給你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我是瑪珈嵐的牧師。如果她不能作為卡罕加人得到榮耀，我可以為她舉行一個瑪珈嵐信徒的葬禮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「如果你要這麼做，那麼願瑪珈嵐賜予你執劍之手無窮的力量。因為你這麼做會在涅克塔卡樹敵無數。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「我為她感到抱歉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我也是。穆海為她自己帶來了巨大的不幸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>牧師歎了一口氣，看著神殿的地面。
+
+他若有所思地抓撓著自己的下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「她的靈魂許諾我會有報償。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「原來如此，外來人，你難道不知羞恥嗎？正是自私扭曲了她的命運。你也會如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「團結使你們軟弱。現在你們全都依賴著女王，而不是為自己而戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「卡罕加在亡焰列島征服了大部分地區。現在奧涅卡莎決定我們未來的道路。
+
+「我認為，她正是我們應當效仿的榜樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「歡迎。我們聚集於此以示對女神的尊重，因為我們需要贏得力量來承受生命中最黑暗的戰鬥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「你知道你做了什麼嗎？你帶來的那個女人沒有資格實行這種儀式。
+
+「你會惹怒女王。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我才不在乎你們的習俗。我只想讓她的靈魂別再煩我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「穆海的靈魂在騷擾你？她的懲罰只針對她一人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「她對她的人民犯下了什麼罪行？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「穆海給狩獵隊伍指錯了方向，他們迷失了。
+
+「我們現在都是卡罕加。傷害瓦普阿就是傷害奧維齊。因為穆海背叛了她的人民，所以我們也被命令背棄她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「所以說這個裁決出於政治考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我的意思是，這個決定有利於我們的人民。貿易者們彼此開戰。」
+
+「每當熄滅一叢火焰，他們就會化作灰燼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>牧師在附近看著跳動的火焰，嚴肅的臉上表現出不贊同。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你把你可怕的負擔扔進火盆，它落進去時濺起飛散的火星。
+
+遺體燃燒的速度快得不自然，彷彿在一瞬間就化作了灰燼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「我的意思是，你的女王是個精明的領導者。你們應該感到幸運。」他點點頭，顯然印象深刻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「去宮殿怎麼走？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>牧師眨眨眼。他的微笑很溫暖，不過也有一些取樂的意思在裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「沿著上山的那條路走，一路走到巨蛇王冠。你在那裡就能看到了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「見到另一位牧師總是很令人開心。歡迎。如果你想練習儀式，歡迎加入他人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「這是你的神殿？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「是的，風雨是比任何牧師都好的教師。安於舒適的戰士只會讓自己受傷。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「我沒想到會在神殿裡見到這麼多外地人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「這是一個學習的機會。一個戰士如果只知道如何對付單個的敵人，又有什麼用處呢？
+
+「如果我們將來終有一戰，這也是瑪珈嵐的意志。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「我和瑪珈嵐相處得不怎麼好……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「要讓我選的話，我寧願藏起來看書。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「這麼說來，你是亞彌拉的信徒了。鑄魂師們把她的聖地據為己有了。
+
+但話說回來，他們的發明創造或許會取悅亞彌拉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「你確信如此嗎？瑪珈嵐不只是賜予人們力量。還有決心。信念。成就。
+
+「有許多方法你能夠取悅她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「那麼你該為自己贖罪了，趁你還沒遭受注定失敗和破滅的詛咒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

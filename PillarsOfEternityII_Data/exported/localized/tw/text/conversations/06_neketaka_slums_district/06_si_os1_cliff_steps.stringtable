@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_si_os1_cliff_steps</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你發現崖壁上有鑿出的階梯。雖然有些階梯十分狹窄，甚至有些已經破損不堪，但似乎其走勢最終指向了懸崖底部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你發現崖壁上有鑿出的階梯。雖然有些階梯十分狹窄，甚至有些已經破損不堪，但似乎其走勢最終指向了懸崖底部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[檢查小徑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[沿階梯向下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>走到一半，你發現前面的階梯幾乎已破損到無法行走。只有一點狹窄的階梯稜脊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你考慮著眼前的道路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[從橫欄處攀爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[嘗試穿過搖搖欲墜的稜脊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[返回頂部。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>在黑暗中，你敏銳地感覺到溝壑下有著其他什麼東西。
+
+是某棟老舊建築的橫欄。更重要的是，它看起來似乎比台階邊緣更寬——也更穩固。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>橫欄的確非常結實，讓你輕鬆跨越了溝壑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你輕鬆爬過了稜脊，抵達了另一側的台階。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你返回了懸崖頂端。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你繼續沿著台階前進，直至抵達下方的泥地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>這裡的地面似乎已經十分堅實了。不過，你看到了懸崖的半山腰處有一道大溝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你繼續沿著台階前進，直至抵達下方的泥地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>稜脊上由於長滿黴菌導致十分光滑。你嘗試多次後發現無法保持平衡，最後放棄了努力。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

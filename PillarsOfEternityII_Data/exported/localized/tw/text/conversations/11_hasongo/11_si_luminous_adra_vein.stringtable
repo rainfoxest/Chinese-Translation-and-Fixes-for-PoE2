@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_si_luminous_adra_vein</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>168</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>光魂珀依然散發著明亮的光芒。你觸摸它時雖然仍有一股暖意，但不再有奇怪的感覺了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你的手輕撫黯淡的魂珀，感受到了和觸碰國王港附近那根魂珀之柱時同樣的冰涼和刺痛。
+
+你將注意力集中在魂珀上。你周圍的世界迅速淡去，變成無邊無際的暗空，只有魂珀和遠方綿延起伏的許多縷金色線條。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你初次和我對話的嘗試十分勇敢。第二次嘗試，是出於絕望還是什麼？為何你不斷追蹤我，努亞堡的靈視者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「貝拉斯要求如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你毀了我的城堡，吃了我的靈魂，混蛋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我想知道你在計劃什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我要阻止你造成更大破壞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「沒錯，他們想知道答案。但眾神的事物又與你何關？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我要完成瑪珈嵐信徒未竟的事業。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我對我造成的傷害道歉，但這都是為了更好的未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「因為我……是你的牧師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「許多人都對眾神的想法感興趣，你為何將它看得這麼重要？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你給自己選擇了一個極其艱巨的任務，為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「是嗎？你真的認為基斯有能力插手眾神之間的戰爭？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「在這一切發生後，你的信仰想必有所動搖。有什麼是你自己無法領悟，而非要找到我才能明白的呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「這條件太過嚴酷，你成了神的棋子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「為什麼不質疑？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「為何凡人一定要服從眾神？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「或者應該說，其他神聽了才知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「如果我不找出你在計劃什麼，蒼白騎士會殺了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「如果有神吩咐我去做什麼，我從不質疑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我是一個牧師。我的職責就是服侍眾神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我聽了才知道是否滿意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「你覺得你這麼說會讓我好受點嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「這勉強算是個解釋，並不是你為自己開脫的藉口。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你最後一次出現時，取走了數以千計的性命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我只想解釋清楚狀況，無意安撫你，也無意為自己開脫。你能得到安寧嗎？還是說一心復仇？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「確實不是。當眾神插手艾歐拉的事務時，引發了山崩海裂，月亮從空中墜落，天空被灰燼附蓋這不公平。這不正確。他們如同風暴一般勢不可擋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「即使是神也需要汲取力量。這幅身軀所需要的力量……比凡人所需要的多得多。如果沒有努亞堡的那些靈魂，我永遠無法得到自由。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「探知神的意願，有如從縫隙中窺視，而這縫隙出現在構建我們存在理由的基石上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我需要告訴貝拉斯你的企圖，好贖回我的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「你的意思是說眾神的所作所為沒有理性可言，還是說你只是根本不在乎會造成什麼影響？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我真希望眾神能為他們的所作所為付出代價……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你一點也不在乎你殺死的那幾千人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我不想復仇，只想聽到答案。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「除非復仇能彌補你造成的傷害，否則我沒有興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「如果我能找到辦法讓你付出代價，我會的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「但是你已經知道了，靈視者，我們神曾經也和你一樣，只是敢於一探究竟的基斯。而我們有何發現呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「更多的秩序與混亂，但沒有更強的心智和靈魂，沒有更偉大的力量或智慧能引導我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「即使是將數千個不朽的靈魂融合在一起，其遠無止境的洞見與感知，亦不足以讓我們理解自身為何存在。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「讓我們自身的意志做出決定，在我們的謊言中投入信仰，就如同在奇技淫巧中辨析目的，在彌天大謊中尋找真相。不，凡人理應做得更好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「凡人在虛構的故事與藝術中尋求真實，那麼虛構的眾神又有何不同呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「那就告訴我們你究竟想怎麼樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「無論真實與否，我相信眾神有其行動的理由，而這些理由超出了我所能理解的範圍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「瑪伽嵐要求她的信徒建造神錘毀滅你。我有何權利質疑她？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「沒錯。凡人就應當服從眾神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「並不是，但我認為她這一決定是正義的，所以我會協助她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「直接與我的神交談所能獲得的無窮智慧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你回歸艾歐拉的原因。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你為何冒生命危險也想知道？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「有些凡人相信通過冥想和保持恰當的生活方式，他們的思想就能達到與眾神無二的境界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「你對正義與否的判斷標準又是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「如果凡人只為屈從於眾神的意志而存在，那又為何要給予你們自身的意志？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「啊。對努亞堡的靈視者來說，就算動機錯了，只要採取正確的行動，就算是件好事。但看戲劇的觀眾知道他們觀看的作品出自虛構，而大多數凡人卻並不像你一樣有見地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「啊，&lt;i&gt;究竟&lt;/i&gt;想怎麼樣，我究竟想怎麼樣，眾神究竟想怎麼樣……想窺見這問題的答案，就必須讓所有凡人都像你一樣知悉我等眾神的起源。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「如果凡人——即便是靈視者也不能例外——無法理解我等的思維，那麼你的追逐只會是一場空。我所期盼的世界中，凡人無需猜測我等的意圖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你身處一個獨特的位置。儘管灰鑰社與掌秘人極力隱瞞，你依然看透了我們的偽裝。你知道眾神的本質為何。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「沒有你所見識到的一切，便少有凡人能接受眾神的真實來歷。畢竟，我們並非歷來就是神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我上一次降臨艾歐拉時，錯誤地選擇了隱瞞自己的目的。我相信你比其他人更清楚這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[點頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「怎麼？你還在等什麼？眾神們想要答案。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「聽到你這麼說我很榮幸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「眾神的智慧超越數千凡人合力，歷經數千年歲歷練。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我們的靈魂經由輪迴往生，而輪迴由他們操控。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「弱者服從強者。歷來如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「我所受到的教育，來自我家人與朋友的潛移默化。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我的信仰教導了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「沒有理由，我就是知道。這是我與生俱來的一部分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我對我所傷害的生靈感到痛惜，但這不足以阻止我。我所做的事，所有的一切，都是因為愛，而愛意味著犧牲——有時需要很大的犧牲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我們本會付出代價的，靈視者，但我和我的同類將自己的本性隱藏了幾個世紀，不讓凡人知曉。在黑暗之中便無法釐正是非。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「但眾神的意志並不統一，否則世間就只會有一個神存在，也就只有一種意志。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我們並沒有自己的意志。 一切早已命中注定，這一刻的到來對你我而言同樣避無可避。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「為了把我們靈魂的麥子篩選出來，不讓穀殼混進輪迴中。我們如果不在試煉中進步，便在試煉中毀滅。毀滅那些弱者，未來的世代會更加強大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「然而疑問並未得到解答。我們彼此分裂，各自擁有獨立的意志有何意義？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「我也不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「然而疑問並未得到解答。目的為何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「那麼這混亂中始終存在的秩序，究竟是誰定下的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「儘管如此，我們依然發現彼此的目的有所衝突，我們就像自以為在看護的凡人一樣容易犯錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「話雖如此，我們並非一直如此強大。我們曾經和你們一樣。和你們一樣無力，和你們一樣終有一死，和你們一樣，想要知道答案。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「正如在眾神接手操控貝拉斯紙輪&lt;i&gt;以前&lt;/i&gt;的英格維仙一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「信仰可以給予你希望與指引，但這些東西究竟從何而來？是眾神給予的嗎？是凡人給予的嗎？是掌秘人給予的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「確實如此。貝拉斯與娥狄卡威脅巨輪懲罰和毀滅凡人。我希望眾神更注重它賜予新生與希望的力量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「溪流的轉折處並不知曉塑造它們的水源自何處，儘管如此，某處必然存在著源頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我希望如此，但你或許不會對我的答案感到滿意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「要完整估量我所造成的破壞，就必須將視野延伸到你之前的數百個世代。我無法抹消既成事實，但或許我能為所有人創造一個更好的未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「如果能做到，我會償還我的罪過，但全艾歐拉都沒有辦法給我足夠的懲罰，靈視者。我無法抹消既成事實，但或許我能為所有人創造一個更好的未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[保持沉默。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「你知道我殺死了數千人，你不知道我還殺死了數百萬人。死亡與我們如影隨形，靈視者。我們要時刻小心，珍視生命，但僅僅珍視還不夠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「我也不想選擇這種形態，但它最適合完成我的任務。我決不能重犯像維德溫那次一樣的錯誤。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「事實上，我覺得棒極了。貝拉斯甚至還賜予了我特別的力量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「總比讓某個神踏平了我的城堡，丟下我等死要好上一些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我也不想，但我別無選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「我很樂意為貝拉斯效勞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「當心，靈視者。她贈予的禮物往往都出於危險的目的。我無意傷害你，但蒼白騎士將你置於巨大的危險之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我理解你為何如此憤怒。許多凡人都為自己的不幸而詛咒眾神，但你與大多數人不同，你清楚地知道眾神是如何玩弄你們的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「你明明明知曉我們的本質，卻依然做此選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>俄撒斯沉默了。你能感到他正沿著你們之間的聯繫靠近。他的力量在你雙手周圍閃耀著，光的捲鬚向你週身的空氣中探尋，它們對著你四周無聲的迷失靈魂又戳又刺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>你的靈魂站在俄撒斯的肩膀上，和巨大的他相比之下顯得十分渺小。能量沿著這些絲線脈動，每陣波動都讓他得以繼續移動。
+
+他停下了。他低頭向回看，發出巨石碎裂碰撞的聲音。他的目光停在了你身上。他沒有理會那些絲線，但說話前沉默地觀察了你很久。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>儘管面容毫無變化，他停頓了很久才開始說話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「為了愛而付出難道有什麼不對嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「愛？你愛我們？」
+
+他對你的話思考了很久。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「鑒於你對我們已有所瞭解，很難理解你為何會愛我們，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「因為我知道有些神始終在試圖幫助我們。難道我不該為他們而原諒其他神嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「我的愛沒有附加條件。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「不需要原因，愛就是愛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[用手勢示意他說下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[點頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>俄撒斯體內散發出一陣明亮的光輝，他體內熙攘的靈魂們頃刻間安靜下來。他點點碩大的腦袋，對你說的話表示讚許。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「沒錯。我們都應該學會原諒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>俄撒斯體內散發出一陣明亮的光輝，他體內熙攘的靈魂們頃刻間安靜下來。他點點碩大的腦袋，對你說的話表示讚許。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「如果有更多像你這樣的人，艾歐拉或許會變得更好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「而且我們這裡結束後，我確定他們會隨時隨地使喚你，難道不是嗎，靈視者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「我會回答你的問題，但不是現在。離燈塔越遠，我這具身體與那裡的聯繫就越微弱，我已經拖延了太久。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「用不了多久，這聯繫就會完全斷開。如果那時我還沒有到達目的地，我就不得不攝食更多靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「那裡的士兵和蛇妖威脅不到我。我殺死他們並非出於敵意，而是為了讓這具身軀能夠繼續移動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「等等……在哈桑戈時你就是因此才殺了那麼多人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「那我們就別讓事態發展到那一步。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「你去哪裡？我在那和你見面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「你這弱點挺麻煩的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「是因為我才讓你不得不殺了這些人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「你真是冷酷無情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「我們現在沒有時間來研究這個問題，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「不是弱點，而是一個可怕而嚴重的限制。我在選擇這幅身軀前就已經知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「或許你很難相信，靈視者，但我對至今遇到的每個生靈都充滿憐憫。即使對你也一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>俄撒斯巨大身軀的邊緣開始變得模糊，逐漸溶解。他碩大的人形從你面前消失了。隨著他的移動，你們之間的聯繫開始迅速解開。
+
+俄撒斯說話時，他破碎不清的聲音從遠處傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「如果你想知道更多，來瑪珈嵐之牙的灰燼之胃找我。在我開始最後一項工作前，我必須在那裡休整。當我離開那個地方時，你不要跟隨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>緊接著這聯繫的絲線斷裂了，俄撒斯的身形消散，融入了無邊無際的灰色之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>你感到熱量沖刷而過，魂珀之柱令人不快的感覺消失了。朦朧的暗空被現世的明亮光線刺破。
+
+你回到了燈塔。你身旁的光魂珀不再黯淡，而是散發著熱量和光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「我會盡我所能。你也是，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「因為眾神顯然一點對看護凡人一點也不感興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「我將此視作我身為靈視者的責任。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>他沒有立刻回答，但他體內散發的光芒閃爍起來，短暫的黯淡讓你看清了魂珀內部的眾多靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「我並不追求暴力或死亡，但瑪珈嵐和掌秘人讓世人堅信瘋子維德溫一心想要毀滅鹿林和所有鹿林人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「事實上，我的確想要引發一場戰爭，但不是為了暴力。而是為了良知。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我們中有一些仍然關愛著凡人。我們實行這個試驗，是出於對世人和未來的考慮。我相信我們起初都懷有最大的善意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>俄撒斯的視線動搖了，淚水在暗空中散發著微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「在這數個世紀之中，有些事變了，有些事失控了。我用了很久才看清這一點，但每天都會帶來全新的黎明，也是一次新的機會，讓我們從成長後的視角來重新審視世界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>俄撒斯巨大的石頭眼睛仔細審視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「漫漫歷史中，靈視者曾被稱作騙子和瘋子，先知和預言家。但我還從未見過其中哪一人承擔起眾神與凡人之間的仲裁責任。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>又一次，你聚攏你神志中的絲線，構造出一道強力的聯繫，從它遙遠的固著點向外延伸。
+
+又一次，終點傳來碎裂的聲音。你的意識被粗暴地順著聯繫拉過去。你這次準備好了應對衝擊，但仍在突然停下時感到暈頭轉向。
+
+你發現你自己站在一個熟悉的巨型雕像背後，它正跋涉通過看不見的水域。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「我的行為並無敵意。一切只是巧合，時間，地點……還有需求。」
+
+俄撒斯說話的聲音越來越微弱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「如果人們看到，虔誠的格蘭芬瑟人嚴加看護的遺跡不過是上古時期英格維仙人用來將自己轉化成神的機器，那會有什麼後果？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「我們並非歷來如此，但我也不想讓我們回歸本來的形態。一定有什麼更好的辦法——對所有人都更好的辦法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「是的。你從國王港聯絡我時，我不得不斷開了與光魂珀的聯繫。失去這聯繫後，我無力前往哈桑戈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「我從海中生物和哈桑戈的人們身上吸取靈魂，直到足以維持至我抵達燈塔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「在離開前，我應該把這個歸還給你。我還需要借用你靈魂的強大力量，但可以分出這一部分來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>一陣能量順著金色絲線朝你傳來。即使它還沒有接觸到你，你也感覺熟悉而令人寬慰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>在光芒之中有一團黑暗，混沌而狂暴，與它溫暖明亮的外殼形成了鮮明的對比。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「我見到了你心中的黑暗，靈視者，但我不會因此而評判你。永不。拿走屬於你的東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>你開始聚攏神志中的絲線，發現它們不再像上次那樣抗拒。
+
+絲線飄蕩不定，穿透了包容一切的昏暗。儘管能量仍在其中脈動，它在絲線的另一頭出現，形成了短暫而遙遠的金色雲朵，彷彿一群借由絲線定位的螢火蟲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>移動絲線沒費多少力氣，只需在腦海中有意識地表達出要求。隨著絲線在你面前融合在一起，另一頭開始變得晦暗，破碎。
+
+很快，剩下的只有褪色的灰燼，混在無邊無際的灰色背景中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「我見到了你心中的黑暗，靈視者，但我不會因此而評判你。永不。拿走屬於你的東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>能量湧來，你以為早已遺忘的感情和記憶沖刷著你，直到它們填滿了你靈魂的縫隙才停息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

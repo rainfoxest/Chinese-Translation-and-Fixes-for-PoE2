@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tooltips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>大法師郎歌世因其防禦性法術而聞名。她並非第一個擁有『郎歌世』頭銜的人，也不會是最後一個。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>大法師郎歌世因其防禦性法術而聞名。她並非第一個擁有『郎歌世』頭銜的人，也不會是最後一個。你在穆蓋克茵恩遭遇巫妖康賽豪後，與她做了一筆交易。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>大法師郎歌世因其防禦性法術而聞名。她並非第一個擁有『郎歌世』頭銜的人，也不會是最後一個。你在穆蓋克茵恩遭遇巫妖康賽豪後，把她殺了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

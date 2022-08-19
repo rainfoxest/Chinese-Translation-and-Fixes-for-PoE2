@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_si_dragon_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>石門仍然沒有打開。之前毫無反應的雕刻盤現在發出了光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[用深淵獵手長杖觸碰大門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>門後是一條暗無光線的通道。巖壁上瀰漫著霧氣，倒垂的鐘乳石如利齒般懸於頂部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>大門立刻有了反應。一道石板移開，露出了一塊刻有符號的刻度盤。
+
+這好像是一處需要精確組合的鎖定裝置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[穿過通道。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[逆時針旋轉刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[順時針旋轉刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>刻度盤上雕刻著蒼白的月光照耀在艾歐拉之上的景象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>刻度盤上的圖像是瓢潑大雨從雷雲間傾盆而下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[逆時針旋轉刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[順時針旋轉刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>隨著一聲費力的嘎吱聲，刻度盤的圖像換成了相互伸出，幾乎就要握住的兩隻手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>刻度盤上的圖像是胡亞納人對昂德拉的描繪，表現為一隻琵琶魚頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[逆時針旋轉刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[順時針旋轉刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[逆時針旋轉刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[順時針旋轉刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[開始旋轉刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>刻度盤轉回了代表月亮的符號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[按下刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你聽到門後有一陣石頭嵌進位置的刺耳機械聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[按下刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你聽到門後有一陣石頭嵌進位置的刺耳機械聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[按下刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>你聽到門後有一陣石頭嵌進位置的刺耳機械聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[按下刻度盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你聽到門後有一陣石頭嵌進位置的刺耳機械聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你聽到刻度盤下陷時旋轉的卡噠聲。低沉的轟隆聲響起，大門向內打開，露出了裡面一條黑暗而狹窄的通道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>石門仍然緊緊關著。有些符號比其他雕刻與銘文更為顯眼。除此之外，你沒有發現任何與開門有關的線索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>當你接近大門時，刻石亮起了飄渺的光。你感到有一陣不知從何處吹來的鹹濕微風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[推門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>大門關得嚴嚴實實。用蠻力無論如何也不可能打開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[找尋鎖定裝置。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>在你搜索大門的古代雕刻時，你發現了一塊石板，似乎是用於保護某種內部裝置的。石板仍然紋絲不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你聽到門後有一陣刺耳的機械聲，雕刻轉回了月亮的符號。看起來你的解鎖順序並不對。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>門後又傳來刺耳的機械聲，組合鎖也恢復了原位。刻度盤必須要按照另一順序旋轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>你沿著黑暗而狹窄的通道前行——其寬度必須攏起肩膀才能容納通過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>蛇妖薩滿發出了不滿的嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[研究刻度盤周圍的符號。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>抹去一層塵埃之後，一塊象形文字的圓形刻度盤顯露了出來。儘管你尚未弄清其間有何聯繫，不過單個符號倒是認得。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>下面是一個胡亞納的昂德拉符印，使用了其作為恩加蒂的經典琵琶魚頭形象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>第一個是滿月照耀在艾歐拉之上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>下面是兩隻相互伸出的手，指尖幾乎已經觸碰在一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>最後則是傾盆而下的瓢潑大雨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[砸門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你用盡全身力氣狠狠砸在門上，手指都砸出了血來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>有人笑了起來。你扭頭看去，小隊中的笑聲立刻安靜了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>石門發出了光芒，似乎在回應你從蛇妖那裡拿到的長杖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>通道中的空氣無比潮濕，散發著不僅有一股污水的味道，還有更多——某種讓你不禁後頸寒毛直立的感覺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[執意前往。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>就在你邁出第一步時，一聲震耳欲聾的咆哮迴盪於通道之中，讓周圍的巖壁震盪不已。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[閱讀銘文。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>石門上裝飾有胡亞納符文：
+
+&lt;i&gt;只有被選中之人證明自己的價值後，恩加蒂才會賜予其水之誓約。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>&lt;i&gt;這間聖殿就是我們製作的誓約。
+
+只有誓約的印記與吾奉獻之詞才可打開通路。
+
+~會長佩瑞琪。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>在精緻的石刻中間有一段褪色的銘文。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

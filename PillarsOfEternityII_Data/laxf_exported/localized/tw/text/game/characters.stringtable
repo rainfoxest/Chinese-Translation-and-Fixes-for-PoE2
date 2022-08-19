@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\characters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText>豪尼奧威</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText>巨型黑軟泥怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText>超巨型黑軟泥怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1649</ID>
+      <DefaultText>貝蘭嘉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1657</ID>
+      <DefaultText>蜘蛛洞穴</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

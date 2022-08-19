@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_qst_04_god_body</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>欺騙之種</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到前往沃艾珥身體的道路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>進入沃艾珥的身體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>在沃艾珥的身體中尋找神器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>搜索神秘之心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>歸還神種。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>郎歌世要求我&lt;b&gt;尋找來自英格維仙的某個遠古秘法神器&lt;/b&gt;，這個身體就在&lt;b&gt;沃艾珥的身體中。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>在探索沃艾珥的身體之前，我必須先&lt;b&gt;想辦法進入它的身體&lt;/b&gt;。我必須想辦法找到那個龐然大物的所在地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經&lt;b&gt;找到了&lt;/b&gt;通往龐然大物的通道，我已經可以&lt;b&gt;進入它的深處了&lt;/b&gt;。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>如今我已經進入了沃艾珥的身體，我可以&lt;b&gt;尋找神器&lt;/b&gt;了。
+
+這件事應該沒多困難才對。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我已經找到了神器的兩個碎片，但&lt;b&gt;核心&lt;/b&gt;依然下落不明。或許我得&lt;b&gt;進入更深的地方才能找到它。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我已經得到了&lt;b&gt;完整的神器。&lt;/b&gt;現在，我應該&lt;b&gt;把它還給大法師了。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我找到了某個東西，看起來像是某種秘法神器的一部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我找到了神器的第二個部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我已經把神種交給了泰恩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我已經把神種交給了郎歌世。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我把結構圖還給了沃艾珥的先知。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我自己留下了神種。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>郎歌世因為我解決沃艾珥身體的手段而不肯和我說話。我想神種聖物現在歸我所有了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>泰恩想讓我&lt;b&gt;從沃艾珥的身體中取回一件神器&lt;/b&gt;，一個&lt;b&gt;神種&lt;/b&gt;。它是從無到有構建神軀所需要的原理與藍圖。 </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

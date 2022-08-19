@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_stranded_ship_vailian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0]指向了遠方的船隻。「是大帆船，船長。一艘三桅船。或者說曾經是。」
+
+船隻的前桅只剩下一些光禿禿的木樁殘片，而船首斜桅也被切斷了。
+
+「看看她都成了什麼樣子？這就是那些海盜幹的好事。最有可能是皇族海盜，而且也許是新崛起的勢力，考慮到他們敢在距離瓦利亞巡邏航線這麼近的地方犯案。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「在她旁邊停一下。我們得找找還有什麼剩下的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「繼續我們自己的航線。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你率領一支小隊登上了大帆船。大部分貨物與船員都不見了蹤影，不過你還是找到了幾桶淡水與一些干米和樸素的食物。
+
+你幹活十分麻利，很快就將這裡清理一空。你返回了自己的船，令[Specified 0]再度起航。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0]表示致意。「沒問題。」
+
+船員們各就各位，準備離開這片區域。
+
+在這艘船離開你們的視線後，船員們終於將緊張的目光轉變為如釋重負的笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你的船員們衝向自己的戰鬥崗位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 2]湊近過來。「他們會拿走所有黃金，不過也許會留下點補給。」
+
+[Specified 1]的眉毛上掛著汗珠。「我們不該在這裡逗留。如果瓦利亞看到我們在掠奪他們的船，我們可沒機會解釋了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>儘管[Specified 0]發出了警告，你還是決定登上大帆船。
+
+有一艘瓦利亞私掠船向你這裡加速駛來。
+
+在[Player Ship]上的船員們趕緊將船調整至戰鬥準備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>不過當私掠船接近時，你發現他們指向你掛起的瓦利亞商行旗幟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>不過當私掠船接近時，你發現他們指向你的瓦雷拉船帆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>不過當私掠船接近時，你發現他們指向你的旗幟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>對方船長向你脫帽致意，私掠船又很快離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「火炮上膛。炮手們得來點鍛煉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>一面天平與群星——代表瓦利亞商行的旗幟從主桅升起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Specified 2]搖搖頭歎了口氣。「或者我們可以把東西擊沉到海裡去。」
+
+[Specified 1]點點頭。「遵命，船長。」
+
+[Specified 0]大聲吼道，船員們開始準備甲板下方的火炮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「啥？我們可壓根沒有炮彈。」
+
+[Specified 2]咳嗽道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你率領一支小隊登上了大帆船。大部分貨物與船員都不見了蹤影，不過你還是找到了幾桶淡水與一些干米和樸素的食物。
+
+由於你經驗不足，花了大半天才將船上的東西清理乾淨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>在你返回自己的船並起錨出發之前，私掠船已經十分接近了……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我並不熱衷於掠奪瓦利亞人的船，但就算我們不搶他們的貨物，也有其他人會搶。」
+
+她不悅地審視著那艘船，搖了搖長著羽毛的腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你的炮手們證明轟擊立定靶還是小菜一碟。在你的注視下，目標打著卷翻滾起來，然後沉沒在波浪之間。
+
+甲板下方的船員們一齊跺腳歡呼著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你的炮手們轟擊立定靶也完全不行，炮彈直接遠遠飛離了目標。
+
+船員們從觀察口退了回來。
+
+[Specified 0]看向你。「再來一次，船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「再來一輪齊射！這次別再射歪了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「不。我們離開這。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你的炮手們證明轟擊立定靶還是小菜一碟。在你的注視下，目標打著卷翻滾起來，然後沉沒在波浪之間。
+
+甲板下方的船員們一齊跺腳歡呼著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>火炮再次發射……又再次錯失目標。
+
+[Specified 0]歎了口氣。「有何吩咐？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「把那該死的船炸沉！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>你的炮手們證明轟擊立定靶還是小菜一碟。在你的注視下，目標打著卷翻滾起來，然後沉沒在波浪之間。
+
+甲板下方的船員們一齊跺腳歡呼著。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

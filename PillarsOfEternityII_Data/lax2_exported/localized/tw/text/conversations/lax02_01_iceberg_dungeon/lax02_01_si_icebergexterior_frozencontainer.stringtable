@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_si_icebergexterior_frozencontainer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>厚厚的冰層裹住胸口，將它封的嚴嚴實實。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[用撬棍打開它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[用火炸開它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[走開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你把撬棍放在容器體和蓋子間撬動。你小心的按壓著堅硬的鐵棍，隨著類似於木與冰一般的開裂聲，蓋子向上飛起。
+
+箱子被打開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[強行打開蓋子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你將手指滑入小裂縫，隨著肌肉收縮，你未發出聲音就把蓋子從箱子上拉開。隨著一陣木頭和冰塊碎裂的聲音，它突然打開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>伴隨著一團水汽、一陣嘶嘶聲和砰的一聲，冰融化了，露出了下面的箱子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[檢查它有無缺口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[輕輕敲一下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你做出幾個手勢，吟唱了一條能量咒語，將環境中的精華融入到一陣熾熱的火焰中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你做出幾個手勢，吟唱了一條能量咒語，[Specified 5]召喚出一陣熾熱的火焰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>重重的敲擊幾下後，你破開大部分的冰，讓箱子蓋露了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>重重的敲擊幾下後，[Specified 4]破開大部分的冰，讓箱子蓋露了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>輕輕地拍打箱子不會對它造成明顯變化。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>箱子的蓋子與箱體之間能看到一個小裂縫，剛好足以放入撬棍或基斯的手指。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你跪在冰冷的地面上，仔細察看著凍住的容器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 3]跪在冰冷的地面上，仔細察看著凍住的容器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>它看起來像裡面有個箱子的大冰塊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Specified 0]展示出驚人的原始力量，抓住蓋子將它從箱子上扯下來。隨著一陣木頭和冰塊碎裂的聲音，它突然打開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>蓋子紋絲不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[用破冰之器打開它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>重重的敲擊幾下後，你破開大部分的冰，讓箱子蓋露了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>輕輕地拍打箱子不會對它造成明顯變化。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

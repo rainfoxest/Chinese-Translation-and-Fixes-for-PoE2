@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_tsk_03_celestial_magic_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>明日之星</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在&lt;b&gt;檔案庫&lt;/b&gt;內搜尋&lt;b&gt;貝卡納的魔典。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將魔典還給&lt;b&gt;貝卡納。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>取回&lt;b&gt;貝卡納的魔典。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;貝卡納&lt;/b&gt;在晦密之廳裡弄丟了自己的魔典。她認為到現在那本書應該被按目錄分類放置在了&lt;b&gt;檔案庫&lt;/b&gt;裡的某處。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>在晦密之廳中，似乎所有的書最後都會流入&lt;b&gt;檔案庫&lt;/b&gt;中。貝卡納的魔典可能也在那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我用暴露在星光之下的方式令貝卡納的魔典恢復了正常。若把書還給她，她肯定會心懷感激。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>貝卡納的魔典看起來死氣沉沉的，幾乎已經失去了所有秘法力量。或許有辦法令它的功能恢復。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>檔案庫裡的一則筆記提到有一本異常的魔典被拿到&lt;b&gt;沃艾珥的祈禱室東部區域&lt;/b&gt;時產生了反應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>根據我找到的筆記判斷，將魔典拿到&lt;b&gt;沃艾珥的祈禱室東部區域&lt;/b&gt;或許有助於它恢復力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;沃艾珥的祈禱室的東部區域&lt;/b&gt;的天花板上有一個窟窿，使外界的光能射進來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>貝卡納說，把她的魔典放在星光之下，魔典上的內容就能恢復。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我把魔典放在了日光下面，但什麼都沒有發生。或許我可以換個時間再來試試。說不定貝卡納能給我一些建議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>&lt;b&gt;沃艾珥的祈禱室的東部區域&lt;/b&gt;的天花板上有一個窟窿，使外界的光能射進來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>貝卡納死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>貝卡納的魔典已被交還。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

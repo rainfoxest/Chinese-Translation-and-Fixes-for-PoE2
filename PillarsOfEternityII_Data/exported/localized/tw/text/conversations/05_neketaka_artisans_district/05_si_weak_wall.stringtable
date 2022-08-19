@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_si_weak_wall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這面牆似乎最近才修繕過。大部分石頭都是新的，但經過了一番剪裁以適應周圍的老建築。
+
+如果有適當的工具或者夠強的蠻力，應該可以破壞這處堅實的障礙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[檢查石牆。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>這面牆似乎很結實，不過有鐵錘與鑿子應該可以迅速處理完畢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[找人擠過牆。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>牆上的凹痕崩裂開來，使得整隊人可以挨個擠過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>牆壁非常堅實。這樣做除了肩膀擦傷與灰心喪氣之外毫無結果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[鑿開凹痕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>費了些時間後，你成功破開了新近修理的部位，鑿出了一處可以通行的入口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你注意到石頭周圍環繞著如同網路一般精緻的金屬線。這些線通向一處警報系統，移除石頭時就會觸發。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[破壞警報系統。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你小心地將纜線斷開，現在可以安全地搬開石頭了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>一下拉扯所有纜線並祈禱其同時失效顯然不是個好主意，你最後還是選擇放棄了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>最後一塊鬆動的石頭移開之後，你看到了一條閃著銀光的線。莊園內某處傳來一陣鈴鐺與號角的警告聲，並逐漸變成了不斷靠近的高音咯吱聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

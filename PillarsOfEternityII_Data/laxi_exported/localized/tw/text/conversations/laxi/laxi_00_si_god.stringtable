@@ -1,0 +1,2630 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\laxi\laxi_00_si_god</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>524</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你撬開舊書的書脊，找到了發黑的紙頁，上面有著密集而難以辨認的語句。這些文字在你的注視中逐漸消散在陰影中。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你取得了出色的進展，靈視者。但不可自滿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「如果你想要答案的話，別再四處找了。我這裡就有不少。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>一名老婦人走上前，在高處向下睥睨著你。她的笑容尖利而殘酷。她的臉頰堆在周圍活像是融化的蠟油。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我很高興我的信使找到了你。現在想找個好幫手幾乎是不可能的事了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「娥狄卡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[鞠躬]「尊敬的女士。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「女王，有何吩咐？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「別靠太近，老妖婆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「在你掏出武器之前，你最好知道這一切並沒有敵意。如果這是個陷阱的話，你早就中招了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我該好好謝謝你，親愛的。自從鹿林的事情告一段落之後，我變得更加……哎呀，我得有很多年沒這麼有正義感了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「貝拉斯和俄撒斯對著我的兩隻耳朵吵個不停，我希望你能以更加&lt;i&gt;成熟&lt;/i&gt;的觀點把這些噪音從我腦子裡趕走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「有意思，我們談談吧。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你還有什麼話我沒聽過？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「這些書啊詭計啥的有必要嗎？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我聽夠了眾神的話。別再來煩我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「無禮的孩子。你不願意聽我好言相勸，也與我無關。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你不覺得我這些兄弟姐妹們異常地好說話嗎？經過了數千年的低語，現在他們說啥都得大聲叫嚷出來才行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「另外我們只有當著凡人的面才會鬥嘴，這難道不反常嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你想說什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「眾神天生就愛演戲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「當我們飛昇成神的時候，我們為野蠻的人類提供了這些。我們的目標是創造一個價值永存的社會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「俄撒斯可不怎麼聰慧。他已經兩次污染了我們實驗的純粹性，並且嚴重損害了我們的權威。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你和你的盟友對抗這次威脅的方式將表明你們是否能引領自己的命運，又或者我們是否需要調整策略。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「現在你知道真相了。我想你應該有問題要問吧。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你為什麼要選擇相信我？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「難道眾神認為&lt;i&gt;我的&lt;/i&gt;行動能證明他們對凡人社會的看法嗎？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我想聊聊貝拉斯之輪和你們飛昇成神的事。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「英格維仙人怎麼成神的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[合上書。]「我們回頭再聊。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「不管是不是有意的，你好像成了變革的急先鋒啊。像你這樣的凡人一生難遇。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「有些人就算我不由分說將凡人的自由完全剝奪也不敢有所回應。你作為他們的代表現在擁有站在這裡的殊榮。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「在我返回艾歐拉成為你支援的暴君之前，你還有機會證明我是錯的——向我證明凡人是否有足夠的責任感承擔自己的未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「你這話說的我們好像完全沒有機會一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText> 「我們需要秩序，即便是來自暴政。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你這話說的你們好像有一樣。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你還真是務實啊。我開始覺得我們的相處會很愉快的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「凡人們沒多少時間決定自己的未來了——他們是會團結一致呢，還是褪下驕傲卑躬屈膝？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「只有一小部分神明相信你的選擇會證明他們的盲目樂觀精神。就好像凡人之間的團結協作能代表我們的領導能力似的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「基斯是脆弱不堪的生物，除非他們向我們為其設計好的命運屈服。其他妄想只會帶來異議與混亂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「貝拉斯之輪是我們全體的責任，而我們都在以各自的方式承擔著。我就是平衡眾神力量的橫軸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「俄撒斯讓貝拉斯之輪保持著運作。他讓我們得以對凡人許諾稱所有的辛勞與時間都會在來世得到應有的回報。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「直到現在我才明白我們完全錯付了自己的信任。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你還想問些什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「擁有如此強大力量的我們已經認識到了靈魂的潛力。我們知道它可以被連結，被分離，像河流一般轉向或是如錘頭般堅實。要鍛造它簡直不費吹灰之力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「眾神中有些支援神化計劃，而有不少反對者選擇要用粗暴而可怕的方式磨滅我們自己的個性。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「一切塵埃落定之後，我們選擇了艾歐拉之中最為盛行的神話作為存在的形式。當時也有其他的信仰與傳說，不過我們將其完全從歷史上抹除了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>娥狄卡向下直直盯著你，她的雙眼瞪得更大了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「你信任胡亞納人並沒有什麼錯。他們的社會存續悠長，但這並不能阻止他們的眾多部落受到外來侵略的欺壓。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「你對瓦利安共和國的覬覦可以說是很有野心了。他們靠著藝高人膽大的本事發展經濟，但我擔心內鬥與腐敗最終會扼住他們發展的前路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我知道總有一天亡焰列島會被武力所統治。堅船利炮終將蓋過妥協的聲音。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你讓我想起自己為何從不依賴他人的判斷。我從來沒有想過亡焰列島、烏凱佐還有我們最偉大的成就全部落入海盜之手。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「你沒有與凡人合作，而是自己奮鬥至今。你拒絕了妥協、理想主義，還有其他人的提議。我的所有懷疑都被證實了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「卡罕加宮發生的一幕真是令人可恥，並且完全證明了凡人需要可靠的領導與有力的指引。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我看到了你是如何在伽拉溫撤退後的小島上表現的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我注意到我兄弟所處的靈界的冰封之角比往常更加安靜。維特瑪德的大門已經緊緊關閉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我明白你成功逃出了沃艾珥的身軀。而你的意志在此期間也沒有受到較大損傷。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我仍抱有一絲希望，讓亡焰列島在蠻力與火藥面前臣服，並迫使凡人攜手共戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「大逆不道。真是可恥的一幕，凡人社會的可憎罪狀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「你也許不相信我，但我曾愉悅地看著瓦利安高層的幾度更迭。沒有什麼比一場好的審判更讓我激動了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「看來涅克塔卡的又一樁醜事以戲劇性的形式公開了。如果有人對自己房子底下的巨龍無動於衷的話，那你真該好好考慮下自己的胡亞納朋友了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「我並不指望瓦哈奇人會向卡罕加統治者卑躬屈膝。也許亡焰列島的變革會比我預想中來的更快。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我已經瞭解到，籠罩波格科哈拉的風暴消失了。我們能感覺到這份變化甚至傳到了靈界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「看來你解決了那個海盜新貴，並且終結了他的妄想。幹得好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>憂心忡忡的眾神們一言不發地接連離開了。有個人影孤單地留在原地，直到她的同伴們已經走遠。娥狄卡向下盯著你，臉上掛著一副得勝似的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「我有一項任務要交給你，親愛的。最終審判的時間即將到來，而我站在你前方承擔著重任。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「靈視者，你回來了。你準備好聆聽了，還是說我們要繼續彼此浪費時間？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「我聽著呢。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[離開]「我沒什麼好跟你說的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「和往常一樣有魅力。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「事實上是有必要的時候。但那完全不是重點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「如果我們還擁有泰坦的話，我們這些兄弟姐妹早就終結掉俄撒斯和他的暴走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「傲慢對你沒有絲毫幫助，孩子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「你不過是勝過一些渣滓而已，縛誓者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「你要如何才能認識到這個理想社會？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「這個社會工程計劃難道不是有悖常理嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「這是個適得其反的問題，當然我也經常提。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「你是說眾神在創造一個無神的世界？不出所料。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「我們之中的軟心腸指望你們能贏得這份關乎存在的賭注。毫無疑問俄撒斯也顯示了自己的同情心。但我沒有。我們的存在就是為了統治凡人。沒有什麼能改變這一點。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「你最好記住了，親愛的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「儘管我們沒有能力阻止他，我的某些族人也希望看看凡人要如何應對這場威脅。他們覺得這會『照亮我們扶植者的價值。』」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「在我們操之過急之前，我先說明我請求了沃艾珥的泰坦來阻止俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「我都和那些全視全能的智障說過多少次不要來攪合大人的事情了。這比當初我讓他們戴我的王冠更糟糕。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>娥狄卡朝你眨了兩下眼睛。然後她伸手摀住眉毛髮出一聲疲倦的歎息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「如果俄撒斯摧毀了貝拉斯之輪，那麼凡人很難相信眾神會修好它了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「說吧，靈視者。我可不是每天都願意這麼交流的，所以你最好聰明一點。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「嗯，我想會的。我們的討論不會就這樣結束。你知道如何回到這裡。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「基斯這種不負責任的生物根本不知道什麼是對自己好的。這是一個千載難逢的機會能夠贏取他們的信任並顛覆他們的最高政權。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「並不是說我們需要他們的信任。或者愛。拯救他們之後再統治他們就顯得比較合規矩了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「貝拉斯之輪究竟是如何運作的？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「輪迴早在你們之前就存在了，別去打擾它不行嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「輪迴大部分來說是存在於靈界理想之域的一種『機關』。你也沒辦法找到一面滿是齒輪和拉桿的牆，除非我們將其召喚出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「你們對凡人的觀點改變過嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「你應該已經知道這個問題的答案了，墮落之子。我行使了自己的權利，審判了你們這個腐敗短視的種群。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「你們是否已經可以自給自足，還是說我們要返回艾歐拉採取一些修正措施？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「亡焰列島上的社會正在進行融合。我的&lt;i&gt;某些&lt;/i&gt;族人認為我們有意針對凡人的表現對其進行評判……」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「而他們在一場能夠決定全體凡人的賭約中讓你贏得了自信。這是為什麼？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「亡焰列島是他們的，烏凱佐也是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「我們撐過了天災、戰爭、饑荒還有波瀾起伏的海洋。這場衝突不過是小事一樁。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「無論是對抗外來者還是眾神，他們都知道如何團結一致共禦外敵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「我只想讓一些戰艦在大海深處夾擊[Player Ship]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「嗯，我的好奇心算是滿足了。暫時如此。在我們的偉大計劃中，你是一個不可預測的變量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「你將自己的希望寄托給別人，這是十分危險的遊戲。凡人的天性中就帶著欺騙與失敗。我可以保證他們用不了多久就會讓你失望的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「奧涅卡莎女王在安撫敵人時讓自己的多少子民陷入危險之中？她的腦殘兄弟有多少次差點在談判中拔刀相向？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「卡斯托爾主管仍然保有權威，但他還有多久就又得維護自己的地位？如果他不能控制自己的人民，他又怎麼控制亡焰列島呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「我看到了狡猾的阿爾瓦瑞總督如何逼走了她的上級。她更有資格作為領袖，還是說她只是更有進取精神？這中間的區別可不小。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「而他們在一場能夠決定全體凡人的賭約中讓你贏得了自信。這是為什麼？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>」未來需要鑄魂學、大膽的想法和革新。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「我相信帕蕾吉娜。她就是我需要的保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「再沒有其他人擁有這樣的資源或是都城。昨天他們還是商人，但明天他們就可以是世界領袖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「他們給我的報酬非常，&lt;i&gt;非常&lt;/i&gt;豐厚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「這些商人一次次將短淺的目標放在了長期變革之前。僅憑這一點我也不可能將希望寄托於他們身上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「奧涅卡莎女王和我一樣都曾受過背叛的苦痛。你能聽到她嗎，靈視者？她在靈界的深淵中咆哮著索求正義與復仇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「阿羅希王子得償所願馬革裹屍，但征服戰爭會將他的成就完全改寫，而他的名字也將湮沒在歷史中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「努瓦泰經過無數努力才讓自己在世界舞台上贏得了角鬥者的角色，但對其忍耐力的真正試練尚未到來。弒君一事算是個麻煩的開場。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「而他們在一場能夠決定全體凡人的賭約中讓你贏得了自信。這是為什麼？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「亡焰列島需要秩序。不是貪婪，也不是盲目的希望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「麥婭是其卓越的訓練與凝聚力的產物。這就足夠說服我了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「努瓦泰致力於有效利用資源，而非肆意開發或是任憑處之。我尊重這份務實的精神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「嗯，他們的確說要給我一艘潛艇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「弗蘭特設法獲得了大權，但普林西比海盜並不能忍受中央集權制領導。他這種陰險的統治堅持不了多久。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「……還有艾戴斯船長。無畏、果斷又斤斤計較。深得我心。如果有更多基斯能遵從這份原則，那麼普林西比海盜就能領導其命運。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「這是對胡亞納與商行的激烈控訴，他們連從一群笨蛋醉漢的艦隊手裡保護亡焰列島最重要的資源都做不到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「而他們在一場能夠決定全體凡人的賭約中讓你贏得了自信。這是為什麼？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「至少普林西比海盜對自己的缺點很坦誠。商行卻把腐敗粉飾成了政策。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「塞拉芬相信普林西比海盜。他們是他的家人，而他們也值得一份奮鬥的機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「如果他們能從亡焰列島的掌管人手裡將其搶走，那麼這就是他們應得的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「我當時打賭的時候可能是喝醉了，但是我完全支援飲酒[Player Name]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「俄撒斯毫無疑問對凡人與其成功的機率持更樂觀的態度。他已經有了想要的一切，所以去聽聽他那空無一物的理想主義吧。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「你身上肩負著重擔，靈視者——為凡人出聲並代表其在未來的傾向。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「我們其他人會磨快利刃，準備好他為我們鋪開的未來。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「我想我們不用再對彼此說些什麼了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「一如既往地振奮人心。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「無人可望你項背，偉大之人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「無論你是否聽取過我的智慧，你迄今做出的一切努力已經證實了我們對凡人的觀點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「我打算毀約。無論發生什麼，我們都能共同面對。必要的話甚至放棄你們。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「當然了，我會懷念我們這樣聊天的，親愛的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「我的字典裡可沒有鼓勵。你來找我是為了正義、復仇以及殘酷的現實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「我希望你對自己的表現感到滿意。我們都從彼此身上學到了很多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「我做出了改變嗎？凡人準備好掌控自身命運了嗎？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「感謝你做的一切，輝煌的女王陛下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「再見，娥狄卡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「我無法相信凡人能掌握好自己的未來。你為了證明我錯誤而做出的努力值得欽佩，而我的對手們會以你為例反對我的統治。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「我曾覺得你在我身上白費口舌，但我想我還是會懷念的。把我的書留在你的床頭吧，親愛的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「商行、本地人甚至海盜們都有伺機待發的計劃來對抗這一威脅。你將其全部否定，認為凡人並沒有能力來掌握自己的命運。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「我完全贊同。當我最後確立在你們之中的領導地位時，唯一的挑戰將會是說服其他人共同執行我對艾歐拉的新計劃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「我期待看著你雙眼中熱切的期望在冰冷殘酷的現實面前漸漸褪去。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「胡亞納也許暫時統治了亡焰列島，但艾歐拉遠比他們想像中要大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「瓦利安商行毫無疑問會內部發生接連不斷的亂子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「只要努瓦泰能維持好自身情況的話就有機會奮戰。但我可不容易對付。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「我前方擺著一條艱難的道路。你的盟友證明了我的爭辯很不利。
+
+「我該說，做得不錯。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「你覺得率領一群毫無組織的海盜暴徒就能改變我的心意嗎？別回答這個問題。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「泰克胡相信這些部落，而我相信泰克胡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「普林西比海盜的領袖危機說明了其致命缺陷。他們很難管理好自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「我一直等待著你的召喚，出色而正確的娥狄卡。讓我做你訊息的容器吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「真是熱切而周到！傾聽我的警告與真相吧，親愛的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>書頁突然擴張開來，蓋住了你周圍的世界。黑暗的虛無向四面八方蔓延，空氣中滿是令人窒息的餘燼與灰塵氣息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>[大聲叫喚。]「有人嗎？有人在這裡嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「這不好玩，瑪珈嵐。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>有什麼東西在黑暗裡攪動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>[揮手驅散煙幕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「就目前來說，你還是貝拉斯的造物。有規矩不讓我直接干預，但並沒說你不能樂意尋求我的建議。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「昂德拉與海麗婭一直在可接受的領導邊緣不斷試探，但我如果不擁護最古老的法則就將一無是處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「你可以自我決斷，但我想你會明白我的意圖比你想的更為直接。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「和我說說你曾希望的這個啟蒙社會。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「建立我們的烏托邦，那是個野心勃勃的計劃。可能有些過分了。我們擁有如此力量，需求難以滿足。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「你想知道更多嗎？太好了，你儘管問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「我們覺得他們——不管是誰——都會將身份暴露給我們。明智的政府會代替我們統治，讓教堂不再繁榮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「確實如此。我的選擇有教會你關於我們之間的什麼事嗎？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「走吧。我已經聽夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「無禮的小崽子。那你就去聽取俄撒斯的建言吧。他肯定會在你的腦海中塞滿各種理想主義的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「我的表現是否讓你滿意，強大之人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「社會需要我們。艾歐拉需要一位女王，而如今位不見王影。我不會讓我的臣民失望太久。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「在我們分別之前，是什麼讓你拒絕了其他聲音而專獨其行？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「我相信我自己，[Player Ship]這已足夠啟程的了。我們不必依賴彼此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「我暫時不想做萬事萬物的調停者了。誰統治亡焰列島和我沒有半點關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「無關個人恩怨，我只是想讓人們自己解決問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「眾商行與胡亞納都小家子氣令人討厭，和你們其他人一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「嗯，我的好奇心算是滿足了。暫時如此。在我們的偉大計劃中，你是一個不可預測的變量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「輪迴的每一次循環都證明了我信仰的正確性。自然會帶來混亂，而法度會帶來完美。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「為什麼其他神明能容忍你的反對？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「多虧了俄撒斯，我們現在正要在其有機會完全成型之前及時扼殺。你們這些倒霉蛋永遠沒機會證明我是錯的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「我的兄弟姐妹們渴望影響凡人並率領其走上適當的方向。就算這條路的終點是我們自己都無法掌控的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>在你打開書的一瞬間，你發現自己站在了一片虛無之中，周圍只有旋轉的灰燼與發光的余火。煙塵從四面八方滾滾而來。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>[合上書。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>[大聲叫喚。]「有人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「娥狄卡，你在外面嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>沒有任何回應。目前這片虛無中空無一物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「告訴我，靈視者。你是從哪裡得到這頂王冠的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「它的碎片散落在白色虛空、卡茲瓦里島競技場與沃艾珥的身體中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「我幫你將它修好了，女王陛下。我會將它還給你作為忠誠的表現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>[撒謊]「什麼王冠？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「一個叫做伊吉婭的女人幫我將它組裝好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「是嗎？太了不起了。那你應該不介意我來確認一下你的說辭吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>「你的每個想法都逃不過我的眼睛。說謊只是在浪費寶貴的時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>「沉默也沒有用的，靈視者。你的心智已經展露無疑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>娥狄卡閉上雙眼。她觸碰到你的心智，好像一隻猛禽掠過池塘的水面。然後她點點頭。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>「沒這個必要，親愛的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>「我的兄弟姐妹真是一群蠢貨。他們竟然無禮與短視到相信王冠永遠無法回到自己的好媽媽身邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>娥狄卡迅速轉頭消失去忙其他事情，留你獨自一人。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>「這&lt;i&gt;真的&lt;/i&gt;是你的王冠嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>「瑪珈嵐的追隨者為什麼要發起攻擊？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>「王冠的事到此為止吧。我接下來該怎麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>「這種大小的王冠甚至套不進我泰坦的小指頭裡。但它的確是我的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「很久之前，我最深愛的侍僧中的審判者才有此殊榮戴上這頂王冠，作為高層的印記。她曾卓有天賦，殘忍無情，是法律的執行者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「有一群瑪珈嵐的狂熱信徒襲擊了我們的主廳，肆意打砸搶燒。我的侍僧們飲劍而亡，而我的審判者則被送上了火架。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「我從不知道她的王冠下落如何。現在我有了答案。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「我們那時尚且年輕，而我們的侍僧們心中燃著熱情的火焰。我試圖集結權力的想法經常遭到激烈的反對。要不就是其他神明，要麼就是其屬下的教堂之一。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「火刑的事讓我們的瑣碎衝突迅速擴大。我在靈界召集了其他神明討論這件事，將眾多議會合而為一。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「審判者的火刑是你神秘隕落的原因之一嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>「真知灼見啊。這就是歷史的進程對吧？一旦時間將某件事剝離出來，剩下的不過是事實暗中操縱的傀儡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「我不會討論什麼神話。這件事帶來了憤怒與蔑視，並需要以死亡的形式討回公道。每一道傷痕，每一次不尊重，都是我反抗的武器。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「在我們分道揚鑣時，瑪珈嵐知道最好不要背叛我第二次。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「伊吉婭能派上什麼用場？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「她是我深愛的審判者——火刑前最後一名戴上這王冠的女子的靈魂繼承人。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>「血統……沒有意義。或者說無所謂。但我體內的某個古老的部分還在懷念著審判者，並希望她能永遠安息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>「你大概注意到我有多麼喜歡別人安靜而堅定地跟隨我了。如果他們還沒發現王冠已物歸原主，我倒是要驚訝一下呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>「你可以擁有王冠，但我能感覺到它不會永遠歸你所有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「你就拿著它吧，親愛的。希望它能保護你的大腦瓜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「如果我的跟隨者試圖取回自己的古老財產，你完全有權自衛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>「貝拉斯之輪在全艾歐拉只有一處材料成分——我們建造其用來引導精粹能夠持續通過光魂珀進入靈界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>「我只能向凡人透露這麼多了。我們最古老的規矩與限制要求如此。但我會滿足你的好奇心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>娥狄卡僵硬地點了點頭。你感到她如同一陣微風突然間消失了。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>「我的兄弟姐妹們在哈桑戈的事件發生後各顯神通，但怎麼也沒能達成一致。我無法忍受這樣的無序了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>「其他神明提到了烏凱佐守護者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>「一件出色的構裝體。守護者是為了應對任何活著離開昂德拉之臼的人事物的安全措施。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>「你已經知道它在哪了。烏凱佐。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>「在我們干預之前，精粹的流動是沒有方向無法預測的。我們成功拓寬了缺口，加以引導使其能沿著有效路徑奔流。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>「在我們控制貝拉斯之輪前，輪迴過程經常出錯，缺乏前進的勢頭。鬼嬰十分常見，並且還不算是最嚴重的靈魂畸變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>「控制權讓我們有能力讓基斯的靈魂隨著世代逐漸增強。我們使你們更加聰明，強壯，更有機會發展成為我們希望你們抵達的社會形態。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>「貝拉斯之輪還可以重新建造，但這會讓我們拋棄長久以來的中立態度並直接出手干預，你應該知道墨守成規之類的說法吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>「亡焰皇家商行一直在努力促使亡焰列島走向輝煌的終結……直到你的到來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>「你的傑作使得瓦利安人在其商會迫切需要領袖時卻被迫四散躲藏。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>「當我再次行走於凡間時，這樣的混亂絕不能繼續下去。權威與暴政是沒有談判餘地的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>「奧涅卡莎並沒有心情進行妥協。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>「大部分外交家在海盜登門拜訪時都不怎麼友好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「我希望我能夠幫上更多的忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>「她選擇了在十分複雜的時機向敵人示威。不過那可能也是她僅有的機會了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>「讓普林西比海盜入席落座將會使這處曾飽受尊敬的王座廳的所有傳統形同虛設。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>「我的兄弟姐妹們要英勇地對付俄撒斯，但我們的干預似乎要等到我們積攢力量之後 再說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>「一位&lt;i&gt;神明&lt;/i&gt;在引發混亂，而你卻在怪罪凡人。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>「俄撒斯不過是揭露了某個早已存在的問題而已，如果我們聽之任之將會出現大亂子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>「那麼將軍們，皇室們還有商會領袖們為什麼要依賴一名靈視者來維持和平？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>「我想要瞭解更多關於烏凱佐的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>「烏凱佐在其最光輝的時代曾是某個一統大陸的帝國首都。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>「你不需要重新點燃魂珀燈塔。俄撒斯已經離開了。你本可以追蹤他前往下一個目的地，但你選擇幫助殖民地。為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>「你不需要重新點燃魂珀燈塔。你明知道俄撒斯已經前往烏凱佐還要幫助殖民地。為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>「胡亞納人保護著當地的魂珀。我知道他們會喜歡的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>「努瓦泰應該奪回燈塔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>「光之魂珀的能量如果被抽光的話對瓦利安人沒有好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>「酬勞，回報。一般就這些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>「只顧著私心完全是凡人的品質。至少你對此還很誠實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>「現在你知道凡人共同面對即將到來的危機時會如何了。這種規模的協作很少見，但也很不可靠。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>「留著你的秘密吧。我敢說在靈界的某個濕漉漉的角落，沃艾珥正笑得開心呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>「從俄撒斯身上奪取精粹也許能放緩他的腳步。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>「沒錯，但在那種形態下他永遠可以從其它來源獲得補充。如果他找不到魂珀的話，我感覺肯定會有朝聖者的商船要遭殃了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>「既然流動已經重新恢復，我會保證讓他記清楚自己的地位。我要好好謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>「現在這群蠢貨家中的食品堆都從裡面腐爛了。神明竟然會承受這種命運。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>「而寒冬巨獸擁有了你的靈魂。我得祝賀我的兄弟最近做成的這筆交易，不過我猜他要不了多久就會反悔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>「你毫髮無傷地成功逃出了白色虛空。你在那邊有什麼見聞使你改變了對凡界的看法嗎，靈視者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>「我從韻咖若奧瓦圖理國王一世那裡知道了英格維仙人背叛的情況。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>「我通過維德溫的眼睛看到了神明與凡人合作的可能。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>「納西瓦九世讓我知道時間是如何侵蝕一個人的目標的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>「是啊。如果胡亞納人對我們做不到如同格蘭芬瑟人一樣的忠誠又有什麼好奇怪的嗎？他們先祖的記憶裡就充滿了怨憤。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>「我很高興總算又暖和起來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>「如果你管這叫合作的話。只要你能意識到凡人是為我們服務的工具，那你這一課就沒白上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>「還有別的什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>「就這些了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>「記住你學到的東西。也許這不能救你的命，不過能開闊眼界總是好事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>「我對此沒什麼異議。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>「經過這樣一場考驗之後，我很驚訝我的兄弟竟然還讓你保有足夠的神智能組織完整的語言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>「你很快擊碎了這些希望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>「大炮不能讓對話開始。只能讓其結束。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>「努瓦泰海軍並不和其他勢力打成一片。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>「你不喜歡看著凡人渴求支配權嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>「多有趣啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>「如果你覺得這樣能給我留下印象或是逗我開心，那你可就完全錯了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>「亡焰皇家商行是一群殘忍無情之徒，但他們也遵從著海上的規矩。他們的例子本來可以作為在法外之地推行秩序的典範。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>「如果俄撒斯沒有招致如此多的混亂，我們也許能有一天看到和平的亡焰列島。考慮考慮吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>「卡罕加王朝遠遠算不上完美，但它對於弱小部落的生存卻至關重要。其他人需要這股強大的力量，並在被需要時給予回報。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>「酋長們不斷更迭，但在如今脆弱不堪的時代我擔心卡罕加遭到了致命一擊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>「我們說的是那個把自己土地出賣給外來者的部落嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>「如果卡罕加有統治的本事，他們就能撐過這次挫敗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>「我這樣做只是在傳達訊息。響亮而血腥的訊息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>「你的批判沒有錯。女王在等待時機的過程中對自己人民的困境熟視無睹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>「卡罕加王朝對於凡人而言是一條康莊大道，讓他們能共同完成我強加給他們的事情。我對他們從來不抱任何希望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>「我從沒想過商人能夠統一凡人社會。金子能收買多少人心就能腐壞多少良善。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>「商行並不知道自己在和什麼樣的勢力打交道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>「我不相信卡斯托爾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>「政治，金錢，陰謀。這些東西總是阻礙著做大事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>「瓦利安人就沒有準備好成功過。當凡人社會靠著付出投資保持平衡時，權威就毫無用處了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>「我不相信阿爾瓦瑞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>「真是此一時彼一時啊。比起戰爭和死亡，向正確的權威屈服是唯一的自然選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>「我希望凡人能永遠記住這一課。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>「精粹的流動被切斷了。這對當地的經濟系統是嚴重的干擾，但也許同樣能打消外來者摻合的念頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>「在精粹恢復之後，這裡有機會變得重新繁榮起來。時間會說明亡焰列島真正需要的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>「我的本能是正確的，而你並不滿足於保持目前的情況。很好。我會繼續觀察你的進展。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>「時間會說明派泰坦追殺俄撒斯這件事是否正確。考慮到我這位兄弟，答案可能並不明確。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>「你竟然把身體交給了老康賽豪，真是不同尋常。我本來給了你建設未來的自由，你卻自掘墳墓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>「那具身體早該被摧毀了，省得我們頭痛如何清理沃艾珥造成的狼藉。我這位兄弟必須得明白保持房子整潔有多重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>「像哈扎努伊卡魯這樣有才幹的女人可不好找。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>「要找到能夠匹敵阿蘇拉智慧的戰略家可是不小的挑戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>「海軍遭到你的打擊之後沒辦法撐過亡焰列島的這次大災變了。我們再也無法看到這片領土發展文明了。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>「如果他們不能撐過這次試煉，只能說明他們太過弱小。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>「強制殖民與文化侵略並不是正確的道路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>「他們這些下三濫的手段根本配不上我的信任。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>「我曾對努瓦泰海軍抱有極大的希望。你通過削弱這支世界級勢力成功阻撓了我們馴服凡人社會的機會。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>」你對真正的秩序一無所知。如果統治階級對某個地區加壓，他們就有義務提前阻止反抗戰爭的發生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>「狡猾的卡斯托爾主管站在商行的最高層，將其財富推向了環境開發與鑄魂學。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>「聰明的阿爾瓦瑞奉行務實與資料。在她的領導下，我對商行的財政安全有更高的期望……如果沒有變故的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>「我覺得金錢只會將社會導向腐敗，但我很欣賞商人們願意嘗試掌握領導權的精神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>「巨龍很難避過世人的注意，更不用說是皇室的目光了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>「我記住了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>「外來者讓胡亞納人騎虎難下。他們只能在準則上妥協換取生存。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>「最好如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>「胡亞納人覺得自己古老天賦的流失是一項來自眾神的試煉。他們簡直大錯特錯。他們所做的一切都是試煉，而我們在密切關注。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>「而你讓那巨獸再次翱翔天際。它的自由是否值得用一個有序平衡的社會作為代價？好好想想吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>「你拴緊了那東西的枷鎖，以此向你的卡罕加主子表明忠誠。穩定的社會需要做出艱難的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>「除了一條死龍之外還有什麼可展示的？真是浪費。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>「我以為我會怪罪你殺死了一名殘忍而精幹的領袖，但一想到大義復仇什麼的我就笑了起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>「普林西比海盜現在面臨領袖危機一點都不讓我驚訝，而你選擇趟這渾水就更不必說了，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>「在艾戴斯的叛亂失敗後，船長們該老實一點重新想像順從的含義了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>「弗蘭特被取代之後，普林西比海盜失去了權威與老練的聲音。但就算是弗蘭特也有自己根深蒂固的缺陷。時間會說明他的下台是否會淡化人們對他的記憶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>「有某種威脅正在逼近，而普林西比海盜在此期間還像孩童一樣為了雞毛蒜皮的小事喋喋不休。他們的日子沒多久了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>「你已經瞭解到了許多。如果你準備好接受真相的話就問吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>「喜歡我的書嗎？就我的經驗來說，沒什麼能比寫下來的法則更加完美。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>「我希望你能記得我們的這些討論，靈視者。我並不想重複再說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>「你為我們的交流開心嗎，親愛的？讓你的信念與忠誠合而為一吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>「靈視者，我希望你能喜歡靈界的這個角落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>「我們認為凡人社會會隨時間漸漸精進他們的航海技術。因此不死不滅而絕對忠誠的守護者才會終年維持著烏凱佐的寂靜不受侵擾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>「守護者是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>「守護者是一隻三頭龍嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>「這些巨龍在成為烏凱佐守護者之前是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>「守護者是一項神聖的誓言。是一項永遠遵從的保證。是沒有抱怨或干預的守望。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>「它曾經是一條巨龍。事實上應該說是三條。我們改進了大自然不完美的設計，將多只生物凝結為一隻強大而危險的敵人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>「確實如此。創造這漂亮的殺人機器可以說是僅次於神化本身的挑戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>「我們對融合生物並不陌生，但守護者需要能抵抗嚴酷環境，惡劣氣候以及時間的不斷侵蝕。而且這一切都處於史無前例的程度。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>「我們也安裝了行為保險裝置。就算它因為常年獨處而發瘋，守護者也無法擅離職守或主動結束自己的生命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>「是你『重新指派』批評者成為了司坎的一部分？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>「明智的決定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>「聽起來&lt;i&gt;真可怕&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>「我們也安裝了行為保險裝置。就算它因為常年獨處而發瘋，守護者也無法擅離職守或主動結束自己的生命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>「只有一名神化計劃的成員對被永恆奴役的守護者這個想法提出了異議。她被悄悄重新指派給了司坎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>「記住是我們馴服了永恆。我們的指導原則並沒有給道德癱瘓留出什麼空間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>「很恰當的懲罰。對於那些肆意反抗的人來說，司坎會是個方便的接收者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>「誹謗者、反叛者、潛在的煽動者——這些人都是將來能夠 成為司坎的完美基座。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>「它們曾是宣誓與胡亞納人保持忠誠關係的生物。這樣的聯盟在那時候可不常見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>「只要偉大的胡亞納帝國保護著島嶼、部落與光之魂珀，巨龍們就和胡亞納站在統一戰線。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>「胡亞納人只與某個比自己更強大的勢力簽訂了一份契約。其他的事情就不歸我來講了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>「神化計劃需要兩種至關重要的資源——光之魂珀與大量靈魂。這兩種東西在烏凱佐都有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>「烏凱佐現在有什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>「人們表現得好像烏凱佐就是控制亡焰列島的鑰匙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>「這麼說你們的神化實際上阻礙了社會的發展。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>「沒有必要為烏凱佐的亡骨哀悼。木已成舟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>「在亡焰列島之內的確如此。這是深思熟慮後的決定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>「胡亞納帝國並未遵從我們的完美社會設想，而其軌跡也大相逕庭。他們本已十分接近，但他們文化中有些不討喜的傳統根深蒂固。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>「如果胡亞納人想證明我們是錯的，那他們大可以從過去的餘燼中重新屹立而起，擁抱我們設計好的未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>「貝拉斯大概沒有蠢到以為我會讓她有個善終。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>「我永遠不會對你生氣的，親愛的。我期望能夠無縫接管，但很明顯我還有工作要做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>「這座城市是對歷史的紀念。它空蕩的建築與被淹沒的街道像是王冠般襯托著唯一的珠寶——輪迴的機關。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>「烏凱佐是一座城市、一座墓碑、一段記憶，也是一台機器。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>「烏凱佐是亡焰列島真正的最北端。就連久已遺忘烏凱佐存在的胡亞納人也在不知不覺中將其加入了禱言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>「最後一任帝王曾吹噓稱沒有一支軍隊曾靠武力征服烏凱佐。他太輕易被驕傲蒙蔽了雙眼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>「遺憾的是，這並不能保護烏凱佐被內部的叛徒出賣。我們盛情款待古老的統治者，贏得了足夠久的支援讓我們啟動機器。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>「從那時之後的上千年時光中，我們一直支配著烏凱佐。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>「我開始質疑自己對你的信任了，靈視者。這是一次神聖的交流，而你的行為讓人無法接受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>「我一開始曾經懷疑過你，靈視者，但你的行為證明了我沒看錯人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>「儘管你達到了我對凡人低得可憐的期望，要知道我並不高興，而這樣接近我是很危險的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>「你不適合為凡人發聲。就算他們有著各種腐敗與不完美的問題，也勝過你這樣百倍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>「如果你不喜歡我做事的方式就別擋我的路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>「謝謝？還是不客氣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>「是我錯把自己的信任託付給你。從現在開始，你永遠不要再打開我的書了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>「你還沒有做出什麼讓它完全損壞掉的事情。至少你還可以這樣恭喜一下自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>「你做出了讓人質疑的決定，我無法容忍一個審判者有這樣的行為。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>「也就是說你和天底下的那些凡人一樣沒有得到我的認同。這樣一來你就證明了我的觀點。他們還沒有準備好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>「你們所有人都沒有達到我的最低行為標準要求，而你如果不能證明我有足夠的權威像圈養一群野狗一樣管理凡人的話也是毫無用處。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>「你無法改變這一切，親愛的，但你願意為你的族人擔憂已經是足夠仁慈與慷慨了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>「不要讓你自己再為那些弱者的命運擔憂了。集中於你的信念於奉獻，終有一天你將臣服於我的正義王座腳下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>「然後就是火藥庫的那起糟糕事故。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>「不要因為守護者而睡不著覺。它們在受到我們的束縛前曾是怪物，而現在它們則為了更高尚的目標而效力。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>「滿足我的好奇心，靈視者。當你站在影中日機器的前面時，你本可以將鹿林靈魂送至任何地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>「貝拉斯之輪、鬼嬰、湮滅、鹿林。我確定沃艾珥對此也有一些荒誕的計劃」而你給了&lt;i&gt;我&lt;/i&gt;如此強大的獎賞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>「你完成了撒奧斯的工作。我的寵兒。你擊敗了我。我現在要問問你，結果如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>「眾神需要中央集權來平衡其力量。你是最好的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>「我希望獲得你的青睞。我是&lt;i&gt;如此地&lt;/i&gt;期望著。超過其他一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>「你始終最能盡忠職守，保守眾神的秘密。我不能讓真相洩漏出去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>「你遵守你的承諾。其他的神明只會失望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>「你的影響力讓社會始終繃緊了弦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>「我當的是眾神的夥伴。不是什麼人的爪牙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>「在我們一同經歷了這麼多之後，你能這麼想真是太好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>「我當然對你心有好感。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>「你真是太有責任感了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>「在這些日子裡我必須想辦法解除蒼白騎士套在你脖子上的枷鎖。你絕不能是她的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>「我很高興我們能達成共識，親愛的。我們可以以更親密的方式相互扶持。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>「別誤會——我喜歡你，在意你。我獲得的力量會在今生來世帶著對你的喜悅之情好好使用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>「現在先耐心一些。貝拉斯對你的佔有讓我難以呼吸，但你心愛的女王終有一天會將你從她的懷抱裡解救出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>「是嗎？你來告訴我吧。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>「我絕不會否認我們的萬神殿感性而固執，會做出過激舉動。但我們不至於在細枝末節上爭論不休。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>「……而我們其他人已經對此下定了決心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>「我兄弟的天性使得他能夠自給自足，但他和我們其他人沒有任何區別。他也依賴於健康的精粹流動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>「努瓦泰的火藥庫被摧毀了，而我一如往常是正確的。凡人之間的妥協是不可能的。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>」你造成的每一次死亡都讓凡人更難達成決議。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>「瑪珈嵐與昂德拉在灰燼之胃盡力了，但恐怕我們再也無法遇到那樣的機會了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>「一點不錯。我們建造了貝拉斯之輪用來增強凡人的精粹，而所有通過輪迴的過程都使來生更加強大。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>「睿姆岡採取了不同的方式。白色虛空就是他對腐爛的慶祝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>「像納西瓦這樣的囚犯經歷過的未受干擾的記憶比一段生命所能承受的更多。也難怪她很難和人相處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>「為什麼伽拉溫、睿姆岡與沃艾珥要密謀將其隱藏不讓你發現？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>「王冠並不僅僅是權威的象徵。在它鑄造而成的那一天，我將自己的一點精粹賜給鐵匠用來馴服這塊狂野的金屬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>「如果我有時對你的表現過於呵責，那也是因為我對自己的寵兒抱有最高的期望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>「胡亞納諸王也許進一步拓展了自己的控制勢力，但我們及時叫停了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>「我完全相信你會令我們失望。一旦我的位置確保之後，眾神中未下決定者也都會擁護我的計劃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>「現在它呼喚著法則，渴求著爭議，並需要正義的復仇。你也許曾聽過它在你耳邊低語，彷彿一陣海邊的微風。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>「我那些更加熱情與樂觀的兄弟姐妹們無疑覺得自己比我更強而開心過頭了。他們真是大錯特錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>「無論我的感受如何，這場危機的時機迫使我們加快了計劃。最終裁決的到來比我們任何人預料的都要早。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>「太浮躁了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>「昂德拉把月亮砸在了艾歐拉之上。這件事你怎麼說？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>「你說撒奧斯做事的方式很聰慧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>「他的方式過於複雜而不直接。我在這件事上無需向你解釋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>「俄撒斯可不怎麼聰慧。他已經兩次污染了我們實驗的純粹性，並且嚴重損害了我們的權威。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>「我對這件事沒什麼說法。我向你保證，我如果反對的話沒人會感覺不到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>「你覺得率領一群毫無組織的海盜暴徒就能改變我的心意嗎？別回答這個問題。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>「我無法相信凡人能掌握好自己的未來。你為了證明我錯誤而做出的努力值得欽佩，而我的對手們會以你為例反對我的統治。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>「王冠是我的維特瑪德——秩序會通過這扇大門流入艾歐拉。它的存在本身就是對狂野、冷漠與混亂的侮辱。我的兄弟姐妹們害怕它是對的。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>「藏起王冠是令人無法原諒的欺騙，而其成果將會很嚴重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>你打開了娥狄卡的書，但女神並未出現。只有你獨自站在灰燼與余火的虛空之中。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>「我們正受到裁決？結果如何？」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>「為什麼我覺得你在試圖說服&lt;i&gt;我&lt;/i&gt;什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>「你想讓眾神和凡人統統聽從你的指揮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>「我們是不是可以直接開門見山地說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>「我本來就該掌握統治大權。當你們這些凡人不斷煽動起混亂的時候，也為我重新樹立權威鋪平了道路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>「聰明的孩子。我獲取你的信任自有我的重要理由。至少現在是。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>「反對可以有許多種形式。如果我的教義能夠在教堂中推廣擴張，那和我作為泰坦暴走將會是完全不同的情況。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>「我不打算被落在後面。沒有女王來推行嚴格秩序的話，社會將會崩塌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>「我從來不行婦人之仁。無論凡人是否通過什麼測試都無關緊要。我在這件事上已經下定決心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>「當然因為我就是這樣。你的感知很敏銳，親愛的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>「我們之中還有知道更多更難被說服的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>「在計劃開始的時候，有些人覺得凡人會超脫我們的控制——好像那是讓人喜歡的結果！對我而言，我們永恆的萬神殿總是各種挑剔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>「俄撒斯是支援凡人的一方，而我則是反對者中聲音最大的。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>「你呢，靈視者？你的航線已經定好，而烏凱佐就在地平線上若隱若現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>「在你所見的一切之後，你覺得凡人能夠掌控自己的命運，還是需要強有力的引導？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>「所謂強有力的引導已經摧毀了我的城堡。沒有它我一樣能辦成。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>「貝拉斯把我放在這裡，所以我想眾神做的事情是對的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>「社會不是完美的。本來也不該是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>「凡人是有機會的，只要你給他們時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>「如果眾神不能有效領導，凡人就會自取滅亡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>「沒有你的正義與秩序就沒有艾歐拉的未來，女王陛下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>「你的心中充滿了復仇。就算貌似反抗，你其實也在為我效力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>「找到俄撒斯，跟隨他前往烏凱佐，並讓我的正義催動你的船帆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>「時間？靈視者，我作為女神與女王已經很多年了。沒有什麼能讓我降低自己的權威或是拋棄自己的信念。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>「找到俄撒斯，跟隨他前往失落的烏凱佐。如果他願意講理，那你天真的樂觀精神還不至於浪費。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>「確實如此，親愛的。你在我們相處的時光裡學到了很多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>「確實如此。蒼白騎士對你的束縛真讓人羨慕。就連她都知道凡人最適合的角色就是我們的爪牙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>「在此之前我自己就會成長成一個泰坦。你可以試試。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>「這樣的理想主義會讓你身陷險境。必須有人推行完美。必須有人這樣要求。沒有眾神，正義與法則毫無威懾力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>「所以你就把我拽進了一座煉獄？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>「你無法改變這一切，親愛的，但你願意為你的族人擔憂已經是足夠仁慈與慷慨了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>「這裡不過是靈界的一角。當我需要遠離沒完沒了的閒聊的時候，我就在這裡找點私人空間進行冥想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>「撒奧斯對我來說比其他人都要珍貴，但我也很驕傲有你來代替他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>「此外，你不配說他的名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>「撒奧斯對我來說比其他人都要珍貴，但我也很驕傲有你來代替他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>「證明是或否，沒錯。我從來沒有同意過這項安排，不過如果你的例子能說明凡人的無能，而且我覺得肯定能說明，那麼我就能讓這個計劃為我所用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>「這些角色能讓我們隨著時間逐漸塑造艾歐拉，以此影響你們並為即將到來的社會鋪好路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>「你在我身上沒有施加什麼力量。我什麼都不欠你的。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>「我只是在完成工作而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>「抱歉，娥狄卡。我會努力變得更好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>「但這樣就能把秩序歪曲為暴力講通了嗎？我認為不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>「我不會為他們無可避免的衰落而哀悼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>你打開了娥狄卡的書，但女神並未出現。只有你獨自站在灰燼與余火的虛空之中。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>「也許甚至是個不需要我們的社會。這是個天真的謬論，但這激勵了我樂觀而被誤導的族人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>「你是這麼想的嗎？那好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>「注意你自己的言行。我可沒有賜予第二次機會的習慣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>[猛然合上書。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>「過分的孩子！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>「如果有人證明你錯了呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>「如果我們萬神殿發現凡人們成功將某個完全而有序的系統發展成熟，我也不會發出任何反對的聲音了。我只會站在一旁等著不可避免的崩塌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>「凡人需要我們。我對這一點的瞭解和我對自己的瞭解一樣多。如果社會最強大的建設者與繼承者都僅僅是凡人的話，就算它再有序與負責也終究會倒塌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>「無論我的兄弟姐妹們從他們的小實驗們獲得了什麼滿足都不會長久，而我最後還得收拾他們造成的麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>「所以說就算你錯的時候也是對的。明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>「盲目樂觀是他們的問題，我的女王。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>「我想每個計劃都需要反對者吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>「別誤會，靈視者——這件事上我不會錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>「無論我的兄弟姐妹們從他們的小實驗們獲得了什麼滿足都不會長久，而我最後還得收拾他們造成的麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>「現在你明白了，親愛的。我是不會錯的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>「你說的『麻煩』是指凡人的自由。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>「確實如此。有一點反對意見其實更好。不摩擦怎麼起熱呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>「心存婦人之仁，自由就是不可能實現的幻想。只有在被囚禁中得到滿足的人才有真正的自由。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>「如果我的兄弟姐妹們想扳倒魂珀巨像的話大可來試試。我瞭解沃艾珥，他們甦醒之後肯定會帶來混亂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>「如果我們證明了自己呢？然後會如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>「到底會如何呢？那得看你問的是我們之中的誰了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>「反正是你們應得的結局。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>「好消息是一旦俄撒斯摧毀了貝拉斯之輪，所有這一切都不重要了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>「看起來真嚴厲啊。你能想像我們會拋棄艾歐拉嗎？不，完全相反。"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>「如果你想要答案的話，別再四處找了。我這裡就有不少。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

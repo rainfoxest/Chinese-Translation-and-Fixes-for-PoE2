@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_fampyr_cave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你發現遠處有一個洞穴入口陷在小山坡裡，勉強隱藏在光禿禿的枯瘦樹幹後面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你再一次站在到處是骨頭的洞穴面前，再一次讓自己下決心忍受這腐爛的氣味，這種潮濕刺鼻到幾乎是像是塗在你的皮膚上一樣的氣味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>你在洞穴入口處徘徊。另一半的通道延伸到漆黑的黑暗之中。散發著死亡和腐爛之氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>當你接近洞穴時，靴子下有什麼東西發出卡嚓斷裂了。你低頭看，以為是一根棍子，但發現了遠古骨頭的殘餘碎片。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你用新眼光查看洞穴前面的地面。你首先想到的是這些樹枝是骨頭——有些半埋在塵土中，還有一些堆積了起來。許多因年代久遠而漂白了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[靠近洞穴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[進入洞穴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

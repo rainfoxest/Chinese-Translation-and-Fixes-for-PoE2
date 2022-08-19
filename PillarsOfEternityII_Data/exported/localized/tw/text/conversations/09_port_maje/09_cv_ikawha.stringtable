@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_ikawha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>伊卡瓦坐在篝火前面的椅子上。回到了故鄉的村中，她的樣子比以前看起來要舒適得多。她用手中的棍子突然捅了一下煤塊。
+
+伊卡瓦的臉上滿是褪了色的傷疤，但當你接近的時候，她舉止安詳，沒有表露任何敵意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「願亞彌拉的柔風輕撫汝身。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「這座村子裡有很多馬塔魯人。他們會保護這裡，你現在很安全。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我是來進行友好會面的。如果想和我談談的話，就來我們的村子裡找我吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「莫克哈正在鎮子裡惹麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我覺得你應該知道，我在挖掘場那裡找到了一些胡亞納人。俄撒斯來的時候，他們都喪命了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你的人見過那個巨人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「謝謝你為我帶來了這個消息。我會轉告給他們的家人，我們會一起為他們哀悼。
+
+但你喚醒神明的旅程還會繼續下去，祝你好運，外來者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「這對你也沒什麼好處吧？畢竟，你也是個外來人。
+
+「卡罕加說我們都是同族之人，但我認為並非如此。」
+
+在笑容之下，伊卡瓦的嘴角微微地抽搐著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「不知道當你離開這片群島的時候，有沒有想過有朝一日你還會回來。」
+
+她的嘴角微微翹了起來，彷彿感到了某種小小的樂趣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我聽說，共和國的人們並不怎麼喜歡他們在故土的表親們，或者說，是他們的表親不怎麼喜歡他們。
+
+對我們來說，這並沒有什麼區別。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「昂德拉把一個努瓦泰人派到了他的島上，可憐的克拉里奧一定要緊張壞了。」
+
+她的嘴角露出了微笑。</DefaultText>
+      <FemaleText>「昂德拉把一個努瓦泰女人派到了他的島上，可憐的克拉里奧一定要緊張壞了。」
+
+她的嘴角露出了微笑。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「這麼多年來，你們的族人我只見到過一位。
+
+「後來，瓦利亞人來了，一切都變了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我以前在地圖上見過那個地方，它處在整個世界的邊緣。
+
+「我從沒想到能親眼見到從那裡來的人。」</DefaultText>
+      <FemaleText>「我以前在地圖上見過那個地方，它處在整個世界的邊緣。」
+
+「我從沒想到能親眼見到從那裡來的人。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你的船發生了什麼事情，他們已經告訴我過我了。不得不說，你確實運氣很好，只有你那一艘船倖存了下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我可以選擇保護國王港，或者保護國王港的船隻，但我無法同時保護兩者。或許克拉里奧會認為我做了個糟糕的決定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「莫克哈是個驕傲的人，和她的父親一樣。這種聯盟每天都在考驗著她的耐心。
+
+發生了什麼事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「打算在恩加蒂眼皮底下偷東西的人，會被砍掉雙手。」 
+
+伊卡瓦的語氣裡充滿了懷疑，緊緊地盯著奉納碗裡的錢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[偷走金幣。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[還回10枚銅幣] 「對不起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我？我什麼都沒拿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>伊卡瓦轉過了身，她的雙肩在無聲的笑聲中顫動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「這隻是個警告。」
+
+她轉過了身子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[假裝把錢幣還了回去。] 「對不起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>伊卡瓦笑了起來，似乎是覺得很有趣。她抬起臉，看著附近的圖騰，口中嘟囔著什麼東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「她是你的女兒嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我只希望她把偷走的東西還回去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>伊卡瓦深深地歎了口氣，雙手交叉放在腿上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「莫克哈沒有偷東西。她需要的一切，這裡應有盡有。她為什麼還要偷東西呢？」
+
+伊卡瓦聽起來並不想繼續爭論。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「她差點就殺人了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「如果莫克哈真的想殺人，她早就把那個人殺了。他現在還活著，這還不夠嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[離開] 「不必介意了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「她和我都屬於同一種姓，我們流著相同的血……也擁有相同的脾氣。但她是部落之女。」
+
+「對我們的族人來說，這……並不一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>伊卡瓦靜立不動，但臉上充滿了憤怒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我歡迎你進入我們的村子，就像我歡迎所有克拉里奧那邊的人一樣。而你就是這麼報答我的信任的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「莫克哈襲擊了我，我別無選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「她妨礙到我了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「這是她應得的下場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「對不起，伊卡瓦，我當時並不希望這一切以暴力結束。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我允許你平安無事地離開這裡，你已經足夠幸運了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「為了什麼？只是一場就酒館裡的毆鬥，就因為這件事，你就殺了我的女兒嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「離開這裡吧，你已經不受歡迎了。無論是你，還是克拉里奧那邊的人。
+
+「如果風暴要襲擊這裡，國王港只能自求多福了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「或許恩加蒂已經警告過我了。我讓我的人民陷入了危險之中，我簡直是個蠢貨。」
+
+「而我得到了什麼？一堆沒用的東西，和一位該死的夥伴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「既然如此，我不會讓你活著離開這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「看起來風暴並沒有對這裡造成什麼嚴重損害。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「一部分原因，確實是因為我們運氣好。當時我們絕大部分的船都停在了海邊。
+
+「不過我們確實失去了一位海員，得花上一些時間才能找到新的海員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「實際情況比看起來要好一些。克拉里奧是個可以講道理的人，尤其當你口袋裡有錢的話。
+
+「他並不是個殘忍的人，如果他不用再聽命於他的主人們，我甚至覺得他會很享受在這個島上的生活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我猜，你和那位總督相處得不太融洽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「你為什麼會允許這些外來者留在這裡呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「沒錯，牧師們說，他是其中一位上古泰坦。
+
+昂德拉非常憤怒，但我們的牧師們並不清楚他憤怒的原因。我真高興他又跑到別的什麼地方去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「那個巨人叫做俄撒斯，我必須弄清楚他要去什麼地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「確實如此，各個帝國的子女們都湧到了亡焰列島。
+
+「你也遠遠地離開了你的故鄉，聚鹿人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「用不了多久，我們就要離開這個島嶼，前往別的地方。
+
+如果他們打算留在這裡，用石頭建造房屋，迎接更加可怕的風暴的話……又關我什麼事情呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「泰坦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「恩加蒂—— &lt;i&gt;昂德拉&lt;/i&gt;的世界中棲息著許多龐大的生物。
+
+「他們說，卡罕加部落的祖先和這些生物簽訂了契約，他們如今的女王也如此。我的僧侶們懷疑這一切會不會和她有關。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「貝拉斯派我來消滅那只巨人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「你可以幫我修好我的船嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「可以，但我需要克拉里奧的幫助。
+
+「如果你能說服他，我就願意幫你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「為什麼要等克拉里奧同意？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「我會去的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「你現在是他們之中的一員，保護你的任務自然落在他的頭上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「很好，那麼就這樣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「對死亡之神的侍從而言，這確實是一件了不起的任務。如果能幫得上忙，我願意幫你。或許在這之後，你可以在貝拉斯面前替我們美言幾句。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「俄撒斯？所以說，你是在尋求救贖嗎？漂洋過海追擊一位神明，這實在是太冒險了。
+
+晨星的信徒們也很想見到這位神明。可如果他並不想被人找到，該怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「它去了什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我不清楚，絕大多數人一見到它就逃命去了，克拉里奧那邊也沒什麼線索。
+
+這個問題就是我們爭論的原因，或許他會告訴你更多訊息吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「克拉里奧看錯了你，我的人告訴我，說國王港已經變成了人間地獄。
+
+「說實話，你真的是海盜吧？或者說，眾神派你來我們的島上，就是為了散播死亡，就像那個巨人一樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「那些瓦利亞人肯定是搞錯了。你親自去和她談談，你就明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「你可以把她交出去，也可以等著那些瓦利亞的暴民們找上門來，把她殺掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「莫克哈只不過是個普通人，你必須為村裡所有其他人著想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「關於莫克哈……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>伊卡瓦側過了頭，示意你繼續說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我明白了……
+
+「克拉里奧總督認為這是迷信，但我知道，你說的都是真的。重生之神即將為你的人民帶來死亡——還有什麼預兆比這更可怕的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「不過，當然，你指的是那些瓦利亞人，那些做生意的。
+
+「他們帶著船、槍械、藥物來到了我們這裡，還有酒和食物。幫助他們，我們沒失去什麼，卻得到了很多好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「當那些商人們再來的時候，他們會帶著補給品和守衛，來我們的村莊裡尋找答案，或許還會把這一切推到我們頭上。
+
+除非，他們來的時候，你已經死了。」
+
+說完這句話，她從王位上站了起來，附近的守衛也衝到了她的身邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「對風語者而言，只要輕輕一句話，風暴就能成為可靠的盟友。而風祝之里有好幾位風語者。
+
+我們可以保護村子免受絕大部分惡劣天氣的侵襲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我本打算和她聊聊，但沒聊出什麼東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我明白了，那你希望我做些什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「或許你可以把她的腦子敲醒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「她必須前往國王港，接受正義的制裁。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「當初就是我讓她去的國王港，讓她學習更多關於瓦利亞人的事情，讓她與他們保持和平。
+
+看起來，我的建議似乎沒有奏效。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「憑什麼？憑什麼要用他們的法律來懲罰我們的人？我們做過的每一筆交易，那些瓦利亞人都在想方設法欺騙我們。
+
+那些人肯定不會給她個公正的裁決。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「如果你還打算與克拉里奧保持和平關係，你就只能這麼做了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「我向你保證，她會得到公正的裁決。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「你自己親口說過，你的人民需要依靠這些商人，才能得到憑自己的力量得不到的補給品。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「她是在你的村子裡長大的，她需要由你來負責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「如果你想從莫克哈身上得到什麼，我建議你去和她做筆交易。外來人不都是靠著交易，才得到他們需要的東西嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我不太確定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「等你確定之後再回來吧，我看看我能不能幫你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「或許你說得對……但我很清楚，瓦利亞人會把這當做一場勝利。
+
+他們會把莫克哈拖到一大群人面前，當眾羞辱她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「這個結果對大家都好，伊卡瓦，相信我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「只是扔幾個柿子而已，誰都不會受傷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「看得出來，你是個隨隨便便就能出賣榮譽感的人。」
+
+伊卡瓦的語氣充滿了不屑，但她的態度依然非常嚴肅。她的手輕輕地敲著王座，歪著頭，思考著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「很好，我會讓莫克哈去接受審判。
+
+「如果那些瓦利亞人明白我們尊重他們的法律，或許他們也會開始尊重我們的法律。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「既然如此……我同意了。
+
+那些瓦利亞人會明白，我們尊重他們的法律，或許他們也會開始尊重我們的法律。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「為什麼要和瓦利亞人做生意？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「哦哦，每個人做生意的原因，不都是一樣的嗎？
+
+那些瓦利亞人為我們帶來了槍械和藥物，還有食物和酒。我們甚至還說服了一部分人，讓他們來幫我們建造小船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「我的人民越來越喜歡這些東西，他們的藥讓我們這邊許多孩子都退燒了。
+
+「這種和平關係為我們帶來了好處，只要克拉里奧不讓他商行裡的那些主人們來到這裡，我們就不會失去什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「如果他們打算僅僅因為一個人的原因，而放棄做生意的機會，那就這樣吧。我會向克拉里奧解釋清楚的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「誰在乎那些瓦利亞人會說什麼呢？用不了多久，她就會回來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「天色已經晚了，外來者，去休息休息吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

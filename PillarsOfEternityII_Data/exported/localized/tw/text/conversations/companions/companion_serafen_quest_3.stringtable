@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「我想我們並不認識吧。不好意思，離我遠點吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「喂，船長！他在那邊！我敢拿我的藍屁股打賭，那肯定就是雷馬洛！」
+
+塞拉芬朝一個穿著白袍的老人跑了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我真希望你不會來，我的小傢伙，不過見到你我還是很高興。就算是艾戴斯那樣的無政府主義者，也不會寬恕叛徒。」
+
+塞拉芬跑了過去，盯著雷馬洛看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「是啊，但是你？你會當叛徒？這個想法就已經太荒唐了。」
+
+他張開雙臂，攤著手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我沒辦法這麼做，小藍，就像我並不想離開一樣。但我已經是這片海域上的死人了，這片海域在我心裡也已經死了。」
+
+塞拉芬張開嘴，結結巴巴地想要說些什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「有什麼能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你為什麼要離開皇族海盜？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「他們指控你的那些罪名，都是真的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你為什麼要離開舷窗堡壘？你在那裡或許可以保障安全。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「皇族海盜變了，而且並沒有變得更好。要是換做以前，我們至少還會為了同一個目標共同戰鬥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我不知道他們都指控過我什麼。至於造反的罪名嗎？我確實是有罪的。」
+
+塞拉芬的耳朵耷拉了下來。他朝雷馬洛伸出手，但伸到一半停下了，手垂了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「無論那理安不安全，我……都沒法忍受呆在那裡。看著你曾經那麼為之自豪的東西一點一點墮落，這種感覺實在是太絕望了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你為什麼要這樣？巫師號曾是我們的故鄉，我們的家庭，也是我們該死的&lt;i&gt;榮耀&lt;/i&gt;。難道就為了一個淹得半死的老精靈，為了他手上的半塊破膏藥，你就把這一切都拋棄了嗎？」
+	
+塞拉芬目光盯著雷馬洛腳下的地面，身子顫抖著，兩隻拳頭垂在身邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「巴斯蒂安船長用巫師號做奴隸買賣。」
+
+雷馬洛皺起眉頭，滿是皺紋的手使勁搓著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「奴隸船？你這說的又是什麼腦子進水的胡話？巫師號上的都是我的家人！他們根本不會蓄奴！我替船長&lt;i&gt;獵殺&lt;/i&gt;過奴隸販子！我們&lt;i&gt;一起解放了那些奴隸！」&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我本來不想讓你知道這些事情。想讓你繼續對我們海盜的傳統懷著信心。想讓你保持樂觀，就像皇族海盜之中明亮的星星一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「就算是現在，榮耀也並沒有完全消失。當然，事情也他媽的確實在改變。但如果你連舵都不肯掌，你又怎麼能讓船往你想的方向跑？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「是啊，我這雙眼睛已經見過了太多事情。裙帶關係和任人唯親氾濫成災，皇族海盜從裡到外都爛透了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我很抱歉，塞拉芬。我讓你失望了，我傷害了你。我沒有什麼語言能為我的行為辯護。我只希望你相信我，我做了該做的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「雷馬洛，你做的事情和你船長的奴隸買賣有沒有關係？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「塞拉芬，你也聽到雷馬洛的坦白了，你現在想拿他怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「雷馬洛，你得跟我們來，接受委員會的審判。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「得了吧，委員會早就沒什麼正義而言了。你想做什麼就做吧，但我是不會回去的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「放開他吧，船長。沒錯，他殺了不少奴隸販子，為亡焰列島做了一件大好事。但在委員會那邊，造反就意味著死刑，無論什麼原因。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「放開他吧，船長。讓他這顆灌滿了老鼠屎的心臟繼續跳吧，反正裡面也不剩下什麼東西了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我們會放過你的，雷馬洛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[攻擊] 「別以為你能活著離開這座島。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「既然如此，我就只剩一件事可做了，靈視者船長。我要砸爛你該死的狗頭，把你的腦漿都碾出來！」
+
+塞拉芬掏出了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「祝你平安，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「謝謝你，靈視者。船馬上就要裝好了，到時候我們就走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「你打算去什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「哪怕是因為你的原因，我也希望我想錯了。但我不認為皇族海盜還能這樣繼續下去，我也不想看著那些投入了畢生心血的東西毀於一旦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我和我的船員，巫師號上那些願意跟著我的人，我們準備去西邊。可能會去榆林地，或者去盎然之地吧。或許我們也會在聚鹿和瓦利亞之間跑生意，哪裡能賺錢就去那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「現在我們已經分裂成了兩個極端陣營，各自以各自的方式墮落著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「權利落在了那些最不配掌權的人手上。委員會的建立者已經消失了，我的信仰也隨著一起消失了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你是在逃避你的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「這些話你還是省省吧，你這個老海盜。大海上根本沒什麼信仰可言，你只能從自己心裡找到信仰，這些事情你早就知道了。」
+
+他臉上掛著狡黠的笑容，用拳頭捶了捶自己的胸膛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「真是個不錯的夢想。我會向昂德拉祈禱，祝你實現這個夢想。但對我來說，我已經沒有回頭路了，只要回到皇族海盜那裡，我必死無疑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「我本來也是這麼想的，但巴斯蒂安把我們解放的那些奴隸賣給了鉤刺島的奴隸販子。我在他的房間裡發現了這些記錄，這種勾當差不多已經有十年了。後來我和他當面對質……結果不怎麼樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>&lt;i&gt;你的腳踩在沙地上，腳上結了痂，還流著血。幼小的你在恐懼中顫抖，渾身骯髒不堪。四面八方都傳來了喊聲，間或夾雜著嘲笑聲。人們在你面前咆哮著，你身邊有海裔人，有比你高出兩倍的人，有渾身肌肉的壯漢，還有穿著兩色長袍的胖子——別再趕我走了，你懇求道，別讓我再……&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我們馬上就要出發了。替我照顧好塞拉芬吧，他也會好好照顧你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>塞拉芬伸出手，抱住了男人的腰。男人一隻手拍著塞拉芬的頭，另一隻手搭在他的肩上。他笑了，雖然臉上掛著憂鬱的表情，但眼神裡卻帶著笑意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「回到我們身邊吧，我會保護你的，我們會一起得到一個公正的審判結果。」
+
+雷馬洛慢慢地搖了搖頭，嚥了口唾沫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你砸碎了我的鐐銬，還讓我當了你的兄弟。我看你現在是有點老糊塗了吧，我沒說錯吧？」
+
+塞拉芬盯著你，下唇抽搐著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「船長！快用你的三寸不爛之舌，給這個老糊塗好好講講道理！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我知道我們兩個不總是能合得來，船長。但如果你想幫我個忙的話，就給這個不聽勸的老糊塗好好講講道理！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「船長！你能不能給這個不聽勸的老糊塗講講道理？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「但是……但是那可是在艾歐拉的另一邊啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「是啊，確實會是一趟漫長的旅行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我已經在船上干了十四年了。我之所以呆這麼久，全都是因為你。巴斯蒂安船長那麼相信你，&lt;i&gt;我&lt;/i&gt;也那麼相信你。」
+
+他抬起了頭，直視雷馬洛的眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「好吧，我的朋友……」
+
+雷馬洛張開嘴，隨即又閉上了嘴，嚥了口唾沫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我還能怎麼辦？」
+
+塞拉芬疲憊地聳了聳肩，轉開了視線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「你在隱瞞某些事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「只要有了你的頭腦和我吹牛的本事，我們就能一下子成為流亡皇族中的佼佼者，把那些沒用的醉鬼全都干趴下。」
+
+雷馬洛的眼神從塞拉芬身上轉向了海面，眉頭皺得更緊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「好吧，我確實隱瞞了。我隱瞞了很多事情，出於各種原因。很多時候，你最好把嘴巴閉上，我很久以前就明白了這個道理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「曾經有一位睿智的靈視者告訴過我，誠實永遠是最好的選擇。我當時還不相信這些話，但後來我發現，這些話說得確實沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「這位靈視者曾經提醒過我，他讓我明白，我們並不僅僅只是一艘船上的兩個水手而已。我們是親人，對我來說，你是最接近我父親的人了。如果你要出發，我也會跟著你一起去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「瑪珈嵐的屁股在上啊，老傢伙，你聽起來就像是被水泡過的床單一樣。別再在這裡顧影自憐了，趕緊回答靈視者該死的問題吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「你真的要這麼做嗎，靈視者船長？無論他做了什麼，你對我的家人刀劍相向，你就是在對我刀劍相向。」
+
+他的手朝武器摸了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「不准動，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我們都清楚海上的規矩，造反就意味著死刑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[退後。] 「塞拉芬剛剛救了你一命，雷馬洛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「如果你偷了家人的東西，你就算不上家人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[攻擊] 「那就這樣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「恕我直言，靈視者船長，你這麼做是在浪費時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>藍色的絨精臉部肌肉抽搐著，移開了目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「沒錯，這也不是他第一次救我了。他總說他欠我好幾條命，我也一樣欠他的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>塞拉芬的眼睛睜大了，緊接著又垂了下去。他點點頭，看著雷馬洛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「好吧，船長，但我覺得這傢伙的罪過沒這麼嚴重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「你已經聽過他的理由，船長，我們都聽得很清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「要不是因為他做的事情，我也不會變成現在的樣子。祝你平安，雷馬洛，我會永遠記得你曾經的樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「祝你平安，我的朋友。」
+
+塞拉芬轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「你是怎麼知……？」
+
+雷馬洛眨眨眼，緊接著搖起了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>塞拉芬眨著眼，面部表情。他張開了嘴，嘴巴合而又張。
+
+他渾身的毛髮立了起來，耳朵也壓了下去，露出憤怒的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「你與這位[Player Race]的旅程已經改變了你，小藍。你要多保重，我的朋友。」
+
+他歎了口氣，悲傷地搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我不能按你的要求去做，我的朋友。我也不會&lt;i&gt;對&lt;/i&gt;你做什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>你感到血液中迸發出一陣陣憤怒，皮膚變得通紅。冰冷的恨意沿著你的脊骨不斷地旋轉、上升，一陣困惑模糊了你的視線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;i&gt;他沉重的大手將你重重地拍倒在沙地上，周圍響起了一片歡呼聲和掌聲。你站了起來，你對面的奴隸男孩朝你一步步走來。你感覺到了他的想法，他的想法彷彿釘在你的意識裡。你感覺到了他的恐懼，他比你更加害怕。但你還能怎麼做呢？只有一個人能活下來。為了生存，你壓制住了所有的感情，只留下了恐懼與仇恨。你呲起了牙，緊緊地握住了拳頭。你的一系列攻擊又輕又快，對面的男孩發出了尖叫聲……&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「抱歉，我的朋友，請原諒我。」
+
+雷馬洛腳下有點不穩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[與它對抗。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[讓幻像來吧。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>你集中精神，抵抗住塞拉芬強烈感情的衝擊。這些感情被撞得四分五裂，在你的意識面前化為碎片。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「你還好嗎，塞拉芬？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>塞拉芬哼了一聲，搖了搖頭。淚水打濕了他眼窩下面的毛髮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「祝你平安，吾友塞拉芬。拿上這個，願你不需要用到它。」
+
+他給了塞拉芬一個緊緊繫上的包裹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「希望以後我們能在更加寧靜的海上再會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

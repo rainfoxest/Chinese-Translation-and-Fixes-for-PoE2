@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_reef_known</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>右舷海水的顏色變深了。在不遠的海面處，參差不齊的石刺在海浪中露了出來。
+
+船舵的方向傳來了喊聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「帶我們穿過暗礁區。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「繞開暗礁區，我可不想冒險把船撞壞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0]嫻熟地駕著船，船像一位優雅的舞者一樣，在千回百轉的礁石和珊瑚礁之間安然穿行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0]試圖駕船通過暗礁區，但伴隨著一陣讓你膽戰心驚的震顫，船撞上了礁石。甲板上迴盪著木頭撕裂的聲音。無數人衝到了船艙裡，趕在海水把船裡的東西泡爛之前，趕緊把船體上的破損之處修好。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你的船越開越遠。[Specified 4]和[Specified 1]周圍聚集了一大群水手，講著提塔拉奇跡各種各樣的奧妙故事，而你錯過了這一切。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>但[Specified 0]卻帶著害怕的神色握緊了舵盤。「我才不管這裡是不是昂德拉該死的胸部呢，我可不想從一大片暗礁上開過去。」[Specified 0]注意到了你，鬆了口氣。「船長，替我勸勸[Specified 1]吧。」
+
+[Specified 1]看著你們兩個。「所以就要錯過這個機會嗎？天氣這麼好，海面這麼平靜，恐怕要等上幾個星期才能等得到。如果你真想看提塔拉奇跡的話，就得趁現在。」
+
+一些其他的水手也湊了過來，他們的眼神裡帶著期盼的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「提塔拉奇跡是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 1]聳了聳肩。「應該是某種奇景吧，某個古老的神秘之地。我自己都沒親眼看過。」
+
+[Specified 4]點點頭。「我以前的船伴，有個灰鬍子說他親眼看過。他說那一眼給他帶來了十年的健康和好運。」
+
+其他的水手熱切地嘟囔了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「[Specified 2]，我們有沒有穿過暗礁區的船圖？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「[Specified 3]，我們的船狀況怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 2]心不在焉地點點頭。「不太完整，但大概還能用，前提是[Specified 0]真的能帶著我們過去。」
+
+[Specified 0]瞪著[Specified 2]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 3]笑了起來。「她的狀況很不錯，船長。我是不想開著她穿過一大片暗礁，但如果真的要冒險的話，現在的狀況確實再適合不過了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 3]皺起了眉頭，轉著眼珠，打量著甲板。「我猜她大概還可以撞個一兩下吧，倒不是希望她撞上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 3]盯著你，瞪大了眼睛。「咱們的船都快沉了，船長！這種時候可不能再冒險了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>顏色斑駁的淺灘變成了碧藍的深海。你的周圍出現了一個極為寬闊的落水洞，足以容納下一整支艦隊。
+
+[Specified 0]鬆了一口氣，[Specified 1]觀察著地平線，尋找著奇跡的跡象。
+
+[Player Ship]繼續往前駛去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>這座石柱的絕大部分都爬著珊瑚，但它水面之上的可見部分，卻是漫長而往復的螺旋形。魂珀通常都是高大的柱型，但這座魂珀柱的樣子，就彷彿某只可怕的海怪伸出了七條巨大的觸手，想要把天空攫住一樣。
+
+[Specified 2]發出了低語聲。「這麼古老，應該是英格維仙人建的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>魂珀之柱的古怪形狀究竟是被海水慢慢蝕刻而出，還是被大海的力量扭曲而成，確實很難判斷。這種模稜兩可的感覺，讓這一奇觀變得更加光怪陸離。
+
+其餘的船員們聚了過來，用低沉、充滿敬畏的聲音談論著奇跡的含義與起源。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「這一定是先民們的偉大造物！我們能親眼看到，實在是太幸運了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「現在咱們都見識過它了。那就繼續前進吧，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「繼續我們自己的航線。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 0]保持著安全的距離，駕船駛過了魂珀之柱。
+
+[Specified 1]和[Specified 4]跑到了前甲板，依依不捨地看著提塔拉奇跡，直到它消失在海平線上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「沒人知道它是怎麼來的。雖然不知道它是什麼，好好欣賞欣賞吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「這座雕塑像征著眾神的惡意。看到了嗎，這些觸手把那個可憐的笨蛋拉到了海底，他再也回不去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「很明顯，這是眾神的造物。能親眼看到它，我們都是受到祝福的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「尊貴的昂德拉啊。」[Specified 4]低下頭，低語著。[Specified 1]和[Specified 2]對視一眼，露出了感恩的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 1]皺著眉頭，聳聳肩，看了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>大家目瞪口呆地看著你，臉上滿是恐懼。
+
+他們最後戰戰兢兢地看了一眼魂珀之柱，便回去工作了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Specified 2]點點頭，[Specified 4]輕輕地祈禱起來。其餘的船員點了點頭，繼續回去工作了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「提塔拉奇跡就在這附近！每個水手都得親眼看看！」[Specified 1]拍起了手，急切地催促著大家。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>死亡的珊瑚從水下伸了出來，像蜘蛛腿一樣攀附著。微風吹過鋸齒狀的珊瑚邊緣，發出了口哨般的聲音。水面之下，一群群魚群在美麗的珊瑚礁之間游來游去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 1]指著前面有微波的水域。「如果從那邊穿過去的話，我們能省下好幾天的時間！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你返回到那片淺水區域，這裡確實是穿過亡焰列島的捷徑……前提是，[Player Ship]確實能指引你們穿越這片崎嶇的水域。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>但[Specified 0]卻帶著害怕的神色握緊了舵盤。「我才不管能不能省什麼時間呢，我可不想從一大片暗礁上開過去。」[Specified 0]注意到了你，鬆了口氣。「船長，替我勸勸[Specified 1]吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Specified 0]歎了口氣。「就算那個奇跡真的就在這附近，也不能保證穿過這片暗礁區之後就肯定能找到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>如同半空中一聲炸雷，你腳下的甲板開始分崩離析。你周圍的世界彷彿天旋地轉了許久，隨後你便落入了水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>你意識不清地漂在水面上，旁邊四散著破碎的木板和鋼鐵。你沒有什麼力氣繼續游泳，只能眼睜睜看著自己沉入水面。
+
+黑暗籠罩了你的全部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0]向你敬了個禮，「遵命，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>這裡的海面極為廣闊，閃爍著青玉一般溫潤的光澤。一座蒼白的光魂珀之柱從大海之下升了起來。[Specified 1]高興地上躥下跳，大聲喊著，指著它。
+
+[Specified 0]開著船，更加接近了魂珀之柱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>提塔拉奇跡從水中升了起來，閃著光，直指天空。它還是那麼古怪而寂靜，和你第一次見到它的時候一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 0]試圖駕船通過暗礁區，但伴隨著一陣讓你膽戰心驚的震顫，船撞上了礁石。甲板上迴盪著木頭撕裂的聲音。無數人衝到了船艙裡，趕在海水把船裡的東西泡爛之前，趕緊把船體上的破損之處修好。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 4]哼了一聲。「就算是他們，也做不到。這是昂德拉緩慢而持久的成果。」
+
+在陽光的照耀下，魂珀之柱晶瑩剔透，彷彿是它自己在閃閃發光一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 4]哼了一聲。「就算是他們，也做不到。這是昂德拉緩慢而持久的成果。」
+
+即使是在黑夜之中，魂珀之柱依然散發著微光，在海面上投下了一團鬼魅般的光暈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>船員們凝視著它。有的人在默默地祈禱，有的人發出了無聲的讚歎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>一片暗礁出現在你面前。靠這群骷髏船員，你也沒辦法確認參差不齊的淺灘位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

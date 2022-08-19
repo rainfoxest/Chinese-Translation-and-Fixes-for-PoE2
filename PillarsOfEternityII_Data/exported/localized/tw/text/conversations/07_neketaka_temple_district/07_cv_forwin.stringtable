@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_forwin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>80</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>隨著你接近，一個木精靈在一座岡恩祭壇前站起身來。她的長袍表明她是個高階女祭司。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「皮特莉說你或許能幫忙解決峽谷的食物短缺問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你在感染者的事情上幫助了皮特莉，你做的很好。哪怕一個人只有你一半能幹，我也會認真聽他說。但我不會隨便對你許下承諾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「若派你來的是皮特莉，那麼我會認真聽。但我不會許下我無法達成的承諾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我們努力過——運送了一些捐贈的物資過去，諸神啊，大概是兩年前的事。我們曾經能做些真正的好事。
+
+「但是守衛們有意見。把東西全運到宮殿裡去，我猜大概是瓜分掉了。從此再也沒見過那些物資。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「如果我確保物資抵達羅帕魯呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我們當然樂意幫忙。但是你要如何確保物資這次能抵達羅帕魯呢？
+
+「如果這個辦法之前沒有奏效，你又為何覺得這次能夠有用呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「讓我來操心那個問題吧。你只需要想辦法籌集食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我準備爭取覲見女王陛下，請求她批准你進行慈善事業。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「皇族海盜在峽谷裡有一個港口。如果你願意做他們的供應商，我可以說服他們幫你走私食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「好。你想辦法讓卡罕加皇室們喜歡上你，你如果能讓他們明事理的話，我就把食物帶過去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「先等等。我對皇族海盜沒有成見，但是走私？那樣的話我們全都違反了卡罕加的法律。」
+
+她挺起雙肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[離開]「好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「女祭司，對你來說政治遊戲比餵飽飢餓的人們更重要嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我們的生活不是兒戲。我知道你希望為羅帕魯貢獻一份力量。我也希望。但我不想為此捅了馬蜂窩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「別擔心。與皇族海盜之間的交易永遠保密。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我們別無選擇。羅帕魯會陷入飢餓之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「唉，好吧，為了幫助羅帕魯，我願意違背自己一貫的原則。但是——我無意冒犯——我對你一無所知，陌生人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你還需要我做其他什麼事嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「感謝你的慷慨，朋友。」她微笑著，神采飛揚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「嗚——呃，現在我能幫你什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你能保證？永遠不會有人知道？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「皇族海盜肯定不會到處亂說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我保證。眾人皆知我誠實可靠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「重要的只有結果。我不能坐視羅帕魯的苦難。
+
+「我們會籌集到食物的。你去解決其他問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我不會讓信眾們受到傷害。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我希望晨星之子會幫助羅帕魯解決食物短缺問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「你也知道我們想幫忙。但你覺得我們該怎麼做呢？我們嘗試過，失敗了。這事難道有什麼訣竅嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>她見到陌生人前來，露出微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「皇族海盜在峽谷裡有一個港口。如果你願意做他們的供應商，我可以說服他們幫你走私食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我們這樣做，應該要先得到女王的許可。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[離開]「等我想好了應該怎麼把食物運去峽谷再回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「裘荻。我希望你現在沒有打算惹麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「誰，我嗎？沒有，我想都不敢想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>她垂下頭思考著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「就這樣？你可真是拼盡全力了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你就是這座神殿裡的高階女祭司？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「豬是不是臭得像屎一樣？」她露齒而笑，眼睛裡閃爍著戲弄的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我猜你不是來祭拜的。有什麼我能為你做的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你說得沒錯。總得有人說實話，儘管不中聽。」
+
+她說話時似乎很愉快，但她的眼睛裡有一道尖銳而憤怒的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[離開]「我會考慮的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「有些人一拍腦袋就決定來佔我們的便宜。
+
+「也許你是這些蠢蛋中的一員，如果信了你，那我也聰明不到哪裡去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你看，是這麼回事我願意為了幫助羅帕魯違背自己一貫的原則。但是——我無意冒犯——我對你一無所知，陌生人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你想讓我證明我……有堅定的信仰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「別繞圈子了，女祭司。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「向俄撒斯獻上貢品能幫我們修復神殿，如果你懂我的意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>她指了指自己的鼻樑，喉嚨間發出低沉的隆隆聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「全靠王室的恩典，我們才得以依附在部族內部。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「也許我可以把貴重物品抵押給你——作為我會遵守承諾的保證？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我不會接受你的財物。這個提議本身已經有足夠份量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>她點點頭，長著雀斑的臉上舒展開來，滿是真誠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>顏色猶如麥酒和陳舊金塊一般的眼睛敏銳地瞇了起來。
+
+塞炆搖搖頭，幾顆鬆脫的靈球順著她的臉頰滑落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「說出來或許你不信，但我不是好騙的小孩子了。再告訴我一遍，我為什麼要相信你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「是引領你來到此處的那束光。她點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>現在你能看得更清楚了，你分辨出木精靈的長袍代表著她是高階女祭司。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「抱歉，請原諒我們的爭執。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「拜託，塞炆。我們不能坐視不理。相信靈視者吧。我相信靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「抱歉，但我真的很擔心。「我們的食物通過什麼方式到達羅帕魯人們的手中會影響到我們在整個卡罕加部族的聲望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「看到俄撒斯信徒總是令人心情愉悅。我能為你做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>她拱起後背發出聲音，臉上很快露出滿意的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>她拱起後背發出聲音，臉上很快露出滿意的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我們當然樂意幫忙。但是你要如何確保物資這次能抵達羅帕魯呢？
+
+「如果這個辦法之前沒有奏效，你又為何覺得這次能夠有用呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「當然了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我們在找人。她可能幾年前來過這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「每天都有光明之神的信徒前來。你應該和那裡的諾達岡德談談。」
+
+她指著右邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「她在這裡資歷最老，而且對每一位信徒都很留心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「這裡是不是有些潮濕？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「你最近一定增加了不少信徒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「不比別處更多。爭辯此事沒有意義。」
+
+她眨眨眼。「水源像滋潤樹一樣滋潤我們的信仰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「哦，沒錯，人們又害怕，又憤怒。變革總是令人畏懼。
+
+「但如果我們不是尋求新的開始，又為何要來此呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「你獻身於岡恩？那俄撒斯的其他形態呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「岡恩是唯一重要的。」裘荻嘲弄道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「光明之神有許多形象，但他們的本質都是他。
+
+「聖君維德溫，他見到了晨星們，啟示他變革正在來臨。但是帶著鐮刀和燈籠來到亡焰列島的是岡恩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>塞炆閉上眼睛發出尖利的呼吸聲，隨後睜開眼睛，耐心地微笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「我們的神回歸了，他會讓世界重回平衡。他會糾正一切謬誤，使我們免於受難。
+
+「當時機到來，岡恩會為我們所有人帶來新的開始。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「岡恩必定聽見了你的祈禱，正如我一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「光明之神有許多形象，但他們的本質都是他。
+
+「我們要服從救贖與光明之主俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我的神回來了，他會糾正一切謬誤，使我們免於受難。他會向我們展示一種新方式。所我們所有人來說，都是新的開始。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>她垂下頭思考著。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

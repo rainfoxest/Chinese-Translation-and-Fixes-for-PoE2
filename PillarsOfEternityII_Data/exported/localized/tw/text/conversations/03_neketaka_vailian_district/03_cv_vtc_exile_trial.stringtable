@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_vtc_exile_trial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>285</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>卡斯托爾主管的辦公室裡面擠滿了人。房間相當暖和，好幾個與會者都推搡著想要佔個窗邊的位置。
+
+你身邊的人群穿著華貴，人群中偶有幾件盔甲點綴。少數幾個人看來很滿意自己能來這裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「好……
+
+「請讓我對與會的股東們致以最真摯的謝意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[禮貌地等待。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我們應該前往烏凱佐，而不是忙於內部鬥爭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[得體地鞠躬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「考慮到商行的身份，我們將用聚鹿語進行此次會議。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「謝謝，大人。
+
+「尊敬的議會成員們，我對卡斯托爾先生不抱有任何惡意。我們兩一直都相敬如賓。但是現在已經輪不到他說話了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「不要！等一下，你……饒命，不要啊！饒命！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「這是大錯特錯！你們不能這麼對我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「這些應該能夠總結這次會議了。謝謝你，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「研究很順利。擁有那樣子的力量絕對能夠征服全世界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[撒謊]「魂珀被污染了。只能毀掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「是女王的陰謀害了我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你的想法太奇怪了。阿爾瓦瑞，我們只關心結果。
+
+「在我看來探險隊是成功完成了任務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「大人，我還有更多的東西要說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「鑄魂學會害死我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「實驗成功了。我親眼看見了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>環視房間，只有寥寥幾隻手舉了出來。時間一分一秒地過去，本分的書記員們奮筆疾書的聲音在寂靜中迴盪，很明顯卡斯托爾得到了大部分人的支援。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>所有人都瞬間舉起了手。只需一眼就能明白，大部分人都支援這次的議案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>卡斯托爾盯著地板，雙手絞在一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>阿爾瓦瑞點了一下頭，有可能是在贊同自己，她閉上了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「如果不是靈視者出手，卡罕加女王絕對會讓主管爛在地下。
+
+「他的詭計嚴重威脅到了我們所有人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「亡焰皇家商行是個要處理的問題。卡斯托爾理解這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我能夠幫到卡斯托爾是他走運。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「但是，但是爆炸與我無關！我怎麼可能會參與女王的陰謀？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「主管，你宣稱我們沒有必要擔心胡亞納人。你說過合同與談判能夠搞定他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我……那個……」
+
+卡斯托爾使勁吞了口口水，啞口無言。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「伯爵，我相信那時候他對這一點深信不疑。卡斯托爾有盲目自信的毛病。」
+
+阿爾瓦瑞得意地笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「這麼草率地跟他們對抗就是在幫助他們。」
+
+阿爾瓦瑞單手捏拳轉身面對議會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「卡斯托爾惹的麻煩還不止這些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「波格科哈拉探險隊徹底失敗了。
+
+「大量熟練勞工和補給品付諸東流。我們無勞無功。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我成功復原了魂珀礦脈。我們能夠繼續開採。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「只有摧毀魂珀才能不惹怒胡亞納人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「大人們，夫人們，想想你們的錢財，這些時間裡面，它們去了哪裡？
+
+「那些錢沒有用在礦井與工業設備上，完全沒有。主管將大量的資金都花在了無用的實驗之上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「太……太荒謬了！我們今天的一切都拜鑄魂學研究所賜！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「夠了，阿爾瓦瑞。靈視者，你自己目睹了這些實驗。
+
+「你還有什麼想要說的麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「可以直截了當地說。商行正在損失大量資源。我們已經找到了大量魂珀資源，但是，其中有多少魂珀真正到了共和國手上？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「有比鑄魂學更重要的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「腐化了。如果更多魂珀會被腐化怎麼辦？我們不能將希望放在我們會找到更多魂珀的假設上。
+
+「我認為我們應該盡快收割我們能找到的所有魂珀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「對於探險隊的損失我無能為力。
+
+「任何事情都有危險……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「好一個危險啊，卡斯托爾。我們的問題是你到底有沒有在欺騙我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「大人，請讓我發表自己的看法。如果我們要繼續待在這個地區，我們就應該與胡亞納結盟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「股東？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「會要花很多時間嗎？我還有事情要做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>尼洛用銳利的眼神俯視著你，人群中傳來了不滿的咕噥聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我相信我可以很快完成我的陳述。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>站在她旁邊的卡斯托爾看上去洩了氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「對，很順利，簡直是順利到在邀請亡焰皇家商行公開進攻了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「胡亞納人趁著鑄魂師不注意的時攻擊了我們。卡斯托爾完全沒有預料到這件事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「卡斯托爾是個很棒的主管。他應當繼續任職。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「阿爾瓦瑞是瓦利亞商行需要的領袖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「你的善心很可貴。
+
+「但是卡斯托爾有責任要擔負。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「卡斯托爾，你的下屬對你非常忠誠。如果你與自己的同輩之間也是如此就好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「船長啊……我覺得給這裡所有的豬玀腦袋賞顆子彈就是在給艾歐拉行善。我反正是這麼覺著的。」
+
+悄悄說完之後他直起了身子，一隻手搭在了自己的武器上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「去你的點名，尼洛，這裡又不是宋格雷塔·杜卡拉。
+
+「都來了。快點搞完這事吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你是拉了個土著來？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「努亞堡真是太不幸了，[Player Name]大人。
+
+「能在這裡碰到你真是太神奇了。節哀。」</DefaultText>
+      <FemaleText>「努亞堡真是太不幸了，[Player Name]女士。
+
+「能在這裡碰到你真是太神奇了。節哀。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[點頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「說實話我不是很想念那地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我想要重建自己的據點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「是來找資金的吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[安靜地等待。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「我相信你應該不需要我來告訴你這種技術能幹什麼事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「金錢就已經足夠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「真的成功了？你是說鑄魂師已經學會如何……傳輸人了嗎？」
+
+普林西塔維斯坐在椅子上身體前傾，注視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「很接近了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「成功了大部分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「實驗差點害死了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「我們不是為了征服而來。
+
+「而且我們絕對不想要被拉近與外國勢力的戰爭之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「沒有亡焰皇家商行插手，你們統治亡焰列島的機會就更大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「不要太誇張。努瓦泰還有別的事情要考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我花錢花精力可不是為了這件事情！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「強大之人永遠會樹敵。這無可避免。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「你們本來就在打仗。我只是順手幫了你們一把。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「哈。&lt;i&gt;我們&lt;/i&gt;很明白這個道理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「卡斯托爾，看來靈視者還是忠誠於你。
+
+「我們能否繼續？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「這一切與胡亞納人有任何關係嗎？
+
+「他們早該被趕出列島了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我們已經通過與他們的合作獲得了勞動力。而且這杜絕了未來的敵對活動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「直接掃清列島不是一個效果！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「尊敬的大人們，卡斯托爾患上了仁慈的毛病。
+
+「只要我們還待在這個地區，當地人就會不停給我們惹麻煩。我們應該開採我們手上現有的資源，保證我們的努力不會白費。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「卡斯托爾，還有其他危險嗎？靈視者是相當寶貴的資源。
+
+「靈視者應該用在勘探魂珀礦脈上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「雷馬西，靈視者不是搜索犬。
+
+「不管怎麼說還是可惜了。像那樣子的力量，絕對能發揮更大的用處。」</DefaultText>
+      <FemaleText>「雷馬西，靈視者不是搜索犬。
+
+「不管怎麼說還是可惜了。像那樣子的力量，絕對能發揮更大的用處。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>阿爾瓦瑞朝你舉手示意，她同意你的看法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>你說完後周圍突然安靜了下來，所有人都壓低聲音討論了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「我們已經聽夠了。
+
+「阿爾瓦瑞，你還有什麼需要陳述？。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「我認為案情已經非常明瞭。
+
+「阿爾瓦瑞，你還有什麼想要說的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>卡斯托爾在桌前顫抖。他雙手顫抖著拿下眼鏡，用領巾擦拭著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「我已經聽夠了。
+
+「阿爾瓦瑞，我希望你還有別的要說。這是為了你好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「卡斯托爾主管背叛了他的職位也背叛了我們的信任，他與一名叫弗蘭特的皇族海盜船長勾結在了一起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「皇族海盜船長？阿爾瓦瑞，你有證據嗎？
+
+「有證人嗎？」
+
+尼洛若有所思地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「弗蘭特船長已經死了。他沒有跟任何人勾結。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「沒錯。現在瓦利亞商行多了一大群奴隸主幫手了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[撒謊]「我並不知曉此事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「不……不要胡扯。你就是代表他去了鉤刺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[撒謊]「有本事再說一遍！我永遠也不會跟奴隸主扯上任何關係！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[撒謊]「嗯。沒印象。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「卡斯托爾想要鑽胡亞納法律漏洞好賺點奴隸交易的利潤。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「哈。卡斯托爾，你沒辦法弄到魂珀於是就開始做老掉牙的生意了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「那……不，我沒……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>你感受到商賈們投向阿爾瓦瑞的惱怒眼神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「夠了。卡斯托爾，你有什麼想說的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「大人……我承認，我以為與弗蘭特結盟能夠幫助我們鞏固在外島上的利益。
+
+「我以為那樣子做的話……也順便能弄點必要資金。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「還是說卡斯托爾你是在給自己撈錢？膽子很大。
+
+「你比我預想地還要大膽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「不，大人！我發誓！」
+
+卡斯托爾用袖子擦了擦眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「我覺得我知道得已經夠多了。還有什麼要說的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「看來外國的土地讓這個人學會謙卑了啊。」</DefaultText>
+      <FemaleText>「看來外國的土地讓這個人學會謙卑了啊。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「瞧瞧。懂禮貌的男人。」</DefaultText>
+      <FemaleText>「瞧瞧。懂禮貌的女人。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「看來你很喜歡展現自己的才華啊，[Player Name]大人。」
+
+他身旁的好幾名看客努力伸長脖子想要看清楚伯爵在與誰人交談。</DefaultText>
+      <FemaleText>「看來你很喜歡展現自己的才華啊，[Player Name]女士。」
+
+他身旁的好幾名看客努力伸長脖子想要看清楚伯爵在與誰人交談。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「尊敬的來賓，這位是努亞堡的靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「卡斯托爾主管，阿爾瓦瑞總督，你們都在吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「是的，大人。」
+
+卡斯托爾臉上沾滿了汗漬。他看上去就像是要暈厥了一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「是的，大人。」
+
+阿爾瓦瑞克制著笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「我們開始吧。請書記員開始點名。」
+
+「阿爾比納·卡奈托。雷馬西·斯托蘭佐·梅·瑟洛拿公爵。大法師……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「這位是你的證人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[揮手。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[保持沉默。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「尊敬的來賓，這位是努亞堡的靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「&lt;i&gt;投錢&lt;/i&gt;的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「也是總管的人。說重點吧，伯爵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「尼洛，稍等片刻。那位是不是帕蕾吉娜·梅斯·蕾？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「我們是來辦放逐者派對的嗎？」
+
+嘲弄的提問激起了人群的輕笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「帕蕾吉娜，你最近才重新獲得我們的青睞。這樣子做似乎有點冒險啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「五陽兄弟會不看重青睞，也不看重個人安危。性命與財富不值一提。共和國才是我們的一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「雷馬西公爵，女士和先生們，我來這裡只是為了幫助審判進行，別無他意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「卡斯托爾你是在收集神棄者嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>帕蕾吉娜聽見伯爵的話語不禁畏縮，但是她一言不發重新站直。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「外來者的法律比恩加蒂的寵物們還要煩人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「沒人想打架的話就不叫瓦利亞式聽證會了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「他們有可能不是很暴力，但是這些『好人們』都是無法無天的傢伙。通往這條房間的道路上堆滿了他們的敵人們的屍體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「好了，如果他不想說話那應該能很快解決這件事情了。」</DefaultText>
+      <FemaleText>好了，如果她不想說話那應該很快就能瞭解這件事情了。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>一名瓦利亞貴族輕抬雙手示意你起身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「主管將會負責烏凱佐。你們肯定也希望能幹之人擔起責任。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「我想所有人都應該明白了，卡斯托爾主管根本沒有辦法兌現給我們承諾的利益。
+
+「你們所有人都為了達成目標給他投下了大量資金與資源，你們到現在有獲利過嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「靈視者給我們幫的忙遠超卡斯托爾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「如果不是卡斯托爾你們什麼也拿不到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「亡焰皇家商行是在挑戰你們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「誠然，卡斯托爾是打下了基礎。但是他並沒有好好打理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「我們都要看議會的臉色。如果你們想要獲得利益的話，我們必須做出改變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「多虧了你不辭勞苦的匯報，我們一直都在跟進局勢的發展。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「但是我希望你說這些是有原因的，阿爾瓦瑞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「他完全沒有兌現任何諾言。這難道不是徹徹底底的失敗嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「真是妙啊。我們的『證人』原來是個迷信的蠢蛋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「卡斯托爾主管，你得到的命令很明確，不惜一切代價獲取這個地區的所有魂珀礦脈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「證人，你認為這些命令有被執行嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「前提得是『他們』真的對這事情有興趣……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「而且，我們在那次襲命中損失了數名鑄魂師。」
+
+阿爾瓦瑞看著你的眼睛，她的唇上浮起了一絲微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「但……我能怎麼辦？靈視者……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「是的，他能做什麼？
+
+「換做是他人說不定能做出不同的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「亡焰皇家商行會在我們示弱的那一刻想方設法把我們趕出這塊區域。
+
+卡斯托爾已經給了他們那樣做的藉口。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「我認為他已經盡全力了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「我已經找到了兩處魂珀礦脈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「我已經找到了多處魂珀礦脈。卡斯托爾的實驗並沒有影響到我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「神靈們已經來到了亡焰列島。有比你們的利益更重要的事情需要考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「我們不是這麼算賬的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「大人們，女士們……我們的敵人們即將前往烏凱佐。
+
+「瓦利亞商行必須做好萬全準備。商行現在最需要的是果斷而且高效的領導人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「憑借靈視者的幫助，我們現在有了贏得全面勝利的機會。
+
+「能夠讓我們所有人載入史冊的勝利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「靈視者？你竟然想要依靠一個暴徒的幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「那個對我們造成的傷害堪比敵人的靈視者？
+
+「阿爾瓦瑞，你的想法荒謬至極。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「前提是他願意幫助我們。」</DefaultText>
+      <FemaleText>「前提是她願意幫助我們。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「阿爾瓦瑞，你有證據嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「我……！……沒有，大人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「這對於你的其他指控來說並不是好事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「奴隸主！你是瘋了嗎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「奧斯蓋拉，不要把你們北顧郡的鹿林道德觀念帶到這裡來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「說不定在未來會是有用的資產。
+
+「最起碼也能當炮灰呀。」
+
+伯爵朝人群放肆微笑，人群中也回應了幾聲譏笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「他……什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「卡斯托爾倒是方便了。我以前還沒覺得你有這個膽子，伊格納托。
+
+「好了，阿爾瓦瑞，你有證據嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>阿爾瓦瑞舔了舔嘴唇，她的視線在你和身旁的人群之間來回轉動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「一個非常有用的暴徒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「說話之前想想清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「一名&lt;i&gt;重要&lt;/i&gt;的暴徒。」
+
+尼洛厭倦地掃視了一遍訴訟廳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「拜託，請大家保持禮貌。」
+
+尼洛厭倦地掃視了一遍訴訟廳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「你現在知道我的能耐了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「到時候就清楚了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「我是你們這邊的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「隨你們去想。我來這隻是為了收錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[安靜地等待。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「你已經知道了針對你的所有指控。卡斯托爾，你最後還有什麼要說的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「我……我做了這麼多事情。一切要求我去做的事情。
+
+「都是為了瓦利亞商行。我為了這一切奉獻了我的一輩子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「我做的一切都是為了商行。你們心裡清楚這一點。兩年前你們將建立光魂珀貿易的任務交給了我。
+
+「我將繼續盡我的全部能力忠誠地侍奉你們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「我現在已經明白，阿爾瓦瑞這麼多年來一直垂涎著我的位子，如果你們給她機會的話總有一天她也會盯上你們的。
+
+「如果給她機會她甚至會把瑪珈嵐拽下來！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>你身旁的阿爾瓦瑞微笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「是時候了。讓我們來投票表決卡斯托爾的去留問題。
+
+「同意地請舉手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「卡斯托爾，你錯就錯在將野心當成是在犯罪。
+
+「也許我們給你的期望太高了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「原來是一個僱傭兵。這麼說你的證詞也是有價格的吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「我都是在執行卡斯托爾的指令。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「看來卡斯托爾主管沒有履行自己的責任。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「還真的很快啊。我覺得我們可以休庭吃晚飯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「這遠遠達不到我們的要求。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「啊，這麼說實驗並沒有造成多大干擾吧，卡斯托爾？一切應該正按部就班著？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「對……是的，大人！我從來沒有忘記過我們的目標。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「一派胡言。真是個天大的笑話。」
+
+阿爾瓦瑞厭惡地抿起了嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「靈視者，我們任命卡斯托爾是因為看重他的經驗與背景。
+
+「但是他盡全力也沒能達到我們的要求。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>人群沒有什麼反應。你看見好幾名股東都在搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「賬本已經說明了一切。卡斯托爾已經將我們帶到了毀滅的邊緣。」
+
+阿爾瓦瑞自信的聲音打破了喧囂的低語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「國王港的成功多虧了克拉里奧總督。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「基亞克斯·克拉里奧我任命的其中一名官員，大人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「也許你還是能夠做出明智決定的，卡斯托爾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「請再等待片刻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「卡斯托爾，你的下屬對你頗有意見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「如果你連保證下屬的忠誠都沒有辦法實現，我懷疑你的辦事能力也有問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「卡斯托爾，你真是找了一幫什麼烏合之眾啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「帕蕾吉娜，這是卡斯托爾最後的機會了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「我指的不只是金銀珠寶，不只是榮華特權。成功將帶來能夠自由改變未來的力量，是這個房間裡面的人&lt;i&gt;還&lt;/i&gt;沒有想到的自由。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>伯爵抬眉輕點表示自己無聲的贊同。
+
+你看見好幾個投資人也在點著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「帕蕾吉娜，我們需要阿爾瓦瑞的支援。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「女士們，先生們，我相信卡斯托爾主管心懷共和國，但是……我不能否認他的行為已經危害到了商行在亡焰列島的利益。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「非常客觀的評估。我們必須擺脫個人情感，做正確之事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「也許是因為這個損失才將靈視者逼入海盜行業的？
+
+「是我想多了，伯爵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「我在白際山有幾個線人。我一直想要見見那個傳說背後的男人。」</DefaultText>
+      <FemaleText>「我在白際山有幾個線人。我一直想要見見那個傳說背後的女人。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「就是這個男人導致的宮殿騷亂，是不是？
+
+「很有趣。」</DefaultText>
+      <FemaleText>「就是這個女人導致的宮殿騷亂，是不是？
+
+「很有趣。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「這難道不會干擾我們手頭的事情嗎？看看他。」</DefaultText>
+      <FemaleText>「這難道不會干擾我們手頭的事情嗎？看看她。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>儘管你進來的時候滿是刺耳的嘈雜，隨著站在桌後的男人一個手勢所有人都收了聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>阿爾瓦瑞震驚地無法動彈。她的嘴唇無聲地開合著。
+
+她驚恐地看了一眼伯爵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「你做了過分之事，阿爾瓦瑞。」議會並不喜歡平白無故地被你的陰謀引騙到這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「去盎然之地滿足你的野心吧。」
+
+「路耶瓦·阿爾瓦瑞，我以宋格雷塔·米亞·康普雷薩的名義宣佈剝奪你的所有頭銜與職位，你將被逐出瓦利亞商行與瓦利亞共和國。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>卡斯托爾看見了投票結果之後發出了一陣心灰意冷的梗咽哭喊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「卡斯托爾。我們給過你機會。我們講的很明白，抗命的代價會是什麼。
+
+「你已經揮霍掉了那個機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「也許你在盎然之地能有更好的機遇。
+
+「伊格納托·卡斯托爾，我以宋格雷塔·米亞·康普雷薩的名義宣佈剝奪你的所有頭銜與職位，你將被逐出瓦利亞商行與瓦利亞共和國。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「接近。那就說明是沒有成功。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>你聽見了幾聲輕蔑的嘲笑。人群們低聲抱怨了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>[撒謊]「鉤刺什麼也沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「奴隸主在涅克塔卡活不下去的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>人群中傳來了零零散散的譏笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「我們可不想違反胡亞納法律啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>人群發出了更多笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「我們不需要奴隸。與那些做奴隸生意的&lt;i&gt;畜生們&lt;/i&gt;打交道是在……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「&lt;i&gt;什麼&lt;/i&gt;？」
+
+被冒犯到的公爵低聲說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「女士們先生們，我的意思是……與在&lt;i&gt;這裡&lt;/i&gt;做奴隸生意的人們打交道。與那些人打交道對我們沒有好處。」
+
+阿爾瓦瑞低著頭有氣無力地說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>「我們已經檢閱過手頭上的證據。
+
+「情況對你不利啊，主管。但是你還有解釋的機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>「那些實驗說不定能幫助我們前往烏凱佐。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>「很有趣的想法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>「烏凱佐上有著大量光魂珀資源。我們的研究已經有成果了，如果我們能在那裡建立前哨站的話……」
+
+卡斯托爾還沒來得及說完就被幾名投資者的揶揄打斷了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>「卡斯托爾除了夢還有什麼。我們手頭上有大把詳細測繪過的魂珀礦脈。
+
+「為什麼不將精力集中在那些地方？卡斯托爾是將你們的財產賭在了幻想上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>「你是總督。難道你不也要擔負一定責任嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>「非常有用的資產啊，卡斯托爾。」
+
+尼洛伯爵的語調中帶著一絲幾乎察覺不到的認同。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>「我也有同感。」
+
+卡斯托爾感激地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>「你是說其實礦脈已經歸我們了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>「這，我是說……是的，大人，但是……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「請保持安靜！我們能夠開始了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>路耶瓦·阿爾瓦瑞看著貴族們離去，她的臉上掛著一絲淡淡的微笑。
+
+你接近的時候她轉向了你，她輕佻著一邊眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「靈視者，等沒人的時候我們再談。我們有很多事情要商量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>卡斯托爾主管像是休克了一般。他一動不動地看著大門。
+
+你靠近的時候他嚇的跳了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「我得先送走股東們，之後請賞光，我們兩需要好好談一談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「傳說之島，尼洛？你把我們叫到這裡難道就是為了這個？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>尼切斯伯爵掃視了一遍整個房間，最後他的視線停在了你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「對，宋格雷塔·米亞·康普雷薩。他們在商行股份中占比最大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「卡斯托爾主管，你現在受到的指控如下：嚴重失職，資源管理不善，故意欺騙……
+
+「全都是重罪。」
+
+你身旁的人群中傳來了一聲低語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>「我們最近聽說了許多關於烏凱佐的消息。卡斯托爾主管，能不能告訴我你針對傳說之城的計劃？」
+
+尼洛平靜地說著，他手中的羽毛筆慢慢敲擊著桌子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>「如果你在烏凱佐上建立前哨站，胡亞納人永遠也不會原諒你們的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>「就算昂德拉之臼後面真的有魂珀存在，我們還是應該直接搾乾能到手的資源然後離開。
+
+「難道說議會還要跟土著和海怪打上幾百年嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「阿爾瓦瑞，你可以作陳述了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「&lt;i&gt;一點沒錯&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>「當然。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>「沒……沒錯，我們&lt;i&gt;已經&lt;/i&gt;給這些礦脈測繪了好多年了。越靠近昂德拉之臼的地方礦脈產量越大。
+
+「阿爾瓦瑞也清楚這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>「烏凱佐上存在著一種魂珀網路。這就是俄撒斯去那裡的原因。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>「你們要佔領烏凱佐？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>「&lt;i&gt;如果&lt;/i&gt;我們抓住這次機遇，我們能獲得遠比我們最初的設想更加龐大的成果。
+
+「我能帶給你們財富，女士們先生們，就算是你們最狂野的夢也比不上的財富！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>「亡焰列島屬於胡亞納人。魂魄也是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>瞬間你就被刺耳的嘲笑與怒吼所淹沒。
+
+趁著伯爵維持秩序的時候阿爾瓦瑞靠了過來，她假裝自己在梳理頭髮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>「靈視者，這種話對你一點好處也沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>「船長，你說得很好，但是常識就是貪婪的犧牲品。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>「對，你們有可能是能變的更富有……等個一兩百年就好了。
+
+「你們能等待那麼久嗎？有可能一部分人還能等下去。但是我覺得不可能所有人都能這麼做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>「他們會理解的。我們的研究說不定對他們也有幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>「令我沮喪的是，我已經沒有辦法再將這種觀點當成是瘋癲之語了。」
+
+尼洛在一份文件上面寫了一些東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>「當然了。這是為了支援我們將派過去的鑄魂師與靈視者們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>「我……
+
+「我已經盡了一切可能。但是我的能力也有限。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>阿爾瓦瑞面紅耳赤地面對著人群中傳來的嘲笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>「如果出岔子的話，最起碼用這個房間裡面的錢財支付我們的葬禮花銷還是綽綽有餘。亞洛斯湊近你，對你悄悄地說著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>「我永遠也不會跟奴隸主扯上任何關係！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>「女士們先生們，我不能否認卡斯托爾主管危害了商行在亡焰列島的利益這個事實，但是他的野心與共和國人的一致。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>「這種野心有風險，但是這種野心也是能讓你們的商行，能讓我們的共和國成為未來無可爭議的世界霸主的潛力來源。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>「伯爵，我不奢望你能夠理解我們的誓言，但是最起碼請你在接下來的幾分鐘裡面不要違背誓言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「知道你能將忠誠放在個人感情之上我倍感欣慰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>「帕蕾吉娜·梅斯·蕾，我有點懷疑你最近的判斷能力。
+
+「你的同伴對商行造成了巨大的傷害。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>「阿羅海親王的死將會嚴重影響到我們在這個地區的發展。」
+
+伯爵的眼睛凝視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

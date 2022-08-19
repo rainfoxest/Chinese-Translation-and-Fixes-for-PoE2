@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_10_magran_teeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>他在烈火中等待著</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>與俄撒斯在灰燼之胃匯合。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>到達下層橋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>想辦法幫助俄撒斯穿過鋸齒城堡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>獲取比瑟阿坎飾環以進入鋸齒城堡裡的瑪珈嵐神龕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>點燃瑪珈嵐神龕以到達灰燼之胃深處的魂珀尖塔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>與俄撒斯交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>將飾環帶到鋸齒城堡中的瑪珈嵐神龕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在哈桑戈的廢墟中碰到了俄撒斯，但是我沒有說服他放棄他的計劃。他囑咐我去被稱作瑪珈嵐之牙的一處群島與他見面，他就在那裡的一根魂珀之柱處。如果我想要進一步瞭解他的想法，我需要去那裡找他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>俄撒斯邀請我去瑪珈嵐之牙裡的灰燼之胃與他交談，那是亡焰列島最東面海域裡升起的火山群島。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>俄撒斯正在從被稱作灰燼之胃的火山中心汲取魂珀之柱的精粹。我需要前往火山更深處才能與他交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我離俄撒斯更近了，但是我不知道如何才能去到灰燼之胃中央的魂珀之柱。我需要搜索拉紳人的要塞鋸齒城堡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>鋸齒城堡後的一座瑪珈嵐神龕通向著正在被俄撒斯汲取精粹的魂珀尖塔。我需要使用瑪珈嵐的遺物比瑟阿坎飾環才能啟動神龕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我已經得到了比瑟阿坎飾環。遺物應該能夠將鋸齒城堡裡的瑪珈嵐神龕降至灰燼之胃，這樣子我就能去找俄撒斯了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>我已經將瑪珈嵐神龕降入了火山最深處。現在我能與那名神靈對峙了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>我從一名牧師屍體上獲取的火焰飾環有可能與鋸齒城堡裡的瑪珈嵐神龕有關。我應該將飾環帶去神龕研究他們之間的關聯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>俄撒斯計劃在瑪珈嵐之牙中的某處恢復自己的力量，毫無疑問那裡面有一處巨大的光魂珀礦脈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>俄撒斯衝入灰燼之胃的時候吸收了生活在火山裡的許多拉紳人的靈魂，他們是一群信仰瑪珈嵐的火焰巨人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>拉紳人決定與俄撒斯死拼到底。他們正計劃從自己的要塞鋸齒城堡發動第二次突擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>與鋸齒城堡裡的拉紳人將軍巴瑟提交談，他有可能能夠想辦法讓我見到俄撒斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>拉紳正準備從鋸齒城堡向俄撒斯發動突擊。他們正在等待他們的牧師布蘭提斯做突擊前的最後準備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>劇烈的地震正在撼動灰燼之胃的地基。火山正在復甦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>鋸齒城堡裡的瑪珈嵐神龕是一處通道，神龕守護著灰燼之胃深處的魂珀尖塔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>拉紳人的牧師布蘭提斯佩戴著能夠點燃神龕的比瑟阿坎飾環。但是她為了向古龍尋找對抗俄撒斯的方法已經進入了上古龍之巢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>一頭龍攻擊並殺死了拉紳人布蘭提斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>上古龍嘉達菲拉絲拒絕為了拉紳人與俄撒斯對決。但是，她允許了我從布蘭提斯的屍體上取回比瑟阿坎飾環。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>巴瑟提對我施放了一種保護性法術，這將能夠在滿是濃煙烈火的上古龍之巢裡為我提供幫助。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>上古龍嘉達菲拉絲暗示說打開鋸齒城堡裡通往俄撒斯的道路的關鍵就在拉紳人牧師身上，或者說就在她的屍體上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>布蘭提斯和她的數名拉紳人戰士一同被殺死的時候身上帶著一條神聖飾環。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>鋸齒城堡裡的瑪珈嵐神龕似乎是一塊升降平台。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>我找到了一塊刻有瑪珈嵐的符印的魔法飾環。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>鋸齒城堡西面的一條吊橋通往著上古龍之巢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>我瞭解到瑪珈嵐之牙是亡焰列島東北盡頭的一處火山群島。奧涅卡莎女王二世有可能會知道灰燼之胃的位置，但是我現在已經沒有辦法去問她了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>俄撒斯往瑪珈嵐之牙去了，那裡是亡焰列島東北盡頭的一處火山群島。我已經被要求將這消息匯報給涅克塔卡里的奧涅卡莎女王二世。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>我已經將灰燼之胃標記在了我的地圖上。此地是被稱作瑪珈嵐之牙的火山群島中最大的一座島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我與俄撒斯交談過了。我沒能說服他放棄去烏凱佐打破貝拉斯之輪的計劃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>俄撒斯就在瑪珈嵐之牙裡最大的火山灰燼之胃正中央，那裡有一根光魂珀之柱。他似乎在汲取魂珀柱的精粹。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

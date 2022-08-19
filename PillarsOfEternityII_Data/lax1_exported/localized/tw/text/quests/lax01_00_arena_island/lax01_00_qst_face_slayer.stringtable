@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_face_slayer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>殺戮之面</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>從&lt;b&gt;瓦庫彭科窪地&lt;/b&gt;找回&lt;b&gt;殺戮者神器。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>返回&lt;b&gt;回憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>在&lt;b&gt;殺戮者之獸&lt;/b&gt;競技場系列活動中大展拳腳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;b&gt;打敗襲龍者，&lt;/b&gt;成為殺戮之面欽定之人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>如果想獲得殺戮之面的垂青，我需要滿足嗜血塑像的要求並贏得&lt;b&gt;競技場殺戮者挑戰。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>盜賊從競技場檔案室中偷走了一件&lt;b&gt;殺戮者的神聖神器&lt;/b&gt;。
+
+據說，盜賊並未把它帶離卡茲瓦里島，而是藏在&lt;b&gt;競技場西面的&lt;/b&gt;卡茲瓦里的一個叫作&lt;b&gt;瓦庫彭科窪地&lt;/b&gt;的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我從騎獅尾虎那麼深的瓦庫彭科窪地中找回了殺戮者神器。
+
+將該神器獻給&lt;b&gt;回憶水池&lt;/b&gt;應該能使競技場根據附著於神器上的記憶顯示新的挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>既然已經將殺戮者神器獻給了回憶水池，我就有資格迎接殺戮者的挑戰。
+
+
+
+如果我想繼續獲得殺戮之面的垂青，就得&lt;b&gt;參加這些野蠻的決鬥。&lt;/b&gt;等我準備就緒，回憶水池將會使競技場做好戰鬥的準備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>競技場的勝利使我贏得了殺戮之面的垂青。
+
+只要再贏一局，在殺戮者閃光的眼中就能獲得和&lt;b&gt;襲龍者&lt;/b&gt;相同的地位。如果我能在競技場打敗他們，我將成為殺戮之面的欽定之人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我遇到了另一群以殺戮者——襲龍者的名義戰鬥的角鬥者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我打敗了襲龍者，成為了殺戮之面欽定之人。我應該回到&lt;b&gt;回憶大廳&lt;/b&gt;決定接下來的試煉。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_cp_qst_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>有註解的歷史</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>進入檔案庫</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>追逐昴拉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>與昴拉對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>與費歐雷吉對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>在沃艾珥的祈禱室裡找到昴拉要找的書。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>用掌秘人的咒語打開通往沃艾珥的祈禱室的密室門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>進入沃艾珥的祈禱室。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>俄撒斯所過之處一片狼藉，大法師&lt;b&gt;昴拉&lt;/b&gt;進入了晦密之廳尋找能阻止俄撒斯的東西。
+
+泰恩和郎歌世根據昴拉留在啟示神廟裡的字條泰判斷她或許已經進入了&lt;b&gt;檔案庫&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我必須&lt;b&gt;想辦法進入檔案庫&lt;/b&gt;，才能找到&lt;b&gt;昴拉&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我到達檔案庫時，迎接我的是若干具圖書管理員的屍體和一個正在清理現場的沉著的倖存者。
+
+圖書管理員對我說，&lt;b&gt;昴拉&lt;/b&gt;已經逃進了&lt;b&gt;隔離區&lt;/b&gt;，有個&lt;b&gt;戴面具的人&lt;/b&gt;正在追殺她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>追殺昴拉的神秘人先我一步找到了她，現在她死了。
+
+呃，算是如此吧。在檔案庫理安家的&lt;b&gt;菌堆&lt;/b&gt;似乎控制了她殘存的思維。
+
+我們看看它想說什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>太遲了。追殺昴拉的神秘人把她殺了。此人名叫「費歐雷吉」，他因為某事而氣得想殺人。
+
+我必須&lt;b&gt;解決掉費歐雷吉&lt;/b&gt;，之後才能&lt;b&gt;找到她在尋找的東西。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>我閱讀昴拉靈魂時瞭解到她正在尋找一本書，這本書能告訴她如何進入沃艾珥的軀體。
+
+她確信那本&lt;b&gt;書&lt;/b&gt;就在&lt;b&gt;這一層&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>我找到了掌秘人咒語書，裡面詳細描述了一個能讓鎖看起來比實際更複雜的法術。
+
+或許這能幫助我&lt;b&gt;進入中央書庫密室的門&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>我打開了密室門。我應該&lt;b&gt;趕快上樓前往沃艾珥的祈禱室&lt;/b&gt;。那裡肯定就是&lt;b&gt;昴拉&lt;/b&gt;去的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;圖書管理員&lt;/b&gt;對我說檔案庫的&lt;b&gt;上層書庫&lt;/b&gt;是&lt;b&gt;禁書區。&lt;/b&gt;如果我要在&lt;b&gt;那個區域內尋找昴拉&lt;/b&gt;，我就得多加小心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我來到了&lt;b&gt;禁書區&lt;/b&gt;。或許能在這裡找到進入&lt;b&gt;密室門&lt;/b&gt;的線索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;密室門鎖&lt;/b&gt;對我來說過於複雜，靠我自己無法打開。或許能在&lt;b&gt;檔案庫&lt;/b&gt;裡找到開鎖的方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我在&lt;b&gt;檔案庫&lt;/b&gt;的&lt;b&gt;巡迴圖書館&lt;/b&gt;區域裡找到了三個講台。上面有兩條謎語，還有一處能放入書籍的凹痕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>&lt;b&gt;菌堆&lt;/b&gt;似乎和&lt;b&gt;昴拉&lt;/b&gt;發生過衝突。它說她進了這裡&lt;b&gt;南面&lt;/b&gt;一道&lt;b&gt;上鎖的門&lt;/b&gt;離開了，還十分好心地把鑰匙給了我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我殺死&lt;b&gt;菌堆&lt;/b&gt;後，在它的屍體上發現了&lt;b&gt;昴拉的魔典&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我在&lt;b&gt;檔案庫&lt;/b&gt;的&lt;b&gt;隔離區&lt;/b&gt;裡遇到了一堆&lt;b&gt;昴拉的觸手&lt;/b&gt;。她肯定就在附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;中央書庫密室門&lt;/b&gt;上的鎖上刻著&lt;b&gt;一個中央是一隻眼睛的手的標誌&lt;/b&gt;。如果我在&lt;b&gt;檔案庫&lt;/b&gt;的其他地方找到相同的標誌，我或許就能找到這把鎖構造的線索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>昴拉找到了進入沃艾珥身體的方法：進入者必須把一段特定的記憶獻祭給名為「記憶存儲儀」的機器。不過她不知道如何使用該機器。而我在藏品館遭遇記憶貯藏者時得知了使用方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>昴拉找到了進入沃艾珥身體的方法：進入者必須把一段特定的記憶獻祭給名為「記憶存儲儀」的機器。不幸的是，我不知道如何操作這樣的機器。答案肯定在他的聖所裡，不過似乎並不在檔案庫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>我在&lt;b&gt;檔案庫&lt;/b&gt;的入口處看到了可怕的一幕：一群慘遭殺害的圖書管理員。會不會是&lt;b&gt;昴拉&lt;/b&gt;下的毒手呢？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>我找到了通往&lt;b&gt;沃艾珥的祈禱室&lt;/b&gt;的中央階梯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText>&lt;b&gt;中央書庫密室門&lt;/b&gt;上奇特的銘文很可能是掌秘人刻上去的。考慮到這座怪異圖書館巨大的藏書量，在這裡肯定能找到一本和不同尋常的鎖有關的書。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40004</ID>
+      <DefaultText>我在上鎖的門側面發現了兩個講台。講台表面刻著謎語。或許&lt;b&gt;本樓層的書&lt;/b&gt;裡有我要的答案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40005</ID>
+      <DefaultText>我發現&lt;b&gt;中央書庫密室門&lt;/b&gt;上複雜的鎖其實是幻術。解開那個謎題後，我現在能搜尋在昴拉身後緊追不捨的&lt;b&gt;神秘人&lt;/b&gt;了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

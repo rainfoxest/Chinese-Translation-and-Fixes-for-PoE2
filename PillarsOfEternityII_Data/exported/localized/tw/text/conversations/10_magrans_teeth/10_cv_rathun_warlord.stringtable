@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_magrans_teeth\10_cv_rathun_warlord</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>226</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在一群拉紳之中，有一個戰士格外高大。他嚴厲地揮揮手，開始對身邊的士兵發表演講。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「基斯。」他點了一下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「戰士，將煤塊拿來！面對褻瀆者之前，我們必須淨化自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我的戰錘為瑪珈嵐而揮舞！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「這是怎麼回事？入侵者已然前進到&lt;i&gt;我&lt;/i&gt;要塞的心臟地帶了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「敢在我們自己的地盤上攻擊我們，你膽量不小。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「基斯？！你是怎麼來到這裡的？不，這不重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「希望你準備好喪生於此了。因為我很快就會為了榮耀在瑪珈嵐的祭壇前將你焚燒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你我之間沒有過節，巴瑟。我只是前來和俄撒斯交談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我要和俄撒斯交談，你的戰士們給我放了行。或者應該說，最開始兩個給我放了行……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[撒謊]「你的戰士們讓我通過，前來和你交談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我們沒時間跟你糾纏。我需要盡快找到俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你該宰了俄撒斯——而不是跟他講話。這個褻瀆者為了報復瑪伽嵐和她的拉紳，在灰燼之胃發起了戰爭。」
+
+將軍怒火衝冠，火焰從他的脖子上滴落。他周圍的士兵在胸膛或地板上敲打著武器，嚷嚷著要讓它們見血。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>將軍打量你片刻。接踵而至的是沉默。由於他隨時可能使用暴力，這份沉默沉重地令人喘不過氣來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你的謊言一戳即破，我不相信他們會讓你通過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我很難相信他們竟然讓你通過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你想不經我允許去找俄撒斯，就得先打敗拉紳。」他示意戰士們聚攏到你周圍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我同意你的觀點……暫且如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「但你既然是我們女神的造物，如果你也侍奉她……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[撒謊]「他們知道你需要我幫忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你真正需要知道的是，他們為什麼覺得我能協助你對付俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「如果我們能夠彼此幫助，那就沒有必要互相爭鬥了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「難道你的自尊比你手下戰士們的生命更重要嗎？難道你願意讓他們繼續犧牲嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[攻擊。]「如果你不讓我通過，那就去死吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「如果不是情況危急，拉紳絕不會接受區區一個基斯的幫助。但你是對的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「如果不是情況危急，拉紳絕不會接受區區一個基斯的幫助。但你是對的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>他抓了抓自己頭盔的前擋板，顯然在掂量你說的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你覺得你能戰勝我哪怕一個戰士嗎？或許吧。現在我擔不起失去任何人的風險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>將軍大喊一聲，他的士兵們回以震耳欲聾的戰吼。他們將武器高舉向天，隨後踏步前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「如果你不打算幫俄撒斯對付瑪珈嵐，那你跟他是什麼關係？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「那混蛋惹錯人了，我要讓他吃不了兜著走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我才不在乎俄撒斯會不會把你們全碾死，我只想知道他在亡焰列島有什麼企圖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我的動機與你無關。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「俄撒斯偷走了我靈魂的一部分。我要取回它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「憤怒讓你血液沸騰，很好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>」彼此彼此，不過就算有人會被碾碎——那也是你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「虛偽和黑暗是火焰與真理之光的敵人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「那你和我們一樣，也是俄撒斯的敵人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>他向士兵示意。他們邁著沉重的步伐包圍了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「當心，瑪珈嵐正從這神龕中注視著。你之前的失敗已經讓她感到不快。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「收起武器，否則我就先殺光你們，再去跟俄撒斯單挑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我是為了跟神面談而來，沒有誰能阻擋我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「你的意思是你同女神說過話？你能聽見她咆哮的聲音？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你的決心非同小可，你對勝利充滿信心，或許我確實看輕了你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你的決心非同小可，你對勝利充滿信心，或許你確實是眾神的使者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我們準備在灰燼之胃的底部攻擊俄撒斯。」
+
+將軍指著他身後的瑪伽嵐神龕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「神龕會帶我們下降到神聖的魂珀之柱——那得到了實體的神正在此處大快朵頤。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「我們守衛著灰燼之胃神聖的深淵，禁止閒人進出。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我們守衛著灰燼之胃神聖的深淵，禁止閒人進出。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我準備好面對俄撒斯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「飾環在我手裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「為什麼這種時候布蘭提斯偏偏不在呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我找到了你的布蘭提斯，她死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我和瑪珈嵐談過了。她準備讓火山噴發，毀滅俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「如果你對俄撒斯發起攻擊，你們會全軍覆沒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你確定——這就是你渴望的命運嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「事實上，我還需要再做些準備工作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「去神龕裡吧，我們會把你降下去。願瑪伽嵐保佑你獲勝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「好吧。當你準備好出發時告訴我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「你竟能從上古龍之巢全身而退……我小看你了。你在基斯中可謂萬里挑一。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我感受到了，你正為自己的勝利驕傲不已。你在基斯中可謂萬里挑一——也比我的族人更強大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「布蘭提斯沒有和你在一起，那麼她應該已經回歸永恆之火了。」有片刻時間裡他皮膚上的印記變得暗淡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「上古龍嘉達菲拉絲怎麼樣了？如果沒有她，我們幾乎不可能取勝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「上古龍死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「上古龍背棄了你們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[撒謊]「等你們向俄撒斯發起衝鋒後，她就會趕來加入戰鬥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[不置可否地咕噥幾聲。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「絕無可能！像上古龍那般耀眼奪目的火焰不可能輕易熄滅。」他嚴肅地搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>他沉默了，皮膚上的印記激烈地閃爍著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「真的嗎？如果上古龍願意幫助我們，為什麼布蘭提斯死了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「確實，布蘭提斯未能成功帶回上古龍時我就擔心最壞的情況發生了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[撒謊]「女祭司試圖控制上古龍，但這行為僅僅激怒了她。我只是請求龍協助我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[撒謊]「橫衝直撞的俄撒斯造成了塌方，把你的女祭司和她的護衛都壓死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我不願告訴你壞消息……但是上古龍拒絕同俄撒斯戰鬥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我說了她會同你們一起參加戰鬥嗎？我的意思其實是……嗯，就是……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我們確實與上古龍有約在先——我期望她能遵守約定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「你——你這騙子！我早該知道！」他狂怒地將戰槌高高舉起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我們別無選擇……儘管困難重重，沒有上古龍和祭司協助，我們依然要發起進攻。」他搖搖頭，神情肅穆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「現在，去神龕的火焰中迎接命運吧，基斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「瑪伽嵐準備讓灰燼之胃噴發，毀滅俄撒斯。如果你們留在這裡也會陪葬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我要留著飾環。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「如果這是女神永不熄滅的意願，那麼我們拉紳將聽從。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「所有在場的人之中，唯有我能聽見她的聲音。你又如何確定她的意願是讓你留下戰鬥？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「你的靈魂並不受瑪伽嵐意願的束縛。你有決定自己命運的自由。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「如果這就是你的決定，我不會干涉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「她的意願難不成還是讓我們像懦夫一樣逃命？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我們的靈魂難道不正是來自瑪伽嵐烈焰的點點火星嗎？我們必將侍奉女神，所能選擇的不過是以何種方式罷了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我們是瑪伽嵐的造物，誕生自她的烈焰。我們的存在就是為了讓她更加偉大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「瑪伽嵐造出你們必有理由。要恰如其分地侍奉她，你們需要先活下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「如果你們死了，誰來侍奉瑪伽嵐？她不是還有許多聖地需要保護嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「如你所說，瑪伽嵐決定犧牲這裡。我們無權質疑她選擇的戰爭祭品。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「我們將撤退到灰燼之胃，守衛瑪伽嵐之牙的其他火山。我相信她會支援我們所做出的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「留著飾環吧。如果你仍要去見俄撒斯，可以用它降下神龕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「願你炙熱的靈魂引領你走向勝利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「瑪伽嵐的一切聖物都由拉紳守衛。我們不能放棄這一職責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「或許我不是拉紳，但我擁有瑪珈嵐的祝福。我將依照女神的意願妥善保管飾環。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我和你一樣信奉瑪伽嵐，你可以安心將飾環託付給我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「瑪伽嵐選中的基斯，我認可你與生俱來的權利。」他莊重地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「我認可你對瑪伽嵐的奉獻，和你以她之名完成的偉業。他莊重地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「你已證明自己不負瑪伽嵐信徒之名，好好保管比瑟阿坎飾環——不要讓它落到那褻瀆的神手中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「點燃神龕！做好準備，拉紳！我們將要迎接命運，毀滅褻瀆者！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「我們準備好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「我們與褻瀆者的第一次交鋒是場屠殺。」他身上的印記因憤怒而發亮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「所以布蘭提斯趕去召喚我們古老的盟友前來助戰。她在上古龍之巢深處，位於要塞西邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「等她帶著龍歸來，我們將點燃神龕，下到深處去與褻瀆者作戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我沒有布蘭提斯那樣與瑪伽嵐交流的能力，但我堅信女神會讓我們作戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我擔心的事情發生了……正如我所料。她的火焰熄滅了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「為何我要聽信一個外人的話？你可能是來挑撥離間我們，或拖延我們的進攻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「不，除非布蘭提斯親自回來告訴我們不要開戰，一切都將按計劃進行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「為瑪伽嵐而死是至高無上的榮耀。我們活著只為保護女神，並依照她的意願行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「瑪伽嵐曾除掉過俄撒斯，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「戰士，你，給基斯加點保護措施。」巴瑟用戰錘指著他的操火者說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「上古龍之巢非常危險——那是一條巨龍的巢穴。這應該能保護你……免受洞穴中充斥的火焰和煙霧傷害。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「但你是女神的牧師，如果你也侍奉她……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「我很難相信他們竟然讓你通過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「我們必須做最後一搏。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「你真的不打算改變主意嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>他咕噥一聲，表示肯定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「沒錯。」他將雙手交叉在胸前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「現在你們相信瑪珈嵐會讓這座火山爆發了吧？如果你們留下和俄撒斯戰鬥，就會死在瑪珈嵐本尊之手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「沒時間耽擱了。我會召集戰士們並放下神龕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「真令人不安……也十分不幸。她本來能成為對抗俄撒斯的強援。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「好了，你還在等什麼？開路吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[攻擊]「我想知道的都知道了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>他搖了搖頭，目光灼灼，意志檢定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「讓我過去。我會說服俄撒斯離開這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「就算我相信你，我也做不到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[撒謊]「讓我過去吧，相信我，我會讓俄撒斯離開這裡，我們是老朋友了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「我們的高階女祭司布蘭提斯擁有飾環，但她尚未返回要塞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「因此神龕沉睡著——只有比瑟阿坎飾環能開啟它。」他自豪地挺直肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「我會深入上古龍之巢並取回比瑟阿坎飾環。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「假如你有飾環，你會放我過去見俄撒斯嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「帶著我們的布蘭提斯和飾環回來，我就允許你和我們一起光榮地戰鬥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>將軍將雙手交叉在胸前，二頭肌鼓起，上面的線條發著明亮的光。最後，他哼了一聲，生硬地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「我不是來和你戰鬥的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「基斯，你的言語毫無份量。戰不戰鬥由我們拉紳說了算。」他中氣十足的話音從頭盔中傳來，但他並沒有發動攻擊。他抬起一隻手，示意戰士們暫緩進攻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「我是前來質詢他在亡焰列島有何企圖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「如果你沒打算為褻瀆者而戰，那我們跟你就沒有過節，基斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「貝拉斯讓我干涉俄撒斯的行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「很少有區區基斯能成為這位強大神祇的使者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「布蘭提斯逗留太久了。但只有她能點燃神龕。去確保她做好準備與上古龍一起回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>將軍看到你時，立刻緊繃雙肩，伸手去拿綁在背上的戰槌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「你聽懂了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「難道你以為解開謎題然後穿過迷宮就能通過了嗎？哼。」
+
+將軍對你怒目而視，灼熱的視線像烙鐵一樣貼在你皮膚上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「我猜……飾環現在不在我們手上？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「有時候我會覺得亡焰列島對傳統的鎖有著深仇大恨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「木條釘的工作板門就好使得很，直到有一天那挨千刀的船沉到海底去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「所以你的意思是……我們需要飾環才能開啟神龕，去往灰燼之胃深處？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>拉紳將軍陷入沉思，他皮膚上傷疤發出的光更加明亮了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「別把這當成逃跑。當成朝更安全的方向衝鋒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「你們死在這裡無異於辜負你們的女神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「眾神的一切子民都有被創造出來的理由。我火一般的朋友，你得決定如何理解這個理由。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「喂，你個特大號的燈籠！你們被炸成碎片還怎麼侍奉你們的火爆女神？」
+
+塞拉芬撐腰怒視著比他高得多的拉紳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「如果瑪珈嵐想要你們白白送死，而不想你們活下來，那她就不值得你們供奉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「該從何說起呢。咳咳，船長？」麥婭用手肘頂了你一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「你看我幹什麼？看船長去啊！」泰克胡紅著臉看向了別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「你為何這麼問？她還能怎麼樣？！」裘荻漲紅了臉，拍著胸脯艱難地呼吸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>帕蕾吉娜的內眼瞼眨了一下，然後平靜向你扭頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「船長，這傢伙交給你了……」
+
+塞拉芬往後退了一部，離將軍遠遠的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「得了吧，誰稀罕那條老蜥蜴啊？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「你們這幫人怎麼會異想天開地認為那條龍會允許你們騎她呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「回答我，基斯。不許耍花招，也不許撒謊。」他不耐煩地怒視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「你對付火焰，我來處理煙霧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「所有的龍都這麼可怕嗎？我們就不能試試魅惑哪怕是一條？」
+
+泰克胡充滿希望地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「她有可能是條友善的龍嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「對我們這些人來說一點致命的火焰跟煙霧有什麼可怕的？等等……你剛才提到有龍？」
+
+他把手指伸進耳朵裡掏了掏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「嘿，好極了！現在我們只需要對付那條龍了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「我擔心的是那條龍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「你擊敗過你們族人。你現在有什麼資格阻攔我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「這樣的話，我願意聽你來這裡的理由。不過我的耐心很快就會耗盡，基斯。」
+
+他沉重面具後的雙眼炯炯有神地凝視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「如果這就是我們的……最後一戰……我們必須做好準備。不管是為了勝利還是為了犧牲，不然我們失敗了就會別瑪珈嵐拋棄。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「你們贏得了用永恆之火飾環點燃神龕的權利。但我們還不能與你們一起面對褻瀆者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「你們仔細瞧好吧，我們這就去弒神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「我允許你前往。在布蘭提斯帶著上古龍回來之前，我的戰士們會一直焦慮不安。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「整座洞穴都塌了。大家都死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>[撒謊]「她和其他被俄撒斯吞噬的拉紳一樣被抽去了靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「我把她殺了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「我居然信任了你，真是愚蠢至極！你知不知道自己給我們招致了怎樣的厄運？！你必須給我個說法，不然就當我的槌下亡魂吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「巨龍殺死了布蘭提斯和你的戰士們。我替他們報了仇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「她從來都沒打算幫你們。她的忠誠只是假象。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>將軍勃然大怒，舉槌向你攻來。他的戰士們挺胸怒吼，跟著他衝入了戰局。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「這是我的榮幸，巴瑟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「他們為何會允許一個基斯深入灰燼之胃？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「你接受了賜福，能通過火焰聽到瑪珈嵐的聲音。不過，你對她意圖的解讀並不能改變她的戰士應盡的職責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「早該做個了斷了。我已經準備好了。」
+
+艾德爾堅定地朝你點點頭。他檢查著裝備，把各種繫帶都拉緊了一遍。之後他對自己嘀咕著什麼，可能是自我安慰的話，也可能是禱告。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「從我誕生之時起就準備好了。現在，我們去見自己的創造者吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「只有傻子或瘋子才會&lt;i&gt;渴望&lt;/i&gt;這種命運。這是我們的使命。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「你怎麼說？」他脖子兩側的肌肉不耐煩地抽動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>他沉默了，皮膚上的印記激烈地閃爍著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「那我們完了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「上古龍襲擊了他們？！」將軍深吸了一口氣，身上的線條散發出火光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「巨龍確實是兇猛無情的生物，我還以為布蘭提斯的力量能控制住那頭巨獸呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「就是你？！你殺害我身為瑪珈嵐勇士的弟兄，居然還有膽來考驗我的怒火？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「瑪珈嵐之火在你胸中燃燒，但我不信你有辦法對付那個邪惡的褻瀆者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「勝利之焰的女神啊，我請求你降下祝福！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「讓你那戰無不勝的永恆之火在這基斯心中熊熊燃燒吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「戰士，把我的命令帶到古龍巢穴去。這位基斯將協助你——如果他有這個本事的話。」</DefaultText>
+      <FemaleText>「戰士，把我的命令帶到古龍巢穴去。這位基斯將協助你——如果她有這個本事的話。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「勇氣在你血液中燃燒。這令我肅然起敬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「基斯，等你——和我們的女祭司一起——把飾環帶回來，你也就證明了你有資格為瑪伽嵐而戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「巴瑟，基斯沒有騙你。上古龍內心狡詐無比。她從沒有協助我們戰鬥的打算。不僅如此，她還用尖牙利爪殺害了我們的女祭司。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「基斯消滅了惡龍，取回了飾環。我親眼目睹了他強大的靈魂之火。」</DefaultText>
+      <FemaleText>「基斯消滅了惡龍，取回了飾環。我親眼目睹了她強大的靈魂之火。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「巴瑟，基斯沒有騙你。上古龍內心狡詐無比。她從沒有協助我們戰鬥的打算。不僅如此，她還用尖牙利爪殺害了我們的女祭司。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「基斯，不許在巴瑟提面前胡言亂語！在褻瀆者製造的混亂中，上古龍背叛了我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「巴瑟，基斯沒有騙你。上古龍內心狡詐無比。她從沒有協助我們戰鬥的打算。不僅如此，她還用尖牙利爪殺害了我們的女祭司。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「戰士，把事情辦好後回來見我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「遵命，巴瑟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「基斯。」他點了一下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「如果你對俄撒斯發起攻擊，你們會全軍覆沒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「為瑪伽嵐而死是至高無上的榮耀。我們活著只為保護女神，並依照她的意願行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「這怎麼回事？！士兵們，備戰！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「還要記住，巨人的目光掃向了你的方向。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「遵命，我一定不負使命，巴瑟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「我殺了你的龍，下個就輪到俄撒斯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「你最好說到做到。上古龍本來能成為對抗俄撒斯的強援。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「又是一件不可能做到的事。不……你十分了不起。」將軍咕噥著承認自己說錯了話。他審視著你，一股對你前所未有的敬重之情點燃了他眼中本已熄滅的希望之火。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「我想我們手頭上有一個是件好事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>將軍歪了歪頭，好像在思索你的同伴的反應真正是什麼意思。他越來越覺得可疑，握著戰錘的手又緊了一些。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「但如果我們是去做祭品——沒有我們的布倫蒂斯或先人的幫助，勝利似乎不太可能，我們必須準備靈魂讓瑪珈嵐接受。
+
+儀式準備需要一些時間來完成。但我想你迫切盼望面對被玷污的神靈，所以我不想再等了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「你們贏得了用永恆之火飾環點燃神龕的權利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>將軍看到你時，立刻緊繃雙肩，伸手去拿綁在背上的戰槌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「敢在我們自己的地盤上攻擊我們，你膽量不小。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「基斯？！你是怎麼來到這裡的？不，這不重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

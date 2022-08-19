@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_backer_npc_carlo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一位穿著精製皮甲的精幹男人用眼角的餘光掃視你。發現你朝他看之後，他裝作不經意似的把手探向腰間的匕首。
+
+接著他便微笑著用淡褐色的雙眼向你投來溫暖的目光，並招手示意你過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你怎麼說？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「旅行者，打擾一下。想聽個傳聞嗎？」他摩擦著下巴上的須茬，陷入沉思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「說說你自己吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你能把你在瓦利亞共和國學到的知識教給我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「一路平安！」他熱情洋溢地揮手道別，然後回去幹自己的事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「好，你已經聽到我的故事了。我覺得可以，只要……三千個子兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>他向你展示了一個扒竊錢包的小技巧。在演示期間，他順便教導你如何與最鐵的鐵公雞商人討價還價。
+
+你致謝後轉身離去。你快走遠時，他大笑著朝你丟了個錢包。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你學得太快啦！」他搖著頭，自顧自笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我出生於珍珠岸的商賈之家。我曾經是個魯莽的小伙子，長大以後來到了瓦利亞共和國。」
+
+卡爾洛在說話的過程中漸漸把口音從開始時濃郁的瓦利亞風轉變為鹿林鼻音風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「哎喲！回來了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你好，朋友！你一定過得不錯吧？」</DefaultText>
+      <FemaleText>「你好，朋友！你一定過得不錯吧？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「一路順風，旅行者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我認為你從我這裡學不到更多東西了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你為什麼說起話來像瓦利亞人呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「能這麼順利地融入真好。可以更方便地觀察周圍的一切，不是嗎？」他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我在家父膝下學習了地理和語言，這些技巧使我在共和國如魚得水。
+
+「我的經商生涯一帆風順。直到我犯了一個錯誤。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「我在吉熱拿的一家精美編織品商行入了伙。但他們的東西都是黑心貨，是奴役波尼塞塔商行所得的。
+
+「等我得知這一切，已經太晚了。我們的罪行被發現後，我被驅逐出共和國。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「你們活該。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「太遺憾了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「確實如此。現在我來到亡焰列島了，沒有人脈和資源，諸神才知道我該怎麼東山再起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我個人還是很想向波尼塞塔賠罪的，但近期……不太可能。
+
+「算了。我學到教訓了。以後不會被耍了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「當然了，但我本該多問問僱員的情況。現在我來到亡焰列島了，沒有人脈和資源，諸神才知道我該怎麼東山再起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>他衝你淺淺一笑，散漫地聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「你落東西了！」
+
+他丟給你的錢包是你的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「不，不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「做得好。」他微微一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「如你所言。你若有需要，來這裡找我。」他向你友好地點點頭然後轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[強化熟練手法與外交術]「給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

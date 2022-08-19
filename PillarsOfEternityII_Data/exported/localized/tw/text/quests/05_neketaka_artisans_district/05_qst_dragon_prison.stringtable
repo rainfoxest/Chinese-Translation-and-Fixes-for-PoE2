@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_dragon_prison</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>涅克塔卡下的陰影</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在&lt;b&gt;公會&lt;/b&gt;尋找&lt;b&gt;麥魯&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>去&lt;b&gt;公會下面&lt;/b&gt;的密室找到&lt;b&gt;麥魯&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>取回&lt;b&gt;公會長麥魯&lt;/b&gt;的長杖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>查明&lt;b&gt;公會&lt;/b&gt;面臨的威脅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>決定如何處理&lt;b&gt;斯基奧里拉法斯&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>與&lt;b&gt;奧涅卡莎女王&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>與&lt;b&gt;公會長麥魯&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>與&lt;b&gt;公會長麥魯&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>取回公會長麥魯的長杖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>亡焰列島的局勢已經到了爆發邊緣，&lt;b&gt;奧涅卡莎&lt;/b&gt;的水塑者們必須準備好面對任何問題。儘管面臨著四面八方的壓力，&lt;b&gt;水塑者公會&lt;/b&gt;的首領還是沒有回應女王的召喚。
+
+奧涅卡莎需要有人去找到&lt;b&gt;公會長麥魯&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>蛇妖攻擊了公會大廳， 一樓裡面堆滿了屍體，但是&lt;b&gt;麥魯&lt;/b&gt;不在其中。
+
+她或許需要援助來應對這次襲擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;公會長麥魯&lt;/b&gt;正在領導人們對抗著&lt;b&gt;水塑者公會地底&lt;/b&gt;密室的蛇妖入侵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>臨死之前麥魯說一根重要的&lt;b&gt;長杖&lt;/b&gt;很有可能被蛇妖奪走了。她暗示長杖是防止某種東西逃離&lt;b&gt;密室&lt;/b&gt;的關鍵。
+
+她還說到了某種祈禱語，但是沒能說完就死去了。有可能跟她提到的&lt;b&gt;大門&lt;/b&gt;有關。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>我取回了深淵獵手之杖。按照麥魯的說法，我現在可以打開&lt;b&gt;密室入口&lt;/b&gt;附近的&lt;b&gt;石質大門&lt;/b&gt;然後面對這次的地震與針對公會的襲擊背後的真正元兇了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>&lt;b&gt;斯基奧里拉法斯&lt;/b&gt;想要逃離長期禁錮著他的公會。他承諾將會永遠銘記我的幫助，但是釋放他有可能會破壞水塑者侍僧的教育並導致不可預知的災禍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>&lt;b&gt;女王&lt;/b&gt;肯定想要知道圍繞水塑者公會發生的一系列事件的完整匯報。可以在&lt;b&gt;巨蛇王冠宮殿&lt;/b&gt;的&lt;b&gt;屋頂花園&lt;/b&gt;找到她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>我找到了&lt;b&gt;公會長麥魯&lt;/b&gt;。她看上去受了非常嚴重的傷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>&lt;b&gt;公會長麥魯&lt;/b&gt;就在佩瑞琪之望的&lt;b&gt;水塑者公會裡&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>公會長麥魯的靈魂告訴我要去尋找被蛇妖偷走的一根&lt;b&gt;長杖&lt;/b&gt;，然後用它來打開這間&lt;b&gt;密室&lt;/b&gt;入口旁的石質大門。她希望我去強化一套結界，但是我還是不知道那些結界是在守護什麼。
+
+她說&lt;b&gt;佩瑞琪的熱誠之語&lt;/b&gt;將能夠打開通道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我感受到了到現在為止最強烈的震動。如果我現在離開公會，就沒有辦法去阻止這一切混亂背後的真正問題了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>這間隱藏密室的入口旁有一扇&lt;b&gt;石質大門&lt;/b&gt;，但是我沒辦法打開它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>佩瑞琪的熱誠的完整語句如下：
+
+哀歌女士恩加蒂憂傷不已。
+天堂的珍珠球穿過她的眼前，
+她的雙眼止不住地落淚。
+但月亮在天上的行程仍在飛速繼續，
+愛人之間的感情正如彈指一揮般短暫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>按照&lt;b&gt;斯基奧里拉法斯&lt;/b&gt;的說法，深淵獵手之杖是通往他自由的關鍵，法杖能夠吸收圍繞著他的&lt;b&gt;牢籠&lt;/b&gt;的結界中的力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;斯基奧里拉法斯&lt;/b&gt;警告我不要浪費他的時間。如果我遲疑他將召喚更多蛇妖然後找其他的逃跑方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>巨龍暗示作為自由的交換，他將會在我有需要之時前來幫助我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>震動愈演愈烈。如果有什麼東西真的像麥魯想的那樣要逃出&lt;b&gt;公會廢墟&lt;/b&gt;，它很快就要成功了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>我閱讀了寫有佩瑞琪的熱誠的手稿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>我在公會檔案室的廢墟中找到了一份&lt;b&gt;佩瑞琪的熱誠&lt;/b&gt;的抄本。麥魯會長提到了這些東西，肯定很重要。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>我選擇與&lt;b&gt;斯基奧里拉法斯&lt;/b&gt;戰鬥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>&lt;b&gt;麥魯&lt;/b&gt;死了，但是她的靈魂還在。我應該跟她談一談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我將斯基奧里拉法斯釋放了出來。這是正確的選擇，但是我不知道我的選擇會造成多大的損失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我決定繼續囚禁斯基奧里拉法斯。他對於涅克塔卡來說太過危險，而且涅克塔卡需要水塑法的保護。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我通過擊碎斯基奧里拉法斯的靈魂給了他自由。胡亞納人知道我釋放了他們的囚犯應該會生氣，但是水塑法的力量並沒有被影響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>斯基奧里拉法斯死了，他給予水塑者的力量也消失了。胡亞納人應該不會滿意，但是最起碼他們的囚犯已經在某種意義上被「釋放」了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>一頭海龍逃脫了水塑者公會的掌控。我沒有參與其中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>水塑者公會承受了一起血腥的攻擊，主廳裡面滿是蛇妖的屍體。考慮到胡亞納人眼裡水塑者們的尊貴地位，涅克塔卡的領袖們應該會想要調查此事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>公會長麥魯的靈魂告訴我要去尋找被蛇妖偷走的一根長杖，然後用它來打開這間密室入口旁的石質大門。她希望我去強化一套結界，但是我還是不知道那些結界是在守護什麼。
+
+她說佩瑞琪的熱誠之語將能夠打開通道。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

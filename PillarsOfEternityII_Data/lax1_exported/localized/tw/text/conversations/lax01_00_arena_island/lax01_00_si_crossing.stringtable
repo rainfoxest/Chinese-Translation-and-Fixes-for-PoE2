@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_crossing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>峽谷上面有一座繩索構成的橋，橋繩之間支撐著黑木製成的橋板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[過橋。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[檢查橋樑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[小心翼翼地過橋。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[加固橋樑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[使用魔法來加固橋樑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[尋找別的道路。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>橋的繩索非常粗大，也很結實。每條繩索都纏在一起，緊緊地固定在沉重的岩石上。繩結在一起纏了很長時間，已經融為了一體，沒有辦法再解開了。
+
+在太陽的暴曬下，橋板已經變得發灰了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>橋板的邊緣切得不太利落，似乎有碎裂的痕跡。看起來，橋板沒做過密封防水處理。
+
+繩子似乎要更結實一些，不過還可以進一步加固。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你把手放在潮濕的泥土上，呼喚著泥土內的生命。籐蔓破土而出，將繩子和木頭卷在了一起，一直生長到了橋的另一側。整座橋看起來都像是叢林自然生長的結果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specified 0]手放在潮濕的泥土上。過了一會兒，籐蔓破土而出，將繩子和木頭卷在了一起，一直生長到了橋的另一側。整座橋看起來，都像是叢林自然環境的一部分一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你輕輕地吟唱出幾個詞，做了幾個秘法咒語的手勢，之後把雙手搭在了橋樑的繩索上。從你的手中噴射出了密實的魔網。由強力精華編製而成的魔網一直延伸到了橋的對面，對橋板與繩索進行了強化。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0]唱出幾個詞，把雙手搭在橋樑的繩索上方。密實的魔網噴射而出，一直延伸到了橋的對面，對橋板與繩索進行了強化。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你用雙手摸索著，花掉的時間比你用來靈視的時間還要長。之後你才猛然意識到，這種木頭是非常不可靠的造橋材料。木頭已經褪了色，表面凹凸不平，有著明顯的腐蝕跡象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>每一塊木頭看起來都像是那種不太容易打滑的材質。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>這種木頭很適合當柴燒，但其它方面就比較差勁了。它可能承受不了太多重量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你小心翼翼地上了橋，每一步都踩在繩子上，盡可能地不去踩木質橋板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你開始過橋，在你的重壓之下，橋上的繩子開始鬆脫。腳下的木頭發出了咯吱咯吱的聲音，但並沒有斷裂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你堅定地繼續前進，腳下一百英尺處的激流和輕輕搖晃的橋身並沒有阻擋你的腳步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>咆哮的水聲吸引了你的注意，你不自覺地開始想想自己從一百英尺高的地方落下去，落入激流中的情形。風勢變大了，橋開始慢慢地搖晃起來。
+
+你感覺腸子都開始翻絞了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你感到手中的纜繩非常結實，你充滿信心地往前走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>隨著一聲槍響般的裂響，[SkillCheck 0]一腳踩斷了腳下的木板，從橋板的繩索之間掉了下去，整座橋都晃了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>橋晃得彷彿怒濤之中的一葉小舟一樣，你開始跌跌撞撞起來。你重重地踩在下一塊木板上，木板被你一腳踩翻，你的腳落在了繩子的空隙中。
+
+你朝前面摔了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>隨著最後一步踏了過去，你踏上了堅實的地面，成功地穿過了路口。你發現自己身處中心島嶼濃密的叢林之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>隨著一聲槍響般的裂響，[SkillCheck 0]一腳踩斷了腳下的木板，從橋板的繩索之間掉了下去，整座橋都晃了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你強行繃緊了不斷戰慄的肌肉，從橋邊爬了上來。
+
+你站了起來，身體依然瑟瑟發抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>隨著最後一步踏了過去，你踏上了堅實的地面，成功地穿過了路口。你發現自己身處中心島嶼濃密的叢林之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[抓住[SkillCheck 0]的手腕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[讓[Player Animal Companion]去幫忙。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[強化[SkillCheck 0]的力量。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[召喚一頭亞龍。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你衝了過去，把擺動的繩索綁在了自己身上。你伸出胳膊，把[SkillCheck 0]胡亂揮動的另一隻手抓在了手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 5]跳過去幫忙，伸出一條胳膊，抓住了[SkillCheck 0]另一隻手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>你的肌肉都要燒起來了，不過你成功地把[SkillCheck 0]拉到了安全的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[跳過去，抓住[SkillCheck 0]的手腕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你靈巧地跳了過去，手緊緊地抓住了[SkillCheck 0]的手，防止他落入深谷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>你成功地到了深谷的另一側，橋在你身後劇烈地搖晃著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你猛地哼了一聲，胳膊和後背的肌肉已經要被扯斷了，但你還是成功地把[SkillCheck 0]拉到了安全的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>你和[Player Animal Companion]一起衝了過去。你抓住了[SkillCheck 0]的另一隻手，不讓他繼續下落。而[Player Animal Companion]用牙咬著你的衣服，盡可能用力地拖著你，減輕你的負擔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>你呼喚著[Player Deity]的名字，將神力精華注入了[SkillCheck 0]的身體中。[SkillCheck 0]吐了口氣，爬到了安全的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>在你的詠唱之下，你周圍空氣中的精華為之振動，你你感覺到某種靈體回應了你的詠唱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>……不過，一條召喚出來的亞龍接住了他。亞龍扇了幾下翅膀，把[SkillCheck 0]帶了回來，把瑟瑟發抖的同伴溫柔地放在了濕漉漉的地面上。之後，亞龍就飛走了，把你們一行人留在了橋邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>你朝其它的方向搜索著，但沒找到其它可以穿越裂谷的道路。這條河似乎一直延伸到你登陸的海灘，把你你與島嶼其它的地方隔了開來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[SkillCheck 0]告訴你，只要花上一定時間，就可以從島上搜集到足夠的材料加固橋樑。但這個過程要花上好幾天時間，而且可能會遇到危險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>只要花上一定時間，你就能從周圍的叢林中搜集到足夠的材料加固橋樑。但這個過程要花上好幾天時間，而且非常辛苦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>經過了幾天的辛苦工作，有時還要小心翼翼地爬到橋的底部，你用樹枝和籐蔓加固了這座橋。
+
+雖然花了不少時間，但這座橋看起來明顯安全多了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>你踏在加固過的橋上，橋身穩穩地支撐住了你的重量。你開始過橋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>你往下看，發現[SkillCheck 0]一隻手還掛在橋上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>你們兩個齊心協力，把[SkillCheck 0]拉回了安全的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Specified 5]發出一聲悶哼，把[SkillCheck 0]拉回了安全的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 5]發出一聲竭盡全力的高喊，把[SkillCheck 0]拉回了安全的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[尋找[SkillCheck 0]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[高喊] 「[SkillCheck 0]！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我還……沒……掉下去呢……」 你聽到了[SkillCheck 0]緊張的回應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>你呼喚著附近的精華，將它們集中在[SkillCheck 0]身上，強化了骨骼和肌肉的力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 0]閉上雙眼，舉起手，為[SkillCheck 0]賦能，強化了骨骼和肌肉的力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Specified 1]的聲音讓空氣為之振動，你感覺到某種靈體回應了詠唱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[SkillCheck 0]的手指開始在橋上鬆脫，尖叫起來。她一邊甩著胳膊，一邊摔向水中……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[SkillCheck 0]的手指開始在橋上鬆脫，發出了絕望的喊叫聲。他一邊甩著胳膊，一邊摔向水中……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>你的手指緊緊地扣住懸著的橋板，整個人都掛在咆哮的河水上空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[爬上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[叫人來幫忙。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 3]過來幫忙，你感覺手腕上被人有力地握住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你猛地一用力，把自己拉了上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[集中力量。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>你深深地吸了幾口氣，做好了準備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>你感到手中的纜繩非常結實，你充滿信心地往前走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>隨著最後一步踏了過去，你踏上了堅實的地面，成功地穿過了路口。你發現自己身處中心島嶼濃密的叢林之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>蔥鬱、潮濕的森林消失了，你的眼前一片空空蕩蕩。一道幽深的裂谷橫亙在你面前。裂谷底部，泛著白沫的水花不斷轟鳴著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[考慮木頭的品質。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[考慮橋板是否結實。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[考慮橋樑的構造。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>你看著這座橋，並沒發現什麼值得留意的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>你朝其它的方向搜索著，但沒找到其它可以穿越裂谷的道路。這條河似乎一直延伸到你登陸的海灘，把你你與島嶼其它的地方隔了開來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>你猛地一用力，把自己拉了上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

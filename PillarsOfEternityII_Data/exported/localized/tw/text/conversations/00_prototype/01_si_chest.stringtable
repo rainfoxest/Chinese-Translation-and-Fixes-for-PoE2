@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_prototype\01_si_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你找到了一個舊石製物品箱，長時間日曬雨淋導致其表面坑坑窪窪。蓋子有裂痕，但很厚重，木質籐蔓像巨大的手指一樣把它牢牢握住。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[施展法術燒掉籐蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>燃燒的植物劈啪作響，散發出的氣味竟很像燒焦皮肉，令人不安。
+
+它們蜷縮成散亂的黑色條狀物。但蜷縮剛剛結束，它們就又開始顫抖扭動，汁液再次注入其內部。
+
+你沒等籐蔓再次纏住箱蓋就將其扯開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[[施展法術凍結籐蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>籐蔓上的霜越來越厚，變得僵硬蒼白，最後化為了碎片。
+
+凍結的殘端開始長出新的捲鬚。你沒等籐蔓再次纏住箱子就將箱蓋扯開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[扯去箱子上的籐蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你一根籐蔓都扯不掉。
+
+實際上，你用力扯的同時，感覺籐蔓纏得更緊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[讓別人扯去箱子上的籐蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 0]一根籐蔓都扯不掉。
+
+實際上，[Specified 0]用力扯的同時，感覺籐蔓纏得更緊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你拿到了一把古老的青銅手斧。就在你將其從箱子裡拉出的同時，籐蔓都在用貪婪的捲鬚無力地纏住它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[用火把燒掉籐蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你把火把放在一根較大的籐蔓下數秒。最後，它縮成了一根小枝。
+
+不過，最靠近的籐蔓長出了新枝條，蓋住了剛剛騰出的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你扯掉了箱子上的捲鬚。籐蔓貪婪地生長，再次纏住箱子，但它們長得沒有你扯得快。
+
+你一邊扯一邊設法挪開了箱蓋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0]扯掉了箱子上的捲鬚。籐蔓貪婪地生長，再次纏住箱子，但它們長得沒有[Specified 0]扯得快。
+
+在這手忙腳亂之際，你設法挪開了箱蓋。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

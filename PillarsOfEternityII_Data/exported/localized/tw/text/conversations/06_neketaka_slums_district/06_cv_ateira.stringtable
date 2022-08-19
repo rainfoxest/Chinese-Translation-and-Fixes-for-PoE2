@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_ateira</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>幾個人影從周邊的街道上向你逼近。
+
+為首的絨精毛髮血紅，指甲尖利。她嗅了嗅空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我聞到你身上那股馬塔魯富人的香水味了。你有我想要的東西。把海浪號角交出來。」
+
+小混混們朝你步步緊逼，武器出鞘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「退下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「想必你就是德理奧之前僱傭的人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[攻擊]「早死早超生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「先把海浪號角交出來。」她手持利刃逼近幾步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我對付過更難纏的。你不過是小菜一碟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「聽著，德理奧不是派我找什麼小玩意兒。他是派我來除掉你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>她勉強自己大笑一聲。「你覺得憑你就能趕走我們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「這些話聽起來只不過是個絕望的男人在作垂死掙扎。她把劍舉平到頸部，比劃了一個割喉的動作。</DefaultText>
+      <FemaleText>「這些話聽起來只不過是個絕望的女人在作垂死掙扎。」她把劍舉平到頸部，比劃了一個割喉的動作。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「別聽他的，他只是想嚇退我們。」</DefaultText>
+      <FemaleText>「別聽她的，她只是想嚇退我們。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「德理奧想讓這樁盜竊案保密。你可能會走漏消息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>少數幾個小混混緊張地跺起了腳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「仔細一想，這麼做確實像德理奧的為人……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「閉嘴！否則我把你們跟這個傻瓜一起剁了！」
+
+艾泰拉轉身瞪著她的手下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「這個人說不定剛剛才擊敗過女王的貼身護衛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>艾泰拉用尖利的指甲在劍刃上比劃，目光在你和其他小混混之間來回巡視。
+
+最終，她收起了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「好吧。但下次我再看到你，我保證事況發展會有所不同。「
+
+她飛快地離開了，小混混們也緊隨其後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>她沮喪地咆哮一聲，收起了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「你這傻瓜。號角不過是個貝殼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「而且，你也來這裡了，不是嗎？」她將劍指向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你真以為他會把貨真價實的珍寶託付給一些沒價值的小混混？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「那他要這個東西到底有什麼用？」她一隻手伸到腰後，另一隻手仍然舉劍指著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「為了栽贓給別人。任何人持有這樣一個失竊的文物，在宮殿裡都會惹上麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「這是昂德拉的信物，看到上面的符文了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「呃，我從皇族海盜那裡聽到過他的名字。如果德理奧真要派什麼人來……」</DefaultText>
+      <FemaleText>「呃，我從皇族海盜那裡聽到過她的名字。如果德理奧真要派什麼人來……。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我聽說了他對潛民街那個蛛人的所作所為。我可不想惹他。」</DefaultText>
+      <FemaleText>「我聽說了她對潛民街那個蛛人的所作所為。我可不想惹她。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我聽說了他對潛民街的厄爾內佐做了什麼。我可不想惹他。」</DefaultText>
+      <FemaleText>「我聽說了她對潛民街的厄爾內佐做了什麼。我可不想惹她。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>但那個混混搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>但那個混混搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我不知道你怎麼看，艾泰拉，但是我相信他。」</DefaultText>
+      <FemaleText>「我不知道你怎麼看，艾泰拉，但是我相信她。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「別聽信了，頭領。這傢伙是全亡焰列島心腸最軟的 [player class]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我想你從來沒聽說過順馬下套的騙子吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>準備進攻的小混混們猶豫了。
+
+她轉向他們，面目猙獰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「不可能——不然的話德理奧為什麼要派我們來找這個東西？」她毛茸茸的臉上交雜著憤怒和疑惑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「頭領，他想的比你直接多了。」小混混抓了抓他的腦袋。</DefaultText>
+      <FemaleText>「頭領，她想得比你直接多了。」小混混抓了抓他的腦袋。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「看來，你幫我避免了一場混亂，是嗎？」她暫停片刻好進行思考，視線輪番在你身上和當下空蕩蕩的街道上移動。
+
+最終，她收起了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「想必你就是德理奧之前僱傭的人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「沒拿到錢，就不算是僱傭。在我看來，德理奧只是給了我一點提示而已。」她微笑時，露出一排髒兮兮的牙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「沒拿到錢，就不算是僱傭。在我看來，德理奧只是給了我一點提示而已。」她微笑時，露出一排髒兮兮的牙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「如果我把它給你，然後我們各走各的路，你看如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我不能讓你回去找德理奧。」她悲傷地搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我怎麼會知道？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>她搖搖頭。「無論如何，我會找到答案的。」
+
+她舉起手，小混混們隨之朝你衝來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我看到了。所以我覺得這貝殼多少還是值點錢的。」
+
+她抬起一隻手，小混混們隨之朝你衝來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>他們試探性地後退幾步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「別這樣，有的是更簡單的目標……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我打算自己把這玩意兒賣掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我打算自己把這玩意兒賣掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「呸，你的意思是這個差點把活兒搞砸的傻蛋吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「等等，我還以為他僱傭這些呆瓜就是為了把所有事都搞砸呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「聽好了姑娘。我們僅僅是完成了你失敗的任務，沒必要因此就皺著你那漂亮的小臉。」
+
+塞拉芬微笑著，但他的手放在武器上面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我還沒失敗！我已經把你包圍了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我還沒失敗！我已經把你包圍了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「頭領，這人是荒蕪行者。他們的威脅可不是說著玩的。」譯靈使的聲音在戰慄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「所以我們別無選擇。」
+
+艾泰拉用顫抖的手舉起武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「我就知道！德理奧猜到你會跟他作對，現在他派出了鐵絞喉追殺我們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「我們願意冒這個險。」她露出壞笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「對。你要是知道好歹，就永遠離開涅克塔卡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「你不如行行好離開這裡，給我們兩人都省點麻煩？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「有人似乎不太自信啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

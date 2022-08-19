@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_potions_of_plenty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>大瓶藥水</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在競技場戰鬥中穿著尼羅的&lt;b&gt;不穩定的線圈&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>將&lt;b&gt;不穩定的線圈&lt;/b&gt;反還給&lt;b&gt; 尼羅 。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>穿著尼羅的更加不穩定的線圈在競技場中&lt;b&gt;戰鬥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>將&lt;b&gt;更加不穩定的線圈&lt;/b&gt;反還給&lt;b&gt; 尼羅。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>穿著尼羅的&lt;b&gt;更加不穩定的線圈&lt;/b&gt;，迎接競技場&lt;b&gt;最困難的挑戰。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>將&lt;b&gt;極其不穩定的線圈&lt;/b&gt;返還給&lt;b&gt; 尼羅。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>尼羅，競技場中的藥水賣家，正致力於卡茲瓦里島豐富的靈魂精華的項目。他作為研究助理和樣本收集者獲得了我的幫助。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>尼羅希望我在競技場的&lt;b&gt;戰鬥&lt;/b&gt;期間佩戴&lt;b&gt;特殊腰帶。&lt;/b&gt;該設備將允許我收集周圍的靈魂精華的樣本。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我設法收集了足夠數量的靈魂精華。假如我送給尼羅充滿能量的腰帶，他一定會十分高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>穿著升級腰帶意味著我為了收集靈魂精華將不得不面對&lt;b&gt;更困難的挑戰。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我設法用精華填充&lt;b&gt;升級版腰帶&lt;/b&gt;。一旦我將這展示給他看，&lt;b&gt; 尼羅 &lt;/b&gt;應該對結果感到滿意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我們差不多大功告成了。尼羅希望通過在競技場&lt;b&gt;最困難的挑戰&lt;/b&gt;中收集靈魂精華來測試他研究的全部潛力。像往常一樣，在這些戰鬥中我需要佩戴&lt;b&gt;腰帶&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>收集精華樣本的工作已經完成。&lt;b&gt;當我交回&lt;/b&gt;充滿能量的研究腰帶時，&lt;b&gt;尼羅&lt;/b&gt;應該會很高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>尼羅送給我我他的特殊腰帶，相信我不會辜負他的信任。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>尼羅提到腰帶不穩定，如果佩戴者受到暴擊或被擊倒，可能會洩露能量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>腰帶聚集了很多精華。它變得更重了，快要滿了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>腰帶正在從競技場上收集能量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>腰帶幾乎飽含靈魂精華。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>腰帶正在收集精華，但需要較長時間才能充滿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>腰帶聚集了更多的靈魂精華。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>靈魂精華填充了大半根腰帶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>腰帶充滿能量。不久它就會充滿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>我失去了&lt;b&gt; 尼羅的特殊腰帶。&lt;/b&gt;除非我把它拿回來，否則我無法幫助他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>我失去了&lt;b&gt; 尼羅的特殊腰帶。&lt;/b&gt;除非我把它拿回來，否則我無法幫助他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>我失去了&lt;b&gt; 尼羅的特殊腰帶。&lt;/b&gt;除非我把它拿回來，否則我無法幫助他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>我失去了&lt;b&gt; 尼羅的特殊腰帶。&lt;/b&gt;除非我把它拿回來，否則我無法幫助他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>我失去了&lt;b&gt; 尼羅的特殊腰帶。&lt;/b&gt;除非我把它拿回來，否則我無法幫助他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>我失去了&lt;b&gt; 尼羅的特殊腰帶。&lt;/b&gt;除非我把它拿回來，否則我無法幫助他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>尼羅完成了他的實驗，並為我做了最後的魔藥。他說他將繼續進行研究。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我失去了尼羅價值連城的腰帶。他得知此消息心情不佳。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

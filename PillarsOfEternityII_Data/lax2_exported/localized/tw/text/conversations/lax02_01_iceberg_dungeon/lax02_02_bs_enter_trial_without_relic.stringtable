@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_bs_enter_trial_without_relic</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「消滅闖入者！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我們在娥狄卡和沃艾珥眼前聚集，推敲謊言中的真實性，看到正義得以伸張。」
+
+聲音似乎不是某一個特定地方傳來的，儘管你眼前的人物呈現出正在審判的畫面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>中央的人物每一個都戴上頭巾，長得幾乎一模一樣，他們把帶著面具的臉轉向你。有一個人伸出一根長長的、纖細的手指，從一個露天的坑裡指向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「誰打斷了這神聖的儀式？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「實際上我不太確定我是怎麼來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「對不起，我把長袍落在外面了。我很樂意去把它取過來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[攻擊]「我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「或者，是怎麼回事，這是哪裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你這骯髒的異族侵犯了這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「非法入侵者！砍下他骯髒的頭顱！」</DefaultText>
+      <FemaleText>「非法入侵者！砍下她骯髒的頭顱！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「是呀，還有面具。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「那個人對娥狄卡和沃艾珥的祈求表明它是某種形式的審判。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我們沒有完全融入人群中。或者我們應該想想你下一次衝進去的情況…...管它是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「或許，撒奧斯的頭巾會讓她平靜下來。天啊，我把那個放哪兒了...…？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「或許我們應該把自己的臉遮住，&lt;i&gt;然後再&lt;/i&gt;偷偷溜進秘密集會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我是我們中唯一一個想著戴面具的人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

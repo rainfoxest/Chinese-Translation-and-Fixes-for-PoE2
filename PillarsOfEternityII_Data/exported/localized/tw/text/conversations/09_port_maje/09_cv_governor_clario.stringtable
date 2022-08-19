@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_governor_clario</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>309</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>站在人群中間的人似乎在調查某些事情，他周圍站滿了喋喋不休的鎮民，身邊還有一位看起來非常緊張的海裔女性。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「沒錯，沒錯，我想我們都非常清楚，我們欠了一個很大的人情——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「如果大家能——」 
+
+克拉里奧的目光從人群頭上掃過，一直停留在了你的身上。
+
+又有幾個人轉過了頭，想看看是誰吸引了總督的注意力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我們繼續來說這件事，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「啊，很好，你來了。在瓦利亞商行的贊助下，作為這裡的總督，請允許我正式歡迎你來到國王港。」
+
+他克制地張開了雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「[Player Name]。有什麼能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「怎麼了？需要什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我找到了你手下的幾位鑄魂師，他們在保護籠中存活了下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「這座……島上的另一個地方，有一個很有價值的地方。對於商行而言的價值，你明白的吧。
+
+「老實說，我們之所以會來到這裡，就是因為那個地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我看到了破壞的痕跡，與俄撒斯襲擊努亞堡時一模一樣。奧德理斯和其他的鑄魂師都被殺了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「我感到很遺憾。一部分鑄魂師倖存了下來，但俄撒斯來的時候，恐怕奧德理斯已經被他殺了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「俄撒斯殺害了那裡所有的人，而且他會繼續屠戮下去。我必須找到他！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我——我明白你很著急，不過……我的天啊，簡單地和我說一下，奧德理斯怎麼樣了？他的研究怎麼樣了？
+
+「你找到他的筆記了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我……我明白了。還能有人倖存下來，已經很幸運了。
+
+「奧德理斯的筆記呢？他的研究成果呢？」
+
+克拉里奧打量著你，目光中幾乎充滿了狂熱的期待。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「求你了……你必須幫我這個忙。只有奧德理斯才是我們唯一的機會，恢復我們的工作成果，是他的研究，為這一切帶來了可能性。
+
+「找到他——如果什麼都沒有了，至少要找到他的筆記，我會盡我一切力量來幫助你。最多一天，你就能重新出海了，我向你保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「交給我吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「還有一點，如果你找到了奧德理斯的筆記，記住，它對我有著非常重要的價值。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「到目前為止，我什麼都沒找到，我會繼續去找的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我敢肯定，你已經迫不及待地想離開了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「請各位保持安靜，我向各位保證，我將會盡我一切力量來給你們想要的答案。
+
+「我們胡亞納的朋友們——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我們歡迎了你們，在風雨之中為你們提供了庇護。」
+
+這位海裔女性交叉著雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我已經把你的家人護送到了安全的地方，現在，輪到你來為我的家人做同樣的事情了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「&lt;i&gt;我們&lt;/i&gt;的家人該怎麼辦？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「那些船該怎麼辦？我們該怎麼填飽肚子？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「如果大家能——」 
+
+克拉里奧的目光從人群頭上掃過，停在了你的身上。你躡手躡腳地溜了過來，但卻不幸被總督看到了。
+
+他揚起了眉毛，感到有趣而又疑惑。又有另外幾個人轉過了頭，想看看是誰吸引了總督的注意力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「他是海盜！」
+
+隨著一聲尖銳的叫聲，所有人的目光都轉向了你。一陣靜默籠罩在了受驚的人群之上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我不是海盜！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「我是海盜又怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我的船擱淺了，就在南邊，我需要你們幫個忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「大家保持冷靜。我認為很明顯，我們的客人並不是什麼海盜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「嘿，不介意我先去喝一杯，過一會兒再來找你吧？和土匪打交道太晦氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[環顧四周。] 「在什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我手下的兩個守衛說，有一艘掛著鹿林旗的船遭到了一艘海盜船的襲擊。
+
+「我猜那應該就是&lt;i&gt;你的&lt;/i&gt;船吧。」
+
+這句話讓人群多少安靜了下來，不過有幾個人還是在盯著你看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「他運氣還算不錯。你自己的船，運氣通常可都沒這麼好。」
+
+這位女性毫無興趣地看著你。</DefaultText>
+      <FemaleText>「她運氣還算不錯。你自己的船，運氣通常可都沒這麼好。」 
+
+這位女性毫無興趣地看著你。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「……確實是這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「尤其是你，伊卡瓦大主管——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「別拿那些瓦利亞商行的稱號來奉承我了，你要忙著招待新來的人，你希望我趕緊走人。
+
+「但我是不會走得太遠的，克拉里奧總督。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「就這樣吧。至於你，陌生人，來我的官邸談談吧。
+
+「我們要談談關於你的……困境。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我只需要修一下船，然後我就走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「如果我運氣真的這麼好，船就不會墜毀在這種地方了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「抱歉，各位，抱歉，我認為這件事需要我特別關注一下。我向各位保證，如果發生什麼事情，我會立刻通知各位。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「所以，你願意幫忙嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「當然，我們會盡量幫你。」
+
+他舉起手，止住了幾個人的抗議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「恐怕不行，不過如果幫你的話，或許你會為我們帶來一些益處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「最近又是風暴、又是海盜，還有……嗯，還有一些奇怪的事情，弄得我們所有都有點緊張。」
+
+他張開雙手，做了個抱歉的手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「奇怪的事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我有重任在身，我必須盡快離開這個島。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我明白，你剛剛說你願意幫我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「有幾個人……這麼說吧，國王港的很多人都說他們看到了某個……很大的東西，在風暴之中。」
+
+克拉里奧的臉抽搐著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我本以為這些都是異想天開，但如今這個地區所有的井都遭到了污染，我認為這不是件可以忽視的事情。
+
+「不過話說回來，亡焰列島總是會發生這樣的事情，你肯定也都聽說過了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「那可不是什麼普通的巨人，那是俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「巨人？它去了什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「是這樣嗎？你確實是千里迢迢趕過來的。從鹿林到這個地方，這段路可一點都不短。
+
+「是什麼風把你吹到這裡了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我奉貝拉斯女神之命追擊俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我還是不說為好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我必須找到某個人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>總督張開口，無聲地「啊」了一聲，盯著你看了一會兒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「你應該會和這鎮子裡晨星的信徒們相處得很好，關於這隻怪物，他們有著各種各樣的理論。」
+
+他快速地審閱著幾張文件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「總之呢，那個巨人會跑到什麼地方，我一點頭緒都沒有。運氣好的話，應該已經鑽進海底了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「沒錯，那些事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「海怪啊，遠古的部落啊，自然也有許多機會。」
+
+他的臉上露出了詭秘的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「這確實是一項困難的任務，你還有千山萬水要長途跋涉呢。
+
+「不過，我明白你的目的。出發得越早，你的獵物就越不容易逃掉，沒錯吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>總督一言不發地看著你，看了一會兒。
+
+經過了一陣讓人不舒服的漫長沉默之後，你才意識到，他是在等著你笑呢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[咯咯笑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[禮貌地微笑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「哈，好吧。某種……聖職人員的工作，是吧？」
+
+他盯了你一陣子，皺起了眉，像是把這件事拋在了一旁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「這……聽起來確實非常重要。」
+
+他清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>他臉上掛著含混其辭的笑容。他不肯放棄地繼續說著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「好吧，每個人都有每個人的隱私。」
+
+他的臉上露出了一絲惱怒，隨即便消失無形。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「沒錯，你的船。你的船撞毀了，是吧？我這邊的所有報告都說，這一下撞得非常狠，你能活下來真是個奇跡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「但遺憾的是，我們的船也沒辦法出航，我們自己還有海盜要解決呢，不少補給船都落到了他們手裡。
+
+「這場風暴讓那些傢伙都躲到了海港裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「這麼說吧，我相信我能幫你解決這個問題，只要你也答應我，幫我解決我的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「現在，來談談你的船吧。你的船墜撞毀了，是吧？我這邊的所有報告都說，這一下撞得非常狠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「我是努亞堡的領主，我就不能……先欠你個人情嗎？」</DefaultText>
+      <FemaleText>「我是努亞堡的領主，我就不能……先欠你個人情嗎？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「我能幫你做什麼呢？我才剛剛到這個地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「努亞堡？是鹿林那邊的城堡，是吧？
+
+「老實說，這確實是個很有趣的提案，但恐怕我手頭的事情非常緊急。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「如果有什麼幫得上忙的，我很樂意幫你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「我對交易什麼的不感興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「確實如此，雖然我不能派守衛去，但是我可以讓你過去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我的守衛一直都在盯著海盜船。我們想看看，能不能藉著這場風暴對他們造成的破壞，採取些什麼行動。
+
+「我們現在有足夠的大炮把他們轟上天，不過我需要所有能幫得上忙的人手來操作這些大炮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「太棒了，你被衝上了岸，這簡直就像神明的啟示一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「不要把它當成某種商業提案，把它當做互幫互助吧。
+
+當然，我並不介意你一直留在這個地方，如果你能去碼頭上或者礦坑裡做些工作，那就實在是太好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「礦坑？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「這算是某種威脅嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「算不上，不過你也只有這份工作能做了，除非你打算靠自己的能耐把船修好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「沒錯，確實如此。我這裡有件事需要調查一下，關於……我們在這個島上的生意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「抱歉，外面剛剛發生了一些小情況。現在處於混亂時期，而人們對不確定的事情總是會反應很大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「這座……島上的另一個地方，有一個很有價值的地方。對於商行而言的價值，你明白的吧。
+
+「老實說，我們之所以會來到這裡，就是因為那個地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「你……對光魂珀貿易的事情有什麼瞭解嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「我知道光魂珀中包含著某種更加濃縮的物質。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「我對魂珀一無所知。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「光魂珀是什麼東西？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「你指的是競技場那邊，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「什麼？你是怎麼……？你是說，你就是從那裡跑出來的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「不過，那你肯定也知道，我們已經很多天沒收到鑄魂師的任何消息了。確切地說，就連工人們都沒有消息。
+
+「莫非他們……你找到他們了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「另外，它們非常值錢，精煉之後可以賣個相當可觀的價錢。
+
+為了找到適合開採提煉的礦脈，商行已經投入了相當多的時間和成本了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「希望你明白，這件事需要嚴格保密——我們在小島的另一端已經找到了一個合適的礦脈。
+
+這一切本來非常順利，但最近卻不太對勁。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「最近，我們失去了與奧德理斯主管之間的聯繫。就連他的助手或者手下的工人都沒和我們聯繫過……
+
+我必須弄清楚發生了什麼事情。如果我們失去了奧德理斯……失去了他的工作成果，那我們為之付出的一切都可能會付之東流。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「這麼說吧，光魂珀就相當於普通的魂珀……總之不用在意細節。
+
+總體而言，它是一種擁有強大力量的材料。它裡面充滿了物質，而這種物質只有亡焰列島上才找得到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「它是某種……礦物，不過恐怕我對它的經濟價值更感興趣。
+
+據我說知，光魂珀中包含著某種更加濃縮的物質，而這種物質只有亡焰列島上才找得到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「等等，你是說，你在買賣靈魂嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「有多值錢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「要怎麼精煉光魂珀？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「非常值錢，足以讓世界各地的海上往返成為一筆划算的投資。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我們打算改善一下精煉工藝。為此，我們僱傭了鑄魂學界最出色的大師們，把他們帶到這裡，讓他們的精湛技術得以施展。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「這麼說……可有點不太確切了。更確切地說，它是一種能量。這和去搾乾奶奶的靈魂之類的並不一樣。」
+
+克拉里奧發出了一聲短促的笑聲，輕輕地搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「確實如此，不過這恐怕就是商業機密了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「[Player Name]。榮幸之至，沒想到還能再聽到你的消息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「我相信涅克塔卡已經好好招待過你了……或者說，至少是以最不殘忍的方式。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「所以你才會來到這裡。你需要船，而我需要情報。
+
+你替我把情報弄來，我就能讓半個鎮子的人都開始工作。我們會替你把船修好，這樣你就可以出發了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「你知道可能發生了什麼事情嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「隨便你怎麼樣吧，眾神會為你犯下的罪過而碾碎你的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「我早就告訴過你發生了什麼，但你根本就不聽！我們本可以為這種程度的破壞提前做好預防措施。
+
+「但我又知道什麼呢——我只不過是個會做預知夢的女祭司罷了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「胡亞納的風語者本該把最惡劣的天氣擋在外面才對。
+
+我……難以想像還發生了什麼別的事情。島上雖然有野獸，但他們以前從來都不會主動攻擊正在工作的挖掘場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「如果我找到了這個奧德理斯呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「把他的狀況報告帶給我，另外提醒他，他還有合同義務要履行呢。
+
+……當然，再替我祝賀他平安無事吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「就這樣吧。那就這麼定了吧，我會派人去留意你的船的。
+
+挖掘場就在這個島的東側，我把它標在地圖上了，就是這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「好吧，如果它真的能幫我離開這個島的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「我是個靈視者，我以前也處理過魂珀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「真的嗎？這可真是太有趣了。」
+
+有那麼一瞬間，克拉里奧似乎已經完全忘記了剛剛說的事情。他死死地盯著你，目光中流露出了讓人不舒服的強烈興趣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「你知道嗎，總部那邊的人一定會非常有興趣和你坐下來聊聊天，好好考慮考慮這個提議吧。」
+
+他終於從熱情中恢復過來，拍了拍手，示意這個話題可以結束了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[撒謊] 「當然了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「當然了，在亡焰列島上，我估計你用不了十分鐘，就能再聽到有人和你再說一遍這些事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「為了找到適合開採提煉光魂珀的礦脈，瓦利亞商行已經投入了相當多的時間和成本了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我知道光魂珀是亡焰列島的特產。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「可以告訴我更多關於國王港的事情嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「雖然這裡可能不像奧斯提亞或者安瑟澤那麼宏偉，但我依然為我們建造起的一切感到驕傲。
+
+「我們建立了完備的補給路線，而且我們的研究成果，也可以與共和國的一切成果相媲美……以前的時候是這樣的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「胡亞納人呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「但為什麼一開始要在這個地方建立哨站？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「我知道了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「挖掘場已經變成了墳場，俄撒斯肯定已經經過那裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「終於有消息了，太棒了。請告訴我吧，究竟發生了什麼事情？我們損失了多少人？我必須……我必須知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「我看到了破壞的痕跡，與俄撒斯襲擊努亞堡時一模一樣。奧德理斯已經死了，絕大部分鑄魂師也落得了同樣的下場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「我……我明白了。還有，奧德理斯的筆記呢？他的研究成果真的沒有了嗎？」
+
+克拉里奧打量著你，目光中幾乎充滿了狂熱的期待。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[把筆記交給他。] 「我找到了這些筆記。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「我還沒找到他的筆記。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[撒謊] 「我還沒找到他的筆記。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「當然了，什麼都沒剩下。
+
+「這麼多年&lt;i&gt;年&lt;/i&gt;的投資與心血，什麼都沒剩下。他媽的，他媽的！」
+
+克拉里奧轉過了頭，對著地面咒罵起來，一隻手在頭邊攥緊了拳頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「我給你帶來了挖掘場的情況。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「我別無選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「我們談的可是光之神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「你……你太相信你自己的那些迷信了。
+
+「還是相信你親眼看到的，和親身感覺到的事情吧——挖掘場男男女女的每一具屍體都擺在那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「我想，我知道他想要得到什麼——他想要得到魂珀之柱。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「該死，他會毀滅亡焰列島上的每個哨站的。
+
+「我們就是由於魂珀才會來這裡的。說實話，所有人都是由於魂珀才過來的，瓦利亞商行、亡焰皇家商行、無數僱傭兵……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「或許你得去一趟涅克塔卡，女王奧涅卡莎二世統治著那個地方，她住在卡罕加宮。
+
+「所有想在亡焰列島做生意的人，必須先去和她談談才行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「那我接下來就去那個地方吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「卡罕加人都是什麼人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「卡罕加是這片土地最強大的部落，如今把他們之中的絕大部分人，都團結在奧涅卡莎二世的旗下。
+
+「伊卡瓦或許不這麼想，但老實說，她自己只有一塊彈丸之地，和幾個願意追隨她的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「感謝你的幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「你正在行使某種奇怪的使命。
+
+「我不太清楚到底是什麼使命。不過算你運氣好——如果我是個疑神疑鬼的傢伙，說不定我就會把這當做某種預示，直接把你趕走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「如果想這麼做的話，你得有船才行。
+
+「我會和伊卡瓦安排好這件事。交給我們兩個的話，我們肯定能找到需要的工人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「如果打算繼續前進，你還得再找一位船員。涅克塔卡在這裡稍微遠一些的北邊，你已經親身經歷過那邊水域有多危險了。
+
+「和酒館裡的托雷爾談談吧，他知道有哪些水手正在找活幹。至於補給品，你應該去貿易站問問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「沒什麼，你幫了我這麼大的忙，這是我應該做的事情。
+
+「我不會繼續耽誤你了，你還有漫長……而古怪的旅途等著你呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「你答應過要幫我的」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「什麼都阻止不了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「女王知道亡焰列島上每一處有價值的魂珀礦脈的位置，我敢肯定她能幫得上忙。 
+
+……前提是，如果她真的願意見你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「給你一條建議，等你見過女王之後，就去找瓦利亞商行吧。
+
+「他們的總部就在涅克塔卡，商行非常喜歡能幫得上忙的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「她就那麼不願意見我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「涅克塔卡雖然住著許多外邦人，但他們要麼是外交官，要麼是使節。他們可以憑著關係或者財富，贏得覲見女王的權利。
+
+而你除了你自己之外，就什麼都沒有了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「到時候，你只能憑著自己的三寸不爛之舌了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「我還有信要寄呢，如果沒別的事情的話，你可以準備動身了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「我當然沒忘，我們會送你去涅克塔卡的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「再見了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「祝你一路順風，船長，保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「終於，我終於擺脫這個地方了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「可別再把船開到地上來了，好嗎？」
+
+克拉里奧輕輕地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「這個時候，就確實要靠和大人物之間的關係了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「這麼說吧，他們可能會更加歡迎本地人。
+
+「說實話，我依然不太清楚種姓制度是怎麼實施的。不過就我所知，一座城市裡新來的人，通常都會變成低端人口。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「沒什麼談話的耐心，是嗎？或者說，你還在為把船弄壞感到難過吧。」
+
+克拉里奧輕輕地甩著手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「沒必要再囉嗦個沒完了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「哦，天啊，我真希望—— 
+
+「算了，不要介意，那些鑄魂師是怎麼樣了？奧德理斯呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「還沒找到，我會繼續找的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「我真的非要親自去找他嗎？你明明知道他在什麼地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「這可是我們說好的事情，不是嗎？」
+
+「抱歉……如果他還活著的話，我希望你能把他安全地帶回來。拜託了，這件事就交給你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「真是該死，我們在這個地方搭上了太多金錢和人命……
+
+「好吧，我必須相信，還有機會能讓這一切恢復原樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「我知道在一片新的土地上定居下來是什麼感覺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「知識就是我們最好的工具。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「而現在，一場風暴無緣無故就忽然刮了起來，我的偵查員們說，有一隻巨人正在橫穿這座小島，往我的挖掘場去了。
+
+「我還能怎麼辦呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「你說你正在追擊這個東西，好吧，它就是往那邊去了。
+
+你需要船吧？而我需要情報。你幫我這個忙，我就答應讓半個鎮子的人都來幫你修船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「絕大多數人都不與外界交流，我們也沒必要去干預他們。而那些願意工作的胡亞納人則可以得到報酬。
+
+「我們這裡有幾個胡亞納人，或許對他們來說，村子裡的生活實在是太單調了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「探子們說在英格維仙的遺跡裡找到了東西，應該是相當不錯的魂珀礦脈。
+
+「而且當地居民也非常友好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「如果有什麼問題的話，請隨意問吧。」
+
+克拉里奧把雙手背了過去，看著你，臉上掛著期待的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「你說這些都是巨人幹的事情。那個叫……俄撒斯的巨人。而你依然堅持要去找他？
+
+「他摧毀了你的船，還殺了我的人，難道不應該遠遠地逃到世界的另一邊，盡可能地避開這一切嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「告訴你吧，克拉里奧。你的秘密挖掘場可不是什麼秘密，老實說，現在也算不上什麼挖掘場了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「哦，天啊！看來還有希望。或許他們可以幫助你找到剩下的人，找到我們的研究主管奧德理斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「還沒找到什麼筆記。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「我認為他正在把魂珀之柱當做能源來用，如果能找到更多魂珀之柱，就能找到他了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「這也能解釋為什麼那個巨人撲向了挖掘場，而沒有襲擊我們的鎮子。不是嗎？」
+
+克拉里奧把一隻手放在了肚子上，另一隻手從口袋裡掏出了一塊手帕，擦起了額頭上的汗珠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「我本希望你的到來能為國王港帶來新的機會，讓它從目前的泥淖裡脫身而出。
+
+「但你卻帶來了威脅，要讓這個地方毀於一旦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「你為什麼要殺了伊卡瓦？為了讓所有人團結一心，我——&lt;i&gt;我們&lt;/i&gt;付出了如此多的努力。
+
+「而你卻破壞了這種團結，這會為我們在這裡做的一切帶來風險！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「是她先攻擊了我，我必須自保。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「我知道了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「夠了，克拉里奧。你還能活著，你已經很幸運了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「我——我……真是……我只想維持和平，我們還是……保持友好狀態吧，好嗎？」
+
+克拉里奧心不在焉地拽著袖子，偶爾瞄一瞄附近的衛兵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「我——我之所以這麼說，只是想讓你明白，你這麼做是在給自己找麻煩。
+
+「失去了風語者的幫助，我們只能靠自己的力量把你的船弄走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「俄撒斯就在這座島上肆虐，而你居然擔心什麼研究成果？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「這麼說吧，如果『俄撒斯』剛好把我們的理事會一腳踩得稀爛，或許我會抽出來時間擔心擔心他！」
+
+克拉里奧喘了一口粗氣，明顯為自己的激動感到緊張不安。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「哈，別再……請別再說這種話了。
+
+「每個人都有每個人欠下的債。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「無論你是怎麼想的，事情都實實在在地發生了——你可以自己去看看。
+
+我正想這麼做呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「說重點吧，克拉里奧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「到了那裡，你就會發現自己變成了異類。這種感覺很有意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「整個亡焰列島有很多哨站嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「目前這個列島還屬於胡亞納人。
+
+如果你打算打聽亡焰皇家商行的事情，我可以說，它撐不了多久。」
+
+克拉里奧輕輕地嘟囔著，一隻手撓著腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「亡焰皇家商行？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「那瓦利亞商行呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「他們是努瓦泰王國的蘭迦努伊親自派來的。
+
+我猜鹿林那邊的訊息可能不太靈通吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「他們是努瓦泰王國的蘭迦努伊親自派來的。
+
+那個人應該是他們的皇帝，或者是國王吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「這麼說吧，我們並不是為了征服而來。我們來這裡只是為了為共和國帶來利益。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>「戰爭是&lt;i&gt;無法&lt;/i&gt;為共和國帶來利益的，至少現在不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「這種規模的冒險是很困難的，最困難的部分並不是說服人們加入我們，而是剔除掉那些討人厭的傢伙。
+
+「到最後，我們還是放寬了標準。」
+
+克拉里奧臉上露出了挖苦的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「他們說，在女王奧涅卡莎二世的領導下，一切都變得不一樣了。她將許多胡亞納人團結在了她的旗下。
+
+「在剩下的不肯歸順的人裡，伊卡瓦是其中之一。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「在剩下的不肯歸順的人裡，伊卡瓦是其中之一。
+
+「這對我們的目的很有好處，和女王相比，她更好說話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「他們說，在女王奧涅卡莎二世的領導下，一切都變得不一樣了。她將許多胡亞納部落都團結在了她的旗下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「在剩下的不肯歸順的人裡，伊卡瓦是其中之一。如果女王注意到了這個小島，恐怕我們就只能轉而與她交涉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「國王港的情況如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「我們的情況都還不錯。生活在遠離文明的地方，肯定會遇到各種挫折，但我們已經度過了最艱難的日子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「伊卡瓦問起了你的事情，我想你肯定是給她留下了深刻印象。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「一切情況都在守衛的掌握之中，之前我們還擊沉了皇族海盜的一艘船，這場勝利確實是場及時雨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「還有來來往往的補給船，只有填飽了肚子，才不會亂發脾氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「還沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「至少我已經和他談過了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「那你呢？你已經找到你的巨人了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「那你呢？我聽說你在涅克塔卡已經名聲鵲起了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>「那座城市很漂亮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>「你依然是我最喜歡的官員，克拉里奧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>「那你呢？我聽說你最近……挺忙的。」
+
+克拉里奧總督面無表情地向你打了個招呼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>「這並不是針對誰，不過你商行的其他合夥人可不像你一樣和善。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>「亡焰列島就像一張新畫布，我要留下我自己的印記。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>「我只能抽出這一點時間和你聊聊了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>「嗯，當然了。」
+
+克拉里奧勉強地笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>「我會盡可能地活下來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>「我不得不對你的參考標準感到驚歎。」
+
+克拉里奧幾乎難以掩飾臉上的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>「哈，真讓人受用，不過我還是不要說給別人聽了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>「他們就是這麼說的。或許有一天，你也會有機會去共和國那邊，到時候你就可以比較一下了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>「我們也只能做到這些了，是吧？
+
+「衷心祝你好運，[Player Name]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「哦，失去了你，整個鹿林一定都會感到很遺憾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「或許這樣的結果才是最好的，是吧？
+
+我開玩笑呢。你看起來充滿決心，我敢肯定，到了最後，你一定能找到……某些東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「至於我呢，我很樂於把這些事趕緊翻過去。
+
+「如果他又回來的話，幫我個忙——可以到時候警告我們一下嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「卡罕加是這片土地最強大的部落，如今把他們之中的絕大部分人，都團結在奧涅卡莎二世的旗下。
+
+「你是絕不會想與這群人為敵的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「如果想這麼做的話，你得有船才行。
+
+「我會和我的人安排好這件事，他們會找到我們需要的工人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「如果打算出海，你得找一位船員。涅克塔卡在這裡稍微遠一些的北邊，那邊水域可不是你單槍匹馬就能應付得來的。
+
+「而且你也需要補給品，去貿易站買點補給品來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>「等你準備好出發之後，就去下面的海灘吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「當然。」
+
+克拉里奧稍微挺直了身子，清清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「不久之前，整個亡焰群島並不為人所知，這裡只是個有奇異海怪，還不斷發生部落衝突的地方。
+
+「而如今，似乎艾歐拉大陸上的每一位統治者都想把這片群島據為己有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「……還是那句話，簡單的事物自有其魅力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>「沒什麼問題，基斯的蹤跡很容易追蹤。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>「我的一生都在尋求眾神的引導。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「呃，我並不是懷疑你的信仰，我只是怕它會害你英年早逝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「差不多吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>「能讓你千里迢迢來到這個地方，他們肯定給了你豐富的酬勞吧。
+
+你是來做什麼的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>「真有意思，這就是你來這裡的原因嗎？
+
+「或許這裡是瓦利亞商行的港口，但我歡迎所有願意工作的人來這裡定居。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>「歡迎。或者我應該這麼說，『願亞彌拉的柔風輕撫汝身。』」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>[配合] 「輕撫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>「伽羅希。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>「事實上，你一直在某些圈子裡打著轉，而你對此也並非一無所知。按照你的說法，確實如此。
+
+你在鑄魂學的領域中留下了你的印記，至少對鹿林而言如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>「我會讓我的守衛找點東西來餵你的……動物。」
+
+克拉里奧以好奇的眼神打量著你的同伴，之後便有意不再理會它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>「我不會背棄我的使命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>「你不會，我已經很清楚這一點了。
+
+那就這樣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>「事實上，我確實從伊卡瓦那裡聽到過一些事情。」
+
+他咳嗽一聲，舉起手來遮住笑意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>「他們說，這座島上的動物對我的瓦利亞人民做過許多可怕的事情，但我的胡亞納人民一直都在進步。」
+
+克拉里奧歪過了頭，露出了燦爛的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>「也還好吧，我一直都不太適應我的故鄉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>「我最擅長海上旅行和打怪物了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>「它會發光？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>「不……不太會。不過它是一種特別稀有的石頭，只在亡焰列島上才能找到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>「我已經被嚇壞了，你真是幫不上忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>「我希望在那之後，事情變得越來越順利了。鑄魂學並不只是瘋子和虐待狂們的專利。
+
+「尤其是在崇尚科學的地方，它絕不是這個樣子的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>「我希望你沒有把事情變得更加棘手。在反抗灣的審判會上，你選擇支援科技與進步，這簡直就像無知之海上的火光一樣鼓舞人心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>「這和法律無關，隨意擺弄眾神的造物，只會帶來災禍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>「讓我猜猜，實驗出了差錯，對吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>「不不，並不是這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>「我只靠武器，克拉里奧，我對鑄魂一點興趣都沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>「真是遺憾，不過，它應該也不會妨礙你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>「信仰問題還是交給牧師去解決吧。不過，哪怕只是暫時也好，我希望你能暫時把個人感覺放在一旁。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>「啊，那麼，我們已經達成了共識。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>「我喜歡支援那個小傢伙，僅此而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>「我認為這種技術很有潛力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>「是啊，或許我們可以合作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>「或許我早該知道，牧師會說出這樣的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>總督一言不發地看著你，看了一會兒。
+
+沉默不斷蔓延，變成了一陣讓人不舒服的漫長靜默。你已經開始走神了，克拉里奧喘了口氣，清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>「時候已經不早了，朋友。等早上的時候再過來吧。」</DefaultText>
+      <FemaleText>「時候已經不早了，朋友。等早上的時候再過來吧。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>「你找到了？仁慈的眾神啊——」 
+
+克拉里奧無法掩飾內心的急迫，從你手裡接過了筆記。他的手指在筆記的紙頁間不斷跳動，目光也不停地上上下下掃視著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>「太棒了，太棒了！我們得救了。」
+
+克拉里奧發出了欣慰的，甚至是有些輕率的笑聲。他看著你，臉上掛著燦爛的笑容。
+
+過了一會兒，他趕緊咳嗽起來，掩飾自己的笑容，看起來有些懊惱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>「太好了，奧德理斯的遺產並沒有徹底遺失。相信大家會喜歡這個振奮人心的好消息。」
+
+他再次翻起了筆記，把手罩在筆記上面，像是要保護它一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>「真是一件了不起的大事，對我們的小鎮來說簡直就是喜從天降。
+
+「最近發生了這麼多事情，或許這會讓大家調節一下心情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>克拉里奧一開始並沒有反應。他肩膀的肌肉繃得緊緊的，他看著你，眼神又似乎並沒有在看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>「你看起來確實是這樣的人。這……這確實是個困難的挑戰，哪怕對你來說也是如此，是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>「我明白了，事情變得越來越糟，你想讓我救你一命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>「哈——我不想說得這麼&lt;i&gt;直白&lt;/i&gt;，不過……我們繼續說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>「所以呢，中等大小的帆船，掛著鹿林的棋子，船長的模樣還非常……非常特別……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>「所以呢，中等大小的帆船，掛著鹿林的棋子，船長的模樣和與最近一系列的報告傳聞都非常吻合……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>「基於這些事實，我推測，你應該就是努亞堡的靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>「叫我[Player Name]吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>「你的報告裡提到了我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>「你的消息已經過期了，我的城堡已經被摧毀了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>[點頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>「是真的嗎？我為你感到很遺憾。雖然我並沒有被人趕出故鄉，但我很清楚背井離鄉的滋味。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>「瓦利亞商行和它的贊助商們，在鹿林那邊的很多地區都有生意。
+
+「或許你的事情只出現在一部分報告中，但你給我留下了深刻的印象。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>他用力嚥了一口口水，無視了裘荻的長篇大論。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>「我們必須想辦法求同存異。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>「你是為了靈視者才這麼做的，而不是為了我嗎？我明白了。」
+
+她發出了不滿意的哼聲，雙手交叉抱在胸前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>「沒錯，一群晨星的信徒們想跑到我的魂珀礦裡，尋找他們失落的神明，我&lt;i&gt;為什麼不歡迎&lt;/i&gt;他們呢？」
+
+克拉里奧快速剜了裘荻一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>「我本想說這是我的榮幸，但我還是別撒謊了。
+
+「別擔心，我是因為他才會來到這個地方的。」她朝你點了點頭。</DefaultText>
+      <FemaleText>「我本想說這是我的榮幸，但我還是別撒謊了。
+
+「別擔心，我是因為她才會來到這個地方的。」 她朝你點了點頭。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>「當然了，看得出來，你已經準備好開始工作了。」
+
+克拉里奧的語氣很客氣，但當他把目標從裘荻轉向你的時候，他燦爛的笑容中有一絲僵硬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>「所以，你們靈視者要在這個時候來證明一下自己的超能力嗎？」
+
+克拉里奧快速剜了裘荻一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>「克拉里奧，我需要你的幫助。俄撒斯正在尋找魂珀之柱，就像競技場裡那樣的柱子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>「啊，我發現你很渴望實現自己的想法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

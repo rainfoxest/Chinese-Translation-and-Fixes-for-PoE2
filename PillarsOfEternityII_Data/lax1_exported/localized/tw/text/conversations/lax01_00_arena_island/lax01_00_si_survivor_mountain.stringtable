@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_survivor_mountain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>126</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你面前是一大片遼闊的荒原，兩邊矗立著鋸齒狀的乾燥峭壁。荒原上點綴著幾棵葉緣鋒利的樹木和零星的灌木叢，但除此之外，只有一望無際的荒涼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在陰暗的遠方，你看到遠處的山峰上發出了微弱的紅光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[朝峽谷繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你舉起望遠鏡看向南邊，看著遠處的山峰。在望遠鏡中，你連一點紅光都看不到。
+
+可當你放下望遠鏡之後，奇異的光芒又出現了。或許這是自然的幻象吧，某種海市蜃樓之類的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你們怎麼想？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你心裡也不太確定，不過只有你能做出回答。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>亞洛斯歎了口氣。「如果你真的想問，我覺得我們一開始就不該來。」
+
+「但你不是真的想問，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>康士坦丁盯著峽谷，皺起眉頭。「看起來是個偏僻的地方，適合尋死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我們從一開始就要受苦，要一直忍到最後，這看起來才是重點。」麥婭雙手叉著腰，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我覺得我們可以站在這裡想著怎麼過去，或者直接過去。我更傾向於後者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「要我說，眾神很喜歡挑戰，而把凡人逼到極限就是最好的挑戰。」泰克胡瞪起眼睛，看著地平線的方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「沒錯，這是眾神的挑戰。好啊。我會隨時證明我的奉獻——和我的忍耐力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0]目測著峽谷的長度，皺起了眉。「並不期待它，但到達山谷終點的唯一辦法是要通過它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你在堅硬的石頭和長滿荊棘的灌木叢中艱難地走著。你拍打著叮人的昆蟲，嚇跑嘶嘶作響的蜥蜴。整片土地似乎都在與你做對。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>有一段山谷特別狹窄，只能允許兩個基斯並肩通過。
+
+你接近了一處石頭壘成的古代建築。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你發現山谷被乾燥的荊棘形成的牆隔開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>當你穿過岩石中的一連串小洞時，和你拳頭差不多大小的蜘蛛傾瀉而出，湧向你的隊伍。你很快打退了它們，但[Slot 0]被毒蜘蛛咬了幾口。
+	
+你發現你的同胞開始掉隊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>隨著你繼續深入山谷，四周越來越黑。昏暗中步子越來越不穩，很快，[Slot 1]滑倒了，頭重重地撞在了石頭地面上。你幫助同伴站了起來，卻被推開了。
+
+「我沒事……」
+
+但[Slot 1]的速度明顯慢了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>當你沿著谷底吃力地走著，強烈的陽光烘烤著你的隊伍，[Slot 2]的皮膚開始起水泡。你注意到你的同伴開始跟不上你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>一個巨型圓石擋在了路上，你必須把它推開。你成功了，但它向旁邊滾動的時候，擠上了[Slot 3]的手。
+
+雙手捂著胸部，[Slot 3]開始掉隊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>汗流浹背、精疲力竭的[Slot 4]開始掉隊，一邊向前走著，一邊小聲抱怨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>兩大堆石頭中間有一條蜿蜒而去的小道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你面前有一道裂縫，中間掛了一條舊繩子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[轉身離開山谷。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你的隊伍似乎鬆了一大口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你撤退，回到谷口和內島的田地裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>當你最終達到山谷另一頭時，差點驚到眾人。上面的懸崖若隱若現，頂部泛著淡淡的紅光。
+
+又或者那只是夕陽的餘暉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你頭頂的岩石晃了晃，沿著崖面滾了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>隨著你繼續前行，卵石地面突然從你的腳底消失，你隨即陷入一個隱藏裂縫中。[Slot 3]抓住並把你拉回了堅硬的地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>當你繼續向目標推進時，[Slot 4]臉上起初看起來像是由於勞累形成的潮紅逐漸惡化成不斷潰爛和流膿的濕疹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[攀爬懸崖。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[向上扔抓鉤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你沿著崖面把抓鉤高高拋上去，把它固定在一棵長在巖壁上的樹上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>經過危險重重的深入山谷之行後，你的手臂拒絕合作。抓鉤掉回了你腳邊的地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[順繩索攀爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>隨著煎熬被拋在背後，巖壁攀爬起來似乎輕鬆多了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>隨著煎熬被拋在背後，巖壁攀爬開始消耗你日益減少的儲備。當你達到崖頂的時候，肌肉酸疼、頭暈眼花。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>隨著煎熬被拋在背後，巖壁攀爬起來似乎輕鬆多了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>隨著煎熬被拋在背後，巖壁攀爬開始消耗你日益減少的儲備。當你達到崖頂的時候，肌肉酸疼、頭暈眼花。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>當你聽到附近的一塊岩石周圍有東西在移動時，海角頂上只有你一個人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[小心翼翼地繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>你有史以來見過的其中一隻最大的野豬獠牙上掛著一條項鏈……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「你沒事吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[檢查遠處的光。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你已經深入山谷有一段距離了，但光看起來還是很遙遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>鑄魂師一邊用布擦拭著她的眼鏡，一邊歎息。「看起來是一條難行的路。」一場合適的對我們忍耐力的測試，我想。或者我們對懲罰的渴望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>你心裡也不太確定，不過只有你能做出回答。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>亞洛斯氣惱地皺起了眉頭。「那得看情況。這段艱苦跋涉目的何在？
+
+「而且更重要的是，跋涉後，一杯涼爽的棕櫚酒，一次長久溫暖的泡浴？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「是啊。幹得不錯。」康士坦丁擦掉眉毛上的汗水，扮了一個鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「這結束後，你欠我一次浴室泡浴。」麥婭擦掉眉毛上的汗水，咯咯地笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我沒事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>泰克胡舉起手指作為回答，然後突然前傾，對著雙腳之間的沙子嘔吐。
+
+他朝你眨了眨眼，張開嘴唇，用力試了試想笑。
+
+「呃，我沒事。」你？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>裘荻兩手叉腰，喘了口氣，搖了搖頭。
+
+「就算我有擦傷，碰傷或者骨頭穿破皮膚，也沒關係。安博特叔叔經常告訴我同樣可惡的事情。走開。
+
+「所以不用擔心我。「我會繼續堅持，勇往直前，直到死去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>塞拉芬擦了擦他毛茸茸的藍色眉毛上的泥土和汗水。「天哪，船長。如果不是看出了你的受虐傾向，我還會被欺騙下去。不過，我們仍然&lt;i&gt;有些&lt;/i&gt;進展。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>正在用髒手指弄繃帶的[Specified 0]皺了皺眉。「我還活著。至少我們離這個地方的盡頭越來越近了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>留著蓬亂長髮的藍色絨精雙臂交叉。"難道不像我們沒有更好的選擇，而只能在兩塊隆起的可能會砸到我們的陸地之間行走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>隨著光線的源頭映入眼簾，紅光越來越強——一條用硃砂碎片做成的項鏈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>你迎著惡劣的環境繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[檢查你的隊伍。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>儘管隊伍的其它人有點掉隊了，但步伐基本上差不多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>你已經在山谷中走了很遠了。它似乎一直向前延伸到很遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>山谷盡頭不像現在看起來的那麼遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[等待隊伍其他人。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>你決心不要單獨向前推進，但隨著聲音越來越近，隊伍其他人沒怎麼向前移動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>雷科咧嘴而笑。「感覺簡直像是回了家一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>瓦特尼爾清了清嗓子。「我們最終都會死，Duskspeaker。為什麼要自動投入死亡的懷抱？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>瓦特尼爾擦了擦從他沒有嘴唇的嘴裡流出的粗粗的唾沫絲。「我在領地上經歷過更糟糕的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>莫珂用她的裝備製作了一個酒瓶，吃力地走了好久，然聳聳肩把它收了起來。「該死，船長。我已做好準備！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「呃……你還和我在一起？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我以為……我們終於……快要到了。你還好吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>絨精發出了一聲長長的，高聲的哀鳴。「呵呵呵！」你預計我們還要走多遠？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>她皺著眉頭看著她的裝備，用細長的手指指摘毛病。「我懷疑&lt;i&gt;是否&lt;/i&gt;能去除這些污漬，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>你已經深入山谷有一段距離了，但光看起來還是很遙遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>你已經深入山谷有一段距離了，但光看起來還是很遙遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>你已經在山谷中走了很遠了。它似乎一直向前延伸到很遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>你已經在山谷中走了很遠了。它似乎一直向前延伸到很遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[擠過去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Slot 3]在你繼續之前掃清了塵土。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Slot 3]有些畏縮地搭上一條手臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[蕩過繩索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[尋找其他通過的路。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>你輕鬆蕩過了峽口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>你毫不費力地蕩了過去，但[Slot 1]在蕩向峽谷另一邊時扭傷了膝蓋。
+
+「我還遇到過更糟的，」 你的同伴臉上抽搐著，喃喃自語道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>你花了幾個小時成功繞開了峽口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Slot 0]有點腳滑，不過並沒有摔下去。你的同伴狡黠一笑繼續向前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Slot 0]在前面的一處岩石附近扭到了腳踝並痛苦地呼救。儘管一路跛行，但你的同伴還是願意繼續前行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[跳過去守護[Slot 2]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[讓[Slot 2]自生自滅。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[讓[Slot 2]自生自滅。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>你把[Slot 2]推到一邊，完全避開了下墜的碎石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>其中一塊石頭朝[Slot 2]的背部襲來，但你的同胞擺了擺肩膀，躲過石頭繼續前行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>其中一塊石頭朝[Slot 2]的背部襲來，但你的同胞擺了擺肩膀，躲過石頭繼續前行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>你將自己攔在碎石與[Slot 2]之間，用肩膀承受住了衝擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[找東西做點藥膏。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>要找到適合的藥草花了點時間，不過[Slot 4]身上的膿瘡很快就緩和了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>這處環境惡劣的峽谷中並沒有足夠的藥草拿來做像樣的藥膏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Slot 4]雖然覺得很噁心，但最終還是堅持忍著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[用魔法治療膿瘡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>膿瘡抵抗了試圖治療的魔法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[爬過去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[全部燒光。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>你召出的烈焰燒光了面前的植物，但仍然有一根冒火的樹枝向你砸來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Specified 5]召出的烈焰燒光了面前的植物，但仍然有一根冒火的樹枝向你的同伴砸來。你的同伴呻吟了一聲，決心繼續向前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>你小心地向上爬去，越過緊紮在一起的荊棘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>當你越過荊棘頂端的時候，你的手扎進了植物中。你向前一甩，結果整張臉栽進了荊棘中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>你小心地穿過植物，避開了帶著尖刺的荊棘和籐蔓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>你用力扒開荊棘前行，但一棵荊棘啪的一聲打在了眼上，劃傷了你的眼皮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[讓其他人開路。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[使用魔法將它轟成碎片。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[繼續小心地向前。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>隨著奧術之力的轟響，碎石紛紛崩裂開來墜入了下方的谷地。
+
+你輕鬆穿了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>島嶼抖動著，岩石從牆壁上落下。
+
+[Specified 4]輕鬆避開了它們。你的同伴皺起眉頭歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>島嶼抖動著，岩石從牆壁上落下。
+
+[Specified 4]成功避開了它們，但還是扭到了手腕。你的同伴對你皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>島嶼抖動著，岩石從牆壁上落下。
+
+你趕緊跳開，堪堪避過了碎石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>島嶼抖動著，岩石從牆壁上落下。
+
+你成功避開了碎石，但手臂上遭中的一擊讓你的手腕完全腫了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>碎石看來很危險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[歎氣。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>你感覺稍微好了點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[歎氣。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>你感覺稍微好了點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[靜觀其變。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

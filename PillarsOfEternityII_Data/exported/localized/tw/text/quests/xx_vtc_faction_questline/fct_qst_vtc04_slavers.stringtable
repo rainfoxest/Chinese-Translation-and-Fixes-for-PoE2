@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc04_slavers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>同道中人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在襯艙城與皇族海盜的弗蘭特船長交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>去鉤刺島與庫瓦大師見面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>幫助弗蘭特船長</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>回去找主管。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>幫助庫瓦大師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>調查鉤刺島</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>回去找主管。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>卡斯托爾主管在皇族海盜中的聯絡人弗蘭特船長正在幫助瓦利亞商行處理鉤刺島上的相關事物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>卡斯托爾主管要求我去襯艙城與弗蘭特船長探討一次特殊事件。很明顯，在這件事情上貿易商行與皇族海盜的利益一致。
+
+弗蘭特船長就在被稱作襯艙城的皇族海盜庇護所裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>卡斯托爾主管要求我去鉤刺島與當地的奴隸販子領袖庫瓦大師交談。
+
+庫瓦大師許諾用豐厚的資源與資金獎勵換取我的幫助。這就是我被叫過去的原因。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>弗蘭特船長希望能夠成為鉤刺島上奴隸販子的盟友。與他們達成聯盟將能夠幫助弗蘭特提升自己的地位，卡斯托爾主管對亡焰列島的未來計劃也能從中獲利。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我處理了鉤刺島上的問題，主管在瓦利亞商行總部等著我的匯報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>庫瓦大師想要我去解決凶殘的瓦哈奇部落 ，他們是奧里奧柯基上的一群胡亞納人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>卡斯托爾的提議涉及到控制著鉤刺島的一個勢力。如果我有興趣的話應該去研究一下此事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>我決定拒絕幫助庫瓦大師。卡斯托爾不會高興的，但是也許他能夠理解我這麼做的理由。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>弗蘭特已死，如果我想要幫助卡斯托爾，我就必須去直接處理他留在鉤刺島上的問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我處理了鉤刺島上的問題，贏得了弗蘭特船長的信任並且確保了他與卡斯托爾主管的聯盟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我解決了鉤刺島上的問題，得到了豐富的獎勵。我解決了鉤刺島上的問題，得到了豐富的獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我決定拒絕幫助庫瓦大師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>卡斯托爾有一個富有的鉤刺島奴隸販子聯絡人。最近的問題已經影響到了他們的利益，聯絡人願意貢獻一部分資源與資金給瓦利亞商行以換取他們的幫助。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

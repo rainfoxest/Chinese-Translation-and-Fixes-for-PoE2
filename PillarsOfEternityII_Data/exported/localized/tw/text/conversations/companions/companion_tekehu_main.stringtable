@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_tekehu_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>141</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「有什麼事情嗎，船長？」泰克胡雙手交叉，露齒而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「和我介紹一下水塑法吧，泰克胡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「找到恩加蒂在烏凱佐的誓約之後，你希望得到什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「到底是什麼呢？要我說，我有兩個想法。」泰克胡點點頭，專心傾聽起自己的心聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「你的『母親』說起了你的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「恩加蒂和你……說話了嗎？」
+
+泰克胡的語氣裡帶著懷疑。他揚起下巴，思考著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「你有問題想問嗎？問吧，我可以給你答案。」泰克胡攤著手，示意你自由地說出想說的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「啊……要我說，那是祖先們的藝術！它可以讓水按照我們的意志改變形態，這是聖母恩加蒂賜予她選民的禮物。」
+
+泰克胡挺直了身子，臉上帶著自豪的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「有什麼問題嗎，船長？」泰克胡揚起眉毛，點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「太好了！看看是什麼人來啦？」泰克胡張開了雙臂，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「願恩加蒂賜福於你，船長。」泰克胡側過了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「想要聊聊天消磨消磨時間嗎？好啊，來聊聊吧！」泰克胡招呼你靠近他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「有什麼要說的嗎，我的朋友？」泰克胡咧嘴而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「恩加蒂給了我耐心，我願意聽你的話。」泰克胡僵硬地點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「就不能等一會嗎，船長？」泰克胡用鼻子歎息了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「有什麼要說的？」泰克胡皺著眉，看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「怎麼了？」泰克胡點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「哈！讓她的孩子在那裡胡思亂想，我的母親真是愛惡作劇啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「她似乎很關心你是否過得幸福。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「我猜她大概不怎麼想安靜下來吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「哪個母親不關心孩子呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「恩加蒂願意和你交談，你確實是個特殊的人。」
+
+「對她的子民，她只願意通過神秘的石塊，來暗示他們某種預兆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「是啊，不過記得替我向她致以最誠摯的祝福。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「保護自己神聖的後裔，這是一位母親應有的權利，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「你的眼神告訴我，你在想著某些事情，泰克胡。你在想什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「我的思緒正在深海裡遊蕩呢，船長。」泰克胡咬著指甲，轉過了目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「要我說，我們確實度過了一段快樂的時光。但我覺得，我的……興趣並沒有得到回應。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「亡焰列島上的問題……一開始就不簡單，現在這些問題又橫生出了新的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「船長和他漂亮的小魚人，我們還有獨處的時間嗎？」
+
+泰克胡畏縮著，光是說出這個想法， 就已經讓他感到很痛苦了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「我在乎你，泰克胡，我會空出時間的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「我需要你，就像魚兒需要水一樣，我們都需要一些時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「或許不會有了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「如果是這樣的話，我還是繼續當你忠實的船員吧，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「我覺得這樣最好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「泰克胡，我們依然有機會讓一切變得好起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「好吧……我還是很感謝你做的一切。」
+
+泰克胡聳了聳肩，他皺著眉，努力維持著臉上的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「要我說，沒機會了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「原來是這樣……要我說，不用在意我的擔心了！恩加蒂是不會讓我們身陷煩憂的。」
+
+泰克胡呼了口氣，肩膀也不再那麼緊張了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「好吧，或……或許下輩子有緣再見了，願恩加蒂祝福我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我也在想你或許會這麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「對於恩加蒂的選民，部落民賜予了他那麼多掌聲與訓練。如果我不報答他們，他們做的這一切還有什麼意義？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「我的天賦只屬於我自己。就算是恩加蒂，也不能替我決定我該怎麼運用我的天賦。」
+
+「要我說，如果少來幾個救世主，多來幾個藝術家，部落民會過上更好的生活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「但束縛住我成為藝術家的渴望，背上這麼沉重的責任……要我說，這確實讓人窒息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「如果能找到恩加蒂的誓約，胡亞納就會離眾神，離過去的繁榮更近一步。」
+
+「我得想想，這樣做是不是最好的做法。」
+
+泰克胡歎了口氣，皺起了眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「但我的同胞正在苦苦抵抗外來者……恩加蒂把我放在了亡焰列島，一定是有她的理由。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「她可能是利用你來接近我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「雖然不想承認，但只要牽扯到眾神，什麼事情都有可能。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「自從那場破壞切斷了我們與大海的聯結之後，許多藝術都已經遺失了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「要我說，這些都是編出來的……那不過是從她的巨龍結界裡吸取力量罷了。」
+
+「但其中依然有些許真實存在。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「公會的創始人佩瑞琪將恩加蒂的賜福整理成了一系列的手勢與冥想，我們稱之為水塑法的四種形態。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「都是哪四種形態？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「回到我之前的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「很好，繼續說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「試著用我們的身體來將恩加蒂的元素具現化，而我們的身體並不是水做的。」
+
+「沒錯，這就是悲慟之型，每個初學者都要通過這個測試。」
+
+泰克胡閉上了眼睛，伸出手掌，用力地吐了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「身體內的水，可以成為征服一切的力量。就連堅硬的高山都會被溪流面前低頭。」
+
+「要我說，這就是希望之型。」
+
+泰克胡將一條腿交叉在另一條腿前，搖晃起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「水可以控制它的容器，而容器就像山一樣，也會被水改變其形狀。」
+
+「這就是變化之型，明白嗎？」
+
+泰克胡睜開了眼睛，他的眼睛彷彿一塊打磨過的瑪瑙一樣。他臉上的笑容充滿飢渴，那是屬於捕食者的笑容。他眨了眨眼睛，這種效果便消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「這種藝術很難掌握，極難精通，沒人能達到爐火純青。」
+
+「要我說，除非你是恩加蒂的選民。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「你是說有四種形態嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「和我說說都有哪些形態吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「啊……我是出於習慣，才忘提了最後一種形態。」
+
+「這種形態我們在公會裡都絕口不提。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「超凡之型。」
+
+泰克胡閉上了眼睛，開始集中精神。他伸出雙手，咬著下嘴唇，努力聚集意識。
+
+到了最後，他搖了搖頭，再一次恢復了平時的樣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「要我說，那只是個傳說而已。就連聰敏的佩瑞琪本人，都無法從她的卷軸裡確定這種遠古的水型真實存在。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「據說我們的祖先可以改變整個亡焰列島海域的面貌。」
+
+「這確實是恩加蒂真正的禮物。但我們還沒能從過去的廢墟中，重新找回這份禮物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「要我說，如果我們能在烏凱佐找到這種力量的話，艾歐拉就會見識到胡亞納人真正的力量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「去涅克塔卡之前，你住在什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「我的部落在卡罕加，但我的同胞們都住在埃圖亞。那是個很小的小島，甚至都不會在地圖上畫出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「我凡間的母親負責鞣制豬皮。我的父親靠賣珍珠和蛋白石為生，埃圖亞盛產這些東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「我出生的時候，父親稱我為他的『藍玉小孩』。」
+
+泰克胡抓著後腦勺，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「埃圖亞還有別的知名神嗣嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「你的出生肯定引起了轟動吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「你在島上都做些什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「要我說，毫無疑問！不過在最近的這段時間裡，我是最璀璨的寶石。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「人們敬畏神嗣，認為他們會為當地帶來變化。但只有恩加蒂的選民，才會被認為是給所有胡亞納人的預兆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「當然了，颶風吹起了幾丈高的海浪，兩座棚屋都被衝垮了。後來我們的風語者趕了過來，颶風才停了下來。」
+
+他眼中閃爍著自豪的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「他們說，直到我躺在助產士的搖籃裡時，天空才開始放晴，島上也才再次恢復安寧。」
+
+「或者說，馬塔魯人是這麼預言的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「我怎麼都不肯離開水，所以我的父親教我怎麼潛入海中，捕撈珍珠和天靈螺。」
+
+「要我說，我每次下海，恩加蒂都會在我的掌心裡塞滿寶貝！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「等我長大，開始追求人生目標的時候，馬塔魯人就去見了卡罕加的女皇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「女皇仔細考量了我的到來，還有來到她領土的外邦勢力。之後，她便片刻不停地邀請我，這位恩加蒂的選民，進入水塑者公會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「困難時期時，來自女神的認可比金錢更加重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「恩加蒂在上，我到底做了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「我一直在思考。我們還是慢慢來，先從船友重新開始做起吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「船長，我……沒錯。誠如你所言。」泰克胡柔軟的眉毛皺起一絲折痕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「至少我們在一起的時候很愉快，對吧？」他自顧自地笑笑，轉過身去擦拭眼角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「你看到我的漂亮小魚了吧，船長？你猜猜哪一條才是真的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「啊……我們到了。你在想些什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「船長……我們的夥伴關係到目前為止更加複雜了。」泰克胡在憂心自己眉毛上的白斑，並避開了你的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「我加入你的船隊不是為了看烏凱佐從胡亞納人手中被奪走。但我們還是到了這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「烏凱佐屬於胡亞納人，但我們也不會幫助這些部落回到自己的國家。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「就連詭詐之神恩加蒂也希望自己最愛的兒子做到更多。」泰克胡轉身面對你，眼中滿是傷痛與猶豫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「瓦利亞人只是借用烏凱佐。我敢說總有一天你們會拿回這座城市的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「努瓦泰人來自這片水域。他們要佔領也沒什麼問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「如果胡亞納人不能從海盜手中奪回烏凱佐，說明他們還沒準備好回歸這座城市。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「我不是為了胡亞納人才前往烏凱佐。我是為了我自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「我不打算改變你的心意，船長。如果胡亞納人到現在還沒取得你的信任，那麼也沒有回頭路了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「卡罕加會等著我的。以恩加蒂的提燈之名，我……希望你能在烏凱佐找到自己想要的東西。」
+
+烏凱佐自顧自地歎了口氣，開始收拾行囊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「你什麼時候開始在乎其他人的打算了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「從……烏凱佐開始。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「胡亞納人能搞定這一切的。他們畢竟面對過更險惡的困境。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「好吧。我承認這是真的，但我不會做那個剝奪他們希望的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「我做的事情不用你來反省。這是我的旅程。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「不能就這樣結束。留下來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「再見，泰克胡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「沒有你的話航行都不一樣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「在昂德拉之臼多保重。我的母親並不會克制自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「如果我在烏凱佐見到你……唉，希望不會有這麼一天。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「我們相處的時光很愉快。」泰克胡擦擦眼角轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「我想要與深愛之人分道揚鑣並不容易。」泰克胡謹慎地抬起雙眼迎上你的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「你瞭解我的，船長。藝術家的心意可不那麼容易改變。」泰克胡笑著搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「我……我相信你，船長。聖母恩加蒂的計劃完全超出了凡人的想像。也許我還能幫助我的族人。」
+
+泰克胡的嘴角抽動著。他點點頭，下定決心留下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「可我必須如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「我有一些問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「至少現在我能把住處通風了。[Player Ship]散發著一股腐魚味。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「真無情啊……不過離別時分我想最好還是原諒吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「好吧，不過我會想念你這張巧嘴的。」泰克胡歎了口氣眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「泰克胡，你有什麼要對帕蕾吉娜說的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>泰克胡輕輕喉嚨，向帕蕾吉娜投去一個不自在的眼神。她好像沒怎麼注意，或者說是假裝沒注意。泰克胡垂頭歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「你早前有故事要對我講？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>[看向麥婭和泰克胡]「你們兩個好像都有話要說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「船長，看看我們現在的處境吧。沒時間用來浪費了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「我想問問阿羅海親王對黑市的興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「要我在你的船隊中效力等於讓我成為謀害卡罕加的同謀。我怎能做出這種事來？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「無論我是否插手，奧涅卡莎的統治都結束了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「船長……宮殿裡沒有任何你要的東西。不要讓胡亞納人進入又一個悲傷的時代。」
+
+泰克胡似乎欲言又止，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「如果你要做卡罕加的敵人，那麼皇室必須準備好通過我母親最重大的試練。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>泰克胡抱起雙臂移開視線，用鼻子長歎一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「等瓦利亞人在烏凱佐拿到想要的東西之後，他們會離開的吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>「就是這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「好啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「這我無法保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「我很害怕，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「我真想相信你，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「我會這樣做的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「很遺憾，我做不到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「胡亞納人也許還有一個機會重奪烏凱佐。我們要證明自己能夠通過聖母恩加蒂最新的試練。」泰克胡深吸一口氣，按住眉毛進行著禱告。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「如果皇族海盜只是看上了烏凱佐的富庶資源，他們應該不會破壞魂珀和這座城市的歷史底蘊吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「你能造出自己要走的路真是太厲害了。就連恩加蒂的選中者也肯定會致上敬意。我會留在你的身邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「卡罕加皇室似乎被你深深迷住了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「你之前是不是提過一名努瓦泰海軍司令？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

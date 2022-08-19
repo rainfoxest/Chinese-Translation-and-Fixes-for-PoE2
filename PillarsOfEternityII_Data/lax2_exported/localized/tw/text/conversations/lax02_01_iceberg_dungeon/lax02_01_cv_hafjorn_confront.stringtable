@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_hafjorn_confront</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>145</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「什麼……你為什麼——？這是什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「瓦特尼爾，瓦特尼爾！信使已經降臨——黃昏代言人？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你們的牧師是一個無信仰的膽小鬼，他在巨龍來時躲了起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「是的。我們那時深深沉浸在演說之中。非常深。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「先是信使，現在是瓦特尼爾？！對你來說沒什麼東西是神聖的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「瓦特尼爾毫無信仰。他操控你們來達到自己的目的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「睿姆岡沒有打算讓他的子民永生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[攻擊]「他肯定沒有。而你也沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我……我要帶黃昏代言人離開，兄弟。我不知道還有多久我就要逝去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「他說了什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「你們的牧師是一個無信仰的膽小鬼，他在巨龍來時躲了起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「好吧，你看到了，呃，我當時——嗯——我們當時只是討論關於正統的一些事情。」
+
+這個神嗣的三隻眼睛緊緊挨在一起，咕溜溜的轉著，緊張地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「如果你不在這裡，那麼，誰來給先驅者引路呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我相信你的能力，兄弟。我保證我會很快回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「但，呃，睿姆岡的信使已經降臨……我們現在應該做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「活下來並讓我們的工作繼續下去。黃昏代言人和我將讓一切回到正軌。我向你發誓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我不是沒有信仰。我只是，或許，我看到，教義必須……」
+
+他劇烈地咳嗽起來，搖著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「真荒謬！你認為我們都是傻瓜嗎？」
+
+戴著兜帽的人交叉著雙臂怒視著你。你是這樣認為的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「他讓你們相信出現在那裡的巨龍是睿姆岡選中的信使。現在它死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「看看你周圍。他有一個密室。他還藏了什麼其他東西嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你&lt;i&gt;膽敢&lt;/i&gt;質疑黃昏代言人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「哦，呃，好吧。」
+
+他轉動著戴著兜帽腦袋，將注意力從瓦特尼爾身上轉向你，然後又轉回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我或許應該回到表面。去做……表面的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我，你看，我邀請了黃昏代言人到我的……冥想室。冥想室與世隔絕。這樣我可以，我們可以，在裡面冥想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「就是看起來一切都那麼奇怪。密室和一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我們中哪個是寒冬巨獸的選民？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「什麼？等等！當然是你了！你是，而我對此毫無質疑！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「瓦特尼爾在哪？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「睿姆岡給瓦特尼爾分配的任務是協助我調查這隻巨龍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我要他幫我找到關於這隻巨龍的真相。他同意了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「但是，你已經殺死了信使，而且瓦特尼爾在幫你，那麼我們剩下的人要做什麼呢」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「睿姆岡讓一切都在掌控之中。就是試著在我們返回之前不要將這地方沉到海裡去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「你應該少考慮點神需要什麼，而要多想想你需要什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「睿姆岡不會在這裡為你作每個小決定。」你必須靠自己搞定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「一切都會好的，哈弗堯恩。在瓦特尼爾不在的時候給先驅者們領路。我相信你！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「哦？了不起！今天真是太幸運了！」
+
+但之後哈弗堯恩凝視著地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我不覺得寒冬巨獸告訴了你我們先驅者們下一步應該做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>透過凹陷下去、汗跡斑斑的面罩上的小孔，你看出哈弗堯恩雙眼在快速顫動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「當然，黃昏代言人！我們會一直堅持，直到巨獸認為是結束我們的時候為止！」
+
+他立正站直，用拳頭拍著胸脯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「謝謝你，黃昏代言人！我發誓我會證明您的信任沒有錯付。」
+
+他立正，挺胸收肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「什麼？但你是黃昏——我不理解——噢。&lt;i&gt;噢。&lt;/i&gt;當然，如果我們不活下來就不能為信仰服務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「什麼？噢，我想你是對的。寒冬巨獸，他指望自給自足。我會告訴其他人關於瓦特尼爾的情況。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「這有點奇怪，我想。」他盯著地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「好問題。為什麼要瞞著我們這個？」哈弗堯恩看了看房間四周。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「他不會。我認識瓦特尼爾幾十年了！他是智者！非常聰明！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我——我承認他離完美還有很長一段路要走，那是肯定的。不能為救他的命就去獵殺一隻熊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>這隻蒼精靈畏懼你。瓦特尼爾畏縮了，而哈弗堯恩抬起安撫的雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「他告訴我了，他利用他的神嗣身份操控你們幫他離開若移冰地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我的印象是，瓦特尼爾會給你很多理由去懷疑他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「夠了！夠了……」
+
+當這個大精靈歎息時，他的頭向前耷拉下來，雙肩垮了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你說的，有點道理。瓦特尼爾，你得跟我一起去，去向別人解釋你自己的行為。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我應該……我想我應該告訴其他人。我們，我們需要找到他。」
+
+哈弗堯恩歎了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「你一切照舊，就跟以前你來這裡時一樣，黃昏代言人。或許你真的帶著冬天的氣息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「它來自 Vytmadh！明顯是亡靈怪物！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「真奇怪。他就在這兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「你&lt;i&gt;膽敢&lt;/i&gt;質疑黃昏代言人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你&lt;i&gt;膽敢&lt;/i&gt;質疑黃昏代言人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「你&lt;i&gt;膽敢&lt;/i&gt;質疑黃昏代言人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我發現他時他已經這樣了！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「於是你就把他殺了？我們怎麼知道你沒有說謊騙我們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「看看你周圍。他有一個密室。他還藏了什麼其他東西嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「他讓你們相信出現在那裡的巨龍是睿姆岡選中的信使。現在它死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我的印象是，瓦特尼爾會給你很多理由去懷疑他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「提醒你一句，我是黃昏代言人。我是來結束這一切的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我不太在乎你想什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「但——但那不意味著他應該現在就去死！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>他退卻了，好像受到了打擊，跌跌撞撞地退了好幾步，然後摸索著身側的劍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「戰鬥吧，先驅者們！睿姆岡的選民被殺死了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我，呃，當然，黃昏代言人。我……讚美睿姆岡。讚美寒冬巨獸。」
+
+他大聲地吞嚥了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>哈弗堯恩肌肉繃緊，手伸向他的武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>當先驅者摸他的後腦勺時，哈弗堯恩轉開了臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我——我承認他離完美還有很長一段路要走，那是肯定的。不能為救他的命就去獵殺一隻熊。」
+
+他向下凝視著冷卻的屍體，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「但我們現在應該做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「你問&lt;i&gt;我們？&lt;/i&gt;我覺得要你對自己的未來負責可能太難了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「用你的手！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「寒冬巨獸會幫我們掃除這些錯誤的信仰——先知和化身等等。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「除了那個和秘密房間，已經沒有什麼瓦特尼爾可以信任的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>當先驅者摸他的後腦勺時，哈弗堯恩轉開了臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「現在很難說，不是嗎？一具屍體和他的關係等等。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「儘管希望我們問過他了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「那個，我猜那就是事情的真相。大概吧。讚美野獸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我給你的神廟作一個大貢獻，幫你重新找回方向，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「你……你在&lt;i&gt;賄賂&lt;/i&gt;我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>當先驅者摸他的後腦勺時，哈弗堯恩轉開了臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「去你的！我真希望你的話是胡說八道，但我不能否認它們確實在理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「事實上，他就是這樣。睿姆岡他自己要我去殺瓦特尼爾的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「寒冬巨獸會幫我們掃除這些錯誤的信仰——先知和化身等等。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「是嗎？但是瓦特尼爾也曾是他的選民……而且，沒什麼能永遠活著。即使是寒冬巨獸也不能。」
+
+他帶著兜帽的腦袋耷拉著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「你認為我們是笨蛋嗎？還是無法分辨謊言和真相的無知野蠻人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「但是，那麼，可能是誰做的這些呢？每個人都愛瓦特尼爾！他們尊敬他！他為寒冬巨獸代言！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「書籍中的古老傳說，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「我，呃，當然，黃昏代言人。我……讚美睿姆岡。讚美寒冬巨獸。」
+
+他大聲地吞嚥了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「或許寒冬巨獸在考驗你。他的意志就是通過這種考驗明示的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[攻擊]「夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>當先驅者摸他的後腦勺時，哈弗堯恩轉開了臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「我不可能弄錯那種想法，我想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>伊德溫鏡片後的雙眼轉動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「黃昏代言人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「黃昏代言人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「什麼？不，當然不是。我只是，好吧，我只是道歉，呃，請別介意。」
+
+哈弗堯恩諂媚著說，</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「你&lt;i&gt;膽敢&lt;/i&gt;質疑黃昏代言人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「什麼？不，當然不是。我只是，好吧，我只是道歉，呃，請別介意。」
+
+哈弗堯恩諂媚著說，</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>哈弗堯恩將戴著兜帽的腦袋轉向另一側，就像他能找到藏在房間角落的瓦特尼爾一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「你或許可以嘗試有自己的想法，兄弟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「我不知道&lt;i&gt;為什麼&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>伊德溫捏了捏自己的鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>哈弗堯恩戴著兜帽的頭不確定地在你們倆之間轉動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「我們打算阻止冰山擴散到亡焰列島，但還有些相關事情要做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「神啊！你是說——！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[攻擊]「夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「我的——我使用弓箭和短矛的技術在這兒不是問題！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「確實不是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「此言甚是。好吧，即使是瓦特尼爾，他也可能犯錯誤，但肯定不是你口中所說的騙子。」
+
+哈弗堯恩摸著他帶著兜帽的後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「用你的手！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「沒錯。我親手殺的，睿姆岡的信使死了。你不覺得這很奇怪嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「你什麼時候聽說過任何將睿姆岡和巨龍關聯起來的傳說來著？我沒聽說過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「這不是秘密。這不神秘。我只是還沒有……告訴任何人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「並不是每次睿姆岡儀式都是為了給一群人看的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「當——當然不是！但是，瓦特尼爾不也是睿姆岡的選民嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「阻止？可為什麼呢？這是冬天的氣息！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「解釋給他聽，瓦特尼爾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「我寧願我的海灘天氣溫暖又晴朗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「你或許覺得毀掉整個亡焰列島可以接受，但我是不會讓這樣的事發生的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「我仍然需要他帶我去神廟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「他可以用陪我去神廟來彌補他的謊言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「把他帶走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「你們兩個都該下地獄！」當他從你身邊經過時，一陣咳嗽令瓦特尼爾驚慌了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「你要的機會來了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「我不會做這種事兒的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「這是睿姆岡的命令！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「真的嗎？我猜如果有任何人知道他的想法……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「沒有海灘的亡焰列島就不值得拯救。」泰克胡雙臂交抱著，打著哆嗦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「一切應該按計劃展開，哈弗堯恩。你不必擔心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「什麼？我？但你是……啊！」他摸著頭上綁著繃帶的一側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>哈弗堯恩點點頭，當他明顯放鬆時，他的肩膀稍稍垂下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「或許是有人嫉妒他的權威。或者也許是有人討厭神嗣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「我看沒什麼能說服你，你完全被你的信仰遮蔽了雙眼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>當哈弗堯恩困惑地摸著後腦勺時，瓦特尼爾的三隻揭示之眼瞇起來盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「去吧，黃昏代言人。履行你的職責。在還有時間的時候。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「去吧，黃昏代言人。履行你的職責。在還有時間的時候。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「我就不奉陪了。」他搖搖頭，並揮手讓你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_rdc06_prince_aruihi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>親王上下打量了你一番之後放鬆了下來。
+
+他微笑著從背後拿出了戰錘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我願意為了保護奧涅卡莎付出我的生命。你除了她的復仇怒火之外一無所得。」
+
+阿羅海咬著牙，戰錘在他手中揮舞，阿羅海準備衝鋒了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「勇士們！為了奧涅卡莎和她的城，讓貝拉斯的代言人瞧瞧你們的怒火！」
+
+阿羅海舉起戰錘喊出了集結的戰吼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「早知道這樣我寧願派一隻喝醉的鸚鵡去莫塔勒奧柯茲了。」他搖搖頭，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你可以選擇流放。這樣子我們也沒必要兵戎相見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[攻擊]「那就來吧，我的親王。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我一直知道這一天終將到來，但是我沒有猜到坦格羅亞將會化成你的樣子。」
+
+阿羅海點了點頭，他掂量著手裡的武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你的詭詐之母肯定很驕傲，泰克胡。你很快就能回到她的懷抱之中去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「出賣我的人民，惹得一身臭名？我覺得這不是什麼好交易。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

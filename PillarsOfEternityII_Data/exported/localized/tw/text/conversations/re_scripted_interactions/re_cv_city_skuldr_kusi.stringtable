@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_city_skuldr_kusi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你面前這個氣喘吁吁的姑娘穿著一件破爛的羅帕魯長袍，身上有幾道淤青傷痕不過總體看起來沒有大礙。汗珠混雜著血滴從她的前額上淌下。
+
+她垂下了一直揮舞的寶劍鬆了口氣，任憑劍鋒沒於塵埃之中。劍柄為狗頭形狀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「謝謝，陌生人。如果沒有你的話我大概挺不住了。」庫希笑了笑，眼中閃著微弱的光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你在這裡做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你這把劍可真不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你基本都搞定了。我只是幫忙處理尾聲而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你還沒死可真夠幸運的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「這些蝠魔最近幾週一直在掠走平民。它們下手的對象都是弱者——無力與其對抗的老幼病殘者。」她踢了踢其中一具屍體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「可能這樣挺蠢的，但如果我袖手旁觀的話心裡過意不去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「喜歡嗎？」她咧嘴一笑。「這是我父親留給我的。他說過，總有一天我會用它來守護亡焰列島。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我很高興能幫上忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你真是太勇敢了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你真是個傻瓜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我們都是。除掉這些怪物之後峽谷就安全多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「沒什麼。」
+
+庫希有些臉紅地看向一旁，垂下的秀髮蓋住了半邊臉頰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我覺得還行吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我母親也這樣。經常這麼說我。」
+
+她移開目光，任憑頭髮蓋在臉頰上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「上面好像有魔法屬性。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「看來這是一把傳家寶劍了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「用來砍這些卑劣的渣滓真是再適合不過了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「這麼一把好劍肯定能賣個好價錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你說的沒錯。我自己也搞不清楚怎麼回事，不過這把劍好像能讓蝠魔陷入混亂。也算救了我一命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「也不算吧。是父親把它帶回了家。他說這把劍是他從一個鹿林海盜船長的手上弄來的，那傢伙還有隻狗叫『獅鷲』，不過他講的故事都半真半假的。」她笑了笑，眼中卻藏著抑制不住的悲傷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我就知道！你有沒有看到我把那怪獸從背後一刀兩斷？」她笑著揮揮寶劍，活躍了一下氣氛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「嗯，母親是這麼和我說過。」她聳聳肩，眼神停留在寶劍上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「問題是有瓦哈納在的話，這件事沒什麼意義。我們也不可能將它賣掉然後搬到佩瑞琪之望什麼的。還是留著防身比較好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「一點金幣就能改變一段人生，你能獲得勇氣與智慧。也許不是在這裡，但艾歐拉總有地方可去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「姑娘，要是我的話就佩劍出海遠航。你在那裡不會受到很多制約，而我想船長們會相當樂意接受你這麼一位勇武善戰的船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「也許吧，但涅克塔卡是我的家。我不會離開母親，而她也堅決不肯離開亡焰列島。」她皺起眉頭看著地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>她笑了。「我可不信！不過還是謝謝你能這麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「總之我想這個還是交給你比較好。你的能力與德行都更配得上它。」她彎下膝蓋拭乾劍刃上的鮮血，然後收劍入鞘鄭重地遞到你的面前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我知道！不過大部分活著的人不都是如此嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「峽谷裡的大部分胡亞納人都沒有你這麼瞭解聚鹿語。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「是父親要求的。他在世界各地旅行，並堅持要我學習聚鹿語、瓦利亞語和努瓦泰語。」她氣喘吁吁地說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>她看著沉默不語的你聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「謝謝你，我會好好利用這把劍的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「你應該留好這把劍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我就把這當成是救你性命的報酬吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「靈視者的意思是，『真是太感謝你了』。」他向你投來一個有些惱火的眼神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「當然，你怎麼看是你的事。對我來講都一樣。」她聳聳肩，目光卻垂向染血的地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我甚至知道一些恩努塔尼克人的樂節！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「不-是我該謝謝你及時出現……以及出手相救。」她低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「請你收下它，這對我而言意義重大。此外這把劍也有些太大了。我還是佩帶匕首之類的小武器比較好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「那就恭敬不如從命了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我是認真的。這把劍對你更有用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>你收下寶劍時，姑娘後退了幾步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「這位姑娘知道自己適合什麼武器。小小年紀就有如此心思真是了不得。」麥婭向著姑娘露齒一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我衷心感謝你的幫助。在涅克塔卡並非每個人都願意為近鄰出一份力。不過我還是要趕緊回去找母親了。」她看向其中一隻蝠魔的屍體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我大概不應該把蝠魔的肉帶回家吧？」她沉思著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「唉，看來我無論怎樣也沒法&lt;i&gt;讓&lt;/i&gt;你收下它了？」她笑了笑，將武器垂在身旁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「再次感謝你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我的意思是……肉就是肉……」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

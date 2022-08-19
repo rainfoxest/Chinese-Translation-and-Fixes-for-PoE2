@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_lk_sailor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一片精粹在一具屍體旁顫抖。大部分靈魂似乎已經離開了，但還有這麼苦惱的一小撮兒留了下來。
+
+它驚慌地跳動著。與它站得近了竟能加快你的脈搏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[讀取靈魂碎片。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>當你讓它沖刷你時，恐怖稀釋了你的血液。你的心跳變成了奔騰的馬蹄聲。
+
+為了避免噪音，你努力防止自己嘔吐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>這應該是一次短期貿易之旅。在幾天內出入涅克塔卡。
+
+但你在濃霧裡迷失，你知道的下一件事便是，箭矢四處橫飛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>因此你躲在這裡，一些板條箱之間。這裡很暗。從這裡聽甲板上的尖叫聲更小一些。
+
+你曾認為海盜就是你這樣的商船最大的威脅，但這些正在屠戮你的船員的尖嘯戰士似乎並非海盜。
+
+他們中的一個正在索具上，在你的船帆上塗畫著某種記號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「外來者休想再腐化我們的土地！」
+
+你抬頭仰視，衝著光亮和它映襯出的海裔身影，痛苦突然刺穿了你的顱骨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你認出那名戰士是臭名昭著的瓦哈奇成員。
+
+而那個倒霉的商人，只看到了一個憤怒的部落男子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>光線灑進你的藏身之處。一個海裔戰士——你覺得是個胡亞納人——站在你上方。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

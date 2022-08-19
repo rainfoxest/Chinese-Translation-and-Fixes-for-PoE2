@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_mokeha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>94</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「我很忙，外來者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>這位海裔的女性走到了一旁，側過身子，緊緊地迎上了你的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你是和那些商人一起來的嗎，老兄？還是說，卡罕加把你從涅克塔卡里趕出來了？你不是我們的人。」
+
+她翹起了嘴唇，臉上露出了輕視的表情。</DefaultText>
+      <FemaleText>「你是和那些商人一起來的嗎，姑娘？還是說，卡罕加把你從涅克塔卡城趕出來了？你不是我們的一員。」
+
+她輕蔑地噘起嘴唇。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我沒見過你。」
+
+她的聲音很輕，但每個字都是咬著牙說出來的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我還以為，克拉里奧的外來者是不會得到恩加蒂青睞的呢。」
+
+莫克哈的聲音很低，有些猶豫。她緊皺的眉頭放鬆了下來，雙手交叉抱在胸前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「各種各樣的外來者，這些人都是瓦利亞人帶到我們這裡的。」
+
+她皺起了眉頭，眉毛上有一道疤，這讓她的表情看起來更加陰鬱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我已經受夠這些了，外來者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「天啊，外來者，你就像只尋找麵包渣的小鳥一樣走來走去。你來煩我幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我找到了這個雕像，我覺得，你或許願意用耳環來交換它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「什麼？你是在哪裡找到它的？」
+
+她從你手中奪過了雕像，把雕像放在手中，以令人難以置信的柔和動作把弄著雕像。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你有什麼要說的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[聳聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「好吧，反正我不是偷來的，這一點最重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[離開] 」沒什麼原因。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「林克說你和他打牌，把他贏了個精光。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「那個瓦利亞人？你是在開玩笑吧？我真應該把他扔進海裡。
+
+「他居然還敢說我是小偷？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你為什麼要在乎這種事情？你千里迢迢來到這裡，就為了聽一個白癡和你信口開河？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你是來替那個乾巴巴的小瓦利亞人說話的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「最後警告你一次，我可不像林克那麼好對付。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你闖進了我們的領地，就在長老的眼皮底下，現在你還敢威脅我們？
+
+「等殺了你之後，我要把你切成塊喂鯊魚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「不如和我說說，到底發生了什麼事情吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「伊卡瓦告訴我，我應該去酒館裡看看，和那裡的人聊聊天，磨練磨練耐心。
+
+有個叫俄凡娜的商人教會了我瓦利亞撲克。很簡單的遊戲，但酒館裡沒人願意和我玩，後來，林克來和我打牌了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「哎呀，你和你的瓦利亞朋友的談吐方式真是一模一樣，虛偽的笑容，空洞的言辭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[撒謊] 「是克拉里奧總督派我來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「是他派你來的？為了替一個醉鬼找回受傷的自尊心？」
+
+她嘶啞地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「克拉里奧在這裡說話不算數。這裡是我們的村子，伊卡瓦的話就是法律。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[離開] 「我馬上就回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「關於林克……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「嗯，所以你來這裡就是為了這件事嗎？雖然這筆交易根本談不上公平。」
+
+她盯著手裡的錢袋，過了一會兒，把它交給了你。她的嘴角擰在一起，看起來非常不滿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「他？我只是拿走了他欠我的東西。要我說，你拿走的東西比我還多，我聽說他已經死了。
+
+現在，這些問題都歸到你的總督頭上了。」
+
+她轉過了身，不再說話了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我和那個瓦利亞人堂堂正正地打了一架，但你卻趁他睡著的時候抹了他的脖子。你們這些外來者簡直是瘋了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你這個賊！用你的生命來償還吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「你在找伊卡瓦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我不認識你，你要幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[離開] 「我準備走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>莫克哈發出了輕微的嘟囔聲，最後搖了搖頭，轉過身去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我在想，你或許想和身材和你差不多的對手打上一架。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我聽說你喜歡欺負個頭比你小的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「你是說林克？」
+
+她爆發出一陣嘲弄的笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>莫克哈抿起了嘴，臉上的雀斑讓她的表情看起來更加不悅。她的眼睛瞇成了一條縫，雙手端在身邊，攥緊了拳頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>莫克哈慢慢地眨了眨眼睛，音調依然非常冷淡。
+
+過了一會兒之後，她的眉毛皺得更緊，都能夾死蟲子了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「瓦利亞人的做派。他付你錢，你就替他來打仗。」
+
+她一口口水啐在你面前的地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我會去告訴那個小騙子，讓他把金子付給你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>莫克哈的臉上，所有輕蔑與嘲弄的神情一掃而光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「恩加蒂之光在上，別讓我再被這些外來者打擾了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「沒骨氣的小賊，拿上你的破爛東西吧，別以為我會忘記這件事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「殺害風語者的人就是他！別讓他跑了！」</DefaultText>
+      <FemaleText>「殺害風語者的人就是她！別讓她跑了！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>你聽到莫克哈的喉嚨裡傳來了低沉而難過的怒吼聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我會讓我們的族長派個醫生，給那個瓦利亞人治療一下。
+
+或許這樣一來，他就可以閉嘴了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「恩加蒂在上，你真是讓我想把你扔進海裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「你為什麼要在黑暗之中鬼鬼祟祟？你不用睡覺嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我以為他是個和善的人……結果我贏了，他發起了脾氣。
+
+我可是風祝之里的&lt;i&gt;馬塔魯&lt;/i&gt;，可他卻在他的族人們面前，稱呼我為『骯髒的島民』，說我是個騙子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「因為這件事，我揍了他一頓，沒錯。這件事和你有什麼關係？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「所以，你承認你揍過他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「你應該去找守衛才對，你現在被大家當成了小偷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我不關心這件事是誰挑起來的，趕緊把錢袋給我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「錢袋你就留著吧，這是林克應得的懲罰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[離開] 「讓我去找林克談談，我會想辦法解決問題的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「我才不是小偷呢！你是想侮辱我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「我是馬塔魯，我是風祝之里的『守衛』,我負責保護這個村子。
+
+如果碰到了該懲罰的人，我可以懲罰他們，這是我的職責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「他的傷還要過好久才能恢復，這樣的懲罰難道還不夠嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我連林克和他的族人們都不怕，現在我憑什麼要怕你？
+
+「如果你打算打一架的話，我隨時奉陪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[攻擊] 「那就來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「失去了這些錢，林克要無家可歸了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「別傻了，克拉里奧會照顧好他的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「那地方的規則並不是這樣的。瓦利亞人必須付錢，交稅，才能得到食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「在那個地方，窮人永遠都會被富人玩弄於股掌之上。為了消滅這種不正義，我願意付出我的全部生命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「林克還有個孩子要養活，而且你也並不真的需要他的錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「既然這樣，那他為什麼一開始還要賭錢呢？
+
+「瓦利亞人都這麼見錢眼開嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「來，給你吧，我不需要他的瓦利亞臭錢。」
+
+她遞給你一個小皮囊，然後轉過了身，不再說話了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「老實說，我確實不太需要它。或許這些錢伊卡瓦會用到。
+
+「……願亞彌拉的柔風輕撫汝身，陌生人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「隨便你怎麼說都好，如果他真的是個有頭腦的人，他就不會讓自己落得這種地步。」
+
+她充滿鄙夷地在空中比劃了一個砍腦袋的動作，然後轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「怎麼了？所以呢？要我說，他本該得到更嚴酷的懲罰，但我是個仁慈的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「又怎麼了？瓦利亞人都是白癡。
+
+但伊卡瓦想要和他們做生意，因此我們必須保持耐心。就算他們根本不聽我們的建議，我們也必須保護他們免遭恩加蒂風暴的摧殘。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「而他還到處說是我搶了他的錢，他聽起來也沒那麼無辜嘛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「真的嗎？我……我沒想到會這樣。」
+
+莫克哈意味深長地看了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「你也明白，這是正義之舉。」
+
+她低下了頭。當她再次抬起頭的時候，臉上充滿了欣慰的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「如果哪個瓦利亞人破壞了胡亞納人的法律，而總督只是罰了他一筆錢，你會對這個結果感到滿意嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「……所以呢，我該怎麼辦？我可沒想讓他死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[攻擊] 「我來替林克和你較量較量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「把錢袋給我，我們就扯平了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「我認為人們通常都會為這種事情向對方道歉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「他的族人們會讓他挨餓嗎？」
+
+莫克哈皺起了眉，目光在你的臉上尋視著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「我聽說過這些事情，我還以為這些事都是以訛傳訛，越傳越廣呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「我真的不會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>莫克哈哼了一聲，雙臂交叉起來，手指不耐煩地敲著盔甲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「林克只是個商人而已，他是沒辦法像你一樣戰鬥的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>莫克哈張開了嘴，想說些什麼……之後又閉上了嘴。她做了個鬼臉，目光移到了沙地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我確實沒想過這一點，他是個庫阿魯，根本沒辦法為了保護村子而戰。
+
+「……或許我確實是太沒耐心了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「這……這根本不一樣，這座島一直都是我們的島。」
+
+莫克哈朝你吼了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「如果你這麼說的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>莫克哈慢慢點了點頭，露出了欣悅的表情。
+
+她聳了聳肩，擺好了戰鬥的姿勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「我不會去的。 
+
+「……但我可以讓伊卡瓦派個醫生過去，或許這樣他就可以閉嘴了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「你在找伊卡瓦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\characters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>蛇妖戰士</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>蛇妖弓手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>蛇妖薩滿</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1159</ID>
+      <DefaultText>老尤拉特利</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1160</ID>
+      <DefaultText>小尤拉特利</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1179</ID>
+      <DefaultText>戴克巴·亞龍末日</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1180</ID>
+      <DefaultText>敏捷的阿曼索</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1181</ID>
+      <DefaultText>浪子歐菲利</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1182</ID>
+      <DefaultText>睿智的艾裡弗</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1183</ID>
+      <DefaultText>裸鼻雀圖納科</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1196</ID>
+      <DefaultText>劇毒蛇妖戰士</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1211</ID>
+      <DefaultText>劇毒蛇妖薩滿</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1212</ID>
+      <DefaultText>劇毒蛇妖游擊手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1237</ID>
+      <DefaultText>大型剃刀豬</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1254</ID>
+      <DefaultText>波羅科亞幼獸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1255</ID>
+      <DefaultText>剃刀母豬</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1256</ID>
+      <DefaultText>剃刀豬玀</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1257</ID>
+      <DefaultText>廚師科林</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1258</ID>
+      <DefaultText>多萌卡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1259</ID>
+      <DefaultText>溫格</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1260</ID>
+      <DefaultText>尼羅</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1261</ID>
+      <DefaultText>卡蕾塔</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1282</ID>
+      <DefaultText>競技場守望者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1291</ID>
+      <DefaultText>烈焰泰坦</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1292</ID>
+      <DefaultText>因加里</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1293</ID>
+      <DefaultText>灰燼骸骨</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1294</ID>
+      <DefaultText>皮比爾丁</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1298</ID>
+      <DefaultText>胡瑪爾</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1299</ID>
+      <DefaultText>殺戮之面</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1300</ID>
+      <DefaultText>探尋之面</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1301</ID>
+      <DefaultText>求生之面</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1302</ID>
+      <DefaultText>德魯伊兄弟</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1304</ID>
+      <DefaultText>小海怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1311</ID>
+      <DefaultText>深淵克洛維斯</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1314</ID>
+      <DefaultText>穹頂蛆蟲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1321</ID>
+      <DefaultText>艾克希卡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1322</ID>
+      <DefaultText>埃魯克</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1323</ID>
+      <DefaultText>維哈米</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1333</ID>
+      <DefaultText>奧魯卡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1352</ID>
+      <DefaultText>考格拉克</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1384</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1494</ID>
+      <DefaultText>灰燼骷髏術士</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1495</ID>
+      <DefaultText>秘法結界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1496</ID>
+      <DefaultText>自然結界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1498</ID>
+      <DefaultText>阿庫馬諾·韋德羅</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1499</ID>
+      <DefaultText>瑪斯馬諾·韋德羅</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1501</ID>
+      <DefaultText>亞龍長老</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1504</ID>
+      <DefaultText>卡迪克</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1506</ID>
+      <DefaultText>擾亂線圈燃料</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1507</ID>
+      <DefaultText>擾亂線圈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1534</ID>
+      <DefaultText>研究筆記</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1537</ID>
+      <DefaultText>維瑟·卡篤</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1542</ID>
+      <DefaultText>換生靈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1557</ID>
+      <DefaultText>鼩鼱</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1588</ID>
+      <DefaultText>韻咖若奧瓦圖理國王一世</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1659</ID>
+      <DefaultText>蠻野巢母</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1660</ID>
+      <DefaultText>蠻野響尾蛇</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1661</ID>
+      <DefaultText>蠻野魚人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1662</ID>
+      <DefaultText>蠻野破壞者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1663</ID>
+      <DefaultText>魂甲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1664</ID>
+      <DefaultText>魂甲游擊兵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1665</ID>
+      <DefaultText>噩夢之影</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1666</ID>
+      <DefaultText>蠻野虎</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1667</ID>
+      <DefaultText>蠻野豹</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1668</ID>
+      <DefaultText>年幼的蠻野豹</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1669</ID>
+      <DefaultText>蠻野蜥人勇士</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1670</ID>
+      <DefaultText>蠻野蜥人游擊兵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1671</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1673</ID>
+      <DefaultText>沙蛇</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1674</ID>
+      <DefaultText>大地石碑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1675</ID>
+      <DefaultText>空氣石碑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1676</ID>
+      <DefaultText>流水石碑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1677</ID>
+      <DefaultText>烈火石碑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1678</ID>
+      <DefaultText>穆阿圖</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1681</ID>
+      <DefaultText>哈特諾</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1682</ID>
+      <DefaultText>賽貝爾</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1683</ID>
+      <DefaultText>卡茲瓦里靈語者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1684</ID>
+      <DefaultText>卡茲瓦里獵人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1686</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1689</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1690</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1691</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1692</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1693</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1694</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1695</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1696</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1702</ID>
+      <DefaultText>伊吉婭</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1703</ID>
+      <DefaultText>明鏡心</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1709</ID>
+      <DefaultText>腐朽暴君</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1713</ID>
+      <DefaultText>蠻野食人魔神射手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1714</ID>
+      <DefaultText>蠻野食人魔謀殺者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1734</ID>
+      <DefaultText>觀眾</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

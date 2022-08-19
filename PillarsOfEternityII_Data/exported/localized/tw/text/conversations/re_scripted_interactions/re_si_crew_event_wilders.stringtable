@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_wilders</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>70</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你船上的緊張升級，就像濕氣那樣令人討厭，怨言的暗流不斷，就像蟋蟀的叫聲一樣。有時緊張上升到難以忽視的程度。
+
+當你聽到敲門聲打開門，你看到[Specified 1]用一塊又髒又爛的破布擦汗。「你好，船長。有個問題需要你看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[出去到甲板上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「什麼問題？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[忽視問題讓其自行發展。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 1]跟著你出去到了甲板上，海水的涼風馬上讓你暴露的皮膚感覺到涼意。一群大喊大叫的水手已經向船首集合，你向他們走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「一些船員正在吵鬧著要——」[Specified 1]咳嗽，用手掌摀住嘴。「與波爾塔串通一氣。我不知道他們在密謀什麼，但若任其發展，我擔心這畜生會把整條船給弄沉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Specified 1]退下了，但並不情願服軟，留下你在那裡。最終，甲板上的喧鬧聲減小了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「幾名水手把大嘴巴逼到了艏樓的角落。不知道他們意欲何為。可能他們並不瞭解蛛人的危險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 1]歎了口氣。」船員們已成功把[Specified 0]扭進他們從船艙拖上來的一個籠子裡。我想他們準備殺了這可憐蟲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>後來，你注意到波爾塔因打鬥留下一些青灰色的淤青和刀傷，但與[Specified 2]和[Specified 3]明顯遭受的暴擊相比完全不算什麼。
+
+[Specified 5]告訴你說船需要一些維修，因為波爾塔在反抗其他船員時對船造成了破壞。
+
+你的船上仍然籠罩著沮喪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>後來你聽[Specified 1]說船員們殺死了大嘴巴，聲稱他們出於自衛。在這場鬥毆中好幾名船員受傷，但最嚴重的是[Specified 2]、[Specified 3]和[Specified 4]。
+
+儘管如此，船上的氣氛明顯改善，之前的咕噥抱怨變成了現在的笑聲和下流的歌聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>在剩下的旅程中，你注意到你最近未看到[Specified 0]。似乎沒有人知道那小傢伙去了哪裡。
+
+儘管如此，船上的氣氛明顯改善，之前的咕噥抱怨變成了現在的笑聲和下流的歌聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你不知道波爾塔從哪裡找到那根帶節疤的大桿子，她前後揮舞著不讓憤怒的船員們靠近，但每一下揮舞都可能毀壞一面帆、欄杆或你船上的其它重要部件。
+
+[Specified 2]和[Specified 3]手中拿著刀，對食人魔大喊著誣蔑的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 2]和[Specified 3]手中拿著刀，對被逼到角落的蛛人大喊。
+
+「你最好讓我們的兄弟離開！」前者咆哮道。
+
+[Specified 4]面無表情，站在船員和他們關注的目標之間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>他們圍在一個小籠子周圍，[Specified 2]和[Specified 3]正板條砸著籠子頂部。
+
+銳石在裡面蜷縮成一團，她的羽毛頭飾凌亂不堪，恐懼地發抖並發出嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>他們圍在一個小籠子周圍，[Specified 2]和[Specified 3]正板條砸著籠子頂部。沒用的廢物在裡面蒙著他的頭，恐懼地尖叫著。
+
+「你們別碰沒用的廢物，否則船長發現你就該倒霉了！」他的球形的眼睛與你的目光交匯，睜得更大了。「船長！讓愚蠢的船員放了沒用的廢物吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Specified 1]皺著眉頭看你。「有何吩咐？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「怎麼回事，[Specified 0]？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你最好給個解釋，[Specified 3]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「馬上放了[Specified 4]，大嘴巴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[拔出你的武器。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我理解緊張局勢正在升級，但這不是解決問題的方式。人人都喝點海盜烈酒冷靜一下。我將盡量讓事情回到正軌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「如果你們每個人還不回到你們該死的崗位，我就要準備剝了你們的皮做船帆！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我們船員是一家。我們一起流血犧牲，互相照顧。我知道[Specified 0]有點奇怪，但你們的共同點多於差異點，求同存異。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[殺了[Specified 0]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>所有人的眼睛都注視著你拔出的武器。
+
+[Specified 3]向你攤開手掌。「嘿，船長，稍安勿躁。」
+
+「你個白癡，」[Specified 2]噓聲說道，「船長要解決好這件事情，一勞永逸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[殺了[Specified 2]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[殺了[Specified 3]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>波爾塔朝著船員揮舞著一根木棒，
+
+「愚蠢的基斯把一切壞事都怪罪在波爾塔的頭上。不怪自己。不怪別人。肯定是食人魔的錯。我要打碎他們的腦袋，因為他們不用腦袋思考。」
+
+「那是一些無聊的廢話！」[Specified 2]瞪著食人魔說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>蛛人的想法觸動到了你的內心，它的聲音迴響在你腦海中。
+
+&lt;ispeech&gt;你們這些愚蠢的船員把你們自己的領導失敗歸咎於我們。他們因為自己的沮喪想拿我們做出氣筒，這次來吧……&lt;/ispeech&gt;他以優雅的姿勢暗示[Specified 4]，&lt;ispeech&gt;……只要自衛就好。&lt;/ispeech&gt;
+
+「那混蛋在蠱惑船長！「[Specified 2]大叫道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>主母銳石吱吱發著牢騷，朝船員揮舞著她瘦骨嶙峋的爪手，好像要驅逐他們。
+
+「小心，船長。」[Specified 2]把一隻手搭在你肩上。「蜥人女巫能用她們卑鄙的巫術迷惑水手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我沒有，船長。我在籠子裡！我沒做什麼錯事！」
+
+[Specified 2]敲擊籠子，發出嘎嘎聲。「你們都知道事情不是這樣的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你在裡面還好嗎，[Specified 0]？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>&lt;ispeech&gt;只有被收買的基斯才能保證安全。基斯船長，你發誓我們不會受到傷害嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我發誓，你們在我的船上將會安全。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「這是命令！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>那瘦長的傢伙搖了搖頭，下頜骨卡嗒響著。
+
+&lt;ispeech&gt;我不能。只有[Specified 4]能讓我們安全。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 4]眨著眼睛蹣跚著離開他時，那瘦長傢伙的下頜骨快速卡嗒響著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Specified 4]眨著眼睛蹣跚著離開他時，那瘦長傢伙的下頜骨快速卡嗒響著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>那瘦長的傢伙搖了搖頭，下頜骨卡嗒響著。
+
+&lt;ispeech&gt;我不能。只有[Specified 4]能讓我們安全。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「呃，船長，我和[Specified 2]，你知道，我們必須談談，呃，你和我們一樣清楚，最近船上麻煩不斷……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我們不能什麼問題都解決，但我們肯定能解決我們抓住的那個食魔，把我們的所有儲備食物都吃光了。」
+
+「波爾塔吃的沒那麼多。只是個女人的飯量。」食人魔發出類似咕嚕聲或咯咯笑的聲音。
+
+[Specified 2]怒目而視。「我更擔心的是如果事情變得更糟，將會發生什麼。食人魔的判斷力可不怎麼樣。要是她開始打擊船身或桅桿，那會是何結果？」
+
+「肯定會打擊小基斯的桅桿。」波爾塔不懷好意地看著[Specified 2]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你自己也看到了，船長！」[Specified 2]走上前，指著蛛人，船員保護著他。「這畜生把[Specified 4]當猴耍！誰知道什麼時候它會把&lt;i&gt;我們的&lt;/i&gt;腦袋給吃了？」
+
+「會不會它已經控制我們的心靈，在操縱我們的思想了？」[Specified 3]抱怨道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 2]轉向你。「那個小畜生是個巫師和女祭司。你和我一樣清楚，他們崇拜龍。要是她的祈禱得到靈應，我們會是什麼下場？船必沉無疑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 2]用一根手指戳著籠子。「這個小偷十之八九是問題所在。他的本性就是想佔有東西。「只有老天知道他究竟幹了什麼！」
+
+「我沒有偷任何東西！那妖精抱怨說。
+
+[Specified 4]嘲笑著。「我在你骯髒的洞裡找到了我的六分儀，白癡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[用你的譯靈使能力解除蛛人的控制。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>聚在一起的水手們對你的話點著頭。
+
+「你們聽到船長的話了，」[Specified 1]大聲說道，「把這個打開，把海盜烈酒分給每個人！」
+
+船員們散去，發出不高不低的歡呼。你已化解了危險……目前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Specified 2]皺眉。「對不起，船長，我們不相信那騙人的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>水手們避開你，眼睛恐懼地睜得大大的。「我沒別的意思，船長，」[Specified 3]抱怨道。
+
+[Specified 1]對桅桿打了一棒。「你們聽到船長的話了！回到你們的崗位！」
+
+船員散去，你看看我我看看你，但避開你的注視。你已化解了危險，目前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>船員們相互看著，[Specified 2]朝欄杆外吐了口痰。「很明顯，船長，比起你，我們更怕它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>水手們相互看著，有的撓著後腦勺，有的扭著手。
+
+「對不起，船長……」[Specified 3]的目光在你和[Specified 0]之間游移。「看不太清楚。」
+
+「回去幹活！」[Specified 1]大叫道，「這裡沒什麼可看的。」
+
+船員們散去，返回各自的崗位。你已化解了危險……目前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>傷心地搖搖頭，[Specified 2]咯咯笑起來。「你是要讓我們覺得應該把一個卑鄙的混蛋當成家人？「其他人也發起牢騷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Specified 4]眨著眼睛蹣跚著離開他時，那瘦長傢伙的下頜骨快速卡嗒響著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[引起船員的注意]「你們都聽好了！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>大家都轉向你。
+
+「船長，什麼事？」 [Specified 2]問道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[混亂他們的思想。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>船員們盯著前面，目瞪口呆，看起來順從聽話多了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>你抓住籠子拖過甲板，[Specified 0]傷心地尖叫著。發出一聲低吼，你把籠子扔過欄杆掉進下面的水中。隨著金屬籠子消失在水下面，那個生靈的尖叫突然間結束了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>憑著熟練的動作，你端平武器，瞄準，射擊……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>你向前一躍，你的武器在空中劃出一道邪惡的弧線……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>砰的一聲，[Specified 0]倒在甲板上。鮮血流過木板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>鮮血濺到前帆上。吃驚地睜大眼睛，[Specified 2]倒在甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>甲板上鮮血四濺。嘴張開著，[Specified 3]向後倒栽出欄杆，落入大海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「就知道我們可以指望你把事情糾正過來，船長。」 [Specified 2]咧嘴而笑，然後帶著其他船員歌唱你的英勇和智慧。
+
+隨著你的旅程繼續，歌聲一路伴隨著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>其他船員猶猶豫豫後退幾步，不希望自己落得與他們的同伴相同的下場。
+
+「我想船長的意思很清楚了！」[Specified 1]敲了桅桿一棒說道，「回到你們的崗位……馬上！」
+
+水手們慢慢轉身離開，表情非常暗淡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「必須要有思想的才可以吃，」塞拉芬交叉著雙臂說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>聚在一起的水手們對你的話點著頭。
+
+「你們聽到船長的話了，」[Specified 1]大聲說道，「把這個打開，把海盜烈酒分給每個人！」
+
+船員們散去，發出不高不低的歡呼。你已化解了危險……目前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>水手們避開你，眼睛恐懼地睜得大大的。「我沒別的意思，船長，」[Specified 3]抱怨道。
+
+[Specified 1]對桅桿打了一棒。「你們聽到船長的話了！回到你們的崗位！」
+
+船員散去，你看看我我看看你，但避開你的注視。你已化解了危險，目前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>水手們相互看著，有的撓著後腦勺，有的扭著手。
+
+「對不起，船長……」[Specified 3]的目光在你和[Specified 0]之間游移。「看不太清楚。」
+
+「回去幹活！」[Specified 1]大叫道，「這裡沒什麼可看的。」
+
+船員們散去，返回各自的崗位。你已化解了危險……目前。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

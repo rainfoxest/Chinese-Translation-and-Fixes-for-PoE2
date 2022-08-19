@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_si_sepulchers_ext_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你面前有一扇巨大的門若隱若現。邊緣密封嚴實，就連空氣也無法通過分毫。
+
+邊緣佈滿宗教符文，深深鐫刻在坑窪不平的石頭上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>隨著你接近，門開始戰慄著發出呻吟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[檢查門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[把鰻魚螺旋飾環放在門上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>看上去似乎需要有一件受到貝拉斯祝福的宗教飾品才能打開這個入口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>一組精緻的蝕刻橫跨整塊石頭，淺淺地雕刻在幾個符文下方。
+
+它描繪了一小群人正在向一座大門上盤踞的一堆鰻魚祈禱。一位海裔牧師手持一個碟片靠近門扉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>當鰻魚螺旋飾環靠近大門時，石刻的圓環在你手中不斷發出聲響。你靈魂精粹的靈球環繞著飾環，向外延伸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>捲鬚朝向門扉，觸摸著它，溶解在一片紫色的光輝中。一陣猶如貝拉斯親自前來迎接般的低語，悄然從你腳下升起。
+
+門扉逐漸開啟，滑落到地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你辨認出象徵死亡的符文，敘說著軀體終有一死，而靈魂將永恆不朽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「胡言亂語。最好當它們根本不存在。」
+
+麥婭不高興地搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「這兒寫著什麼心滿意足地踏進坦格羅亞的嘴裡。我得說，這前景還真吸引人。」
+
+泰克胡一邊查看門扉上的蝕刻，一邊摸著自己的下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>一組精緻的蝕刻橫跨整塊石頭，淺淺地雕刻在幾個符文下方。
+
+它描繪了一小群人正在向一座大門上盤踞的一堆鰻魚祈禱。一位海裔牧師手持一個碟片靠近門扉。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_construct_fluid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>或者至少一種混合物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你用瓶子舀起這種液體，用手指擦它粘稠的表面。一會兒之後你就有灼熱感，皮膚隨之冒煙。你摩擦手背來對抗冰凍，同時還要擦除液體並緩和灼燒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[收集液體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>該溶液無疑不健康，不好處理，用量極少。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>塞拉芬咯咯地笑。「我想我喜歡越來越好的感覺，我像旁邊的小伙子一樣兩度沉醉，船長，但我會遵守瑪珈嵐誓言的，直到下次再在這個被上帝遺忘的冰山遇到啤酒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>瓦特尼爾歎了口氣。「我……或許納瓦達爾不應該把這個加到啤酒裡……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>莫珂的鼻子感傷地吸了吸。「你要喝那個嗎，我的朋友？我當然不喝。而這就說明了某些問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我樂意忍受聚鹿那讓人鬱悶的傳統習慣，如果飲毒是若移冰地的『樂趣』組成的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你慢慢地將一些液體舀進容器裡，小心地不讓瓶子之外的任何物體碰到液體。有幾滴掉落到地上，令地面發出嘶嘶聲。蒸汽散開後，你看到這種液體在冰上溶出一個小洞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[嗅液體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[識別液體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>這種有毒液體聞起來像腐爛的柯基果，帶有石腦油和鐵銹的味道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>這個液體不僅散發出刺鼻的氣味，還留給鼻孔自內而外的灼熱感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>該物質似乎是一種混合物，用石腦油，水以及一種用煉金術化合製成的藥劑摻和而成，而這種煉金術化合物則是用酒精、磷與銀鹽和草鹼混制而成的。
+
+無疑含有劇毒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>亮綠色沉渣表面五色光芒閃爍，奪目異常，就像油一樣。儘管液體的確切性質還不清楚，但幾乎可以肯定是有劇毒的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>液體的亮綠色表面閃爍五色光芒，奪目異常。但你還是不知道它是什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 2]熟練地將一些液體舀進容器裡，小心地不讓瓶子之外的任何物體碰到液體。有幾滴掉落到地上，令地面發出嘶嘶聲。蒸汽散開後，你看到這種液體在冰上溶出一個小洞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 2]用瓶子舀了一些液體，而隨著嘶一聲，他的指關節碰到了液體粘稠的表面。你的同伴摩擦著傷處——情緒有點陰鬱——極其反感著冰原。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>一處冰原凹地聚集了一小部分構裝體的生命液體。儘管空氣寒冷，而且地表溫度更低，但它仍然是液態。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

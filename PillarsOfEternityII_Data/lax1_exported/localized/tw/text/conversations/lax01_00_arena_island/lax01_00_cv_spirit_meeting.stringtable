@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_spirit_meeting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>154</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你能看見我？真的是你嗎，反抗號的船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「其實是[Player Ship]號，不過我確實是船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你搞錯船長了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你為什麼在我的船上？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我是穆阿圖！以前是卡茲瓦里島人，現在是靈界遊魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「但&lt;i&gt;你&lt;/i&gt;是個靈視者，對吧？否則我是看不見你的。」
+
+「也許你能幫我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「不過肯定是你啊！你打開了盒子。你能看見我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「哦，真是妙極了！看到有人沒有白白送命，那是何等的&lt;i&gt;滿足&lt;/i&gt;啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我來自卡茲瓦里島，我們需要你的幫助！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你是怎麼死的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你說的『我們』是指誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「你們需要什麼樣的幫助？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你怎麼知道我是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「不小心碰到一把齊著肩膀高度劃過來的快刀，產生的副作用就是死翹翹了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我們得派一名信使去找你，但又不能讓別人看到我離開卡茲瓦里島。這種解決方案雖然不優雅，不過挺&lt;i&gt;有效&lt;/i&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「為什麼認為我是你要找的船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「呃，卡茲瓦里人對於缺乏經驗者是比較&lt;i&gt;謹慎&lt;/i&gt;的。這當然是有原因的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「呃，顯然我算一個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「還有看守人胡瑪爾。正是她把我殺掉，再把我的頭放進那個盒子裡的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「還有這座島上的工作人和鬼魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「這個很難解釋，除非你親自到島上去一趟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「有一點可以說的是，有人從國王島附近海上你與亞龍號一戰之後的戰場上帶了什麼東西給我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「如此一來，我們對你有了深刻的瞭解，尤其是你的實力！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「為了贏得托墨弗艾的庇佑，那些最資深的獵人、最老練的探險者、最致命的勇士，都會來到我們的卡茲瓦里島。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「但是看守人胡瑪爾說，維持這座島的精華已經被玷污。她稱之為『凝結』。」
+
+「動物、樹木，全都由於憤怒和恐懼四處竄動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「是不是出現了魂怪？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我為什麼非得要幫助你不成？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「托墨弗艾是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我是最偉大的勇士。怎麼沒聽說過這個地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「你提到了托墨弗艾的庇佑。我也需要一點神明的庇佑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「比起你的島嶼，我有更重要的問題要處理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「沒錯！胡瑪爾是對的。她說過你會明白的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「狩獵之面！專司狩獵、殺戮和倖存。這是相對而言的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「有人認為這是伽拉溫的三重人格。不知道是否屬實，因為我從來沒求證過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「托墨弗艾的奇思妙想，我也無法解釋。假以時日你可能會得知這個地方，但那裡只歡迎托墨弗艾最鍾愛之人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「也只有&lt;i&gt;他們&lt;/i&gt;才會真正欣賞那個地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「庇佑有多種形式，不過全都非常神奇！托墨弗艾對最強者是非常慷慨的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「啊，你指的是黎明之神——胡瑪爾說過你會提到這個。她認為卡茲瓦里島上發生的事情是有關聯的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「或者至少這麼說吧，你拜訪卡茲瓦里島之後的收穫，會對你處理那些更重要的問題有很大幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「人們都說你會幫助別人。說你能解決問題。卡茲瓦里島的問題很大。需要你的幫助！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「幫助我們的話，你將會面對艾歐拉大陸有史以來最強悍的敵人！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「證明自己有資格贏得托墨弗艾青睞之人，會在島上找到豐富的戰利品！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「到卡茲瓦里去找胡瑪爾，靈視者。她比我更清楚島上的狀況。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「有一件事情你得知道——狩獵之面對於進出島嶼的控制很嚴苛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「不過島的南面有一道瀑布，只要小心一點，就可以從那裡潛入。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「還有件事情你得注意……」他嚴肅地說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我會盡我所能幫助他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「這我無法保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「幫助那些不需要我幫助的人？聽起來挺好玩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我沒興趣理你們的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「哦，真是太棒了！謝謝你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我能理解。你要去追某個神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「如果深入瞭解的話，他們其實也不那麼壞。可以說他們人很好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「呃，不，這是騙你的。不過胡瑪爾這個人還好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「抵達之後，我會幫你進入島嶼中心地帶。」
+
+「前提是你願意讓我帶你去。我不想擅作主張。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我為卡茲瓦里獻出了生命！希望你至少能抽出一點時間來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「如果改變主意，我可以帶你安全地進入島嶼中央地帶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「與此同時，我會在這等著。嗯，&lt;i&gt;在你身後&lt;/i&gt;，而其他的靈體會圍繞在你身邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「哦，那太可惜了。我們聽說過他的很多豐功偉績……」
+
+鬼魂的語氣裡流露出神往，幾乎帶著一種敬畏。</DefaultText>
+      <FemaleText>「哦，那太可惜了。我們聽說過她的很多豐功偉績……」
+
+鬼魂的語氣裡流露出神往，幾乎帶著一種敬畏。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「他在哈桑戈與歹毒的蛇妖大戰一場，凱旋而歸！」</DefaultText>
+      <FemaleText>「她在哈桑戈與歹毒的蛇妖大戰一場，凱旋而歸！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「他在灰燼之胃與戰爭女神對陣，也絲毫不落下風！」</DefaultText>
+      <FemaleText>「她在灰燼之胃與戰爭女神對陣，也絲毫不落下風！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「要是能遇見他這樣出類拔萃的勇士，那可是三生有幸！」</DefaultText>
+      <FemaleText>「要是能遇見她這樣出類拔萃的勇士，那可是三生有幸！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「為什麼不能讓別人看到你離開？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「你比我遇到的大部分鬼魂更容易激動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「死後也有好玩的事情——你聽說過那些社交限制嗎？比如哪些話能說、哪些話不能說的規定，死了就管不著了！現在我比活著更自由了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「可能有些人把死亡看得過於沉重了吧。」幽靈那模糊的臉龐咧出個超大的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「你身處暗空，我在現實世界。靈界呢，還在暗空的彼岸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「哦，好吧。這還是我頭回死掉呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「你說了什麼嗎？」亞洛斯的目光從書上抬起，揚起一側的眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[揮手叫他走。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我正在與一個靈體交流。稍後再解釋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[不理他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「真是個驚喜啊。」他翻了翻白眼，然後繼續看書。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「你還好嗎？你又出現那樣的神情了，就好像見到鬼一樣。我說的是另一個幽靈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「替我跟他打聲招呼。或者是『她』吧。不能對死人胡亂猜測的吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>亞洛斯翻了翻白眼，然後繼續看書。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「真是好心當作驢肝肺。」他狠狠地咬了幾下煙管。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「多的我就不說了。靈體不該隨意許下承諾，尤其是在理論上無法履行承諾的情況下！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「我是穆阿圖！以前是卡茲瓦里島人，現在是靈界遊魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「你身處暗空，我在現實世界。靈界呢，還在暗空的彼岸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「哦，好吧。這還是我頭回死掉呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「你說了什麼嗎？」亞洛斯的目光從書上抬起，揚起一側的眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「你還好嗎？你又出現那樣的神情了，就好像見到鬼一樣。我說的是另一個幽靈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我正在與一個靈體交流。稍後再解釋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[揮手叫他走。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[不理他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「真是個驚喜啊。」他翻了翻白眼，然後繼續看書。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「替我跟他打聲招呼。或者是『她』吧。不能對死人胡亂猜測的吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>亞洛斯翻了翻白眼，然後繼續看書。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「真是好心當作驢肝肺。」他狠狠地咬了幾下煙管。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「你提到了換生靈，怪物之父，獵人伽拉溫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「專司狩獵、殺戮和倖存之神，沒錯！你懂的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「為什麼要找我去？如果連管理人都無計可施，我能做些什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「你是個靈視者，對吧？&lt;i&gt;那個&lt;/i&gt;靈視者？死了又復活的那個？能與眾神交流的那人？」
+
+「你&lt;i&gt;正是&lt;/i&gt;我們需要的靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我們需要一名靈視者。胡瑪爾說其他人不能與靈魂交流，而我們的問題涉及到很多靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「不過我相信這對你來說不是問題！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>在你對幽靈的提醒作出回應之前，你注意到康士坦丁焦急地在你身後冒出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「你有事嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「現在沒空，康士坦丁。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[不理他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「不，是這樣的，我只是……」他緊張地清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「好吧，沒問題。」他盯著盒子看，然後又盯著你的臉，目光在盒子和你之間來回切換。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>他清了清嗓子，試圖引起你的注意。看到你沒有回應，他深深地歎了一口氣，來到你面前。
+
+他盯著盒子看，皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「問題是，我對那個盒子略知一二。可能還不止。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「我想說的是……也許你不要去碰它。最好在盒子上綁一塊大石頭，把它扔到海裡去。」
+
+「現在就動手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「我想進一步瞭解事件事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「有事就說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[聳肩。] 「在我看來完全無害呀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「這是個裝有死人腦袋的盒子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「更詭異的事情我都見過，這不算什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「其實，那腦袋裡還有個靈體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「說的對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「我想說的是……也許你不要去碰它。最好在盒子上綁一塊大石頭，把它扔到海裡去。」
+
+「現在就動手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「……很好。真是……太棒了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「話是這麼說，但你從未去過卡茲瓦里。這屁事兒太&lt;i&gt;詭異&lt;/i&gt;了。哪怕對你來說，也太過詭異了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「我不是想對你指手劃腳，但是……靈視者？還是小心為妙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「喂喂，我還在這呢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「你到底幫不幫我們？我們確實很需要幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「你似乎對此地相當瞭解。這是為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[點頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[翻白眼。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>你隱約聽到其中一個同伴說的話，似乎是從一座長廊遠端傳來的一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「被你發現了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「其實應該是眾神&lt;i&gt;與我交流&lt;/i&gt;才對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「不要相信你聽到的一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「我就知道！胡瑪爾沒有騙我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「哦，我才沒有！除非是胡瑪爾說的話。她歷來所言不虛，她還說靈視者能與眾神交流，因此&lt;i&gt;肯定&lt;/i&gt;是真的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「你&lt;i&gt;會&lt;/i&gt;幫忙的，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「我會盡力幫忙的。你想讓我做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「如果你被島上居民發現，他們可能不會友好相待。他們……呃……脾氣比較暴躁。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「他在哈桑戈與歹毒的蛇妖巧妙周旋，嚇得它們狼狽逃跑！」</DefaultText>
+      <FemaleText>「她在哈桑戈與歹毒的蛇妖巧妙周旋，嚇得它們狼狽逃跑！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>穆阿圖歪頭笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「在這方圓幾十里之內，只有你不是像魂珀那樣閃閃發光的生物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我&lt;i&gt;確實&lt;/i&gt;也會和生者交談，你知道吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「當然當然，但這種事&lt;i&gt;任何人&lt;/i&gt;都能做！
+
+「嗯，幾乎任何人。除了我。因為……你知道的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「有人給我們帶了一些來自國王島外反抗者號與亞龍號戰鬥中的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「我們從其中瞭解到了努亞堡的靈視者很多事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「這個胡瑪爾為什麼要殺你？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「我來自卡茲瓦里島，為了贏得托墨弗艾的庇佑，那些最資深的獵人、最老練的探險者與最致命的勇士，都會來到這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「我說了我沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「好吧，他們怎麼會把我放錯船的？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「反正你是&lt;i&gt;一位&lt;/i&gt;靈視者，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「你應該找胡瑪爾談談。她能解釋得更清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「和胡瑪爾談談，明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「卡茲瓦里島在哪裡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「我什麼都不能承諾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「從我的船上下去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「卡茲瓦里島是哈桑戈西方的一座&lt;i&gt;巨大&lt;/i&gt;島嶼。島上有高聳的懸崖與瀑布，基本很難錯過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「我……不行。你是我唯一見到的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「也許我們可以稍後再談談？你的那個，手？現在忙著呢吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「我們可以給你報酬！此外還有權利與榮耀。當然還有寶藏！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

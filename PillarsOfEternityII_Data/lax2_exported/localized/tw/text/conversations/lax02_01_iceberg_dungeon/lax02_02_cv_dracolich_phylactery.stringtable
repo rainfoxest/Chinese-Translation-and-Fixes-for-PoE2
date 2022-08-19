@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_dracolich_phylactery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>260</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>野獸用熾熱的眼神盯著你。她的精神力拍打著你的臉，就像打開的鼓風爐噴出的熱量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;你的到來，湮滅也隨之而來。不可思議。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;ispeech&gt;將自己籠罩在死者的靈魂中，是嗎？我感覺它們像蝸牛粘附在石頭上一樣粘在你身上。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;ispeech&gt;你從這片廢棄的領地小口地吞噬著，聲音在片空曠的地方迴響。你讓自己對他們的熵殤狼吞虎嚥起來，就像我曾經做的那樣。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;ispeech&gt;毫不費力就能保護自己遠離這個地方。在我看來。幾乎難以置信。真的是幾乎。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>&lt;ispeech&gt;這不重要。無所謂。我應該拿走你的精華，用它從這個地方逃脫。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你為什麼要這麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「放手吧。讓你在虛空中得到喘息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你的遺物——是個護符，對嗎？是它在這裡支撐著你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你考慮過與睿姆岡鬥爭嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你又一次聲稱被困在這裡，但我在先驅之守望與你打鬥過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我在獵殺一個神。你認為我會讓&lt;i&gt;巨龍&lt;/i&gt;擋我的道嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;ispeech&gt;我為什麼不？你不會嗎？你被困在這裡了嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;ispeech&gt;你還不想辦法逃離這個單調的虛空嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;ispeech&gt;你目睹了這個地方的吸引力。我逃脫不了它的引力。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>&lt;ispeech&gt;沒有更多精華的話。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>&lt;ispeech&gt;我鼓起勇氣從回聲中拿到我想要的東西。儘管它們很有韌性，仍是這個地方的受害者。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;ispeech&gt;你攜帶的靈魂證明你沒說實話！&lt;/ispeech&gt;
+
+她向後退去，發出怒吼聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>巨龍從鼻孔中慢慢呼氣，像她一樣發洩憤怒。她向上抬起頭，好像在盯著靈界的外面看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>&lt;ispeech&gt;這就是其他人依附你的原因嗎？你的仁慈？&lt;/ispeech&gt;
+
+巨龍把頭伸向一側，好像在低頭凝視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>&lt;ispeech&gt;不，小基斯。你真的幫到我了，但不是按你提議的方法。&lt;/ispeech&gt;
+
+巨龍將翅膀收起來，當它向前走時，脆弱的骨架和乾癟的肉體在冷空氣中發出卡卡的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>&lt;ispeech&gt;我沒有時間浪費在你身上。神靈需要殺戮。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>&lt;ispeech&gt;你們不過是只會哭的小毛孩。不要再拖延了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>&lt;ispeech&gt;我是為它而來的。它用這樣的力量挑戰神靈。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你打算怎樣來取我的精華？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「『都無所謂？』聽起來，這個地方已將你變成它的一部分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[攻擊]「早死早超生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>巨龍的笑聲在你的腦中迴響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>&lt;ispeech&gt;小基斯似乎沒有看上去那麼傻。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>&lt;ispeech&gt;真是聰明，小基斯。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>&lt;ispeech&gt;你做什麼&lt;/ispeech&gt;不&lt;ispeech&gt;重要。我的行動將具有更重大的意義。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>&lt;ispeech&gt;以最古老的方式。消耗戰。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>&lt;ispeech&gt;遺物應包含你的精神，在白色虛空中為它提供保護。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>&lt;ispeech&gt;你應該活下來。苟延殘喘也行。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「那會是哪一個遺物？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>她向著你和巨龍之間的基座上方漂浮的物體揮舞著利爪。明顯感受到它發出了能量脈衝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>&lt;ispeech&gt;錨點。它還在這裡，而其他所有的東西都化為塵土了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「那——那是怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我覺得那裡面有數十種，甚至數百種心智。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我對那個玩意兒有種不好的預感，船長。感覺一切都充斥著靈魂，而且還渴望有更多靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>&lt;ispeech&gt;我自己保護。他們毀滅威脅到他們統治的東西，就像對我的前人所做的那樣。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你找到了可與眾神相抗衡的力量嗎？為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「奉若神明？但不具神性？所以你知道眾神創造的真相了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>&lt;ispeech&gt;就像他們讓你做的那樣，你把自己扔進了這個虛空。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>&lt;ispeech&gt;顯而易見。我的媽媽在孵化出我的時候，比你創造出的神靈還老。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>&lt;ispeech&gt;以為你像我們一樣對基斯的工作一無所知嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「你所說的『那些前人』指的是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>&lt;ispeech&gt;我的前輩。在我小的時候，三條擁有超凡神力的巨龍統治著這些海域。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>&lt;ispeech&gt;令人驚歎的是，眾神招募它們來捍衛其偉大的傑作。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>&lt;ispeech&gt;前輩們接受了，然後就消失了。眾神背叛了它們。設陷阱抓住了它們。謀殺了它們。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「古老的胡亞納傳說中提到三個守護者，但是…...」泰克胡一邊沉思著，一邊捏著頭髮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>這個巨大的爬行動物將頭伸向一邊，眼睛盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>&lt;ispeech&gt;我們難道沒有深入研究嗎，基斯？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>&lt;ispeech&gt;但那又怎麼樣？耍些小聰明嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「當心，靈視者。她開始將你視為危險了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「讓我過去，我會把遺物從這個地方帶走的。你會自由的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「所以我不需要毀了你…我只需要毀了它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「你能教我如何改變我自己嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>巨龍轉而凝視了伊德溫一會，又把視線回到你身上。它的鼻孔裡閃爍著紫色的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>這個野獸長長的喉嚨裡發生一聲輕笑，隆隆作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「只是個學者的無聊好奇心而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>&lt;ispeech&gt;那我們希望它得到滿足吧。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>&lt;ispeech&gt;如果我實在想的話，我可以教會你很多。但我怕我們不會再有這個機會了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>&lt;ispeech&gt;如果腐敗和終結之神失敗了，你覺得你會成功嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>&lt;ispeech&gt;不。它應該堅持到永遠，我會跟它在一起的。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>&lt;ispeech&gt;憑機會去做這些事情不會有什麼好處...…&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>這個野獸長長的喉嚨裡發生一聲輕笑，隆隆作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>&lt;ispeech&gt;要達到什麼目的，小基斯？我為什麼要做這件事？關於那件事情，你為什麼要做？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「你想離開這地方，不是嗎？我是個靈視者。我的工作是幫助迷失的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我和眾神有過爭吵。你會是個受歡迎的隊友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我原指望學到你要教我的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「我的意思是，要麼這樣，要麼我殺了你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「可轉念一想，這可能不是個很好的建議。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我想，你現在就意識到這一點會更好。」他歎了口氣，按了按鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>野獸盯著你。她看起來不開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>&lt;ispeech&gt;你真是太有野心了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>&lt;ispeech&gt;如果我實在想的話，我可以教會你很多。但我怕我們不會再有這個機會了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我們可以有機會。我們永遠都可以有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>她伸長脖子，低頭看向你。她的呼吸中散發出腐肉和發霉書卷的味道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>巨龍考慮著你的提議，此時，寂靜籠罩著空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>巨龍輕蔑的哼了一聲，噴出紫色的火焰，在鼻孔中閃爍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>&lt;ispeech&gt;不。我不這麼認為。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>&lt;ispeech&gt;這次的消遣活動著實令人愉快，不過也到了結束我們對話的時候了。再見，小基斯，歡迎來到湮滅。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>巨龍輕蔑的哼了一聲，噴出紫色的火焰，在鼻孔中閃爍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;ispeech&gt;你？你真的毅然決然地把自己的虔誠奉獻給了精神上的神嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>&lt;ispeech&gt;你做了，不是嗎？你給我們準備了什麼計劃，我們兩個聯盟？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「我曾甘願為貝拉斯效命。當他們以我的生命作為威脅時，便失去了我的忠誠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「俄撒斯殺死了我，毀了我的家園，吞噬了我所珍視的人的靈魂。我永遠不會原諒他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「神祇。我只相信他們。其餘的人不會得到我的忠誠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我們從殺死俄撒斯開始。這一次，我們要確保他永不超生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「我們要確保所有人都知道眾神的真相。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我們彙集力量和知識，直到能與他們在同一層面上分庭抗禮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>&lt;ispeech&gt;以肉體形式存在時，他其實是很脆弱的…...&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「嘿，立刻。我加入進來就是為了阻止俄撒斯，但如果你真打算殺了他，我們需要協商一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「我沒聽錯吧，靈視者？岡恩是收割者，而不是被收割者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>&lt;ispeech&gt;我很開心。而且很感興趣。真不知道我什麼時候竟變成吊車尾的一個了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>&lt;ispeech&gt;你說服了我。拿走遺物。讓我倆一起把地獄攪個天翻地覆。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>&lt;ispeech&gt;很有趣的提議。而且很有野心。&lt;/ispeech&gt;
+
+巨龍陷入了沉默，顯然是在考慮你說的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>&lt;ispeech&gt;真是…...缺乏想像力。幼稚得令人失望。基斯相信他們所選擇的，而不是真相。&lt;/ispeech&gt;
+
+巨龍粗暴的搖了搖它巨大的頭顱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「什麼？我一定是聽錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「這真的是我們的目的嗎，船長？我覺得奇怪的是…...被誤導了。」泰克胡揚起眉毛，審視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「瑪珈嵐是火之女神。我覺得她會帶著欣賞的眼光看其它神靈被灼燒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「你認為司坎不想看到眾神被滅嗎？他&lt;i&gt;討厭&lt;/i&gt;他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「假裝你知道沃艾珥想要什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>&lt;ispeech&gt;啊。這就解釋了你靈魂上的印記。我原以為它是自願接受的。有意思。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>巨龍考慮著你的提議，此時，寂靜籠罩著空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>&lt;ispeech&gt;你也不應該原諒這樣的背叛。&lt;/ispeech&gt;
+
+巨龍審視著你，伸長了脖子要將你看個透。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「好吧，靈視者。你在他的頭頂蓋了個房子，這不是他的錯。你不能指望太陽不升起來，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「只需要這樣做就能讓你露出你邪惡的一面嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「也不應該期待你這樣做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>&lt;ispeech&gt;你要我們的兩人聯盟採用什麼戰術對付眾神？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「我會盡力提供幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「我不是慈善家。我只是把壞的東西修好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「沒有我的幽靈朋友，我會感到孤單。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我提出了建議。要不要隨你的便。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>&lt;ispeech&gt;在我經歷的幾個世紀裡，我認識幾個靈視者，他們都很獨特，唯一的共同點是都具有瘋狂的洞察力。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>&lt;ispeech&gt;我仍然不相信。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>&lt;ispeech&gt;你可以把我加到你的隊伍中。&lt;/ispeech&gt;
+
+這個巨大的野獸發生哼聲，她裂開的嘴中溢出紫色的光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>野獸的嘴巴邊緣捲曲著，露出腐爛的牙齒，每個牙齒都比錐刺還長。她的笑聲在你腦中迴響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>&lt;ispeech&gt;你會修好我的，對嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>&lt;ispeech&gt;你逗我，小基斯。你不知道我上一次笑是什麼時候了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>&lt;ispeech&gt;我在你身上聞到一種味道。倒胃口的感情氾濫。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「我會把你從這個監獄中放出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「睿姆岡不想你在這裡，你也不想在這裡。看起來某些修復工作還是井井有條的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「或許，『修復』」這個詞說的不對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「這些靈魂只是個開始。你應該看看我的隊伍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「如果你讓我來，我會幫你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「我已經得到了一頭寵物巨龍。我在找一位隊友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>&lt;ispeech&gt;這種情況誰都不滿意，不是嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>&lt;ispeech&gt;很好。你可以拿走遺物。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>&lt;ispeech&gt;我會看著。而且會聽著。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>&lt;ispeech&gt;我沒有理由奪回它。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「我們要在它改變心意前離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「做得好，船長！和我一起，又會覺得你只是有一個漂亮臉蛋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「真了不起。我覺得暴力對抗幾乎是肯定的。很高興的是，我被證明是錯誤的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「你永遠不會為你的巨龍問題尋求更直接的解決方法，不是嗎？好，我尊重這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「我知道，伊希。放下吧。就現在。」
+
+麥婭指向地面，直到伊希薩不情願的打開他的魔爪，讓遺物落回到找到它的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「很好。我不希望與這個生物戰鬥。現在，讓我們&lt;i&gt;走吧&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「我承認我留下深刻印象。所以，呃，我們在這個地方的事都做完了嗎？我們可以離開嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「你知道我們在這呆了多久嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>這個野獸弓起背時，鼻孔張開，她的翅膀收回，一陣抽搐傳到翼尖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>&lt;ispeech&gt;數年。數十年。這不重要。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「試試幾個世紀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「我想已經有一段時間了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>&lt;ispeech&gt;所以我注意到了。&lt;/ispeech&gt;
+
+她的後爪在結了一層霜的地面上挖出一道道溝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>&lt;ispeech&gt;幾個世紀…...&lt;/ispeech&gt;
+
+巨龍四個爪子都落到地面上，她的頭微微彎下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>&lt;ispeech&gt;我希望是一個世紀，而不是幾個世紀。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「你的聲音聽起來很累。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「對不起，我提起了它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「你可能應該放棄。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「為了冰霜的緣故！你能至少&lt;i&gt;嘗試&lt;/i&gt;聽起來有說服力嗎？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>&lt;ispeech&gt;我不同意。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>&lt;ispeech&gt;聽你的聲音是個小個頭。像是可以吃的東西。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>&lt;ispeech&gt;木已成舟。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>&lt;ispeech&gt;和寒冬巨獸戰鬥嗎？可能是什麼程度的結局？&lt;/ispeech&gt;
+
+她對你拋媚眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「如果你真的這麼偉大、這麼強大，殺死一個小小的老神靈不應該太難。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「從這個地方離開？消耗他的精華？或者自己成為神靈？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「總比在這裡等著好，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>她的頭向下擺動著，一隻熾熱的眼睛向你臉上投去光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>&lt;ispeech&gt;你在嘲弄我嗎，小基斯？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「只是一點而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「完全不會。你這段時間一直在睿姆岡的家裡，而且他還不能殺死你，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「你瘋了嗎？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「那麼好吧。我希望你的玩笑物有所值，靈視者。」
+
+伊德溫的手從她的武器上拿開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「該死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「知道嗎，你可能會讓我先進入戒備狀態。」
+
+麥婭搖了搖頭，慢慢的伸手去夠槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「呀，靠，船長。」
+
+塞拉芬夠到了一件武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>莫珂一言不發的咯咯笑著，然後打了個嗝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>她憤怒的咆哮聲迴盪在你的胸口中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>&lt;ispeech&gt;這並不是說他怕我。仍然…...令人奇怪的是…&lt;/ispeech&gt;
+
+她的頭抬起來，一邊思考你的說話，一邊言不由衷地附和著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「就好像我沒到過這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「如果你需要幫助，我很樂意幫忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「萬物終會完結。包括睿姆岡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>&lt;ispeech&gt;不要以為我不知道你的話是什麼意思，小東西。&lt;/ispeech&gt;
+
+她發出長長的低吼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「如果是基斯創造了眾神，按理說，他們就可以被毀滅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>&lt;ispeech&gt;你要我吃了睿姆岡？讓我盡力把他從虛空中拽出來，就像從田里拽小母牛那樣？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>巨龍發出哼聲，紫色的光在她的鼻孔中閃爍。
+
+你不確定她是否被逗開心了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>&lt;ispeech&gt;有可能做到某件事並不意味著這就是件非常簡單的事。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>&lt;ispeech&gt;而且…...如果我要反對他，那現在就要行動，趁我還有這樣的實力。&lt;/ispeech&gt;
+
+巨龍直直的抬起她的頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「有什麼不好呢？他除了精華外，什麼都不是，對嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「他&lt;i&gt;是&lt;/i&gt;一頭野牛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>&lt;ispeech&gt;有可能做到某件事並不意味著這就是件非常簡單的事。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「確實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「我不知道我還能說什麼。或許你會贏，或許不會。但至少你嘗試了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>&lt;ispeech&gt;然而…...&lt;/ispeech&gt;
+
+她的頭擺動著，眼睛在沉思中略微黯淡下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「這並不容易，但在理論上，你可以吸走神靈的精華，把它分給你自己和你的遺物。如果你或者遺物都不能吸納，你就把它毀掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「這不是…...不可能的。」亞洛斯一邊思考著，一邊咀嚼著一個關節。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「現在，我都沒有遵循，但如果睿姆岡還沒有把你打倒，就表示他可能做不到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>&lt;ispeech&gt;是的，我聽到你的話了，小基斯。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「睿姆岡還沒有成功打敗巨龍，也沒有毀掉它的護符，這表明，它或許可以吸納神靈的力量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>&lt;ispeech&gt;就算是你也必須明白，不作為有時是最明智的做法。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>&lt;ispeech&gt;就算是你也必須明白，不作為有時是最明智的做法。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「你不能只坐在這裡，什麼也不做！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「想不到你只是個會哭的懦夫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[聳聳肩]「好自為之。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「不是所有人都以同一種節奏生活。你就從未想過在努亞堡平靜度過的那幾年，希望把一切都找回來嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>&lt;ispeech&gt;你不要刺激我，讓我忘乎所以。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>巨龍發出長長的低吼聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「你為什麼不放棄？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>她的頭不安定的扭動著，先斜著一隻眼看你，然後又用另一隻。在地上磨出嘎吱聲一段時間後，她將左後爪挖進冰裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>&lt;ispeech&gt;你問我為什麼不讓自己去死？知道靈界沒有任何東西在等你了，你就那麼渴望看到自己的結局嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>&lt;ispeech&gt;如果你這麼渴望，我很樂意引薦你。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「我們不渴望。一絲一毫都沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「看看你自己。你已經死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「有道理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>巨龍虎視眈眈的盯著你，她放鬆下來，爪子慢慢的從冰面收回。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>&lt;ispeech&gt;不，&lt;/ispeech&gt;她發出嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>&lt;ispeech&gt;只要意志還在，生命也會延續！&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「這不是生命！你拚命的堅持無盡的永恆，做徒勞的抗爭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>巨龍的頭迅速回縮，像是被撞擊了一樣後退，她怒吼著，她的咆哮聲震懾著你的肺部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「對不起。現在不需要這個了。我沒法回答你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>[Specified 0]斜眼看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>她又一次放下她的鼻子，嘴巴捲縮回來，露出褐色的尖牙。她的咆哮聲讓你的骨頭都在振動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>&lt;ispeech&gt;那麼告訴我，小基斯，你要我做什麼。以你的智慧，對我有什麼要求？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>&lt;ispeech&gt;那你就沒有目的了！&lt;/ispeech&gt;
+
+巨龍又怒吼了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「哦，神哪，哦，神哪，哦，神哪。」
+
+他腳下的冰開始破碎，而神嗣蹣跚著向後退。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「造成麻煩的一直都是這些發光的東西，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>她瞪著你，眼睛像一對陰燃的煤球。你感覺她神秘的感官在你身上游移，似乎將你看透了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>&lt;ispeech&gt;你說已經過了幾個世紀。我告訴你，感覺是如此的漫長。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「那休息吧。你應得的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>&lt;ispeech&gt;我喜歡他勝過喜歡你，小基斯。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>&lt;ispeech&gt;我在進入靈界的那一刻已經死了。自那以後，一切都是...…徒勞的。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「這樣很公平。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「你只是不太瞭解他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>瓦特尼爾歎了口聲，搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>&lt;ispeech&gt;我很累...…很累。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「一個悲劇，準確說的話，是一次評判。我不禁想知道我們還能做些什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「不知怎麼的，這個結局不會讓人感到快樂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「我…...是的。做得好。」我們繼續吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「我們這裡有一個生物應該學會原諒自己。把那件事解決了，你就可以問心無愧的繼續前行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「我想我曾經做過這個噩夢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「我們也死了嗎？按你的邏輯？…...我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>&lt;ispeech&gt;你永遠要做的事情是什麼？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「去各個地方探索。學習一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「我&lt;i&gt;不會&lt;/i&gt;做什麼？永遠很長，可以去經歷很多事情。還有人。還有地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「竭誠為你服務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「不管我怎麼想，骷髏臉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「我不知道，但我有的是時間查出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>巨龍發出哼哼聲，然後粗暴地搖了搖頭。幾乎讓人覺得她在咯咯笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>巨龍捲起尾巴，然後猛的一下拍打她身後的地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>巨龍發出哼哼聲，然後粗暴地搖了搖頭。幾乎讓人覺得她在咯咯笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>巨龍發出哼哼聲，然後粗暴地搖了搖頭。幾乎讓人覺得她在咯咯笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>巨龍發出哼哼聲，然後粗暴地搖了搖頭。幾乎讓人覺得她在咯咯笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>&lt;ispeech&gt;特別明智的回答，小基斯。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「好吧……我—我想有很多東西要學習。」
+
+亞洛斯快速移開視線。他的臉一下紅到了耳根。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>「不用在意我，船長。我只是好奇你用這個要去哪裡。」
+
+麥婭拂開她的手掌，後退一步去觀察。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>「船長，你可能先前跟我說過。我並不是完全沒有考慮過可能性。」泰克胡瞇著眼看向巨龍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>「好吧，地獄，靈視者。我們都來假裝我不在這。」
+
+裘荻把手放在臀部，吹出一口氣，把一縷縷的頭髮吹到空中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>&lt;ispeech&gt;失望，但並不意外。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>巨龍考慮著你的提議，此時，寂靜籠罩著空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>&lt;ispeech&gt;你比我想像的更加有趣，小魔法師。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>&lt;ispeech&gt;你真是聰明，小基斯。可你夠聰明嗎？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>&lt;ispeech&gt;很好。你可以拿走遺物。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>&lt;ispeech&gt;我會看著。而且會聽著。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>&lt;ispeech&gt;或許你終將能證明自己的價值。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>&lt;ispeech&gt;有人會認為你更渴望死亡，而不是永恆的生命。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「好吧，沒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「我想聊聊別的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>這個巨大的爬行動物將頭伸向一邊，眼睛盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

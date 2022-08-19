@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_reef_wrecked_merchant_ship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你們駛過一片暗礁時，[Specified 3]指著岸邊的方向叫了起來。那裡有一艘船，在狹窄的淺灘上擱了淺，船身隨著波浪的擊打來回搖擺著。
+
+船桅上掛著一面藍色的旗子，上面畫著一輪新月沉入海浪之中。
+
+船員們聚集在一起，興奮地嘀咕起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「把小艇準備好，我們準備爬上去看看了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「繼續我們自己的航線。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>船沉了一下，[SkillCheck 0]尖叫著摔了下去，落入了滿是珊瑚尖刺的水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>人群一邊嘟囔著，一邊散去了。[Specified 0]用腳跺著甲板，對著遠處的[Specified 1]和[Specified 2]怒目而視。
+
+「說不定裡面還有好東西呢，看一眼又沒什麼壞處。」[Specified 0]聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你抓緊了船緣。
+
+船晃完之後，你繼續往上爬，安全地爬到了甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>就在這時，一陣大浪打在了那艘船上，把它重重地摔在了岩石上。「卡嚓」一聲巨響，船體被撞成了碎片。
+
+[Specified 0]吃驚地張開了嘴巴。
+
+[Specified 2]轉過了半個身子。「所以說，[Player Name]畢竟還是船長啊。」
+
+[Specified 0]沉下了臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>這艘船被遺棄了，你甚至連屍體都沒發現。就算這艘船上原本放著小艇，它如今也不見了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0]衝到了船欄旁邊。「船長，那是一艘巡禮者的船！不知道裡面會裝著什麼樣的好東西。」
+
+[Specified 1]哼了一聲。「巡禮者的船裡只會裝些象徵性的破爛，一文不值的小玩意而已。不，那是一艘走私船，走私船通常都會被這樣偽裝起來。」
+
+[Specified 2]向水裡啐了一口。「那這個偽裝可真是蠢到家了。巡禮者只會去內陸附近的地方，這肯定是個陷阱。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>但你的力量不足，船向下沉了一下 ，你摔到了旁邊。你沒有抓住船緣，落入了水中。一陣尖銳的刺痛傳遍了你的身體，你游回了淺灘上。你的身上被刺出了深深的一道傷口，鮮血流到了石頭上。你從肋骨之間拔出了一條長長的珊瑚刺，把它丟進了水裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你用彎曲的木板和籐壺作為支撐點，朝船上爬了過去。正當你馬上就要爬到甲板上的時候，一陣大浪打了過來。船身搖了起來，你聽到下面某個地方傳來了木板破碎的聲音。你的腿從下面滑了出去，你的手指緊緊地摳著潮濕的木頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你將箱子推到一旁，發現下面有一扇暗門，裡面藏著一個金光滿溢的小箱子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>但你注意到了甲板上的劃痕，似乎垃圾箱在同個地方被反覆移動過。
+
+你將它推到一旁，發現下面有一扇暗門，裡面藏著一個金光滿溢的小箱子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你把找到的東西放在了小艇上，劃回了船上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 4]環顧四周，之後推走了垃圾箱……然後發現下面有一扇暗門，裡面藏著一個金光滿溢的小箱子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「巡禮者是怎麼回事，[Specified 1]？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 1]帶著沉思的目光，看著船隻的殘骸。「無意冒犯，船長。那些人是昂德拉的僕人，他們負責收集人們不要的東西，將它們託付給大海。巡禮者的船上裝著的，一般都是沒人想要的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>船隻的殘骸飄在水上，每次被海浪沖擊的時候，都會搖晃一下。吃水線附近的船體已經被撞爛，不成樣子。你很懷疑這條船能不能撐到明天。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你們怎麼想？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「這艘船已經完蛋了，船長。已經沒什麼能做的了，就讓大海拿走屬於它的東西吧。」
+
+麥婭聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「應該不是陷阱，船長。這艘船已經稀巴爛了，不可能是陷阱什麼的鬼東西。而且確實是太破了，可能也沒法打撈什麼鬼東西了。」塞拉芬看著沉船，撓了撓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「巡禮者的船確實很少見。要我說，我從來沒聽說過哪艘巡禮者的船失事了……」
+
+泰克胡拉著頭髮，沉思著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>搖了搖頭，[Specified 5]什麼都沒說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你划著小船來到了暗礁旁邊。小船被海浪擊打著，船底時不時地會被下面尖銳的礁石劃上幾下。
+
+你把小船拴在了殘骸旁邊突出來的珊瑚礁上。甲板搖晃得很厲害，而且上面到處都是海水，非常滑，但你還是在漂浮的木板之間找到了可以踏腳的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[再次試圖爬上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[回自己船上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你決定放棄危機四伏的船骸，率領船員們返回了船上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>儘管雙臂酸痛，體側新傷未癒，你還是成功爬回了甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[搜索物資。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[搜索走私者的證據。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你找到了幾箱補給，還有一些亂七八糟的小東西——手帕、念珠、壞掉的貝雕以及一個小孩子玩的人偶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[回自己船上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你回想起[Specified 1]說的話，不禁懷疑這到底是不是一艘走私者的船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Specified 4]皺著眉頭指出甲板上一系列摩擦的痕跡。似乎垃圾箱在同個地方被反覆移動過。
+
+你將它推到一旁，發現下面有一扇陷阱門。裡面藏著一個金光滿溢的小箱子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>好像沒什麼其他值錢的東西了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 4]吹起口哨。「到底是走私者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[SkillCheck 0]爬出水面登上小船，身體一側有道極深的傷口。他抬頭看向你，示意你繼續。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[SkillCheck 0]爬出水面登上小船，身體一側有道極深的傷口。她抬頭看向你，示意你繼續。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[爬上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>亞洛斯摸摸下巴。「我聽說有些巡禮者私下裡還幹著走私的勾當。
+
+「我覺得他們很可能在運送什麼寶貝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我能用鐮刀輕而易舉地斬殺基斯。也許斬殺走私者更容易一些。」
+
+裘荻舔了舔下嘴唇，審視著那艘似乎擱淺的船隻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你心裡也不太確定，不過只有你能做出回答。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「火炮上膛。炮手們得來點鍛煉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「啥？我們可壓根沒有炮彈。」
+
+[Specified 2]咳嗽道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 2]搖搖頭歎了口氣。「或者我們可以把東西擊沉到海裡去。」
+
+[Specified 1]點點頭。「遵命，船長。」
+
+[Specified 0]大聲吼道，船員們開始準備甲板下方的火炮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「先生。」</DefaultText>
+      <FemaleText>「女士。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你的炮手們證明轟擊立定靶還是小菜一碟。在你的注視下，目標打著卷翻滾起來，然後沉沒在波浪之間。
+
+甲板下方的船員們一齊跺腳歡呼著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>你的炮手們轟擊立定靶也完全不行，炮彈直接遠遠飛離了目標。
+
+船員們從觀察口退了回來。
+
+[Specified 0]看向你。「再來一次，船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「再來一輪齊射！這次別再射歪了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>你的炮手們證明轟擊立定靶還是小菜一碟。在你的注視下，目標打著卷翻滾起來，然後沉沒在波浪之間。
+
+甲板下方的船員們一齊跺腳歡呼著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>火炮再次發射……又再次錯失目標。
+
+[Specified 0]歎了口氣。「有何吩咐？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「把那該死的船炸沉！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>你的炮手們證明轟擊立定靶還是小菜一碟。在你的注視下，目標打著卷翻滾起來，然後沉沒在波浪之間。
+
+甲板下方的船員們一齊跺腳歡呼著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「不。我們離開這。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>硬幣之間掩藏著一個妖精的小玩偶。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_witch_cave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在沼澤深處，你發現一個被葡萄籐遮住的洞穴入口。沼澤特有的腐爛氣味從洞穴中飄出來，但是還有一種奇怪的煉丹氣味也在向外飄散。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你返回被懸垂的葡萄籐遮蔽的洞穴。腐爛味和煉丹味仍然很濃烈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>當你將葡萄籐掃到一邊並進入洞穴時，你依稀聽到洞穴深處傳來笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

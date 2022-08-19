@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_braziers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這些裝飾性銅器看起來是火盆。金屬盆底盛有煤灰。在一個有著金銀雕絲工藝的柵板底部，你看到有新鮮的煤塊。
+
+看來近期有人點燃過這些火盆。要是有工具的話，你也可以點燃火盆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[用火把點燃火盆。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[用你的熾烈頭髮點燃火焰。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你將火焰伸向火盆表面，火盆瞬間發出一陣呼嘯聲。火焰向下疾竄，進入了一條連通兩個火盆的狹窄通道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>這些裝飾性銅器看起來是火盆。金屬盆底盛有煤灰。在一個有著金銀雕絲工藝的柵板底部，你看到有新鮮的煤塊。
+
+看來近期有人點燃過這些火盆。要是有工具的話，你也可以點燃火盆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[用火把點燃火盆。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[用你的熾烈頭髮點燃火焰。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>在沉寂了幾秒之後，火盆上突然串出一道火焰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[使用燧石與火絨。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[使用燧石與火絨。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

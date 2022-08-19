@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\16_wahaki_island\16_cv_wahaki_chanter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一個肚子圓鼓鼓的男性站在一群凶悍的戰士面前，這群人雙拳緊握，雙眉緊鎖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你有何需要？」阿帕洛朝你友善地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「放他過去！若賽爾說了算。」</DefaultText>
+      <FemaleText>「放她過去！若賽爾說了算。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「如果我們的馬塔魯面對來客一副凶神惡煞的態度，那我們和粗魯的外來者又有什麼分別？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「如果你這麼偏袒外來者，那就別替這傢伙說話，讓他自己說！」她目不轉睛地盯著你。</DefaultText>
+      <FemaleText>「如果你這麼偏袒外來者，那就別替這傢伙說話，讓她自己說！」她目不轉睛地盯著你。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「給我個機會證明自己有資格受到你們的熱情款待。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我來不是為了和你們大動干戈。你們主動挑起爭端是十分不明智的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「跟我動手你們必死無疑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[攻擊]「這個高原只有一個凶神惡煞，他就站在你們面前。」</DefaultText>
+      <FemaleText>[攻擊]「這個高原只有一個凶神惡煞，她就站在你們面前。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[攻擊]「你們這副架勢經讓我很不爽了，我們不如直入主題吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「阿帕洛，每次都讓我說中，我都厭了。」戰士們面露凶光，發起了進攻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「這把矛是給我們的禮物嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「至少我們現在知道你是什麼樣的貨色了。」她不悅地示意戰士們退下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我是個靈視者。我來到此地是眾神的旨意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「太好了！你要奪走布拉波本季的第一個吉兆嗎？」阿帕洛臉上慢慢露出笑容。他會心地瞥了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「如果外來者敢耍什麼花招，我死也要拉你當墊背。」
+
+她朝阿帕洛噘起嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「口蜜腹劍的人你並不是第一個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>她凶巴巴地看著你，但短矛猶豫不決地抖動著</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「你和若賽爾是一對嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「當若賽爾春心蕩漾想我共處一室時，我們就真的這麼做了，而且做得充滿激情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「有人認為我影響她的決斷，但他們錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「你和若賽爾結婚了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>阿帕洛困惑地看著你，然後哈哈大笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「外來者就喜歡搞山盟海誓這一套！胡亞納人也會結合，但我們不需要證件或見證人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「我估計他連這個詞是啥意思都不知道。」泰克胡伸手摀住雙眼，難堪地露齒而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「我知道你們外來者喜歡盟誓。」他朝你友善地一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「外來者必須離開。我們絕不會把奧里奧柯基賣給謊話連篇的外來者。」她揮舞手中的矛，指了指你的方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「看來我們遇到問題了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「這個問題就是&lt;i&gt;你&lt;/i&gt;。我們在家中從不留下髒腳印。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「閉嘴！」她凶巴巴地朝艾德爾吼道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[慢慢後退。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「站著別動，不然我立刻宰了你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「若賽爾絕不會允許那種事發生！你們對自己蘭迦這麼沒有信心嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「但願我是錯的，這樣對大家都好。」她朝召集來的戰士們點點頭，示意他們散去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「我才剛剛到這個地方。你們都沒給我製造麻煩的機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「對，我們也不會給你這樣的機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「瓦哈奇人為何對他們的土地有如此強烈的保護欲？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「我們替奧涅卡莎保衛一切尚未被商行偷走的土地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「如果各個部落忘記過去以及恩加蒂的契約，那群島就會陷落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「為什麼對過去如此執著？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「問吧。我很樂意結交新朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「災難席捲亡焰列島時，我們失去了很多屬於自己的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「抱歉，我不該繼續說下去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「那個地方就是烏凱佐。在那裡，胡亞納人能重新找回自我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「群島中有一處地方，我們常去那裡……」他咬了咬下嘴唇，不再說下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「你對烏凱佐怎麼看？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「烏凱佐是真實存在的。我發自內心地堅信這一點。」他慢慢點頭，凝視著遠方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「我不能和外來者談論烏凱佐的事。那不是我們的習俗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「那裡是先王們的安息之地。他們的陵寢上雕刻著我們被遺忘的歷史。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「烏凱佐是我們的家園。我們命中注定是要回家的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「外來者出現時，你們通常都會有這麼大的分歧嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「常常有外來者帶著大炮、漁網和火炬出現。他們不是來和我們談的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「瓦哈奇人的待客之禮在哪兒？」他的問題在人群中引起一波不安的情緒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「我代表還記得禮數的同胞，歡迎你來到奧里奧柯基。」他歎了口氣，朝戰士們搖了搖頭，然後重新看向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「關於若賽爾，有什麼可以告訴我的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「她是我們的蘭迦，也是我們部落的力量所在。」他直立起身子，面帶自豪的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「我每次見到她，她嘴裡都塞滿了柯基果。即使在戰場上，她身上都掛著一串水果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「若賽爾是個堅定熱誠、胃口巨大的女人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「是的。環境迫使我們變得……有些粗暴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>人群中領頭的一位女性手握短矛走上前來，人群隨即停止了緊張的討論。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「若賽爾提到你的姐妹被困在了鉤刺島。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「這麼說你要找的是巴烏哈和抓她的人囉？願亞彌拉保佑你一路順風。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「巴烏哈能從俄撒斯的魂珀腳上扯下一根大腳趾頭，但我還是希望她能回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「以前有一次我開玩笑地叫她膽小鬼，結果她抓起一隻球殼蟹就朝我的後腦扔來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「願我姐妹順利地進入坦格羅亞之口。」阿帕洛閉上眼睛搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「我的姐妹滿面春風地回來了，還說著我們的名字！幹得好，外來者。」阿帕洛拍了拍你的胳膊，點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「只有帥氣的魚能留下。」她朝泰克胡晃了晃矛尖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>他嚥了口唾沫，舉起手，無聲地和對方打招呼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「恩加蒂的選民是我的同伴。他會擔保我說的是實話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「有這種事？我是說……對，我會的。」泰克胡低下頭，摸了下自己的額頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「傷疤還在，我感到……很沒面子。」他難為情地揉了揉後腦，聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「恩加蒂的契約？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「恩加蒂曾吩咐她的信徒保護好群島、部落和光魂珀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「作為交換，她賜予我們給她領地塑形的力量。如果我們無法履行職責，那胡亞納人就會失去與生俱來的權利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「瓦哈奇人牢記著這一點。而卡罕加人……卻忘記了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>阿帕洛扭頭看向泰克胡時，臉上的愉悅被憂愁取代。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「一部分人還記得。對待記憶的方式是我們個人的選擇。」泰克胡移開目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「保護好群島、部落和光魂珀的契約？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「嗯，沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「當權者的責任太重，我肩負不起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「外來者居然在這裡？為了若賽爾！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

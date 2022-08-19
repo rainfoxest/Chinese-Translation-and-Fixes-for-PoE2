@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_cv_berath_high_priest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>201</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一個生病的海裔牧師充滿好奇地向你致意。他用袖子掩住嘴咳嗽，袖子上滿是銀白色的斑點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「有人來了，心中滿懷神聖的疑問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「一路順利，對吧？下面可能會很危險。我在書上讀到過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「好的。我會盡我所能回答你。儘管問吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我會把我知道的都告訴你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>他的眼睛瞪大了，步履蹣跚地走上前來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「到祭壇這裡來。到裡面來。這座神殿歡迎所有朝拜者——尤其是你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我只希望你暫時不要出聲。把問題留待我們向貝拉斯和理庫胡表達敬意之後再說。讓我們來祈禱吧。「
+
+他低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我拿到了刻有耶蘇亞頌文的石碑。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「關於耶蘇亞和這座神殿下方的墓穴，我有些疑問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我在尋找耶蘇亞的墳墓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「跟我說說這些石碑上面的銘文吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「這祭壇很不錯。這種神殿還有什麼其它了不起的地方嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「快給我。」石碑太過沉重，牧師拿起它們時胳膊直發抖。當他放下石碑後，他用手撫過上面銘刻的文字。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你不愧為貝拉斯的勇士。但你不會與世長辭。使命仍在呼喚你的名字。
+
+「暫且將它擱置一邊吧。這已是上個世代的遺物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「禮拜。介紹該如何為儀式做準備。時間與方式。布道。還有一些歷史事件。」他的手指謹慎地觸摸著石碑，那表面和他的皮膚一樣凹凸不平。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「這一切都是數百年來我們在工作中搜集來的知識。現在，我得拋下這一切。為了下一個信徒。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>他說到一半哽咽了，向前彎腰一陣猛咳，直到滿臉通紅。他笨拙地將一個山羊皮酒瓶舉到嘴邊開始喝，直到銀色的液體從嘴邊滴落到下巴上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「它們被稱作懸墓，是上古時期胡亞納酋長的墓地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「裡面含有水銀。」他露出染成灰色的牙齒衝你一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「時間越來越緊了。在結束之前，還有一件事。這件事只有被貝拉斯觸碰過的人才能辦到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你覬覦自己得不到的東西，得不到是因為你聽不到貝拉斯的聲音。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「貝拉斯和我是老相識了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「告訴我你需要什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「沒錯。我已經沒有希望了，但你有。他拽了拽脖子上的鎖鏈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我知道。」他拽了拽脖子上的鎖鏈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「有一份神聖的經文。名為《耶蘇亞頌文》。此文在神廟地下墓穴中埋藏了幾百年，就埋在他勇士的身邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我需要這份經文。當然，墓穴只為死者和能聽見貝拉斯聲音的人開放。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我日夜祈禱了幾十年。現在你終於來了，時機剛剛好。這意味著是貝拉斯派你來幫助我取得成功的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「耶蘇亞是否與他從露西亞·利文手中奪來的武器葬在一起？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「耶蘇亞有什麼故事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我如何進入神廟地下的墓穴？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我想多瞭解些關於懸墓的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我暫時沒什麼想知道的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我不知道。但我倒是聽說他死在了一把被偷來的劍下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我還讀到那把長劍是對貝拉斯的冒犯。耶蘇亞想要守護那把劍。用他的靈魂守護到永遠。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「他不是胡亞納人，也不是死神嗣。而是貝拉斯的高階祭司。」
+
+「耶蘇亞是聚鹿人，兩百年前，他是一名追捕不死族的獵人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我還在一塊石板上讀到他駛向亡焰列島尋找一件貝拉斯深惡痛絕的武器。據說這把武器裡蘊含著無比可怕的力量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「因為我一直沒能收集到此頌文。但那其中記載著關於我死亡的最後線索。它是我最有希望成功的機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你走下方的通道出去。不過墓穴的門封得死死的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「前任牧師和所有死神嗣可以將門打開。門需要與貝拉斯的聲音產生共鳴的螺旋飾環。但我到現在為止都沒遇到過死神嗣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>牧師低下頭。他從衣服底下解開一條雕刻成鰻魚外形的石製飾環。飾環的一整條鎖鏈都在震動。他將其舉得靠你越近，震動越強烈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你是我最大的希望，也許是唯一的希望。拿上飾環——它能開啟墓穴。
+
+「請幫我找到耶蘇亞的頌詞，我願將貝拉斯的秘密傾囊相授。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「它們源自已被遺忘的時間，當時山中還只有胡亞納人居住。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「它們被嚴加看守，因為並非所有屬於貝拉斯的死者在墓穴裡都能安息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「好的。但有些事你必須知道，或者說我必須告訴你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>牧師低下頭。他從衣服底下解開一條雕刻成鰻魚外形的石製飾環。飾環的一整條鎖鏈都在震動。他將其舉得靠你越近，震動越強烈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「你是我最大的希望，也許是唯一的希望。拿上飾環——它能開啟墓穴。
+
+「請幫我找到耶蘇亞的頌詞，我願將貝拉斯的秘密傾囊相授。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「你知道要如何才能抵達懸墓內部嗎？要如何活著抵達那裡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你與貝拉斯關係密切，也許如果我幫助你的話……」
+
+他思緒一轉，沒有說完這句話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「終於，貝拉斯派來了一位使者。真是令人望眼欲穿，對吧？」
+
+他發出幾聲尖利的喘息聲，猛烈地咳嗽著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「貝拉斯今日賜福與我了。」他猛烈地喘息著吐出這一串字。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>帕蕾吉娜金色眼睛睥睨著發出奉承之言的牧師，但她最終沒有加以評價。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[低頭致意。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[雙臂交叉在胸前看著他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「掌管生與死之神，包羅世間萬象的吞噬者，請聽取我的祈禱，我的聲音，我的歌頌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我請求你們，科赫帕與坦格羅亞，讓這局軀殼塵歸塵，土歸土。淨化我的靈魂，準備踏入下個輪迴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[繼續低著頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[不耐煩地跺腳。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「……而在此之前，感謝貝拉斯指引我。願我所見的啟示成真。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>牧師清了清嗓子，迅速結束了祈禱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「生而至死，死而復生，乃是福祉。以上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>牧師熱烈地點點頭，讓你的話作為祈禱的結語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「多謝，但我還是算了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>牧師猛地昂起頭。他瞪大了眼睛，但是點點頭——與此同時藏在那髒兮兮的袖子後迅速低聲念出禱詞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「那個塵歸塵，土歸土是怎麼回事……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「生的終結——我已時日無多。我忙碌了幾個星期好做準備。做準備死去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我還沒有到訪過那裡，但是死後我會去的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「但在此之前，我必須給我的學徒留下指導。循環往復中的下一人，被選中引領眾生。」他的手撫過地上堆疊著的石板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你快死了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「我們來討論點其他事吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「幾個月來我日漸衰弱，一步步走向死亡確實叫人不好受。有那麼幾次，我考慮過要不要暫停一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我很樂意聆聽你的話。我也還想說幾句。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「為什麼你想在不久後死去？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「你這是在自殺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「也許你也看到了，我並不是死神嗣。貝拉斯並沒有在我這代人中的哪一個身上降下這等恩典。也許下一代也不會有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「像我這樣殘缺的信使無法打開墓穴。所以我最好的辦法就是死去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「你是不是提到墓穴裡有不死族……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「靈魂沒有離開的死者。他們仍在墓中踟躕。他們曾是被貝拉斯選中之人。」
+
+卡蘇摩挲著衣物下面的飾環。他的薄嘴唇咧開，顫抖著發出一聲虛弱的低吼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「這座神殿不是屬於貝拉斯嗎？理庫胡、科赫帕、坦格羅亞又是誰呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「是同一物。你稱之為貝拉斯。我們稱之為理庫胡。我們崇拜孿生鰻魚。它們象徵生前與死後世界的聯結，象徵生死相依。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「感覺好多了。」他喘息著，用手掌擦了擦下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「你剛剛喝的是什麼液體？成分是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「那玩意兒會要你的命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「原來如此，那你再喝一口吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>他搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>他搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「你覬覦墓穴裡的一樣你得不到的東西，得不到是因為你聽不到貝拉斯的聲音。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「如果你讓我進入懸墓，我就替你把頌文取回來」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「你為何需要耶蘇亞的頌文？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「啊。好吧，那我就去找找吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「我日夜祈禱了幾十年。現在你終於來了，時機剛剛好。這意味著是貝拉斯派你來幫助我取得成功的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「有些人不是生來就得到了祝福。有時候，他們需要為祝福死去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「前任牧師和所有死神嗣可以將門打開。門需要與貝拉斯的聲音產生共鳴的螺旋飾環。但我到現在為止都沒遇到過死神嗣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「耶蘇亞為了得到它而拚命戰鬥。他最終得到了這把劍，但受了重傷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>他說到一半哽咽了，向前彎腰一陣猛咳，直到滿臉通紅。他笨拙地將一個山羊皮酒瓶舉到嘴邊開始喝，直到銀色的液體從嘴邊滴落到下巴上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>他拿出一個山羊皮的沙漏，打開塞子，將裡面銀色的沙子倒出一半。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「請記住，即使我不在了，這裡也永遠歡迎你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>牧師將手掌壓在胸前。他仔細打量著你的臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>他失望地搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「飾環發生了共鳴，但很微弱。你可以開啟封印進入，但我覺得你會死在裡面。到時候我也會失去良機。連你的屍骨都找不回來。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「困境不會將我打垮。我向你保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「承載貝拉斯鐘聲的基斯很罕見。這可能是你得到的唯一機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[用眼神壓制他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我能照顧好自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「或許你比外表看上去強。跟我一樣。我認為這是個好兆頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「我的時日無多了。你說得有道理。」他歎了口氣，一副猶豫不決的樣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>時間在沉默中一分一秒地過去，卡蘇疲憊地歎了口氣。他一副猶豫不決的樣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>他鬆開了緊握著飾環的手，無力地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「生乃科赫帕，死乃坦格羅亞。他們不知飽足，吞噬世間萬物，借此豐實自身。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「現在世間一切都經過他們的腸道。一件事物抵達末端時，便進入另一條鰻魚的大口，在天國和地獄之間往返。如此往復。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「我最好別放過這個機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「你知道耶蘇亞已經成為一名亡者守衛了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「聽說了。但出乎我的意料。」
+
+「真的嗎？耶蘇亞是一名亡者守衛？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「你想成為一名亡者守衛？所以你才在準備自殺儀式？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「曾是。耶蘇亞曾是一名亡者守衛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「他現在已經……不再是了嗎？別告訴我你殺了他。別。別說出口。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「是的……這是等待著我的命運。到時候，我就能進入神廟地下的墓穴了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「一名變成亡者守衛的牧師。」這位牧師恍惚地歎了口氣，摩擦著袖子末端的銀色污漬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「我終將成為貝拉斯的選民。接受祂的賜福。直到永遠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我承認，你的想法很有野心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「為什麼要這麼做？你活著指引眾人肯定對貝拉斯更有價值啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>這位牧師側臉朝你無力地一笑，看了一眼沙漏。然後打開山羊皮酒瓶的塞子喝了一大口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「價值和資格不是一回事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「靈魂沒有離開的死者。他們仍在墓中踟躕。他們是貝拉斯的選民。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「好吧，我不說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[撒謊]「不是我殺的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「感謝坦格羅亞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「感謝坦格羅亞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「你想要頌文。他不讓我拿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「科赫帕在上……早知如此……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「你不想知道我是如何令他粉身碎骨的嗎？不想知道我是怎麼把他的頭骨從一節一節的脊椎上扯下來的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>這位牧師嚇得臉色煞白。他搖晃著身體，不禁發出一聲喪失親友的悲歎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「不，不行。我現在不能想這件事。我必須把注意力集中在未來的日子，以及準備儀式上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「那好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>他做了幾次深呼吸冷靜了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「等我的侍僧把我的心臟從胸膛中挖出後我們再談吧。切割與禱文會起作用的。」
+
+他抬起頭閉上眼，彷彿已經能聽到禱文了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「你瞧著吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「無聲的祈禱？頌歌在哪兒呢？你是從瓦利亞學到這套的嗎？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「我再次請求你，在祈禱期間保持安靜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「哼，我是個極其安靜的祈禱者。因為我&lt;i&gt;不&lt;/i&gt;祈禱。事半功倍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「請表現出尊重，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「真的嗎？假如這件事不這麼可悲的話，還挺滑稽的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>他朝你眨了眨睜大的眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「我們得帶這傢伙去逛一回窯子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「嗯哼。祝你好運。但願我們不會在下面遇到你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「只有偉大的鰻魚能欣賞『為死而生』這個矛盾的美。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「我並不傻，但連最好的部分都沒了，為何還留下呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「願你的神憐憫你的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「我認得路，但是……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「我想進入耶蘇亞之墓。你也注意到我的飾環了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我的鰻魚螺旋飾環一直響個不停。這個飾環正在你的聲音共鳴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「我在想，也許我們能互相幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「到祭壇這裡來。到裡面來。這座神殿歡迎所有朝拜者——尤其是你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>牧師會意地盯著你胸口，露出熱情的微笑。他雙手顫抖，在自己脖頸四周摸索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「天啊，來者是世間罕有的神的使者嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「你覺得這是個好主意嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>他的眼睛閃著狂熱的光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「《耶蘇亞頌文》已經在我手裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「飾環發生了共鳴，但很微弱。你可以開啟封印進入，但我覺得你會死在裡面。到時候我也會失去良機。連你的屍骨都找不回來。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「可我已經穿越了懸墓。現在我還活生生地站在你面前。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「真的嗎？你——」他驚訝地一口氣沒喘過來，引發了一陣咳嗽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「《耶蘇亞頌文》已經在我手裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「我拿到了刻有耶蘇亞頌文的石碑。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「真的嗎？」他驚訝地眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>牧師一臉狂熱的表情。他越說聲音越大，直到喘不過氣來，緊接著就是一陣咳嗽，咳得前仰後合。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「你與貝拉斯關係密切，也許如果我幫助你的話……」
+
+他思緒一轉，沒有說完這句話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>他拿出一個山羊皮的沙漏，打開塞子，將裡面銀色的沙子倒出一半。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「請記住，即使我不在了，這裡也永遠歡迎你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「儀式的準備工作進行順利。用不了多久了。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「在寺廟建立前就有這些碑文了——那時還沒有涅克塔卡或是女王。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「在神殿下方的山巒深處，坐落著一座迷宮般的墓穴。我在書上讀到過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「理庫胡，貝拉斯，我的神與女神，永無止境互相吞噬的兩尾鰻魚。新生之物，將到來之物，還有——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「嗯。在正確的……逼迫下……這是可以辦到的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「我的鰻魚螺旋飾環一直響個不停。這個飾環正在你的聲音共鳴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「我的鰻魚螺旋飾環一直響個不停。這個飾環正在你的聲音共鳴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「他們吞噬世間存在的一切後，接著開始設法吞噬彼此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「我會被挖出心臟而死。現在還不是時候而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「是的，我很確定。是這樣，我得將自己準備好進行儀式。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「現在還不行。我得隔一段時間再喝。不能死得太早。要等儀式準備完畢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「貝拉斯保住了他的性命。直到他來到神廟的墓穴。」
+
+「他的勇士們為他寫下了頌文。後來，他們葬身在了墓穴裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「你確定……只需要……逼迫？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「還有比用生命獻祭更好的方式向貝拉斯懇求這一殊榮嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「我認為死亡的痛苦肯定是其中的一部分。剩下就要看獻祭是否誠心了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「這麼做真的值得嗎？耶蘇亞都已經不是亡者守衛了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「你的葬禮你說了算。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「你還是別這麼干為好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「現在回頭已經太遲了。我橫豎都是死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>他將手按到他胸口中央，撫摸著他衣物下方的物件。隨後他抬起手，露出虛弱的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「至福與歡愉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「吸收我的全部奉獻吧。吞噬我的悲傷吧——即便是最微小的增長——如此一般我便可在明天早晨被吐出。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「這些軀體由貝拉斯最好的勇士守衛。永遠在墓穴中漫步。除此之外，貝拉斯親自封上了通往裡面的道路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「直到你出現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「並非人人都能活著逃離懸墓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>他睜大眼睛，手開始顫抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「沒錯。我已經沒有希望了，但你有。他拽了拽脖子上的鎖鏈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>他用沾著銀色污漬的袖口擦去額頭的汗珠，然後停下了動作，一邊考慮你的話，一邊轉著眼珠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>他朝著披著長袍的手咳了幾聲，掩飾著如釋重負的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>[低頭致意。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

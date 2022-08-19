@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_location_burial_site</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你遇到了一處古代天葬場。一塊巨大的石板上散落著古老的基斯骸骨與各種大小的罈子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[搜索該地區。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[繼續搜索該地區。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你花了幾個小時，在埋葬地中搜索……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>……你沒有找到任何值錢的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>……你在骸骨周圍找到一些祭祀錢幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>……你在骸骨旁找到了一把武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>……你在一個小皮包裡面找到了幾塊常見寶石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>……你找到了一份發黃的卷軸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>……你找到了堆在祭品裡的一枚結界石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>……你找到了一份乾草包裹著的漂亮飾品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>……你找到了一些稀有寶石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>……你找到了一塊內部閃爍著柔和光芒的奇怪吊墜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你翻遍了整個埋葬地。這裡除了死者之外什麼也沒有了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[拿走吊墜。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你拿走了吊墜，摸上去異常溫暖，彷彿有人在一直穿戴著它一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你翻遍了整個埋葬地。這裡除了死者之外什麼也沒有了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你在漫步亡焰鄉間的時候碰到了一處火化儀式場。以前可能是焚火堆的一塊空地旁的是一個充斥著各種漂亮骨灰罈的小墓穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你面前的是一座墓穴。墓穴的石質外壁已經磨損嚴重，上面雕刻著坦格羅亞與恩加蒂的花紋。裡面似乎埋葬著當地胡亞納部落的某位重要人物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你繼續在墓地裡面搜索著……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你重新開始探索墓地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你發現了深入地下的一排寬大台階。台階底部的黑暗走廊裡面吹來陣陣冷風。聞上去有股淡淡的灰塵與冰冷岩石的味道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你花了幾個小時，在埋葬地中搜索……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>……你找到了一把儲存狀態出人意料地完好的一把武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>……你在地上發現了一件奇怪物品。物品上緊緊纏繞著的籐蔓將之綁在了泥土裡。
+
+你拉開了籐蔓，這麼做的時候你感覺到有股神秘的阻力在抵抗著你。裡面是一把工藝奇特的火繩槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

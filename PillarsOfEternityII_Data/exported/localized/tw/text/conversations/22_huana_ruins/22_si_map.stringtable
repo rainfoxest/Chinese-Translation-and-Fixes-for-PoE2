@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_si_map</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>127</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你有完整圓盤的拓本。從你周圍的環境判斷，這個坐標系一千年來從未變動過。你的發現可能會引起某人的興趣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[研究雕刻，尋找一個模式。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你可以隱約地看到雕刻的不同點看起來非常相配，儘管他們位於雕像的兩側，但還是形成了一個連貫的形狀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>現在，貝拉斯之輪內部和外部已經排列正確，圓盤的功能也與預期的相符——一張記錄了島嶼一些古老資料的圖表。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[摧毀圓盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你發現一塊很重的石頭並將它吊到圓盤上。如果打破輪換機制，那麼航海秘密只有你一個人知道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你發現一塊很重的石頭並將它吊到圓盤上。如果打破輪換機制，那麼航海秘密只有你一個人知道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「嗯，這也是一個辦法。」亞洛斯歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我一直都不太喜歡那張地圖。」艾多皺眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「那張古老的金色地圖是殺了你的爸爸還是怎麼了？」麥婭皺起眉頭轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「一種很極端的措施，但也很狡猾。」
+
+ 帕蕾吉娜的金色眼睛端詳著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「呃，船長，儘管我對某些秘密，像是下一個有藍色皮毛的海員是誰，很感興趣，但也許保持神秘也是一種明智的選擇，萬一哪天我們又需要這樣的秘密呢？」
+
+塞拉芬看著懸掛的石頭皺起了眉頭，搔搔後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「不！」泰克胡哭喊著，把他的身體攔在你和圓盤之間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[摧毀圓盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你擊落了石頭，將一塊巨大的石塊劈成石雕。裡面有什麼東西在滑動，而且翻滾了很遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>下一次要擊落更難。古老的圓盤在自重作用下粉碎瓦解，旋轉機構也失效了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>導航圖在其當前狀態下既不能正常工作也不能識別。它的秘密很安全，別人發現不了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>泰克胡嗚咽起來。他摀住嘴巴，努力不發出聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>導航圖已被摧毀了。之前看起來跟島嶼的結構很類似，而現在只是一些模糊的隨意的符號無意義地交集在一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[試圖用你所擁有的金色的貝拉斯之輪來破譯圓盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[試圖用你所擁有的金色的貝拉斯之輪來破譯圓盤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>將外環固定在控制面板上，但仍需要內環才能使機構發揮作用。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>將內環固定在控制面板上，但不能以某種合理的方式與所有符號對齊。也需要將軸連接到較大的圓盤的外環。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>新出現的圖像並不完全是一張地圖，而是一個島嶼和坐標相互關聯的索引。你認出幾個地方除了開闊的水域，什麼也沒有。現在無法通過這個過時的系統制定一條可行的路徑。
+
+「烏凱佐」 這個詞從其他命名的島嶼中脫穎而出。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>有毒氣體從金屬的髮絲狀裂縫中散出，在你做出反應之前灼傷你的眼睛，使你痛苦地蜷曲起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>嵌在石頭裡的面板一個一個地顯現出它們原有的機關。很明顯，這塊被捕獲的圓盤自行復位了，你想要再試一次。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>[再擦一下航海圖。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>你再仔細擦一下，希望這次持續時間比上次更長。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[保持圓盤完好無損並離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>操作控制面板，將沉重的圓盤內部中的圓環旋轉到新位置——全都精確地對齊。
+
+這些雕刻相互交錯，最後形成了亡焰列島的輪廓形狀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>這個巨大的金色圓盤上佈滿了錯綜複雜的雕刻和銘文。你可以挑選代表植物、野生動物和小船的符號，但是無法分辨應如何排列順序或有什麼含義。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>[閱讀主銘文。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「有什麼能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>獻給那些遠離家鄉的海岸，頑強不屈的親人。
+讓這張圖指向回家的路。
+你的部落熱誠歡迎你。
+雕刻的內容記下了死者忘記的一切。
+在這個聖所中尋求安慰，閱讀它的教導。
+讓知識引導著轉動貝拉斯之輪的手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>你可以很容易地將得到的圓環安插在控制面板的內軸上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>圓形凹陷從圓盤的其餘部分突出來。
+
+你所擁有的石環看起來好像很合適，但還得有其他缺失的部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>圓盤中的圓形凹陷類似於某種控制機制，但它不完整。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>圓形凹陷從圓盤的其餘部分突出來。
+
+你所擁有的石環看起來好像很合適，但還得有其他缺失的部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>[將金色的貝拉斯之輪滑到控制面板上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>將環安放到位，繞著其中心軸對齊安裝。外環上是用胡亞納符文語言刻寫的短文。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>外環的刻板上的一組圓點表示應該按從一到四的順序旋轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>[將貝拉斯之輪旋轉到第一個結構。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>你在控制面板的軸上安裝的環看起來好像可以旋轉，並能以特定的形態對齊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>既然你解開了金色圓盤的謎底，那導航圖的意義就顯而易見了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>第一個銘文寫著：&lt;i&gt;雖然他們植根於理庫胡黑漆漆的肚子裡，但他們的產出也為自己爭取了片刻喘息機會。&lt;/i&gt;
+
+內環可以轉動，使得上面的符號與銘文相吻合。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與烏凱佐的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與光魂珀的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與柯基果的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與水塑法的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>你旋轉貝拉斯之輪，直到銘文與光魂珀的符號對齊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>[[返回，重新考慮一下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>你躺在面板上。在圓盤深處，你可以聽到重物旋轉的聲音。
+
+金色的圓環重新彈起，準備再次旋轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>下一個銘文寫著：&lt;i&gt;遵守我們的盟約。這些石化的肢體見證了亡焰列島的興旺與安寧。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與光魂珀的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與烏凱佐的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與柯基果的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與水塑法的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>你旋轉貝拉斯之輪，直到銘文與烏凱佐的符號匹配。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>你旋轉貝拉斯之輪，直到通道與柯基果的符號匹配。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>你旋轉貝拉斯之輪，使水塑法的符號與銘文對齊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>你把貝拉斯之輪轉回到原來的位置，並考慮你的選項。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>你旋轉貝拉斯之輪，直到銘文與光魂珀的符號對齊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>[[返回，重新考慮一下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>你旋轉貝拉斯之輪，直到銘文與烏凱佐的符號匹配。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>你旋轉貝拉斯之輪，直到通道與柯基果的符號匹配。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>你旋轉貝拉斯之輪，使水塑法的符號與銘文對齊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>可能由於它年代久遠和疏於保管， 將貝拉斯之輪固定到位時會遇到一些阻力。齒輪的吱嘎聲在圓盤下面再次響起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>下一個銘文寫著：&lt;i&gt;恩加蒂指派了她的繼承者，來接管她黑暗和動盪的王國。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>你把貝拉斯之輪轉回到原來的位置，並考慮你的選項。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>[返回，從頭開始。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>你取消之前做的一切，並將貝拉斯之輪恢復到原來的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與光魂珀的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與烏凱佐的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與柯基果的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>[轉動貝拉斯之輪將銘文與水塑法的符號對齊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>你旋轉貝拉斯之輪，直到銘文與光魂珀的符號對齊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>你旋轉貝拉斯之輪，直到銘文與烏凱佐的符號匹配。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>你旋轉貝拉斯之輪，直到通道與柯基果的符號匹配。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>你旋轉貝拉斯之輪，使水塑法的符號與銘文對齊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>[[返回，重新考慮一下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>[緊壓在金屬製品上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>你把貝拉斯之輪轉回到原來的位置，並考慮你的選項。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>圓盤深處發出喧鬧的研磨聲。這是有利還是有害有待觀察。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>最後銘文寫著：&lt;i&gt;我們的起源，我們的目的地，我們的家園。無論身在何方，始終有她相隨。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>[轉動貝拉斯之輪以匹配光魂珀的符號，並按壓面板。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>[轉動貝拉斯之輪以匹配烏凱佐的符號，並按壓面板。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>[轉動貝拉斯之輪以匹配柯基果的符號，並按壓面板。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>[轉動貝拉斯之輪以匹配水塑法的符號，並按壓面板。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>加大點勁推，但環要固定到位。
+
+接著，沒什麼動靜，於是你不得不懷疑是否輸入了正確的組合，以及可能會出現什麼後果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>金色的圓盤面對著天空，一動不動，一片寂靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>你注意到控制面板中的空洞與您在廢墟中發現的雕刻環相匹配。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>既然兩塊缺失的碎片都已經放回到了控制面板中，現在可以旋轉內環以構成不同組合了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>控制面板位於圓盤上方，表示你可以將其下推。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>控制面板位於圓盤上方，表示你可以將其下推。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>控制面板位於圓盤上方，表示你可以將其下推。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>控制面板位於圓盤上方，表示你可以將其下推。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>當你從圓盤邊走開時，你聽到石台下某些部件發出的卡塔聲變大了。貝拉斯之輪慢慢地跳出，並旋轉到原來的對齊位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>環中的凹槽與控制面板類似，儘管它缺少些東西，也可操縱圓盤的移動部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>你注意到了與這個島嶼有關的事情。它周圍的符文特別精緻，每一次轉動都以此為起點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>「畢竟這神器已經承受得太多了，別讓它因為我們的到來而死掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>「這種知識在別有用心的人的手中很危險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>「我會考慮的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>「我要說的就這麼多了。」泰克胡點點頭，長吁一口氣，放鬆了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>「右手邊是那些一心想要摧毀藝術的人嗎？」泰克胡困惑地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>「你知道我對這件事是怎麼想的……船長。」泰克胡轉過身去， 摀住嘴巴，不能也不願意看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>「跟可愛的圖紙說再見吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>「多麼無情啊！」泰克胡搖著頭走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>四個符號裝飾內輪。他們描繪了光魂珀的柱子、當地的柯基果、胡亞納水塑法藝術和一個雕刻精美的島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>這些銘文對齊的方式表明兩者之間的關係。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>這是烏凱佐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>「好， 我們都看到了嗎？」泰克胡顫抖地擦了擦嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>這個寶藏是不是應該給碰巧路過的人發現，這是另一回事。
+
+但這些金環絕不能流於世間。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

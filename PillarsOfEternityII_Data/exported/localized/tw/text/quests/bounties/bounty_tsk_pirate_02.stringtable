@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_pirate_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸賞：埃佩羅夫人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>與&lt;b&gt;埃佩羅夫人&lt;/b&gt;對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找&lt;b&gt;黛瑟蘿爾&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;黛瑟蘿爾&lt;/b&gt;要求我去找到火炬號大副埃&lt;b&gt;佩羅夫人&lt;/b&gt;並將她繩之於法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>在涅克塔卡&lt;b&gt;巨蛇王冠&lt;/b&gt;裡的&lt;b&gt;埃佩羅夫人&lt;/b&gt;宅邸裡與她對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>回去找襯艙城&lt;b&gt;流明之庭&lt;/b&gt;裡的&lt;b&gt;黛瑟蘿爾&lt;/b&gt;，獲取針對埃佩羅夫人的賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我殺死了埃佩羅夫人並且從黛瑟蘿爾處得到了賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

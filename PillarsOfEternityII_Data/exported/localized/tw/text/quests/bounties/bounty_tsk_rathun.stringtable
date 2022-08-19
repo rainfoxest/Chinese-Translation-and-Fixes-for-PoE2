@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_rathun</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸賞：拉紳人厄諾斯</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺死&lt;b&gt;厄諾斯&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找&lt;b&gt;歐考羅&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>拉紳將軍&lt;b&gt;厄諾斯·布瑞斯&lt;/b&gt;侵擾著涅克塔卡的海運路線。有人看見他和他的船員躲藏於&lt;b&gt;瑪珈嵐之牙南部中心點&lt;/b&gt;的一座小島上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>將軍就在&lt;b&gt;瑪珈嵐之牙中部&lt;/b&gt;的一座小島上。殺死他能夠換取巨額賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>厄諾斯已死。涅克塔卡&lt;b&gt;聖梯區&lt;/b&gt;裡的&lt;b&gt;歐考羅&lt;/b&gt;看見證據之後就會給予我獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我殺死了厄諾斯並且從歐考羅處收取了賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

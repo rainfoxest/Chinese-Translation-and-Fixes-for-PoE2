@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_deiko</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「需要什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你就是不肯走嗎？呃，這也不能怪你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「喜歡剛剛的表演嗎？你感興趣的話，還有別的表演呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你的服務價位如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「啊，看來你很有經濟頭腦！我向來覺得在錢財上有責任心的人十分……有魅力。朋友，我服務一次的費用是150枚銅幣。」他挑起一道眉毛，裝作害羞的樣子給了你一個微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我感興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「那就隨我來吧。」他給了你一個一閃而過的笑容，抓住你的手，給你帶路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「說說你自己吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「好吧。」他改用挑剔的眼神看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[離開]「算了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「嗯？不，我依然喜歡拼圖解謎以及在被問到私人問題時轉移話題。」
+
+「話說回來……你在這裡幹什麼？」他看向別處，彷彿在無視伊默爾渴望的凝視。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我還想問你呢！」他用手遮住嘴輕笑一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「很高興見到你！」他看起來很慌張，定了定神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「亞洛斯，很高興再次見到你。不過我得回去工作了。保重。」
+
+他朝亞洛斯親切地一笑，臉紅到了耳尖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「什麼樣的『事件』？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你是怎麼當上交際花的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我再問問你別的事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「大概和這裡其他交際花一樣吧。」
+
+他歎了口氣，將碰到臉的頭髮梳理到後面。他堅忍的笑容表明這個問題他已經回答過無數次。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你的故事應該沒這麼簡單。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「就和其他工作一樣囉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「所有故事都不簡單。」他向一側歪了歪腦袋，瞇起眼睛審視你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我的幾個同學搞了個惡作劇，鬧出了幾條人命。」
+
+他看著地面、墊子、桌子等等，就是不看你的臉。過了一會兒，他聳聳肩，不再說下去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「無論你在哪兒干，工作就是工作。」他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「帝國也是我的故鄉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「啊哈！那你肯定知道那裡多麼無聊。不然我倆為何會出現在這裡呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「具體是什麼樣的『訓練』？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我很樂意向你展示，但你得付錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「亞洛斯！沒想到會在這裡見到你！你我布拉岡諾一別後，你的興趣發生了如此大的變化嗎？」
+
+伊默爾咧嘴而笑。他擺弄著自己的頭髮，把雜亂的地方理順。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「真……了不起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「亞洛斯，向你這位帥氣的朋友介紹一下我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「這位是伊默爾，是我的老&lt;i&gt;朋友&lt;/i&gt;了，我在學院那會兒就認識他了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我自己定工作時間，每天都能見到各種有意思的人，有錢賺總是好的。比一本正經的舊書與難看的長袍好多了。」
+
+他挑剔地看了一眼亞洛斯的外套。他開口剛要說話，但想想還是算了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「見到你很榮幸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我在聚鹿帝國長大。我年輕時，曾為了成為一名秘法騎士而學習。」
+
+我的學校發生那次……事件後，我離開了那片大陸並一直四處遊蕩，直到最後來到了涅克塔卡城。如你所見，我留了下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「那就再會了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我展現出了才能，在大師手下接受訓練。我準備好後，就開始自己接客。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「但故事其餘的部分只屬於我自己，我不願與人分享。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「但我比很多人幸運。我可以自由地做我喜歡做的事，而我喜歡我的工作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你可以再來找我，不過得帶好錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「希望你不會害羞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>舞者轉過身來向你打招呼，嘴角帶著故作羞澀的笑容。
+
+以精靈的標準看，他有些矮，但舉止的優雅程度絲毫沒有打折扣。他狹長的臉和黑色的眼珠使他的神色顯得有些嚴肅，但他臉頰上的色彩將憂鬱一掃而空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「一開始請慢點。」泰克胡捏了捏下嘴唇，露出笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我現在注意力全部集中在了你身上。」麥婭交叉起雙臂，揚起一遍嘴角，一邊微笑一邊觀察。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「我感覺我會對此有意見。但總的來說我想看看事情接下來會如何發展。」她舔了舔嘴唇，朝你聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「看來他已經不是我在學院認識的那個可憐的傢伙了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「說『很高興』或許有點過頭。我是說……這個詞令人愉快。完全可以接受。「
+
+他懊惱地看看你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「以前，他說什麼也不願和別人發生肢體接觸。別人壓住他的法術書時除外。」伊莎彌兒發出低吼。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

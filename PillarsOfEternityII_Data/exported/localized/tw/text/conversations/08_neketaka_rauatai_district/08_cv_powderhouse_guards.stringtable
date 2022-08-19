@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_neketaka_rauatai_district\08_cv_powderhouse_guards</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「別說了。炸藥庫關閉了，只對亡焰皇家商行的官員開放。」她上下打量你一番，帶著惱怒和質疑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「嘿，站住！」護衛看到你並跨步過去，想加快步伐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「保護炸藥庫！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「大家守住自己的位置！有麻煩了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「所有人都出來！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我都做了這麼多事情，你還是不夠信任我，讓我四處看看嘛？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[離開]「抱歉，我要走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[撒謊]「我在為哈扎努伊視察這個地方。你難道沒有得到消息嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[攻擊] 「沒人能擋我的道！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「這是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我不會為此而倒下的。與你的名聲無關。」她瞇起雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「好吧。但這裡禁止明火，明白嗎？
+
+「還有，&lt;i&gt;不要&lt;/i&gt;到樓下去。」她最後用犀利的眼神看了你一眼，然後回到她的工作中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我會護送你出去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「好吧。但這裡禁止明火，明白嗎？
+
+「還有，&lt;i&gt;不要&lt;/i&gt;到樓下去。」她最後用犀利的眼神看了你一眼，然後回到她的工作中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你在這裡幹什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「這裡你隨便看，但不要到地窖的倉庫去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我不知道你在幹什麼，但這是給你最後的警告。」她皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「小心周圍的火藥。不要去樓下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「如果我再在這兒抓到你，你肯定得倒霉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我已經警告過你了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「他準備把它炸飛。檢查他的炸藥。」麥婭後退一步，交叉起手臂。</DefaultText>
+      <FemaleText>「她準備把它炸飛。檢查她的炸藥。」麥婭後退一步，交叉起手臂。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「麥婭！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[攻擊]「這是一個很好的開始。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>守衛向前進並拔出他們的武器，咬緊牙關，顯示出堅定不移的決心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「抱歉，船長，這個亡焰列島的問題比破碎的城堡和你受傷的自尊心要嚴重。」
+
+她向其他士兵們發出信號。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

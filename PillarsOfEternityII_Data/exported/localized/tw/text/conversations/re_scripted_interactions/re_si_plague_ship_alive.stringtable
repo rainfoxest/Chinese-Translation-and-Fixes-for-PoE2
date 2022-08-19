@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_plague_ship_alive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>地平線上，一艘船映入眼簾。船的帆收起，傾斜在水中。
+
+「瘟疫船！」[Specified 0]在船頭大叫，手指著天空方向，指示一面綠旗在在那艘船的主桅桿上不緊不慢地飄揚在微風中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「好的。停靠在一邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>船員控制你的船停靠在瘟疫船旁邊。甲板水手和船長看起來大驚失色，憂慮不安。
+
+「上天仁慈！」那船長脫口而出，他的聲音刺耳，「我想沒人會來幫助我們。」
+
+甲板水手昂首站立，但他們不穩的身姿表明全體船員正遭受疾病的折磨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「把你們病得最嚴重的水手叫出來。我們將把他們帶到我們船上檢查，提供適當治療。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[登船搶掠。] 「看這樣子，他們毫無抵抗之力！拿走他們所有值錢的東西！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「這裡沒什麼可做的。」把船讓開，讓我們繼續前進。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>那船長痛苦地看著你的船員把他們剩下的微薄物資拖到你的船上。
+
+「昂德拉會懲罰你的。」他想吐口痰，但太乾渴而吐不出來。
+
+在駛離那首瘟疫船時，你看到那個船長絕望地倒在甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我們能提供的援助有限。我們沒有治療藥物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>瘟疫船疲憊的船員沮喪地倒下。那船長耷拉腦袋，但點了點頭。
+
+「我明白，」他咕噥著說，話語中充滿失望和沮喪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>短暫檢查病情後，那個病了的水手帶著足夠的藥物返回他的船去治療他們其他船員。
+
+疲倦但充滿希望，他們揮手再見，你的船繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你的人受到何種疾病的折磨？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你的主帆升起，駛向廣闊的大海，這時[Specified 2]發出刺耳的咳嗽聲，緊張地環視周圍。
+
+其他船員咬緊牙齒，低聲詛咒。看來疾病已傳到了你的船上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「疫病，」船長悲傷地說。「這病沒有死人，睿姆岡眼神移開，但它讓我們軟弱無力，迅速傳染了全體船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我的一些船員已經開始得腐爛病。我們知道這病本身不致命，但船員們幾乎沒法站立，我們無法航行。」那船長同情地掃視生病的船員。
+
+「至少不能安全航行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「是凍骨病。」船長的聲音因為恐懼而微微顫抖。「凍骨病。」
+
+「這種病已經帶走了我的半數船員……甚至恐怕連剩下的人也無法倖免。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Specified 2]聳聳肩，歎了口氣，但[Specified 1]讚許地點起了頭。
+
+「真是個明智的決定，你一向如此，船長。」
+
+船員們遠遠地繞開了疫病橫行的船，直到那艘船消失在地平線的另一端。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「什麼？」[Specified 3]叫道。
+
+其他的船員們說著什麼可沒法聽清楚，但他們小聲咕噥表明他們對於船上帶回一個染病的船員並不高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>你觀察那艘船的甲板。幾名甲板水手似乎在拿一些貨物儲備。臉色十分蒼白，他們看起來精疲力盡，他們的衣服被汗水浸透。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>即使不用小型望遠鏡，你也能夠看出幾個活著的船員在甲板上四處走動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Specified 1]湊近過去。「最好小心，船長。我們可能染上那些可憐的傢伙身上的任何疾病。」
+
+「不過，」[Specified 2]沉思說，「船上可能有什麼值錢的東西。」
+
+船員偷偷看你，想知道你打算如何繼續。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1]湊近過去。「不用我提醒你上次我們與一艘瘟疫船打交道的結果吧……」
+
+[Specified 0]傻笑著說。「任何事都有風險，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「火炮上膛。炮手們得來點鍛煉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 1]睜大了眼睛。「你確定，船長？」你就不能離死亡使者遠些？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Specified 1]睜大了眼睛。「你確定，船長？」他們看起來沒有什麼威脅……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「總比傳染疾病要好。」亞洛斯嚴肅地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>艾德爾皺眉。「他們要是真想去，可以自己去見昂德拉呀。搞不懂咱們幹嘛要為他們作決定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「至少這可以壯壯炮手的士氣。」
+
+麥婭揚起眉毛，頗感興趣地觀察著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「命運已經對他們很殘酷，但即將到來的命運更殘酷。」
+
+她搖搖頭，將目光投向甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>塞拉芬發出噓聲。「你腦袋壞了，靈視者船長？你不能看到有船就要把它擊沉！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「老天在看著，船長——始終判斷是採取行動好，還是不去干涉為妙。」
+
+，歎了口氣，泰克胡撓了撓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>裘荻緊握雙拳，但一言不發。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我們不能讓他們傳染他們的疾病。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「你聽見我怎麼說的了。擊沉他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「轉念一想……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「啥？我們可壓根沒有炮彈。」
+
+[Specified 2]咳嗽道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 1]舒了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「遵命，船長。」[Specified 1]轉身向炮手傳令。
+
+[Specified 0]對你皺著眉頭。[Specified 3]輕聲笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Player Ship]眾炮齊射，撕開瘟疫船的船身。
+
+船向一邊傾斜，海水一湧而入，你看到船員們跳入水中。他們的尖叫聲傳來。
+
+「真浪費。」 [Specified 2]皺眉道。「我們不該看看有什麼可撈的嗎？瘟疫沒有了，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>你幾乎看不到甲板上有任何移動。無精打采的船員休息著，有些在欄杆上，有些在甲板上。有些在桅桿之間拉起了吊床。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>當你的船員引導你的船靠近受疾病折磨的船隻，那船長結結巴巴說話了。她的頸部一側突出了一塊顯眼的白色骨刺。「天哪……」她用沙啞的聲音說道，「你是來幫忙的？」
+
+你向下望去，看到她的手腕腳踝上都長出了類似的突起，傷口周圍滲出鮮紅的血液。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>那船長僵硬地點點頭，幾乎面無表情。「我明白。凍骨病基本就等於判了死刑。我們沒理由怪你。」她歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「你的人受到何種疾病的折磨？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我們能提供的援助有限。我們沒有治療藥物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[登船搶掠。] 「看這樣子，他們毫無抵抗之力！拿走他們所有值錢的東西！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>那船長痛苦地看著你的船員把他們剩下的微薄物資拖到你的船上。
+
+她沮喪地歎了口氣。「我早該知道。但願睿姆岡碾碎你的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>你的主帆升起，駛向廣闊的大海，這時[Specified 2]發出刺耳的咳嗽聲，緊張地環視周圍。
+
+其他船員咬緊牙齒，低聲詛咒。看來疾病已傳到了你的船上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>當船員跳上瘟疫船，[Specified 3]發出一聲嚇人的咆哮。病了的水手們太虛弱而無力反抗，往一旁退縮躲避。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>當船員跳上瘟疫船，[Specified 3]發出一聲嚇人的咆哮。病了的水手們太虛弱而無力反抗，往一旁退縮躲避。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我對你們感激不盡，」那船長說，「沒有你們的幫助，誰知道我們將在這裡呆多久？」
+
+他把一個小箱子給你。「請收下。略表我的感激之情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「你自己留著吧。無論這是什麼，你將比我更需要它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「我不會收下你受瘟疫影響的禮物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>短暫檢查病情後，那個病了的水手帶著足夠的藥物返回他的船去治療他們其他船員。
+
+疲倦但充滿希望，他們揮手再見，你的船繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>短暫檢查病情後，那個病了的水手帶著足夠的藥物返回他的船去治療他們其他船員。
+
+疲倦但充滿希望，他們揮手再見，你的船繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>當那名水手拖著腳從瘟疫船走到你的船上，你的船員讓開了寬寬的一條道。當那個病人經過，一些船員作出保護的姿態，或咕噥著祈禱睿姆岡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「先生。」</DefaultText>
+      <FemaleText>「女士。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>一道閃光從地平線以弧線劃過天空，然後變成一片紅雲，慢慢消散。
+
+「瘟疫船，船長，」[Specified 1]小聲說道。「看起來像是努瓦泰的平底帆船，他在發出求助信號。」
+
+[Specified 3]和[Specified 0]緊張地相視一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Specified 2]擠在欄杆看那艘船。「我們要進去嗎，船長？」他們可能有什麼有價值的東西交易。」
+
+「是的，而且我們所有人可能染上該死的瘟疫，」[Specified 0]咕噥道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Specified 3]皺眉。「距航道這麼遠？可能是陷阱，船長。看起來他們要引誘你進去。」
+
+「一塊戎客船船也可能載有一些特別有趣的東西，船長，」[Specified 2]插話說道。「只是個想法而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「拿網來。讓我們看看能找到什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[離開]「沒有別的事了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「遵命，船長。」[Specified 1]點頭。
+
+你駛離，甲板上沒有人說話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Specified 1]敬禮。「遵命，船長。」
+
+[Specified 2]咧嘴笑道。[Player Ship]用隨後的幾個小時收集水中的一些碎屑，然後繼續航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>當你經過時，那船長擋住了你的去路，刀劍出鞘。「去死吧，[Player Name]！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>你的船員高興地撥弄著賞金，不關心你留在身後劫數難逃的那些水手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[殺了他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[把他擊倒在地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[用魔法使他跌倒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>那個被削弱的水手證明對你沒什麼威脅，很快他就一動不動地躺在你的腳邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>那船長倒在甲板上，瓦解了其他可能想對你拔刀相向的任何人的鬥志。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「把你們病得最嚴重的水手叫出來。我們將把他們帶到我們船上檢查，提供適當治療。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Specified 3]呆呆地看著。「你瘋了嗎，船長？是凍骨病啊！若移冰地的水手們帶回來的天災！如果我們感染上，它肯定會使我們的船完蛋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「你聽見我怎麼說的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「轉念一想……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Specified 0]鬆了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>船長皺著眉頭。「謝謝你，烏洛克。我知道那對你意味著什麼。」
+
+同伴搖著頭。「祖傳遺物對屍體來說沒多少價值。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>你的船員高興地撥弄著賞金，不關心你留在身後劫數難逃的那些水手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「我相信努瓦泰將會報答我們能夠提供的任何幫助。以某種方式。」
+
+麥婭用舌頭舔著她的口腔內壁，考慮著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「或許我們能幫上忙。如果我們治不好他們，至少能結束他們的痛苦，這也算一種仁慈吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「或許我們不能為他們做什麼，但至少我們能留給他們選擇自己命運的尊嚴。」亞洛斯皺著眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>只有一名水手倒在地上。他的喉嚨幾乎已被骨刺穿成的項鏈所圍住。「你願意的話我們可以交易……我們有一雙魔法手套，靈活而迅速……」
+
+他全身都靠在桅桿上。他的氣息隨著詭異骨頭的生長逐漸微弱。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

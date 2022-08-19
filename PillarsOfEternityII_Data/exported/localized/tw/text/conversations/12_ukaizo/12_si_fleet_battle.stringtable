@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_si_fleet_battle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>187</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Player Ship]率領著艦隊，像戰斧砍穿盔甲一樣穿過這些湍急的海域。
+
+「眾神保佑」，[Specified 0]低聲嘟囔著盯著風暴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>瓦利亞商行商行的天秤星座旗幟嚇住了許多新的正在接近的船隻，而其他那些貌似唯利是圖的僱傭兵戰艦則是以共和國的巨大財力為擔保的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>亡焰皇家商行的十字形大炮攻擊煩擾逐漸靠近的戰艦的桅桿，而每一艘艦船都攜帶著重炮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>倒王冠旗幟飄揚在斑駁多樣的皇族海盜艦隊的桅桿上，與許多其他三角旗幟以及顏色一起表代著不同的男女海盜首領。他們的海員號子即使在風暴中都能聽見。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>胡亞納人顏色鮮明的旗幟在他們同樣生動的船體上空飄著，每一面旗幟都與即將到來的風暴形成鮮明的對比。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>昂德拉之臼在水平線上肆虐，翻騰的雲雨形成的一大片圍牆被一道銀色的閃電刺穿。狂風推擠著你——好像是為了避開因[Player Ship]的靠近而帶來的什麼東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Player Ship]一瘸一拐地離開了身後聚集的破碎殘骸，衝破煙霧瀰漫的岸邊。在遠處，昂德拉之臼在肆虐著，再也沒什麼能阻止你向目標前進了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>起風對於驅散嗆人的煙霧所造成的濃霾完全沒用。間或出現的炮火聲不時打斷加農炮連續不斷的隆隆聲，殊死拚搏的士兵們的吶喊聲對比著垂死掙扎者的慘叫聲。
+
+敵人和盟友之流全部消失於沼澤中，而沼澤的下方還透出殘骸燃燒時的火光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「點燃我們留在那裡的所有東西。或許我們可以給他們一個機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「帶我們進入風暴，[Specified 1]。我們在這裡什麼都做不了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Player Ship]的加農炮對著怪物狂轟，而你的武器也是一股腦地全部招呼過去。怪獸在攻勢下蜷縮著，它的頭突然轉過來盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 1]嚥了口口水。「遵命，船長。」
+
+[Player Ship]轉向昂德拉之臼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>胡亞納人從陰霾中湧出來，從一個甲板跳到另一個，叫囂著要取你腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>一隻小快艇脫離努瓦泰艦隊的隊列向你襲來。全副武裝的海裔勇士整裝待發地站在艦船的甲板上，他們的眼睛盯著你的船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[發信號給奴隸主，讓他們去攔截即將到來的艦船。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0]對著風皺起了眉頭。「艦隊在轉向，船長！正在將炮門對準敵人！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「所有人準備戰鬥！我們將要加入這場戰鬥！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0]抓住你的胳膊並伸手指向大海。「他們即將襲擊我們，接著風力全速前進。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>一名水手像受到昂德拉自己的指引一樣踏浪向你襲來——這是水塑者的傑作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>一艘瓦利亞大帆船的圓形船體向你襲來，而你花了一些時間才看清楚對方甲板上比士兵和船員都高的兵俑都是鐵甲構裝體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>一艘插滿五顏六色旗子並配備大量火炮的木製單桅帆船向你全速衝來。身經百戰的皇族海盜在對面怒吼著，揮動手中的彎刀，將麥芽酒從欄杆上潑灑出去。
+
+舵位上閃過一抹金牙的光芒，說不清是船長得勝的笑容還是殘暴的凶相。你也不知道哪個更糟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>加農炮的隆隆聲不間斷地伴隨垂死之人的合唱般的尖叫聲。甲板隨著海面的扭曲起伏而搖晃，煙霧懶洋洋地飄過波濤起伏的海面。
+
+昂德拉之臼轉向東方，轉向變幻莫測的烏雲和閃閃發光催人入眠的雨簾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[發信號給瓦哈奇，讓他們去攔截即將到來的艦船。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[與敵人交火。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[釋放大帆船上的瓦哈奇人。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[攻擊最近的大帆船上的奴隸主。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「掉頭，[Specified 1]![Specified 0]，準備好大炮。！我們將負責對付其中一艘大帆船！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>瓦哈奇獨木舟朝其中一艘大帆船滑過來，海裔族人努力將船划到食人魔艦船兩側，然後跳船離開。
+
+在劫難逃的食人魔的尖叫聲不斷從水面上傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>最後，胡亞納艦隊零星地散佈著，破爛不堪，倖存的海員們向西朝瑪珈嵐之牙和涅克塔卡之外逃去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>瓦哈奇獨木舟迅速阻斷來船，海裔族人將他們的船划到敵人艦船的兩側並用鉤子固定，然後上船。
+
+被屠殺的敵人的尖叫聲不斷從水面上傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>一艘奴隸販子的單桅帆船在你和正在靠近的艦船之間運動。當兩艘船並排時，奴隸販子們越過間隙，短矛和羅網落在尖叫的敵人船員身上。這隻船還是開始了猛烈的交火，在彼此的船身上轟出一個個大洞。
+
+然而，奴隸販子們立刻控制住甲板，將那些已經繳械但還沒有殺死的人拴上鐵鏈並帶到船舷的欄杆處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[指揮不死族去和來船交火。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[要求魯奎帕跟來船交火。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>一隻不死族的船改變了航線，闖進了敵人的航道。敵方艦船試圖避開碰撞，但這兩艘船都飛快地向對方滑去。趁著兩船相撞的一瞬間，不死族人傾巢而出，跨過船舷蜂擁到對面的甲板上。
+
+不死族的盛宴開始了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>魯奎帕人的回答是一連串讓你渾身顫抖的炮火。隨著敵人主桅桿的落下，其中一隻努瓦泰帆船悄悄離開隊列，插入你和幾乎停滯不前的艦船之間。
+
+當火槍手連續射擊在劫難逃的船員時，帆船上的法師們猛施火球術和霜凍術來阻截敵人的航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Player Ship]轉身，迅速攻擊食人魔控制的大帆船，希望給你的隊友爭取到喘息時間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[檢查艦隊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>還有幾艘船尾隨著你，這些船陳舊不堪、保養落後，即使有風它們的船帆也顯得柔軟無力，而那些活死人密密麻麻地站在碎礁號的甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>號稱每一艘平底大帆船上都裝有長筒加農炮的魯奎帕戰艦緊隨其後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>瓦哈奇戰鬥輕舟在戰艦之間的海面上活躍著，每隻船上都擠滿了臉色蒼白、喊著號子對抗風暴的戰士。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>八艘單桅帆船，滿載羅網和魚叉，劃破那不平靜的海面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>阿羅海親王的私船率領著胡亞納艦隊的先鋒，兩側有十二艘船護送，後面跟著另外六艘不同用途的船隻。部落的旗幟在艦船上方飛舞，每個浮舟上都刻有對其船員而言獨特的印花圖案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>不到二十艘豪華大帆船隨你一同出行，每艘船上都飄揚著瓦利亞商行的天秤星座旗幟，船隊規模遠超單個城邦或公爵的標準。平底戰船的炮門打開，露出了十二門黑口加農炮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>亡焰皇家商行派了十二艘船來支援你的戰事，每一艘船都是用實木和金屬製造的上品戰船，武裝精良，重甲防衛。
+
+士兵們立正站在各自的輕舟上，肩上扛著步槍，同時一百門銅質加農炮發出的微光從炮門內透出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>各色各樣的皇族海盜船員跟隨你一起出行，這是各種文化和船隻的大融合，每艘船上飄揚的不僅有艦隊的多彩旗幟，其中還懸掛了許多代表個人成就的錦旗。亡焰列島上的男女海盜們手持彎刀、手斧和火器，守護在船舷欄杆旁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>一個船員從他們的營地向你看來。
+
+[Specified 0]的目光與你的相遇。「船員準備就緒了。船長有什麼命令嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[研究敵人。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>有十二艘船向你駛來，後面還跟著十二艘或更多各種用途的船隻。弓箭手和神射手們站在船舷邊，而且每個浮舟上都刻有對其船員而言獨一無二的印花圖案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>將近二十艘瓦利亞大帆船向你衝過來，還有十二艘掛著僱傭兵旗幟的船為其提供支援。每隻船的炮門打開，露出許多黑口大炮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>二十艘努瓦泰帆船以完美的陣式向你駛來，它們的角帆張開，每一艘裝甲艦船都是可以支援十二門銅質加農炮的完美藝術品。士兵們立正站在甲板上，肩上扛著步槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>一支成色混雜的海盜艦隊自信地向你衝過來，但這隻艦隊完全是一群烏合之眾，船隻包括俗麗的大帆船、時髦的單桅帆船，被盜的小帆船以及僱傭兵單桅帆船。
+
+你數了下，大約有三十艘艦船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>一隻奴隸販子單桅帆船向大帆船旁邊駛來。當兩船相遇時，奴隸販子們越過間隙，短矛和羅網落在尖叫的食人魔身上。最後兩艘船還是開始了猛烈的交火，在彼此的船身上轟出一個個大洞。
+
+然而，奴隸販子們立刻控制住甲板，將那些已經繳械但還沒有殺死的食人魔或關進籠子或戴上手銬腳鐐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>當水面發生爆炸，將附近的船撕成兩半，把尖叫的船員扔進大海裡時，歡呼聲變成了驚恐的慘叫聲。一隻怪物從殘骸之中站起來，這是一隻用油滑的魂珀和發光的金屬製造出來的怪物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>你拿著貝拉斯之輪並掉轉[Player Ship]向著風暴駛去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>當來自敵人和隊友的加農炮炮火齊發時，甲板震顫，空氣灼熱，金屬發生呲呲聲，灰色濃煙瀰漫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>一對巨大的大帆船護送著阿羅海親王的船。當僱傭兵船隻靠近你的隊友時，他們用一輪又一輪的加農炮火連續打擊較小的艦船。食人魔海盜們揮動著從大帆船甲板上找來的粗重的棍棒，不耐煩地登上了胡亞納人的船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[釋放食人魔船上的不死族。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[發信號向魯奎帕報告哈扎努伊人面臨的危難。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>一艘不死族的船闖入這隻船的航道。食人魔試圖避開碰撞，但這兩艘船飛快地向對方滑去。趁著兩船相撞的一瞬間，不死族人傾巢而出，跨過船舷蜂擁到對面的甲板上。
+
+當不死族享用盛宴時，食人魔發出尖叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>魯奎帕人給出有效的回應，用一連串讓你渾身顫抖的加農炮火應對對海軍上將的危險。隨著最近的大帆船主桅桿的落下，其中一隻努瓦泰帆船插入你和幾乎停滯不前的艦船之間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[什麼都不做。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>儘管你沒有反應，阿羅海親王的馬塔魯船員還是擋住了攻擊。一隻大帆船慢慢離開了，艙口冒著滾滾濃煙，隨著又一次分裂解體，船身下面海水翻騰著要將它掀倒，食人魔海盜們緊緊抓住斷開的帆索。
+
+但是，阿羅海的船沉沒了，它的船員從皇家船上跳進波濤洶湧的大海裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「讓他們打吧！帶我們進入風暴，[Specified 1]！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>一對巨型大帆船夾擊尼洛的大帆船。當僱傭兵船隻靠近你的隊友時，他們用一輪又一輪的加農炮火連續打擊較小的艦船。食人魔海盜們揮動著從敵人大帆船甲板上找來的粗重的棍棒，不耐煩地登上了瓦利亞人的船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>一對巨型大帆船夾擊哈扎努伊卡魯裝甲帆船。當僱傭兵船隻靠近你的隊友時，他們用一輪又一輪的加農炮火連續打擊較小的艦船。食人魔海盜們揮動著從大帆船甲板上找來的粗重的棍棒，不耐煩地登上了帆船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>一對巨型大帆船夾擊閒暇先生號。當僱傭兵船隻靠近你的隊友時，他們用一輪又一輪的加農炮火連續打擊較小的艦船。食人魔海盜們揮動著從大帆船甲板上找來的粗重的棍棒，不耐煩地登上了弗蘭特的船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>一對巨型大帆船夾擊鋼鐵尖牙號。當僱傭兵船隻接近艾戴斯的船時，他們用一輪又一輪的加農炮火連續打擊較小的艦船。食人魔海盜們揮動著從大帆船甲板上找來的粗重的棍棒，不耐煩地登上了海盜船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>食人魔擁有一個項壓倒性的優勢，並且[Player Ship]是唯一在附近的其他船隻。沒有你的干涉，艦隊指揮官就沒有任何希望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「我們要走了！「帶我們進入風暴，[Specified 1]！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「注意了！讓我們看看昂德拉之臼是什麼樣子的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「帶我們進入風暴，[Specified 1]！別再磨蹭了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>[駛入風暴。]「有本事的話就抓住我，你這個混蛋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>水面突然鼓起，然後撕裂開來，隨著一聲類似海浪撞擊聲的咆哮，一頭龍破水而出。
+
+這個從斯基奧里拉法斯進階來的魔寵向低處襲去，它先在白色波浪的正上方伸展雙翼，然後向金屬怪獸噴去海水之息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>如心跳般的擂鼓之聲從船員那邊不斷地傳來，各種不同的聲音一齊吟唱你的名字。
+
+&lt;i&gt;「[Player Name]！[Player Name]！[Player Name]！」&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[指揮拉紳人對抗食人魔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>食人魔試圖避開拉紳的長船，但他們的大帆船速度不夠快。拉紳撞上船的舷側，他們噴射魔法火焰的龍頭直接衝進大帆船船艙裡。
+
+當拉紳開始執行他們的殘忍任務時，僱傭兵船裡傳來無數尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>[召喚拉紳登上來船。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>敵人的船試圖避開拉紳的長船，但他們速度不夠快。拉紳長船撞上敵人的船舷側，他們噴射魔法火焰的船頭直接衝進大帆船船艙裡。
+
+當拉紳開始執行他們的殘忍任務時，已經無力行動的船裡傳來無數尖叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[Specified 0]將一隻手放在你肩上。「我們走了這麼遠已經是眾神保佑了。[Player Ship]沒有希望對抗那個鬼東西。我們的唯一希望是風暴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>當[Player Ship]發生時，甲板壓著你的腳，加農炮火的轟隆聲與不斷從昂德拉之臼翻滾而來的雷鳴聲競相傳來。你的船調整好航向，船頭直指風暴。
+
+當甲板猛烈地顛簸時，你突然向前傾倒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>沒有合適的船員，要闖昂德拉之臼可能無異於自殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>頭巾在風中拍打，[Specified 0]皺眉。「天哪，船長。如果我早知道的話……如果我們中任何一個人早知道的話。」水手搖了下頭，笑了起來。「見鬼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>[Specified 2]站在船舷邊。「儘管我痛恨同意[Specified 0]的話……見鬼。沒有航海圖能告訴我們前方的情況。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>雙手放在舵盤上，[Specified 1]的目光越過浪端的白色泡沫注視著遠方。「我們就是在做這件事，不是嗎?開始駛入昂德拉之臼內。眾神保佑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>坐在船舷上，一隻手抓緊繩索，[Specified 3]大笑起來，露出不平整的牙齒。「你在開玩笑嗎？這完全是我受雇參加的最狗屎的航行了！」這個水手在風中狂吼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>一隻手落在你的肩上，而你轉頭去看[Specified 4]。「我們現在要去的地方是眾神不想我們踏足的。但他們留下的線索又將我們指引到了這裡。不可阻擋，又不容置疑。
+
+水手的表情如同刀尖上的行走，時而愜意，時而焦慮。
+
+「不要動搖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「我們已經走了這麼遠——現在不能回頭了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「俄撒斯威脅著你所知道的一切人和事。」無論你熱愛什麼——無論你懼怕什麼——我們就是救世主。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「別嘮叨了。所有人，準備迎接風暴吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「想想風暴那一邊有多少財富在等著我們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>[Specified 0]點了點頭。「有時候唯一的退路就是前進。」大副跨過甲板大喊：「所有人各就各位！是時候讓眾神看看[Player Ship]是什麼造成的了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>船員互相不確定地看了一眼。
+
+[Specified 0]站出來。「現在說夠了。所有人各就各位。我們要做事了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>昂德拉之臼隱約出現你的前面和上方，主宰著整個世界。
+
+雨開始下起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>[Specified 0]輕輕地笑了起來。「死人是很難花錢的，船長，但我們懂你的意思。」
+
+大副跨過甲板大喊：「所有人各就各位！我們起航前進，向著戰利品和寶藏前進！」
+
+船員們歡呼起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>[Specified 0]點點頭，大步向前走來。「我們中沒有一個人在接受這次的任務時想著我們會成為英雄。但是我們到了這裡。讓這個超級颶風看看我們真正的勇氣吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>[Specified 0]表示致意。「沒問題，船長。所有人各就各位，專心自己的工作！我們要進入風暴了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>[Player Ship]率領著艦隊，像戰斧砍穿盔甲一樣穿過這些湍急的海域。
+
+有人從這個小艦隊內的某個地方吹起了號角，這聲音越過水面，讓你注意到從南面趕上來阻斷你的第二組船隻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>你緊緊抓住舵盤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>[準備戰鬥。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>[駛進風暴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>揮動著舉過頭頂的帽子，[Specified 3]急切地吶喊著。「最終有些該死的&lt;i&gt;興奮！&lt;/i&gt;」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>[Specified 4]稍微低頭，笑了。「知道了眾神為我們準備的是什麼，今天就和任何一天一樣美好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「見鬼，船長！」一名水手叫起來。「敵人艦船進入了前方港口！」
+
+[Specified 0]搖了搖頭，冷酷地輕笑起來。「我想要求讓我們單獨在這裡太過分了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>[Specified 2]對著逐漸暗下來的天空眨了眨眼睛。「曾經認識一個海上老手，他聲稱昂德拉之臼是世界的邊緣。我叫他傻瓜。可是現在呢？」這個領航員悲傷地搖著頭。「現在我也不那麼肯定了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>你的隊友們掉轉船頭，用打開的炮門來迎接越來越近的威脅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>一枚加農炮彈剛好未命中[Player Ship]，落入海中濺起了浪花，這讓你注意到一艘正在靠近的艦船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[查看你的同伴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>亞洛斯正在翻閱他的魔典，臉上露出平靜專注的神色。
+
+他迎著你的眼睛，微微一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>艾德爾從頭到尾地觀察敵人的艦隊時一直在吸著旱煙。在充分考慮船隻的陣列後，他熄滅了旱煙，將它放在一邊，然後看著你，愉快地聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>麥婭向伊希薩伸出手臂。他飛起來落到她的手臂上，用鼻子蹭她的臉頰。她在他最享受的位置幫他撓癢。他們眼對眼地凝視著對方，其中有些不言而喻東西——一些類似愛、義不容辭的責任以及最終結局的東西——在他們之間傳遞著。
+
+然後她轉身朝你點點頭，定決心面對即將發生的事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>帕蕾吉娜鎮定地審視敵人的艦隊。她金色的眼睛轉向你並盯著你幾秒鐘，然後嚴肅地朝你點了點頭並移向一個靠前的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>塞拉芬用手指捋了捋他充滿野性的幾縷藍色頭髮，盡可能將它們塞到他帶著耳飾的耳朵後面。然後他的手按了按他的武器，再三檢定。然而，他的眼睛全然專注地凝視著越來越近的敵人艦船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>泰克胡緊緊抓著自己的一縷頭髮並用手指撫摸著，無意識地重拾起自我安慰的舊習慣。一滴墨水像汗珠一樣滴到他脖子的一側。
+
+當他盯著艦隊時，他眼中的恐懼似乎遠超他的年齡。
+
+當他注意到你在看著，他眨了眨眼並流露出自信的微笑。但你已經窺見了他真實的感情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>裘荻就像舉著一面光盾一樣在她面前舉著燈籠。燈籠明亮地閃了一下作為回應，而她向你點了點頭——準備好了。
+
+儘管她表現的很有信心，你還是注意到她的手稍微有些顫抖。當裘荻等待戰鬥開始時，她的燈籠箱發出咯吱咯吱聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>炮火的煙幕散開，露出一隻黑色船影，破舊的皇族海盜旗幟碎片掛在桅桿頂上——就在艾戴斯船長紫黑旗幟的下方。她的鋼鐵尖牙號悄悄滑到一艘大帆船的後面，用剛過水面的攻擊高度對它進行一輪毀滅性的炮火打擊。
+
+當船身傾覆時，食人魔紛紛從甲板上跳下去，船帆整個漂浮在波濤起伏的海面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>[駛進風暴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>[Specified 3]指向怪獸。「我們隨那東西去吧，你的朋友們是對的，整個失敗了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>「船長，我們不能讓那東西靠近艦隊！」
+
+麥婭驚慌地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「如果我們不把那怪物趕走，那它一定會殺死伯爵以及瓦利亞艦隊上的其他所有人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「船長，我是說我們必須把它從我們的隊友那趕走！即使那意味著……」
+
+泰克胡的聲音逐漸變弱並且轉身面向欄杆和不斷靠近的怪物。他抬起一隻顫抖的手摀住嘴巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>塞拉芬目瞪口呆地看著。「那混蛋直接朝紳士號衝去了。向弗蘭特衝去了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>塞拉芬目瞪口呆地看著。「那混蛋直接朝著尖牙號衝去。向艾戴斯衝去了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「靈視者！我想那怪獸在觀察我們正在衝鋒的對友們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>艾德爾的聲音蓋過喧鬧的戰鬥，大喊道：「如果我們不引開那東西，那麼它對我們的隊友造成的毀滅性威脅將比這個風暴還嚴重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>[Specified 2]張大了嘴巴。「體貼仁慈的昂德拉，我從&lt;i&gt;沒&lt;/i&gt;期待那樣。」
+
+「幹掉那個混蛋！」[Specified 3]叫著。水手轉過身來，指著前方。「你看到了嗎？我們遇到一頭該死的龍！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「[Player Name]，有東西在強登我們的船！」亞洛斯喊著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「停住，船長！那些混蛋在強行登我們的船！」塞拉芬的喊聲蓋過了噪音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>當金屬怪獸發射一束紫光將第二隻船切成兩半時，[Specified 4]下跪磕頭，向任何願意傾聽的神靈祈禱，從胡亞納和英格維仙，到昂德拉再到理庫胡，只要是神靈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>[駛進風暴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>[Specified 0]扭頭不再看殺戮上面。「船長？我們可能再沒有其他機會了。」
+
+所有水手都看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>你抓住舵盤並轉向，調整角度[Player Ship]向昂德拉之臼駛去。
+
+你沒有冒險回頭看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>[駛進風暴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>昂德拉之臼隱約出現你的前面和上方，主宰著整個世界。
+
+雨開始下起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>昂德拉之臼在水平線上肆虐，翻騰的雲雨形成的一大片圍牆被一道銀色的閃電刺穿。狂風推擠著你——好像是為了避開因[Player Ship]的靠近而帶來的什麼東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>「[Player Ship]的船員是亡焰列島是最棒的。你們會帶我們穿過昂德拉之臼的。我很清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>帶著淡而堅定的微笑，[Specified 0]點點頭。「你們都知道自己的工作，而且都知道厲害後果！這是什麼，不就是有一個風暴嗎？各就各位！」
+
+當水手們四散在甲板上時響起一陣歡呼聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>塞拉芬點頭。「船長不說廢話。我曾在好幾個船上幹過，你們是海盜能夠期望與之共同赴死的最好的一組水手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>[Specified 3]高興地笑起來。「公不離婆，秤不離砣！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>[Specified 4]閉上眼睛，轉過臉去面對著烏雲，低聲說。「也從來沒去過。這條路在維德溫進入鹿林之間就設好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>[Specified 2]畏縮了一下。「但是，我們必須這樣嗎？或許別人沒有準備好呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>昂德拉之臼在水平線上肆虐，翻騰的雲雨形成的一大片圍牆被一道銀色的閃電刺穿。狂風推擠著你——好像是為了避開因[Player Ship]的靠近而帶來的什麼東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>正在靠近的艦隊數量至少和你的自己的船隻一樣多——或許會更多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>揮動著舉過她頭頂的帽子，[Specified 3]急切地吶喊著。「最終有些該死的&lt;i&gt;興奮！&lt;/i&gt;」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>弓箭手和神射手們站在船舷邊，而穿著法衣的水塑者站在每隻船的船首，他們的儀式化運動使艦隊面前的海面平靜起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>艾戴斯黑色輪廓的船率領著先鋒艦隊，而她最親密的船長則指揮自己的艦船護住她的兩側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>船長委員會的船隻率領著先鋒船，即四艘寬闊大帆船，裝飾華麗，還自豪地將船帆染上各種顏色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>穿著法衣的水塑者站在胡亞納船隻的船首，他們儀式化的運動讓敵人艦隊面前的海面平靜的好似一塊光滑的玻璃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>剩下的拉紳長船在你身後破水而來，它們是由二十四名不知疲倦的巨人充當船員的。每艘艦船都散發著瑪珈嵐灼熱的神性之光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>你抓牢船尾欄杆，避免從船上掉下去。在你下面，就在水面下面，某個巨大生物在游動著。這個生物向戰場方向游去，它兩側的海水像脫皮一樣向後捲去，顯露出來的不是魚類怪獸，而是一隻用油滑的魂珀和發光的金屬製造出來的怪物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>「向前開！所有人準備戰鬥！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>[Specified 0]皺眉看著你。「還沒完呢，船長。」
+
+大副向水面指了下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>你集中注意力，重新關注你的隊友。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>塞拉芬站在船舷欄杆邊，一隻手罩著前額，遠眺海面。「哦，一坨鳥糞，船長。看一看這個悲慘的場景吧。」
+
+絨精暗示說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>「阿羅海的船就要被淹沒了！你有什麼命令，船長？」
+
+泰克胡嚥了口口水並轉頭看向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>塞拉芬睜大眼睛看著你，眼神透露著瘋狂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「靈視者，伯爵的船有危險！我們不能放任不管。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>「船長！哈扎努伊的船就要被淹沒了！」麥婭抓緊船尾的欄杆並看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>「希望你對食人魔有更多準備，而不僅僅是一個半聰明的計劃，船長！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[進攻其中一艘大帆船。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>儘管你不作為，尼洛的船員還是擋住了攻擊。一隻大帆船慢慢離開了，艙口冒著滾滾濃煙，隨著又一次破壞分裂，船體受到了瓦利亞魔法的損害。食人魔海盜們緊緊抓住破裂中的繩索。
+
+但是，伯爵的船沉沒了，迫使瓦利亞人從甲板跳進波濤洶湧的大海裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>儘管你不作為，卡魯的裝甲輕舟還是表現得很出色，而她的士兵們也幫她擋住了攻擊。一隻大帆船慢慢離開了，艙口冒著滾滾濃煙，因為在努瓦泰任的連續截擊下船體又一次受到破壞分裂。食人魔海盜們緊緊抓住破裂中的繩索。
+
+但是，這艘破損的帆船傾覆了，而海裔棄船跳進波濤洶湧的大海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>儘管你不作為，弗蘭特的海盜們還是擋住了攻擊。一隻大帆船慢慢離開了，艙口冒著滾滾濃煙，因為在紳士號的連續截擊下船體又一次受到破壞分裂。當食人魔跳進海裡時，突襲者們將火把扔進船的不斷坍塌的索具裡。
+
+紳士號左右搖晃，但是船體損壞範圍太廣了。大喊大叫的海盜們跳進水裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>儘管你不作為，艾戴斯的海盜們還是擋住了攻擊。一隻大帆船慢慢離開了，艙口冒著滾滾濃煙，因為當船上存儲的火藥被點燃時，船體在雷鳴聲中、在烈焰裡發生了爆炸。
+
+紳士號左右搖晃，但是船體損壞範圍太大了。大喊大叫的海盜們跳進水裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>你的助手們冷酷地點點頭，齊齊回到自己的任務崗位上。[Specified 1]控制舵盤，而[Specified 0]指揮炮手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>解決了一艘食人魔艦船後，阿羅海親王的水塑者們沒再浪費時間來動其他艦船，而直接將魔物送到大海裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>解決了一艘由食人魔充當船員的大帆船後，尼洛的加農炮就能夠集中炮火連續射擊第二隻大帆船，迫使它受損逃走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>隨著其中一隻由食人魔充當船員的大帆船退出戰場，哈扎努伊卡魯大喊著命令集中火力打擊第二隻船。這艘帆船的銅炮響聲如雷，撕碎了第二艘船的船體和船帆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>弗蘭特高高地站在紳士號的後甲板樓上，不斷作出手勢，喊叫著，但他的聲音被戰鬥的喧囂淹沒了。解決了一艘由食人魔充當船員的大帆船後，紳士號的船員公平地迎上了食人魔，海盜們在數量和機動性上比起魔物來要佔絕對優勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>艾戴斯站在鋼鐵尖牙號的船首，不斷作出手勢，喊叫著，但她的聲音被戰鬥的喧囂淹沒了。解決了一艘由食人魔充當船員的大帆船後，尖牙號的船員公平地迎上了食人魔，海盜們在數量和機動性上比起魔物佔絕對優勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>她緊張地瞥了一眼艾德爾，後者回給她一個放心的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>她模糊不清地吞了口口水，看向麥婭，而後者眨了眨眼並用手肘推她的肋骨。
+
+伊希薩發出一聲鼓勵性的叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>一隻艦船在黑暗中緊急左轉舵，而它的船員們高聲警告，極力試圖避免撞船。他們失敗了，並且當敵方艦船滑到它的舷側時，[Player Ship]還在波濤中起伏。
+
+另一艘船直接出現在前方。沒有發揮的餘地，[Player Ship]嘎嘎地迎面上前，擠到兩艘敵船之間。
+
+你被困住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>瓦利亞人從濃煙中紛湧而出，在甲板之間來回搖晃，咒罵著你的名字。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>一隊努瓦泰軍隊從濃煙中紛湧而出，跨過聚集起來的甲板，火器也準備就緒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>海盜們從濃煙中紛湧而出，懸掛在繩索上，從甲板上跳下來，尖叫著喊出對你的憎惡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>最後，瓦利亞大帆船零星地散佈著，破爛不堪，少數倖存下來的艦船向西朝瑪珈嵐之牙和國王港之外逃去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>最後，亡焰列島商行的艦隊零星地散佈著，破爛不堪，剩下的帆船向西朝瑪珈嵐之牙和梨繪之外逃去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>最後，流亡皇族零星地散佈著，支離破碎，而倖存下來的海盜艦船向西朝瑪珈嵐之牙和襯艙城之外逃去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>[Specified 0]拍了拍你的後背。「我們做到了，船長。」
+
+「更像是船長做到了，」[Specified 2]說，他正在用一塊破布擦去汗水和煙灰。「我們只是正好一起搭個順風車。」
+
+[Specified 1]笑了起來，但看向昂德拉之臼。「我們還沒有擺脫它呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>隊友和同胞發出刺耳的歡呼聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>「還是要慶祝！」[Specified 0]喊道，「為船長歡呼三聲！為[Player Ship]歡呼三聲！」
+
+船員叫著，大聲喊叫，嚎啕大哭，高聲吶喊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>「我們曾試著幫忙，無論付出什麼代價！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>「我們沒有炮彈了，船長！」[Specified 0]大喊道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>[Player Ship]的炮彈廣泛覆蓋，攻擊怪物周圍的水面。怪獸的頭轉過來，眼睛注視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>&lt;ispeech&gt;走吧。現在，趁我吸引住這些東西的注意力時。&lt;/ispeech&gt;斯基奧里拉法斯的聲音在你的思緒間迴盪。&lt;ispeech&gt;我們的債清了，靈視者。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>怪物對海龍發起了攻擊，它們彼此猛烈地撞擊，用牙齒和尖牙相互撕咬。
+
+當這對怪物直接用它們的巨大力量暴擊對方時，能量精粹從它們體內傾瀉出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

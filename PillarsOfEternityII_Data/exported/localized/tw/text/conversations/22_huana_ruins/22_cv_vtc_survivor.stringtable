@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_cv_vtc_survivor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「幫幫我……拜託了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「不要殺我……幫幫我！」荊棘覆蓋的葡萄籐緊緊地束縛著這個瓦利亞女人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「救我……救我出去吧，兄弟！」瓦利亞探索者懇求你。</DefaultText>
+      <FemaleText>「救我……救我出去吧，姐妹！」瓦利亞探索者懇求你。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「有什麼能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你這是怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我要走了，但我可能會回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「某種靈魂的東西讓這個女人不能控制自己……這種情況下，我們不能離開她，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「卡斯托爾主管派我們來的。我們……我們正在尾隨胡亞納探險隊，想要弄清楚他們在做什麼。」她的目光徘徊在廢墟的邊界。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「 有……有什麼東西趁著我們休息，給我們動了手腳。哦，我的天啊……我醒來，發現隊長嘴裡長出一朵花。我開始拔他的牙齒之間的雜草……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「屍體，全部都是……但我們不能背棄任務，我們要深入叢林。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「讓我們瞧瞧能否對這些葡萄籐做些什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「謝謝你！只是，我不知道我們該如何管理它……」她緊挨著纏繞的大片植被。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[在葡萄籐上使用腐化之手。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「如果我把葡萄籐再拉大點，你能從那裡逃脫出來嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「泰克胡，你能幫什麼忙嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你把手指放在葡萄籐上。黑汁腐爛的痕跡開始蔓延。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我……我想可以！謝謝。」她掙扎著，站了起來，痛苦地呻吟著，邊按摩著全身疼痛的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我可以加入你的航行嗎？我不關心在哪裡建港口，只要能遠離這裡就行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[接受她的提議。]「歡迎你，船員。那咱們就船上見吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[拒絕她的提議。]」實際上我們要養活很多人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「好，船長！那咱們就船上見吧。」巴爾蒂婭行了個禮，露出痛苦但真誠的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「也許獨木舟上預備瓦哈奇的位置。真該死，他們可能會打暴我的腦袋來警告外來者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我不折騰了。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「好吧。很簡單的事情，就是讓這些籐蔓得不到水源嘛。」泰克胡摸了摸下巴，得意地笑了。他蹲下來，閉著眼，手沿著葡萄籐遊走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>植物吐出餘下那些賴以生存的腐臭液體，一出讓人作嘔的黑色幽默劇正在你腳下上演。然後它放鬆了對巴爾蒂婭的纏繞，逐漸減弱消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「好，或許吧。這根籐蔓搞得我很難受，但我需要所有能得到的幫助。」她向你點點頭，鼓勵你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[用手拉籐蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>你振作起來，抓住最茂密的籐蔓，小心翼翼地避開刺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「不，不！別把我丟在這裡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「不是我最傑出的作品，但也完成了。」他對巴爾蒂婭眨了眨眼，並幫助她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>你仍然緊握葡萄籐。當你將它撕開猛拉時，樹枝上的東西就像它自己的肌肉一樣扭動。有時它也會鬆開 ——讓瓦利亞探索者不那麼難受。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>你試著盡可能抓好，讓籐不動。你緊拉猛拽卻沒什麼用，無意中將手放在一排豎著的荊棘上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[對籐蔓使用祛毒術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「讓我按照自己的意願去改變自然的腐化。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「你……你之前這麼幹過嗎？」她支撐著自己，深吸了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「讓我考慮一下。首先我有問題要問你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「好吧……我可以忍受。」她咬了咬牙，並點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>植物吐出餘下那些賴以生存的腐臭液體，一出讓人作嘔的黑色幽默劇正在你腳下上演。然後它放鬆了對巴爾蒂婭的纏繞，逐漸減弱消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[與籐蔓交流，告訴它要釋放水分，並接受死亡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>你釋放靈通，呼籲籐蔓抵抗邪惡的本能，通過自殺淨化自己。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我能照顧好自己。好好看看，好好學學。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「也許可以採用一個不同的計劃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「好吧。」巴爾蒂婭向你皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我還可以感覺到那些籐蔓在我的皮膚下蠕動……但總會熬過去的。謝謝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「也許我應該試試不同的方法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「好……如你所言。」巴爾蒂婭疼得齜牙咧嘴，但滿心期待。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「呃！我的天啊。該死的東西越來越緊了。」巴爾蒂婭退縮了並果斷地咬緊牙關。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「我希望你雙手力氣夠大，兄弟，否則，我可能遭殃。」</DefaultText>
+      <FemaleText>「我希望你雙手力氣夠大，姐妹，否則，我可能遭殃。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「艾德爾，你來試試？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「誰，是說我這個小老漢嗎？」
+
+艾德爾活動了下雙手，還特意拉伸了他那些粗大的手指關節。他笑起來就像一個滿足於人生目標的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>他抓住籐蔓，向後仰，利用身體的每一塊肌肉。隨著一聲清脆的折斷聲，最粗壯的籐蔓鬆開了巴爾蒂婭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>但艾德爾的力量無法對抗籐蔓， 它仍將自己的獵物捆得緊緊的。雖然他極力拉扯著籐蔓，但徒勞無功，而且一排可惡的棘刺還割破了他的手掌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「能幫上點忙真好啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>籐蔓把巴爾蒂婭越纏越緊，她開始聲嘶力竭地慘叫，她的骨頭幾乎被壓碎，鮮血四散飛濺，最後看見她的手從一團綠色的腐爛物裡伸出來。
+
+沒有多久， 她那柔和的尖叫聲消逝殆盡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「在這裡的北面，有一塊金色的圓盤 ——又大又重。我的一個同伴拿了一塊。然後，一切都搞砸了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「這個地方怎麼被兩個探險隊佔領了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「這裡有什麼東西引導著這些生物 ——我認為是一個女人？她……鑽到你的皮膚裡了。」巴爾蒂婭顫抖著，抬起手，放至太陽穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「我只是順便瞥了一眼她。體型龐大……而且她的女兒非常討厭外來者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「對於這個……腐化女王，你有什麼建議？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「殺了她！如果這片叢林還存在美好，她一定會伸出爪子，將其扼殺殆盡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我認為法杖可能會有用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>當你決定要將籐蔓全部處理掉時，綠叢林的脊柱開始煥發出蒼白、平靜的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>突然，你感覺後腦勺上有什麼在爬行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>&lt;ispeech&gt;你無言、喘息的懇求讓我們如此高興。入侵者 。&lt;/ispeech&gt;虛無縹緲的聲音隨著期待而顫抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>&lt;ispeech&gt;惡魔！滾出我們的領域！&lt;/ispeech&gt;那虛無縹緲的聲音像冰雹一樣撞擊著你的心靈，然後又慢慢消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>&lt;ispeech&gt;你擅自闖入我們家幹什麼？馬上走，否則後果自負 ！&lt;/ispeech&gt;你腦海裡的煩思愁緒隨著樹葉的沙沙聲而漸行漸遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>&lt;ispeech&gt;我們在那裡等你……。靈視者。&lt;/ispeech&gt;急切而可惡的低語在你腦海中迴盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>&lt;ispeech&gt;趁現在趕快離開這座島。這裡不歡迎你。&lt;/ispeech&gt;隨著干木分裂的聲音，那個聲音慢慢在你腦海中消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「當我讓你自由的時候，我似乎聽到了什麼……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「那是腐化女王，掌管這片毀滅廢墟的女族長。」巴爾蒂婭害怕地看向叢林。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>你讓法杖發光的一頭慢慢靠近籐蔓，讓它漸漸放鬆，服從你的指引。當你前進的時候，籐蔓自行展開，放開了巴爾蒂婭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「你提到金色圓盤的事了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「我們瞭解得不多。我們到這兒的時候，圓盤已經缺了一塊了。我見到最多的就是一堆胡亞納人的亂塗亂畫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「我打賭其他探險隊來找過……只是他們的運氣沒有我們好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「那些 『塗鴉』是千百年前我的人做的！我想你只是為了戰利品才想要它？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「不一定。在總部那邊可以用它來做張精美的桌台。」她下意識地微笑時，嘴角感到刺痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「你不能那樣和生物討價還價。我不在乎別人怎麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「自從我被抓後，她一直在我的腦海裡吱吱喳喳地叫。這些樹、 籐蔓……這場噩夢 ！我的天啊， 是都是她造成的 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「如果我因為興奮過頭而耽擱了一小會兒，那我肯定要輕手輕腳地走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「每當有人走近樹林的時候，守衛這片叢林的腐妖就會變得急躁。」她點點頭給你打招呼，充滿了敬意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「你就……這樣把我留在這裡嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「我不知道你是做什麼的，陌生人……但你的好意我心領了。」她向泰克胡擠出一個無力的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「你發現了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「比你想像的更強大，姐妹。讓我們開干吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>因為她中間部分的一根籐蔓收緊了，迫使她從肺部呼吸，因此她的話變短了。
+
+她咬緊牙關，與籐蔓爭鬥，以贏得一些喘息的空間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「混蛋！臭雜草。」她看著你，眼睛裡佈滿了血絲，疲憊不堪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「然後有人從背後襲擊我，醒來就在這裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「我們的船停在島的另一側，但……我是最後一個船員，不能帶她獨自航行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「聽得差不多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「你用船員的生命做賭注，然後輸了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「好，但是結伴而行對我們都有好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「抱歉，讓你厭煩了。」她揚起了眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「確實。」她向水手重重地點了一下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「靈視者，快，我們必須幫助她 ！」
+
+帕蕾吉娜的眼睛飛快地從巴爾蒂婭轉到籐蔓，然後再轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「謝謝，姐妹們……我可以用一隻手或四隻手。」她的微笑蒼白無力，但充滿感激之情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「為什麼要那麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「謝謝你的忠告。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>她開始越說越多，但當她一瘸一拐時，她就會停下來聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「我遇到過一些在周圍神出鬼沒的腐妖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「好，你的準備工作比我們做得更好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「寧願死在海灘上也不想死在這片叢林裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「你不會帶上我？甚至不能幫我擺脫這片廢土？我不知道自己還能這樣等待援助多久……」
+
+她吞了下口水望著你，疲倦中突然透露出猜疑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「我佔不了多少地方的，兄弟。我會報答你的……好嗎？」</DefaultText>
+      <FemaleText>「我佔不了多少地方的，姐妹。我會報答你的……好嗎？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「我說不。我已經說過了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「很好，你可以加入了。歡迎加入我的船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>選擇放棄的她開始慢慢向遺跡前進。然後她將視線轉向了身後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「好吧。保護好你的小腦袋，水手。」泰克胡向她鞠了一躬。
+
+巴爾蒂婭只是看著他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「這裡的材料要造一艘木筏綽綽有餘。運氣真好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[觸摸籐蔓，探尋到核心處的生命。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>籐蔓上覆蓋這一層溫暖的物質，摸起來更像是消化液而不是樹液。目前它們正忙著約束巴爾蒂婭，無暇顧及你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>你感受到腐爛女士的存在正在衰弱。通過你的觸摸，籐蔓逐漸意識到自己的主母已經不在了。
+
+一陣混雜了悲傷與如釋重負的感覺湧入你的腦海，然後消失不見。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>你周圍的叢林中充滿了低語聲。大自然在這裡像是一場遠古迴響。有某種古老而強大的東西已取代了它的位置，而剩下的一切緊握成拳，將圍繞在驚擾此處之人的周圍。
+
+巴爾蒂婭看向你，眼中閃動著希望。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

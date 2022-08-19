@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_backer_npc_kae</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你看見了一名年齡稍長的女子，她身上穿著的做工精良但略微骯髒的盔甲上裝飾著亮紫色的管條。她的眉毛與一巴被兩條長長的傷疤分成了兩半。
+
+儘管她的姿勢很放鬆，你還是感覺到她身上有股緊張的情緒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「日安，旅行者！」她咧開嘴笑著，眼睛裡面閃爍著愉悅的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你好哇！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「日安！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「一切都還好吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「有什麼能夠幫到你的儘管問！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「說說你自己吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「在下身為冒險者，樂意為您效勞。我生於聚鹿，成長於林野間，我瞭解亡焰列島裡面的每一個角落！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你能教我你在盎然之地學到的知識嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「如果你想要瞭解更多的話，我建議你買一本我的自傳！」她眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「榮幸之至！教育可是我的專長。我保證等我傳授完我的知識之後，你得頭痛一個&lt;i&gt;星期&lt;/i&gt;。
+
+「這一切的知識只&lt;i&gt;需要&lt;/i&gt;三千銅幣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>她從基礎訓練開始講起：如何安靜地穿越灌木叢，正確的時機與最好的躲藏方式，如何隱藏自己的腳步聲。
+
+講完之後她開始講解起更加複雜的各類理論知識。她似乎非常喜歡認識論，在結束之前她花費了大量時間論述其中的觀點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「安靜快速，這些是旅行的重點！」她友好地錘了一下你的肩膀後轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「林野間？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「對的，大部分時間都在盎然之地，但是最近我都在亡焰列島裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我得說自己是個&lt;i&gt;還不錯&lt;/i&gt;的譯靈使。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我在聚鹿與盎然之地都呆過很久，但是最近我都在亡焰列島裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「如果你覺得亡焰列島的環境很狂野的話，我得說，盎然之地裡面女士們的奢華午宴要比這裡瘋狂地多了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「如果你覺得亡焰列島的環境很狂野的話，我得說，盎然之地裡面女士們的奢華午宴要比這裡瘋狂地多了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「有遇到過很多麻煩事情嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「麻煩事情永遠都在跟著我！當然了，完全不是我的問題，都怪學院一直把我派去艾歐拉最危險的地方，那群該死的流氓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「如果我不瞭解他們的話，我會覺得他們是故意想要害死我！畢竟這是他們剷除一名終身教授最好的方法了。」她哈哈大笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「親愛的，當然了！沒辦法避開那些事情。當然了，完全不是我的問題，都怪學院一直把我派去艾歐拉最危險的地方，那群該死的流氓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「如果我不瞭解他們的話，我會覺得他們是故意想要害死我！畢竟這是他們剷除一名終身教授最好的方法了。」她哈哈大笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「有什麼好故事可以分享的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「有，多得是！有些故事會讓你覺得難以置信！就比如說有一次，我失去了我的部分耳朵，看見沒？」她拉開頭髮給你看了看她殘缺的耳朵。看上去是被什麼東西啃咬過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「一整只研究隊伍都跟我的耳朵一起消失了！那天真是異常漫長。
+
+「我的同事們都暗示說我有可能是被詛咒了，但是我並不這麼認為。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「這隻是我的工作的性質使然，你懂嗎？拜託，如果你想要一位女士去給你找到最罕見的植物，你就得派她去些最偏遠的地區啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我的同事伊內斯上次和我一起探險的時候想要去尋找一種巨型刺草，最後&lt;i&gt;迷路&lt;/i&gt;了。那種東西其實一點藥用價值也沒有！
+
+「最後我找到了她。甚至身上大部分東西都還在。這在盎然之地裡能算的上是次奇跡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我&lt;i&gt;是不是&lt;/i&gt;講個不停？」她開心地大笑了起來，一隻手橫在了自己的胸膛上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「不，不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「好極了！那就直接說正事吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>她點點頭。「好吧，這是你的權利。如果你改了主意，記得回來找我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[強化隱匿與玄學]「給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

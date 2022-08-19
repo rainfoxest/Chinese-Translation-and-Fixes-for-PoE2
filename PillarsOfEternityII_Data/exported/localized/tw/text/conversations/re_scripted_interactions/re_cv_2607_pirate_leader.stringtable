@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_2607_pirate_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>69</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>海盜90度彎腰行禮，左手放在精緻的瓦利亞大衣下擺。不過他的右手仍然放在武器的握柄附近。他站直了身體，漆黑的眼睛和你對視著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你回來了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「如果你的襯衫被弄髒了……嗯，這樣給的警告也還合理吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我看你不知道我是誰吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我想去哪就去哪，想何時走就何時走，想怎麼走就怎麼走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你當時看到那座高塔沒有？很漂亮吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我只是碰巧經過，遇見你也還不壞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「真該死。你是那個從東域來的靈視者吧？和皇族海盜關係不錯的那個傢伙。[Player Name]，對不對？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「毫無疑問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「的確很漂亮。我想那裡肯定曾是勝景。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我想也是。我們都是碰巧路過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「不過該問的還是要問——你來此有何貴幹？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你有個不錯的盒子。裡面有什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我願意花一筆好價錢買下那個箱子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「那東西是我的了，你別想阻攔——除非你希望自己身上再多幾個窟窿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[離開]「其實我正好要走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>拉涅提把頭歪向一邊。「如你所願。但你最好還是安心上路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「一大堆和你屁關係沒有的事。」
+
+蜷縮在附近的妖精笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「這箱子裡絕對沒有你想要的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你有個不錯的盒子。裡面有什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「聊個天而已，不用這麼凶吧。」
+
+拉涅提舉起雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「是嗎？也許我該教教你皇族海盜的禮節。兄弟們抄傢伙——把這個沒教養的粗人送去見希若洛！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[拔出武器。]「我剛好想摻和一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[攻擊]「夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「送他們去見希若洛，夥計們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「這就有意思了，因為很明顯和你無關。」
+
+他聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「那把該死的劍上面有詛咒。我們的船都被搞得亂七八糟了。捎帶著還有我的兩件大衣。」
+
+拉涅提搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「還有我的一些粗人朋友。這樣的話晚上還有不少樂子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「詛咒？什麼樣的詛咒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「那你應該不介意我買下它吧。我願意為這東西花上四百五十個子兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「要說誰能安全處理一把帶詛咒的破武器，那肯定是我了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「給，開箱子用的。」他遞給你一把小銅鑰匙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「趕緊把那個破箱子給我，否則我捅你個對穿腸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>他皺起眉頭，敲著下巴。「啊，好吧。既然你和皇族海盜有交情的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>拉涅提歎了口氣。「有人說過你很沒教養嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>食人魔吹了個口哨，拉涅提向他怒目而視。他敲著下巴思忖著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「朋友，我可以向你保證，細節不適合上流人士瞭解。可以說非常……噁心。污穢。」</DefaultText>
+      <FemaleText>「朋友，我可以向你保證，細節不適合上流人士瞭解。可以說非常……噁心。污穢。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「趕緊告訴我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「製作這破玩意的人管它叫嘔吐錐。這名字非常恰當，我可以這麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我聽說過你的事。說你是個思想家。」
+
+他點點頭，敲著下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你這麼想要的話就拿去吧。不過你那些珍貴的書籍被污損的時候可別來找我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「抽到短稈的來負責，規矩一向如此！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你說反了吧。不止有一根短稈，這也不是一個人的工作計，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「夥計們該幹活了。需要的話就一塊用那把破鏟子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>海盜大張著嘴，微微發出鼾聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「努力勞動的最好報酬就是幹完活好好喝上一杯！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「說得好，乾杯！等一下……我是不是在哪聽過這句話？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我朋友莫珂曾經這麼和我說過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我可不是沒事找事的人，我的朋友，但以沃艾珥之名，我是真的很好奇你在這裡做些什麼。」</DefaultText>
+      <FemaleText>「我一向對女性謙恭有加，但以沃艾珥之名，我是真的很好奇你在這裡做些什麼。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「弟兄們抄傢伙！我們遭到了攻擊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「真驚喜啊。一位優雅而有型的男士竟會出現於此。」她微笑看著年輕的紳士，儘管離她的雙眼還差了很遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「萍水相逢即是緣分，小姐。我若不能把握機會，又怎麼能算親王呢？」
+
+他的注意力轉回到你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「拉涅提，我的孩子！我得有好久沒有見過你啦！看來你還留著這個好朋友。」
+
+他向食人魔點點頭，眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「塞拉芬。「我聽說你離開閒暇先生號的時候還覺得是扯淡，結果我完全錯了。」他的笑容猶疑了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你知道怎麼對付我，好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「那玩意剛才是&lt;i&gt;說話&lt;/i&gt;了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你說的沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「你聽見什麼了？你肯定是幻聽了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「別分神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「四百五……那可是一大堆金子啊。或者別的一大堆什麼。我們海盜什麼都收對吧？」
+
+最終他點點頭收下了異常沉重的錢包。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「希望你還有能換穿的衣服。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「以雷馬洛的立場來看，這個選擇挺奇怪的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>他臉上回應的表情幾乎完美無瑕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>他的眉毛揚起在閃爍的眼神上方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>他皺起眉頭，不停上下打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「這東西用在我的死敵身上都不太好……嗯，可能用在&lt;i&gt;死敵&lt;/i&gt;身上也行吧。」
+
+他笑了起來，臉頰上露出一個酒窩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「安靜點，你這老鼠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>拉涅提抿起嘴唇，手指在武器握柄旁打轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>拉涅提歎了口氣，按了按鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

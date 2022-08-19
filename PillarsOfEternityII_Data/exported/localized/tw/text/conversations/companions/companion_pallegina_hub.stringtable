@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_pallegina_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>253</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「又見面了，靈視者。自打空嬰危機之後我們就沒再見過了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「雖然過程和我的計劃不太一樣，不過結果還算盡如人意。」
+
+她低頭看著胸甲上的五陽徽記，聳聳肩笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我可不會猜到自己會與努亞堡的靈視者一同返回，更不用說是在伯爵的命令之下了。」
+
+她臉上的表情在愉悅與惱怒之間不停轉換。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「靈視者。」
+
+她向你點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你之前是有什麼話想對我說嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「嗯，的確如此。我很高興你又與我並肩作戰了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「挺好，我覺得。儘管和我們倆一開始希望的不太一樣吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「對你來說是挺好。我失去了城堡還差點死了。你也不用問了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「確實如此。我很高興你又與我並肩作戰了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「『盡如人意？』這種說法也算對吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你也不用問了，我的城堡被毀，自己也差點死了。我可不覺得這『盡如我意』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我知道你並非故意讓厄運降於我身，我也很感激你在女王港所說的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我知道你也不怎麼關心我的好壞，不過我會努力將此變為我們倆的雙贏。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「要說清楚的是，除非伯爵給我下了命令，否則我和你沒有任何關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我聽說你到了女王港，但我一直不相信，直到尼切斯伯爵召喚我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「很好。」
+
+她表示尊敬地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>她又看向你，目光有些困擾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>她眨了眨眼睛又看向你。她的臉上泛起惱怒的皺紋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「能再說說打敗撒奧斯後又發生了什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「關於俄撒斯的事情，你是什麼看法？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「你到目前為止覺得亡焰列島如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我們分別後，我回到共和國向大公稟報了經過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「貿易協定一開始對共和國很不錯。公爵為我完成了如此出色的任務而嘉獎了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「不管他，或是&lt;i&gt;他們&lt;/i&gt;要做什麼，都對我們相當不利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「嗯，就算他對你有什麼特別的興趣，我估計只會比我想的更生氣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>她發出一陣諷刺的笑聲，眨著金色的眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我並不關心自己會被分配到哪裡。但我覺得亡焰列島確實對共和國大有裨益。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我受夠泰克胡了。如果你能多少影響他一些就快去做吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「裘荻。」她轉了轉金色的雙眼，擺了擺手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我被指派前來援助你，靈視者，但我並非無所不能。」
+
+她一眼不眨地對上你的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「很好。我沒有什麼擔心，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「但憑你的吩咐。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我得說和你一起前往雙榆城對我們都有好處。」
+
+她向你露出一個難得的笑容，調整了一下胸甲旁邊的紅色肩帶。片刻之後，她的視線投向遠方，笑容也漸漸帶上了一絲懷疑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「很好，靈視者。我們並非事事都能稱心如意，即便我們已經付出了最大努力。」
+
+你的話語似乎迅速抹去了她臉上的丁點喜悅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「嗯，至少你還站在這能喘氣呢，對吧？」
+
+她從失望中回過神來，聳聳肩向你擺了擺手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「也許這次我們會相處得更好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>她特意強調了一下言辭，右手指了指你，然後又指向地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我們與靈魂君主簽訂的貿易協定對共和國好處多多。鹿林在維德溫的遺贈之後仍然處於恢復中，無力與我們抗衡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「大公對我的表現十分滿意，命我擔任斯庇倫托女公爵的私人護衛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「斯庇倫托是諸共和國最美麗的城邦，以及，雖然不想承認，但比起其他大公，我更喜愛這位女公爵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「不過我們的利益仍是以鹿林為代價的。得知鹿林由於我的行動而遭受苦難，勝利的果實也沒那麼香甜了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「他們當然怒火沖天。我能保住性命已經很幸運了。他們奪去了我的胸甲，除下了上面的星星。然後我被送上了一艘瑞德賽拉斯的船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「但鹿林得知其與艾爾‧格蘭芬瑟的貿易被截斷後，便向共和國發動了戰爭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「我們損失了幾十艘貿易船與數千名居民。瑟洛拿公爵甚至為此丟掉了性命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「最終我們只能選擇退讓，開放了鹿林與艾爾‧格蘭芬瑟之間的貿易。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「也許我知道會有這樣的結果。我只希望我的國人不會因為我要證明自己的本能正確而承受更多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我作為護衛在各個港口間輾轉了大約三年，這時斯庇倫托女公爵通知我需要前往卑亞革普待命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「公爵認為艾爾‧格蘭芬瑟、鹿林與共和國的貿易從長遠來看益處良多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「和你一樣，我也不想再見到他們。沒有人向我道歉，但我接受了卑亞革普女公爵的赦免。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我解釋道允許鹿林保留部分與艾爾‧格蘭芬瑟的貿易權利會對所有人在接下來的多年中都有好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「往好了說，神明都是一群擁有力量的孩子。往壞了說，他們不過是一群向世界潑灑怒火的野獸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我對俄撒斯屬於哪種類型並沒有興趣。」
+
+她揮了揮手背，不再思考這個問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「不過這和以前一樣吧？諸神自娛自樂，讓我們來定下賭注。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我懷疑貝拉斯和其他神明不會認為你的『債』已經還清了。該死，一切都該死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「咱們倆得想辦法扭轉局面，我說真的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我只能把寶押在俄撒斯身上了。只有他明白這些神明其實有多麼腐敗和自私。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「比這更好，他的計劃儘管很瘋狂，但肯定能讓其他神明抓狂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「他們已時日無多，並且對此無計可施。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「你不擔心俄撒斯會停止貝拉斯之輪嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「他們最終全都會遭報應的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[一言不發。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你對此不高興嗎？你怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「真的。」
+
+她收緊下頜向你堅定地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「等一下。我並不想消滅眾神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「完全不會。鑄魂師會修復諸神阻止的一切，之後共和國會成為開路人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「運氣好的話，過不了幾代人，諸神的名字就會被忘得一乾二淨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>她哼了一聲。「你想要的東西似乎並不重要，靈視者。就這一次，我非常滿意讓這位神明的計劃得逞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我&lt;i&gt;沒有&lt;/i&gt;怎麼。當英格維仙決定成為神明之前，凡人的生活很充足。等這些傢伙全完了蛋，我們也不會過得更差。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「鑄魂師需要花些時間來修復諸神導致的破壞，但我堅信他們一定能成功。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「如果公爵需要我，我會很高興為其效命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「他似乎覺得因為我倆都是『神嗣』就應該分享有某種特別的聯繫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「真的，我唯一想和他分享的聯繫就是拿船錨絞在他的脖子上。」
+
+她閉上眼睛長出一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「有點太苛刻了。也許只能絞住他的腳吧。拜託了，讓他停下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「她還是個孩子。一個有想法，有行動的孩子。如果她願意活在幻想裡，那也是她的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「但她很容易因為與自己相悖的想法而受傷。瑞德賽人都這麼天真無邪嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「不管她有什麼問題，那都是她自己的。如果她堅持要把我也搭上，那她最後只會更受傷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我遵照你的吩咐，但我效命的對象是瓦利亞共和國。我不期望一位外來者能分享我對祖國的愛，但至少不要做出有悖之事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「公爵、瓦利亞商行，甚至皇室——我有責任守護這些人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「你尊重這些，我也會尊重你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「我沒能完成任務，這沒有任何藉口。共和國喪失了與格蘭芬瑟人貿易的黃金機會，公爵對此大發雷霆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我被趕出了兄弟會，同時也被剝奪了胸甲上的五陽徽記，登上了一艘前往瑞德賽拉斯的船。真的，我能保住性命已經很幸運了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我幹起了護衛的工作。車隊，船隻，富有的商人。我對此都無所謂。被流放後，我已經失去了人生的目標與榮譽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「多年過去，我從艾歐拉東域到了亡焰列島。有人會說是命運讓我們再次相遇，靈視者。但你肯定已經知道了我的想法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「這隻是運氣罷了。時間會證明這是好是壞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「這麼說你對效命共和國的事改變了想法？」
+
+她長滿羽毛的腦袋扭到一邊好奇地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「是的。我需要你的幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「現在還沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「你想通後再來吧，我一直在這裡。尼切斯伯爵指示我來援助你……因此我會等著。」
+
+她用靴子點點地板，聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「很好。」
+
+她向你猛地點點頭，走到你身邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「你和瑪奈哈之間出了什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>帕蕾吉娜把頭緩緩轉向你，揚起眉毛，內眼瞼來回翻動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「你和瑪奈哈不是一起的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「呃……你懂的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「瑪奈哈曾是個好同伴與不錯的戰士，但她總是胡思亂想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>她轉動著金色眼睛，縮起下頜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「似乎你也有這樣的問題。」
+
+她的手指撥動著腰間一根任性突出的羽毛，將其服服帖帖地按在皮膚上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「靈視者，如果你有空的話，我想和你聊點事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「靈視者，我們該好好談談了。就現在。」
+
+她的舉止冷冰冰的，眼睛半閉著，交叉雙臂緊咬牙關。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「我理解你在亡焰列島上也有自己的問題要處理，但我在此要代表瓦利亞共和國。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「我會盡力幫助你，只要你別太過分，或是做出不利於共和國的舉動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「首先我要問問你的忠誠與品格。如果這樣繼續下去的話，我會向上級回報請求分配至其他地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「抱歉。我並非故意要針對你或是共和國。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「帕蕾吉娜，請你理解我現在的兩難處境。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我們省了這些麻煩吧。你可以走了。我不需要也不想要你同行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「很好。既然如此的話。」
+
+她向你猛地點點頭然後轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「我是理解，太理解了。兩難處境才能考驗我們。這是你的考驗。三思而後行。」
+
+她向你猛地點點頭然後轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>她縮起下頜長出一口氣。她頭上的羽毛根根豎起。在她死盯著你看時，你可以聽到她咬牙切齒的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>她把手放在腦袋兩側撫平羽毛。她的下頜也放鬆了一些。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「很好。」
+
+帕蕾吉娜向你投來意味深長的目光，腦袋擺動了一下然後轉身走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「如果你要對抗我，就會付出代價。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「你這蠢貨。我很樂意為了共和國獻出生命。但至少現在我知道了你的立場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「再見，靈視者。」
+
+她向你猛地點點頭然後轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「我很感謝你一直在幫助我與共和國。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我知道你是為了某個重要目的而來到亡焰列島，而且那和我們的目標並不相同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「不過我仍希望你能明白共和國可以改善這裡情況的潛在可能。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「我明白。共和國在這做了不少好事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「確實有這種可能，但情況也很複雜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「別掉以輕心。我們接下來還有很長一段路要走呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「多謝。祝你平安。」她微笑著向你點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「確實如此，但我想你會繼續支援我們的。」
+
+她笑了笑，對你點點頭，不過她的嘴中似乎有一陣懷疑的低語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>她臉上愉悅的神情漸漸消失，就像被清晨陽光吵醒的醉漢一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「祝你平安。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「我誤會你了嗎？」
+
+她後退幾步打量著你，她的金色雙眼骨碌碌不停轉動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「當然，你想支援誰是你的決定。不過你要記清楚我的立場。」
+
+她向你客氣地點點頭然後轉身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「靈視者，我會向我的上級就我們二人共行期間你的行動進行全方位報告。」我不會再回來了。」
+
+她緊縮著下頜，咬緊牙關等待著你的回答。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「對不起。你看起來有些沮喪。我們能不能談談？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「怎麼，你指望我會崩潰大哭起來嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「很好。走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「如果你對我的表現有任何抱怨，拜託你直接前往斯庇倫托女公爵的宮殿進行投訴。」
+
+她的嘴邊露出一絲冷笑，不過她還是有所克制，微微點頭後便轉身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>&lt;link="neutralvalue://瓦利亞語：祝你早日翻船，你這坨屎。"&gt;「Peri chue na tuor nau bassenderi, merlanet.」&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>她冷笑看著你，搖了搖羽毛腦袋然後轉身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「你好，靈視者。尼切斯伯爵派我來的。由於你的緣故，共和國又需要我了。」
+
+她臉上的表情難以捉摸。她的嘴邊有一絲抽動的笑容，但眼中卻寫滿了擔憂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「&lt;i&gt;你&lt;/i&gt;對我有需要嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「我一直很需要你，帕蕾吉娜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「我想是的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「至少現在還沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「當然沒有。我為何會需要一個被聖武團除名的失敗者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「很好。」她猛地點點頭，邁步上前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「如果你改變了心意，尼切斯伯爵吩咐我隨時聽候你的差遣。」
+
+她緩緩向你點頭，向後退了一小步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>她厚實的睫毛遮在金色瞳孔之上。她縮起下頜用鼻子長出一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「隨你便。我來這裡只是奉了伯爵的命令。祝你對付巨像時好運，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>她好像身前突然有一股腐敗惡臭似的朝你擺擺手，扭過頭去哼了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「看來你又一次把我扯進了眾神的爛攤子。至少這次我們要看看眾神會遭到什麼報應。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「另外多虧了你，商行最終成為了受益方。」
+
+她向你溫柔一笑，微微點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「我當然更希望你選擇去支援商行，不過……我想胡亞納人有權利選擇自己的命運，只要共和國不會為此蒙受損失。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「我當然更希望你選擇去支援商行，不過……只要共和國不會為此蒙受損失，戰利品歸皇族海盜也無所謂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「與你一同效力是我的榮幸，靈視者。你永遠是我志同道合的好友。」
+
+她向你走來，伸出一隻手。她高高昂起頭，金色雙眼的瞳孔中燃燒著藍色的火焰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「你是位可敬的同志，我很自豪能與你一同再次效力。」
+
+她立正站好，將手放在胸口向你致敬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「我們倆的確不總是能相互看對眼，不過……我很高興我們一起堅持了下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[上前走去抓住她的前臂還禮。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[還禮。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「這是一次艱難的旅程，不過已經差不多結束了。讓我們完成它吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我也這麼想。我們一起努力到最後吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「別太急。這件事還沒完呢。我們走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>當你們緊握住彼此的手臂時，有一股暖流從帕蕾吉娜湧入你的身體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>隨著這股暖流而來的是她對祖國和人民深深的自豪與熱愛之情。
+
+你在種種景象中瞥見了瓦利亞共和國的無數城市與貴族。你看到了商人、藝術家以及正在練習技藝的鑄魂師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>你還看到了五陽兄弟會的許多其他聖武士的臉龐。儘管你沒有感受到她對這些人的暖意，但她也懷著相同的驕傲與敬意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>最終，你看到自己的臉龐出現在瓦利亞的領袖與偉人們之中。你能感受到帕蕾吉娜對作為一國勇士的你懷有的艷羨之情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>然後，這股暖意漸漸褪去了。你又重新看到了帕蕾吉娜平靜的臉龐。
+
+她將另一隻手放在你的手上，點點頭鬆開你的手臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「我們走吧。俄撒斯還等著我們呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>她支吾了一會，眨眨眼向後退了一步。一言不發的她將手放到身側。
+
+她移開了目光，朝你的方向點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「當然了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>她看著你還禮，臉上綻開一絲微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「當然了。帶路吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「靈視者，如果有空的話我想和你聊聊。」
+
+帕蕾吉娜臉上露出平靜的微笑。透過她金色雙眼的暗淡瞳孔中，你能看到有細微的藍色火苗在舞動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「我很感激你對賈克洛的幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「沒有你的話，我肯定沒辦法救他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「就算我們沒能救他，沒有你的話，我可能連找都找不到他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「這讓我想到鑄魂學的未來，尤其是在共和國之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「我知道自己對國家的熱愛對你而言有些奇怪。有時候我自己都會覺得奇怪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「就算我不能分享你的信仰，但我理解你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「一點都不奇怪。我也相信瓦利亞共和國會帶我們走向未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「是有一點奇怪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>她的嘴唇咧出一道大大的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>她微微一笑點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>她向你微微一笑聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「共和國是我的畢生所愛。我願意將自己的一切獻給國家、人民和未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「挺靠譜的。你已經奉獻了自己的生命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「畢生所愛？難道你沒有考慮過談個戀愛什麼的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「國家是由領袖與人民決定的。你不該把信仰放在這麼脆弱的東西上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「這並非毫無來由。也不是因為我在共和國得到了庇護。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「我看過這世界上的許多事物，許多美麗的城市、人民以及文明。我的內心中仍然相信瓦利亞共和國會帶領我們走向未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>她滿是羽毛的頭偏向一側思考著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「如果愛意味著我對祖國的感情，那麼還是算了。我的熱愛遠不止對一個人或是對公爵們那麼簡單。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「國家不僅僅只有領袖和人民。也不止其周圍的城市與陸地。我們之間有著心靈的維繫。我們也因此團結在一起。人民一心，其利斷金。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「在我的人民之中有一股精神的力量，這遠遠超過單獨某個平民或領袖。它將我們維繫在一起共同向前。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「我們由此得以創造和學習，不斷拓展對艾歐拉、暗空與靈界瞭解的一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「是每位瓦利亞人內心中的精神之力給了我勇氣去相信艾歐拉會迎來更美好的未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「我明白。我也能感覺到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「你為什麼要告訴我這件事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「我無法理解你的熱情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「太棒了！」
+
+你看到帕蕾吉娜的雙眼深處燃燒著藍色的烈焰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「因為靈視者你在艾歐拉與靈界的諸多強大勢力之間遊走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「終有一天亡焰列島人民的命運會經由你手決定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「當那一天來臨時，我希望……我&lt;i&gt;相信&lt;/i&gt;你也能看到我眼中的未來。」
+
+你看到帕蕾吉娜的雙眼深處燃燒著藍色的烈焰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「&lt;i&gt;你&lt;/i&gt;不是五陽兄弟會中的結拜成員。你不理解也正常。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「不過，終有一天亡焰列島人民的命運會經由你手決定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「希望你到那時都一路平安。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「你知道共和國能帶來的未來，你也知道亡焰列島人民的命運很快將經由你手決定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「當那一天來臨時，我相信……我&lt;i&gt;知道&lt;/i&gt;你也會看到我眼中的未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「我必須要說，靈視者你做了個出色的決定。共和國絕不會讓你失望的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「靈視者，恕我必須拒絕。不管你打算實行什麼計劃來迎合這些……海盜，反正絕不能以商行的光魂珀磨坊為代價。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「別緊張。我並沒打算偷竊光魂珀磨坊的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「到時候看吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「看來你還沒注意到，我壓根不在乎瓦利亞商行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「很好。」
+
+她點點頭，但移開目光時眼中仍然流露出一絲懷疑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「我警告你，如果你要對瓦利亞商行不利，我會馬上告發你的。」
+
+她伸出一隻手指戳向你的位置，然後搖搖頭轉身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「靈視者，你這樣做是想我馬上離開你的隊伍了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「亡焰皇家商行不僅僅是瓦利亞商行的敵人，而且說實話也是共和國的敵人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「很明顯我無法說服你放棄與我們的敵人結盟，那麼我必須離開了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「不管怎麼說，流亡皇族不過是一群海盜，他們前往烏凱佐也只是想掠取其中所有的光魂珀而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「胡亞納人上次踏足烏凱佐已經是兩千多年前的事了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「如果你對此袖手旁觀，他們肯定會阻止&lt;i&gt;任何&lt;/i&gt;鑄魂師前往研究俄撒斯想要摧毀的機械。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「如果他們得逞了，鑄魂師們就永遠沒法前往研究俄撒斯想要摧毀的機械。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「如果他們佔據了烏凱佐，肯定會將其打造成又一處軍事港口、火炮鑄造廠或是建造艦隊的船塢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「所有的光魂珀，鑄魂師們能夠研究的英格維仙機械——也正是俄撒斯將要摧毀的機械——全都會失去用處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「我很抱歉，帕蕾吉娜。我也不想事情變成這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「我們各自都做出了選擇。還有什麼可說的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「你站在了錯誤的立場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「還沒結束。不過當終結來臨時，也許我們還會重聚。」
+
+她猛地點點頭然後離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>她猛地點點頭然後離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「為什麼這麼說？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「瓦利亞共和國就是一群帝國主義殖民者，他們在胡亞納人的土地上搾取後者的勞力以此獲利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「我可不相信共和國這群人能為我們帶來什麼美好的未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「亡焰皇家商行會為亡焰列島帶來秩序。這才是它所需要的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「皇族海盜信奉自由，我也是如此。既然他們需要一片家園，我很樂意幫這個忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「皇族海盜正面臨著被一掃而空的危險。他們的文明有權利存活下來，獲得一片屬於自己的家園。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「我不需要把自己解釋給你聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「亡焰列島屬於胡亞納人。英格維仙從他們手中偷走了烏凱佐。我只是要物歸原主。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>她咬了咬牙，但什麼都沒說。她猛地點點頭然後離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「如果我們就這樣應對俄撒斯擺在我們面前的挑戰，那我真是擔心全體基斯的未來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「你拒絕了共和國前往烏凱佐的幫助。更糟的是你還要與瓦利亞商行為敵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>「如果共和國無法保住烏凱佐，那麼俄撒斯將要摧毀的所有機械，以及所有的光魂珀都將與鑄魂師無緣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「我要幫助胡亞納人，但瓦利亞人也不是我的敵人。你沒必要非這樣不可。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「我要幫助皇族海盜，但瓦利亞人也不是我的敵人。你沒必要非這樣不可。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「我要獨自行事，但瓦利亞人也不是我的敵人。你沒必要非這樣不可。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>她瞇起眼睛仔細打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「我在雙榆城時選擇相信你。那時你沒讓我失望，靈視者。或許我可以再相信你一次。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「可別辜負了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「不，我在雙榆城時選擇相信你。結果換來了五年的流放之旅。我&lt;i&gt;絕不會&lt;/i&gt;再讓我的祖國失望了，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「祝你好運。」
+
+她猛地點點頭然後離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「啊，努亞堡的靈視者。我聽說你到了亡焰列島來著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「啊，努亞堡的靈視者。我聽說你到了亡焰列島來著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「尼切斯伯爵下令派我前來協助你。當然，是以共和國的名義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「尼切斯伯爵決定原諒我過去的失職，讓我再次前來協助你。看起來我對共和國又有用處了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「你對我有需要嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

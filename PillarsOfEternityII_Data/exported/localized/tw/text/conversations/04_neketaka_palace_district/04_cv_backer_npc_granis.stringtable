@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_backer_npc_granis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你遇見過一個高個子、棕色頭髮、穿著高級戰甲的人。正常情況下這不會引起你的注意，但是他的戰甲不同尋常，它是深綠色的並且上面印著黃金樹的圖案。
+
+他把手搭在劍的圓柄上，看著那些充滿渴望眼神，表面放鬆但內心緊張的人群走過去。他看見你時瞇起了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你需要我做什麼？」他警惕地看著你，好像在判斷你是不是咬人的蛇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你好，很高興遇見你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你怎麼說？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「說說你自己吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>他開始有點猶豫，不確定你的意圖。他瞇起眼睛，幫你量尺寸，然後點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你能教我當盾衛時學到的東西嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我已經教了你我能教的一切。如果你想學更多，那麼我鼓勵你加入盾衛團。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「好吧……你只有自己成為盾衛才能真正學到全部的本事，但我想我現在可以教你一兩件事情。但這項特權將花你三千個銅板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>他在你的兩個肩膀上放上兩個重重的沙袋並且讓你穿著全身鎧甲進行一系列跑步訓練，目的是增強你的力量和敏捷性。
+
+確信你已學會了足夠的知識可以自己繼續訓練後，他親切地拍了下你的肩膀並祝你旅途順利。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「再見。」他隨意地點點頭，知道你的離開，然後又開始忙自己的事了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你的護甲很有趣啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[等待。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我想是的。你熟悉聖伊爾佳盾衛嗎？我們是聖武團。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「確實如此。我自己也是聖武團的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我的兄弟！我很高興在酷熱的亡焰列島上看到一張友善的面孔。我盼望你是來這裡誠實工作的？
+
+「好吧，我不需要聽詳細細節。畢竟，你打聽過&lt;i&gt;我&lt;/i&gt;。」
+
+他戲劇性地清了清嗓子。</DefaultText>
+      <FemaleText>「我的姐妹！我很高興在酷熱的亡焰列島上看到一張友善的面孔。我能相信你是來這裡誠實工作的嗎？
+
+「好吧，我不需要聽細節。畢竟，你打聽過&lt;i&gt;我&lt;/i&gt;。」
+
+他戲劇性地清了清嗓子。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[點頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[搖頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「聖武團一開始是負責跟聚鹿王國議合的庫爾金女貴族使者伊爾佳的護衛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「那時，我們團的故事流傳的很廣。很好。」
+
+他戲劇性地清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我是一個失寵被貶的貴族家庭的兒子。當我還是一個小男孩時，我的父親和哥哥們被以叛國罪處死——正確來說，我必須補充下——而我和我的母親還有姐姐被扔到街上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我們名下只有一個裝滿祖傳物品的大箱子。其中一件就是這套盔甲，它曾屬於我大哥。
+
+「現在，我努力兌現承諾，挽回家族聲譽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「這真是長話短說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我已經教了你我能教的一切。剩下的要等你入聖武團後再學了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「聖武團的第一批武士被禁止攜帶武器參加議和會議，而她卻在此時遇襲了。在盾牌的幫助下，他們擊退了刺客並將她帶到了安全地帶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「她之後因傷而亡，而聖伊爾佳盾衛則為了紀念她而誕生了。」
+
+他戲劇性清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「那時聖武團的傳說一直在家鄉流傳著。」很好。」
+
+他戲劇性地清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「不，不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>他聳聳肩。「那好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「謝謝你。」他點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[提高生存和體能] 「給。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>他拍拍手點了點頭，顯得無比自豪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「轉念一想，我還是過一會兒再來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

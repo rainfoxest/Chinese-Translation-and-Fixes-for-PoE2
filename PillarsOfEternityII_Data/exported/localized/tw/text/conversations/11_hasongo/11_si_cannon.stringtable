@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_si_cannon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一門重型黃銅射石炮架在城牆上，朝向大海。
+
+從這裡，你能俯瞰整個被水淹沒的城堡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[不理射石炮。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>射石炮仍在孤獨地警戒著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[給射石炮填裝彈藥。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你小心翼翼地把彈藥裝入射石炮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你明白當你看到自己的孩子出生時那種做父親的驕傲嗎？
+
+「我現在就是這感覺。」
+
+麥婭輕輕拍了拍眼前的武器。</DefaultText>
+      <FemaleText>「你明白當你看到自己的孩子出生時那種做母親的驕傲嗎？
+
+「我現在就是這感覺。」
+
+麥婭輕輕拍了拍眼前的武器。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[將射石炮轉向那群蛇妖。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>你點燃引信，堵上了耳朵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你小心翼翼地把彈藥裝入射石炮。
+
+它現在已填裝完畢，朝著大海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>底座上的齒輪因生銹卡住了。需要某種潤滑油——或者極大的力氣——才能轉動轉台。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[發射射石炮。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>你試了，但它卡住了。
+
+往下一看，你發現固定在轉台上的齒輪生銹了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[將射石炮推正位置。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[將射石炮推正位置。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>你用力推。
+
+不顧生銹轉台發出的刺耳聲和自己手腳的疼痛，你成功把射石炮轉向了蛇妖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>你用力推，但射石炮幾乎紋絲不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>你用力推。
+
+不顧生銹轉台發出的刺耳聲和自己手腳的疼痛，你成功把射石炮轉向了蛇妖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>你用力推，但射石炮幾乎紋絲不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Specified 0]用力推。
+
+不顧生銹轉台發出的刺耳聲和自己手腳的疼痛，[Specified 0]成功把射石炮轉向了蛇妖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Specified 0]用力推，但射石炮幾乎紋絲不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[退離轉台。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[將射石炮瞄準那群蛇妖。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>你查閱了你找到的火炮指南，根據它的說明瞄準你的射擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你望著目標盤算了一下，把射石炮調回到一個看似合理的角度。
+
+或許是。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「船長？儘管我對您充滿了敬意，但如果我們想快點搞定然後離開這裡，就不能在我們的船上炸開個大洞了。」
+
+麥婭咬著下唇，瞇著眼睛調整準星。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「但願那個沒盡到維護職守的傢伙在傷亡名單上。」
+
+麥婭怒氣沖沖地瞪著現狀尷尬的轉台。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[把烹調油脂抹在齒輪上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>這活又髒又味兒，可一旦齒輪——和你的手臂——抹上了潤滑油，你就能轉動射石炮了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[掃視城堡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>殘破的塔樓無力地從水中聳起，屍體和殘骸漂浮在它們之間。
+
+你看不到任何生命的跡象，直至你注意到城堡的中心地帶。
+
+一大群蛇妖聚集在中央大道上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[根據火炮指南用射石炮瞄準]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>你調整射石炮的角度以校準彈道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[檢查彈藥。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>射石炮尚未填裝，你在它附近也沒看到任何彈藥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[檢查轉台。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>你用力推，但射石炮幾乎紋絲不動。
+
+由於用力過猛，你還把肩膀給扭傷了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>你用力推，但射石炮幾乎紋絲不動。
+
+由於用力過猛，你還把肩膀給扭傷了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Specified 0]用力推，但射石炮幾乎紋絲不動。
+
+由於用力過猛，[Specified 0]還把肩膀給扭傷了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>你估測了與蛇妖間的距離，根據你的瞭解考慮了彈道和拋物線軌跡。
+
+經過幾次心算，你把射石炮微調到了合適的開火位置。你自信能以這個角度除掉蛇妖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「算數時都不用手指。厲害了，我的船長。」
+
+麥婭拍了拍你的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「如果我們命中率不高，最好還是再去拜訪一下那位焦慮的軍需官。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「也許儲藏塔樓裡的某位倖存者能幫上我們。」 亞洛斯說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「知道該怎麼裝填這玩意的應該只有那個神經兮兮的小姐了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「那些倖存者肯定知道這頭野獸的彈藥存放在什麼地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「努瓦泰的小藍妞也許知道我們能從哪討來這野獸用的大爆球。」
+
+塞拉芬望向了塔樓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Specified 0]參考了炮兵手冊，然後用它安排射擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Specified 0]估算了下距蛇妖的距離，然後用棘輪把射石炮推到合適的開火位置。
+
+[Specified 0]很有信心，你可以在平台上以這個角度除掉蛇妖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Specified 0]望著目標盤算了一下，把射石炮調回到一個看似合理的角度。
+
+或許是。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[將射石炮轉向西方的碎石障礙。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[將射石炮對準碎石障礙。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>你估測了與西側平台間的距離，根據你的瞭解考慮了彈道和拋物線軌跡。
+
+經過幾次心算，你把射石炮微調到了合適的開火位置。你自信能以這個角度轟開平台上的碎石障礙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Specified 0]估算了下距西側平台的距離，然後用棘輪把射石炮推到合適的開火位置。
+
+[Specified 0]很有信心，你能以這個角度轟開平台上的碎石障礙。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

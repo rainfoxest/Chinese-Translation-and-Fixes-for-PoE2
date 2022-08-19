@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_stranded_ship_lagufaeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0]在索具上吹口哨並急切地指著左側。「快看啊！看啊！」
+
+你的船員們匯聚起來盯著遠方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我要去那艘船上看一看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「繼續我們自己的航線。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 2]示意。「遵命，船長。如此甚好。不知道會有什麼蛾子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>船員們準備好小艇，你用漿驅動它開往漂浮物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「大炮開火。把那些生物嚇跑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>炮彈劃出一道弧線，飛過戎客船和船殼後砸在水上，殘骸被潑了一圈水花。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>炮火齊鳴，[Player Ship]為之戰慄。
+
+遺憾的是，有幾發炮彈穿過船殼，正中吃水線下方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你安全抵達並測量了船側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>船員們準備好小艇，你用漿驅動它開往漂浮物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你抵達之時，魚人嘶嘶叫著，然後從甲板上衝你咕咕叫。有一些拿起吹箭筒來，接著天空中便飛滿了帶羽飛鏢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[SkillCheck 0]在你身後驚叫。你回頭望去，看見一個夥伴正把一根匕首長的帶羽針頭從肋間拔出來。你取走飛鏢，把它丟到海裡，[SkillCheck 0]則試著止血。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>有一枚飛鏢打在你身上，穿破了護甲與皮膚。你把它從身上拽下來，丟到海裡。你用手握著傷口，血從指縫裡流出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>鏢如雨下，但沒有打中你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「開近點。我要好好瞧瞧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你在船上看到一條廢棄平底帆船上褪了色的亡焰列島商行標識。破損的船帆懸在桅桿上，木板上滿是裂痕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1]示意。「是，船長。」
+
+[Player Ship]收緊索具，抵達無名船隻。
+
+它從朦朧中現身了，原來是一艘棄船，上邊有褪了色的亡焰列島商行標識。破損的船帆懸在桅桿上，木板上滿是裂痕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>一隻瘦長靈活的生物打量著船側，它的四根手臂抓住圍欄翻到甲板上。接著你便發現一群魚人湧了上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Specified 1]摀住雙眼卻張開手掌偷看。「擱淺船隻，船長。有活動跡象。可能是倖存者。」
+
+你望過去。黑漆漆的身影在浸透了的船殼上遊蕩。
+
+「像那樣的大殘骸，」[Specified 2]輕語道，「沒準有好槍炮呢。以及別的什麼好東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「準備好大炮。把那東西送進海底。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[用戰技恐嚇它們。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「啥？我們可壓根沒有炮彈。」
+
+[Specified 2]咳嗽道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你怒視著魚人，向正前方噴射出一片恐懼精粹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 5]點點頭，然後專心盯著遠端的船。專注了一段時間之後，你的追隨者向前噴灑出一片恐懼實體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>在一陣齊聲嘶鳴後，這些海洋生物逃離甲板，跳入海中，消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我要去那艘船上看一看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>炮火聲響起，[Player Ship]隨之戰慄，鉛頭炮彈穿透了殘骸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Player Ship]射出一排鉛彈，結果都無害地落入水中。
+
+甲板上魚人的嘶鳴聲順著微風飄過來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>魚人跳下甲板，消失在水中。
+
+你眼睜睜看著船翻了個面並沉沒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 2]笑了起來。「榮幸之至。船長」
+
+在一連串號令聲下，炮手們衝入炮艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 2]猛然警覺。「遵命，船長。在我看來是浪費材料，但畢竟是你的材料。」
+
+在一連串號令聲下，炮手們衝入炮艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>小艇撞在棄船上，你打量著這滿是魚人的地方……</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_cv_ukaizo_guardian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>怪物向下盯著你看，模模糊糊地感覺到你的存在。水從它木槌似的頭頂上滴下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;ispeech&gt;如此孤單。從不孤單。烏凱佐……突破了嗎？&lt;/ispeech&gt;
+
+一個笨拙、生疏的聲音在你腦海響起。你感覺有什麼東西在靈魂中監視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你是什麼東西？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我已經&lt;i&gt;回到&lt;/i&gt;了烏凱佐，如果你是這個意思的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[攻擊]「不管你是什麼，你都擋了我的道了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>&lt;ispeech&gt;我們是烏凱佐的大門。&lt;/ispeech&gt;
+
+構裝體專注地看著這個城市。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;ispeech&gt;回來了？絕無可能。舊神都死了。&lt;/ispeech&gt;
+
+構裝體向下傾身看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;ispeech&gt;我們守衛著烏凱佐的平靜。你是一個障礙。&lt;/ispeech&gt;
+
+許多銅盤相互摩擦，發出刺耳的尖叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「這個島是我的人民與生俱來的權利。我在這裡是來收回這個權利的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[攻擊]「我不需要你的允許。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>&lt;ispeech&gt;烏凱佐將重獲平靜。時間會毀掉你的屍骸。&lt;/ispeech&gt;
+
+構裝體點點頭，發動攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「儘管如此，我也不會離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>&lt;ispeech&gt;除了屍骸和悲傷，沒什麼可繼承的。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>&lt;ispeech&gt;烏凱佐關閉了。大門插上了栓。&lt;/ispeech&gt;
+
+一股熱浪從守護者那裡發射出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「在解決這個問題之前，我想知道關於烏凱佐的答案。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>&lt;ispeech&gt;我們與舊神的契約不禁止提問。&lt;/ispeech&gt;
+
+這個構裝體猶豫著，它的關節嘎吱嘎吱地響著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我不是來打架的，但如果你擋著我的路，那麼我就沒有選擇了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[攻擊]「如果大門不打開，我會將它們從鉸鏈上拆下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>&lt;ispeech&gt;當你選擇這條路的時候，你便選擇了死亡，旅行者。覺悟吧。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「所以自從荒廢後就沒有人來過這裡了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>構裝體向前撲去，發動攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>&lt;ispeech&gt;亡焰列島的選民稱烏凱佐為家。&lt;/ispeech&gt;
+
+它向遠處眺望，專注地看著烏凱佐眾多尖塔中的一個。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>&lt;ispeech&gt;外來者是他們同時代的人。充滿智慧、謀略以及可怕的野心。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「聽起來真像英格維仙人。我猜他們曾四處走動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>&lt;ispeech&gt;外來者在這個世界成為過去。一個也沒剩下。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「並不是所有人都成為過去。光我們就找到一個他們留下的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>&lt;ispeech&gt;外來者們曾預言舊神的末日。分裂使雙方都毀滅。&lt;/ispeech&gt;
+
+在構裝體的外殼之下，一股強大的力量在四散迴盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「分裂是怎麼造成的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>&lt;ispeech&gt;什麼人都沒有，只有每走一步都能打破寧靜的綠色巨人。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「英格維仙人？當然。
+
+「只有他們可以創造怪獸並強迫它去守護他們的秘密。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「英格維仙人？他們創造了你們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>&lt;ispeech&gt;他們沒有創造我們。他們將我們粘合成一人。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>&lt;ispeech&gt;你們？不，亞彌拉之女。」我們。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>構裝體帶著一種相當不安和好奇的複雜情緒注視著艾德爾。最後，它重新看向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>&lt;ispeech&gt;現在你知道，你所瞭解的一切都不能讓我們背棄我們的義務而對你網開一面了吧。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「英格維仙人曾用這東西來對付我的祖先們嗎？」泰克胡摸著眉頭上的青春痘並搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>&lt;ispeech&gt;這是必然的，恩加蒂之子。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「說的已經夠多了。那麼讓我過去，要麼就死去吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[攻擊]「你早就該死了，老傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>&lt;ispeech&gt;當舊神最後的尖叫消退時，就只有我們還在了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>&lt;ispeech&gt;生者注定要忘掉烏凱佐。記住它沒有任何好處。&lt;/ispeech&gt;
+
+你感到構裝體總體憤怒的思想中有一根尖刺向你的腦海刺來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>&lt;ispeech&gt;恩加蒂之子理應將真相帶到貝拉斯之輪。&lt;/ispeech&gt;
+
+構裝體向泰克胡的方向點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「如果不能講述過去的故事，一個古老守護者還有什麼用呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「如果我在我們聊天時歇歇腿，我們倆就能更好地打鬥一場了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[攻擊]「你也會被遺忘在時間的長河裡，老傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>&lt;ispeech&gt;你們的傳承不是我們所能抵賴的。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「我沒打算今天去靈界跟我母親相聚，老傢伙。」泰克胡的凝視目光越過你並點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「在我的印象裡，龍很愛說話。真好笑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>&lt;ispeech&gt;在將你從生死長捲上除名以前，我們要先…… 赦免自己。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>&lt;ispeech&gt;挑戰會是一個很好的解脫。享受暫時的解脫吧，在劫難逃的可憐人。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>&lt;ispeech&gt;如果消遣取樂是你想度過生命最後時刻的方式，那麼就這樣吧。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>&lt;ispeech&gt;舊神與外來者交易、合作，一起學習，一起建設。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>&lt;ispeech&gt;我們的故事說完了，入侵者。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>&lt;ispeech&gt;現在你休息好了，也沒什麼故事可講了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>&lt;ispeech&gt;這種……閒聊是一種讓人耳目一新的節奏變換方式。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>&lt;ispeech&gt;希望你為穿越貝拉斯之輪之旅收集了足夠的情報。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「是啊，通過一個用魂珀製成的巨神收集的。你跑哪兒去了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>&lt;ispeech&gt;這裡。我們一直在這裡。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>烏凱佐的大門以不滿、審慎的沉默招呼你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>&lt;ispeech&gt;外來者對古老的烏凱佐垂涎欲滴。長期被佔據曾是個障礙。&lt;/ispeech&gt;
+
+構裝體伸長脖子四處張望好像在跟蹤行人的移動一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>&lt;ispeech&gt;這些機器是根據外來者的謊言建造的。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「這些機器是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>&lt;ispeech&gt;那些通過濾網收取死人靈魂的機器。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>&lt;ispeech&gt;最後，那些外來者設計出一個守護者來守護他們的工作。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>&lt;ispeech&gt;我們與舊神之間的契約迫使我們信任他們的盟友。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>&lt;ispeech&gt;我們奉命永遠關閉烏凱佐大門。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「機器啟動時，發生了什麼事嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>&lt;ispeech&gt;外來者從這個世界上消失，留下了目瞪口呆的舊神們。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>&lt;ispeech&gt;寧靜為混亂所取代。風暴不斷猛擊大海。山脈沉睡的心因狂怒而被喚醒。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「你是造成我先祖之死的幫兇。你的審判日到了，畜生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>&lt;ispeech&gt;你的原則性值得稱道，但你行至此處，便是死路一條。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>&lt;ispeech&gt;機器接近完成時，外來者用血肉和骨頭築造軀體。&lt;/ispeech&gt;
+
+構裝體伸長脖子，盡量提升自己的身體高度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「軀體？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>&lt;ispeech&gt;現在是骷髏，他們的遺骸散落在偉大的烏凱佐。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>構裝體冷漠地盯著，然後稍稍聳了下肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「泰克胡，我們把那些站在旁邊看著胡亞納人墮落的怪物抽筋剝骨怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「嗯，就這樣吧。」泰克胡瞇起了眼睛並且調整了姿勢，專注地看一張複雜的表。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>&lt;ispeech&gt;你是第一個逗留在失落的烏凱佐海濱的基斯，而且你也將是最後一個。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>&lt;ispeech&gt;你的家系已經遠遠搬離這裡了，但這裡仍然是家。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>&lt;i&gt;告訴我，否則我會直接從你的大腦查探消息。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>&lt;ispeech&gt;有意思。舊神擁有堅定的專注之力，但跟你的一點也不像。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「我的印象中你就沒打算讓我活著，那麼傷害來自哪裡呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>&lt;ispeech&gt;如果你想將你最後珍貴時光浪費在閒聊上，我們不會阻止你的。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>&lt;ispeech&gt;我們希望這會讓你聰明的大腦放鬆下。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「哇，那個，呃……這玩意甚至想砍它都無從下手吧？？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「這個怪物&lt;i&gt;是&lt;/i&gt;什麼形式的？"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「我的天啊，那是某種……魂甲嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「哎，我以前還覺得自己給別人留下的第一印象天下無雙很深刻呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「靠近一點，伊希。那是一隻很笨重的鳥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「我還沒驕傲到害怕時不承認……實際上是恐懼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「嗯。當然。那。不管是什麼。為什麼不呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>構裝體轉向說話聲，顯得對其中的意思只有模糊的認識。它把頭轉回來面對著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>&lt;ispeech&gt;他們向我們提出一個交易——以永恆的生命換永恆的服務。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「我只是在試著引起俄撒斯的注意。他就是你要找的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>&lt;ispeech&gt;俄撒斯已經打擾了烏凱佐屍骸的安寧。舊契約允許他通過，但你再也不能往前走了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「我的人民很久以前來自這裡。讓我過去吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「我現在跟胡亞納人合作。這是他們的島。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「讓我得到光魂珀，這事兒就能和平了結。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「如果你認為我打擾了你，那麼就等著我的朋友帶著大炮來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「我來這裡真的只是想要一些還沒有明確價值的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>&lt;ispeech&gt;我們已經聽到了鋼鐵的咆哮聲，聞到了炸藥的味道。你的隊友們將埋骨於大海的波濤之下。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>&lt;ispeech&gt;曾經是，但現在情況不同了。舊神們奠定了烏凱佐的基石，而外來者圍繞著基石進行建築加固。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>&lt;ispeech&gt;我們的族人在第一艘船登陸亡焰列島之前一直在保護亡焰列島的屍骸。我們不放棄警戒。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>&lt;ispeech&gt;沒有。沒有人倖存，沒有人回來。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>&lt;ispeech&gt;你原本應該遠遠地離開，帶著黃金和寶石過著富裕的生活的。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

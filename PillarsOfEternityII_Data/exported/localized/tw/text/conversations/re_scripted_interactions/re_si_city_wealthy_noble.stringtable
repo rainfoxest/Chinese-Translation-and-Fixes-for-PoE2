@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_wealthy_noble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這片區域的城市街道晚上基本沒人，重裝甲兵的腳步聲迴響在鵝卵石小巷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[悄悄向前拿走他的硬幣錢袋。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[不要讓貴族和侍衛看到。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[準備伏擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[別管貴族。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>一個侍衛朝那個人探身向前。「這條街道不安全，大人。或許吧——」
+
+「你的&lt;i&gt;職責&lt;/i&gt;就是讓我安全……不要像個女人囉囉嗦嗦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>一個侍衛朝那個人探身向前。「這條街道不安全，大人。或許吧——」
+
+「你的&lt;i&gt;職責&lt;/i&gt;就是讓我安全……不要像個女人囉囉嗦嗦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>他走向你，邊說話邊伴隨著誇張的手勢。
+
+「這些白癡讓我們完全迷路了！麻煩你告訴一下去……好像是女王港的路怎麼走嗎？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[什麼都不做。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你輕握住硬幣錢袋，然後——熟練的用刀一劃——就把它從那人身上取走了。貴族和他的侍衛一無所知，繼續在街上走著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你握著硬幣錢袋，感覺它脫手而去，因為鹿林驚叫一聲，跳了起來。他顫抖著用毛茸茸彎曲的手指指著你。
+
+「小偷！殺了他們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>像影子一樣，[Specified 4] 摸到貴族身後。一通你搞不明白的戲法後，你的同伴手裡拿著錢袋回到了你身邊。
+
+鹿林和他的侍衛們消失在街道上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 4] 摸到貴族身後，貴族驚叫一聲跳了起來。侍衛拔出武器，指著你潛伏的地方。
+
+「強盜！」一個侍衛大叫，
+
+「殺了他們，蠢貨！」貴族叫道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[悄悄向前拿走他的硬幣錢袋。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>貴族和他的侍衛經過你旁邊，繼續在街上走著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[給貴族指示。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[拔出你的武器。]「要錢還是要命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[離開。]「祝你好運。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>憑借你對涅克塔卡的街道熟悉，你指示那個人回到女王港。
+
+「真誠感激你。」他深深鞠躬，給你一小袋金幣。就當你的辛苦費吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>那個人對你含混不清的指示歎息。「我的天！到處都是白癡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「別站在那裡，蠢貨！[做些別的事情。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>這片區域的城市街道晚上基本沒人，重裝甲兵的腳步聲迴響在鵝卵石小巷。
+
+你注意到你的兩名船員[Specified 0] 和 [Specified 1]蹲伏在你前方的角落，背對著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「有什麼發現嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[清清喉嚨。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你兩個看起來好像不是在幹什麼好事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[不管他們，走開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>兩人對你的突然出現嚇了一跳。
+
+「老天，船長！」[Specified 1] 小聲說道。「你要把我們嚇死？我心跳都快停止了。」
+
+皺著眉頭，[Specified 0] 環視角落，然後回到你身邊。「這裡沒什麼情況，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你轉向一條側街，留下那兩人。
+
+後來他們爭鬥帶了些割傷和擦傷，但他們看起來很高興，因為他們分享了一瓶上等琴酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「嗚——呃……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「坦白吧，蠢貨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[離開] 「那我就不管你們了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[默不作聲地瞪著他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 1]歎了口氣。「呃，告訴他，[Specified 0]。」</DefaultText>
+      <FemaleText>[Specified 1] 歎息道。「呃，告訴她，[Specified 0]。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 0]的眼睛轉了轉。「我們自己發現了不少硬幣，船長，我們想揣進自己的腰包。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>環視角落發現一名草原民族老者，穿著奢華似鹿林貴族，他手指上戴著的戒指和瘦瘦的脖子上掛著的鏈子閃閃發光。
+
+「靠！你們這些弱智，我就跟你們說不是這條街！說的話含糊不清，好像那人的舌頭太大。
+
+好幾個男人和女人陪伴著那人，他們穿著重盔甲，對這天氣來說穿得太多了。「對不起，主人。要是我們-」
+
+「閉嘴，蠢貨！老天，&lt;i&gt;總是&lt;/i&gt;這麼熱嗎?我願意支付一千金幣再喝點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>環視角落發現一名草原民族老者，穿著奢華似鹿林貴族，他手指上戴著的戒指和瘦瘦的脖子上掛著的鏈子閃閃發光。
+
+「靠！你們這些弱智，我就跟你們說不是這條街！說的話含糊不清，好像那人的舌頭太大。
+
+好幾個男人和女人陪伴著那人，他們穿著重盔甲，對這天氣來說穿得太多了。「對不起，主人。要是我們-」
+
+「閉嘴，蠢貨！老天，&lt;i&gt;總是&lt;/i&gt;這麼熱嗎?我願意支付一千金幣再喝點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「滾回[Player Ship]去，否則我親自將你變成侍衛！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「前進。要是你們船長落得這個下場，記得把他放下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我會處理這個。你倆開船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「很棒的發現。讓我們去拿酬金吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Specified 1]敬禮。「遵命，船長。」
+
+[Specified 0]傻笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 1]敬禮。「遵命，船長。」
+
+[Specified 0]傻笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText> [Specified 0]吐了一口濃痰沿著牆上慢慢滴下，[Specified 1] 趕緊退避。
+
+「老天……是，船長。我們將回船上去。」兩人溜走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[接近那群人。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>一個侍衛朝那個人探身向前。「這條街道不安全，大人。或許吧——」
+
+「你的&lt;i&gt;職責&lt;/i&gt;就是讓我安全……不要像個女人囉囉嗦嗦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「指路要錢的，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>那個貴族默默地盯著你走開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我碰巧有喝的。你有你說的一千金幣嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 4]給那個人以及他的侍衛清晰的回到女王港的指示。
+
+「真誠感激你。」他深深鞠躬，給你一小袋金幣。就當你的辛苦費吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>雖然他點頭，但那人的眼睛瞇起來。「是的是的，你將得到你的金幣。給你，先付一半。」
+
+他遞給你一些金幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>他哼了一聲。「只有傻瓜才會沒拿到貨就付錢！「你認為我是傻瓜？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>那人眨了眨眼，咧嘴而笑。
+
+「太好了！「你賣些什麼？我願意多付些錢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「一瓶麥芽酒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「一桶格羅格酒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「上好儲藏啤酒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「從聚鹿帝國進口的蜜酒」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「米酒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「當然是朗姆酒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「你看起來需要水。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Specified 1]皺著眉低聲對你說，「我以為我們會獲得報酬呢，船長……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「你聽見我怎麼說的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 0]就像洩了氣的 [Specified 1]歎了口氣，肩膀耷拉著。「好的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[鞠躬]「大人，您好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>那人咧嘴而笑。「啊！「有修養的紳士！我很榮幸，先生！」他低下頭。</DefaultText>
+      <FemaleText>那人咧嘴而笑。「啊！有修養的淑女！而且還是個美人！我很榮幸，夫人！」他深深鞠躬。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>那人對[Specified 4]的一頭霧水的指示歎息。「我的天！到處都是白癡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>那人退了回去。「你這個虛情假意的小人！我曾視你為正人君子！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>他看看他的侍衛。「保護我不受這些暴徒的威脅，你們這些笨蛋！」
+
+侍衛不愉快地相互看了看。「他們看起來不是開玩笑，主人。或許你應把你的錢包給他們……」
+
+鹿林吐了口吐沫，把他的錢包從腰帶上解下來丟給了你。「好吧。但這些得從你的工資中扣！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>他看看他的侍衛。「保護我不受這些暴徒的威脅，你們這些笨蛋！」
+
+侍衛不愉快地相互看了看。「他們看起來不是開玩笑，主人。或許你應把你的錢包給他們……」
+
+鹿林吐了口吐沫，把他的錢包從腰帶上解下來丟給了你。「好吧。但這些得從你的工資中扣！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>他看看他的侍衛。「保護我不受這些暴徒的威脅！」
+
+侍衛拔出武器前進……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>他接過酒瓶，歎了口氣。「給你——十金幣。就算是給你添麻煩的補償吧。俗話說，船遇風暴，不擇港口。」
+
+一名侍衛揚起眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「最甜的亞力酒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>他略微後退，伸出手掌擋住了酒桶。「不！「讓那個煩人的雜碎從我眼前消失！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>他高興地接受了酒瓶。「正是此物！請收下這些金幣吧，陌生的朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>貴族把酒瓶拿在手中時眼睛睜得大大的。「啊，我知道，你就是文雅的典範！請接受我的祝福。」
+
+當他把沉甸甸的一袋金子遞給你時，侍衛相互看了看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Specified 1]對[Specified 0]咧嘴而笑。「船長很聰明，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Specified 1]對[Specified 0]皺眉。「海盜烈酒怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[離開]「謝謝，朋友。祝你回家順利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[攻擊]「很遺憾這還不夠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 1]拍了拍[Specified 0]的背，看著捕獲的東西。「我們的船長真他媽是個人才，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Specified 4]給那個人以及他的侍衛清晰的回到女王港的指示。
+
+「真誠感激你。」他深深鞠躬，給你一小袋金幣。就當你的辛苦費吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>有這兩個唧唧歪歪煩人的船員在一起，你覺得無法有效實施一次伏擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Specified 1]皺著眉低聲對你說，「我以為我們會獲得報酬呢，船長……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>你蹲伏在一處陰暗的角落，貴族和他的侍衛從你旁邊經過。
+
+他們經過時，你可以隱隱約約聽見滿滿一錢袋的輕微擦響聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>你蹲伏在一處陰暗的角落，貴族和他的侍衛向你這邊走過來。一個披甲侍衛的眼睛注意到了你。他拔出武器，伸出一隻手臂示意貴族停止前進。「強盜！」
+
+「那就殺了他們，蠢貨！」那人叫囂道。
+
+侍衛向前推進……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>你拔出武器慢慢向前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>他站起來，眨了眨眼。「老天！就是說，你是努亞堡的靈視者，對吧？我出席過你的法庭。回聲灣的領主！」他哈哈大笑。「到處找你，原來你在這裡。」
+
+他撓撓頭。「我以為你已經死了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我好多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>他點點頭。「懂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「轉念一想……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>那人對你眨了眨眼睛，眼神模糊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>當你接近時，一個侍衛將戴著長手套的一隻手搭在那人肩上，但他從下面扭身離開了。
+
+「終於！有人腦海中閃過一個念頭！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

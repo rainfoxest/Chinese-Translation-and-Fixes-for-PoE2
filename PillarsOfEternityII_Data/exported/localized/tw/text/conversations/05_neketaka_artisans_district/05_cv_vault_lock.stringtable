@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_vault_lock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這台複雜的設備是由寶石製成的可移動式控制石台。四種顏色的寶石擺放在中央洞口的周圍。
+
+好像有什麼東西不見了，不過專業工匠應該能修好。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[檢查中間缺失的部分。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>似乎是一個寶石座。上面的刮痕說明有什麼人或什麼東西把寶石撬走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[將水晶放入洞內。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>水晶卡噠一聲放進了凹槽內。周圍的寶石立刻閃耀起五顏六色的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>這座控制台由四枚顏色各異的寶石與中間一顆水晶所組成。四枚寶石可以任意進行配置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[輸入你發現的組合。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[擺弄控制台嘗試操作。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>經過大量的仔細操作後，中央空洞周圍的寶石閃耀起五顏六色的光芒。看起來成功了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>擺弄了半天控制台，並沒有什麼結果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[找一名工匠嘗試擺弄控制台。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>經過一番仔細擺弄後，控制台周圍的寶石發出了神秘的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你將寶石旋轉至指定位置。隨著一陣刺耳的石頭移動聲，大門向一邊打開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>經過一陣熟練的操作後，門鎖卡噠一聲開了。[Specified 0]仔細檢查了一下，露出滿意的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>控制台沒有任何反應。[Specified 0]長歎一聲，盯著控制台。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[旋轉寶石嘗試不同位置。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你不停變換著寶石的位置，但可能的組合數令你感到絕望。似乎這道門鎖還需要點別的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[旋轉寶石嘗試不同位置。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你不停變換著寶石的位置，但可能的組合數令你感到絕望。似乎這道門鎖還需要點別的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[檢查寶石。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>門鎖周圍一條水平線上的寶石可以組合出不同配置，像密碼鎖一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>這些寶石與你早前發現的組合完全一致。你已經知道了開啟這道門鎖需要的特定旋轉位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>對中央凹槽的擺弄已經成功搞定了打開門鎖的方式。剩下的就是輸入組合了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>門鎖中間的空洞表明仍然缺少什麼東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>缺失的水晶已被插入中央面板，剩下的就是旋轉周圍的寶石至正確的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[檢查寶石。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>這些寶石與你早前發現的組合完全一致。你已經知道了開啟這道門鎖需要的特定旋轉位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>缺失的水晶已被插入中央面板，剩下的就是旋轉周圍的寶石至正確的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>對中央凹槽的擺弄已經成功搞定了打開門鎖的方式。剩下的就是輸入組合了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>門鎖中間的空洞表明仍然缺少什麼東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>門鎖周圍一條水平線上的寶石可以組合出不同配置，像密碼鎖一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

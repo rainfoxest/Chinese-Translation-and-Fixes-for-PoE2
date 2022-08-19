@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_ukaizo_preparations</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>山雨欲來</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>組建聯盟或將船隻準備萬全以應對之後的艱難冒險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;俄撒斯&lt;/b&gt;穿越了&lt;b&gt;瑪珈嵐之牙&lt;/b&gt;並進入了&lt;b&gt;昂德拉之臼。&lt;/b&gt;他的目標是失落的&lt;b&gt;烏凱佐。&lt;/b&gt;
+
+只有足夠堅固的船隻才能成功穿過&lt;b&gt;昂德拉之臼。&lt;/b&gt;亡焰列島上某一渴望稱霸的勢力也許對此會有所幫助。如果其他方法全部失敗了，將自己的船隻武裝完全總比毫無準備要好。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>本地各方勢力毫無疑問都想讓我幫助他們前往&lt;b&gt;烏凱佐&lt;/b&gt;。如果允諾其中一方勢必會招致其他勢力的怨恨。
+
+我也可以獨自前行，但[Player Ship]沒有經過大幅升級也無法安然度過這段旅程。我需要整個亡焰列島上&lt;b&gt;最好的船體&lt;/b&gt;與&lt;b&gt;最好的船帆&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;胡亞納&lt;/b&gt;皇室已經把我當成了敵人。與其結盟恐怕是不太可能了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;奧涅卡莎女王&lt;/b&gt;表示對加入聯盟很有興趣。為她工作意味著將&lt;b&gt;烏凱佐&lt;/b&gt;交還給&lt;b&gt;胡亞納人。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;奧涅卡莎&lt;/b&gt;要求我炸毀&lt;b&gt;努瓦泰人&lt;/b&gt;的炸藥庫並嫁禍給&lt;b&gt;瓦利亞人。&lt;/b&gt;這樣就能讓我與&lt;b&gt;胡亞納人&lt;/b&gt;的盟約穩固無憂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我可以在&lt;b&gt;女王港&lt;/b&gt;找到&lt;b&gt;瓦利亞商行&lt;/b&gt;總部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>&lt;b&gt;胡亞納人&lt;/b&gt;的總部在&lt;b&gt;巨蛇王冠&lt;/b&gt;的&lt;b&gt;卡罕加宮。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>&lt;b&gt;亡焰皇家商行&lt;/b&gt;的總部在&lt;b&gt;黃銅堡&lt;/b&gt;的&lt;b&gt;帝國總部。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>&lt;b&gt;流亡皇族&lt;/b&gt;的部隊集結在&lt;b&gt;襯艙城&lt;/b&gt;的&lt;b&gt;烽火信標。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我答應幫助&lt;b&gt;哈扎努伊卡魯&lt;/b&gt;與&lt;b&gt;亡焰皇家商行&lt;/b&gt;推翻&lt;b&gt;胡亞納人&lt;/b&gt;並奪取&lt;b&gt;涅克塔卡&lt;/b&gt;的統治權。作為交換，他們願意幫助我抵達&lt;b&gt;烏凱佐。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>如果我幫助&lt;b&gt;皇族海盜&lt;/b&gt;對付&lt;b&gt;露西亞·利文&lt;/b&gt;並奪取她的船&lt;b&gt;漂浮吊死鬼號，&lt;/b&gt;他們就願意與我結盟並幫助我抵達&lt;b&gt;烏凱佐。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>&lt;b&gt;瓦利亞商行&lt;/b&gt;要我摧毀&lt;b&gt;亡焰皇家商行&lt;/b&gt;在&lt;b&gt;黃銅堡&lt;/b&gt;的炸藥庫。這件事辦妥之後，他們就願意與我結盟並幫助我抵達&lt;b&gt;烏凱佐。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;瓦利亞商行&lt;/b&gt;不願意與我合作。我們各自的優先事項實在是差得太多了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>我已經對&lt;b&gt;亡焰皇家商行&lt;/b&gt;造成了那麼多損害，與他們合作的事情根本不用想了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>&lt;b&gt;皇族海盜&lt;/b&gt;不願意幫助我前往&lt;b&gt;烏凱佐&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>我已經得到了&lt;b&gt;焦木船身&lt;/b&gt;。雖然它並不能保證船體刀槍不入，但它的結實程度足夠讓我撐過&lt;b&gt;昂德拉之臼&lt;/b&gt;的風暴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>我已經得到了&lt;b&gt;龍翼船帆&lt;/b&gt;。這種船帆極為劍刃，比亡焰列島上其它的船帆更能耐得住&lt;b&gt;昂德拉之臼&lt;/b&gt;的狂風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>如果與胡亞納人結盟，&lt;b&gt;水塑者們&lt;/b&gt;應該會幫助我，讓我的船能順利到達&lt;b&gt;烏凱佐&lt;/b&gt;。他們的力量應該足以在風暴之中開闢一條安全的通道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>我找到了一根&lt;b&gt;焦木原木&lt;/b&gt;。我可以用它製作一塊船身並渡過&lt;b&gt;昂德拉之臼&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>[Player Ship]將帶著卡罕加王室的援助前行。&lt;b&gt;胡亞納人&lt;/b&gt;如今是我的盟友。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>有了&lt;b&gt;瓦利亞商行&lt;/b&gt;的援助，[Player Ship]很快就可以得到全面升級並前往&lt;b&gt;烏凱佐。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我已與&lt;b&gt;亡焰皇家商行&lt;/b&gt;結盟。前往&lt;b&gt;烏凱佐&lt;/b&gt;的時機已經成熟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>&lt;b&gt;流亡皇族&lt;/b&gt;同意在我前往&lt;b&gt;烏凱佐&lt;/b&gt;的旅行中給予援助。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我在未接受亡焰列島任何勢力幫助的情況下成功抵達了&lt;b&gt;烏凱佐。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

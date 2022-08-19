@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\characters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1644</ID>
+      <DefaultText>多魯杜根</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1650</ID>
+      <DefaultText>魔符大師奧朗尼克</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1651</ID>
+      <DefaultText>淨化石碑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1652</ID>
+      <DefaultText>憤怒石碑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1653</ID>
+      <DefaultText>力量石碑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1654</ID>
+      <DefaultText>恐懼石碑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1655</ID>
+      <DefaultText>神秘石碑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1658</ID>
+      <DefaultText>博學的保鏢</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1716</ID>
+      <DefaultText>狂暴結界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1717</ID>
+      <DefaultText>狂暴結界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1722</ID>
+      <DefaultText>鮮血結界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1723</ID>
+      <DefaultText>鮮血結界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1724</ID>
+      <DefaultText>恐懼結界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1725</ID>
+      <DefaultText>恐懼結界</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

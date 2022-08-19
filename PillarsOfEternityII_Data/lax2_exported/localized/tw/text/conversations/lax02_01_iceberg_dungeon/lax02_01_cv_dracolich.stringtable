@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_dracolich</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>巨龍——或這具形似巨龍的腐爛外殼——轉動著炯炯有神的眼睛看著你。你感覺它在凝視著你的靈魂，窺探著你的精神。
+
+它的喉部發出一聲低沉的咆哮。儘管凶狠——但咆哮沒有形成語言。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>巨龍——或這具形似巨龍的腐爛外殼——沒有注意到你，直到你逼近它。然後，它的頭突然擺動，隨著一聲咆哮，它腐爛的鼻孔顫抖著發出紫色的火焰。
+
+你感覺它在凝視著你的靈魂，窺探著你的精神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你在對這些人做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你應該是睿姆岡的信使吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[攻擊]「準備受死吧，愚蠢的怪獸！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[離開]「無意打擾。我這就離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>怪物咆哮著——真切的嘲笑聲伴隨著從腐爛的鼻孔發出的顫抖的紫色光芒——並且把死去的先驅者送到嘴裡。它咬掉精靈的手臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>當怪物的笑聲在四周邊緣或你的思緒迴響時，它的嘴巴捲曲，露出腐爛的尖牙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>巨龍轉向你時，轉移了重心，碾碎了腳下的積雪。你思緒的邊緣迴盪著它的笑聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>巨龍攻擊你時，轉移了重心，碾碎了腳下的冰雪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你在對這些人做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「你應該是睿姆岡的信使吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[不警告就發起攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[慢慢後退。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「根據我的經驗，巨龍通常喜愛它們自己的聲音。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「怪人！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>&lt;ispeech&gt;儘管你的精明令人印象深刻，但我沒義務回答你的問題。&lt;/ispeech&gt;
+
+她的話像蛆蟲一樣蠕行到你的思想裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

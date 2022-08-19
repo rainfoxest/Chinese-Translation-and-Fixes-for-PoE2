@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_aeldys</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>349</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你一定就是[Player Name]船長，很高興能見到你，小可愛。」
+
+這位身經百戰的船長捻著下巴，愉快地向你打了個招呼。她一隻眼睛是烏鴉羽毛般的黑色，另一隻是冰藍色，她的雙色瞳在你的臉上，上上下下地打量著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「看得出來，你還活著。」她向你狡黠地一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你可真是個讓人愉快的人啊，船長。很高興再次見到你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「啊，[Player Name]船長，你總是能給我帶來驚喜。」
+
+「要是我們能在更加……愉悅的氣氛下見面的話，就太好了。」
+
+她用拇指撫摸著下嘴唇，藍黑色的眼中充滿了渴望，渴望著鮮血，渴望著別的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「有什麼能為你效勞的嗎，小可愛？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你殺了我手下的第四把交椅，那個人還他媽是我的好朋友。或許你確實讓我感到折服，但與此同時，我也很想把你臉上的皮剝下來，你明白了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「看得出來，你已經見過了我的左右手，船長評議會的第四把交椅了。或許他確實是個惹人煩的傢伙，但我敢用我的生命來信任他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「鉤刺島的事情已經做完了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我收到你的消息了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你有什麼想說的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「和我談談新來的皇族海盜吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你就是這麼做事情的嗎？我可不是&lt;i&gt;只&lt;/i&gt;讓你去那裡打打殺殺，小鴿子。我讓你去釋放那些奴隸們。」她瞪著你，瞇起了她的雙色瞳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「沒錯，而且你做得很好。絕大部分俘虜都已經加入了我的艦隊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「而現在，大師已經進入了戒備狀態。你做的這一切，不過是加強了他的力量而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「不過我得承認，我是不會為奴隸主之死落淚的。而且我確實很喜歡看著我的敵人流血而死。」
+
+「至少在這一點上，我很感謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「這件事情就先放在一邊吧，小可愛。或許以後，我們對事情的看法會變得更加一致。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你做了一件好事，船長，這件事情我是不會輕易忘記的。」
+
+她的拇指揉搓著脖子上的金陽幣，雙色瞳上上下下地打量著你。她的嘴角露出了狡黠的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「和你做生意真的很愉快，希望以後我們還能有機會再次見面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「很抱歉一直這麼拖著你，但我覺得合作提議私下裡說效果最好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我和我的皇族海盜會成為你強大的盟友。但你會對我們效忠嗎？我想弄清楚這件事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「這麼說吧，如果你打算讓脾氣相投的船長們成為夥伴的話……或許你可以先去協助我的得力干將。她在涅克塔卡，負責通過地下室走私東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「要替另一位船長幹些簡單無聊的工作嗎？我簡直等不及了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「地下室？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我會考慮的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「事情並不是一蹴而就的，小鴿子。或許你是個船長，你有你自己的權利。但如果想讓我幫你浴血奮戰的話，我得明白，你對我也同樣忠誠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「那是個隱藏的港口，但我覺得就算不用我幫忙，你也能找得到。」她向你眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你的前途一片光明，靈視者。希望你不要站錯了隊，損害了這光明的前途。」
+
+「老傢伙們已經過時了，新鮮血液才是生力軍，沒錯吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我這裡有個問題，靈視者。我覺得你剛好是適合解決這個問題的船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我和弗蘭特在很多事情上都意見不和，尤其是在皇族海盜的未來這個問題上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我希望你去一趟鉤刺島，與我的某個手下見面。她就混在奴隸販子之間，有關於他們的內線情報。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「弗蘭特可能正在與瓦利亞商行合作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「弗蘭特和奴隸販子之間有什麼關係？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「關於奴隸販子，有什麼可以告訴我的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「讓我考慮考慮吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「哎呀，哎呀，這可真是個好消息啊。這確實說得通。」她瞇起了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我並沒有什麼確鑿的證據，小可愛。但我可以拿我的金陽幣跟你打賭，弗蘭特打算和奴隸販子之外的人合作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「對弗蘭特這樣的船長來說，協助奴隸販子根本就是小打小鬧。從奴隸販子這裡賺到的錢，根本抵不上他投進去的錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我知道他們的根據地就在亡焰列島的鉤刺島上。我知道他們個頭矮小，但心狠手辣。他們現在遇到了麻煩，沒辦法出海。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「等你解放了那些奴隸之後，就來找我吧，我不會讓你失望的。」她點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我們是皇族海盜的未來，我們什麼別的地方都不去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我真希望能親眼見到弗蘭特被絞死，雖然這個場景我已經想像過無數次了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「現在，整個皇族海盜都聽我的了，我準備召集議會成員，去襯艙城開個會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「和我一起去襯艙城吧，小可愛。當我讓那裡血流成河的時候，我希望能有你陪在我身邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我和你的艦隊一起去襯艙城吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我們在那邊見面吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「在我艦隊的完備保護下同行，是你最好的選擇。那麼，我們出發吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「到時候就讓我給你個熱烈歡迎吧，祝我好運吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「你想和我談談嗎？好啊，把我當成你忠實的聽眾吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「你知道漂浮吊死鬼號的某些事情，但你沒告訴我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「弗蘭特認為，你在向他隱瞞關於漂浮吊死鬼號的某些事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我根本不知道你在說些什麼，小可愛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「看來這件事早晚都會發生。我就知道，除了被我絞死的那幾個奸細之外，還有別的奸細。
+
+「被我抓住的那幾個只是蠢貨而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「趕緊說出來，否則我就殺了你，直接問你的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「告訴我吧，我保證他們會仁慈地對待你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你和弗蘭特就不能達成某種協議嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你有什麼打算？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>她笑了起來，但當她意識到你是認真的時候，她臉上的笑容和光彩都消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「很感謝你的提議，但比起你的理想，我更重視我的生命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「只有白癡才會相信和弗蘭特的協議。你以為他是靠什麼坐上船長評議會的首席寶座的？靠大家對他的熱愛嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「要麼活著，要麼死，就是這樣。皇族海盜的未來已經岌岌可危了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「弗蘭特對漂浮吊死鬼號垂涎已久。他想得到這艘船，是為了鞏固他在皇族海盜中的權力，而不是為了保護我們不受外敵侵犯。
+
+「當然也不是為了擊敗你那個前往烏凱佐肆虐的神明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「但我的動作領先了弗蘭特兩步。我已經知道了怎麼召喚漂浮吊死鬼號，知道了怎麼控制它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「當然，發現了弗蘭特派來的奸細之後，我就把這些資料銷毀了。只要我不說，就沒人再能知道這些事情了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「替我把漂浮吊死鬼號弄來，我就讓你坐上皇族海盜的頭把交椅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「弗蘭特才是皇族海盜的未來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我是個靈視者，我可以直接從你的靈魂裡知道這些事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[攻擊] 「我打算賭一把。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我很喜歡與你合作，小可愛。我希望能和你建立長期的合作夥伴關係，我覺得你也明白我的想法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「但如果要合作的話，我希望你替我做一件事，我才能把漂浮吊死鬼號交給你。」
+
+「弗蘭特那個雜種必須死。我不在乎你是把他絞死，還是把他開膛破肚，替我把他解決掉，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我已經掌握了他和瓦利亞商行互相勾結的證據。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「有什麼不靠暴力解決的辦法嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我會辦好這件事的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「好吧好吧。這可真是個好消息。我是說，對我們來說是好消息。在皇族海盜之中，販奴是能上絞架的重罪，你知道吧？
+
+「哪怕是評議會的成員，也不能免罪。」她露出了尖銳的笑容，看起來很開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我想不出來，除非你能證明弗蘭特背叛了皇族海盜。」
+
+艾戴斯舔著牙齒，若有所思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「只要弗蘭特一死，我就會前往襯艙城，拿下皇族海盜的大權。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我真希望事情不會是這種結果，小可愛。我真的希望不是這樣，這真是太遺憾了。」
+
+她搖起了頭，黑髮像瀑布一樣搭在她的肩上。不過當她搖著頭的時候，她的手伸向了藏在胸間的飛刀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「確實沒必要變成這種結果。只要告訴我，我應該知道什麼事情就好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我之所以能讓你活著走開，是因為我的心裡依然對你有著柔情，船長。」
+
+她把眼睛瞇成了一條尖縫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「而我只要變成一具屍體就夠了，對嗎？我可不怎麼喜歡被人含蓄地威脅，水手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「你還是打算回到弗蘭特那邊嗎？這樣是不會有好下場的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「那我很願意賭你會輸。掏出武器吧，魚餌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「為了獎勵你的忠誠，這把毒蠍之刃就送給你吧。
+
+「它曾是我的愛劍，我知道它在你手裡會派上很大用場。希望你能用它消滅更多我的敵人吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「他是個王八蛋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我們和平解決了問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「沒有比這更對的話了。」她仰頭大笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「是我的朋友，狂本。哦，你已經把他忘了，他一定會很高興的。他一直在發著對你的牢騷，我的耳朵都要被磨出繭子了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「讓阿本聽別人的話並不是件容易的事，你讓我很欽佩。」
+
+「當然，關於你的事情，他說得可就沒多好聽了。」一絲自豪的笑容爬上了她的嘴角，她轉了轉掛在胸間的那枚金陽幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「如果你有什麼想解釋的話，我建議你趕緊把它說出來。」
+
+儘管她的話裡充滿了凶狠，她依然撅著嘴，等待著你的回答。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我只是自保而已，你可不能怪我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「他罪有應得。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「第四把交椅？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「哦，但我就是能怪你。身為整支艦隊的船長，這意味著你他媽的想幹什麼，就能幹什麼。」
+
+他揚起了下巴，藍黑相間的眼睛緊盯著你，但嘴角露出了一絲鋒芒畢露的笑意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「他確實罪有應得，但這並不意味著我喜歡給他寫悼詞。」她聳了聳肩，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「別以為能扯開話題，小可愛。本維斯可是&lt;i&gt;我&lt;/i&gt;的一位船長——而且還是船長評議會的七位成員之一。」
+
+她搖起了頭，黑髮凌亂地纏繞在肩膀旁邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「你砍斷了我的左右手，你打算怎麼來補償呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「我會接替本維斯在議會裡的位置。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「只要忠誠於我，就能得到那個位置。不過必須有人先接替他的位置，如果你在議會裡能支援我的話……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我聽說用白銀做出的手鉤都很漂亮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「他說過你的嘴巴很厲害，不過我猜你這句話只會激起我的怒火，暫時如此。」
+
+她用手掂了掂銀幣，之後把它擠在了胸間。她從胸間掏出一把藏起來的匕首，給錢袋騰出了地方。匕首反射出了金色的光芒，緊接著就消失在她袖子裡隱藏的刀鞘中了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[雙臂交叉抱在胸前。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「你真是個難以捉摸的傢伙。不如哪天晚上，我們來打幾把牌吧？」她轉起了掛在胸前的金陽幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「就交給我吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「就是這種精神，水手。用不了多久，你就會成為船長評議會的一員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「當然了。&lt;i&gt;假如&lt;/i&gt;我們能成為合作夥伴的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「不，我不會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「或許會，又或許不會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「我猜，我們可以互相測試一下對方，確保我們真的很合得來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我猜，我們已經沒什麼可談的了。」
+
+她沉下臉，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「你是個很謹慎的人，我會尊重這一點的。或者說……」她的雙色瞳上上下下地打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「我們這些人都是新來的，沒什麼規矩。不過有一條：你可以活得自由自在。我們會偷東西，可能還會殺人。但如果你發誓忠於我們，你就是我們的血親，我們的家人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「如果我直接做了反對弗蘭特的事情話，他肯定會號召船長評議會進行投票。他肯定很想把我絞死，不過如果是你的話，就不受任何人約束了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「我該怎麼在鉤刺島找到你手下的那個海盜？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「她會找到你的，小可愛。只要看到她的疤，你就能認出來了——那一道疤可真的有點嚇人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「我會去鉤刺島的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「他不會這樣的。他別有用心，記住我這句話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「對弗蘭特這樣的船長來說，協助奴隸販子根本就是小打小鬧。從奴隸販子這裡賺到的錢，根本抵不上他投進去的錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我們是海盜，小可愛。這片海屬於我們，她也會用她扭曲的方式愛著我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「弗蘭特懷念他從沒見過的家園。但對我和我的船員而言，舊瓦利亞又有什麼意義呢？我們不是瓦利亞人，以後也永遠都不會是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「不過如果你是瓦利亞人，打算加入我們的船隊，我們會熱烈歡迎你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「但你們皇族海盜不是由舊瓦利亞的難民創立的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「那已經是幾代人之前的事情了。我的勢力是在鹿林那邊壯大起來的，你也知道吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「你口中的船長委員會，我管它叫船長評議會。你口中的皇族海盜，我還是喜歡叫亡焰列島的&lt;i&gt;海盜&lt;/i&gt;。」
+
+「你口中的金陽幣，我嘛，這麼說吧，有些稱呼確實還是沒變的。」她輕輕彈著那枚金幣，開心地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「我相信你，你看起來是個很厲害的船長，真的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「你不相信我的話，對不對？」她發起了火。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「靠的是光明正大嗎？不，他靠的是用最可怕的方式，把他的敵人徹底碾碎。只有這樣，才能保證新來的傢伙不敢隨便冒犯你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「看金幣這邊的印記，這意味著在船長評議會中，我坐的是第二把交椅。那個爛屌的弗蘭特，我只比他低一級。」她咧嘴一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[向她出示金陽幣。] 「現在我是第四把交椅了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「弗蘭特的勢力在議會裡變得更厲害了，我明白了。」她瞇起眼睛，用舌頭舔了舔牙齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[向她出示金陽幣。] 「這是我們海盜之間的糾紛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「所以你也按海盜的方式解決了糾紛，我猜我也不能怪你。不過……」她的睫毛垂了下來，遮住了藍黑色的眼睛，像黑色的羽毛一樣停在臉頰上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「否則呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>她一隻手把玩著一把金色的匕首，另一隻手擺弄著手槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「否則我就要用小刀和短炮弄爛你那張漂亮的臉了。」
+
+她的臉上露出了燦爛的笑容，你感到她已做好了準備。她伸出舌頭，舔了舔手上的武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[攻擊] 「這張臉會是你見過最後的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>她奔放地笑起來，瞄準了你的臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「只要我坐上本維斯在議會裡的交椅，我就願意支援你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「看來你不僅很厲害，而且也很聰明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「這樣，我覺得你已經明白我的意思了，或許我們可以達成某種互利互惠的協議。」
+
+她眨著藍色的眼睛，把弄著掛在項鏈上的金陽幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>她本想繼續說下去，但自己打住了。她搖著頭，手指把玩著繞在她頸上的那枚金幣，咬了幾下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「我可不喜歡漂亮的臉蛋。要我說，在戰鬥中受的傷越多，越是漂亮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「讓我來敬我們善良的船長，敬我們美麗的友誼一杯，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「你聽過阿本的琴聲嗎？他彈得真是太他媽好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「我倒不會真的用別人頭骨當酒杯喝酒。我只是把它們做成杯子的樣子，用來裝飾而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我發現對付海妖的秘訣，就是要把它們的舌頭扯下來，你說是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「真奇怪，我最喜歡的朗姆酒好像少了一桶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「事實上，我想與你聯手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「看看海妖把什麼人從海裡拖出來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「啊，橫行四海的大惡霸來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「他&lt;i&gt;認為&lt;/i&gt;，是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「他確定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「你的耳朵有問題嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「老實說，我之前腦袋旁邊中過一槍，一隻耳朵確實壞了。不過不是這個問題，你的話我聽得很清楚。」她微笑著聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「我知道我答應和你談判。但我是個海盜，這意味著，我只對我的船員們誠實。其它的時候，只要情況對我有利，我就撒謊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「喜歡它的樣子嗎？」
+
+她胸前傷痕纍纍的皮膚上，貼著一枚亮閃閃的金陽幣。當你注意到它的時候，她轉了一下錢幣，將展示著她地位的那一面轉向了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「我給你帶了一些堅果蜜餞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「嗯，蜜餞並不能解決所有的問題，不過這是個不錯的開端。」
+
+「這讓我……更渴望求愛了。」
+
+她笑了起來，從你手中接過了蜜餞，用舌尖舔著沾滿了糖霜的堅果，仔細地品味著它的味道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「我不打算補償。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「哦，我喜歡你。你回答得很好，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「現在，這個問題我們已經解決了。我得承認，我真的很喜歡你，船長。你並不是個只有花架子的人，你很有膽量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「我喜歡從不打退堂鼓的男人。你並不是個只有花架子的人，你很有膽量。」
+
+「現在，這個問題我們已經解決了。」</DefaultText>
+      <FemaleText>「我喜歡從不打退堂鼓的女人。你並不是個只有花架子的人，你很有膽量。」
+
+「現在，這個問題我們已經解決了。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「我打算和你做筆交易。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「趕緊滾遠點，否則我就把這瓶朗姆酒塞到你下面去。到時候你只要撅個屁股，就可以給我倒酒了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「哦，或許並不是這樣？但本已經死了……」她藍黑色的眼睛嚴肅地看著你，帶著期冀的神色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「不過，你已經引起了我的注意和我的興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「我喜歡從不打退堂鼓的男人。你並不是個只有花架子的人，你很有膽量。」
+
+「我想和你聯手。」</DefaultText>
+      <FemaleText>「我喜歡從不打退堂鼓的女人。你並不是個只有花架子的人，你很有膽量。」
+
+「我想和你聯手。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「哦，我很喜歡你，我覺得我們應該能相處得很愉快，沒錯。」一絲狡黠的笑容爬上了她的嘴角，她轉了轉掛在胸間的那枚金陽幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「我給你帶了一些堅果蜜餞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「你之前，也是靠這些糖戰勝狂本的嗎？」
+
+她朝你眨了一下藍色的眼睛，給了你一個飛吻。隨即，她開心地接受了你的禮物。她用舌頭捲著沾滿糖霜的果仁，發出了愜意的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「這樣一來，我對你更加感興趣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「你終於想清楚了，我的夥伴。」她變得容光煥發。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「這句話是什麼意思？」她藍黑色的眼睛帶著好奇的眼神看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「為了贏得卡斯托爾主管的青睞，他協助鉤刺島的奴隸販子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「不如你來告訴我吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>她捏著下巴，若有所思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「瓦利亞商行想從弗蘭特這裡得到什麼呢？你覺得那些瓦利亞人和弗蘭特達成了某種秘密協議嗎？」
+
+「但是是什麼協議？多半應該是貿易協議，某種……非常罕見的貨物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「你已經越猜越對了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[險惡的咧嘴笑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「我覺得我已經猜到真相了。」她露齒而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「我有沒有告訴過你，我有多喜歡你這種嗜血的天性？」她的喉中發出了溫柔而充滿渴望的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「在整個亡焰列島上，沒什麼東西比光魂珀更有利可圖了，除了販賣奴隸。」
+
+「而販賣奴隸這件事，違反了皇族海盜的規矩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「你只想享受被需要的感覺嗎？但實際上，你想要的是金子、酒和權力，是吧？如果你願意加入我的話，這三樣我都能給你不少。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「但我也一樣喜歡被人追求的感覺，小可愛，而且我&lt;i&gt;從來&lt;/i&gt;都是先到先得。」
+
+她朝你眨眨眼，粉紅色的舌頭在齒間遊走著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>她的表情變了一下，將雙臂抱在了胸前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「我就暫且當你同意了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>她的雙色瞳閃爍著邪惡的興奮之光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「你是這麼想的嗎？真的嗎？」她退了一步，彷彿不願意相信你的話一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「你想錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「我們之間的關係確實很特別。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「我還以為，我們之間的關係會更加特別呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「所以呢？」她下巴的肌肉抽動了一下，等待著你的答案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「弗蘭特更適合當領袖，僅此而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「但如果讓我再看到你，而你又不願意效忠於我的話，我會把你漂亮的腦袋打開花。你明白了吧。」
+
+她對你露出了牙齒，轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「你來了。」她揉著嘴唇，看著你越走越近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「我在地下室裡幫了瘋狂的莫萊娜一個忙，我還以為你會想知道這件事情呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「我已經聽說過了，你給我留下了深刻的印象。」
+
+「我很享受被別人幫忙的感覺，這讓我很願意把他們當成真正的朋友，你明白吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「而且，我很願意給我的朋友們一些小小的謝禮，比如這個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[將噬魂者之劍拿給她看。] 「喜歡我的劍嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「當然喜歡，小可愛。這確實是把好劍，你是在艾歐拉的哪個地方得到它的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「是從一個叫耶蘇亞的貝拉斯信徒那裡得到的，他就是那個殺了露西亞·利文的牧師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「這把劍屬於達寇茨皇室。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「你覺得，利文應該會想把這把劍要回去吧？反正我是這麼覺得的。」她捏著下巴，思考著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「這把劍好好留著，小可愛。你讓我想到了個辦法，或許能用這個辦法找到漂浮吊死鬼號。」
+
+「等我想得更清楚之後，我會親口告訴你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「你指的是露西亞·利文，那個達寇茨聖武士發誓要保護的皇室之劍？是方菲羅斯號船長的那個利文嗎？如今那艘船已經變成了漂浮吊死鬼號，變成了整個亡焰列島的災星，是那個利文嗎？」她捏著下巴，思考著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「如果你有證據能證明這一點，一定要把它保留好。或許它以後能為我們派上用場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「如果你有證據能證明這一點，一定要把它保留好。我們要用這個證據把他打垮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「嗯，我本來是想請你幫個忙——能夠沉重打擊鉤刺島上奴隸貿易的事情。不過看起來我似乎太遲了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「我本想請你解救島上被奴役的人。不過我得到確切消息稱你已經做了一大堆事情了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「對我——還有那些奴隸——而言幸運的是，我們都是同一類人。你已經做了我本想請求的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「這麼說吧，我本打算和你做一筆交易，小可愛。我本希望兩個所向無敵的船長能成為夥伴，也就是你和我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「我真為你的選擇感到遺憾，因為你的選擇讓我的處境變得很困難。」她用手指摸了摸脖子旁邊的金陽幣，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「沒錯，而且我聽說搞出了很大動靜。我自己也很喜歡殺出一條血路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「一部分被解救的奴隸已經來到了舷窗堡壘，加入了我的艦隊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「我給你帶了一些堅果蜜餞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「你知道我很喜歡這些東西，而且這些東西可以讓我更喜歡你，小鴿子。」
+
+她撅起嘴唇，露出了頑皮的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>她一邊吃著堅果蜜餞，一邊更有興趣地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「但看來你對這並不感興趣，還殺了瘋狂的莫萊娜。她是議會成員，也是對我最為忠心的船長之一。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「或許我們以後還有機會可以合作吧，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「所以說……你在空閒的時候都會做些什麼事情呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「什麼，你是說愛好之類的嗎？」她大聲笑了起來，眉毛都快揚到髮際線上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「我不到處劫掠的時候，我就呆在這裡，指揮我的艦隊。我猜我還比較喜歡打靶練習吧。還有，不用說，誰不喜歡喝著朗姆酒泡個熱水澡呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「我猜你也喜歡這些吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「我是來提醒你的。弗蘭特已經說服了議會要絞死你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「媽的他真是膽大包天！」她粗暴地在脖子附近彈著金陽幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「不過我也不應該對他的陰謀感到驚訝了。要奪取漂浮吊死鬼號只有一條路可走——那就是想辦法弄死船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「要麼他死，要麼我亡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「你想怎麼對付弗蘭特？殺了他？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「哦，沒錯。想把我投進一場審判鬧劇中？我非剁了他的老二塞他嘴裡去不可。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「我還以為我們達成共識了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「你說得沒錯，我&lt;i&gt;的確是&lt;/i&gt;想相信你的。」她上上下下地打量著你。她在思索著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「我和我的皇族海盜會成為你強大的盟友。但你會對我們效忠嗎？我想弄清楚這件事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「當然了。&lt;i&gt;假如&lt;/i&gt;我們能成為合作夥伴的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「不，我不會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「或許會，又或許不會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「我猜，我們可以互相測試一下對方，確保我們真的很合得來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「你是個很謹慎的人，我會尊重這一點的。或者說……」她的雙色瞳上上下下地打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「你只想享受被需要的感覺嗎？但實際上，你想要的是金子、酒和權力，是吧？如果你願意加入我的話，這三樣我都能給你不少。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「但我也一樣喜歡被人追求的感覺，小可愛，而且我&lt;i&gt;從來&lt;/i&gt;都是先到先得。」
+
+她朝你眨眨眼，粉紅色的舌頭在齒間遊走著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「問題是，這事一直在我腦子裡揮之不去。感覺一直很刺撓，煩死我了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「問題是，這事一直在我腦子裡揮之不去。感覺一直很刺撓，煩死我了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「等到那時候，我肯定會隨時需要隨時聯繫你的。」
+
+她向你親切地脫帽致意，然後拿起後面桌子上擺著的裝有神級朗姆酒的高腳杯一飲而盡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「我知道你見過弗蘭特，甚至可能是為他賣命的。那傢伙真他娘是個混蛋。」
+
+她打了個響指，從桌子上端起一杯神級朗姆酒。她痛飲一口後又指向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>「但這也並非說明我倆就不是一路人。
+
+「別做出什麼讓他發現的事情。只要……提前通知我一些……即將發生的事情就行。好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「等時機成熟了，我們就可以出手了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「等我需要的時候肯定會聯繫你。
+
+「另外，你要是發現了什麼弗蘭特政治陰謀的小把戲，也隨時來找我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「關於弗蘭特的事……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「我聽著呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「是弗蘭特告訴我該去哪裡找本維斯的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「弗蘭特要我在涅克塔卡搜尋關於漂浮吊死鬼號的情報。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「很明顯，一位名為露西亞·利文的舊達寇茨聖武士掌控著漂浮吊死鬼號。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「露西亞·利文作為不死族船長出現的首次記載是在達思肯島的戰鬥中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「弗蘭特對鉤刺島奴隸貿易的興趣也與瓦利亞商行有關。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「弗蘭特為什麼會想幫助鉤刺島的奴隸販子？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「這件事我們下次再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「我也考慮過了。弗蘭特應該是以此確保自己的政治立場。他一貫如此——利用骯髒手段將自己的對手置之死地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「涅克塔卡？為何是那裡，小可愛？」艾戴斯將雙臂交叉在胸部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「漂浮吊死鬼號就是方菲羅斯號的殘餘部分？有趣。太有趣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>她的漆黑與冰藍色雙眼閃動著興趣的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>「哎呀，哎呀，這可真是個好消息啊。這確實說得通。」她瞇起了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>「對弗蘭特這樣的船長來說，協助奴隸販子根本就是小打小鬧。從奴隸販子這裡賺到的錢，根本抵不上他投進去的錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>「如果你有證據能證明這一點，一定要把它保留好。或許它以後能為我們派上用場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>「我並沒有什麼確鑿的證據，小可愛。但我可以拿我的金陽幣跟你打賭，弗蘭特打算和奴隸販子之外的人合作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>「對弗蘭特這樣的船長來說，協助奴隸販子根本就是小打小鬧。從奴隸販子這裡賺到的錢，根本抵不上他投進去的錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>「他不會這樣的。他別有用心，記住我這句話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>「我也願意回報那些支援我的人。我對盟友有多好你也看到了。
+
+「你的麻煩不少啊，小鴿子。讓我分給你一點財寶如何。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>沉浸在思緒中的艾戴斯向你漫不經心地點點頭，丟來一些錢幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>「哦好吧，你這次帶來的情報不錯。現在我就要像鯊魚追尋血跡一樣出發嘍。」
+
+她帶著滿意的神情扔給你一小袋錢幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>「我會進一步調查與弗蘭特有關的生意和政治組織。無論如何還是謝謝你的情報。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>船長丟給你一大袋錢幣，同時示意附近一名水手給她拿來一批海圖。很明顯，她已經迫不及待要開始獵捕了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「從瘋子莫萊娜這個名字來看的確如此。我和你說啊小鴿子。那女人的綽號不是白叫的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「也就是說如果你剛好碰巧解救了鉤刺島的奴隸們……弗蘭特也屁都做不了。
+
+「誰也不應該受到別人的奴役。懂嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「如你所願，小鴿子。我全心全意任你差遣。」
+
+「至少在我感覺無聊之前如此。」她眨眨冰藍色的眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「有什麼東西給我嗎，小鴿子？」她感興趣地向前探著身子，嘴角邪惡地彎起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「我嗎？我更願意直面敵人，給他們一個歸入我麾下的機會，然後把不聽話的全弄死。」
+
+船長的異色雙瞳閃著惡作劇般的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「突襲皇宮這種事太不要臉了，你說呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>「是啊，不過沒辦法。你對我的戰術有異議？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「完全沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「這不重要。我只想知道你打算如何前往烏凱佐。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「這場風暴&lt;i&gt;肯定&lt;/i&gt;有問題。還好我早有準備，能指揮漂浮吊死鬼號將其徹底平息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>她愉快地遞給你一杯飲品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>「我們輕鬆加愉快地就能通過嘍。
+
+「不過首先我還有點研究要完成。可以說是拼圖的最後一塊吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>「全部搞定後我會告訴你的，小可愛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「現在談談下一步計劃吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「那麼我之後會更加謹言慎行，希望你能滿意，我嚇人的好搭檔。」
+
+船長向你嘲諷似的鞠躬致意，不過臉上的幽默神色已不見蹤影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>當她挺直身體後，僵硬的樣子出賣了她的無情野心與嗜血本性。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>「你想讓我為你刺探情報？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>[雙臂交叉抱在胸前。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"噓。你暫時還什麼都不用說。只要下次你替人辛苦賣命，累死累活最後有半點機會便反遭暗算時想想就行。」
+
+她狡黠地敲敲一側太陽穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>「你可真聰明！」她嬉皮笑臉地朝你擠眉弄眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>「不用現在就應允什麼。只要下次你替人辛苦賣命，累死累活最後有半點機會便反遭暗算時想想就行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>「我很喜歡解開歷史塵封的謎團。就好像破譯一張藏寶圖上的密碼似的。只要收集這些戰利品，我們就能發掘過往的未解之謎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>「給我點時間，我會找到辦法對付露西亞的。這樣我們距離拿下漂浮吊死鬼號就更近一步了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>「你覺得露西亞變成不死族與其身為聖武士時尚未完成使命便飲恨而終有關？
+
+「嗯，反正這和我也沒關係。」她聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>「那麼繼續吧。你肯定聽過這麼一句話，&lt;i&gt;好東西要分享，這是海上的法則。&lt;/i&gt;」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>「我要去找貝拉斯信徒耶蘇亞的悼詞。他殺死了露西亞·利文並被埋葬在涅克塔卡的墓穴中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>「露西亞·利文被一名貝拉斯牧師殺死後，又作為亡者守衛而復生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>「如果你找到什麼其他的東西，一定要告訴我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>「所以她才率領著一批不死族船員。這也說明如果她是亡者守衛的話，一定會有件最想要的東西。也許她會願意為此談談條件。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>「弗蘭特認為漂浮吊死鬼號就是方菲羅斯號的遺骸——某個死了二百多年的達寇茨聖武士駕駛著它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>「我也聽到過許多這樣的傳言。漂浮吊死鬼號的旗幟上畫的就是舊瓦利亞那燃燒的宮殿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>「其中一方或雙方對我們設法獲得漂浮吊死鬼號會有幫助？我明白了。」她用骯髒的手指捻著下頜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>「我也聽到過許多這樣的傳言。漂浮吊死鬼號的旗幟上畫的就是舊瓦利亞那燃燒的宮殿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>「露西亞·利文為了保護一把皇家之劍而死。但這把劍從她身邊被偷走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>「因此她才化身為不死族。現在她仍然在亡焰列島出沒，希望能夠完成自己的使命，是這樣吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>「這點知識我肯定能搞定的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>「哦對了，這裡還有點東西給你。」
+
+船長微微向前傾身，從雙峰之間拽出一袋錢幣塞進你的手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>「對，打靶練習能讓我放鬆下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「我現在還是去洗個熱水澡吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>「我不喜歡射擊、喝酒和清潔身體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>「這陣尖叫聲還是挺安慰人心的吧？」她挑了挑眉毛，但你也不確定她是否在挑逗你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>她仰頭大笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>「好吧，沒錯，你用我的沒問題。不過也許下次吧？等周圍人少點的時候？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>她瞇起眼睛，臉上掛著似有若無的笑意。不過緊接著她臉上又擰出一道邪惡的笑容，端起朗姆酒杯痛飲一大口後舔舔嘴唇盯著你看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>「也許等以後我會讓你看看每份好東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>「這個露西亞·利文——我素有耳聞。她在二百多年前掌控著方菲羅斯號。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>「不過就算你和我說了這些我也沒啥驚訝的。要奪取漂浮吊死鬼號只有一條路可走——那就是想辦法弄死船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>「咱們如今在一條船上。你和我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>「好吧，你已經證明了對我的忠誠。」艾戴斯的微笑看起來卻像是沾血的鋒刃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>「幸運的是，我已經知道如何召喚出漂浮吊死鬼號了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>「當然，做海盜的越謹慎越好。因此我記住情報之後就立刻將其銷毀了。只要我不說，就沒人再能知道這些事情了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>「我還以為我們達成共識了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>「怎麼？你做得好像也不多吧。」她揚起眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>「你是這麼說。儘管沒做什麼事還要換取我的忠誠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>「不過我就給你這麼多吧。我總是希望你能夠和我達成共識的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>「抱歉小可愛，我沒時間開玩笑。還有一座失落的黃金之城等著我呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>「嗯，我本來是想請你幫個忙——能夠沉重打擊鉤刺島上奴隸貿易的事情。不過看起來我似乎太遲了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>「我本想請你解救島上被奴役的人。不過我得到確切消息稱你已經做了一大堆事情了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>「而現在，大師已經進入了戒備狀態。你做的這一切，不過是加強了他的力量而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>她本想繼續說下去，但自己打住了。她搖著頭，手指把玩著繞在她頸上的那枚金幣，咬了幾下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>「我和我的皇族海盜會成為你強大的盟友。但你會對我們效忠嗎？我想弄清楚這件事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>「當然了。&lt;i&gt;假如&lt;/i&gt;我們能成為合作夥伴的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>「或許會，又或許不會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>「鉤刺島的事情已經做完了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>「你就是這麼做事情的嗎？我可不是&lt;i&gt;只&lt;/i&gt;讓你去那裡打打殺殺，小鴿子。我讓你去釋放那些奴隸們。」她瞪著你，瞇起了她的雙色瞳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>「而現在，大師已經進入了戒備狀態。你做的這一切，不過是加強了他的力量而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>她本想繼續說下去，但自己打住了。她搖著頭，手指把玩著繞在她頸上的那枚金幣，咬了幾下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>「這件事情就先放在一邊吧，小可愛。或許以後，我們對事情的看法會變得更加一致。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>「不過我得承認，我是不會為奴隸主之死落淚的。而且我確實很喜歡看著我的敵人流血而死。」
+
+「至少在這一點上，我很感謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>「沒錯，而且你做得很好。絕大部分俘虜都已經加入了我的艦隊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>「你做了一件好事，船長，這件事情我是不會輕易忘記的。」
+
+她的拇指揉搓著脖子上的金陽幣，雙色瞳上上下下地打量著你。她的嘴角露出了狡黠的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>「和你做生意真的很愉快，希望以後我們還能有機會再次見面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>「等到那時候，我肯定會隨時需要隨時聯繫你的。」
+
+她向你親切地脫帽致意，然後拿起後面桌子上擺著的裝有神級朗姆酒的高腳杯一飲而盡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>「沒錯，而且我聽說搞出了很大動靜。我自己也很喜歡殺出一條血路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>「一部分被解救的奴隸已經來到了舷窗堡壘，加入了我的艦隊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

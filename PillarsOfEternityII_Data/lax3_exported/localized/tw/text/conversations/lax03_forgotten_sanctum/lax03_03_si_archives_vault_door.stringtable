@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_03_si_archives_vault_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你連該從何處&lt;i&gt;入手&lt;/i&gt;打開這道鎖都不知道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[檢查雕刻。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[檢查機關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>這個裝置似乎是一個瘋子製作的。有些部件顯得完全多餘，其他部件所依靠的運作機制反而要依靠這些部件本身。
+
+這絕非尋常的鎖，秘室的門是一個謎題，是思維的迷宮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[撬鎖。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你埋頭苦幹了一小時，出了一身汗，使這個機關發出了一聲響亮的叮噹聲，這宣告著……聲音大概是裡面什麼東西碰撞發出的吧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你埋頭苦幹了一小時，但結果令人沮喪，你在開門這件事上沒有取得任何進展。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 0]在門前埋頭苦幹了一小時，出了一身汗，使這個機關發出了一聲響亮的叮噹聲，這宣告著……聲音大概是裡面什麼東西碰撞發出的吧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你認出了不同尋常的魔符是掌秘人的標誌，他們是一個由歷史學家組成的秘密團體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0]探身更仔細地查看雕刻。「似乎是掌秘人的標誌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>魔符看起來像一隻手，但你並不知道它的含義。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0]朝雕刻皺了皺眉。「看起來像只手？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[背誦咒語。] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>複雜的機關看起來幾乎完全消失，陷入了門裡，直到變成平坦且不深的蝕刻圖案。只剩下一個拉桿，拉動之後，門便動了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>門的各部分開始移動，之後機關的桿子縮了進去，你面前出現了一條路……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>一個複雜到令人難以置信的機關鎖住了你面前這扇巍然不動的門。它的齒輪、桿子和滾轉筒的複雜程度能與構裝體的內部結構相媲美。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[SkillCheck 0]使勁搖了搖頭，吹了聲口哨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[踹門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你把自己的腳趾踢疼了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

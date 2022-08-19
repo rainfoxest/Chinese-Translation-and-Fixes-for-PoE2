@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\itemmods</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>63</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1300</ID>
+      <DefaultText>被神錘燒焦</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1301</ID>
+      <DefaultText>神錘之守護</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1302</ID>
+      <DefaultText>神錘之迴響</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1303</ID>
+      <DefaultText>別讓他通過！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1304</ID>
+      <DefaultText>守住橋樑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1305</ID>
+      <DefaultText>停滯時間</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1352</ID>
+      <DefaultText>火痕</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1353</ID>
+      <DefaultText>正義的復仇</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1354</ID>
+      <DefaultText>忠誠</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1365</ID>
+      <DefaultText>向死而生</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1367</ID>
+      <DefaultText>終結烈焰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1368</ID>
+      <DefaultText>臨場離間</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1369</ID>
+      <DefaultText>腐蝕吐息</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1370</ID>
+      <DefaultText>龍族震爆</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1392</ID>
+      <DefaultText>慢速熵殤</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1429</ID>
+      <DefaultText>寒冬面紗</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1457</ID>
+      <DefaultText>生命吐息</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1462</ID>
+      <DefaultText>死亡擁抱</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1483</ID>
+      <DefaultText>復興</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1486</ID>
+      <DefaultText>流動</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1487</ID>
+      <DefaultText>漲潮</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1488</ID>
+      <DefaultText>退潮</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1489</ID>
+      <DefaultText>無盡寒冬</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1490</ID>
+      <DefaultText>熵能反射</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1491</ID>
+      <DefaultText>寸草不生</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1493</ID>
+      <DefaultText>加速腐爛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1494</ID>
+      <DefaultText>緩慢研磨</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1497</ID>
+      <DefaultText>健壯如牛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1498</ID>
+      <DefaultText>寒冬之觸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1499</ID>
+      <DefaultText>惡化</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1501</ID>
+      <DefaultText>寒冬巨獸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1565</ID>
+      <DefaultText>熵殤守衛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1566</ID>
+      <DefaultText>腎上腺素衝擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1567</ID>
+      <DefaultText>傳播混沌</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1576</ID>
+      <DefaultText>小冰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1580</ID>
+      <DefaultText>鋸齒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1581</ID>
+      <DefaultText>勝似堅冰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1582</ID>
+      <DefaultText>破碎</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1584</ID>
+      <DefaultText>折磨之力</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1585</ID>
+      <DefaultText>白霜甲殼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1586</ID>
+      <DefaultText>冰川勢能</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1587</ID>
+      <DefaultText>睿姆岡之守護</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1588</ID>
+      <DefaultText>虛空祝福</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1589</ID>
+      <DefaultText>混亂打擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1590</ID>
+      <DefaultText>痛苦傳播</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1591</ID>
+      <DefaultText>寒冰侵蝕</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1592</ID>
+      <DefaultText>碎顱</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1593</ID>
+      <DefaultText>冰鑄</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1594</ID>
+      <DefaultText>晶華護甲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1595</ID>
+      <DefaultText>睿姆岡的影響</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1596</ID>
+      <DefaultText>冰噬崖壁</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1597</ID>
+      <DefaultText>Ripped from the Source</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1598</ID>
+      <DefaultText>靈魂注入</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1599</ID>
+      <DefaultText>迷失於時間中</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1601</ID>
+      <DefaultText>無上忠誠</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1609</ID>
+      <DefaultText>處刑人之斧</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1610</ID>
+      <DefaultText>正義天平</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1611</ID>
+      <DefaultText>有罪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1612</ID>
+      <DefaultText>無罪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1623</ID>
+      <DefaultText>時間膨脹 I</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1624</ID>
+      <DefaultText>時間膨脹 II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1625</ID>
+      <DefaultText>時間膨脹 III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1632</ID>
+      <DefaultText>弗約爾德</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_outside_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「等下。你有可能已經去過宮殿和神龕，不過還是要注意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「背後談論自己的盟友可不地道啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我有消息要告訴女王。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我記住了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「女王會見了商行的毒蛇們。小心別被咬了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「外來者，如果你是來做生意的話，那你來晚了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你們的人已經在裡面了，正在和女王詳談呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「皇家商行的人在裡面？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「瓦利亞商行的人在裡面？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「啊，對。我的……人。我最好快點了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你們的哈扎努伊，還有瓦利亞伯爵也在。他們正在皇殿裡。如果你迷路了的話，尋著那嚷嚷聲過去就好了。」
+
+守衛朝大門做了個手勢將你打發走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你們的伯爵，還有亡焰皇家商行的哈扎努伊也在。他們正在皇殿裡。如果你迷路了的話，尋著那嚷嚷聲過去就好了。」
+
+守衛朝大門做了個手勢將你打發走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「他們正在皇殿裡，穿過我身後那扇門就到了。如果你迷路了的話，尋著那嚷嚷聲過去就好了。」
+
+守衛朝大門做了個手勢將你打發走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「女王現在正在皇殿裡，穿過我身後那扇門就到了。告訴守衛你來此的目的就好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「女王願不願意放下那些大聲嚷嚷的客人，來聽你的消息，這就是另一回事了。」
+
+守衛朝大門指了指將你打發走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我隨口一說而已。」
+
+守衛無所謂的聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「願海麗婭眷顧你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「是他！別讓他跑了！」</DefaultText>
+      <FemaleText>「是她！別讓她跑了！」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_rekke_minihub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>187</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「Lash esagan kikiwa。」他微笑了起來，眼睛亮了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「Ked tet』elahiza。」他懷著敬意衝你點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「給。」他露出大大的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你好啊，朋友！」他稍帶激動地朝你揮了揮手，之後又害羞地臉紅了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「哈桑戈…… Yiz mah sizaga yah。T』ese？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「有事就問吧。」他微笑著輕點了一下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你的聚鹿語學的很快。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你覺得亡焰列島怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你準備在這裡做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「跟我說說你的家鄉吧。你來自哪裡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你與Yiz交談。你與神交談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「你準備好了嗎？……Lash kigun ginukis gawu?」他捶了下你的肩。你感覺他的手掌有些微微顫抖，但是他的臉色仍然是歡快愉悅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你……喜歡他嗎？你跟泰克胡一起開心嗎？」他朝泰克胡瞥了一眼之後迅速挪開了視線，他的雙唇緊閉著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你想念家鄉的什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你還好吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「一個很有意思的問題。我該怎麼解釋呢……」他撓了撓鼻子和臉上的斑痕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你準備怎麼回耶祖海？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「現在可以了嗎？我現在就可以走！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「啊，我們來是教育人們的。」他笑了笑。他之前繃地緊緊的肩膀鬆弛了下來，知道自己不用再談論船難的事情他大鬆了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你們準備去一個從來沒有去過的地方，跟一群根本不說你們語言的人們搞『教育』？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「那位神靈之事。」他向後仰了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「在你們的地圖的邊緣。」他想要擠出一個戲弄的笑容但是沒有成功。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我還有些別的事情想問你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「難道很難嗎？」他歪著頭略帶戲謔地看著你。他的眉毛中透露了自己被逗樂的情緒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「這裡很熱。而且很潮濕。我不喜歡這裡。」他環顧四周想要踢點什麼東西來出氣，但是想了想之後他抱起手臂哼哧了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我不喜歡這裡。但是你比我更加適應這裡。」橫跨他嘴唇的傷疤使他看上去一直在微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「Lash ked yikigi kisid？！」他用力指了指自己的頭髮，一團亂麻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「E yeliza mida seliki yeheb？」他皺著眉頭拍死了手臂上的一隻蟲子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「你想說的是「那些神靈們」吧。神有複數。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「不。我說的就是那位神靈，ta？呃，我該怎麼說……」他的眼神突然飄忽了起來，他心不在焉地捏著指關節。最後他聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「你覺得我們的同伴們怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「腳疼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「Ke tahun gisam ma…」他的聲音輕如蚊蠅，而且他也沒有看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我感覺自己像是在他人的夢裡面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你指的誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「亞洛斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「艾德爾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「麥婭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「帕蕾吉娜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「泰克胡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「裘荻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「其他那些人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「你指的誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「康士坦丁。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「費西娜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「伊德溫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「再說說其他人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「好吧。」他聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「呃。怪人！」他臉色發白地打了個寒顫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「我給了她一顆堅果蜜餞，但是她把所有的都搶走了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「他趁我不注意的時候會往我的湯裡放火藻，但是我什麼都清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「他一直苦著一張臉。跟個老頭兒似的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我想要搞亂他的髮型。太過……整齊了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「沒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「艾德爾跟我說神靈踩過了你的房子。你有可能比我還不走運。」他譏笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我從艾德爾那裡學到了你們給所有動物和藥物起的名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「她的鳥兒脾氣太壞了。看看我給他咬的……只不過我喜歡他。」他笑著給你指了指手臂上一道淺淺的三角形傷口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我本來想要跟她開個玩笑。但是她身手非常快，直接就把我扔進了海裡面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「她讓我想起我以前的老師。你覺得她會願意跟我對練幾輪嗎？」
+
+他若有所思地啃著佈滿斑痕的關節。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「你覺得他是在哪裡學的聚鹿語？不是……這裡吧，ta？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「他扔了條毛巾到我頭上。他怎麼知道我有點冷的？」他快速掃視了一圈四周。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「泰克胡給了我米酒。難喝死了！」他故意一臉表示噁心的誇張表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「他太吵了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「有次她的武器戳了我一下。之後的一整個禮拜她都在為此道歉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「她對付鳥有一手。她在我的頭髮裡面插了伊希的羽毛，看見了嗎？」
+
+他抖了抖頭髮給你看。頭髮閃爍著銅質的光芒，你看見裡面編著幾根柔滑的紅藍色羽毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「就說到這裡吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「什麼，不說了嗎？」他開玩笑地戳了戳你的胳膊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「過會兒再聊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Hun gu."他用力地點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「艾德爾教會了我瓦利亞語罵人話。想聽嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「但是他一樣東西也不肯給我。」他皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「啊，但是帕蕾吉娜在的時候我還是不要說了。她會變得……suheki shul aki has。就像是困在小房子裡面的馬。暴躁不安。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「力帕薩里斯，我的家，那是座大城市， ta？」他張開雙臂微笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「那裡有說著很多種語言的很多人。在那裡這是……nuyin。正常的。」
+
+他的嘴角浮起了一絲壞笑。你不知道他說的到底是不是真話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「你的船是怎麼沉的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「一場風暴。像夜晚一樣黑暗，像星辰一般高的雲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我們以為神會保護我們。」
+
+他喜歡動個不停表達自己的雙手靜靜地垂在了他的身側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「你們之前想去哪裡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「西面。」他皺著眉頭含糊地朝地平線指了指。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「現在就說這麼多吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「好吧。」他聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「你們是來教育……什麼的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「我學東西很快。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「你看上去不像是個老師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「我不像嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我在開玩笑。你說的對，我不是老師。之前有一個……sehaj。然後我就到了船上。
+
+「我們可以……之後再討論這個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「你覺得我的聚鹿語很差嗎？我覺得最起碼得比塞拉芬的好。他張開嘴說的都是些莫名其妙的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「我不是說自己是一個&lt;i&gt;好&lt;/i&gt;老師。你懂Seki的話我們就能就神作深入探討了。」他哈哈大笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「那麼你是像裘荻那樣的一名傳教士咯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「我不知道「傳教士」是什麼意思，但是應該差不多吧。」他的眼神突然飄忽了起來，他心不在焉地捏著指關節。最後他聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「你以前是做什麼的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「我什麼也沒有做。就是因為這個我才到了那艘船上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「也許是有一棟房子著火了。也許是有很多棟房子著火了。但是那都是過去了。未來才更有趣，ta？」
+
+他揉了揉脖子，害羞地連耳朵都紅了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「馬都去哪裡了？」他瞇起眼睛。聽上去這個問題已經困擾了他很久。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「麥婭教的一個玩笑。家鄉……家鄉是耶祖海。在風暴之外。風暴之外的某處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「我想念那裡的風。炎熱乾燥，來自山嶺的風撼動著房門，把力帕薩里斯掩蓋在灰塵之中……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「還有沙漠。在山嶺之外，巨大的紅色沙漠。我有時候還會聞到那裡的味道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「風暴已經過去了。我可以走了。你願意帶上我嗎？」他的眉毛挑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「總有一天， Yiz hun skiku。但我覺得這裡還有更多可以看的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「靈視者，你離自己的家鄉很遠嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「是的，我想念那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「我的家在路上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「亡焰列島&lt;i&gt;就&lt;/i&gt;是我的家，我已經等不及想要離開這裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「我其實是亡焰列島本地人，這裡是個不錯的家園。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「那麼我們就是同病相憐的思鄉人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「那麼你就是一直在家鄉了。真希望我能跟你一樣。」他點了點頭，一縷頭髮蓋住了他的臉龐。他沉重地歎了口氣並將頭髮收回了耳後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「這地方是真的很糟糕。」他向你苦笑了一下，看向了別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「我嫉妒你。我不喜歡這裡。」他側過頭微笑著，想要隱藏話語之下強烈的情緒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「如果我跟你扳手腕贏了的話，你願意告訴我嗎？」他雙手叉腰站直了起來，臉上掛著大大的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「我&lt;i&gt;得&lt;/i&gt;找個梳子。」他指了指自己亂糟糟的頭髮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「好啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「算了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「混蛋！蠢貨！死東西！……我特別喜歡這個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「呃那好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「我用自己的武器戳了一下她，這樣子我們就互不相欠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「但是耶祖海裡面有辛辣許多倍的辣椒。到時候他就知道要求饒了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「Ta。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「Liyezuha igeyi.」他攤開雙手向前指了指，示意你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「她跟我妹妹一模一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「我能問&lt;i&gt;你&lt;/i&gt;個問題嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「好啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「現在不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「我們有聊過其他人。你對我的看法是什麼？」儘管他以平常的歡愉態度微笑著，你還是能感受到一股陰沉的擔憂情緒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「你很有意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「你很有用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「你不會擋我的路。我只關心這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「你是個煩人精。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「好吧。」他假裝無動於衷地聳了聳肩，但是裝的很爛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「我一點都不喜歡你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「我對你沒有看法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「總有一天你會有的。」他抬了抬眉毛，嘴角一絲譏笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「Yukag？帶我回家，我給你看看什麼是有意思。」他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「靈視者！我真是感激涕零！」他浮誇地做了個昏倒的姿勢，睫毛眨動著，手放在了胸口，之後再也演不下去了的他放聲大笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「希望你讚美自己的愛人的時候會用好點的詞。」他翻了個白眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「你不是第一個這麼說的人了。」他笑著聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「啊，如此冷酷無情！」他彎下了身，裝成一副被刺中了胸口的樣子，之後再也演不下去的他揮揮手放聲大笑了其起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「Ta,我在開玩笑。我不會讓你在朋友們面前難堪的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「以前從來沒有人去過西面。風暴的緣故，ta？但是我們那時候意志非常堅定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「真是崇高的讚揚。我很榮幸。」他翻了個白眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「我得想辦法鍛煉自己了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「順便說一句，你們的米酒瓶已經全空了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「轉念一想，我身上的傷疤已經夠多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「下次能不能記得關門？」
+
+他雙手抱胸哼了一聲，嘴角微微撅著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「你知道他能憋很久的氣麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「……但是那畢竟是你們的口味問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「太了不起了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「家鄉……家鄉是耶祖海。在風暴之外。風暴之外的某處。」他皺著眉指了指地平線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「Lash esagan kikiwa。」他微笑了起來，眼睛亮了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「Ked tet』elahiza。」他懷著敬意衝你點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「哈桑戈…… Yiz mah sizaga yah。T』ese？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「你準備好了嗎？……Lash kigun ginukis gawu?」他捶了下你的肩。你感覺他的手掌有些微微顫抖，但是他的臉色仍然是歡快愉悅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「Ked tet』elahiza。」他懷著敬意衝你點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[將怪板交給雷科。]「我找到了一樣東西，上面寫著我不認識的語言。你見過這東西嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「Ku？」他小心翼翼從你手中拿走板子然後揭開了皮革包裹。他震驚地挑著眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「這是Seki，是我的語言！我看得懂這東西！」他激動地跺著腳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「別吊我胃口！上面寫了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>[等待。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>看著上面文字的時候他的眼睛都亮了起來。讀完之後他突然開心地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「啊，這可是份寶藏。靈視者，你找到了一份具有非常重要的神聖文獻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「稍等。我讀給你聽。」他揮揮手示意你安靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"[雷科突然放聲大笑]"
+
+演員大笑。DO NOT LOCALIZE.
+
+apply wav file to node 190</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>天堂的親王只能食用力帕薩里斯山嶺上最鮮嫩的青草。汝將用吃著金根長大的野豬身上的鬃毛做成的刷子日夜梳理他的毛髮……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「這東西是不是講馬的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「聽上去不太像是神聖文獻啊……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「我用聚鹿語給你讀一部分。」他站直身子並清了清嗓子，姿態比以前相比稍稍嚴肅了點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「啊，那麼說你讀過很多耶祖海裡的聖言咯？」儘管他努力想要演下去，但他還是忍不住露出了一個小小的譏笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「哇……這還真是不得了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>[疑問地抬起眉毛。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「其實這是一匹馬的賣契。一匹非常&lt;i&gt;特別&lt;/i&gt;的馬。」他咬著嘴唇想要克制自己笑出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「我在開玩笑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「你是要誣蔑我的信仰嗎，靈視者？」儘管他努力想要演下去，但他還是忍不住露出了一個小小的譏笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「你想要我讀完剩下來的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「請。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「我已經聽夠了，謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「你真是一點都不有趣！」他微笑戲謔著朝你手臂上打了一拳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「要給他最活潑最美麗的母馬，因為如果缺乏挑戰他很快就會無聊。當他情緒低落的時候，要對著他的耳朵低語最甜美的讚揚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「剩下來還有，但是剛說的是最精彩的部分了。」他的臉上慢慢浮出了一個大大的譏笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「稍微等一下，我需要一點時間去接受我自己帶了這麼大一塊關於馬的石板這麼久的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>他哈哈大笑。「來力帕薩里斯吧，我可以給你再弄幾塊。你可以都收藏起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>他突然將視線從你眼睛上挪開，有那麼一瞬間你覺得他有可能不願意討論這個話題。
+
+過了一會他深呼吸了一口氣，咬緊嘴唇再次看向了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>他眨著眼睛沉默了片刻。但是等到他再次看向你的時候，他的臉上重又掛著自己平常的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>他彷彿因為背負上了沉重之物而沉下了肩膀，但是片刻之後他聳了聳肩，用沉重地微笑拂去了自己的思鄉之情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>看見塞拉芬之後他瞇起了眼睛，觀察著塞拉芬的眼神裡面帶著深深的懷疑……與好奇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>他大笑著朝亞洛斯扭動著自己的手指。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>你轉身時感覺袖子被輕輕拽了一下。你回過頭來，看到雷科正揚起一條眉毛看著你，嘴邊露出狡黠的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

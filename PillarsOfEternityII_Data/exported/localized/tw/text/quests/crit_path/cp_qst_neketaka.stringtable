@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_neketaka</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>艾歐拉之脈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>尋找更多光魂珀柱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>前往涅克塔卡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>前往&lt;b&gt;巨蛇王冠&lt;/b&gt;區的&lt;b&gt;卡罕加宮&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>俄撒斯正在汲取該地區的光魂珀之柱中的精粹。無論他收集這些力量的目的是什麼，追蹤這些柱子是找到他的唯一方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我再也感知不到俄撒斯的存在了，這說明我沒有辦法再直接追蹤他了。但是如果俄撒斯正在將亡焰列島的光魂珀之柱用作能量來源，我也許能夠通過光魂珀之柱來追蹤他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>胡亞納城市涅克塔卡里面滿是想要靠光魂珀發財之人。那裡是我最有可能找到有關巨型魂珀柱訊息的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我來到城市這件事已經眾人皆知了。貝拉斯肯定已經知道了這一點。
+
+港務長已經不再阻撓我，我可以前往&lt;b&gt;巨蛇王冠&lt;/b&gt;區的山頂處，自由尋找&lt;b&gt;卡罕加宮&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;涅克塔卡&lt;/b&gt;就在&lt;b&gt;國王港北邊稍微偏東&lt;/b&gt;一段距離的地方。只要跟著珊瑚礁，就能找到那座城市了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>克拉里奧總督說瓦利亞商行應該知道哪裡會有大量魂珀存在。他們的總部就在涅克塔卡碼頭附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>瓦利亞商行為了自身利益正在尋找光魂珀。克拉里奧總督也許能夠幫助到我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>伊卡瓦並不贊同我對國王港的攻擊行為，她害怕瓦利亞人會做出報復行為。她和她的守衛們拿起了武器，我只能被迫殺死她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>總督已死，我很難在鎮子裡找到幫手了。也許總管會知道現在我該怎麼辦。她還被半掩埋在海灘上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>肯定有人在負責遺跡裡面的挖掘工作。也許我能在國王港找到更多情報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我的船重新出海了。我現在是船長了，我需要去尋找補給品與船員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我瞭解到俄撒斯再一次出現了，這次是在哈桑戈前哨站。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>皇宮已經不歡迎我了。我現在手頭上只有一個名字：哈桑戈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>女王在聆聽了我針對哈桑戈的情況匯報後邀請我去皇宮天台與她私下交流。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我在瑪珈嵐之牙發現了俄撒斯的蹤跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

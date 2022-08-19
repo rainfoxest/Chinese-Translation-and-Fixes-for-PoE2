@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5520</ID>
+      <DefaultText>地獄火鐵爪的核心</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5521</ID>
+      <DefaultText>這個銅質裝置曾在地獄火鐵爪體內傳導過靈魂能量潮浪，即使處於「死亡」狀態，似乎仍能回憶起自己的使命。使用時，核心會使持有者的靈魂煥發活力，暫時提升其潛能。這個精煉和增益的過程在構裝體的構架下一定很尋常，但當它作用於基斯的肉體時，結果不易預測。一旦精粹流枯竭，核心就會釋放驚人的熱量擴散，大範圍燃燒溢出的能量。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5526</ID>
+      <DefaultText>魔符大師奧朗尼克的魔典</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5527</ID>
+      <DefaultText>這本魔典的書頁就像被虐待的殘疾人——潦草地塗寫一層又一層的文字，最終模糊難辨。靠近端詳才能看出秘法符文如何形成一個連貫的圖案，解開潛藏在文字背後更深層含義。希望從這些篇章得出一套連貫咒語的法師們將其秘法意圖交織在一起時，必會因無法預知的結果大吃一驚。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5586</ID>
+      <DefaultText>《亡焰列島的陷阱》第三卷 - 魔符大師奧朗尼克</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5587</ID>
+      <DefaultText>這本旅行者指南是寫給亡焰列島的新來者的。有一段很醒目：
+
+「魔符大師奧朗尼克正逍遙法外。她因為在人口密集區放置致命魔符被判刑，僅僅靠一顆石頭棋子和一個墨水瓶就讓自己成功逃脫。
+
+相信當局，不要試圖捉捕她。她會以足夠強大的魔符傍身，炸死遇上的來訪者。
+
+亡焰列島來訪者保護協會對已知風險造成的傷害概不負責，並已盡一切努力讓旅行者遠離以下坐標：4° 50' 南 67° 31' 東。」
+
+一張用骷髏頭形狀的蠟封標記出奧朗尼克位置的地圖。它指向東北方一個偏遠的水下洞穴。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5588</ID>
+      <DefaultText>《亡焰列島的陷阱》第四卷 - 地獄火巨獸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5589</ID>
+      <DefaultText>這本旅行者指南是寫給亡焰列島的新來者的。有一段很醒目：
+
+「從遠方來訪的鑄魂師們——不要為了學術研究去找多魯杜根，那個鋼鐵暴君。否則只有死路一條。
+
+不論是誰創造了這個噴火巨獸，都應該為它給群島帶來的人間煉獄負責。協會尚不清楚鐵爪的創造者是否已死於其手，但正義本身會要求他們被自己草率煽起的火焰燒成灰燼。
+
+亡焰列島來訪者保護協會對已知風險造成的傷害概不負責，並已盡一切努力讓旅行者遠離以下坐標：38° 37' 南 31° 21' 東。」
+
+一張用骷髏頭形狀的蠟封標記出地獄火巨獸位置的地圖。它指向亡焰列島西南角的一片沙漠廢土。 </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

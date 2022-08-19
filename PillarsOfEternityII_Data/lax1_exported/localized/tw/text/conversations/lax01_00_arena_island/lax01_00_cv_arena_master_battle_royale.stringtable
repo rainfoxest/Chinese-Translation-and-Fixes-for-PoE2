@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_arena_master_battle_royale</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「篩選結束了。經過漫長等待，本賽季三支最強的隊伍終於脫穎而出。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「現在，他們將決一死戰！倖存到最後的隊伍將成為狩獵冠軍！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「為了競技場的榮耀，以托墨弗艾之名，願最強悍、最迅捷、最聰明的隊伍獲得最終勝利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「狩獵結束。讓我們來為這些狩獵冠軍們大聲歡呼吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「恭喜你，靈視者！願你的力量能夠永遠守住這個頭銜！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「[Player Name]！」
+「[Player Name]！」
+「[Player Name]！」
+
+人群開始沸騰起來，人們滿懷激動、驚喜的喊叫著你的名字。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「開始狩獵！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「當你厭倦奉承之時，就返回回憶水池。胡瑪爾會負責你的加冕禮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

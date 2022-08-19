@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_huana_keeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>她越靠近，她的身體溶解得越快。離你有一臂之遙，她張開嘴喊，但只聽見發出斷斷續續的咿咿呀呀聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>亡靈撲向前去，手臂抬起攻擊，但動作似乎太多，以至於她脆弱的身體，化為一團鬆散的精華。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>一個緊張的海裔女人徘徊在海螺形的基座旁。
+
+你的到來讓她大吃一驚，然後她迅速觸摸了基座上某個半隱半現的物體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>基座周圍的水流突然改變方向，淹沒了基座後面的路徑。
+
+女人滿意地完成了任務，大步而堅定地向你走來。
+
+她那逐漸經消失的形體化為粉粒，忽明忽暗，若有還無，就好像慢慢分解了一般。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你......不......進入......我……看護人……遺物……阻攔……水……昂德拉……的指引……！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

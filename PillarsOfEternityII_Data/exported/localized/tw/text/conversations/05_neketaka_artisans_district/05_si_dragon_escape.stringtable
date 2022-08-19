@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_si_dragon_escape</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>斯基奧里拉法斯拍動起雙翼，飛離了這座水之監獄的地面。他張開下頜咆哮一聲，隨之而來的爆炸轟開了監獄頂部，露出了外面的天空。在不知多少年之後，終於又有來自外部世界的光線進入了這間密室之內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在他的身影消失後不久，你聽到島嶼的西南角傳來一陣樹木斷裂，水面隆起的大肆毀壞之聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>他再次張開雙翼，帶著無比的狂莽與驚人的速度從出口離開。他的出現伴隨著恐懼與驚慌的尖叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>山的一側爆炸開來，大量碎石如雨般落入海底，而一隻巨龍從洞穴中現身。
+
+帶著得勝般的咆哮，它繞著佩瑞琪之望飛行一圈後便轉向了女王港。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

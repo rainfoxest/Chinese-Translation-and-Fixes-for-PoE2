@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_essence_choice</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>靈魂能量圍繞著你，強烈地壓迫著你的靈視能力。稍微運用一下意志力，你就可以引導周圍的精華……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[將靈魂精華送回競技場和卡茲瓦里島的野生物身上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[將靈魂精華引導回穆阿圖身上，恢復他的形態。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[自己吸收靈魂精華。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[將靈魂精華送到貝拉斯之輪。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你讓能量重回競技場當中，同時你也感覺到有一些能量流入到荒野之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>當你把能量注入到幽靈嚮導穆阿圖體內時，他全身閃閃發光。他看著自己的雙手，就好像第一次看見它們一樣，你也感受到他流露出由衷的感激之情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你從空氣中汲取周圍的精華，讓它們流入到你體內。靈魂能量在你體內洶湧流動，溫暖的感覺流遍全身每一個角落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你試著把靈魂送回貝拉斯之輪，但卻徒勞無功。似乎有某種力量阻擋了通往靈界的路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[摧毀靈魂精華。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你朝那些靈魂釋放出怒火，肆意地將它們摧毀殆盡。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

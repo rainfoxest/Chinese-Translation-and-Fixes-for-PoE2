@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_slayer_titan_heart</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>殺戮之面的泰坦之心狩獵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>獲得&lt;b&gt;泰坦之心。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將&lt;b&gt;泰坦之心&lt;/b&gt;交回&lt;b&gt;回憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>殺戮之面發現了&lt;b&gt;一名古代戰士的心，&lt;/b&gt;命我將它取回。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>因加里的訊息顯示，古代戰士的心一直被囚禁在一個&lt;b&gt;黃銅要塞&lt;/b&gt;內。我必須要潛入要塞才能取回那顆心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>既然已經從黃銅堡取得了泰坦之心，我可以在&lt;b&gt;回憶水池&lt;/b&gt;解鎖它的潛力了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我將泰坦之心托運給了回憶水池。我現在可以加入狩獵之面的一個新戰鬥了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4644</ID>
+      <DefaultText>拯救命運</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4646</ID>
+      <DefaultText>千變萬化</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4647</ID>
+      <DefaultText>在每場戰鬥的開始，無限可能之項鏈會變化為一件隨機魔法武器，替代使用者當前的主武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4650</ID>
+      <DefaultText>金錢之力</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4651</ID>
+      <DefaultText>烈焰聯結</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4652</ID>
+      <DefaultText>擲骨</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4653</ID>
+      <DefaultText>封鎖</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4654</ID>
+      <DefaultText>囚犯與現實世界隔離，無法行動，亦無法被外界所影響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4655</ID>
+      <DefaultText>陋村愚民</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4656</ID>
+      <DefaultText>使用者招致四周其他人的嘲笑，為所有友軍與敵人賦予決心減益狀態免疫，但也會減少其格擋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4657</ID>
+      <DefaultText>晨光反射</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4658</ID>
+      <DefaultText>頸圈的顏色明亮地閃耀著，讓使用者在白天有機率反射法術。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4660</ID>
+      <DefaultText>午夜之願</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4661</ID>
+      <DefaultText>孤獨旅者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4662</ID>
+      <DefaultText>附近無隊友時，穿戴者獲得所有防禦屬性加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4663</ID>
+      <DefaultText>窮困潦倒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4664</ID>
+      <DefaultText>太陽之祝福</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4666</ID>
+      <DefaultText>星光藥劑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4668</ID>
+      <DefaultText>孩童的騎士人偶</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4670</ID>
+      <DefaultText>無限可能之飾品</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4688</ID>
+      <DefaultText>流轉時間，讓使用者在不陷入傷勢的情況下從昏迷中恢復。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4757</ID>
+      <DefaultText>暗影形態</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4758</ID>
+      <DefaultText>持有者的致命一擊可以使其暫時進入隱身狀態，從而得以逃離或再次攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4895</ID>
+      <DefaultText>根據全隊當前的財富，提升持有者的命中轉化為暴擊機率。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4897</ID>
+      <DefaultText>全隊剩餘金錢越少，提升持有者的決心越多。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

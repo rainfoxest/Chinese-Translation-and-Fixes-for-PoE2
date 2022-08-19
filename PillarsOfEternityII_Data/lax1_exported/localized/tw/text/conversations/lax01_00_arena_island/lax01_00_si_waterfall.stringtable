@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_waterfall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>當你接近小島鋸齒狀的懸崖時，波濤洶湧的海浪往復拖拽你的小船，海水飛濺在你的臉上。
+
+海浪沖擊著從海水中伸出來的礁石，你盡可能小心地駕著你的小船，穿過白花花的水沫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你注意到正前方有一塊尖銳的火山岩，而海浪正推著你朝那塊岩石撞去……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[衝入海浪。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你喊起了划船號子，奮力地划著槳，劃向港口。又一道浪打了過來，推著你的船往前進，船的右舷蹭到了長滿籐壺的岩石表面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>之後，小船繞過了岩石。然而你並沒有歇口氣的機會，因為你的面前又是一道瀑布。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>當你從瀑布下經過時，水面平靜了下來，遠處的陣陣亮光照亮了你附近的礁石。小船裡進了幾英吋高的水，在海中洞窟裡懶洋洋地向前飄著。洞頂很高，上面有幾百隻蝙蝠用黑漆漆的眼睛盯著你。
+
+在兩邊的牆壁上，你看到了像是粗略繪製而成的壁畫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[繼續向光源靠近。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你用力划著船，背部和胳膊上的肌肉開始發酸發疼，彷彿刀刺進砧板一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>小船升了起來，你的胃猛地一沉。緊接著，小船撞在了石頭上，你感覺牙齒和骨骼傳來一陣戰慄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[施放海嘯術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[施放退敵印記。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[施放油膩術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[施放力牆術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你快速地思考一陣子，祈禱幾聲，作了個手勢，在岩石的表面施放了一個印記。當你的小船碰到印記時，印記猛地把小船彈了出去。雖然你差點從座位上摔了下來，但小船平安地脫險了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你呼喚著大海的精華，召喚了一道強有力的海浪。海浪猛地把小船舉起來，衝了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specified 0]呼喚著大海的精華，召喚了一道強有力的海浪。海浪猛地把小船舉起來，衝了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你念了幾句咒語，打了幾個手勢，在石頭上召喚出一個油脂球。過了一會兒，油脂球落了下去，在石頭上覆滿了油脂。你做好準備，小船朝岩石的方向撞了過去。你的牙齒緊緊地咬在一起，咬得下巴發酸。小船毫不費力地從岩石旁邊滑了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0]召喚出一個油脂球，把石頭上覆滿了油脂。你做好準備，小船朝岩石的方向撞了過去。你的牙齒緊緊地咬在一起，咬得下巴發酸。小船毫不費力地從岩石旁邊滑了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你凝聚精神，吟唱著咒語，召喚了一道秘法力牆。力牆屹立在澎湃的海浪中，幾乎完全隱形。小船撞在了柔軟的力牆上，力牆極為柔和地引導著小船，從石頭旁邊繞了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 0]召喚了一道秘法力牆。力牆屹立在澎湃的海浪中，幾乎完全隱形。小船撞在了柔軟的力牆上，力牆極為柔和地引導著小船，從石頭旁邊繞了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 0]祈禱一聲，作了個手勢，在岩石的表面施放了一個印記。當你的小船碰到印記時，印記猛地把小船彈了出去。雖然你差點從座位上摔了下來，但小船平安地脫險了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[檢查牆壁。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>從壁畫的磨損程度，以及畫中人狩獵用的武器來判斷，這些壁畫應該是幾千年之前被畫上來的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>從壁畫的磨損程度，以及畫中人狩獵用的武器來判斷，這些壁畫應該是幾千年之前被畫上來的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>古代圖畫上描繪了海裔手持彎弓利矛尾行獵殺鹿群與野豬。還有一些描繪了乘坐竹筏高舉鋼叉的獵手們，其面前則是在海中橫衝直撞的巨鯨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>沒過多久，小船就畫出了洞窟，進入了高聳的峽谷之中。兩側的巖壁上垂著籐蔓，歪歪扭扭的樹木緊緊地貼著巖壁生長。你看到遠處有個小小的海灘，海灘上到處都是被遺棄的小船與獨木舟的殘骸。
+
+你朝著海灘劃了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你喊起了划船號子，[SkillCheck 0]奮力地划著槳，但小船依然在浪裡被甩來甩去。又一陣大浪打了過來，你緊緊地抓住了你同伴的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>一陣大浪把你舉了起來，之後又重重地摔了下去。你聽到船體蹭到礁石發出的吱嘎聲，緊接著，你便又被舉了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你從水簾下面穿過，冰冷的水打在你的背上，把你全身都淋濕了。
+
+你的周圍一片黑暗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>你緊緊地抓住了船舷。石頭離得越來越近，你的腦海裡滿是水花的咆哮聲。你用船槳撐住了石頭，猛力一推。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你的船員在海浪中無力地掙扎著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Specified 2]的眉毛擰在了一起，思索著說道：「看起來很古老。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>從壁畫的磨損程度，以及畫中人狩獵用的武器來判斷，這些壁畫應該是幾千年之前被畫上來的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>它們看起來很古老。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

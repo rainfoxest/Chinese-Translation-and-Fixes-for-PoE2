@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_cv_sanguine_harvest_crew_saved</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「我真不敢相信那個老混蛋竟然騙了我。我覺得自己就像一個笨蛋。」
+
+奧德爾擺弄著她手腕上戴著的一條破舊的手鐲，目光縹緲，沒有重點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你願意成為我的船員嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「給你些銅幣以及我的祝福。我肯定你會找到自己的路的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「不要問我。你只能靠自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我將很榮幸。畢竟，我欠你一條命——就讓我貢獻自己的微薄之力吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你真慷慨。謝謝你……為我所做的一切。」
+
+奧德爾把你給的銅幣塞進她的口袋裡，匆匆離開，頻頻扭過頭看你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我們是一路的。謝謝你來插手，外來者。我欠你的我這一輩子都償還不了。」她迅速、簡略地向你點了下頭，然後匆匆離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我離開了我的威夫魯斯，我的家，我的生活。我現在該怎麼——怎麼辦？」她轉過身來，驚恐地注視著你，然後匆忙擦掉眼淚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「船上見，船長！」她向你拋了一個媚眼，咧嘴一笑，然後匆匆離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你救了我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

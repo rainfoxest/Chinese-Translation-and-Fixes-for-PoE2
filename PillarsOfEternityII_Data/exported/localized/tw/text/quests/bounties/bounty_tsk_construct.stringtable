@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_construct</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸賞：鋼之傳教士</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺死&lt;b&gt;鋼之傳教士&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找&lt;b&gt;楠嘉塔&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一名寄宿於鋼鐵構裝體中的瑪珈嵐牧師正在亡焰列島肆虐。任何殺死&lt;b&gt;鋼之傳教士&lt;/b&gt;之人都將獲得豐厚賞金。有人看見他出沒於&lt;b&gt;舷窗堡壘&lt;/b&gt;南面的一座小島上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>聽上去&lt;b&gt;鋼之傳教士&lt;/b&gt;不是很狡猾。他就在&lt;b&gt;舷窗堡壘&lt;/b&gt;南面的一座島嶼上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>鋼之傳教士已經被完全拆除。我能夠回去找涅克塔卡&lt;b&gt;巨蛇王冠&lt;/b&gt;裡的&lt;b&gt;楠嘉塔&lt;/b&gt;索要應得的獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我摧毀了鋼之傳教士並且從楠嘉塔處得到了賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

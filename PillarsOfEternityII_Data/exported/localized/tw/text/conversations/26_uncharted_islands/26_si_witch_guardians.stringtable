@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_witch_guardians</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你艱難地穿過黑暗、寒冷的沼澤地。你越往前走周圍的水越深。淤泥在你靴子底下滑動。前面的路看起來比身後的路更危險，但你已經走了這麼遠了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[繼續穿過沼澤地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你繼續跋涉前行。你目光所及之處遍佈深水坑和泥濘，但你通過謹慎細心的挪步成功地避開了它們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你徒步跋涉穿過沼澤。你注意力被分散，一不小心踩上一塊不穩的地方，深深跌入水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你徒步跋涉穿過沼澤。[Specified 0]注意力被分散，一不小心踩上一塊不穩的地方，深深跌入水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你倉促伸手在渾水裡摸索將 [Specified 0] 拉回水面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你倉促伸手在渾水裡摸索，但你沒能在腐爛的植物和樹根中找到[Specified 0]。
+
+緊張地過了一會兒後，水面突然冒起一陣泡泡。[Specified 0]突然從水下衝出水面，水花飛濺，喘著粗氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你奮力抓撓，回到水面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>儘管你試了能試的所有辦法，還是無法在浮出水面的事情上有所進展，並且開始向更深的水下沉去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>隨著水面微弱的光線的退去，[SkillCheck 0]伸手將你拖出水面。
+
+儘管你們活了下來，但這次的遭遇已經讓你們精疲力盡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>當你的肺裡灼痛，視線開始模糊時，你孤注一擲地爆發出最後一絲力氣，拚命衝向水面。
+
+你落在堅實的地面上，咳出了難聞的沼澤地泥水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>藉著幫助，[Specified 0]成功地衝出水面，滾到干地上，咳出了沼澤泥水。由於你的快速救援，同伴們除了渾身濕透外，全部毫髮無損。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>沼澤寂靜無聲。沼澤散發著惡臭的腐爛味，死水中累積了數十年的動植物死屍。
+
+水面上瀰漫著濃霧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>好幾個帶著頭巾的基斯人悄然現身於濃霧之中，一群泥塘潛妖就跟在他們身後。這群人和妖最前面的一個大塊頭海裔男子拔劍指向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我為什麼要聽你的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>海裔男子再也沒說什麼，也沒有放下劍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>正當你認為擺脫了沼澤守護者後，他再次出現了，他的泥塘潛妖群跟在他身後。
+
+即使你有逃跑的時間，沼澤也讓你無處可逃。他們根本沒有想過要談判，毫無片刻遲疑就向你發動了進攻、</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「這裡不歡迎你們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你將[Specified 0]從水裡拉出來。你們一起跌落在干地上。[Specified 0]咳出大量沼澤泥水，躺在地上呻吟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「如果你們珍惜你們的生命，你們應該離開並且永遠不再回來。」他深深盯著你的臉，幾乎讓你不敢挑戰他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我是這個地方的守護人，而且我是不會讓你們的出現來褻瀆這裡的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「那麼……你經常來這裡嗎？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我只是路過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[離開。]"泥潭是你們的，夥計們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[將從[Specified 0]水裡拉出來。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Specified 1]試著幫助[Specified 0]但沒能成功，勉強沒有滑進水裡。
+
+緊張地過了一會兒後，水面突然冒起一陣泡泡。[Specified 0]突然從水下衝出來，水花飛濺，喘著粗氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[讓[Specified 0]自生自滅。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 1]將手深入水中把[Specified 0]拉回水面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>儘管沒得到援助，[Specified 0]仍然成功地脫離水面爬上干地，咳出了大量髒水。
+
+[Specified 0]瞇著眼看了你一眼，但什麼都沒說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>過了一會兒，水裡的扑打停止了。[Specified 0]沒有露出水面，而且永遠也不會了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你繼續跋涉前行。你放眼望去全是深水坑和陷人的淤泥，但[Specified 0]還是熟練地帶你走出了泥堆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[讓[Specified 0]自生自滅。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>海裔男子再也沒說什麼，也沒有放下劍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>男人盯了你好一會，然後深深皺著眉頭開口說話。然後他有點煩躁地嘟噥著，抱起雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>他張大了雙眼，驚訝地向後蹣跚退去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「拿上這個，請代我向狩獵之主致歉。我並沒有冒犯的意思。」他從腰帶上扯下一個破舊的小錢包，將它恭敬地放在你手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你就是伽拉溫觸摸過的人！請原諒我——我並不知道。你當然可以隨意穿過這片濃霧，受祝福的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你可以過去，但不要逗留。倘若再有見面之時，便無需任何話語了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

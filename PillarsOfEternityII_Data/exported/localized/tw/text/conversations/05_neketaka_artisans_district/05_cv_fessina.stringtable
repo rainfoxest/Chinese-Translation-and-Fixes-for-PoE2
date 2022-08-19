@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_fessina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>209</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「那個孬種！」這位年輕的法師手撐在了櫃檯檯面，就好像她要翻過來，或者將它撕成兩半似的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「歡迎回來。黑暗櫥櫃有什麼能為你效勞的嗎？」費西娜露出疲憊的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「讓我看看你這裡都有什麼東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你還需要什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我需要進入亞柯彌莊園。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「進入莊園？哈。那屋子鎖得比亞柯彌緊握的拳頭還要緊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「說說你自己吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「還有其他方法可以進入莊園嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我要怎樣才能說服你讓我進去嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「媽的，你這計劃編的也太爛了，趕緊跟我說說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我也是沒辦法了啊！鐵踵會殺了我的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我沒看到什麼手套。沒消息嗎？」費西娜滿懷期望地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「伯坦諾欠哈莫多·鐵踵的錢，我替他擺平了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我只想取回一樣東西-一塊石碑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「你有鑰匙？那就更有趣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「你應該把鑰匙交給我。那樣的話我就不必鬧掰了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「雖然我不知道伯坦諾在哪裡兜售他的貨，不過他提過在黃銅堡碼頭有個約會。」
+
+費西娜咬著指甲盯著大門，似乎期望著事情會有所轉機。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「伯坦諾，別把我捲進你的爛攤子你。不要了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「那麼我別無選擇了……抱歉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「伯坦諾還不清債。亡焰皇家商行受他當契約傭工了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我帶伯坦諾脫離了麻煩。他打算跟著皇族海盜一起藏起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「努瓦泰的手可長著呢。」她托著下巴，盯著遠方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「如果你能讓我進入亞柯彌莊園，我可以幫你把手套拿回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「幫我把手套找回來，我就把前門的鑰匙給你。我們就當沒做過這筆交易。成交嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「伯坦諾死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我就該自己親自去拿的，現在看看都發生了什麼……」她轉過臉，咬著自己的拳頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「給。燒了亞柯彌莊園都與我無關。」
+
+她將鑰匙遞到你手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「在找特別的東西嗎？」費西娜斜靠著，揚著眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我是七彩之主的學徒……亞柯彌就喜歡那個調調。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「開個價吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「不賣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我不想再談論這件事了。如果你沒東西要買的話，那我們就此別過吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「伊夫倫試過溜進去。現在他被困在盒子裡，為了銅子在算命呢。」
+
+她指了指小店最北角落裡的那台算命機器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「你在說道亞柯彌的時候，用了很多敬語。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「對。這是他在漫長的職業道路中贏得的頭銜，他就讓我這樣叫他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我也可以用自我的學徒生涯開始後，我編造出來的頭銜稱呼他。」她笑了笑，左看看右看看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>她揮手示意你隨便說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「回到亞柯彌莊園的問題上來吧……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>她歎了口氣，用雙手按了按太陽穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「上鎖的門一般都有鑰匙。這條免費。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「什麼，只要打開門，然後假裝沒看見？或者交出我的鑰匙？」
+
+她略微抬了下眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「妖精！去掛衣服。」
+
+她舉起一根手指示意別說話，她的目光隨著落荒而逃的店舖妖精而看向別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「那你至少告訴我點有用的訊息吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「守衛莊園的妖精？白癡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「亞柯彌會變身幻術，所以他的小鬼通過他的著裝才能認出他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「我不知道你是腦子長霉呢，還是沒長腦子。」她慢慢地搖搖頭，在考慮這個問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「成交。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「讓我考慮考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「在你考慮期間，我也會考慮下所有的顧慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[撒謊]「哦，那當然了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「又是你？」費西娜瞪著你，咬著嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「你覺得我有心情幫你忙嗎，伯坦諾都……」費西娜的聲音變得沙啞了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「給我出去。我需要的是幫助，要什麼生意啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「我想談談店舖妖精的事情，就是你的那個小同事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「不過這不影響你購買哦。」她對著拳頭咳了咳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「我想他是因為傷心吧，因為你大部分時間都不在店裡。很奇怪，我覺得他是喜歡你待在旁邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[撒謊]「他說你是個又懶又沒用，讓人感到抱歉的法師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「沒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「他從頭到腳沒一點不讓我討厭的。我不止一次抓到他在往我們的斗篷新款上塗抹糞便。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>她打量著你，帶著可疑的表情-也可以說是有興趣-斟酌著用詞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「不對。我們說的是相同的會飛的噁心鬼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「聽起來牛皮吹得還挺大啊。我會對他再好好管教管教。」她鬆開拳頭，點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「隨便你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「或許我應該對那小東西……友善點。我們倆都討厭亞柯彌，所以我們還是有不少共同點的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「但願他學聰明了，低調一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「什……什麼？」費西娜的臉上一會兒痛苦，一會兒迷茫，一會兒又充滿憤怒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「我讓你去取回手套。伯坦諾不肯，死在了自己的劍下，是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「對不起。我已經盡力阻止這一切的發生了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「至少，他下輩子會吸取這個教訓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「他讓我召喚了一隻家用型的妖精。那種可怕而又聒噪的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「別介意。就當我什麼都沒說過吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「沒錯。」她叉起雙臂，揚起眉毛看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「你已經承諾了幫助伯坦諾。還是那只是騙人的？」費西娜饒有興趣地揚起眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「我手上有關於伯坦諾和那副手套的消息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「都告訴我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「你回來了。有消息嗎？」費西娜靠近了一些。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「啊，你剛提到了你之前的那個計劃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「我想我應該幫助伯坦諾，那……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「你覺得呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>「該死的。亞柯彌知道我把鑰匙給你了。不知道為什麼會&lt;i&gt;那樣&lt;/i&gt;。」費西娜臉上抽搐了下，揉著自己的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「事實上，我再問問你別的事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「你會讓我等太久嗎？」費西娜趴在櫃檯上面，緊盯著你的臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「什麼？！真是個噩夢！」費西娜雙手捂面，呻吟著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「沃艾珥的屁股啊！下輩子對我來說又算什麼，連我早上踩死的蝸牛都不及！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>「不管怎樣，伯坦諾可以重新開始了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>「不客氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>「好吧……有皇族海盜在的話，他總算是有了機會。」費西娜一臉怨氣，聲音漸漸低了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>「你願意墊那些錢？」她一隻眼睛瞇著盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>「喂，你給我拿回來啊！混蛋！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>「怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>「雖然現在或許時候不對……不過我可以看看你的貨嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>「我那個白癡……偷了羅科娃的手套。要是拿不回來的話，主人會殺了我的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>「他肯定是想賺點快錢。亞柯彌會因為這雙該死的手套活剝了我……」費西娜托著眉頭，呻吟著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>「他說他欠一個名叫哈莫多·鐵踵的努瓦泰船長錢。聽大家說，他不是個善茬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>「他為什麼急需錢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>「關於你的窘境，我有幾個問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>「伯坦諾為了還債，偷了羅科娃的手套。如果被亞柯彌發現，他會把我煮成肉湯給他的妖精喝的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>「早些時候在這裡的那個人-他打劫了你嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>她像是希望落空般的朝身後的貨架揮了揮手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>「看樣子你的顧客忘記付錢了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>妖精捏著模糊的喉音自言自語著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>「妖精！你聽不到嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>「我想也是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>「要是有折扣的話那就好說了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>「你看起來挺厲害的。我現在要守著這櫃檯脫不開身，我想我沒理由拒絕你的幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>她有點不相信地眨了兩下眼，然後帶著熱情的笑容看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>「折扣當然有。你真是幫了我天大的忙……謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>「突然間，我的整個世界就圍繞著那雙手套轉了……真是不敢相信。繼續吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>「手套呢？沒拿回來嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>[給予手套。]「我就是給你送手套來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>[撒謊]「伯坦諾拿著手套跑了。抱歉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>[撒謊]「手套？什麼手套？我沒手套啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>她感激地歎了口氣，收下手套。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>「那……那個白癡！你為什麼沒有……」費西娜抓著腦袋，呻吟著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>「天啊。我完蛋了。走好不送，蠢貨。」她一臉痛苦地門口擺擺手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>「什麼，你是不是海水喝多了？」她露出難以置信的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>[撒謊]「伯坦諾……沒什麼事。我帶他脫離了哈莫多的掌控。他現在跟皇族海盜在一塊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>「謝謝你。雖然伯坦諾是個白癡，但他不該落得個不好的下場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>[撒謊]「恐怕伯坦諾已經死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>「哈莫多·鐵踵的危險肯定所傳非虛的，要不然伯坦諾也不會怕成這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>「他說他欠一名叫哈莫多·鐵踵的努瓦泰船長錢。聽說不是個善茬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>「那就別讓我乾等著了-有話趕緊說！」她靠近了一點，緊張地盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>「這舊東西啊？你會給我什麼好處呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>費西娜捏著鼻樑，深深歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>「我們有談過的嗎？我真的要把我自己的錢給你嗎？好吧。五百銅幣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>[收下500銅幣。]「成交。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>「開玩笑的。拿著吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>「我想亞柯彌肯定會出更好的價錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>她一把搶過手套，低聲地呢喃著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>「昂德拉的奶頭啊……那麼六百吧。這已經是我的底線了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>「奇怪，他偷東西的時候那些構裝體居然沒攻擊他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>「那就不關你的事了，不過伯坦諾常常在……這待到後半夜。」費西娜對著拳頭咳了咳，避開你的視線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>「我進到了構裝體的內部，將伯坦諾標記為了『安全』訪客，這樣它們就不會攻擊他了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>「蠢貨，我們不是達成交易了嗎，給你亞柯彌莊園的鑰匙！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>[給予手套。]「好吧。給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>「不夠啊。而且這是我們之間的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>「謝謝……我真不知道自己為什麼會跟這種人有交集。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>「我會替你把手套拿回來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>「真的嗎？不知道你是否要錢還是獎勵，只要你替我保守這個秘密。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>「啊……我不該這麼快就質疑你的善舉的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>「他這種愚蠢的行為簡直不可原諒。他需要得到教訓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>「我這是日行一善。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>「如果你良心上有什麼過不去的話，那麼我也不反對你替我分擔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>「他逃走的時候落下了這金陽幣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>「啊。那是他的皇族海盜證明。他每天都帶著它，搞得自己就像亡焰列島的海軍司令一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>「奇怪嗎？我也不知道。如果你好奇的話，去問下亞柯彌的魔法書。」慌亂之下，她隨便找了個藉口看向別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>[收下600銅幣。]「成交。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>「嗯，有什麼需要嗎？」費西娜用指甲扣著櫃檯分散注意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>「嗯，需要什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>「嗯，很搞笑。伯坦諾剛偷走了羅科娃的手套，這對我來說可不是玩笑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>「如果我碰巧找到的話，會告訴你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>「你真是好心，這本就不是你的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>「伯坦諾都快讓我破產了。至少現在結束了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>「我沒有拿回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>[撒謊]「你的手套在我這裡。我將其收好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>「這一切發生之後，難道你是忘了還是壓根不關心？」她捏了捏鼻樑，長歎一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>「你……你殺了他！」費西娜慌亂地往後退了一步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>「伯坦諾……不，你根本不知道自己做了什麼。」她跪下身去，慢慢從盜賊的遺體上撿起被偷的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>「你說的不是這副手套吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>她向你拋來一副懷疑的眼神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>[給出手套。]「另外，你的手套在這。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>「你……真不敢相信。」費西娜揉揉眉毛，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>「動作真快！」她一臉敬畏地抬起一隻手摀住嘴巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>[給出手套。]「我想只是幸運吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>「那麼你想要多少錢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>「這對我來說可不只是幸運。」太棒了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>「幸好你不知道這會引來多少麻煩。」她緊緊握住手套，深鞠一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>「妖精，請將這裡打掃一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>「呸！滿地臭氣熏天的內臟。」妖精自顧自地嘟囔著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>「請……按我說的做。」她望向你的臉色滿是蒼白。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>「這副手套為何如此重要？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>「你不知道亞柯彌吧？他就和娥狄卡教士一樣小氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>「他在這副手套上失去的，定會在我身上找回來。以他的方式。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>「你還有什麼沒和我講的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>「你不用問了，不會的。我絕不會再做這種事。」她堅決地交叉著雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>「我開玩笑的。伯坦諾沒事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>「我開玩笑的。伯坦諾有奴役契約在身。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>「我曾以為伯坦諾是我見過最有手段的人，不過你擊敗了他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>「我開玩笑的。伯坦諾有奴役契約在身。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>「我開玩笑的。伯坦諾死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>「你騙我？他……」費西娜吃驚地摀住了嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>「我該怎麼辦呢？想想啊，費西娜。」她緊緊地拽著頭髮，歎息著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>「收好你的折扣吧。如果黑暗櫥櫃沒能達成目標，那也就這樣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>「你在這似乎不太高興啊。不如換種生活，和我一同去冒險？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>「嘿，妖精！我不幹了。說老實話，我完全不享受這樣相處的時光。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>「呃？！讓主人生氣……亞柯彌會讓骯髒的費西娜嘴裡長出大蘿蔔。」妖精似乎還想說些什麼，但欲言又止。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>「一路保重。外面並不太平。」
+
+他的語氣變得柔軟，目光低垂著——妖精不再多言，向門的方向輕蔑地一指。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>「謝謝你……我想。平安（Cores）。」費西娜向妖精投去嘲弄的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>「不管你要去哪，都不可能會比這更糟了。」
+
+她微微一笑，向你致意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>「我想可能是他知道我很討厭他們。」費西娜歎了口氣，等著你接話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>「我所做的一切只為報答你對伯坦諾的幫助。」她重重歎了口氣，從口袋裡掏出一把鑰匙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>「給。燒了亞柯彌莊園都與我無關。」
+
+她將鑰匙遞到你手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>「再見，朋友。」</DefaultText>
+      <FemaleText>「再見，朋友。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>「做你該做之事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>「我知道的那點法術都有名字比如亞柯彌滴水災術或者亞柯彌惡念遮羞術。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>「對我而言他是腐化之風的使者、待哺妖精的乳首，也是骯髒拖鞋的先驅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>「你還是忘掉前往亞柯彌之處的鑰匙吧。我們並無交集。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>「至少我知道亞柯彌不會送我去餵妖精。」她小心地疊好手套收在一旁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>費西娜歎了口氣，趴在櫃檯上打量著周圍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>「哦，天啊。我費了好大力氣才來到這裡，但我絕不會對這有一絲留戀。」
+
+儘管她並未高聲言語，卻用力捶著檯面發出巨響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>費西娜抬起額頭，在你嘗試和她說話時，交叉起雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>[交出羅科娃的手套。]「這是我從伯坦諾那兒弄來的。是你的吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

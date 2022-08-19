@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_si_iceberg_02_descent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這裡的冰上有一層厚厚的凸起物。有人用繩索把它固定住，繩索從下面那陡峭面垂下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>一根繩索懸掛在冰牆的上邊緣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[放下繩索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>一個小的圓柱形物體從杖強上突出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[擺動到更靠近物體的位置。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你把腳放在地上，然後用力使勁地推著冰塊，使它向物體的方向擺動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[試圖觸及握柄。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你再一次用你的腳踹冰面，這一次你集中力量踢向鎬。你伸手抓住它，但它紋絲不動，從而讓你懸在深淵之上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你鬆開了繩子，只抓住了鎬柄。
+
+有一道像是火繩槍射擊而成的裂縫，使鎬從杖牆上掉了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[下降到下方的壁架上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[順繩索攀爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你緊緊地抓住繩子，小心翼翼地登上冰的陡峭面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>一個小的圓柱形物體從杖強上突出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[爬到崖頂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你小心翼翼地沿著繩索往前爬，雙腳偶爾會滑過冰凍的牆壁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你到達了上升的頂端，把自己拉到壁架的邊緣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你小心翼翼地從冰面上下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[[放開握柄。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[放開繩索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[放開鎬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[試著用火魔法釋放鎬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>握柄慢慢下垂，然後從牆上掉到下面的地板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你把繩索繞在你的手臂上並用力拉緊握柄。隨著一個破裂的回聲，鎬從冰中掙脫出來，連帶將碎片帶入陰影深處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>離地面只有尺把距離，鎬真真地撞擊到地面，但你停止下降時，扭傷了手臂。
+
+眨眼間，你就把自己放下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你狠狠地撞到了底。隨著一聲令人作嘔的爆裂聲，你的腿從你下面伸出，隨著頭爆炸般疼痛，一切便都暗了下來。
+
+當你甦醒過來時發現自己正坐在冰面上，你的頭很暈著。你的腿很疼，還有溫暖的、粘粘的血液從你的頭部側面流下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[測試繩索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>看起來很安全。繩子本身很結實，並且抓鉤周圍結了冰，把它凍住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 1]用力推著石頭，讓它在冰冷的深淵上蕩來蕩去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>這個東西看起來像是一個冰鎬，它的頭部上面的抓鉤一樣被凍住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>伴隨著一聲呼應的咕噥聲，[Specified 1]抓住它，再次朝著鎬擺動。這個東西沒有從杖牆上掉下來，從而讓你的同伴緊緊抓住繩索和握柄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「放開它！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「放開，回來。我們試試別的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「放開繩索——你的體重會把它弄斷的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你鬆開握柄，向後靠杖牆擺動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[試試別的東西。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>不管你怎麼拉，你都不能動搖這個凍結實的鎬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1]鬆開握柄，向後靠杖牆擺動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1]猛地撞在鎬上，伴隨著一聲破裂的回聲，掙脫出來了，然後像一個鐘擺一樣在冰面上蕩來蕩去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 1]艱難地與凍結實的鎬對抗，但卻無法令它動彈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[試著用獻祭者來炸動鎬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>別皺著眉頭，[Specified 1]抓住鎬柄，讓繩子掉下去。
+
+有一道像火繩槍射擊一樣的裂縫，使鎬從杖牆上掉了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>這個法術命中了鎬柄和它周圍的冰，發出一縷嘶嘶的蒸汽翻騰之聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>冰破裂時，發出爆炸聲和嘶嘶聲，從冰壁上噴射出蒸汽和水。伴隨砰的一聲，這把鎬掉到了下面的地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>當炸彈爆炸時，你的手還在炸彈上，爆炸把你吞沒在火焰中，讓你和冰鎬一起朝下面的地面墜落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>炸彈爆炸了，[Specified 2]陷入火海。你眼睜睜地看著你的同胞尖叫著倒在下面的冰面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>你撲向地板，手臂緊緊地抓著杖牆，雙腳沿著杖牆滑動。你把鎬一遍又一遍地插進冰裡，試圖將其固定住。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>當[Specified 1]撲向地面，一直沿著杖牆往下爬，你的心跳了起來……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>在距離地面僅幾英尺的地方，便將鎬砸向牆壁，阻止墜落。
+
+你自己走下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 1]撞到地上一聲沒吭，腿在撞擊下彎曲，頭部狠狠地撞到冰壁上，留下一個鮮紅的污跡。
+
+你走過去看看你的同伴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>他受傷了，但還活著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>她受傷了，但還活著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>你小心翼翼地在握柄和冰塊之間楔入一個祭禮炸彈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Specified 2]小心翼翼地在握柄和冰塊之間楔入一個祭禮炸彈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[在以前的地方找物體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>你找不到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>你小心翼翼地在握柄和冰塊之間楔入一個祭禮炸彈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Specified 2]小心翼翼地在握柄和冰塊之間楔入一個祭禮炸彈。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

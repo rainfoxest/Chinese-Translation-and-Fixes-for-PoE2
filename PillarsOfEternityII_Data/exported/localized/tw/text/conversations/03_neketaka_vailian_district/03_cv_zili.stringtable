@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_zili</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這個年輕人似乎在作曲，或是在用琉特琴練習一曲小調。他停下漫不經心的彈奏，友好地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我有一些問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[撒謊]「只是在聽你演奏。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「沒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「伊扎莉·巴達托讓我暗中打探你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我可能沒資格評判，但是……呃，我覺得你沒有完全理解『暗中』的意思。」他朝你露出坦誠的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[離開]「暫時沒事了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「噢，當然。怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「噢。抱歉讓你失望了。這支曲子正同我鬧彆扭呢。」他朝你露出了侷促不安的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「好吧……」他看上去充滿困惑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我在想辦法阻止你們的家族互相殘殺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「直話直說更有成效。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「她似乎認為你對某些惡毒的陰謀有所知曉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你的家族和巴達托家不合，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[撒謊]「我聽說應聘某些職位的話就要找你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「這些慷慨的水手給了我不少小費！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「如果你想欣賞風景，我建議你去橋的另一端。當風從海上吹來時，味道自然更好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「昂德拉的私處啊，我——我能為你效勞嗎？」他難以置信地看著你的頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「啊……請別告訴馬蒂諾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「你是巴達托家族的表親還是誰？我不知道為什麼伊扎莉覺得我能幫上忙，不過……」他緊張地走了出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「什麼？那也不意味著……」基利臉色發白。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你——和伊扎莉站在一方——打算怎麼使用這些情報呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「她想讓我找出瓦雷拉家族在策劃些什麼。僅此而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我們少繞彎子了。告訴我瓦雷拉家族在策劃什麼，我就饒你一命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[抓住他的手腕。]「你猜手指折斷以後你的音樂技巧會不會提升？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我在努力阻止你們之間的世仇逐步惡化。我覺得你和我的目的是一致的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我不打算參與這場鬥爭的任何一方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「別管我，行嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「不要傷害佩莎，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「啊，是佩莎，不是嗎？她又在招人了？」基利皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「你告訴她，不管她在幹什麼，我都不會參加！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「看來你在鎮上呆了有一陣子了。」基利歎息一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「只要你還參與家族事務，你將不得不做出選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「當然，我只是……」基利抓了抓臉頰，盯著自己的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我撞見表親佩莎誇誇其談說貝爾達讓她參與了一個什麼工作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「你要知道，我們並不是盜賊和殺手。無論伊扎莉是怎麼告訴你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「你們當然不是——反正不涉及你們的家族成員，自然也不會違背你們的行事原則。你只是在為自己開脫而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「如我剛才所說，佩莎在峽谷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「佩莎有不少時間都呆在峽谷的酒館裡。也許她能告訴你更多事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「別！先別動手！」基利害怕地說，被你抓住的手腕扭曲著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「是她付錢僱用我的，所以我會一五一十全告訴她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我會考慮的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「不過在你離開之前……你不能把這些事告訴伊扎莉。我讓佩莎和其他人別惹麻煩。即使胡亞納守衛沒能抓住我們，伊扎莉也會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我知道你想插手此事，你一定有你的理由。只求你……不要傷害她。」基利猶豫不決地皺起眉頭，返身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「我無法保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>基利兩眼圓睜，後退一步。但他的聲音中仍帶有頑強的反抗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「一旦找到她，我就告訴她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「所以說……我該找的人不是你？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「你從沒想過要復仇？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「通常人們都不會坐視血債不得血償。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「明智之舉。如果你對此漠不關心，最好不要摻和進去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「阿泰羅仍掌管著家族。也許你能讓他和伊扎莉談談？雖然我說話不算數就是了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>基利張嘴想說話，但只是形成了一個無聲的空洞，他的表情灰暗無光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你要是想惡作劇，找佩莎去。她在峽谷的酒館裡有一個房間。別來打擾我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「別！不管佩莎在策劃什麼，都與我們的行事方式相違背。」基利的臉因憤怒而漲紅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「沒有，至少不是以馬蒂諾那種方式。我叔叔付出了很大努力去證明我們並不是盜賊和殺手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「恐怕佩莎會讓他的努力白費。她在考慮某些超出她掌控的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我本打算坐視不管的，然而在此事上似乎無論我作何打算都無關緊要。」他的神情低沉下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「或許吧，我也不知道。我只是不適合鉤心鬥角。」他調整了一下放在髖部的琉特琴的平衡，歎息一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「無論佩莎在策劃什麼，只會讓情況惡化。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「佩莎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我撞見表親佩莎誇誇其談說貝爾達讓她參與了一個什麼工作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「為何不直接通報守衛呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「抱歉，我猜你聽夠我抱怨了，對吧？我該繼續練習琉特琴了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「因為牽涉到佩莎的家族。我在乎他們，儘管我覺得最好的可能是她誤入歧途，最差的可能是她根本沒有頭腦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「所有家族都不可避免會遭到報應。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「事到如今我也該接受現實了，但我總是想找到辦法讓我們與巴達托家和平共處。」他歎息一聲，心不在焉地撥動著琉特琴的琴弦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>基利朝你眨眨眼，張嘴想說話，但又在猶豫。他在半空中舉起一隻手指。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「我看到過不少家庭糾紛以悲劇收場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「唔，如果這是你的經驗之談，我尊重你的意見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「她是又打算幹什麼來著？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「聽著……你看上去人不錯，但我只想安靜地聯繫琉特琴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「巴達托家的人遲早會明白是怎麼回事，我在設法阻止到時候必然要降臨到你家族身上的報復行為。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「就算我們重創巴達托家，也總有人能湊齊錢僱傭刺客。而且他們……不會輕易收手。」
+
+基利長歎一聲，撓撓自己的眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「看來你知道為了家族你該做什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「沒錯！我們該做的就是……就是不要插手巴達托家的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「我在設法把一些奴瓦泰水手從酒館弄出來。聽說他們喜愛音樂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「聽起來像是馬蒂諾的風格。我做得到嗎？」
+
+羞澀的笑容從吉利臉上一閃而過，他朝外看著瓦雷拉莊園的方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我能幫你……轉移這些水手的注意力？儘管讓他們到我這裡來吧。
+
+「這樣一來——就不必有流血衝突了。」
+
+他滿懷希望地露出微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「我可不會用這種方式來暗中打探某人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「我猜是要搶劫巴達托莊園。我來這裡就是為了遠離那一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「雖然我不贊成我家族的行事方式，但我也不會蓄意破壞他們的行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「和我們正打算做的完全相反，不是嗎？」基利長歎一聲，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「瓦雷拉家的事有好轉了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「馬蒂諾一直都是個……不好相處的表親。現在他簡直令人難以忍受。」基利敲了一下琉特琴，發出空洞的聲響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「即使沒有這些麻煩，馬蒂諾也夠頭疼了。」基利輕撫琉特琴弦，露齒而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「僅此一次，我為身為瓦雷拉家人而自豪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「馬蒂諾說我們贏了。我感覺不像個勝者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「可憐的阿泰羅叔叔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「但我們的艦隊很強嗎？我是聽別人說的。」基利聳聳肩，撥出一個和弦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「人人都知道他屠殺了巴達托家，在這一帶影響壞極了。」他彈出一個重音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「現在伊扎莉的生意夥伴提高了市場份額，我們並不比以前好上多少。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「唉，我的天哪！情況如何了……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「啊，先生，如果我打擾了你的寧靜，我表示抱歉。靈感仍對我避之不及。」</DefaultText>
+      <FemaleText>「啊，夫人，如果我打擾了你的寧靜，我表示抱歉。靈感仍對我避之不及。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「這次我就破例吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「要我說，只要是音樂能解決的問題，就別動用暴力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「要打發時間的話，這種方式也算是不壞。」他讚許地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「多撥弄琴弦，少揮舞刀劍。可惜你這樣的人太少了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>麥婭長歎一聲，掐了掐她的鼻樑，搖搖腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「不知道歡躍惡徒上緊張兮兮的小伙子和姑娘們會怎麼說。」
+
+塞拉芬雙手抱臂，面露不悅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「佩莎有不少時間都呆在峽谷的酒館裡。也許她能告訴你更多事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

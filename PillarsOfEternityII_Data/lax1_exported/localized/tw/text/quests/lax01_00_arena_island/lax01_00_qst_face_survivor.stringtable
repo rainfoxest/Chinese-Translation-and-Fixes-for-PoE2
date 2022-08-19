@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_face_survivor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>求生之面</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>探索&lt;b&gt;特柏瓦普，&lt;/b&gt;尋找一個求生者&lt;b&gt;神器&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>返回&lt;b&gt;回憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>忍受&lt;b&gt;求生者之台&lt;/b&gt;系列競技場活動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>打敗&lt;b&gt;巨熊團&lt;/b&gt;，成為求生之面欽定者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>如果想獲得求生之面的垂青，我就得滿足神秘塑像的要求，並贏得&lt;b&gt;競技場中的求生者挑戰&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>被稱作特柏瓦普的卡茲瓦里島多山地區據說是異常兇猛的&lt;b&gt;野豬&lt;/b&gt;的家園。如果我帶著能證明自己跋山涉水，深入荒野的證據回到競技場，應該會獲得求生之面的垂青。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>走過特柏瓦普的荒涼（和好勝豬）之地後，我找到一條能顯示我煩惱的小項鏈。
+
+我應該將它獻給&lt;b&gt;回憶水池&lt;/b&gt;，看看競技場能從裡面抽出什麼挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>競技場獎勵給我了更多丟命和致殘的機會。
+
+我現在可以參加&lt;b&gt;生存者之台&lt;/b&gt; ，進行一系列強調耐力和恢復力的戰鬥了。
+
+如果贏了，我將繼續獲得求生之面的垂青。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我在競技場的英雄事跡，引起了求生之面的關注，為我贏得了很棒的地位。
+
+再有一戰，就能獲得和&lt;b&gt;巨熊團&lt;/b&gt;相同的尊重了。如果能在競技場打敗他們，我將成為求生之面的欽定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我遇到另一群參加求生之面試煉——巨熊團的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我已經擊敗了巨熊團，成為了求生之面的欽定者。我應該回到&lt;b&gt;回憶大廳&lt;/b&gt;決定接下來的試煉。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

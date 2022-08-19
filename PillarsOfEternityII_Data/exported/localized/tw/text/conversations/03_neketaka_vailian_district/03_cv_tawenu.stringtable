@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_tawenu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>127</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「朋友，你這麼不合作的話，我們只能叫守衛了。請你自行離開吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「如果盧卡不聽勸，杜阿佩部落就會失去自己的土地！為了他們，我必須——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「不用再說了。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「發生了什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「至少到目前為止還沒有。怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我的同胞來自杜阿佩部落。我和商行簽了合同。」
+
+泰溫沮喪地皺著眉，朝總部的方形看了一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「看來商行不喜歡有人對他們不公平的交易提出質疑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我有件事必需求你幫忙。」他因為害羞，不敢和你進行眼神接觸，而是一直低著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「如果你們被趕走了，我打賭對方的理由很充分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我並沒有惹怒他們。他們的做法是不正當的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「跟我說說合同的具體情況吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我父親是蘭迦，他收商行的錢。作為交換，商行得到了開採魂珀的許可。」
+
+他語氣變得更加自信，彷彿這幾句話他已經自己練習過好幾遍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「他當時不理解瓦利亞人的那套規則。他死後，外來者將把我們的島佔為己有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「父親病了。而那個叫盧卡的職員堅持要按照協議辦事，彷彿協議已經壓印在他皮膚上一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你父親協商能力太差。不關我事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「並非如此。父親沒有忘記胡亞納人不合作時外來者的做法。」
+
+看著商行總部的泰溫臉上憂慮的表情變得凝重。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「兄弟，願你的漁船滿載而歸。」</DefaultText>
+      <FemaleText>「姐妹，願你的漁船滿載而歸。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你這個提議很大膽啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「那你打算怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我向盧卡申訴過，但這件事就此石沉大海。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我會去見見這個叫盧卡的人。或許我們能探討出更能讓人接受的條款。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「祝你好運。這件事跟我沒關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我聽到了戰鬥的聲音。你沒有和職員打起來吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你是在問我有沒有殺他吧？沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「商行向我們尋仇對我的人民沒有幫助！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「他們會像殺鰻魚一樣宰殺杜阿佩部落！我動作得越快越好！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「你令杜阿佩部落走向滅亡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我現在都進不了商行的辦公室，因此幫不了我的族人。」
+
+泰溫反覆擺弄著他衣服上裝飾用的垂花。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我會調查一下，但無法保證能把事情搞定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我的話語就像互碰的海浪一樣，碰過就沒了。而你有威信，說話有份量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「商行和我們有過節。真不幸啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「太好了，謝謝你！我白天都會呆在這裡，直到正義得到伸張。」
+
+他擔憂的表情被燦爛的笑容取代。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「哎，我運氣早就用完了。」
+
+他似乎準備繼續說，但克制住了自己。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「商行或許會把你視為間諜。注意不要操之過急。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「是的。瓦利亞職員知道我來自杜阿佩部落時，變得十分焦慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「朋友，我幫不上你的忙。不好意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「有什麼能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「轉念一想，我還是過一會兒再來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「朋友，我就在這裡等。就算職員對我惡言相向，我也絕不動搖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「我站在盧卡一邊。杜阿佩部落應該準備離開他們的島。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「盧卡或許永遠也想不明白到底怎麼回事，但你的村子自由了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「天哪，我……都不敢相信！終於苦盡甘來了。」
+
+泰溫帶著燦爛的笑容，歡欣鼓舞地拍著你的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我說服了盧卡。你族人的土地安全了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我的村子並不大，但我有備而來。我準備了一些貿易用的寶石，給，這是你應得的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「謝謝。無論你提供何種形式的報酬，我都願意接受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「你自己留著吧。能教訓瓦利亞商行，我已經心滿意足了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「當地的貝殼。多麼……古雅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「你是杜阿佩部落的朋友。我們不會忘記你的恩情。」泰溫面帶微笑，彷彿突然長高了一樣輕鬆地轉著肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「你不是胡亞納人的朋友！」
+
+他搖著頭，小心地後退一步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我……不明白。你為了幫助商行而犧牲了我的同胞？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「你並不是『我的同胞』。我們只是長得像而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「文化上的相互支援又不能給我買新靴子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「趕緊走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「這座城市裡人心險惡啊！我得趕緊離開，不能繼續受它的腐化了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我跟他們有業務上的來往，你是想問這個吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「啊，你肯定能幫我！你說的話他們會聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「告訴你的蘭迦，就說外來者不會再來騷擾他的村子了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「一股怪味跟隨著你。你身體無恙吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「氣味什麼的隨它去吧。瓦利亞商行不會再來騷擾你的村子了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「他們為何把你趕出辦公室？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「我把新合同給盧卡看，對吧？上面的條款更公平，更能讓人接受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我能否看看那份……『新』合同？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「盧卡把它放在一個箱子裡了。真見鬼，一張羊皮紙搞出這麼多麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我想要……怎麼說來著，『重新談判』？但職員們把我趕了出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「是的，這種待遇並不十分不尋常。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「盧卡說我是罪犯，並叫來了守衛。」泰溫耷拉下雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>他努力與你對視，表情變得懊悔與絕望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「就這點東西而已？你在涅克塔卡城吃東西要付錢吧。把你身上所有錢都給我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「抱歉，錢……不多。給。」他用顫抖的手交給你少得可憐的幾枚錢幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>你擺派頭的語氣令泰溫臉上閃過一絲懷疑，但除此之外他充滿自豪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「你是個真正的朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「城市播下希望的種子，長出的卻是哀傷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「話說，你和瓦利亞商行打交道嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「『新』合同是什麼意思？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「回到我之前的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「和外來者談判我一直談得不順。」泰溫皺起眉，撓了撓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「峽谷裡有個人提出願意幫我。他隨身攜帶著紙、墨水和蠟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「他用瓦利亞人的方式幫我寫了一份新合同，並蓋上了正確的印章。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「盧卡不喜歡我這麼做。他搶走了我的合同，把我趕到了街上。」
+
+泰溫指了指他站的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[說實話]「我十分肯定，那人給你的是偽造的合同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[撒謊]「盧卡這麼做實在太不像話了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「我……不懂這個詞是什麼意思。哪兒錯了我願意改，但盧卡不給我機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「你真這麼覺得？我侮辱了他，結果把自己肚子搞得很疼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「你回來啦！怎麼樣，朋友？」泰溫摸著自己額頭向你打招呼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「不用謝，兄弟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「聖母恩加蒂就喜歡先給我們希望再讓希望破滅。」他痛苦地瞥了一眼泰克胡，擦了擦雙眼，然後離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「你為何不早告訴我你給盧卡看的是假合同？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「假的？怎麼會這樣？」他憂慮地抿緊雙唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我和盧卡談過了。他這人真不好打交道，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「對。他堅持履行自己的職責，不向任何人低頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「盧卡有沒有什麼我們可以利用的把柄呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「他呼出的氣帶著酒味。這是外來者的弱點。」泰溫鄙夷地皺起了鼻子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「對他的族人來說，固執肯定是一種令人欽佩的品質。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「他們的辦公室總有關門的時候吧……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「怎麼，你行動和大貓一樣悄無聲息嗎？」泰溫向你傾身，小聲說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「盧卡將合同保管在一個單獨的房間裡。專門放羊皮紙的辦公室。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「盧卡喜歡喝酒……也許喜歡得過頭了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「有個守衛私下裡確實提到盧卡經常光顧酒館。」泰溫朝東邊的酒館瞥了一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「嗯，說不定幾杯酒下肚，盧卡就願意合作了？」泰溫輕碰嘴唇，似乎明白了什麼，但無法確定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「瓦利亞人不管什麼東西都會鎖起來。連文件也不例外。」泰溫抬頭瞥了一眼總部，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「我仍在想辦法替杜阿佩部落奪回土地權。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「太好了，謝謝你。」泰溫的笑容猶疑了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「不用給錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「我自己就是個法律書記員。如果要我當你的代表，我是要收定金的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「好，朋友，我們有緣見面是眾神的旨意。錢沒問題，有勞你了。「
+
+他抓了兩把銀幣，放到你手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>這名年輕的胡亞納人不安地皺著眉。看到你走近，他微微一笑以示歡迎，但笑容很快就消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「願亞彌拉的風鼓起你的風帆。」他用兩個手指觸碰自己額頭，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「朋友……你會跟瓦利亞商行談談嗎？」這個年輕的胡亞納人皺著眉，嚥了下口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「我們當時還沒有完全理解條款就簽了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「亞彌拉之女，你瞭解這種事情嗎？」她瞥向帕蕾吉娜，驚歎地眨著眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「我&lt;i&gt;不&lt;/i&gt;是亞彌拉之女。對，我瞭解。我不看合同不可能知道詳情，但聽上去像很尋常的商行條款。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「朋友，合同上的術語太專業了嗎？下次還是請個辯護律師吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>泰溫張開嘴準備反駁，但他聽到麥婭的話只是一臉迷惑，然後轉身看向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「這種做法冷酷無情。他們還管我們叫野蠻人呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「恩加蒂選民的話體現出了他聖母的智慧。」他碰了碰自己額頭，點頭致意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「哇噢。兒子和老子一樣單純啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「不管結果如何，我都不會忘記你的好意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「除了眾神和鄰里，還有誰會幫助杜阿佩部落？」泰克胡歎著氣，向後撫平了他的頭髮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「盧卡還是講道理的。杜阿佩部落的島依然歸部落所有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「說明他是個好職員。要是他不為商行的利益著想，他對商行就沒什麼利用價值。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「那我必須當一個為杜阿佩部落的利益著想的好兒子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「瓦利亞人使征服你族人這件事看起來很簡單。」麥婭彈了彈舌頭，自顧自笑道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「他們的話語就和刀子一樣。你的也是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「我會告訴我的族人說恩加蒂的選民給胡亞納人帶來了希望。」他懷著對泰克胡特別的敬意碰了碰自己額頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「真的用不著把我也搭進去！」泰克胡看向別處，咬著臉頰內側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

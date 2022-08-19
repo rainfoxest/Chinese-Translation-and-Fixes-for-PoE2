@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_icebergdungeon_imp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這隻小妖精坐在冰凍的地面上，白霜粘在它的肉上，翅膀成保護態地搭在肩上。它的嘴張得大大的，眼睛周圍的皺紋表明眼睛緊緊地閉上了。
+
+它手裡拿著一個小物體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[檢查物體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>這個妖精的手指關節纏繞著開始看起來像是一團固體冰的東西，儘管在它的表面下有一個很明顯的能量脈衝，使它周圍的寒冷空氣進一步冷卻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>這個妖精的手指關節對它手裡抓住的那顆冰凍的圓球幾乎不起作用。它裡面有一個很明顯的能量脈衝，使周圍的寒冷空氣進一步冷卻。這很可能就是睿姆岡尋找的神器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[從它的手中撬出遺物。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[用石頭遺物把冰凍的遺物換掉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>當你從球體中拔出生物那細長的手指時，它明亮的藍眼睛突然張開了。小妖精從你身邊跳開，發出長長的嘶嘶聲，堅韌的翅膀讓在飛在空中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「呃！瓦姆林，不要拿我的球！它不是瓦姆林的，不要拿！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我要用一些東西來換你的球。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[攻擊]「早死早超生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「那不是球。這是一件神聖的神器，屬於這裡的神廟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「瓦姆林的頭上滿是雪？神廟裡滿是屍體。屍體是不能擁有東西的！他們是屍體！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「交出神器，否則我就要開始拔翅膀了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我理解你對這件遺物很依戀。但也許我們能找到一種能讓我們都能得到我們想要的東西的方法……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我想你不是很熟悉那些遭遇寒冬巨獸中等待的人們的憤怒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>瘦長原生物的凸出的藍色眼睛微微瞇起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我給你這塊石頭遺物作為交換。它的持續時間比一團冰更長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你不認識暮冬之石嗎？它不受睿姆岡影響。只要你把它放在你身上。你永遠不會感到寒冷、孤獨、飢餓，並且也不會生病。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你把石頭從你的包裡拿出來，並試圖趕快用它交換冰球。妖精緊握球的力度比你想像的要強大，使你趕緊交換的意圖破滅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「呃？不要想瓦姆林的東西。我有球！球是妖精需要的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我願意用一箱真金來換它。值數千元。你可以們買&lt;i&gt;很多球。&lt;/i&gt;」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「呃？！朋友們，幫幫我！朋友們把我從瓦姆林那裡救了出來！」
+
+這隻妖精撲扇著翅膀，在它的頭頂上揮舞著那件遺物。房間裡到處都是金屬研磨聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「如果把球給瓦姆林，妖精會有什麼？」
+
+它用一隻手抓著它的頭，用另一隻手緊緊地抱著球，將他緊貼在它突出的肋骨上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你不會有的東西，是詛咒。那件遺物遺留下來的東西讓那些攜帶它的人感到寒冷、飢餓和孤獨。但我肯定你知道這一點的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「不再感到孤獨了嗎？」
+
+這隻妖精凝視球體片刻，然後把它塞到你的手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>一股冷風拂過你……也許石頭會吸收你手指上的熱量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>當球體在你的手中發光時，你會聽到冰冷的金屬在寒冷的空氣中發出的吱吱嘎嘎的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「比任何妖精所能攜帶的叮噹作響的閃閃發光的硬幣還要多……」
+
+小妖精的眼睛因為突如其來的意外之財而睜得大大的。它把遺物塞進你的手裡，開始把那箱銅幣拖走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[檢查妖精。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>雖然一動不動，但妖精似乎並沒有死。它的顏色，以藍色和白色為主，說明血液在循環，將手放在它的嘴巴前，感覺有輕微的呼吸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>這肯定是一隻妖精。一隻冰冷的、一動不動的、神聖安靜的妖精。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「永遠也不會……孤獨嗎？」
+
+當它把冰冷的球塞入你的手中時，它的目光停留在石頭上。它抓住石頭遺物，把它抱在胸前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「PFFFFFFT。瓦姆林可以找到閃閃發光的岩石，但它只是寒冷、堅硬的東西！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「呃？！朋友們，幫幫我！朋友們把我從瓦姆林那裡救了出來！」
+
+這隻妖精撲扇著翅膀，在它的頭頂上揮舞著那件遺物。房間裡到處都是金屬研磨聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>從它的大小和形狀上看，你幾乎可以肯定，它是你之前遇到的那個冰凍的蒼精靈所掉的東西。小妖精的爪子也能解釋格蘭費倫人的冰凍皮膚上的劃痕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你對石頭不屑一顧，因為它並沒有明顯的魔力，但你卻忽視了它作為文化產物的價值。你可以從任何一個前哨站的信徒那裡得出它的價格。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>小妖精盯著你看，明亮的藍眼睛瞇起了稜角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「不！瓦姆林認為自己&lt;i&gt;很聰明&lt;/i&gt;，是因為它的誇誇其談和華麗的……辭藻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你在那裡還好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「喂？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[拍拍它的頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>小妖精一動不動，毫無反應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>你的手指感覺到小妖精的肉體又冷又硬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「嘿，它可能只是在睡覺。你不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「船長，在那裡玩得開心嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「可伶的小冰柱。船長，如果你不願把你的斗篷貢獻出來當毯子用一用的話，那歡迎用我的吧！」泰克胡用無聲的懇求懇求你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「你覺得我的燈籠準備好了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>雖然它一動不動讓人難以置信，但你可以察覺到小妖精的手指有輕微的顫動，一隻耳朵也有短暫的抽動。它的胸部異常緩慢地擴張和收縮。這生物還活著，它可能只是處於某種冬眠狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>小妖精並不像第一次出現時那樣一動不動。你會發現一隻耳朵頂端有輕微的抽動，並注意到它的瘦骨嶙峋的手指有輕微的顫動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>這生物還活著，它可能只是處於某種冬眠狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「它似乎是被施了某種魔法，但我怎麼什麼都感覺不到。真奇怪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>當你盯著球體表面下方的時候，你會發現熵能在裡面慢慢旋轉，就好像一個死靈法術被束縛在裡面一樣——被困住了，但卻沒有完全凍結住。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>它的冰凍外表和它的超自然寒意，不會讓你感到驚訝，但會讓你發現它是被睿姆岡的追隨者視為神聖不可侵犯的神器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[使用火魔法解凍小妖精的雙手並收回遺物。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>當小妖精的刺骨尖嚎聲在洞穴中迴盪時，你的手幾乎還沒有傳遞秘法烈焰。它從你那裡竄出來，飛向空中。但它撞到你的手上時，它的藍眼睛怒視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「速速離開！這裡不是你的主場！你可能會死在這裡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「即使處於最佳狀態，小妖精也很容易做出魯莽的行為，我敢打賭小妖精肯定過得很好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「不！騙子！滿嘴謊言的大騙子！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「你在那裡拿到什麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「你不知道的東西！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「呃！所有人想要的都是球！已經有球了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我要向你買球。一袋金子怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「轉念一想……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我再想想？三思而後行！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「瓦姆林的聲音就像尖叫的海鳥一樣在空中迴盪！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「瓦姆林為什麼一直這麼說？你認為你要想多少次？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「叮玲響？搖一搖，聽一聽！呃，也許小妖精不懂這個問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「勃然大怒，呃？瓦姆林大聲著什麼？」
+
+小妖精把脖子向兩邊抬起，凝視著洞穴中冰冷的凹處。它可能是想將音量降低。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「當 Elsifol Boldsumme r 試圖用一種靈能來欺騙睿姆岡的時候，神把他吞了下去，把他作為咀嚼物嚼了一千年。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「真討厭。真倒霉。冰冷。聞起來很臭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「Annuqpiaat 部落把瑪珈嵐奉為他們最喜愛的神，他們聲稱，與其平息寒冷，還不如燃起戰火。第二年冬天，他們就消失了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「一切都會結束，但不是都要結束在痛苦的煎熬中，在抓心撓肺的飢餓中、以及殘缺不全的詛咒謾罵中……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>小妖精咯咯地笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「生癤和詛咒！咳嗽和哭泣！鬆鬆場子，通通氣！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「這就是你想要的反應，船長？」
+
+塞拉芬抓著他的後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「不！不會嚼了又吐，嚼了又吐！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「但不想徹底消失！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>它緊緊地抱著冰冷的球體，然後—彷彿意識到他抱著什麼似的—他把它推到你的手裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「多麼深刻的對我的人民的宗教教義的理解啊。」伊德溫透過她的眼鏡的邊緣盯著你看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「瓦姆林只是描述生活。」
+
+小妖精聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>&lt;ispeech&gt;船長，別以為這是你應得的戰利品？&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「呃！朋友們！朋友們！瓦姆林現在要離開了！」
+
+它揮動著舉過t頭頂的球體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「妖精，不明白嗎？我聽膩了你的廢話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>小妖精嗅著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>這個妖精的手指關節纏繞著開始看起來像是一團固體冰的東西，儘管在它的表面下有一個很明顯的能量脈衝，使它周圍的寒冷空氣進一步冷卻。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_seeker_adra_pearl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>探尋之面尋找魂珀珍珠</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>獲取&lt;b&gt;魂珀珍珠。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將&lt;b&gt;魂珀珍珠&lt;/b&gt;歸還&lt;b&gt;回憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>探尋之面希望我前往亡焰列島，尋找海洋深處的&lt;b&gt;稀有魂珀寶球&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>因加里聽說&lt;b&gt;涅克塔卡&lt;/b&gt;下面的某些廢墟中潛伏著的&lt;b&gt;生物&lt;/b&gt;手中有一顆珍珠。也許這個生物可以從&lt;b&gt;落水洞&lt;/b&gt;中被引誘出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我從涅克塔卡老城深處獲得了&lt;b&gt;魂珀珍珠&lt;/b&gt;， 現在可以將它置於&lt;b&gt;回憶水池&lt;/b&gt;中，讀取鎖在裡面的精神史了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我將魂珀珍珠加入回憶水池中，解鎖了新的狩獵之面挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

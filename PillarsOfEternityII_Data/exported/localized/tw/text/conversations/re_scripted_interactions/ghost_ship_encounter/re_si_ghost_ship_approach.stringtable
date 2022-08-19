@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\ghost_ship_encounter\re_si_ghost_ship_approach</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你手中緊握的噬魂者之劍搏動著，力量在其中激盪。它在劍鞘內卡噠作響，於是你一把把劍拔出，這也是兩百年來這把劍首次出鞘。
+
+你手持寶劍，聲音在海面上迴盪，令人不解的是，你的音量不減反增。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>和墳墓一樣冰冷的白霧自海面上翻騰而起。霧漫過[Player Ship]船身的側面，與此同時你聽到一艘大帆船靠近的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;link="stringtooltip://tooltips/2"&gt;"Io guri di prodeggere mat Paladina med Darcozzi i ouer iusti regli, mea Orelia Darcozzis eri.
+
+"Guri chue liuretto bon aimo i ba fetta, eppore peri chue mao Dicenas fiaces mi converande."&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>歷經幾百年的腐木的嘎吱聲逐漸被不死族的呻吟聲取代。大帆船駛向你側翼的同時，露西亞·利文向你投來刺破濃霧的銳利目光。她空洞眼窩中的火光照亮了她只剩白骨的臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>之後，亡者守衛和她的骷髏水手開始登上你的船。他們的目的是奪走那把劍。還有你的性命。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

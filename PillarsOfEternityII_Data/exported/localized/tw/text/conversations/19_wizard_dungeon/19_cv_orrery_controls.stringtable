@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\19_wizard_dungeon\19_cv_orrery_controls</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>上過油的星像系控制台已經準備好被操作了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[輸入女獵人傳說裡的星座坐標。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>輸入最後一個數字後，你聽見了沉睡的齒輪轉動起來的聲音。你的腳下漸漸傳來一陣低沉的震動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[閱讀牌匾。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>&lt;i&gt;貝卡納,
+
+如果你在看這個，說明你又忘掉了。你嘗試抄寫貝卡納的清意訣的時候將自己的心智炸碎了。對不起。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[操縱控制台。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你拉動拉桿並且輸入了隨機數字。什麼事情也沒有發生，齒輪轉進了機器中，所有數字都歸零了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[更仔細地觀察控制台。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>拉桿會調整與星座方位與高度有關的一系列數字盤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你輸入了收集到的坐標。什麼都沒發生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>儘管最近才上過油，這個星象儀的控制機關似乎還是有點卡頓。有些拉桿有被操縱過的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>旁邊的一塊牌匾上刻有一隻清理塵埃的手的標記。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>星象儀已經轉到了正確的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>&lt;i&gt;永遠不要懷疑自己。就算沒有人稱呼你為「大法師」，你多年的研究也很有價值。就算他們嘲笑過你也是。
+
+我知道你記得你自己最喜歡的胡亞納女獵人星座的傳說。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>&lt;i&gt;當你需要自信的時候，將女獵戶和她的傳說的三個舞台的坐標輸入到這個星象儀裡面去。
+
+就算只有半個腦子你也比大部分法師要厲害。所以快點去工作吧。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「如果我在冒險之旅上犧牲了，請務必要把我所有的書都燒了。」他臉紅了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>不管這個機關的目的是什麼，只有正確的坐標才能啟動它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>還需要三個坐標。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>少了兩個坐標。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>需要最後一套坐標。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>&lt;i&gt;愛你的，
+貝卡納&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>輸入的四套坐標將以精準的轉動方式驅動星象儀的內部機關。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

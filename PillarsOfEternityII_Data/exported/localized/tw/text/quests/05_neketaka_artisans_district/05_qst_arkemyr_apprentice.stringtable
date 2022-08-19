@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_apprentice</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>天鵝絨手套與黃銅拳頭</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在&lt;b&gt;黃銅堡&lt;/b&gt;找到&lt;b&gt;伯坦諾&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>向&lt;b&gt;哈莫多&lt;/b&gt;支付&lt;b&gt;伯坦諾&lt;/b&gt;的贖金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將手套還給&lt;b&gt;費西娜。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>回去找&lt;b&gt;費西娜。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>與&lt;b&gt;費西娜&lt;/b&gt;談一談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>打敗&lt;b&gt;哈莫多。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一個叫做&lt;b&gt;伯坦諾&lt;/b&gt;的瓦利亞人偷走了羅科娃的手套，那是法師&lt;b&gt;亞柯彌&lt;/b&gt;的貴重手套。黑暗櫥櫃裡的員工&lt;b&gt;費西娜&lt;/b&gt;需要在她的主人生氣之前返還那些手套。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>不知道&lt;b&gt;伯坦諾&lt;/b&gt;會去哪銷贓，但是他計劃去&lt;b&gt;黃銅堡&lt;/b&gt;碼頭與某人會面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;哈莫多&lt;/b&gt;同意只要能夠收到錢就會免除&lt;b&gt;伯坦諾&lt;/b&gt;欠亡焰皇家商行的債。他會在&lt;b&gt;黃銅堡&lt;/b&gt;的&lt;b&gt;帝國總部&lt;/b&gt;外面等我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>將羅科娃的手套送回&lt;b&gt;佩瑞琪之望&lt;/b&gt;裡的&lt;b&gt;黑暗櫥櫃&lt;/b&gt;並告訴&lt;b&gt;費西娜&lt;/b&gt;&lt;b&gt;伯坦諾&lt;/b&gt;的下場。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>回到&lt;b&gt;佩瑞琪之望&lt;/b&gt;的&lt;b&gt;黑暗櫥櫃&lt;/b&gt;並告訴&lt;b&gt;費西娜&lt;/b&gt;&lt;b&gt;伯坦諾&lt;/b&gt;與被竊手套的下落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>與&lt;b&gt;佩瑞琪之望&lt;/b&gt;裡&lt;b&gt;黑暗櫥櫃&lt;/b&gt;中的&lt;b&gt;費西娜&lt;/b&gt;談談關於你從&lt;b&gt;伯坦諾&lt;/b&gt;處取回的手套。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>我在&lt;b&gt;黃銅堡&lt;/b&gt;攻擊了&lt;b&gt;哈莫多&lt;/b&gt;，現在我必須打敗他才能換回&lt;b&gt;伯坦諾&lt;/b&gt;的自由。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;伯坦諾&lt;/b&gt;欠一名叫做&lt;b&gt;哈莫多·鐵踵&lt;/b&gt;的臭名昭著的努瓦泰船長的錢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>&lt;b&gt;哈莫多&lt;/b&gt;要求支付400銅幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;哈莫多&lt;/b&gt;要求支付750銅幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我殺死了&lt;b&gt;伯坦諾&lt;/b&gt;。現在取回他偷走的手套更加容易了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>&lt;b&gt;哈莫多&lt;/b&gt;將&lt;b&gt;伯坦諾&lt;/b&gt;收為了契約奴隸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我殺死了&lt;b&gt;哈莫多&lt;/b&gt;並釋放了&lt;b&gt;伯坦諾&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我還清了&lt;b&gt;伯坦諾&lt;/b&gt;的債。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我幫助伯坦諾擺脫了亡焰皇家商行的債務。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>伯坦諾沒辦法償還亡焰皇家商行的債務，只能成為契約奴隸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我殺死了哈莫多與他的士兵，伯坦諾將藏匿於皇族海盜中間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我取回了伯坦諾偷走的手套，並將之還給了費西娜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>知道手套沒有回來的費西娜失望至極。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>費西娜手上還有更重要的事，於是不再管伯坦諾了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>我從&lt;b&gt;黑暗櫥櫃&lt;/b&gt;的一名盜竊嫌犯那裡取回了一雙精緻手套。那裡的員工&lt;b&gt;費西娜&lt;/b&gt;看見手套回來了應該會很高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>我在&lt;b&gt;黑暗櫥櫃&lt;/b&gt;中殺死了一個即將成為盜賊的傢伙。那裡的職員&lt;b&gt;費西娜&lt;/b&gt;對我的行為算不上非常滿意。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>297</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4380</ID>
+      <DefaultText>就算是穿上這件甲衫也需要不少功夫。上面都是角度奇怪的彎彎扭扭的金屬板，下面則是堆疊在一起的破軟甲和被戳爛的皮革，這套盔甲看上去就給人一種粗糙破爛的感覺。但是尖銳的外殼在近戰搏鬥時卻是優勢，任何太過靠近之人都會被這套盔甲割傷，他們的武器也很有可能會被折斷。
+
+身為亡焰皇家商行的富有股東與坩堝騎士團的忠實支援者的歐薩拉·哈魯委任卡哈考·尼西去尋找一名自己感興趣的女戰士，但得知此人在單挑一頭亞龍時喪了命，哈魯得到消息後便回來了。不願意浪費資源的哈魯宣稱盔甲將屬於任何能夠砍下亞龍頭顱的鬥士。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4381</ID>
+      <DefaultText>最好的防禦</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4382</ID>
+      <DefaultText>這面殘忍的盾牌是由睚眥必報的坩堝騎士團製造出來的。盾牌中間鑲著帶倒刺的鋼釘，可以刺穿板甲、鏈甲以及皮肉。哪怕再怎麼擦，鋼釘底部的血跡也擦不乾淨。戰士們看見這面圓盾會驚慌失措，而軟心腸的觀眾們看見它之後會發出同情的畏縮。這種圓盾的可怕傳說常常發生於在一場看似無望之戰的白熱化階段時對於胸口，腹股溝，或者眼睛的盾牌衝撞。
+
+儘管似乎沒有人知道具體是哪個人設計了這種圓盾，卡扎努伊的居民們可以證明有數十人將這種武器帶進過鬥技場。你繼承了這件裝備的事實說明前一任持有者已經領悟到了坩堝騎士團殘忍的最終信條：就算是攜帶最精良武器之人也有付出代價的那一天。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4422</ID>
+      <DefaultText>薛亞的戰爭之杖</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4423</ID>
+      <DefaultText>雖然秘法騎士薛亞一百年前就消失了，她在自己的家鄉聚鹿仍然是勸誡性的傳說故事。向帝國的一個強大貴族家族宣誓效忠的薛亞從來沒有放棄自己從學院時期就開始形成的對於鑄魂學的著迷。她靜悄悄地繼續著自己的違法愛好，她慢慢地在自己伯爵宅邸裡面建造起了一個實驗室。當伯爵發現了她的行為之後，他宣佈基於她為家族多年服役，只要她把這些違法器件扔掉就不會舉報薛亞。她同意了並將房間裡面每一本書和每一個燒杯都扔了出去。
+
+不幸的是，她然後又將這些東西搬進了附近村莊的一家商店的出租地下室裡面，很快一名當地的娥狄卡牧師就發現了她的勾當。當伯爵的包庇行為被發現之後，他交納了巨量的罰金，整個家族也因此顏面盡失。
+
+薛亞逃離了帝國，她穿過海洋去了亡焰列島。在涅克塔卡稍稍停留之後薛亞乘上了西方一艘前往大陸國家阿貝特的航船。那艘單桅船永遠沒有到達目的地，這件事情引發了許多杜撰傳說（其中還有兩個非常流行的劇作），所有故事都在講述薛亞在海上的可怕實驗造成的毀滅性的結果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4468</ID>
+      <DefaultText>探尋者頭骨</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4782</ID>
+      <DefaultText>使用{0}個德魯伊法術</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4857</ID>
+      <DefaultText>啟示砝碼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4858</ID>
+      <DefaultText>合法權利鎖鏈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4859</ID>
+      <DefaultText>流放女王的王冠</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4860</ID>
+      <DefaultText>這個鋸齒狀的金屬碎片貼著皮膚時會散發出熱量。這種感覺很疼，僅次於灼燒感，但並不足以留下傷痕。覆蓋表面的精美蝕刻圖案中有一部分已被燒壞，但這件神器上依然散發著力量與威嚴的氣息。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4861</ID>
+      <DefaultText>這條項鏈是一對奇異的神器與精巧珠寶結合在一起的產物。儘管來自不同的世界，這些碎片卻有著同樣的外形與力場。單獨分開時，它們會發出熱度與封印的能量。融合在一起時，它們似乎比單獨累加在一起的能量更為強大。金屬中的畸變可能是淬火的結果。
+
+金屬的切割痕跡表明應該還有第三塊碎片，無論其是被熔化還是被切割開來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4862</ID>
+      <DefaultText>三塊強力金屬碎片散落在永恆各處。一塊藏在暗處，一塊被人遺忘，還有一塊已消失無蹤。一位心靈手巧者將其拼合成了和從前一樣華美的王冠。
+
+艾歐拉各地都認識此頭冠。古樸華美的手稿、商業合同和法律條文的邊緣都裝飾著與之類似的圖案。它典雅的尖端裝飾著無數雕像和祭壇。它裡面湧動著三塊碎片的能力，並散發著永遠不會熄滅的火中餘燼的光。假如這不是娥狄卡的王冠，那也是完全能以假亂真的仿品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5436</ID>
+      <DefaultText>眼球能量束</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5499</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5510</ID>
+      <DefaultText>晦秘之神的左手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5511</ID>
+      <DefaultText>這副護手是從形成記憶貯藏者的扭曲觸手上切下來的，其手掌上蝕刻著一隻眼睛。結構複雜的五指允許穿戴者不受限制地施展法術，這說明此手套是為法師或牧師製作的。
+
+穿戴或接觸到這副護手的人會聽到微弱的低語聲。含糊不清的話音中極少數能聽清的字眼往往毫無意義或與當前的狀況沒什麼聯繫，但偶爾它能給陷入秘法困境者提供有用的見解。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5512</ID>
+      <DefaultText>昴拉的貪婪腰帶</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5513</ID>
+      <DefaultText>儘管海裔大法師昴拉主要因為她古怪的法術和態度而廣為人知，但她在時尚方面的品味也十分獨樹一幟。她的秘法大師同僚們盡可能避免坐在她旁邊，因為她的長袍、披肩和長襪的觸感讓人很不舒服。
+
+這條腰帶是她衣櫥裡的光輝典範。這條怪異的皮革帶上裝飾著不明毛皮製成的捲鬚，無論做什麼動作，捲鬚都會隨著一起扭動。穿戴這條腰帶需要穿戴者不介意腰帶以下的部位持續受到輕撫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5514</ID>
+      <DefaultText>夢行者的便鞋</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5515</ID>
+      <DefaultText>夢行者阿希米是一名大約三百年前名聲大噪的胡亞納大法師。作為一名十分有天賦的譯靈使，她成為了操控靈魂的專家，開發出了支配、迷離和削弱法術。
+
+雖然這雙鞋的名字這麼叫，但上面的附魔並不能真的讓人進入他人的夢境，而是能讓穿戴者變成純粹由精粹構成的無實體存在，並直接對目標的靈魂發動攻擊，令其不省人事。
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5516</ID>
+      <DefaultText>深淵的低語</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5517</ID>
+      <DefaultText>帶有光澤的銀色指環纏繞著穿戴者的手指，能根據手指的移動而自由彎曲。壓印在金屬上的小圓環讓人想到章魚觸手上的吸盤。
+
+有時候它會使人發癢。
+
+這枚戒指能讓穿戴者在面對不可知物時胸有成竹。
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5518</ID>
+      <DefaultText>阿雷泰佐的手杖</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5519</ID>
+      <DefaultText>這根雅致的裝備堅固耐用，見多識廣的城裡人能把它當成棍棒使用。常年活躍於瓦利亞大帝國宮廷的魔術師阿雷泰佐就帶著此杖躋身於上流社會。他用此杖對付一切惹惱他的人，包括妖精、傭人、學徒和孫子孫女。一次，他不合時宜地向納格尼斯公爵的兄弟揮舞此杖，導致自己坐了六個月的牢，這段時間內枴杖不見了蹤影，很可能落入了他的一名目標之手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5600</ID>
+      <DefaultText>嚴謹的信函</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5601</ID>
+      <DefaultText>這封信被整整齊齊地疊成了四方形。
+
+「[Player Name]帶著灼熱金屬的碎片行走於亡焰列島之上。這些物品的偉大與你脫不開干係，儘管我們對時機都感到驚訝。
+
+我們應該抓住這個機會。殺掉[Player Name]。無需掩飾你的行動，因為我們有法律的支撐。一定要把金屬交至伊吉婭的手中。她在佩瑞琪之望是浪費自己的潛能。
+
+讚美流放女王。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5602</ID>
+      <DefaultText>匆忙寫完的信函</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5603</ID>
+      <DefaultText>這封信上沾著煤灰與蠟痕。
+
+「我從沒打算寫下這些。黑色碎片已被找回，而[Player Name]帶著它們——我祈禱這不是出於無知或巧合。
+
+如果我們抓緊行動還能來得及。靈視者也許在未意識的情況下遭受著女巫的腐蝕。不要劍下留情。
+
+一旦當你取回碎片後，&lt;i&gt;絕不能把它們放在一起。&lt;/i&gt;在你報告之後，這些碎片將被存在不同的秘庫中並用魔法封印，時間越久越好。
+
+一定要讓它們遠離佩瑞琪之望。我們的敵人提到過工匠伊吉婭，她身上似乎背負著某種宿命。
+
+以和平與瑪珈嵐的榮耀之名，祝你成功。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5604</ID>
+      <DefaultText>簡單指令</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5605</ID>
+      <DefaultText>「[Player Name]，
+
+我&lt;i&gt;長話短說&lt;/i&gt;，以防我的妖精不幸身亡，導致這封信函被人截獲。
+
+到現在你肯定已經見過議會裡的其他成員並煞費苦心地審查過他們闖入沃艾珥晦秘聖所的動機了。請允許我闡明我的動機。
+
+我渴求的東西很簡單——&lt;i&gt;整潔。&lt;/i&gt;已經有一位神明在亡焰列島興風作浪了，我可不想見到第二個神明和他一起作亂。
+
+如果費西娜還活著，那就盡可能保護好她。她還是有那麼一點潛力的，而這潛力或許能在沃艾珥的怪異領域裡助你一臂之力。
+
+~亞柯彌」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5606</ID>
+      <DefaultText>費西娜的任務</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5607</ID>
+      <DefaultText>「費西娜。
+
+如果你認為我們在一起完全是浪費你的時間，我也不會怪你。我交給你的儘是一些乏味或危險的任務。你幹了那麼多吃力不討好的工作兒，而我給你的只是初學者的符咒，你因此而憤怒也是理所當然的。
+
+儘管有這些不愉快，你還是堅持了下來，並成為了一名潛力無限的法師。你自作主張地讀了你無權讀的書，學了超過你能力範圍的法術，甚至發起了短暫的妖精暴動來對付我。（你以為我不知道是你幹的嗎？）
+
+這些事令我對你取得的進步很滿意。真正的法師不需要徵求他人的允許，也不會受死板的權力結構的束縛。真正的法師是充滿幹勁的懷疑論者和煽動者。即使是大法師，也只有在太平的日子裡才容忍他們強加給自己的議會。
+
+無論你還把不把自己當成我的徒弟，沃艾珥的聖所都是你畢業前的最後一次任務。我認為你有能力應對這次的挑戰。
+
+此致，
+~亞柯彌
+
+附言：假如你這次活了下來，就把這封信拿去當推薦信吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5608</ID>
+      <DefaultText>包紮小能手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5609</ID>
+      <DefaultText>儘管包紮小能手尚未成年，但也已經是一隻很大的蜘蛛了。帶著這隻活潑的寵物上街必然會吸引與之保持距離的路人的目光。儘管包紮小能手令人心生恐懼，但她似乎是一隻忠誠甚至溫順的寵物，願意用黏稠的網替你包紮傷口。
+
+至少目前如此。
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5610</ID>
+      <DefaultText>看守者契約</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5611</ID>
+      <DefaultText>這份古老而易碎的契約是蛛人來到晦密之廳時簽訂的，上面詳細記錄了一群蛛人探索者與沃艾珥代言人達成的協定。蛛人同意永遠擔任藏品館的看守者，以換取足夠的新鮮養料和一處建立巢穴的乾燥區域。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5612</ID>
+      <DefaultText>啟示砝碼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5618</ID>
+      <DefaultText>道德難題</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5619</ID>
+      <DefaultText>這塊褪色的石板上寫著英格維仙符文。雖然大部分內容已經被腐蝕得&lt;xg&gt;面目全非&lt;/xg&gt;，但幾篇文章依然清晰可讀：
+
+「……透過巨幕看去，只發現了一座空蕩蕩的舞台。這不僅讓一個付出一生的人失望，還讓我們堅信的一切失去了意義……
+
+……反對根本不存在開始的結論。想到他們的偉大超乎我們的想像，或我們缺乏合適的&lt;xg&gt;工具&lt;/xg&gt;去……
+
+……存在，那誰說我們無法改良……
+
+……在水渠中流動的水與不受控制的水流形成對比……
+
+……就連這份記錄都不應該存在以回憶起我們的……」
+
+其餘內容已無法辨認。另一面似乎羅列著一系列道德論點，討論的是一個尚未作出的決定的贊成和反對的理由，不過一切具體的意義和語境已因為年代久遠而無法得知。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5620</ID>
+      <DefaultText>發霉的輪作年鑒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5621</ID>
+      <DefaultText>這本年鑒的封面長著厚厚一層黴菌，連書脊和其他書頁也已發霉。只有一頁沒有完全發霉。黴菌感染了墨水，使一些字詞鼓脹成不規則的形狀：
+
+「土地的肥沃度是成功的典型關注點。&lt;i&gt;喂？&lt;/i&gt;多樣化的農場才是&lt;xg&gt;健康&lt;/xg&gt;的農場，我們不能光靠有利&lt;i&gt;我們是否孤單？&lt;/i&gt;來決定我們的命運。基斯控制季節為我們效力，我們也要盡自己的一份力&lt;i&gt;我是一部分嗎？我是一部分嗎？我是誰？&lt;/i&gt;來取代從土地的生命中索取之物，我們肆無忌憚地索取寶貴的物產&lt;i&gt;瞭解為何痛苦？&lt;/i&gt;
+
+此後，我們將承擔起責任&lt;i&gt;不是我，是我們&lt;/i&gt;並分享我們的進步，為了&lt;i&gt;歌聲——成長——愛&lt;/i&gt;的&lt;i&gt;殖民地。&lt;/i&gt;這樣，&lt;i&gt;書&lt;/i&gt;的純淨將得到測量和控制，不再是我們無法控制的變數……」
+
+之後的文字已被損毀，變成了黴菌欣欣向榮的菌落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5622</ID>
+      <DefaultText>十勇士最後一戰紀實</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5623</ID>
+      <DefaultText>此書的內封面上有一枚象徵著內容屬實的鑲邊郵票，郵票來自一個聲稱準確記錄歷史事件的組織。
+
+「他的部隊陷入瘋狂時，捍衛者們堅定地站在伊萬德爾的石頭上，為他的到來做好準備。
+他的同胞們因即將到來的戰鬥而興奮地流下口水，只有他鎮定地看著破碎的防線。
+
+『他們真的以為你們十人能反抗黎明？』他緩慢莊重地說道，同時點燃了煙斗，並把引火物放進口袋。』你們想妨礙我們，恐怕沒那麼容易。我們的計劃是行軍直接碾過你們，並用長矛在擋路者身上捅窟窿。不是我們針對誰。那麼，我們出發了。』
+
+這就是聖人艾德爾的遺言，之後，神錘炸彈便將他從世界上抹去。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5624</ID>
+      <DefaultText>建築完整度報告</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5625</ID>
+      <DefaultText>這份信函是寫給努瓦泰海軍辦公室的。顯然，它沒能寄出去。
+
+「偉大的哈扎努伊，
+
+您的旗艦鋼鐵信條號沒有像我們希望的那樣經受住從祖國開始的旅程。海面波濤洶湧，還有一種富有攻擊性的寄生蟲感染了船身。
+
+我駛向亡焰列島時，您對我說領隊的艦船必須始終是信條號，因為我們承載著祖國之心。現在我要對您說的是，這艘船還沒有做好戰鬥準備。即使是稍微展示一下力量都會導致她投入昂德拉的懷抱。
+
+您曾指示我不要當造船匠，因為不能讓人看到我們艦隊的驕傲沉默，也不能請求胡亞納人的幫助，不然他們就會對我們的軍備瞭若指掌。然而您的旗艦沉沒只是時間問題了。
+
+您有何指示？」
+
+鹽水漬導致簽名模糊不清。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5626</ID>
+      <DefaultText>歷史和矛盾，第二卷——胡亞納人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5627</ID>
+      <DefaultText>「胡亞納人的文化歷史裡充斥著關於神賜管理權的奇幻故事。其中最典型的例子是一則神話故事中提到三位守護者接受了他們自己的魚型女神恩加蒂的協議。守護者們被賜予了水塑法，條件是他們發誓守護群島、各部族和光魂珀。
+
+水塑法的確是了不起的天賦，但並無證據證明這是神賜予他們的。那為何會有這個聖約的故事呢？
+
+還有其他故事，故事中提到烏凱佐偉大的統治者們與巨龍定下契約。
+
+未被記載的漫長歲月會不會像牡蠣把沙子變成珍珠一樣給事實包裹上一層神話色彩呢？」
+
+以上文字為接下來的敘述確定了基調，不過發現的東西大多是猜測。  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5628</ID>
+      <DefaultText>妖精液體煉金術</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5629</ID>
+      <DefaultText>「我把兩隻妖精在籠子裡關了三十幾年，在此期間我撰寫了《反常者的氣味語言》的第五卷。每天，這兩隻妖精進行遠距離交流時都會用腺體向空氣中噴出液體。我站在他們中間並讓惡臭的液體淋在我身上，並慢慢明白了它們液體的秘方。
+
+它們的臭液多麼美妙。效力強勁。到現在都揮之不去。
+
+正當我書寫本來能成為我最偉大作品的最後一頁時，他們噴液的方言發生了徹底的變化，導致我的發現變得毫無意義。不過它們笑我笑得可真歡吶!
+
+我現在知道失敗聞起來是什麼味了。就是妖精朝人臉上放三十年屁的臭味，以及得不到任何學術認可的苦味。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5630</ID>
+      <DefaultText>受盡欺凌的臭傢伙，第一卷</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5631</ID>
+      <DefaultText>「如果妖精有哪一點耐人尋味的話，就是它們實際上是艾歐拉最複雜的非基斯生物。它們會說我們的語言，能服從複雜的指令，且它們擁有的自我意識和自由意志毫不遜色於比它們古老的同輩。另外它們還擁有吸收魔法能量增大體型（吸收得越多變得越大）的潛在能力，因此可以毫不誇張地說妖精就是周圍環境的主宰。
+
+那它們為什麼沒有成為主宰呢？
+
+我們很多傳說視妖精為一種副產品，是溢出的秘法能量形成的說話難聽的蠢東西。我們中有些人認為這是徹底的謬誤。從早先的娥狄卡神廟中取回的賬簿將這些不討人喜歡的生物描述成了更體面的存在，稱它們為「先民」或「隕落者」。有些人甚至猜測妖精是眾神創造生命時被丟棄的失敗品。
+
+這種解釋將主導我證明妖精價值的學術運動，我們一直都在低估它們的價值，但它們理應得到公平待遇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5632</ID>
+      <DefaultText>夾帶的日記頁</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5633</ID>
+      <DefaultText>「聽人說艾德瑪斯一把火燒了叢林。歌謠中唱到艾德瑪斯從敵人的嘴裡拔出了最鋒利的尖牙。
+
+牢房牆外的事我一概不知，但記憶我還是有的，而我不記得那片戰場上有燒焦的樹。我也不記得被抓走。我只記得揮舞和談的旗幟，應答我們的卻是一聲戰吼。他們放火是後來的事了。
+
+&lt;xg&gt;歷史&lt;/xg&gt;並非由勝利者或是在場的基斯書寫。而是由簿記寫的，而不知為何艾德瑪斯無意反駁他們的謊言。或許是因為我和他立場不同吧。真實的歷史和為人所知的『歷史』是兩碼事。只有明察秋毫者才能看出兩者的區別。
+
+~黎德。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5634</ID>
+      <DefaultText>解剖筆記</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5635</ID>
+      <DefaultText>「樣本很奇特。體型比上一個大。每當我把目光轉移到別處時，骨骼就會變成另一種形狀，因此要準確描述出它的內部構造絕非易事。器官都在一張有彈性的網狀網上接合在一塊兒，這個網狀物即使腐爛也能維持類似海綿的狀態。
+
+頜能張大到不合常理的地步。我也解釋不了怎麼可能有這種事，但的確是我親眼所見。牙齒會根據頜的張大程度而伸長，即使死後也是如此。
+
+我建議把這個種族最後的個體埋葬在藏品館。把它分類處理總比把它隨意棄置在外面強。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5636</ID>
+      <DefaultText>模範農夫</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5637</ID>
+      <DefaultText>這部典籍每一頁上的文字和插圖都密密麻麻的。其中一篇文章如下：
+
+「聖維德溫抿了抿嘴唇並俯視著發光的怒容，對方透過紫金草也注視著他。身為勞動人民的他緊握沾滿掌心汗水的鐮刀木柄。
+
+『這麼說你就是俄撒斯，』他說道。
+
+『正是。』神答道。
+
+『那你已經知道我想要什麼了吧，』農夫維德溫說道。
+
+『沒錯。』
+
+維德溫解開了扎馬尾辮的線繩，讓飄逸的長髮從肩頭滑落，披在胸口。他眨眨眼清了清嗓子，然後又眨了眨眼。
+
+「我有根蠟燭還沒點亮。」
+
+俄撒斯向他靠近，並——」
+
+ 之後的內容被深深嵌入羊皮紙的一系列鋸齒狀的筆記打斷：
+
+「艾歐拉還沒有為此做好準備。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5638</ID>
+      <DefaultText>消失絨精的筆記</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5639</ID>
+      <DefaultText>「一個長著一隻耳朵的小傢伙敲響了我們的門。我以前聽說過他。他想要得到晦秘之神的答案，不論走到哪兒都會騷擾當地的神廟。我剛想趕他走，但他在我面前變成了一頭成熟獅尾虎。
+
+我立刻招呼他進門並讓他坐下（這時他已變回了人形）。之後我得到了盒子。
+
+我的母親把盒子交給了我，正如她母親把盒子交給她一樣。我們家族每一位女兒都奉命好好保管這個盒子，直到伽拉溫的信使找到我們。我向這個小個子說明了此事。他的個頭在同族中偏小，把盒子立起來後正好和他一樣高，我們倆被這一景象逗樂了。
+
+我們一同打開了蓋子。打開之後出現了一座小型樓梯，通往不可思議的黑暗深淵。這隻絨精毫不猶豫地吻了一下我的臉頰，然後背起背包開始往下爬，入口在他身後關閉。我再次打開盒子時，發現的只是盒子空空如也的內部。
+
+希望他找到了想要的答案。另外，希望他的探索是值得的。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5642</ID>
+      <DefaultText>貝奇羅之災</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5643</ID>
+      <DefaultText>瑪西亞·奧齊亞僱傭了一群多才多藝的刺客。這群刺客精通弓弩，為攻陷普林西海盜的貝奇羅島做出了不可磨滅的貢獻。而這場刺殺，也被後人們稱之為「雜種雷奈利的死亡之舞」。雷奈利是個偏執的自大狂，他的堡壘裡住滿了長期定居的音樂家——畢竟有些音樂家還是願意給他演奏的。每個月他都會舉辦一場盛宴，邀請他最信任的盟友和知己參加。
+
+在某場盛宴的前幾天，一場致命的惡疾（是某個被人用一大袋金陽幣收買的廚師幹的好事）讓他的樂師嚴重減員，但他卻並不打算取消這場宴會。他搜遍了附近所有的地方，想要找到能臨時救場的樂師。令人難以置信的是，從涅克塔卡前往共和國途中，在某個叫馬恩佩古的小島上，他真的找到了這麼一群樂師。
+
+儘管他的船員仔仔細細地搜了這些樂師的身，他們卻並不清楚這些樂師真正的技藝，也完全沒意識到這種行為無異於引狼入室。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5644</ID>
+      <DefaultText>泰恩的正義覺醒卷軸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5645</ID>
+      <DefaultText>這張羊皮紙上潦草地寫著神秘的符咒，畫著動物的圖案，還有泰恩練了好幾遍的簽名。泰恩認為，這個法術可以讓藏品館的囚犯們找回他們的記憶。只要能找到一個所有人都能聽到的地方，把上面的詞都念出來就行了。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5646</ID>
+      <DefaultText>郎歌世的最後沉睡卷軸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5647</ID>
+      <DefaultText>這個卷軸上整齊的方格里一絲不苟地畫著各種符文。加固符文的強大秘法能量使符文發著微弱的螢光，盯著它們看太久會導致你心跳變慢。
+
+郎歌世相信這個法術能讓藏品館的犯人們安詳的死去，前提是必須在所有犯人都能聽到的地方閱讀卷軸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5650</ID>
+      <DefaultText>高階沉思觀星錄</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5651</ID>
+      <DefaultText>這本書上繪製了詳盡的夜空星圖，畫出了幾顆已知彗星的運行軌跡圖，還推測出了某些尚未被基斯觀測到的其它天體。
+
+作者用循循善誘的語氣，鼓勵所有對星星好奇的人不斷培養自己的好奇心，在茫茫的未知世界中更好地理解自己存在的本質。
+
+星圖或許對某些人會有用，而作者的勸誡或許對所有人都有用。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5652</ID>
+      <DefaultText>貝卡納的枯竭魔典</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5653</ID>
+      <DefaultText>魔典書頁上眾多的符文和註解大多已淡去。另外，文字似乎是用複雜的密碼書寫的。這本書目前完全派不上用場。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5654</ID>
+      <DefaultText>星鐵碎片</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5655</ID>
+      <DefaultText>這塊金屬質地緻密，實際重量比乍看上去更重。在光照下，它凹凸不平的表面反射著微光。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5660</ID>
+      <DefaultText>這頭緊張的小馬駒是鬥牛比賽中用的斗駒，但很顯然，它並不適合當斗駒。在陌生的環境中，它會緊緊地貼在你身邊。只要你離開它，它就嘶叫起來。它既害怕基斯，也害怕魔物，只有你才能讓它感到安全。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5661</ID>
+      <DefaultText>盧塞洛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5662</ID>
+      <DefaultText>附件是升降梯鑰匙</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5663</ID>
+      <DefaultText>這把鑰匙表面覆蓋著某種粘稠物質。可能是唾液。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5664</ID>
+      <DefaultText>掌秘人的咒語</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5665</ID>
+      <DefaultText>這本書裡寫著枯燥冗長的咒語，專供掌秘人在工作期間使用。
+
+其中包含一系列用來吸引邪眼、關門和召喚物件的咒語，還寫著能令聽者產生永久耳鳴的超自然聲音的召喚方法。
+
+其中一個特別有意思的附魔用來對鎖使用，能讓正在被人撬的鎖外觀變得更複雜，撬的時間越久，複雜程度越高。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5667</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5673</ID>
+      <DefaultText>苗條阿吉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5674</ID>
+      <DefaultText>苗條阿吉是藏品館的圖書管理員對它的愛稱。它是研究者們用儲存的沃艾珥的肉創造出來的看門狗構裝體。不幸的是，這隻生物的敵我識別能力很糟糕，尤其是當它肚子餓時。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5675</ID>
+      <DefaultText>奧布里特</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5676</ID>
+      <DefaultText>這一小團熔化的魂珀摸起來涼涼的，並擁有朋友一樣的外形。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5678</ID>
+      <DefaultText>一個蛋，或許是雞生下來的蛋，也或許不是。目前你沒辦法弄清楚這個問題的答案。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5679</ID>
+      <DefaultText>血肉控制室的鑰匙</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5680</ID>
+      <DefaultText>這把鑰匙的手感比它實際看起來更溫暖、更柔軟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5684</ID>
+      <DefaultText>艾歐拉的歷史，第二卷：鹿民部落</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5685</ID>
+      <DefaultText>「空有理論的學者會告訴你他們的滅亡是不可避免的，終結他們的是瓦利亞大帝國貪婪的擴張欲，或是他們令人惋惜地沒有注意維持關鍵基礎設施的必要性，亦或是他們無所事事的有錢人之間無盡的背叛和復仇循環。但他們都錯了。
+
+終結他們的是斑貓杜卡薩。杜卡薩就是害群之馬。他最先得知了導致掌控瓦利亞大帝國經濟的顯赫家族之間後來仇殺不斷的起因，可他卻只是咆哮著命僕人關上門別再打擾他休息。他很快就死了，就在他的僕人刻意無視主人書房中飄出的惡臭之際，瓦利亞大帝國分崩離析了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5686</ID>
+      <DefaultText>「人群中最初的魔法是火焰。在所有團體和種族中，火焰始終是最先被使用的魔法。火焰是趕走黑暗的藥膏，是講故事時倚靠的光亮。它驅趕寒冷。照亮道路。製造陰影。
+
+召喚出火焰的是一個老嫗。她朝即將熄滅的木炭低聲念出了一個詞，結果木炭重新燃燒了起來。她到死都帶著那塊燃燒的木炭，並把咒語教給了自己的女兒，她女兒又教給了自己的兒子。
+
+人民將這個小火種從寒冷的北方故鄉帶到了悶熱的南方叢林。它一次都沒有熄滅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5687</ID>
+      <DefaultText>郎歌世編年史，第五卷</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5688</ID>
+      <DefaultText>郎歌世編年史，第一卷</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5689</ID>
+      <DefaultText>郎歌世編年史，第二卷</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5690</ID>
+      <DefaultText>郎歌世編年史，第三卷</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5691</ID>
+      <DefaultText>郎歌世編年史，第四卷</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5692</ID>
+      <DefaultText>收集好的郎歌世編年史</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5693</ID>
+      <DefaultText>編纂收集好的郎歌世編年史</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5694</ID>
+      <DefaultText>蛛人絲質便鞋</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5695</ID>
+      <DefaultText>這雙拖鞋光滑、柔軟、靈活，穿起來稍微有點黏糊糊的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5697</ID>
+      <DefaultText>繃肉之戒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5698</ID>
+      <DefaultText>這枚滿是褶肉的戒指會不定時地輕輕地擠壓佩戴者的手指，就彷彿某顆患了病的心臟在跳動一樣。沒人知道這枚戒指上的肉是從哪裡來的。從它斑斑駁駁的顏色上看，甚至沒人知道這些肉是不是來自同一隻生物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5699</ID>
+      <DefaultText>掌秘人長袍</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5700</ID>
+      <DefaultText>被感染的掌秘人長袍</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5701</ID>
+      <DefaultText>天界煽動者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5702</ID>
+      <DefaultText>這塊遙遠星辰的碎片並非這個世界之物，但它帶有秘法力量的嗡鳴聲。這塊金屬坑坑窪窪的核心沉甸甸的，其中充滿了蟄伏的靈魂能量。這些極具進攻性和領地意識的靈魂能顯現並抵禦外來威脅。它們似乎並不受艾歐拉原生魂珀的吸引，否則它們早就從金屬裡逃逸出去了。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5703</ID>
+      <DefaultText>第三隻眼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5704</ID>
+      <DefaultText>這條項鏈上掛著一個精心雕刻的神聖印記。這個圖案不僅僅是裝飾，它中心的紫水晶還能起到類似於透鏡的作用，通過隱晦的符號與隱喻，揭示出映入水晶之人的的弱點與秘密。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5707</ID>
+      <DefaultText>高階謀士魔杖</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5708</ID>
+      <DefaultText>這支鍍金的魔杖看起來像是某只深淵巨獸扭曲的觸手一樣，觸手纏繞在一顆鮮紅如血的紅寶石周圍。英格維仙衰落之後，只有最足智多謀的法師和牧師才能從掌秘人處獲得這支威力強大的魔杖。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5709</ID>
+      <DefaultText>附有菌怪粘液的鑰匙</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5710</ID>
+      <DefaultText>這把鑰匙被某種菌怪的粘液包裹著，可以打開隔離區的某扇大門……大概能吧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5711</ID>
+      <DefaultText>高階謀士長袍</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5712</ID>
+      <DefaultText>這件長袍上用銀線縫製著許多秘法符文，長袍的邊緣看起來閃閃發光，神秘莫測。長袍上的金色裝飾進一步強化了它的保護性能。
+
+當長袍上的附魔生效時，長袍會模糊穿戴者的形體。它會通過彎折附近的光線來隱藏穿戴者真正的位置。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5715</ID>
+      <DefaultText>高階謀士的神諭專注護盾</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5716</ID>
+      <DefaultText>這面護盾看起來像個揮著觸手、渾身是眼的外星生物一樣。據說它是掌秘人的創始人之一，高階謀士海爾德親手製作的，反正掌秘人的史書上是這麼記載的。
+
+這面護盾可以凝聚使用者的靈魂之力，投射出一層薄薄的能量場。雖然能量場並不足以完全擋住猛力一擊，但可以偏轉彈矢和武器，讓敵人難以命中目標。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5717</ID>
+      <DefaultText>維護日誌——血肉構裝體控制器</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5718</ID>
+      <DefaultText>這份血肉構裝體監測裝置的維護日誌上，詳細地記錄了日期與操作步驟。最新寫上去的條目內容很引人注目：
+
+- 齒輪被一節手指卡住了。我問了一圈，沒人說自己的手指被夾掉了。
+- 我開始了啟動序列，一大堆牙齒從裡面掉了出來。算是正常啟動嗎？
+- 今天，面板上長出了一個新的拉桿。我還不知道這個拉桿是控制什麼的，也不知道它到底有沒有用。拉桿既僵硬、又溫暖。
+- 到了這個階段，控制器已經有了自己的生命。我能做的僅僅是翻譯他的意思。
+- 裝置拒絕進行常規流程。後來直到我拿起一塊骨頭，抓撓它最喜歡的腺體、深部以及最左手邊的部分。它顫抖了一陣子之後，就開始心無旁騖地工作了。
+- 這份工作讓人噁心，我太喜歡了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5719</ID>
+      <DefaultText>深紅全罩甲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5720</ID>
+      <DefaultText>這套盔甲上的朱漆似乎能隨著使用者的行動而出現微妙的變化，彷彿飄落的玫瑰花瓣或流血一樣。盔甲上鑲有許多精緻的金色符文。這些符文來自掌秘人檔案庫的檔案庫，符文的魔力讓這套盔甲充滿了活力——以及敵意。
+
+它的怒火依然沒有消散。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5721</ID>
+      <DefaultText>高階謀士面具</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5722</ID>
+      <DefaultText>沃艾珥乃洞悉萬物之隱者，而他們則是晦秘者，無目之面。這個面具是掌秘人的代理者最喜歡的魔法物品，因為它在很多隱喻層面都代表了他們的主人。沃艾珥的牧師會在冥想的時候戴上這種面具，而侍奉於晦秘之神的法師們也同樣會在秘密儀式中戴上它。
+
+這個特別的面具由純金打造，幾乎沒有任何特點。這個面具曾屬於掌秘人的創始人之一，高階謀士海爾德，反正掌秘人的史書上是這麼記載的。儘管面具正面看起來平凡無奇，面具裡面卻刻滿了英格維仙的符文，擁有強大的保護效果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5723</ID>
+      <DefaultText>外界神種碎片</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5724</ID>
+      <DefaultText>這個銅框裡鑲了一塊發光的石頭。岩石光滑的表面之下，似乎有無數精細複雜的符文在不斷游動著。
+
+石頭摸起來有點暖暖的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5725</ID>
+      <DefaultText>外界神種碎片</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5726</ID>
+      <DefaultText>神種內核</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5727</ID>
+      <DefaultText>這塊石頭的大理石表面緩慢地變化著，看起來就像是一顆裝滿混濁液體的玻璃球。球體的中緯線處鑲嵌著一條銅軌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5728</ID>
+      <DefaultText>這個銅框裡鑲了一塊發光的石頭。岩石光滑的表面之下，似乎有無數精細複雜的符文在不斷游動著。
+
+石頭摸起來有點暖暖的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5729</ID>
+      <DefaultText>雷迪納</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5730</ID>
+      <DefaultText>這個潮濕的畸形產物用憧憬的眼神探頭看著你。小雷迪納似乎並沒有意識到自己是進化的扭曲產物，是一個永動的噩夢機器。目前它只想和你做朋友。雷迪納每次張開雙臂要抱抱時，視野都會變得更廣闊。而它也經常要抱抱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5731</ID>
+      <DefaultText>鵝膏菌</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5732</ID>
+      <DefaultText>它受到驚嚇時，會用鰓釋放出致命的神經毒素。如果沒人除去它們，則也會釋放毒素。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5733</ID>
+      <DefaultText>「眾神讓我們在每次輪迴中都被完全剝奪掉自己的身份，他們殘忍地利用自己的神力抹除我們所掌握的一切。
+
+我們的&lt;i&gt;靈魂&lt;/i&gt;仍然存留著蒼白的陰影，但知識、記憶乃至自我——一切都被奪走了。
+
+眾神是否在害怕，如果他們不這樣做，我們終有一天會掌握可與之相匹敵的力量？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5734</ID>
+      <DefaultText>「艾爾‧格蘭芬瑟之樹擁有著像基斯一樣強大的靈魂，其錯綜複雜的根株可綿延數里之廣。
+
+但你若沿著任意一棵樹深挖其根便會發現——樹根之間相互聯繫在一起，永無終結。它們就是共用&lt;i&gt;同一具身體&lt;/i&gt;的許多靈魂。
+
+為什麼基斯沒辦法這樣做呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5735</ID>
+      <DefaultText>「某棵樹的樹枝可以嫁接到另一棵樹的樹幹之上，而隨著時間推移，它們共同能夠結出比任何一棵樹所結都要香甜的果實。
+
+那麼是否有這樣的可能，將靈魂的幼芽嫁接到其他基斯的根基之上呢？
+
+靈魂不會碎裂而是會合併。它們在一起將更加強大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5736</ID>
+      <DefaultText>「眾神看到了破碎的靈魂，但其對此毫不關心。遍體鱗傷支離破碎的人類被造物主斷然拋棄，無所適從地於風中凋零。
+
+如果是&lt;i&gt;故意&lt;/i&gt;碎裂的靈魂是否也不會引起其注意？
+
+我會利用他們的冷漠來對付他們。我會讓他們的鄙棄&lt;i&gt;為我所用&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5739</ID>
+      <DefaultText>無目之面要求的祭品</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5740</ID>
+      <DefaultText>這本厚重上鎖古書的發黃書頁上有著用暗綠色墨水寫下的筆跡。你在其中看到了瘋癲的詩句、無理可循的公式與詭異的草圖。某一頁上有著用血寫下的內容：
+
+&lt;i&gt;泰坦只會對經歷過記憶存儲儀神秘之處的人開放。
+
+只有知道如何使用記憶存儲儀才能使用該儀器。
+
+這個奧秘無法教授，只能感受。
+
+一樣東西的記憶並非這樣東西本身。
+
+一樣東西的記憶本身就是一樣東西。
+
+記憶存儲儀需要使用者在獻祭中理解它的使用方法。
+
+即獻祭你想要得到的知識。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5741</ID>
+      <DefaultText>海爾德之角</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5742</ID>
+      <DefaultText>這根年代久遠的長角來自某個神嗣的頭骨，上面佈滿漩渦狀的圖案，彷彿無數顆充滿警惕的眼睛。角邊的鬃毛根根直立，彷彿被施了咒語一樣。這讓你不禁覺得，恐怕只有某種極為熾熱的東西，才足以對它造成傷害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5743</ID>
+      <DefaultText>海爾德的回憶錄</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5744</ID>
+      <DefaultText>這本書用古聚鹿語寫成，刻在一隻形如蛛足的手上。這份回憶錄講述了掌秘人領袖海爾德幾個世紀以來的事情。回憶錄中的絕大部分內容都很難認清，就更談不上理解其中的意思了。不過，結尾的部分詳細記載了某個儀式。通過這個儀式，便可以與晦秘之神實現「完全交融」。
+
+這份回憶錄暗示道，若想與沃艾珥融為一體，就必須從歷史中完全抹殺自己的存在才行。若想抹殺存在，就必須從來都沒有存在過。
+
+哪怕是記錄也不能留下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5745</ID>
+      <DefaultText>在藏品館中找到並檢查海爾德之角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5746</ID>
+      <DefaultText>在檔案庫找到並閱讀海爾德的回憶錄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5750</ID>
+      <DefaultText>昴拉的記錄簿</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5751</ID>
+      <DefaultText>儘管這份記錄簿散發著潮氣，裡面的書頁卻完全沒粘在一起。這份記錄薄用胡亞納語寫成，記錄了某個巨大的地下生物，這隻生物長滿了血肉的觸手與緊閉的眼睛。在幾個較為古怪的章節中，記錄了他為了召喚出秘法秘像，而與這隻生物進行交流的過程。
+
+在記錄簿的末尾，昴拉寫道：
+
+&lt;i&gt;「沃艾珥，百重幻境，晦秘之神，無目之面。我相信，你棲息在這黑暗之中。我相信，你曾行走於天地之間。你為何依然存活？你為何仍未甦醒？
+
+你會對抗黎明之星嗎？他的存在，難道不會對你的神秘本質構成威脅嗎？你為什麼不&lt;xg&gt;讓&lt;/xg&gt;他迎來最後的暮靄？」&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5752</ID>
+      <DefaultText>殺菌劑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5753</ID>
+      <DefaultText>晦秘之廳的圖書管理員似乎在與逃出藏品館圍場的黴菌感染做鬥爭的過程中開發出了這種強效毒藥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5755</ID>
+      <DefaultText>昴拉的感染魔典</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5756</ID>
+      <DefaultText>這本魔典用鯊魚皮裝訂，摸起來有點濕濕的。幾十年來，上面已經用墨汁與珊瑚粉寫滿了神秘研究方面的內容。
+
+它聞起來還有點發霉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5757</ID>
+      <DefaultText>失去魔力的工作化護身符</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5758</ID>
+      <DefaultText>這個垂飾上蝕刻著的符文令佩戴它的護甲活了過來，並使其擁有一名訓練有素的戰士的力量與風度。只不過幾乎看不出它擁有智慧或個性。
+
+或許它&lt;i&gt;確實擁有過&lt;/i&gt;這些，只不過後來你把上面的魔法驅散了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5759</ID>
+      <DefaultText>「眾神看不清嫁接的靈魂。它像血熱病一樣肆意蔓延，卻沒有殺死其宿主。
+
+不，我會是&lt;i&gt;靈體&lt;/i&gt;的熱病。無影無形。無可阻擋。
+
+直到永恆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5760</ID>
+      <DefaultText>「眾神在每個輪迴都會剝奪我們的身份，無情地利用神聖之力清除我們學會的一切。」
+
+「我們仍然保留著&lt;i&gt;靈魂&lt;/i&gt;的蒼白陰影，但知識、記憶乃至自我——一切都被奪去了。」
+
+「難道眾神不怕我們有一天會反抗嗎？」
+
+「艾爾‧格蘭芬瑟的巨樹有著與基斯一樣強大的靈魂，其根脈甚至能綿延數里。」
+
+「但如果你向下深挖的話，跟隨根脈你就會發現——其不會斷絕而是通向其他植株。就像是分享&lt;i&gt;同一身體&lt;/i&gt;的許多靈魂。」
+
+「為什麼基斯做不到同樣的事？」
+
+「一棵樹的樹枝可以嫁接到另一棵樹的樹幹上，而隨著時間推移，它們結出的果實比任何樹自己的產物都香甜。」
+
+「那麼是否有可能將部分靈魂嫁接給願意接受的基斯？」
+
+「靈魂不會破碎而是會連結。它們在一起將更加強大。」
+
+「眾神看到了破碎的靈魂，但其對此毫不關心。傷痕纍纍，心力交瘁的人們被自己的造物主所拋棄，獨自在風中消逝，再無任何援助與信仰。」
+
+「如果是&lt;i&gt;故意&lt;/i&gt;碎裂的靈魂也不會得到其關注嗎？」
+
+「我會利用他們的冷漠反過來對付他們。我會讓他們的鄙棄&lt;i&gt;為我所用&lt;/i&gt;。」
+
+「眾神看不清嫁接的靈魂。它像血熱病一樣肆意蔓延，卻沒有殺死其宿主。」
+
+「不，我將成為&lt;i&gt;靈魂&lt;/i&gt;熱病。無影無形。無人能擋。」
+
+「永生不死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5762</ID>
+      <DefaultText>小眨巴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5763</ID>
+      <DefaultText>這個閃閃發光的眼球不帶感情色彩地觀察並跟隨著你。雖然不清楚飄在空中小眨巴是否擁有智能，仔細觀察你的一舉一動似乎令它『樂此不疲』，即使你睡覺時它也在盯著你。受到刺激時，保持小眨巴濕潤的潤滑膜往往會滴水。
+
+小眨巴每次看向角落或可疑的身影時，你發現自己也不由自主地倣傚。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5764</ID>
+      <DefaultText>深紅板甲頭盔</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5765</ID>
+      <DefaultText>&lt;i&gt;我來是因為這裡需要我。而非選擇我。這片群島就和家沒什麼兩樣。&lt;/i&gt;
+
+怎會如此呢，&lt;i&gt;我琢磨著。我們難道不是環境的產物嗎？我們的文化不也是如此嗎？這個地方風暴肆虐、熱浪襲人，這兒的水和聚鹿並沒有多大不同，但我們卻成為了艾歐拉最偉大的文明（當然和英格維仙尚有差距），而這些胡亞納人還只是一群漁民和泛靈論者。
+
+他們偉大的秘法傳統在哪兒？他們卓越的藝術家在哪兒？即使是鑄魂學方面的進步，無論多麼不濟，都至少能展現出一些奇特現象。
+
+這幫人展現出來又是什麼呢？他們中有少數人能把水變成魚。真是既可笑又幼稚。
+
+或許在他們變成他們之前，他們正是因為缺乏好奇心與進取心才選擇了這個地方。 &lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5766</ID>
+      <DefaultText>&lt;i&gt;昨晚無形者觸碰了我的夢境。他們選擇忘記這個地方。忘記我們。其他人有些會擔憂，但我明白這是怎麼回事：這是禮物和獎勵。
+
+沃艾珥相信我們在他們離開期間可以打理好一切。繼續他們的工作。他們想要我們給他們一個驚喜。
+
+我已經想好怎麼讓他們驚喜了。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5767</ID>
+      <DefaultText>&lt;i&gt;泰坦在夢中對我低語。我也低聲回應。它直視我的內心。我也直視它的內心。
+
+我們彼此交流。
+
+我們向綱要互相低語。我們能用它抹去這個地方。抹去自己的存在。
+
+我們能用它洞察一切且不會被人發現。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5768</ID>
+      <DefaultText>&lt;i&gt;不要提起高階謀士海爾德。她無影無形，觀察著一切。她悄無聲息，聆聽著萬物。觸碰著她卻沒有觸感。不要提起高階謀士海爾德，她也不會提起你。
+
+不要提起高階謀士海爾德，她的頭銜是真，名諱為假。
+
+不要提起高階謀士海爾德，她承擔著父親的工作。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5769</ID>
+      <DefaultText>&lt;i&gt;不要打聽高階謀士海爾德，她是最先被百重幻境觸碰到的人。不要打聽高階謀士海爾德，她摘除夢境中的真實，並解釋清醒世界中的謊言。不要打聽高階謀士海爾德，她奉父親之命令亡焰列島屈膝，自己卻昂首挺立。
+
+不要打聽高階謀士海爾德，否則她就會打聽到你。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5770</ID>
+      <DefaultText>&lt;i&gt;不要看高階謀士海爾德，她是掌秘人之掌、大法師、心靈劫匪、他父親藏品的無目守護者以及方法與習慣的擬稿者。
+
+不要看高階謀士海爾德，她是泰坦的管理人和綱要的保護人。
+
+不要看高階謀士海爾德，因為她依然注視著你。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5771</ID>
+      <DefaultText>妖精液體精粹</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5772</ID>
+      <DefaultText>這種腐臭的不明液體由尿液、膽汁和普通妖精臭腺分泌出的費洛矇混合而成。雖然自然界中用噴霧交流的記載早已存在，但已知的生物中，只有妖精才同時使用口頭語言和噴霧語言，令本來就令人不快的交流更加令人不快。它們能用臭液傳達多少訊息無人知曉，不過憤怒和厭煩似乎是妖精交流必不可少的部分。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5773</ID>
+      <DefaultText>泰恩的感激</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5774</ID>
+      <DefaultText>從金屬工藝的品質判斷，這個盒式項鏈墜與市場小攤上出售的其他飾品相比並沒有什麼出眾之處，或許只是稍微精美了那麼一點點。只有它微微嗡鳴著的力量能表明它與眾不同。打開搭扣可以看到一個分成相同兩部分的小盒子。左邊是泰恩眨眼咬舌頭的簡易肖像。右邊是微小的字跡，寫道：&lt;i&gt;致我最好的朋友[Player Name]。大法師泰恩。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5777</ID>
+      <DefaultText>「費西娜：
+
+抱歉沒有當面和你談這件事，但我認為避免面談更為妥當。今天標誌著你學徒生涯的最後一天。
+
+你堅持了下來，並成為了一名潛力無限的法師。你自作主張地讀了你無權讀的書，學了超過你能力範圍的法術，甚至發起了短暫的妖精暴動來對付我。（你以為我不知道是你幹的嗎？）
+
+這些事令我對你取得的進步很滿意。真正的法師不需要徵求他人的允許，也不會受死板的權力結構的束縛。真正的法師是充滿幹勁的懷疑論者和煽動者。即使是大法師，也只有在太平的日子裡才容忍他們強加給自己的議會。
+
+沃艾珥的聖所是你畢業前的最後一次任務。我認為你有能力應對這次的挑戰。
+
+此致，
+~亞柯彌
+
+附言：假如你這次活了下來，就把這封信拿去當推薦信吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5780</ID>
+      <DefaultText>泰恩的混亂飛彈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5781</ID>
+      <DefaultText>沒人知道維羅·普利馬維達里奧給這把劍命名的依據是沉重無比的鉛制劍刃還是其打造者的思鄉之情。
+
+維羅是瓦利亞大帝國伊魯切塔公國的平申斯城裡的傑出刀劍匠。平申斯的貴族對他刀劍的品質讚不絕口，並不惜重金請他用瓦利亞大帝國最上等的鋼材打造更多精緻典雅的刀劍。
+
+他的作品引起了平申斯的統治者彼得羅·巴爾切薩的注意。此人也是女伯爵莉娜·巴爾切薩的兄弟。女伯爵和彼得羅兩人互相較勁，無論什麼事都會吵起來，比如金錢、名聲、情人。維羅收了彼得羅的預付款，拒收了女伯爵的。女伯爵妒火攻心，把它放逐出了城市。
+
+維羅流浪到了一個又一個國家，但一直沒能找到能像平申斯那樣令它充滿靈感的家。他最後定居在了亡焰列島，並開始打造他最後一把作品：重擔之劍。他從未公開自己是用什麼方法保持鉛刃的鋒利度的，由於他在同一年死於血熱病，此事也將永遠成謎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5782</ID>
+      <DefaultText>艾歐拉的歷史，第三卷：空嬰的誕生</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5783</ID>
+      <DefaultText>「他的父母給他取名叫格蘭溫，他晚上睡得很香，從他出生那天起的每晚都如此。他從不哭鬧，只是無論身邊的世界如何變化，他總是雙目無神的凝視著前方。
+
+格蘭溫沒有兄弟姐妹，也永遠不會有。當鄰居們一個接一個地生下症狀類似的嬰兒時，他們罵格蘭溫的父母為喪門星。他們被埋在了鎮廣場上，伴隨著那一季的第一場雪，格蘭溫也被遺棄在了山腳下。
+
+當然，空嬰並沒有因此而停止出現。十五年來，沒有什麼能阻止空嬰危機。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5784</ID>
+      <DefaultText>「……可樹妖和魂珀妖無法達成一致。他們悄無聲息地發起了內戰，而殖民地的農場變成了戰場前線。魂珀妖用一種深林裡土生土長的螨蟲感染了聚鹿的紫金草作物。殖民地居民以為自己遭到了領地意識極強的樹妖的攻擊，於是把村莊周圍的樹林砍伐一空以示報復。而不甘示弱的樹妖則抽走了瓦利亞定居點地下含水層裡的水分……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5787</ID>
+      <DefaultText>艾歐拉的歷史，第四卷：瑞德賽拉斯的建立</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5795</ID>
+      <DefaultText>艾歐拉的歷史，第一卷：瓦利亞大帝國的覆滅</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5805</ID>
+      <DefaultText>「……英格維仙無法忍受競爭對手，更無法忍受敵人。而北部山谷的絨精帝國，既是他們的競爭對手，又是他們的敵人。絨精帝國位於英格維仙的版圖邊緣。僅僅是這個帝國的存在本身，就已經讓英格維仙人感到了屈辱。更糟糕的是，絨精尊崇公共主義，他們沒有採取階層分明的社會結構，而且相信萬物皆有靈魂。而英格維仙人尊崇個人主義，他們維護階級分明的社會地位，遵守宗教教團嚴格的教條。絨精帝國的一切，都與英格維仙人格格不入……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5806</ID>
+      <DefaultText>艾歐拉的歷史，第五卷：神聖絨精帝國</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5807</ID>
+      <DefaultText>「英格維仙並不是唯一的帝國，也不是最古老的帝國，但它卻是整個世界最冷酷無情的帝國。自眾神創造艾歐拉時起，艾歐拉就見證過這片大陸上的無數歷史。那些歷史與英格維仙的歷史截然不同。它們並非包裹在魂珀與銅線組成的機械裡，而是在史詩般的歌謠與頌唱聲中，那是基斯從未聽過的歌聲。
+
+敞開你的耳朵，聆聽曠野之中的耳語，你就會聽到食人魔女皇與蛛人聚落的故事。伸出你的舌頭，你就會嘗到蜥人們的美味手藝。蜥人的城市目不可見，卻延伸到地平線的彼端。
+
+睜大眼睛，你就能看到一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5808</ID>
+      <DefaultText>艾歐拉的歷史，第六卷：魔物的歷史</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5809</ID>
+      <DefaultText>「兩大帝國的代表與第三帝國的代表正式會晤。耶祖哈、英格維仙與烏凱佐三方達成了協議：烏凱佐向英格維仙提供用來研究的場所，以此換取權力和土地；而耶祖哈允許英格維仙人散播他們的信仰，以此換取強大的士兵。於是，烏凱佐征服了亡焰列島，耶祖哈人征服了耶赦，而英格維仙也由此成為了他們的同謀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5810</ID>
+      <DefaultText>艾歐拉的歷史，第七卷：三巨頭協議</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5811</ID>
+      <DefaultText>「所有的生物最終都不過是兩個因素：靈魂與命種。命種會長大成為軀體，從而容納靈魂。越強大的靈魂，也會擁有越強大的軀體。哪怕是神明，也需要凡體才能在凡世中行動。
+
+雖然我們無法創造靈魂，但我們卻可以操縱靈魂。我們可以將靈魂融在一起，將它們砸碎，再將它們縫在一起，往復無盡。但我們的軀體卻沒辦法不斷成長，直到足以容納神明的靈魂，除非我們能創造出合適的命種。
+
+可是，你該如何讓某個物體明白它的存在目的呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5812</ID>
+      <DefaultText>艾歐拉的歷史，第八卷：建造巨神泰坦</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5813</ID>
+      <DefaultText>「早在基斯創造出『時間』這個概念之前，在基斯發現數學與建築學之前，在某個陡峭山谷的底部，有一支與世隔絕的牧羊人部落。他們在懸崖峭壁上的山洞中安家。當夕陽西下時，他們會看著群星在漆黑的虛空中穿梭。通過觀察，他們發展出了某個關於萬物本源的理論。隨後，他們便開始著手實踐這個理論。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5814</ID>
+      <DefaultText>艾歐拉的歷史，第九卷：英格維仙的誕生</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5815</ID>
+      <DefaultText>「……很快，克雷圖斯就自詡為努亞最著名的顧問，開始著手從內部搗毀英格維仙。他的謊言讓英格維仙的權貴們互相傾軋，他的造假破壞了整整十年的貿易談判。
+
+通過散播不和，他本有利可圖，但他並沒有把這些錢放進自己的腰包。想法，他把這些錢偷偷地散發給了勞苦大眾。最終，他的背叛行為被人發現，行刑者將他幾乎折磨致死。在他即將喪命之時，審判者們給了他一個機會：要麼他將全部技藝獻給他曾經打算消滅的敵人，要麼他將死在教堂審判者的手中。
+
+而克雷圖斯選擇了苟活——至少，他活了那麼一陣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5816</ID>
+      <DefaultText>艾歐拉的歷史，第十卷：化身為司坎之人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5817</ID>
+      <DefaultText>郎歌世的圖騰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5818</ID>
+      <DefaultText>這個石面小圖騰是大法師郎歌世送給你的禮物。它拿在手上非常輕，表面也非常溫暖，就像裡面有煤塊在加熱它一樣。它的底部刻著岩石守護者打結的部落標記，還刻著「glasanamfath」這個詞。
+
+當你把它貼在臉頰邊時，你會感覺到一陣短暫的記憶。在記憶中，你捲縮在一顆古老的橡樹之下，周圍是咆哮的狂風暴雨。你的本能告訴你，那時的你身處艾爾·格蘭芬瑟叢林深處，而且你很安全。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5819</ID>
+      <DefaultText>昴拉的貪婪觸手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5820</ID>
+      <DefaultText>日誌：實驗體K-1121沒收的財物</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5821</ID>
+      <DefaultText>「物品已移除並記錄在案：
+一本書（魔典）。
+一支小型望遠鏡，已破損。
+各種分類的散裝茶葉。」
+
+在那之後，還寫著一段顫顫巍巍的字跡：
+
+「當我們把實驗體K-1121的魔典拿到樓下之後，這本魔典的反應變得不可預料（確實如此）。在過去的幾個小時裡，我看到魔典上的符文與字跡一點一點消失。
+
+奇怪的是，當我把這本魔典放在沃艾珥的祈禱室東邊的神龕中之後，它似乎變得更有生機了。建議對目標進行進一步觀察。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5822</ID>
+      <DefaultText>貝卡納的天空魔典</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5823</ID>
+      <DefaultText>把這本魔典放在星光之下後，它上面的符文與字跡恢復了原樣。不過它的內容經過了複雜的加密，大部分內容依然難以辨認。
+
+封面上的書籤寫著短短的這樣一句話：
+
+「如果你見到了這本書，請把它還給貝卡納，他會獎賞你的。謝謝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5824</ID>
+      <DefaultText>泰因的混亂魔球卷軸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5825</ID>
+      <DefaultText>該法術以古怪的聚鹿法師泰因命名，混亂無序的魔球在數個敵人間不斷彈射，造成傷害與的同時會附加包括石化、麻痺、虛弱、噁心、震懾和目盲在內的各種減益狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5826</ID>
+      <DefaultText>管理人長袍</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5827</ID>
+      <DefaultText>來自先知的請求</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5828</ID>
+      <DefaultText>「先知要求我再給它帶一批魚人蛋進行研究，我開始明白它對魚人感興趣的原因了。哪怕是最平淡無奇的魚人，在胚胎狀態下也具有極強的適應能力。它們的蛋上面有許多氣孔，這讓它們的身體最終能夠適應孵化的環境。而先知對這種&lt;i&gt;創造性&lt;/i&gt;的環境很感興趣。
+
+相比之下，它對基斯生物體構造的興趣就要小多了。和我們的心智相比，我們的身體沒什麼可塑性。如果把黏土拉得太長，它就會裂開。對我們來說，這算是個好消息。
+
+我們不同尋常的管家有了個新計劃。既然我瞭解它的興趣和研究領域，我敢保證，它的計劃裡肯定有四條腿，幾排尖牙和一大堆眼球。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5829</ID>
+      <DefaultText>除菌藥膏</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5830</ID>
+      <DefaultText>為沃艾珥緩解煩惱的藥膏。不能塗在眼睛上。不能內服。不能與其它醫療用品混合。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5831</ID>
+      <DefaultText>關於失蹤實驗體的記錄</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5832</ID>
+      <DefaultText>實驗體P-0706逃出了收容措施，正以緩慢的速度前往設施的其它部分。這裡到處都是看不見的菌傘，就算僅僅是從圖書館的一端走到另一端，我們的長袍上也會沾滿孢子。
+
+我已經向上級匯報了這件事情，但我們的圖書館長對此漠不關心。萬一那個&lt;i&gt;東西&lt;/i&gt;跑到限制區域裡去了，我希望她能想起來有誰曾經提醒過她。」
+
+下面寫著潦草的字跡：
+
+「博拉斯不見了。估計是被感染、被吞噬了，也可能更糟。這件事一開始只是讓人煩惱，現在事態已經升級成一場悲劇了。我不打算讓檔案庫的工作人員停止搜索。等到這件事塵埃落定之後，我得負責找個新的圖書館吉祥物。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5833</ID>
+      <DefaultText>關於那個孩子的記錄</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5834</ID>
+      <DefaultText>「我們按照圖書館長的要求，在每張地圖上都篡改了那個孩子故鄉村莊的訊息。雖然對我們的特工而言，這項工作非常繁重，但我們絕對不能對這項公共服務掉以輕心。有些墳塋必須被徹底遺忘。
+
+我們到那裡的時候，那裡是一座鬼城，字面意義上的鬼城。由記憶和想像創造出來的男男女女走在街上，各自忙著各自日常的事情，根本不知道自己已經不在人世。他們來回走著，跨過他們早已腐爛的屍體。
+
+那裡一片死寂，只有音樂的聲音。
+
+我們跟著音樂來到了城中心，看到了那孩子在演奏，她的琴上沾滿了她同胞的鮮血。她說道——確切地說，她唱道——她控制不了自己，她祈求我們讓她停下來。
+
+我們答應了她的請求。
+
+背叛她的信任實在是太低級趣味了，但至少，我們可以把她的力量困在藏品館中。監禁起來，假以時日進行利用。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5835</ID>
+      <DefaultText>關於妖精的記錄</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5836</ID>
+      <DefaultText>「關於這件事情，我沒什麼好跟你說的了。那個嘮叨個不停的大嘴巴，當初你覺得它好玩，你允許它在藏品館裡想去哪就去哪。現在它跑了，你得負責把它抓回來。
+
+你還得找回來那些被偷走的神器。先知早就警告過我們兩次，別把魔法物品放在妖精碰得到的地方。
+
+往好的方面想，我們可以抓住這個機會，在這個洋洋自大的妖精身上測試一下「壓搾」工序。我們也可以趁機練習一下如何制服涅姆諾克，否則等他忠誠的隨從們成長起來，我們就對付不了它們了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5837</ID>
+      <DefaultText>關於真菌生長的擔憂</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5838</ID>
+      <DefaultText>「真菌已經侵入了百重幻境光輝神軀的上層腸道。它對滅除手段有很強的抵抗力。體型較小的真菌可以有效地保護牆上那些粘液狀的黴菌，而且，那些黴菌也都有自己的保護措施。
+
+另外，在黴菌上塗膜防腐藥膏不僅消滅不了它們，還會讓它們表面長出一層耐酸的硬殼。萬一這種混合物侵入了神軀的膽管，那結果恐怕就不怎麼好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5839</ID>
+      <DefaultText>令人遺憾的破壞</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5840</ID>
+      <DefaultText>「按照你的指示，我去見了我們的朋友S先生，並『修改』了他的表格。你的懷疑很正確，他馬上就要發現突破性的進展了——不過，那已經是過去時了。我並不想像這樣破壞一個人的事業，但為了顧全大局，有的島嶼還是別被發現為好。
+
+真是個聰明的傢伙。如果我們想的話，我們也可以把他拉到我們這邊來。不過，如果讓他知道了這件事的話，他可能未必會那麼快地答應。
+
+他的狗還是那麼親人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5841</ID>
+      <DefaultText>信件片段——第1份，共2份</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5842</ID>
+      <DefaultText>這張羊皮紙的不少內容似乎被故意隱去了。
+
+「新兵，
+
+我……你一直……偷竊……被……的東西。……以為……棲息地……的時候……聽不到……口袋裡……嗎？ 偷來的……... 不少……口袋…… 叮噹作響……多……
+
+你……以為……你能……「寶藏」……寒冷的……裡……你……大錯……了……我……沒將……醜事……是因為……給你……讓你……自新。……我失望。
+
+……館長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5843</ID>
+      <DefaultText>信件片段——第2份，共2份</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5844</ID>
+      <DefaultText>這封信上的不少內容似乎被故意隱去了。
+
+「……知道……都在……沒收……你……你在……巡邏……我們……你……的叮噹聲……你……東西……啊，比你……裡……的東西……還……
+
+要是……把你的……藏在……棲息地……那……可就……特錯……之所以……你的……公之於眾……我要……這個機會……改過……別讓……
+
+圖書……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5845</ID>
+      <DefaultText>你的醜事</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5846</ID>
+      <DefaultText>「新兵，
+
+我知道你一直都在偷竊被沒收的東西。你以為你在棲息地巡邏的時候，我們聽不到你口袋裡的叮噹聲嗎？你偷來的東西不少啊，比你口袋裡叮噹作響的東西還要多。
+
+你要是以為，你能把你的「寶藏」藏在寒冷的棲息地裡，那你可就大錯特錯了。我之所以沒將你的醜事公之於眾，是因為我要給你這個機會，讓你改過自新。
+
+別讓我失望。
+
+圖書館長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5847</ID>
+      <DefaultText>關於天界幽靈：來自比靈界更遙遠之處的來訪者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5848</ID>
+      <DefaultText>這本書中記載了與異常天體活動相關的訪談記錄與陳述內容。其中有一頁紙已經捲了邊，上面的一篇文章被人熱情洋溢地畫上了下劃線：
+
+「實驗對象是在流星撞擊之後被送過來的。他們的證詞顯示，他們堅稱在撞擊坑附近見到憤怒的幽靈在四處遊蕩（？）。實驗對像險些逃脫。之後，實現對像向我們抱怨有頭暈、失去記憶和頭疼的症狀。我們的常任鑄魂師證實了我們的猜測，實驗對像以某種粗糙的方式失去了極大量的精粹，就像是被什麼東西咀嚼過一樣。建議將實驗對像永久拘禁在基斯棲息地之中。」
+
+書頁邊緣的空白部分還寫著這樣幾個詞：「有領地意識，飢腸轆轆，自我犧牲？還是通過代理犧牲？」
+
+書頁的下半部分是某位畫師畫出來的流星。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5849</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5850</ID>
+      <DefaultText>天空魔典</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5851</ID>
+      <DefaultText>清理東南部的通道</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5852</ID>
+      <DefaultText>「偉大的無目之面的神軀不斷向南伸展著。你要使用這些裝置進入通道深處。趁神軀將通道填滿之前進去，否則你就要弄傷這偉大的造物了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5853</ID>
+      <DefaultText>艾歐拉的歷史，第十一卷：耶祖哈的復興</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5854</ID>
+      <DefaultText>「他們已經不記得我們了。他們曾經是我們的一員，或者說，我們曾經是他們的一員。在飛昇出現之前，在毀滅降臨之前，在風暴到來之前。如今，我們已經形同陌路，我們已經無法理解彼此之間的問候。
+
+但他們必將記得我們，我們必將記得他們。在我們缺席的那段歲月裡，他們完成的工作也將由我們進行評判。他們應該希望我們會對此感到滿意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5855</ID>
+      <DefaultText>艾歐拉的歷史，第十二卷：開墾盎然之地</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5856</ID>
+      <DefaultText>「忠貞不二的軍隊離開了聚鹿，赫米塞恩的誡言依然迴響在他們耳邊。
+
+不要讓那片法外之地的粗鄙野人繼續在痛苦中掙扎了，讓往昔與永恆的女皇澤披蒼生吧！從野蠻中拯救他們，讓他們加入我們的文明之中吧。用不了多久，他們就會為新的虔誠得到應有的回報。
+
+』這是你們女皇的命令，也是我的命令：承擔起帝國的責任，將他們從他們的生活中解放出來。』」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5857</ID>
+      <DefaultText>艾歐拉的歷史，第十三卷：最後的冰河時代</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5858</ID>
+      <DefaultText>「……於是，維特瑪德就成了睿姆岡用來呼吸的巨口。這隻野獸吞噬了亡焰列島上的無數靈魂，它吐出的冰寒之息席捲了本來溫暖的亡焰列島。三個月後，涅克塔卡便被封在了寒冰之中。六個月後，烏凱佐便消失在了冰雪之下……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5859</ID>
+      <DefaultText>艾歐拉的歷史，第十四卷：神嗣的消失</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5860</ID>
+      <DefaultText>「……幾萬名火冠者跪伏在地，在他們的力量支撐之下，瑪珈嵐從空中降下了煉獄之火；昂德拉最愛的子民們化身成了滔天巨浪，吞沒了努瓦泰和伽拉溫的子嗣們……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5861</ID>
+      <DefaultText>艾歐拉的歷史，第十五卷：娥狄卡的王座</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5862</ID>
+      <DefaultText>「……她的王座由英格維仙的碎片，以及從恐懼化成的結晶構成。它超越了現世、超越了暗空、超越了靈界。每個人都被迫跪伏在它之下。他們祈求她，每個人都在祈求她，包括曾經的神祇以及信徒們，但他們得到的只有死亡。對於她的祈求者，只有死亡與重生的命運……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5863</ID>
+      <DefaultText>艾歐拉的歷史，第十六卷：諸神的黃昏</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5864</ID>
+      <DefaultText>「……在最後的寂靜中，某個聲音從虛無中傳來。『有人嗎？』那個聲音問道，然而卻沒人能回答他。在寂靜之中，陣陣幽風吹奏起新的旋律。這旋律無人知曉，在虛無中不斷迴盪。虛空中沒有回應，只有一句低語，以及某個詞語的開端。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5865</ID>
+      <DefaultText>試試斬畜刀吧！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5866</ID>
+      <DefaultText>致[Player Name]，[Player Ship]的船長。
+
+我知道你在想什麼：&lt;i&gt;我這裡有太多可愛的貓、狗、豬、鳥，還有豬，太多了。&lt;/i&gt;
+
+和你一樣，我以前也以為我能收養所有流浪的寵物，照顧它們的需要，對它們都投以同等程度的熱情。但我們能力著實有限，我們只能傳播有限的愛！這真是太不愉悅、太不公平、太不幸了。
+
+因此，我決定靠自己的力量來優化我的情感，減少我對各種動物的關心。所以我推薦你試試斬畜刀！
+
+這把刀是我從英格維仙的採掘場中挖出來的，我恢復了它曾經的功能。這把刀非常便捷，也不會帶來什麼道德問題。只要朝你最喜歡的小貓咪一刀砍下去，剩下的事情交給它就行了。
+
+它最出色的地方我還沒跟你說呢！我跟你說，&lt;i&gt;斬畜刀會記住它砍過的東西。&lt;/i&gt;用它砍了一隻白色的鳥？它能記住。砍了一頭粉色的豬？它也能記住。它甚至能記住你寵物的優點和缺點，還有它們最喜歡拉便便的地方。
+
+等你毛絨絨的小朋友從斬畜刀另一端出來的時候，它和進去的時候可就不一樣了。是的，它會&lt;i&gt;脫胎換骨。&lt;/i&gt;會變得更強！有時候會。這正是斬畜刀有意思的地方。&lt;i&gt;合二為一！&lt;/i&gt;你想讓一隻鳥像豬一樣思考嗎？你想讓一隻貓像一隻更厲害、更出色的貓一樣思考嗎？讓斬畜刀幫你吧！
+
+如果你能讓斬畜刀小試身手的話，那你可真是幫了我一個不得了的大忙。只要有人看到你用，大家就都想試試這東西了！我把它藏在黑暗櫥櫃盡頭的牆上了，就在涅克塔卡的佩瑞琪之望那裡。只要去那堆木頭的西邊，就能找到這把斬畜刀了。
+
+~你的朋友兼動物愛好者。
+
+註：我修了一下它的刀架，這樣它就不能切絨精了，而且擦洗起來也更容易。不用感謝我！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5867</ID>
+      <DefaultText>手寫的便條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5868</ID>
+      <DefaultText>&lt;i&gt;掌秘人把我變得不再是我。我不知道還能怎麼說。我其中的一部分，那曾經的我，他消失了，消失在了咆哮的巨口之中。
+
+他們還在那裡嗎？我能把他們找回來嗎？還是說，他已經被帶到了無人知曉的深淵之中？&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5869</ID>
+      <DefaultText>短便條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5870</ID>
+      <DefaultText>&lt;i&gt;我願意為了一杯薩科酒割斷我媽的喉嚨，可惜她早在一百年前就死了。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5871</ID>
+      <DefaultText>認真寫下的便條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5872</ID>
+      <DefaultText>&lt;i&gt;當我回憶起聚鹿的時候，就像回憶夢境一樣。波光粼粼的水面上閃爍著明亮的光芒。閃閃發光的教堂，高聳入雲的巨樹。
+
+所有的印象都已變得模糊。
+
+以前也是這個樣子嗎？除了我們自己編造出來的故事之外，我們真的能清晰地記住任何事情嗎？
+
+還是說，掌秘人把我對家鄉的記憶也抹除了？&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5873</ID>
+      <DefaultText>顫抖寫下的便條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5874</ID>
+      <DefaultText>&lt;i&gt;我越是看著這個地方，就越是不理解這個地方。我並不是理解不了精確的結果，那些東西容易理解，太容易理解了。
+
+沃艾珥保守秘密，但會加以歪曲。然而，這些大廳裡的一切都井井有條，井然有序，一塵不染。
+
+這地方絕不是按照沃艾珥的意志建造出來的。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5875</ID>
+      <DefaultText>匆忙潦草的便條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5876</ID>
+      <DefaultText>&lt;i&gt;這地方絕不是沃艾珥的意志。
+這地方絕不是沃艾珥的意志。
+這地方絕不是沃艾珥的意志。
+這地方絕不是沃艾珥的意志。
+這地方絕不是沃艾珥的意志。
+這地方絕不是沃艾珥的意志。
+這地方絕不是沃艾珥的意志。
+這地方絕不是沃艾珥的意志。
+這地方絕不是沃艾珥的意志。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5877</ID>
+      <DefaultText>有污漬的便條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5878</ID>
+      <DefaultText>&lt;i&gt;要想起那個學徒。她有著蜂蜜色的頭髮，和柳葉一樣的耳朵。她的法術犀利而尖刻，非常集中，像細劍的劍刃一樣純粹。
+
+想起她。找到她。你可以信任她。我相信你可以信任她。要相信她，但不要全然盲信。
+
+她叫什麼來著？&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5879</ID>
+      <DefaultText>潦草的便條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5880</ID>
+      <DefaultText>&lt;i&gt;要記住你自己，費歐雷吉。要記住你為掌秘人做出的貢獻。要記住那些人的背叛。
+
+你發現了什麼？保守一個秘密也太多了嗎？&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5881</ID>
+      <DefaultText>匆忙寫下的便條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5882</ID>
+      <DefaultText>&lt;i&gt;這麼多年來，關於議會的事情，我一句都沒有問過！我還以為，一個大法師憑空消失會引起他們的注意呢！
+
+這麼一說的話，上次有人見到席扎爾是什麼時候了？&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5883</ID>
+      <DefaultText>隱藏的便條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5884</ID>
+      <DefaultText>&lt;i&gt;之前，我找到了一把刀。拿著它的感覺非常古怪，就好像我以前從來沒揮過刀一樣。我以前是個騎士，沒錯吧？
+
+我相信我以前是個騎士。
+
+他們是怎麼接受那樣的事情的？那些藏在靈魂深處的事情？
+
+這裡到底是什麼地方？&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5885</ID>
+      <DefaultText>簡短的字條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5886</ID>
+      <DefaultText>&lt;i&gt;我感覺我就像個被立在地上的酒瓶一樣。瓶子裡的酒倒不出來，而是慢慢蒸發掉了。有辦法阻止這種惡化嗎？我該怎麼重新恢復成原來的樣子？&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5887</ID>
+      <DefaultText>揉皺的字條，有標記和更改的痕跡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5888</ID>
+      <DefaultText>&lt;i&gt;它的手就是在這裡誕生的嗎？這真是它原本的樣子嗎？還是說，它的子宮已經癌變了？&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5889</ID>
+      <DefaultText>最近寫下的便條</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5890</ID>
+      <DefaultText>&lt;i&gt;一切都在搖晃。我已經在這裡呆了多久了？太久了，實在是太久了，我以前從未遇到過這種事情。
+
+現在，一切都會在黑暗中移動。一切都在觀察。
+
+有什麼東西變得不一樣了。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5891</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5892</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5893</ID>
+      <DefaultText>博拉斯</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5894</ID>
+      <DefaultText>這位蓬蓬的老人喜歡睡覺，喜歡來自陌生人的好感，喜歡古典悲劇和草藥茶的香味。或許他希望你能幫助他進行研究。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5895</ID>
+      <DefaultText>你的寵物已經變了樣子。儘管它依然忠誠和熱忱，依然緊緊地跟隨著你的腳步，它猛烈而猝然的動作看起來不太尋常，不太自然。或許它依然沒完全適應自身最近的「改變」，也或許它早就見怪不怪了。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5896</ID>
+      <DefaultText>真菌材料</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5897</ID>
+      <DefaultText>一堆黏滑潮濕的苔蘚，上面沾滿了皰囊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5898</ID>
+      <DefaultText>編目記錄：看守者契約</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5899</ID>
+      <DefaultText>&lt;i&gt;這張陳舊的羊皮紙上似乎詳細記錄了檔案庫內一份契約最新的位置。&lt;/i&gt;
+
+「藏品館看守者的協議由於年代久遠而被定為了優先複製的對象。它正等著無手簿記來抄寫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5900</ID>
+      <DefaultText>編目記錄：貝卡納的天空魔典</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5901</ID>
+      <DefaultText>&lt;i&gt;這張沾染菌怪的羊皮紙似乎詳細記錄了檔案庫內一本不同尋常的魔典的最新位置。&lt;/i&gt;
+
+「我們發現最近加入藏品館的作品擁有一本魔典，魔典中記錄了各種各樣的天文學異端邪說，令人擔憂。已將其送回檔案庫的隔離區保管。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5902</ID>
+      <DefaultText>編目記錄：掌秘人的咒語</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5903</ID>
+      <DefaultText>&lt;i&gt;這張發脆的羊皮紙卷軸似乎詳細記錄了檔案庫內新抄寫的書的位置。&lt;/i&gt;
+
+「這十年的&lt;i&gt;咒語&lt;/i&gt;抄寫已完成，時間剛剛好，因為我們借來抄書的志願者剛寫完最後一頁就喪命了。它已被安置在檔案庫內一處合適的地方，可供所有人欣賞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5904</ID>
+      <DefaultText>編目記錄：維護日誌——血肉構裝體控制器</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5905</ID>
+      <DefaultText>&lt;i&gt;這張陳舊的羊皮紙上似乎詳細記錄了檔案庫內一份構裝體使用指南的最新位置&lt;/i&gt;
+
+「圖書館長逮到了一個研讀構裝體控制器指南的看守者。無論如何都不能讓它們接觸到如此先進的技術。已將指南轉移至中央書庫的巡迴圖書館。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5906</ID>
+      <DefaultText>編目記錄：海爾德的回憶錄</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5907</ID>
+      <DefaultText>&lt;i&gt;這張陳舊的羊皮紙上似乎詳細記錄了檔案庫內一本書的最新位置。&lt;/i&gt;
+
+「為了應對高階謀士海爾德最近的休假，她不完整的回憶錄已被轉移至她位於祈禱室的書房內，也將一直存放在該處，直到她寫完回憶錄或有人找到她的屍體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5908</ID>
+      <DefaultText>編目記錄：發亮的手稿</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5909</ID>
+      <DefaultText>&lt;i&gt;這張發脆的羊皮紙卷軸詳細描述的似乎是檔案庫內一份最近獲得的極具價值的手稿。&lt;/i&gt;
+
+「又有一本新的書出現在了這裡。像一隻鍍金的鴿子一樣從深淵裡振翅而上。它們從何而來？牆那頭過來的嗎？可我&lt;i&gt;剛剛&lt;/i&gt;修補好了啟示神廟的窟窿，圖書館長說她已經不再從涅克塔卡的人行道上收集被丟棄的書本了。&lt;i&gt;菌怪&lt;/i&gt;也肯定尚未學會寫字……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5911</ID>
+      <DefaultText>煉金炸藥</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5912</ID>
+      <DefaultText>這個簡單的裝置含有兩個液囊。當液囊被割開之後，裡面的液體就會混合在一起，產生爆炸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5913</ID>
+      <DefaultText>真菌肥料</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5914</ID>
+      <DefaultText>這種肥料是由某種強效殺菌劑調配而來的，用它種出來的蘑菇，絕對會讓你的朋友們羨慕不已。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5915</ID>
+      <DefaultText>配方——神魂顛倒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5916</ID>
+      <DefaultText>「由於持續不斷的尖叫聲，藏品館的新人們一直都只能斷斷續續地睡覺。不過，檔案庫的同事們在卷軸中找到了一種黴菌，調出了一種藥水，從而解決了這個睡覺問題。
+
+我從來都沒睡得這麼沉過。但如果連這些保護品的尖叫聲都叫不醒我們，我們會不會就這麼永遠睡過去了？」
+
+這張配方上還畫著簡單的示意圖。就連妖精都能看得懂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5917</ID>
+      <DefaultText>「那些新來的傢伙們又來了。他們又開始調製危險的興奮劑，讓自己在當班的時候能保持警覺。這次，我發現他們又在壓搾藏品館中的夢魘獸的精粹，我必須盯著他們，親自看看藥劑的效果如何。新的藥劑副作用相當明顯，他們所有人都馬上就睡過去了。隨後，他們就馬上醒過來了，看起來一個個都被嚇得不輕。」
+
+這張配方上還畫著簡單的示意圖。就連妖精都能看得懂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5918</ID>
+      <DefaultText>配方——醒神噩夢</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5919</ID>
+      <DefaultText>神種手稿</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5920</ID>
+      <DefaultText>這份手稿上充滿了複雜的秘法圖表，介紹了某種由銅線、石頭以及一層層附魔塗層組成的複雜裝置，讓人眼花繚亂。
+
+需要一些裝配零件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5921</ID>
+      <DefaultText>提醒：保護財產</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5922</ID>
+      <DefaultText>「這是最後一次提醒，當實驗對像專心聆聽坑裡的音樂時，不要打擾他們。這些可憐的傢伙已經變得對歌聲充滿了保護慾望，任何破壞發聲孔的人都會遭到他們的攻擊。
+
+如果有任何實驗對像在聽音樂的時候清醒過來了，請友善地引導他們返回自己的住處，這樣他們就又可以像其他人一樣變得麻木不仁了。我們想盡可能地降低這個地區的自殺率。
+
+另外，在此通知各位，我們的耳塞已經用光了。在有人回到地上弄來更多耳塞之前，監管人員有權發放熱蠟油。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5923</ID>
+      <DefaultText>解剖學草圖</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5924</ID>
+      <DefaultText>上面沒有署名，只有潦草到完全無法辨認的筆記。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5925</ID>
+      <DefaultText>污損的樂譜</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5927</ID>
+      <DefaultText>鍍金抄本——《不幸至極的芳維亞與貝納特傳》：一出瓦利亞悲劇</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5928</ID>
+      <DefaultText>郎歌世的守護古書</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5929</ID>
+      <DefaultText>你從大法師郎歌世的身體上拿到了這個石面小圖騰。它拿在手上非常輕，表面也非常溫暖，就像裡面有煤塊在加熱它一樣。它的底部刻著岩石守護者打結的部落標記，還刻著「glasanamfath」這個詞。
+
+當你把它貼在臉頰邊時，你會感覺到一陣短暫的記憶。在記憶中，你捲縮在一顆古老的橡樹之下，周圍是咆哮的狂風暴雨。你的本能告訴你，那時的你身處艾爾·格蘭芬瑟叢林深處，而且你很安全。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5930</ID>
+      <DefaultText>從金屬工藝的品質判斷，這個盒式項鏈墜與市場小攤上出售的其他飾品相比並沒有什麼出眾之處，或許只是稍微精美了那麼一點點。只有它微微嗡鳴著的力量能表明它與眾不同。打開搭扣可以看到一個分成相同兩部分的小盒子。右邊是泰恩眨眼咬舌頭的簡易肖像。左邊是微小的字跡，寫道：&lt;i&gt;致我最好的朋友郎郎。你最愛的大法師，泰恩。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

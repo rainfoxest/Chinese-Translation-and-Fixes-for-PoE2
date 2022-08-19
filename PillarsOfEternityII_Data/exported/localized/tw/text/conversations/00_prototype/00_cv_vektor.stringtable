@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_prototype\00_cv_vektor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>128</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「一、一艘船！我得救了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>矮人用抹布為自己扇風。他的臉因使勁而顯得黑亮。汗水浸透了他襯衫上的月牙圖案。 他看著你的眼神就像溺水者看著陸地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我在這裡被困幾個星期了！瓦利亞商行不會派人來。除非……」
+
+他斜眼看你，激動地用破布的一角擦拭眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「他們花錢請我尋找一支探險隊。看來說的就是你們了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「沒有人派我。我自己來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「被困？這可是座有人的島啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我這霉運啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「有何貴幹？能見到友好的面孔真不錯。」他用髒兮兮的抹布擦拭眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你緊張什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「到下午，只有盧亞努回來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我們的船長要趕在風向再次變化前離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「現在這裡的人連提都不會提安納哈魯了。很可疑吧？」他的前額滲出汗珠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「你提到了奈利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「女祭司？她整天活在自己那位魚女神的世界裡。」他加快了扇風的動作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「維克多不是瓦利亞名。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「帕格倫名。搬到共和國之後，我祖父母放棄了遊牧民的生活方式。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「但我看到了尋找定居之處的訴求。這個住處必須安全。」他環顧四周，摸了摸後頸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「我需要補給。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我找到了你們探險隊的殘骸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[把貝莎的書頁給他。]「你們的船長想對部落下黑手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你是說死了嗎？天啦！」他的厚眉警覺地高挑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「若能完成工作，他們在共和國的家人將得到補償。」他懇切地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[向他展示被詛咒的雕像。]「我覺得奈利與他們的死有關。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我會想想辦法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「Cue？不不不，不會是……」他一邊說話，一邊也不忘了瞪大眼睛盯著它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「必須讓盧亞努知道。對，讓他來處理她。」他舔了舔嘴唇，急切地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「謝謝你。」他低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「Cue？你是什麼意思？」他拿走書頁，向後翻。
+
+接著他停下來，一隻手靜靜地懸在髒兮兮的紙上方。
+
+他抬頭望著你，神經質地大笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「別扯了，你不會當真了吧。貝、貝莎只不過是個渴求主管注意的小屁孩。」他額前不停地滲出汗珠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「反正跟我沒關係。我只是廚子。」
+
+維克多拽了拽衣領，脫掉被汗浸透了的圍裙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「但我會確保它交到涅克塔卡的主管手裡。別擔心。」
+
+他不自然地微笑一下，然後迅速地捲好書頁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我本來是要加入的，但我的肚子……不同意。現在他們的預定歸期已經過去幾星期了。我只是個船上廚師，不是什麼搜救隊員！」
+
+他摸摸肚子，面部抽搐了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「出了什麼岔子？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「你這病號好像挺活蹦亂跳的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「事實上音樂和美酒能治療靈魂。」他拍拍心口，面露羞愧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「還有牧師。安納哈魯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「他說我們是來打劫的。他和奈利鼓動村民來對付我們。」他擦了擦從太陽穴處流下來的汗水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「之後，我們睡在船上，並輪流觀望海岸。」 「 除了我。我得休息和恢復。」他咳嗽道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「但沒過幾小時，我們的探子就看到盧亞努和安納哈魯一起不見了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「他們去了什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「我不知道啊！我只聽說他們離開村子了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「村子裡沒有來過人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「即便如此，他們也沒設法讓安納哈魯緩和下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「的確。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「也許我該為他們把我撇下而感到慶幸。」他看向別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>最終他還是沒忍住自己啜泣的慾望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「探險隊行動失敗的話，商行就會猶豫是否再派新隊伍了。他們可能會就此收手。」
+
+他長歎一聲，撓撓頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「我必須看著貿易站的補給品。你會來看我的對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「太好了！來得正是時候！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[撒謊]「商行派我來的。匯報情況吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[撒謊]「抱歉。不知道你在說什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「地平線上沒有同船船員的蹤跡。」
+
+他歎氣道，接著用力拽了一下胸前的衣服。布料反彈回去，在他胸口發出「砰」的一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「她躲在那尊可怕的雕像旁邊。我不敢看她那詭異的面容，你敢的話可以去聊聊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「求你不要提到這件事。沒了盧亞努，誰來保護我們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「你我最好還是別捲入。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「聖母海麗婭，別讓我死在這裡呀！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「主管很快就將派補給、鑄魂師和士兵過來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「除非……你船上還有房間？」「他看著你，捏捏指節。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「主管很快就將派一艘船來接走剩下的所有補給……以及我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「[Player Ship]正缺一名廚師。你難道想留在這裡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「你要能把我從這個垃圾場帶走，我跟你的船簽賣身契都行。」他歎了口氣，把抹布塞進口袋裡。</DefaultText>
+      <FemaleText>「朋友，無論如何別再把我晾在沙灘上了」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「他毛還沒長齊呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「商行不可能把他們的計劃告訴維克多。而我能肯定他是對的。很明顯，貝莎是單獨行動的，她沒有接到商行的命令。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「我可是聽說某人想洗個柯基果汁澡呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「聽上去真是一身腥啊。我指的不是魚腥。」
+
+裘荻交叉著雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「沒有羞恥心的廚師做的早飯也不怎麼樣。」
+
+泰克胡雙手抱胸，瞇著眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「那你得燒點拿手好菜向咱們證明一下呀。」
+
+
+
+艾德爾環顧四周，尋求支援。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「不是你的錯，也與你無關。老調重彈了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「我會注意的。也許他們找到了有意思的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「我猜商行願意花錢買探險隊的消息吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「我還有其他問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「抱歉，我出神了。很少見到本地人穿得這麼……整齊。」他上下打量著麥婭——主要是打量上半身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「啊……沒什麼。怎麼了？」他緊緊地攥著布，皺起眉頭後退。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「支付是商行的常用手段。他們買自己沒有的東西下手很快。」
+
+他點點頭，發紅的眼睛透出釋然的神情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「感謝，這下有希望了。」他歎息道，僵硬地鞠了一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「你會……找他們？謝謝你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「願你的船員能歸來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「好。要是有不怕死的，商行給的錢管夠。」
+
+他歎歎氣，用布蓋著肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「你來了，那我可以指望他們也能安全歸來了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「嗨，他們派你來的時候沒解釋？」他撅起嘴來，對此事置之不理。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>他緊張地嚥了口口水，然後掃了一眼沉寂而動盪的村子。他的目光突然從一間茅草屋移向別處，就好像他預料到有不可言狀的恐怖事件要發生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「你好啊，在這麼不友好的屋子裡能遇見熟人真棒！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「哎，總算得救了！」他面色凝重地歎息著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「這也能叫住下來了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「阿爾瓦瑞總督打算告訴你我們在波格科哈拉搜尋光魂珀嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「我還留在這裡的唯一原因是我的同船船員們都去波格科哈拉搜尋光魂珀了。」他把袖子上的一隻昆蟲拍掉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>[順著他的視線看看他的目標。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「哎！我操！這可不是開玩笑！」
+
+他的尖叫惹來幾個村民的關注。他瞪著你喘粗氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>他沒有特意盯著什麼東西看，而每有一個列島海裔靠近，他就顯得愈發緊張。 他向後退縮並清清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「我懷疑當地酋長盧亞努故意給貝莎船長和船員們指錯路。」他為手中的破布打結並用力拽它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「他為什麼要這樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「這樣會讓馬塔魯蒙羞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「我為什麼非得在這片鯊魚滋生的水域中尋求邏輯呢？」他揮動著破布，就像在搖手帕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「船長出發前，盧亞努是最後一個與她對話的人。他蹲在市場東北角的小屋裡。」 他衝著一艘被摧毀的船殼點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「『馬塔魯』這個詞，是詛咒嗎？我聽到很多島民念叨它。」他眉頭緊鎖，努力讓自己不去想此事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「又有個你這樣的人？這座島已經餵不飽現有的人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「比路癡矮人還不尋常嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「我們在提卡瓦拉登陸時，酋長為我們舉辦了公爵檔次的歡慶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「我們大塊吃肉、大口喝酒、大步跳舞，然後睡覺恢復體力，接著繼續尋歡作樂。」他臉上有微笑一閃而過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「船長應該要回來的。我們在危險水域游了泳，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「你合格了，因為我喜歡這句。」麥婭叉起雙手咧嘴笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「除了生活必需品，其他都被船長留下了。我靠跟村民交易來維持生計。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「打擾了，我快沒酒了。」他衝你淺淺一笑，然後炫耀自己的貨物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「你說什麼來著？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「沒什麼，問吧。」他搓了搓眉毛，等待著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「被困住風和日麗的島上？好可怕喲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「對，你懂的。」他用力點頭以示立場。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[衝他耳旁施放一道魔法火花。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「但願她沒買這條消息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「應該不會。為了在我們船長面前拔份，酋長甚至願意拿我們的皮來縫船帆。」他聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「打擾了。這個部落讓我忍無可忍。」他擦擦自己的脖子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>他嚥了口口水，一臉期待地看著帕蕾吉娜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「說真的，商行的顧慮就是公爵的顧慮，從而也就是&lt;i&gt;我&lt;/i&gt;的顧慮。但我的命令裡不包括救你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「看來諸神與鄉民們都想讓我被困著了。」他頹了，伸出手來摸著眉毛並眺望海面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「也可能是不認路、想給外來者留個好印象呢。」麥婭向伊希薩眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「唉，這地方真糟糕。」他向麥婭皺了皺眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「你為雞毛蒜皮的小事白害怕，維克多。我可沒聽說商行通知探險隊讓&lt;i&gt;廚子&lt;/i&gt;為成敗負責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「貝莎船長總說廚師是士氣的關鍵！所有船員的命運與每道菜息息相關，我能不緊張嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「知道你的重心還放在商行這邊，我很高興。」
+
+她暗色的眼瞼垂在金色的眼睛上，然後看著一身汗的矮人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「告、告訴船長！是她的主意！」他舉起雙手後退了一步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「你不是來打劫的嗎？好吧，我誤會了你的任務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>他從泰克胡身邊向後退，警覺地瞪大眼睛，然後清了清喉嚨轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

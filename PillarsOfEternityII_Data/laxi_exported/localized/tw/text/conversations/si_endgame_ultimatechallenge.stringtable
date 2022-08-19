@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_endgame_ultimatechallenge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你周圍的空氣中充滿了令人窒息的瘴霧。你扼住自己的喉嚨想喘氣，但完全沒有好轉。前方有個熟悉的身影逐漸清晰——那輪廓是蒼白騎士。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>她搖搖頭，將一隻蒼白的手伸入你的胸膛。一波波反對與未完之事的感覺讓你體內充滿了冰冷的絕望。
+
+她有什麼想要的東西。某項至關重要的使命。是什麼？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>你死去的時候不斷喃喃自語著這個問題。然後你停了下來。你的靈魂已經從身體裡飄離，似乎答案也並不重要了。再沒有什麼重要的了。放手一切比你想像得要容易許多。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

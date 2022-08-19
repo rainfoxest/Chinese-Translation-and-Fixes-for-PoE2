@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_plague_ship_dead_tiny</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一陣敲門聲打斷了你的閱讀。
+
+[Specified 1]站在門外，看起來像是打賭輸了被逼過來的。「船長，你最好來上面一趟。海平面上有艘船，看上去像是艘棄船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「準備好大炮。把那東西送進海底。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我要去那艘船上看一看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「繼續我們自己的航線。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>炮手們準備火炮的時候[Specified 0]詠唱了一段月神教的悼曲。隨著愈發響亮的歌聲[Player Ship]向水面上的棄船發射了一連串炮彈。
+
+當遠方的船隻消失在了海淵深處，船員們帶著安靜的愉悅之情回到了工作崗位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>雖然說費了點功夫，但是你還是在清除障礙物之後成功打開了船艙。黑壓壓的一大群蒼蠅隨著爛肉的味道衝了出來。
+
+你在船艙中發現了好幾具屍體。大部分屍體身上都穿著瑞德賽農夫的樸素衣物，但是其中有一具身上穿著鎧甲-看來是一名聖武士。
+
+在搜索了一段時間之後，你找到了一桶封口完好的瀝青，幾籃子鐵釘和能夠用來縫補船帆的大量帆布。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你的水手們散去了，回到崗位上的時候都緊張嘀咕著祈禱語。你注意到有人朝外扔了幾枚硬幣，看來是想要安撫昂德拉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>可疑船隻漂浮在波浪之上，船帆已經收了起來。桅桿上面飄著一面綠旗-這艘船上有瘟疫。
+
+它的甲板上沒有任何動靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 1]將你帶上了船首，幾個水手聚在了那裡。
+
+比劃著避邪符號的[Specified 0]指了指左舷。「這是凶兆，船長。我們應該把他們留給哀歌女士，否則要出事啊。」
+
+[Specified 2]笑了出來。「我們都不知道他們死了沒有，更不知道他們的船艙裡面有什麼東西，你就準備直接擊沉他們了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>帕蕾吉娜瞟向了遠方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「沒有人發信號。那艘船的人應該都已經沒救了。」[Specified 3]眉頭緊皺。
+
+「船長，那艘船是個問題，而且這個問題不止會影響到碰到他們的人。我不是說想要指手畫腳，但是我建議你在有人發癲想要登上那艘船之前就把那東西給擊沉掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「遵命，船長，」[Specified 1]嚴肅地接受了命令之後就跑去準備登陸船了。
+
+你劃向了棄船，將小艇綁好之後等了一會，除了木頭的咯吱聲與海浪的拍打聲之外什麼動靜也沒有。
+
+你爬了上去，第一眼看見的就是穿著樸素盔甲躺在中層甲板的兩具屍體。屍體身上僅存的一些萎縮的血肉掛在了骨頭上面，陽光已經將頭顱上露出來的部分曬的蠟白。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[進入船艙。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[回自己船上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你回去的時候船員們幫你處理好了小船，但是他們都與你保持了一段距離。有些人在臉上綁了布條。
+
+[Specified 0]咕噥了一句祈禱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>一陣敲門聲打斷了你的閱讀。
+
+[Specified 1]站在門外，看起來像是打賭輸了被逼過來的。「船長，你最好來上面一趟。海平面上有艘船，看上去像是艘棄船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你拿出了望遠鏡觀察棄船。甲板上沒有任何動靜，你發現船首有一具四肢張開的屍體。仔細觀察了一會兒之後你在船尾又發現一具屍體。
+
+你看見代表瘟疫的信標下面掛著一面繪有敞開門廊中點燃的蠟燭的旗幟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你意識到這是友善旅人的標誌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[詢問船上醫師。]「[Specified 3]，你怎麼看？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你希望這代表在船上肆虐的東西已經消散。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>主甲板上只剩下了散落破碎的船帆，你發現船艙門被堵住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>棄船上的船員們在這件事情上做的很好。縱使你用盡全身力氣，你也沒能打開艙門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>好幾名水手帶著懷疑的表情看著。
+
+[Specified 2]搖了搖頭，笑了。「我得說我們的船長膽子還是有的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「準備好大炮。把那東西送進海底。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「如果那裡還有活人的話，我就得去嘗試幫助他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「在我做出決定之前我需要好好考慮所有細節。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「嘿，說不定那裡有什麼值錢的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「別廢話了，快點幹活！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「小小瘟疫而已，有什麼好怕的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 2]聳聳肩，歎了口氣，但[Specified 1]讚許地點起了頭。
+
+「真是個明智的決定，你一向如此，船長。」
+
+船員們遠遠地繞開了疫病橫行的船，直到那艘船消失在地平線的另一端。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「那些是友善旅人的旗幟。如果旗幟是真的，他們肯定寧願把船給鑿沉了也不會冒險將瘟疫散播給其他人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>她低頭看著甲板，眼裡面出現了一種少見的悲傷感</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>塞拉芬對[Specified 2]搖起了頭。「[Specified 1]怕不是在放屁吧。雖然不知道這些人是不是病死的，但海上的棄船裡，不總是只有麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[炸開艙門，強行進入。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>集中精神冥想一陣子之後，你射出了一道勢不可當的能量波，將艙門炸得粉碎。一大群蒼蠅飛了出來，甲板上一時到處都是黑壓壓的一片。
+
+你走下了船梯……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>靜靜地詠唱了幾句咒文之後，[Specified 5]射出了一道勢不可當的能量波，將艙門炸得粉碎。一大群蒼蠅飛了出來，甲板一時到處都是蒼蠅。
+
+你走下了船梯……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你在船艙裡發現了幾具橫七豎八的屍體。絕大多數屍體都穿著瑞德賽農夫的粗衣，但其中一具屍體身上穿著盔甲。他的腰帶引起了你的注意，你小心翼翼地把它從屍身上解了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「啥？我們可壓根沒有炮彈。」
+
+[Specified 2]咳嗽道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「先生。」</DefaultText>
+      <FemaleText>「女士。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>搜索了一段時間之後，你找到了一桶封口完好的瀝青、幾籃子鐵釘，還有能夠用來縫補船帆的大量帆布。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「多麼殘酷的命運。瘟疫沒有憐憫之心。」
+
+帕蕾吉娜金色的眼睛來回掃視著一具具聖武士的屍體，端詳著他們的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「不管是人還是莊稼，生病總是難免的。這我很清楚。但這並不意味著我喜歡生病。」
+
+裘荻在屍體上方晃了晃燈籠，迅速完成了收割。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「雖然不知道是什麼要了他們的命，但我希望那些東西已經散掉了。」亞洛斯用袖子緊緊地摀住了嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你在船艙裡發現了幾具橫七豎八的屍體。大部分屍體身上都穿著瑞德賽農夫的樸素衣物，但是其中有一具身上穿著鎧甲——看來是一名聖武士。
+
+在搜索了一段時間之後，你找到了一桶封口完好的瀝青，幾籃子鐵釘和能夠用來縫補船帆的大量帆布。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>雖說費了點功夫，但是[Specified 5]還是在清除障礙物之後成功打開了船艙。伴著爛肉的味道，黑壓壓的一大群蒼蠅衝了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

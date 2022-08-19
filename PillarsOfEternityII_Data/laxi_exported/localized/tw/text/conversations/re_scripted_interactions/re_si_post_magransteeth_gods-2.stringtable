@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_post_magransteeth_gods-2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>「這聽起來不像是我認識的眾神中的中立女王。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>[拍拍娥狄卡被燒燬的書封面，示意你之後再說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>一股熱浪向你襲來，緊接著是一陣鹹濕的海風。神聖之音轟然鳴響。其話音之力讓你腳下的平台不停抖動，甚至周圍的空氣都震顫不已。
+
+眾神在戰鬥。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

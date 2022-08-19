@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_cp_qst_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>隱藏深淵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在無形大廳內與郎歌世交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>跟著郎歌世。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;大法師郎歌世&lt;/b&gt;來到了我的船上，提醒我&lt;b&gt;黑島&lt;/b&gt;可能即將面臨一場災禍。她請求我幫助她尋找大法師&lt;b&gt;昴拉&lt;/b&gt;，昴拉一直在尋找阻止俄撒斯的方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>郎歌世在&lt;b&gt;無形大廳&lt;/b&gt;中等著我。那裡是黑島上的一處遺跡，就在&lt;b&gt;提卡瓦拉的正南邊&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>郎歌世進入了&lt;b&gt;無形大廳下方&lt;/b&gt;某個剛剛打開的房間。她要求我與她同行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我和郎歌世一起進入了啟示神廟。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\generic\00_cv_backer_beta_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>您在提卡瓦拉島上上了岸，這裡是胡亞納部落民的領地。他們最近接待了一批來自瓦利亞商行的探險隊，這些探險隊員打算前往一片可能埋藏著大量光魂珀的挖掘場。
+
+您為何來到亡焰列島？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「瓦利亞商行雇我去尋找失蹤的探險隊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「亡焰皇家商行命令我不惜採取一切手段，破壞瓦利亞商行的探險行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我當時在海上航行，有個水手突然喊了起來：『快看，是陸地！』」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你很清楚，在這場孜孜不倦的光魂珀熱潮中，你們探險隊的目的地是一處叫做波格科哈拉的遺跡。
+
+遺跡的位置依然是個謎。而你跟著探險隊，來到了小島上這個並不起眼的聚落之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你很清楚，瓦利亞人朝著一處叫做波格科哈拉的未知遺跡前進。
+
+追上他們並不是件容易的事情，但你已經抵達了他們前往遺跡之前，最後一處已知的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>您是一位獨立的探險家，不屬於亡焰列島上的任何勢力。您想對誰效忠，就可以對誰效忠。
+
+儘管您對當地的紛爭並不怎麼關心，但依然為時不晚。您可以選擇是為了正義而戰，還是為了利益而戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「和我說說都有哪些勢力要打交道吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「光魂珀是什麼東西？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我要開始遊戲了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>瓦利亞商行是由一群商人與銀行家結成的組織。只要是瓦利亞商行勢力擴展的地區，他們就會無情地進行壟斷貿易。商行戰備精良，而且得到了執政公爵們的批准支援。為了振興瓦利亞共和國，商行官員們不惜採取任何手段。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>亡焰皇家商行是努瓦泰艦隊的衍生物。他們的目標是，趕在整個亡焰列島被野心勃勃的瓦利亞人佔領之前，盡可能地擴張帝國的領土。為了祖國的利益，努瓦泰殖民者投入了大量金錢和兵力，前往開拓荒蠻的邊境地帶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>胡亞納人已經在亡焰列島上生活了幾千年了。他們的部落社會採取了種姓制度，不同的種姓擁有者不同的社會分工與生存法則。很久以前，一部分胡亞納人離開了部落，漸漸成為了努瓦泰人。大概在同一時間，胡亞納文明發生了一場大災變，無數胡亞納人的城市被夷為平地，曾經興旺的文明也毀於一旦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>魂珀是艾歐拉中心地區出產的礦物質。這種物質會從地下破土而出，看起來和矗立的巨石沒什麼區別。
+
+魂珀可以將靈魂從亡者世界的中轉站（即暗空）抽取出來，指引它們進入靈界。由於這種特質，它可以用來儲存靈魂精粹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>光魂珀由於蘊含著極為豐富的靈魂精粹，會發出虛靈般的綠光。
+
+光魂珀不僅對鑄魂師們來說是一種重要的工具，還可以經過開採、研磨、精煉，最終變成一種液態物質。這種液態物質可以塗在皮膚上，大大地提高皮膚活性，讓人看起來變得更加年輕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>光魂珀是亡焰列島的特產。自從人們發現了光魂珀的價值之後，這座群島就變成了無數人競相爭奪的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>這片群島目前一共有三方勢力：瓦利亞商行、亡焰皇家商行與胡亞納人。您也可能會在遊戲中遇到其它勢力。
+
+您想瞭解關於哪個勢力的訊息？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「和我說說關於瓦利亞商行的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「和我說說關於亡焰皇家商行的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「和我說說關於胡亞納人的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>最近，他們的目光集中在了亡焰列島上，打算大肆開採這裡獨一無二的自然資源——光魂珀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>他們意識到了光魂珀的價值，但他們更希望仔細研究它的自然特性，而不是將其掠奪一空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>最近，胡亞納人感覺到了來自各方勢力的壓迫，胡亞納人自己的抱負被扼殺在了搖籃之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我已經不想聽這些勢力的事情了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>您想要瞭解光魂珀嗎？還是想要直接進入遊戲呢？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>如果您想瞭解更多關於亡焰列島上的各個勢力，或是關於光魂珀這種炙手可熱資源的情報，您可以現在好好問一問。
+
+如果不需要的話，就盡情享受遊戲吧！</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

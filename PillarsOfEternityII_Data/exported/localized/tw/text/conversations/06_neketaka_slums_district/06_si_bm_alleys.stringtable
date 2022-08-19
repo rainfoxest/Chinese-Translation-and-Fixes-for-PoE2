@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_si_bm_alleys</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>227</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你進入了散發著尿味和火把煙味的昏暗小巷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你回到了昏暗而骯髒的小巷裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[探索峽口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[前往潛民街。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[前往峽谷。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[前往德理奧的藏身處。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你離開了忙碌喧囂的潛民街，再次遁入了小巷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>一條相當長的通道向你的左側和右側延伸。陰影在忽明忽暗的火光中跳動，不過在這個距離也只能看個大概。
+
+來自峽谷的喧鬧聲在你身後此起彼伏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[右轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>通道逐漸變寬，變成一個出口。
+
+你聽到通道的那頭傳來了峽谷的喧囂聲。數以百計的羅帕魯的叫喊、哀號和大笑聲交織在一起，不絕於耳。垃圾的臭味撲面而來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[離開並前往峽谷。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你在這條隧道裡已走到盡頭，一側的岔路通往另一條隧道。
+
+你只能聽到火把的辟啪聲和持續的水滴聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你在昏暗的通道裡拖著沉重的步伐前進，來到了一處交叉路口。
+
+通道裡一條岔路通向右方。你聽到幽暗通道的遠處傳來連續而低沉的說話聲，但一個人也沒見到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[右轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>小巷在你面前蜿蜒。
+
+你聽到右邊傳來各種喧囂聲，飄來各種各樣的氣味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[右轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你來到一扇門前。這扇門有如周圍的岩石一般堅硬，上面也沒有什麼把手或門洞。
+
+門的那邊是一片死寂。你在門前輕輕叩響，傳來的聲音表明對面是片寬闊空蕩的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你在這條隧道裡已走到盡頭，一側的岔路通往另一條隧道。
+
+你只能聽到火把的辟啪聲和持續的水滴聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[右轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>石製地面上堆滿了魚骨頭和麵包屑，還有各種大小尺寸的腳印。
+
+聲音迴盪在你面前的走廊中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>通道慢慢變寬，變成了一個大洞穴。在你下方，無數破破爛爛的建築物像一顆顆斷牙一樣擠在一起。建築物之間蜿蜒著迷宮一樣的街道，街道寬度勉強足夠兩個人並排通過。
+
+然而一大群人擠滿了狹窄的街道和露天廣場，他們的喧囂聲此起彼伏，成百上千火把的煙裊裊升起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[探索附近區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>石製地面上堆滿了魚骨頭和麵包屑，還有各種大小尺寸的腳印。
+
+聲音迴盪在你背後的走廊中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>小巷在你面前蜿蜒。
+
+你聽到左邊傳來各種喧囂聲，飄來各種各樣的氣味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>隧道裡有一條通向左邊的岔路。
+
+入口處附近的地面上散落著類似瀝青的黑色粘稠物。
+
+看起來像幻葉果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>你左邊是一處陳列著廉價珠寶的貨攤。
+
+道路仍舊通往前方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[檢視貨攤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>你在昏暗的通道裡拖著沉重的步伐前進，來到了一處交叉路口。
+
+通道裡一條岔路通向左方。你聽到幽暗通道的遠處傳來連續而低沉的說話聲，但一個人也沒見到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>你在昏暗的通道裡拖著沉重的步伐前進，來到了一處交叉路口。
+
+通道裡一條岔路通向左方和右方。你聽到遠處傳來連續而低沉的說話聲，但一個人也沒見到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>有幾名守衛出現，雙臂交叉在胸前擋住了你的去路。
+
+其中一人向你腳下狠狠啐了口黑痰。他的齒間捲動著一個深色塞子。
+
+「還是回頭吧，朋友。這裡非請勿入。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>守衛點點頭放你通行，嘴裡還大聲嚼著幻葉果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>通道盡頭有一扇由上等紅木製成的莊嚴大門。透過門上的小縫，你依稀看到火光的影子與光鮮的織物。檀香與肉桂油的溫暖氣味緩緩飄向你。
+
+不管這扇門後面是什麼，肯定都比你迄今為止在峽谷中見過的東西要好上許多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[右轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[進入藏匿處。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[攻擊守衛。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「德理奧派了一名信使來找我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>你旁邊的地板沾染著暗色的痰液。小巷彎向了右邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>你在右側看到了一條隧道的入口。老鼠覺察到了你的靠近，吱吱叫著四散而逃。
+
+你面前的路蜿蜒曲折地通向黑暗中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[右轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你右邊是一處陳列著廉價珠寶的貨攤。
+
+道路仍舊通往前方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>你艱難地在隧道中穿行，旁邊不時有老鼠跑過。你抵達了一處同時向左右眼神的交叉路口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[穿過貨攤後面的簾子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>你沿著隧道前進，突然從黑暗中出現若干戴著兜帽的人。
+
+「別這麼急著走。若想去潛民街，留下買路財。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[攻擊]「過路費我就用武器付吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「瘦子德理奧允許我安全通過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你的視線穿過簾子，看向裡面的隧道。依然通向左右兩邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[右轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>隧道的守衛點頭放你通行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>你繼續前進，腳下粗糙的岩石變成了光滑的鵝卵石。前方的燈裡閃動著黃色的微光，令人心生恐懼。
+
+你面前是一處狹窄洞穴，裡面陰影扭動，並傳來錢幣的叮噹聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[進入潛民街。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[右轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>在這一片漆黑之中，你只能扶著牆繼續前進。
+
+你手摸到了粘稠的東西。你聞到前方飄來惡臭，是內臟的臭味和刺鼻的血腥味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[搜屍體的身。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>你在左側看到了一條隧道的入口。老鼠覺察到了你的靠近，吱吱叫著四散而逃。
+
+在火炬的光亮的照明下，你看到面前的路越來越寬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[右轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>你在死者的口袋裡發現一張便條。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>在隧道的盡頭，你發現一具靠牆癱坐的屍體。屍體的衣服和肉上有刺傷，它的手臂和膝蓋也被人扭得變了形。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>你小心的沿著磨損而不平的階梯往下走，進入了喧囂的人群中。
+
+你周圍是胡亞納族的男人、女人和小孩。笑聲、討價還價聲和爭吵聲不絕於耳。你在人群中注意到了一些外來者的臉——瓦利亞人、聚鹿人甚至還有幾個努瓦泰人。煎魚的香味、沒洗澡的體臭和垃圾堆的惡臭在空氣中混合在一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>你路過一處熙熙攘攘的貨攤，店主將黑酒倒在鑿過的貝殼裡端給客人。你聞到了濃郁的堅果味的酒香。
+
+你聽到身後傳來驚訝的吸氣聲，看到一小群人擠在一起喋喋不休。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>你發現一男一女兩名羅帕魯坐在屋頂上，看著下方的工作動。
+
+他們互相傳遞著煙斗，小聲說著話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>你來到了一條商店林立的街道，周圍是摩肩接踵的人潮。你行動都很勉強。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>你將一切盡收眼底，在人群中前進，什麼也沒發生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[返回峽口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>你轉身向隧道走去，準備離開這座洞穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[繼續探索鄰近區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>你來到一個拐角處，看到一男一女兩個歹徒包圍了一名胡亞納人。此人大肚便便，神情緊張，已背靠牆壁，退無可退。
+
+兩個歹徒向他逼近。「我們來做筆交易。你付我們錢，我們就不傷害你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>但你知道扒手的慣用伎倆。
+
+你將手壓在貴重物品上。一名路人向你擠來，同時你感覺到有一隻手正在伸向你的錢包。你一把抓住小偷的手腕，將這人拽到你的跟前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>你在人群中移動時，感覺到有一隻手在你的腿上摩擦。你伸手一摸，發現錢包裡的錢少了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>一名路人向你擠來，同時你感覺到有一隻手正在伸向你的錢包。但你速度更快。
+
+你抓住了一條纖細的手腕，將盜竊未遂的小偷拽到你跟前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>你面前的是一名胡亞納兒童。她驚恐地睜大雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[威脅孩子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[放孩子走。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[偷孩子的錢。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[教孩子更高明的偷竊技巧。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>她揉著手腕，向後退去。最後，她撒腿就跑，閃避著成年人的長腿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>她一開始十分謹慎，但慢慢靠過來看著你熟練而快速的手部動作。
+
+在你的鼓勵下，她模仿著你靈巧的手法。她學得有模有樣。
+
+她朝你淘氣地一笑以示感謝，然後轉身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>你摘走了孩子腰間的錢包。她伸手想搶回來，但你一把將她推開。
+
+她灰溜溜地離開了，最後沮喪地看了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>你在街上推搡著她前進，罵她是個偷東西的無賴。你警告她別再被你逮到。
+
+你的舉動引起了一小群人的圍觀。他們竊竊私語著，看著那個孩子，紛紛搖頭。在你之前還有別人遇到過這個小賊。
+
+孩子終於站穩腳跟，慌忙地逃走了，一邊跑一邊擦眼淚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>孩子消失在了人群中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>一名男性胡亞納人克制住咳嗽的衝動。他揉了揉赤裸的胸膛，表情因痛苦而扭曲。
+
+「我能怎麼辦？我整天都嚼血苔，但還是越來越糟。」
+
+他的朋友搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>一名年邁的男子搖著頭。「有眼睛的人都看得出來他們建造港口並不是為了我們。而女王居然允許他們在城裡造堡壘！」
+
+他身邊的女人發出嘖嘖聲。「是啊，宮殿太高，她以為自己上了天，都忘乎所以了。」
+
+另一個男人聳聳肩。「至少努瓦泰會把其他外來者趕走。他們給其他部落惹太多麻煩了。然後他們一走了之，把我們趕到這個擁擠的地方。」
+
+其他人都嘟囔著表示贊同。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>三個女人急匆匆地趕著路，懷中抱著洗好的衣物，低聲聊著八卦。
+
+「聽說一名努瓦泰船長看上比哈了！就是那個把伯塔洛丟進舊城的船長……」
+
+「你胡說什麼。她交往的對象是個皇族海盜。」
+
+「你們兩個半斤八兩。地下室的奴隸販子把那個可憐的姑娘抓走了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>一名中年女性拿著一杯黑酒。「……我丈夫的妹妹每天晚上去商行打掃辦公室。她聽到職員的談話。」
+
+和她在一起的男人搖搖頭。「可他們有大船和高樓——」
+
+她吹散了杯中冒出的熱氣。「但他們想維持下去已經很勉強了！他們家鄉的蘭迦十分焦慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>沒等你聽到接下來的話，一大群人就把你沿著街往前擠走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>他焦慮地啃著煙斗的末端。「我的鄰居幾周前在地下室附近消失了。」
+
+她聳聳肩。「那裡向來有走私犯和海盜潛伏。其中有些人當上了奴隸販子。」
+
+他點點頭，抽了一口煙。「所以我才遠離潛民街。那裡壞人太多。」
+
+她伸手去拿煙斗。「是啊，但只有壞人才付錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>你離開了德理奧那裝滿寶貝的藏身處，回到了潮濕通風的隧道中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>峽口在你面前延伸至遠方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「放他走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「識相的就快滾，不然就讓你們知道瘦削男人是怎麼死的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>[繼續走。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>一名歹徒快速扭了扭頭向你致謝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>一名歹徒轉過身來上下打量著你。「不放又如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>兩名暴徒看了一眼彼此。
+
+「還是小心為妙。」
+
+他們向那名得救的胡亞納人最後一次投去警告的眼神，然後快步離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>你邁著沉穩而矯健的步伐，閃身進入峽口，緊追著目標。
+
+你前方的鐵銹咒罵了一聲，並加快腳步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>前方有一處貨攤擋住了去路。它穩穩當當地站著，隨著你不斷靠近，你發現它雖然開裂但依然堅固。鐵銹絲毫沒有放慢疾奔的腳步。
+
+你的目標縱身一躍，穿過了貨攤的簾子。他緊抱雙腿，像一顆出膛的炮彈一樣從貨攤的桌面上空飛掠而過。
+
+一道簾子鉤在了鐵銹身上，從固定處被拽了下來，使他著地時腳底一滑。刺客在平滑的石頭路面上滑行了一段距離，然後猛地右轉，繼續飛奔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>你在鐵銹身後迂迴閃避，到達了一處封閉的岔路口。
+
+刺客拿出一個小玻璃瓶，頭也不回地朝你腳下猛摔。瓶子應聲而碎，琥珀色的煙霧朝你竄上來。短短幾秒，你在這個狹小空間裡就什麼也看不清了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>你已將峽口錯綜複雜的地形爛熟於胸。最近的出口就在你正前方，那裡就是你最直接的逃跑路線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>你在氣味刺鼻的煙霧裡像沒頭蒼蠅一樣跌跌撞撞，等到煙霧變得足夠稀薄時，你看了一眼周圍。
+
+路上空無一人，鐵銹已不見蹤影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[施法清除煙霧。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>你徑直撞向貨攤，木頭斷裂聲如雷鳴。但貨攤的結構比看上去更堅固，而你一個踉蹌跌倒在地，跌得肋骨疼痛難當，同時整個貨攤也被你撞倒。
+
+你用雙手和雙膝爬出這片狼藉，然後站起身，一瘸一拐地繼續追擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>你用手掌支撐桌面以保持身體平衡，輕而易舉地躍過了擺著各種商品的貨攤。你穩當地落地，然後突然右轉，緊跟著目標不放。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>你輕鬆的躍過了貨攤，但在著陸時腳跟一滑，你感覺到腳踝處一陣劇痛。你一瘸一拐地向右急轉，艱難地將目標維持在自己的視野內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>一陣強風及時吹散了煙霧。你發現黑色長袍飄動的卷邊消失在了正前方的走廊裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>你仔細聽漸漸遠去的腳步聲，但除了自己沉重的呼吸聲，什麼都沒聽到。
+
+你無法判斷刺客走了那條路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>你發現鐵銹正在拐進前方的一個拐角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[左轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[前進]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>你在這條隧道裡已走到盡頭，一側的岔路通往另一條隧道。
+
+你只能聽到火把的辟啪聲和持續的水滴聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>[右轉。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>你面前的一扇門砰地一聲關上了。你走近時，門那頭傳來了鐵銹的話音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>[追著鐵銹進入黑暗中。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>小巷逐漸變寬，你來到了峽谷。你的目標已不見蹤影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>他們陷入沉默，只是靜靜地抽著煙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>他抽了一口煙斗，許久才停。「你有沒有再考慮考慮那個提議？」
+
+她在砂礫上畫了一個圖案。「為皇族海盜偷光魂珀粉末比為努瓦泰推火炮好。」
+
+他用鼻子呼出一長串煙霧。「我的表親已經去給他幹活了。說那裡報酬很可觀，支付也很及時。」
+
+她挑去指甲裡的污物。「是峽谷裡最理想的工作。前提是不能被馬塔魯和他們的商人朋友們發現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>她抽了一口煙斗。「昨天我在垃圾堆裡找到半條銀鰭魚。還有頭呢。」
+
+他搖搖頭。「亞彌拉的柔風輕撫著汝身。」
+
+她歎了口氣，腦袋環繞在煙霧裡。「這裡沒有風。你得往下挖。好東西總埋在垃圾下面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>貨攤上陳列著各種用垃圾製成的小飾物，如用魚骨鞋扣串成的項鏈和用碎玻璃製成的手鐲等等。
+
+但簾子像被風吹了一樣不停地搖擺。
+
+你拉開簾子，發現一條秘密通道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>[原路返回出口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>你原路返回，設法離開了峽口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>你最後審視了隧道一遍，確保沒人看到你。
+
+然後，你閃身穿過簾子，又進入了一條隧道裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>貨攤上陳列著各種用垃圾製成的小飾物，如用魚骨鞋扣串成的項鏈和用碎玻璃製成的手鐲等等。
+
+顯然，這些破玩意兒放哪兒都沒人偷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>貨攤上陳列著各種用垃圾製成的小飾物，如用魚骨鞋扣串成的項鏈和用碎玻璃製成的手鐲等等。
+
+但簾子像被風吹了一樣不停地搖擺。
+
+你拉開簾子，發現一條秘密通道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>貨攤上陳列著各種用垃圾製成的小飾物，如用魚骨鞋扣串成的項鏈和用碎玻璃製成的手鐲等等。
+
+但簾子像被風吹了一樣不停地搖擺。
+
+你拉開簾子，發現一條秘密通道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「藏起來，別出聲。馬塔魯已經把那個生病的晨星成員丟進舊城了。他們不會放過你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「那位晨星的女士有能治好你的藥。快去見她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「瘦子德理奧聽說你們惹是生非的話，恐怕不會高興吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「我在芬娜的店虐殺了一大票金盟騎士。要不我陪你們兩個玩玩？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「馬塔魯要來了。如果你們不想被丟到舊城的最下層，就最好快跑吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「人人都知道要搞好鄰里關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「你們搶他一點也不划算。你們搶這些貧窮的羅帕魯，真能搶到什麼錢嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>兩個歹徒考慮著你的話，然後點點頭。
+
+「他說得對。我們去地表吧。澡堂附近有的是賺錢的機會。」</DefaultText>
+      <FemaleText>兩個歹徒考慮著你的話，然後點點頭。
+她說得對。我們去地表吧。澡堂附近有的是賺錢的機會。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>胡亞納人謝過你之後緊張地快步離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「你們居然搶一個一無所有的人。節操何在？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>兩名歹徒互看了一眼。
+
+「節操太貴，我們買不起。不過或許這位朋友能幫到我們……」
+
+他們轉過身面向發抖的胡亞納人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>突然，一群人向你湧來，你還沒反應過來就被推走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[支付50銅幣。]「下不為例。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「好心的先生，自由市場對健康的經濟至關重要。你們打算趕走一位有錢的顧客嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>他們看看彼此，聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[撒謊]「上次我來的時候看到一個有傷疤的人。我已經付過他錢了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>他們聳聳肩，讓開一條道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>你沿著隧道前進，突然從黑暗中出現若干戴著兜帽的人。
+
+「我記得你。很不幸，我們都知道的那個有疤的朋友不記得你了。因此如果你想通過，就得付雙倍過路費。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>[支付100銅幣。]「下不為例。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>你留下遍地屍體，再次消失在了隧道中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>你擦去手上的血跡，繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>刺客已死，於是你離開了昏黑的房間，並隨手帶上了門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>鐵銹板著臉站在你面前，已做好了下殺手的準備。刺客手中的睿姆岡之眠閃著寒光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>[出示金陽幣。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[出示金陽幣。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>[躍過貨攤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[衝過貨攤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>你徑直將木製貨攤撞成碎片。你踉蹌了一下，一腳踢開了凌亂的破簾子。
+
+你邁著穩健有力的步伐，迅速繼續追逐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>[任由鐵銹逃走。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>鐵銹的腳步聲逐漸消失。
+
+你並沒有跟上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>門後的房間冰冷死寂。你的眼睛花了點時間才適應裡面的亮度，然後你繼續前進。
+
+你查看房間以判斷其長寬，但什麼都看不見。沒有刺客的蹤跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>[掉頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>[繞過貨攤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>你放慢腳步，有條不紊地繞過貨架的展台。你向右急衝，打算繼續加速追趕，但你剛剛的謹慎繞行使你損失了寶貴的幾秒鐘時間。鐵銹已不見蹤影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>由於你緊緊跟在這個刺客的身後，即使你眼睛看不清，你依然能聽見鐵銹咚咚的腳步聲。
+
+腳步聲指向正前方的走廊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>你到達了一處封閉的岔路口。地上散落著小藥瓶的碎片，前方狹窄的空間裡充斥著琥珀色的煙霧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>你發現鐵銹正在拐進前方的一個拐角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「天堂有路你不走，地獄無門你來投。不要命的就繼續跟著我吧。」刺客向你發出了最後的警告，接著門後傳來他逐漸走遠的腳步聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>不知是空氣中的輕微擾動，什麼東西的移動聲還是你脊背附近長袍輕柔的摩擦聲令你脖子後面的汗毛直豎。
+
+有人，或有東西在你身後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>你身後又傳來一連串較為輕柔的腳步聲。他們迅速靠近，然後停下腳步，一聲不吭。
+
+你前方的目標依然咚咚地往前跑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>你始終覺得有人在監視著你。但當你扭頭瞥向身後時，一個人也沒看見。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>你回到了昏暗而骯髒的小巷裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>你回到了昏暗而骯髒的小巷裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>你回到了昏暗而骯髒的小巷裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>你回到了昏暗而骯髒的小巷裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>你回到了昏暗而骯髒的小巷裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>你回到了昏暗而骯髒的小巷裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「有人對我說德理奧可以幫我找到瘋狂的莫萊娜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>守衛們轉身互相低聲討論著什麼，之後其中一人點點頭，消失在了身後的門裡。
+
+片刻後，守衛又出現了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>「我是[Player Name]。厄爾內佐派我來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>[閱讀便條]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>[將便條塞進口袋。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>烏羅格——
+
+新的一批給你羅帕魯朋友的貨已經放在潛民街的升降梯附近，就等你來取了。
+
+快來取食物，不然要被洞穴的臭味熏壞的。
+
+你瘋狂的船長，
+莫萊娜
+
+附言1：替我向老頭子問好。我專門為了他在裡面多放了一個柯基果。」
+
+附言2：別說我從沒幹過什麼好事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>「靈視者，德理奧想和你談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>你發現他褲子的襯裡中縫著一個秘密隔層。裡面裝著一張便條和一把錢幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>這一次，什麼都沒有引起你的注意。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_huana_faction_questline\fct_qst_02_huana_ruins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>最後的庇護所</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>搜尋&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>更換石盤的缺失部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>解讀&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;裡的&lt;b&gt;石盤&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>回去找&lt;b&gt;阿羅海親王&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;阿羅海親王&lt;/b&gt;派遣了一隻探險隊前去調查&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;，那裡是&lt;b&gt;烏凱佐&lt;/b&gt;時代的一座避難小島。
+
+阿羅海認為島上面有可能存在關於失落的烏凱佐的位置訊息，但是探險隊並沒有從那裡回來。
+
+阿羅海需要有人去調查探險隊的下落並且找到他們搜尋的情報。商行們肯定也在派遣他們自己的部隊做同樣的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;就在&lt;b&gt;庫瓦奧里庫胡&lt;/b&gt;群島裡面，這個群島在&lt;b&gt;涅克塔卡東北方&lt;/b&gt;很遠的一處風暴形狀的陸地中央。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>有關&lt;b&gt;烏凱佐&lt;/b&gt;的知識就沉睡在古代建築裡面。前方滿是雜草叢生的叢林與廢墟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我找到了一塊刻有不尋常雕紋的&lt;b&gt;石盤&lt;/b&gt;。石盤少了兩個部分，缺少這兩部分的話我沒有辦法破解上面的銘文。碎片就在&lt;b&gt;莫塔勒奧柯茲的廢墟&lt;/b&gt;中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>兩塊失蹤的輪盤都已經被重新裝回了石盤，我現在可以破譯石盤上的銘文了。石盤上的雕紋非常古老，破譯上面的訊息不會很輕鬆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>&lt;b&gt;阿羅海親王&lt;/b&gt;有可能會對我的發現感興趣。他就在涅克塔卡&lt;b&gt;巨蛇王冠&lt;/b&gt;的皇宮裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我找到了與石盤外周形狀相符的一塊金輪盤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我找到了一塊與石盤邊緣相符的雕紋輪盤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>這座小島的發現人是一名當地繪圖師。&lt;b&gt;阿特普&lt;/b&gt;就在王座室西面的一尊&lt;b&gt;海麗婭&lt;/b&gt;雕像旁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>看來想要找到這座島的不止有胡亞納人。一隻瓦利亞探險隊登陸了，但是只有&lt;b&gt;巴爾蒂婭&lt;/b&gt;一個人活了下來。她回想起來她的一名同伴從&lt;b&gt;遺跡&lt;/b&gt;中拿走過一個雕紋金環。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>遺跡裡面滿是腐妖和其他各式各樣的怪物。腐敗的中心有可能與我的搜尋有關。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>一名死亡胡亞納探險隊員的靈魂回想起了一塊可以通過使用輪盤與面板操縱的一塊金盤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>一名死去瓦利亞探險隊員的靈魂提到了藏在洞窟裡面的一塊金盤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>一名胡亞納探險隊成員在死的時候身上帶著一個巨大的金環。某種異常高大的東西將之繞在了一顆瘤節縱生的樹上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;瓦哈奇&lt;/b&gt;部落的&lt;b&gt;因貝塔&lt;/b&gt;警告過親王不要派其他人前往&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>我已經得到了兩塊輪盤，我需要將它們放置在石盤上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>按照&lt;b&gt;阿特普&lt;/b&gt;的說法，&lt;b&gt;瓦哈奇人&lt;/b&gt;會不惜一切代價保護聖島。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>金盤上的一處銘文暗示遺跡裡面的知識有可能解開金盤裡的秘密。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>一名異常強大的女子在掌控被腐化的動植物。她也許就是莫塔勒奧柯茲上的問題來源。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>&lt;b&gt;巴爾蒂婭&lt;/b&gt;認為沒有辦法治癒叢林，但我覺得未必如此。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>守護著&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;的&lt;b&gt;腐妖&lt;/b&gt;非常愛護自己的樹木。說不定有辦法利用這一點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>一名叫做&lt;b&gt;因貝塔&lt;/b&gt;的&lt;b&gt;瓦哈奇&lt;/b&gt;戰士給親王送去了一塊探險隊首領的衣服碎片作為警告。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>我殺死了&lt;b&gt;阿特普&lt;/b&gt;。他不會再跟任何人透露&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;的訊息了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>我通過移除樹木上的腐化將一名腐妖轉化回了樹妖。我不知道能不能將她看作是我的盟友，但是最起碼我少了一名潛在的敵人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>我將胡亞納海圖交給了亡焰皇家商行的&lt;b&gt;派船長&lt;/b&gt;。就算海圖真的對胡亞納人來說一無是處，&lt;b&gt;阿羅海親王&lt;/b&gt;也不會喜歡我的行為。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20029</ID>
+      <DefaultText>我治癒了&lt;b&gt;綠色女士&lt;/b&gt;，她對我非常感激。我可以自由拿取她的寶藏了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20030</ID>
+      <DefaultText>&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;被&lt;b&gt;瓦哈奇&lt;/b&gt;部落的一支先遣隊守住了。不幹掉他們，我是進不去的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我將自己的發現匯報給了親王並且給他帶去了古代胡亞納航海圖的一份拓本。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我將自己的發現匯報給了親王，但是我沒能給他送上航海圖的拓本。他非常不滿意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我沒有將自己的發現告訴親王。他不知道我有沒有在&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;找到有價值的物件。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

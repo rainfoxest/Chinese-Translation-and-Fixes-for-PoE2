@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_copperhead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>168</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「嘶！說你呢，快上來。」
+
+陽台上，一個又高又瘦的人朝你發瘋似的招手，以引起你的注意。招完手後，他再次蹲下躲在了欄杆後。
+
+那裡並不是個理想的藏身處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「很好，很好。我以為你肯定會走到別處，惹禍上身呢。」
+
+你面前的這個傢伙不知是人是鬼，他皮膚灰暗，且和其他客人一樣乾癟，頭上戴著一頂尺寸大得過頭的頭盔。他頭一動，頭盔也跟著搖晃起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我是銅頭蛇。別人都這麼叫我。這是他們出於善意給我起的綽號，你懂的。」
+
+「我，呃，知道你與眾不同。我看得出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我當然『與眾不同』。這裡的所有人都在慢慢腐爛！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[撒謊]「我不知道你在說些什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「這是什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「噓，小聲點！別跟一隻小羊羔一樣在林子裡叫喚個不停。就像在一個勁地嚷嚷『吃了我，吃了我』一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「什麼……？
+
+「不，&lt;i&gt;不對&lt;/i&gt;，不是這樣。我不會看錯！其他那些重要的人也一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你的真名是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我……我記憶中只有銅頭蛇這一個名字。但我以前肯定有過別的名字。」
+
+「世上沒有哪個母親會給孩子起『銅頭蛇』這種怪名字……如果她是礦工的話倒是有可能。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我得走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「這還用問嗎？這裡是天堂！對，在這裡可以擺脫家鄉的一切煩惱。在這裡你可以盡情吃喝，沒有人會對你皺眉……」
+
+「但我知道。我知道事情沒這麼簡單。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「好吧。我們就在那裡見面吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「這裡不安全。耳目眾多。」
+
+「我在郊外有間房子。他們不會去那裡打擾我。我們可以去那裡談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「那些怪異的符文是什麼？似乎這裡人人都有一個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「可你沒有，對吧？你就像狗捨裡的貓一樣顯眼。」
+
+他左顧右盼，緊張地傻笑了幾聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「別，等等——！」
+
+銅頭蛇想要伸手抓住你，但在他手指觸碰到你手臂之前，他停下了動作。他的表情彷彿因痛苦而扭曲，噘起嘴唇，露出一口黑牙。
+
+片刻之後，他費力地把手縮了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你……你一定要幫幫我。這座小鎮上正在發生非常糟糕的事，靠我一個人什麼也做不了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我也拿不定主意啊……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我不會幫你的！你是吃人的怪物！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「當心這裡總管的人。就是拿著長杖的那些人。他們監視著你，一下子就能把你整得很慘。」
+
+「尤其是祖爾卡，她……我——我得走了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我可以幫你！我以這頂帽子發誓。」
+
+他用指關節敲擊著頭盔的一側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「別這麼大聲！那些巡邏的傢伙會——」
+
+「噢，不好。朋友，快藏起來！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「這邊這邊。留意腳下。我，呃，一直在收集東西。收集好多年了。」
+
+他揮手大概的指了指散落在家中各處的一系列垃圾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「那座艦船的墓地裡到處都是死者！和未死者！就是……生者！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「呵呵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「給我看看那頂頭盔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「呃，好吧。只有額頭上有記號的人才能看到夢境。我戴上頭盔後才看到。「
+
+「我們所有人，不管是已死的還是半死不活的，靠吃生者來維持本已不長久的生命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我一直都很好奇。礁石上有那麼多船。我真想潛到海裡看看能找到什麼。」
+
+「下面很美。藏著無數個故事。我都一一讀過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「不，不！我不願回到從前！我腦袋迷迷糊糊的……如果我摘下頭盔，我就會回到夢中。」
+
+銅頭蛇緊緊抓住頭盔，用力扣在頭上。你聽到頭盔裡傳來沉悶的低吼聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[強行脫去他的頭盔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「好吧。那你別動，我就看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我保證會還給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你推測憤怒和空間加劇了銅頭蛇對精粹的渴望。另一方面，符文似乎把其他居民變得相對聽話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>場面一度很不體面。你和銅頭蛇扭打了一陣，之後趁他向你猛打之際把頭盔從他頭上扯了下來。
+
+銅頭蛇突然停止了懊悔的哀號，你發現他頭上的符文開始發出更加明亮的光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>銅頭蛇耷拉著腦袋癱軟了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[給他重新戴上頭盔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>銅頭蛇變成了一具發呆的傀儡。他額頭上的符文忽明忽暗，身體無聲地抽搐著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[不管他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你大致檢視了一下這頂頭盔，發現它有排斥魔法的效果。似乎一切本來能直接影響頭盔的魔法都被一股力量指向了別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>你觀察著這頂滿是污垢的頭盔，除了自己的倒影外沒發現什麼值得注意的東西。你看不出這頂頭盔和普通頭盔之間有何不同之處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「怎樣？你看到了什麼？」
+
+銅頭蛇雖然一開始很不情願，但現在十分興奮地等待著你的結果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我看不出這頂頭盔有何特別之處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我覺得你的頭盔能抑制魔法效果。」他能屏蔽其他人中的法術。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[撒謊]「你產生錯覺了。這隻是一頂普通的頭盔而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「別白費口舌了！我就是不給你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「好吧。那你就留著那個破玩意兒吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「為什麼會有人費這麼大勁將一座全是死人的小鎮困在一個幻境中？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我不知道我們為何會看到幻覺，但我知道這和墓穴有關。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「活在幻境裡總比發現自己是一具腐爛的屍體強。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「新定居者出現時，他們就會從那裡出來。當他們開始失去理智，變得無比&lt;i&gt;飢餓&lt;/i&gt;時，也會被帶到那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「重點是無論他們為了讓我們活在這個夢境中而做了什麼，你去那裡就能弄明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「好的。我去墓穴裡看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「然後在別人瘋狂的故事裡度過餘生嗎？」
+
+「真相總比愚蠢的夢強。至少那是屬於我們的真相。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「到時候看吧。也許還有別的辦法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「慢著，你不能就這麼……大搖大擺走進去。那裡有人看守呢。」
+
+「戒備真的很森嚴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「這對我來說不成問題。相信我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「也許你可以去轉移他們的注意力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「你有什麼主意嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「守衛從不真正離開崗位，獵人帶著新鮮的肉回來時除外……但他們沒有固定的作息時間。他們何時來何時走完全看自己心情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我還有什麼別的選擇嗎？」
+
+「不過，呃……祝你好運。我會等著你。假如他們在你頭上也刻上個符文，我保證會想辦法救你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>銅頭蛇依然一動不動。過了片刻他猛地直立起來。
+
+他猶豫地拍著頭上的頭盔，然後對你怒目而視。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「好玩吧？嗯？我頭痛欲裂也就算了，你非要拿走我的頭盔不可麼……」
+
+「怎樣？你發現了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「哈！我就知道！我就知道這頂頭盔絕不尋常！」
+
+「保護者以為我依然在夢中。他們以為愚蠢的小銅頭蛇只是找到一頂自己喜歡的新帽子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「你回來了，你回來了。有什麼消息嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「你在碎礁多久了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[離開]「其實我正好要走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「哦……流年流年又流年。就連……接口都鬆垮了，明白嗎？」
+
+他發出一陣吱吱嘎嘎的討厭笑聲，然後又撓撓一側肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「你成功了！看！」
+
+銅頭蛇一隻手捧著頭盔，用另一隻手敲了敲腦袋的一側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我一開始聽到怪異的聲響……花了一點時間才刺激起神經，但我脫掉頭盔後沒有喪失理智！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「我殺了門扎格，還砸碎了他的寶珠。他的法術已被破除。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「你……你想像不出這意味著什麼。」
+
+「我花了很長時間才讓思維恢復正常。我弄明白了自己是怎樣的存在，並接受了自己。要是人人都有相同的機會，或許一切會變得不同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我也不知道現在我要做什麼。至少我能肯定自己沒瘋。」
+
+他低頭看向頭盔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「給。我不再需要這東西了。或許它在你手裡能派上些用場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「你自己留著吧。說不定以後能用得上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「你自己留著吧。要報答我的話，就跟我來。成為我船上的一員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[收下頭盔。]「謝謝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[收下頭盔。]「如果你沒地方可去，可以來我船上當我的船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「你確定？……那好吧，謝謝。老實說我一直戴著它，已經習慣了。」
+
+「謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「你……你說真的嗎？」
+
+「因為我覺得你並沒有慎重考慮。我這種人不吃硬餅乾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「你讓一切恢復了正常。我欠你一份情，我會一直留在這裡。」
+
+銅頭蛇露齒而笑，僵硬地鞠了一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「呃？為什麼？那你豈不是白去一趟？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「門扎格死了，但法術還在。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「就這麼結束所有人的夢境似乎不是正確的做法。他們在夢裡活得很快樂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「我還沒決定好如何處理控制法術的寶珠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「呃，你話是沒錯，可……他們不斷抓來的基斯怎麼辦？他們的屍體怎麼辦？」
+
+「門扎格的舊主子出現怎麼辦？露西亞·利文來了怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我總有一天會收拾她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「漂浮吊死鬼號的船長利文嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我沒聽說過那艘船，但……利文應該是一位了不起的船長。」
+
+「她興建了這座小鎮。把它變成了現在這個樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「最強壯的人會被餵給門扎格最忠實的僕人。他們是『保護者』。其餘的基斯會在酒館裡慢慢流血。保護者偶爾會……用完整的屍體款待我們……」
+
+銅頭蛇垂下頭，聲音漸漸消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「露西亞·利文是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「大概是某個有權有勢的船長吧。聽說她興建了這座小鎮。或許她一開始就知道這是什麼地方。」
+
+「並把這裡&lt;i&gt;變成&lt;/i&gt;了現在這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「我嗎？……對，好的，我能做到！我可以幫你！我們就在那裡碰頭吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「利文已經不再是個問題了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「你覺得那個寶珠能持續多久？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「門扎格之前一直在給寶珠提供能量。現在他已經死了，法術也將開始失效。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「好吧……我需要點時間搞清楚我之前到底是怎樣的存在，以及如何接受自己。」
+
+有時間的話，我或許能為其他所有人做同樣的事。裝進來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「我覺得以後我還需要那頂頭盔。不過，給，我在一處殘骸中找到了這個。」
+
+「它沒能屏蔽操控我心智的法術，但我認為這東西給你比我自己留著更有用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「好吧……我需要點時間搞清楚我之前到底是怎樣的存在，以及如何接受自己。」
+
+有時間的話，我或許能為其他所有人做同樣的事。裝進來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「你只能等等看了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「要不是你輕鬆解決了門扎格，你說這話我還真不信呢。」
+
+「說真的，這裡曾是他的小王國。而現在我們大家已經擺脫了他的統治。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「要我說，你就該把它砸了。不用再躲躲藏藏。不用再裝模作樣。」
+
+「我們都是禽獸。這一點不會變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「啊，很好，你回來了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「我不是在告訴你該怎麼做，但我感覺那頂頭盔是用來保護我們，而不是保護他的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「哎，我們從中吸取的教訓就是穿好防具至關重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「似乎沒必要幹出這種殘忍的事。」他皺眉蹙額。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「咱給他擺一個滑稽的姿勢，就讓他保持著那種姿勢醒來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「我的天啊，我都不忍心看下去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「我不太確定這是不是正確的工作法。如果他這樣還算活著的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「不如讓我收割他的靈魂吧，那樣是更為仁慈的做法不是嗎？」她皺起鼻子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「這個實驗的目的何在？還是說我也應該期待這種仁慈？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「呃，換了我就不會這麼幹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「我做的一切對酒館裡的人並沒有什麼好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「啊……他們大概已經沒得救了。已經變成白骨和肉了。」
+
+「但不是傀儡。不受門扎格支配。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我知道。我也能識破幻象。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「船長，你學我就行了。很久之前就有戴奇怪帽子的傢伙對我發號施令了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我們唯一能幫他的地方就是幫他踏上前往來生的旅途。你說呢，靈視者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「靈視者，如果仁慈之心無法打動你，那就把這個人視為一個有意思的研究對象。生理學和形而上學的研究對象。」
+
+她洋紅色的眼睛注視著魂軀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「哦，沒錯。給你看看吧。」
+
+他把頭盔往後傾斜，使你剛好能看到他額頭上符文的輪廓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「慢著，小羊羔為什麼會在林子裡呢？」
+
+艾德爾一臉不解地瞥了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「我們一定要折磨這個可憐人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「我想像中的天堂與你描述的大相逕庭，不過……我願意體驗一下你天堂裡的生活。」泰克胡噘起嘴，點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「這頂頭盔獨一無二。有了頭盔之後，一切也都不一樣了。」
+
+「我帶上頭盔後，瞥見了這個地方的真實面貌。」
+
+他向前傾身，用陰險而歡喜的眼神地左顧右盼，。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>銅頭蛇看起來如釋重負，但雙手依然牢牢地抓著頭盔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「太危險了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「到目前為止，她一直沒有閒工夫回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「話是沒錯。我們所有人都像放在盒子裡小貓一樣被遺棄在這裡，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「你該不會是吊兒郎當地隨便糊弄一下吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「誰管你這麼多啊？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「你早上醒來肯定不願見到這種畫面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「哈。沒錯，這種畫面……令人震驚。不騙你。」
+
+「或許我真的有點瘋了。只是一點而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「話說你想怎樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「我想要……破除幻術。我想要所有人和我一樣看到真相。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「他們不會覺察到我的到來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「你剛剛提到幻象來著……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「看來連死者都會被真相傷到。」不過這依然比活在謊言中強。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「有一點束縛並非總是壞事。」他面容扭曲地說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「碎礁就是我的歸屬。它是獨一無二的船隻殘骸。」
+
+「現在門扎格和其他人都不在了，以後就不會有基斯被帶到這裡來了。這種結局也挺不錯的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「除了人以外，還有其他精粹來源。我們會想出辦法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「我們不會有事的。銅頭蛇，你聽說過魂珀貿易嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「轉念一想，還是算了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>銅頭蛇一邊聽，一邊露出淺笑，不敢相信你說的話。淺笑逐漸變成了愉悅咧嘴而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>銅頭蛇搖了搖頭。他一邊聽一邊露出微笑，微笑慢慢變成了齜牙咧嘴的獰笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「大海……真正的船！謝謝你，船長！你再也找不到比我更忠心的水手了！」
+
+銅頭蛇興奮地笑著，手忙腳亂地朝門跑去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「你想吃誰就可以吃誰。來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>銅頭蛇呆呆地朝你眨眨眼。
+
+但他考慮了一下未來的情形，露出了微笑，微笑又變成了邪惡的獰笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「前提是，如果你願意服從我命令的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「就等你了，船長！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「祝你好運。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「祝你好運。我不知道以後基斯來碎礁會不會平安無事，不過……我會永遠銘記你為我們做的一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[離開]「你說得沒錯。「我需要考慮一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「這算是一點安慰吧。」他漫不經心地聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「哦不——不不不！別想戲弄我。你以為我不知道自己的感覺？以為你能把我拽回夢境中？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「門扎格就在那裡，他是這裡總管的。露西亞·利文的舊城堡也在那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「我和門扎格做了筆交易。寶珠要留在這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「你……什麼？你-等下，你和他見面了？你還……和他&lt;i&gt;交朋友&lt;/i&gt;了？」
+
+銅頭蛇激動地抓著頭盔，指甲在金屬上抓撓著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「我們其他人呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「等我向烏凱佐出發時，你們跟著我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「你不用靠吃人維生了。魂珀會保住你的性命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「&lt;i&gt;你&lt;/i&gt;呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「別管我了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「那就這樣吧。你拿到了需要的東西，也不在乎代價是什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「我本來應該……我本來應該……」銅頭蛇的嘴唇咧出一道咆哮的形狀，漆黑的雙眼閃爍著飢餓與憤怒……
+
+銅頭蛇垂下頭皺縮起來。他轉身離去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「我猜老大會想和你談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「假如我們能活下來！假如門扎格……沒有對我們再放什麼新法術！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「好玩吧？嗯？我頭痛欲裂也就算了，你非要拿走我的頭盔不可麼……」
+
+「怎樣？你發現了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「好玩吧？嗯？我頭痛欲裂也就算了，你非要拿走我的頭盔不可麼……」
+
+「怎樣？你發現了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

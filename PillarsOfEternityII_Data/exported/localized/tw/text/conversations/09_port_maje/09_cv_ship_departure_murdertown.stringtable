@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_ship_departure_murdertown</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你知道的，我盡量不去懷疑你的做法，大人，但是……克拉里奧總督肯定能幫得上我們的忙吧？
+
+「沒有他的幫助，我們該怎麼才能修好這艘船？」</DefaultText>
+      <FemaleText>「你知道的，我盡量不去懷疑你的做法，夫人，但是……克拉里奧總督肯定能幫得上我們的忙吧？
+
+「沒有他的幫助，我們該怎麼才能修好這艘船？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我們現在只能等著了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我有好消息要帶給您，大人。如果我想得沒錯的話，漲潮之後，這個海灘的絕大部分都會被水浸沒。」</DefaultText>
+      <FemaleText>「我有好消息要帶給您，夫人。如果我想得沒錯的話，漲潮之後，這個海灘的絕大部分都會被水浸沒。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「下一次漲潮是什麼時候？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「就是說，我們被困住了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你該不是說，我們被困住了吧。」他打量著碎屑遍地的海灘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「哦，拜託，我們可不能被困在這個地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你已經知道要去哪裡了嗎，大人？」</DefaultText>
+      <FemaleText>「你已經知道要去哪裡了嗎，夫人？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「也許你能接受，但我得把她弄到船上去。」
+
+他對總管示意道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「如果不是這樣呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「哦，我覺得，從現在開始大概還要等一個星期吧。我知道這算不上方便，但我們必須得有點耐心才行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「涅克塔卡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「風把我們吹到哪裡，我們就去哪裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「還沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我們還是樂觀一些吧，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「據大家說，那是一座古老的城市，非常漂亮。從這裡往北走一段距離應該就能到了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「反抗者號受損嚴重，恐怕在深水區裡航行不了太長時間。
+
+雖然她暫時還能浮起來，但我建議我們得盡快找到個造船廠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「沒問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我曉得不該隨意談論女士的體重，但這位得用上幾組滑輪加一大群馬才拉得動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「如果運氣好的話，這樣應該能把反抗者號抬到沙洲上面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「好吧，我肯定我們能想到什麼辦法的。在這段時間裡，我認為我們得好好考慮考慮貝拉斯給我們的任務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我們上次見到俄撒斯的時候，他已經朝著島上去了。我建議，不如我們沿著他的腳印走，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「上次我們就是被它困在這裡的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

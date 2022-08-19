@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_location_shipwreck</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一艘廢船隨著猛烈衝擊著的海浪顛簸著，斷裂的船樑像是肋骨一般從水中凸了出來。
+
+廢船裡面什麼人也沒有。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>你花了幾個小時的時間調查這艘廢船……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>……你沒有找到任何值錢的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你將船翻了個底朝天。沒有值錢的東西了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>……你找到了一箱物資。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>……你找到了一箱還沒有腐壞的食物補給。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>……你找到了一個裝著飲品的木桶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>……你找到了一箱還能用的艦船補給。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>……你找到了一塊破爛舊旗幟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>……你找到了一箱錢幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>……你找到了一尊儲存良好的大炮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>……你找到了一塊內部閃爍著柔和光芒的奇怪吊墜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[搜索殘骸。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[繼續搜索船隻。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[拿走吊墜。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你拿走了吊墜，摸上去異常溫暖，彷彿有人在一直穿戴著它一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你將船翻了個底朝天。沒有值錢的東西了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你發現了一艘半掩埋於沙中的廢棄單桅帆船。風從船體上的大洞吹了進去，被烈日焦烤著的木板咯吱作響著。廢船周圍散落著未開啟過的貨箱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你發現了一艘擱淺在海灘上的廢棄單桅船。船體已經被附近的珊瑚和火山岩砸成了碎片，但是說不定船艙裡面還有什麼值錢的物資。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>一艘老舊大帆船停在了海岸邊，船體嚴重傾斜，上層甲板幾乎已經與地面垂直。船上的主桅桿彷彿是被一隻憤怒的野獸襲擊了一般徹底斷成了兩半。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你發現了一艘古代廢船。主桅桿上掛著的船帆彷彿是一團被炮火與強風撕碎的蛛網一般。船體已經破碎扭曲，但是說不定裡面還有什麼有用物資。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>海岸邊停著一艘平底大帆船。高於水平線部分的船體上滿是深深的切口，船尾的一部分已經被燒成了煤渣。船艙裡面說不定還有什麼有用物資。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你返回廢船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你繼續在廢墟中翻尋……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你花了幾個小時的時間調查這艘廢船……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>……你找到了一把儲存狀態出人意料地完好的一把武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>……你在船艙的偏僻角落裡面找到一件不尋常的物品。
+
+你花了點功夫才將它從廢墟中挖了出來，原來是一把長戟，做工異常精良，長戟的內部閃爍著一種奇怪的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

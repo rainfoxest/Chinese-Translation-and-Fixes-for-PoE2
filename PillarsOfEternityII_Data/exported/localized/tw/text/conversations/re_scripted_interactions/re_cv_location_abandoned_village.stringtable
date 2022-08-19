@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_cv_location_abandoned_village</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你來到了一處被遺棄的胡亞納村落。其中還有幾座棚屋沒有被刮到亡焰列島各處，但只剩下廢墟。村莊周圍隨處可見被強風刮倒的樹木。不過依然有幾座建築物依然挺立，其中或許藏了值得回收的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[搜索該地區。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[繼續搜索該地區。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你花了幾個小時，在被遺棄的村落中搜索……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>……你沒有找到任何值錢的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>……並回收了一些依然能吃的食物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>……並在一個箱子裡找到了一些飲品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>……你找到了一些錢幣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>……你找到了一堆工藝原料。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>……你在成堆的廢棄物中找到了一件小飾物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>……你在一個箱子裡找到了一些藥物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>……你找到了一把珍貴的寶石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>……你找到了一塊內部閃爍著柔和光芒的奇怪吊墜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你把村莊每個角落搜了個遍。沒有找到值得帶走的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[拿走吊墜。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你拿走了吊墜，摸上去異常溫暖，彷彿有人在一直穿戴著它一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你把村莊每個角落搜了個遍。沒有找到值得帶走的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你面前的殖民前哨站像墓穴一樣死寂。儘管建築物看上去狀態良好，但裡面一個活人也沒有。你在鎮廣場上發現燒焦屍骸的旁邊張貼著一張告示……用來警告往來者此地疾病肆虐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你本以為能找到一座胡亞納小村莊，可找到的卻是一堆碎石。中央還有幾處大坑。你靠近後發現大坑其實是基斯的腳印，只不過這個基斯塊頭肯定有山那麼大。廢墟中或許仍有值得回收的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你在山坡上發現了一座小村莊。除了風吹過敞開的窗戶時發出的聲音外，村莊一片寂靜。你靠近時發現街上躺著一具具基斯的屍體。他們早已喪命，你還發現他們的骨頭裂開，上面還有大型野獸的牙印。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>村莊周圍的農田已經荒蕪，並被太陽曬乾。種著柯基果樹的小果園已經乾涸，果實也已干縮成了類似葡萄乾的樣子。你靠近村莊時，發現裡面一個人也沒有，桌椅器具表面都蓋著薄薄的一層灰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你繼續回去搜索村莊裡值得回收的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你繼續在村莊裡尋找可以派上用場的東西……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>你花了幾個小時，在被遺棄的村落中搜索……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>……你在成堆的廢棄物中找到了一件小飾物。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

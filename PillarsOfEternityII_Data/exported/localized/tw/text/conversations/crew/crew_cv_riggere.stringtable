@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\crew\crew_cv_riggere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你好啊，陌生人！還是說，你是個船長？你看起來挺有船長范兒的，渾身上下散發著高貴的氣質。」
+
+牢房裡的男人搖搖晃晃地朝你走來，臉上掛著期盼的笑容，眼神呆滯地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「朋友！是良知之類的原因讓你又回來了嗎？是什麼難受的感覺刺痛了你的良心嗎？」
+
+「把我放出來，你就不疼了。」</DefaultText>
+      <FemaleText>「朋友！是良知之類的原因讓你又回來了嗎？是什麼難受的感覺刺痛了你嗎？」
+
+「把我放出來，你就不疼了。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你到底幹了什麼事情，才會落得這種下場？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我沒傷害過任何人！我只是經常去海怪之眼喝酒，托雷爾都應該&lt;i&gt;付給我錢&lt;/i&gt;才對。他那裡每一瓶好酒我都嘗過了。」
+
+「我這麼支援他的生意，他倒擺起了架子。欠他的酒錢我遲早都會還的，等我一有錢我就還。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你欠別人錢不還，瑞格列，這不是什麼值得吹噓的事情。」
+
+「而且，你&lt;i&gt;還&lt;/i&gt;爬到了總督的莊園裡，在樓梯上撒尿，還暴力拒捕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你對船熟不熟悉？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你問我，我對船熟不熟悉。只要是海上的船，就沒有我不認識的，一艘都沒有。無論是大帆船，還是……那個……什麼船，我都熟悉，先生。」
+
+「你有敵人嗎？就讓我這雙拳頭，把他們揍進海洋女神的懷抱裡吧。」
+
+他攥緊了雙拳，舉過頭頂以示強調。</DefaultText>
+      <FemaleText>「你問我，我對船熟不熟悉。只要是海上的船，就沒有我不認識的，一艘都沒有。無論是大帆船，還是……那個……什麼船，我都熟悉，女士。」
+
+「你有敵人嗎？就讓我這雙拳頭，把他們揍進海洋女神的懷抱裡吧。」
+
+他攥緊了雙拳，舉過頭頂以示強調。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>」哎喲，這件事情我可記不住了。哈，往樓梯上尿尿？」
+
+「至於暴力拒捕，我很抱歉。我跟你說，塞維亞，我的反射速度實在是太快了，我控制不住。你們當時抓我抓得實在太使勁了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我被關在這裡，你卻來顯擺你的自由。朋友，你真是太殘忍了。」</DefaultText>
+      <FemaleText>「我被關在這裡，你卻來顯擺你的自由。朋友，你真是太殘忍了。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我的船隊用得上你，你想讓我做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「那個鐵石心腸的守衛，她說我得交出四百個子兒的罰金才能放我出去。而我身上……一分沒有。如果債還不清，我就出不去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你的手上到處都是傷疤，但你的臉上一道都沒有。你肯定受過良好的訓練。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「啊，這麼說吧，我曾追隨著某條道路。現在，我可能……有點走偏了。」
+
+「大海，手中的力量……還有我喝過的朗姆酒，我願意為了這些東西付出一切。」
+
+他帶著嚴肅的神情摸了摸自己的眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「謝謝你，船長！在你的船上見啦！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「太好了！啊，不好意思，去市場那邊來找我吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「太棒了！多麼美妙的景色啊！」
+
+「你救了我一命，兄弟！我感覺周圍的牆都要壓在我身上了，可然後，我就自由了！」</DefaultText>
+      <FemaleText>「太棒了！多麼美妙的景色啊！
+
+「你救了我一命，女士！我感覺周圍的牆都要壓在我身上了，可然後，我就自由了！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「歡迎上船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「讓一個水手天天呆在岸上，這實在是太要命了。天天看著同樣的地平線，喉嚨也幹得不行，除了喝酒還能幹什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「謝謝你願意讓我上船，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「真的嗎？哈哈！我絕不會讓你失望的，先生。哦，錯了，是&lt;i&gt;船長&lt;/i&gt;！」
+
+「只要你敲響船鐘，我就會趕過去的！啊，我已經能聽到鐘聲了……」</DefaultText>
+      <FemaleText>「真的嗎？哈哈！我絕不會讓你失望的，女士。哦，錯了，是&lt;i&gt;船長&lt;/i&gt;！」
+
+「只要你敲響船鐘，我就會趕過去的！啊，我已經能聽到鐘聲了……」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你怎麼看呢？你願意讓瑞格列重返大海嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>」你覺得我應該怎麼把你弄出去？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「一些錢就夠了，四百個漂亮的錢幣救星。」
+
+「……或者有鑰匙也行，是吧？畢竟關住我的，是這扇門。」
+
+瑞格列把身子靠了過來，手指握住囚籠的鐵欄使勁搖著，但毫無效果。他用額頭抵住鐵欄，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「你覺得，我讓你做這做那，而我自己只是閒呆著嗎？我跟你說，先生，我一有機會就去摳鐵窗下面的水泥地。」
+
+「不過，呃，那些水泥砌得太結實了。兩手空空的話，我什麼事都做不成。如果有工具的話，或許能成功。如果有……炸藥的話，就十拿九穩了。」</DefaultText>
+      <FemaleText>「你覺得，我讓你做這做那，而我自己只是閒呆著嗎？我跟你說，女士，我一有機會就去摳鐵窗下面的水泥地。」
+
+「不過，呃，那些水泥砌得太結實了。兩手空空的話，我什麼事都做不成。如果有工具的話，或許能成功。如果有……炸藥的話，就十拿九穩了。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「哈哈哈！自由的感覺真是太爽了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「海怪之眼的諾袞那裡有很多有用的東西。」
+
+「當然，那些東西都用於合法用途，那些鑄魂師很喜歡炸藥。」
+
+他揚起了眉毛，對你露齒而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「你簡直是正義的化身，我必須報答你的恩情。」
+
+「讓我和你一起出海吧！我在船上可是一把好手，隨便問問誰你就知道了。哦，塞維亞不行。除了她，你問誰都行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「求求你了，你必須把我放出去。我是屬於大海的生物，我不適合待在這種黑乎乎的地方。」
+
+「呆在這裡，我會像一條擱淺的魚一樣渴死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「那個指揮官死死地看著她的鑰匙，就像個愛吃醋的老婆死死看著丈夫一樣。想從她手裡偷走鑰匙，手法可得相當熟練。
+
+「前提是，如果你真的要用鑰匙才能開門的話。」他把手指彎成了一個圈，比在鎖邊，朝你笨拙地眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「來一次祈禱，來融化那個指揮官冷酷的內心？」
+
+「我開玩笑呢，開玩笑呢。就算是眾神來了，也改變不了她這個人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「一點尿有什麼大不了的？你看看他，他的寵物肯定在什麼地方都撒過尿，他有這麼大驚小怪嗎？」
+
+瑞格列舉起手，指著你的方向。</DefaultText>
+      <FemaleText>「一點尿有什麼大不了的？你看看她，她的寵物肯定在什麼地方都撒過尿，她有這麼大驚小怪嗎？」
+
+瑞格列舉起手，指著你的方向。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「可憐的塞維亞，她本不該落得這種下場。」
+
+瑞格列盯著指揮官的屍體，臉上和善的表情變成了難過的苦相。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我的船隨時可以離港。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我覺得你最好還是準備逃命吧。再見了，祝你好運。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「啊，真是個好消息。你已經讓我沒得選了，那我們就上你的船，一起離開這個地方吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「等我的船修好之後，我可以換個新的水手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「那就這麼定了，我會找到你的船的。等你準備好了，我們就一起逃離這個地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「話說回來，守衛們現在肯定會覺得，我們兩個是串通一氣幹出這件事的。」
+
+「或許這個理由足夠讓我們站在同一陣線了，你說呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「謝謝你願意讓我上船，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「還是沒有理由把我放出來嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「謝謝你願意讓我上船，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>瑞格列快速地朝你點點頭，避開了你的視線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你對船熟不熟悉？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「你問我，我對船熟不熟悉。只要是海上的船，就沒有我不認識的，一艘都沒有。無論是大帆船，還是……那個……什麼船，我都熟悉，先生。」
+
+「你有敵人嗎？就讓我這雙拳頭，把他們揍進海洋女神的懷抱裡吧。」
+
+他攥緊了雙拳，舉過頭頂以示強調。</DefaultText>
+      <FemaleText>「你問我，我對船熟不熟悉。只要是海上的船，就沒有我不認識的，一艘都沒有。無論是大帆船，還是……那個……什麼船，我都熟悉，女士。」
+
+「你有敵人嗎？就讓我這雙拳頭，把他們揍進海洋女神的懷抱裡吧。」
+
+他攥緊了雙拳，舉過頭頂以示強調。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你看，命運不就這樣讓我們走到一起了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「謝謝你願意讓我上船，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_si_sepulchers_champion_gate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這幅骸骨如同石像一般僵硬而堅定地站立，永遠守衛著墓穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>這幅骸骨如同石像一般僵硬而堅定地站立，永遠守衛著墓穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[查看骸骨。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[呼喚他的名字，海登蓋特領主。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>骸骨的胸膛因驕傲而彎曲。它骨骼粗大的手上抓著一柄滿是裝飾但已因戰鬥磨損的短矛。
+
+在顱骨上方的牆上蝕刻著圖畫，描繪出一個男人站在一座大門前的勝利景象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>骸骨的胸膛因驕傲而彎曲。它骨骼粗大的手上抓著一柄滿是裝飾但已因戰鬥磨損的短矛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你的話語在黑暗中迴盪，令骸骨重獲生命。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>火焰點燃了空洞的眼窩。骸骨搖擺晃動著，頭顱向前彎曲。
+
+它的靈魂精粹滲透到門的封印中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「柏薩恩，海登蓋特領主。」
+
+隨著他的靈魂精粹在你身邊聚集纏繞，你的聲音變得彷彿在敲擊空氣一般。靈魂精粹刺痛了你的皮膚，隨後蛇形滑入骸骨的嘴中。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

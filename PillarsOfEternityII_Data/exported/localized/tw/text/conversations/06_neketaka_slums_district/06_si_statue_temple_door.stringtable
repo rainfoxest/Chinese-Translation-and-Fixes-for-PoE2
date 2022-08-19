@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_si_statue_temple_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>密封的門旁邊是一尊破損了的女像，上面長滿了青苔。
+
+她的雙臂都伸向了你，但有一隻手不見了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[查看雕像。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[將海螺殼放在雕像的手掌上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>它看起來像是一位代表著昂德拉的胡亞納人。她的長袍如同水簾一般，潺潺的水流在她腳邊匯聚成池塘。
+
+你檢查了她手腕處的斷面。空袖的石面很光滑，就好像雕刻她的人從一開始就沒去塑造那隻手。
+
+她僅有的一隻手攤開著，手心朝上，就像是要接著什麼東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>波浪聲越來越大。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>與此同時，一陣波浪滔天的大海所特有的雷鳴般的打擊樂從海螺殼中洋溢開來。
+
+它逐漸演變成無言的旋律，讓你想起了在水下聽到的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>當樂曲演繹到了高潮部分，低沉的轟鳴佈滿了空氣，甚至穿過了你的骨頭。
+
+音樂消逝時，你拿回了貝殼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你注意到從你的背包裡傳來一陣急促的沙沙聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>是海浪號角。一陣輕柔的浪花拍岸聲從海螺殼中傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>是深淵號角。一陣輕柔的浪花拍岸聲從貝殼中傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>是海螺殼——那兩個海螺殼。一陣輕柔的浪花拍岸聲從兩個貝殼中傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

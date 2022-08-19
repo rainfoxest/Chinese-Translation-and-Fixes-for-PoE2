@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_prototype\00_cv_mukumu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>144</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「塔馬奧，還不認罪！難道你想讓大好的食物白白爛掉？」
+
+一名年輕戰士的額頭上佈滿皺紋和汗珠。他居高臨下看著一個綁在柱子上的男子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你好！無論你有何需要，我都能幫上忙。」他話語間似乎帶著自信，但並不自然，而是長時間對著鏡子練出來的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你在這裡幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我想瞭解一下這座村莊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「和大多數馬塔魯一樣，我是一名戰士。你看不出來嗎？」
+
+他擺了個昂首挺胸的姿勢，快速翻轉著手中的利刃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「那你一定要和蘭迦談談。他的小屋就在貿易站後面的山頂上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「村民在挨餓，而你卻私藏柯基果？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你個蠢貨，我什麼都沒私藏！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「叛徒！願恩加蒂吞噬你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你個白癡，看看我肚子，是圓鼓鼓的嗎？去問問其他羅帕魯吧！我們都在挨餓。」
+
+這個受縛之人在痛苦中喘息著說出每個字。他抬頭怒視穆庫姆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「柯基儀式是怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我們本可以和部落的大家一起吃光最後的柯基果。我們以這種方式感謝生命之鰻科赫帕。」他目光低垂了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「要是我手上有多餘的柯基果，會不會令情況好轉？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「食物不翼而飛並不是重點。塔馬奧背叛了部落。令羅帕魯蒙羞。導致我們所有人都無法得到科赫帕的慈悲。」
+
+他皺眉蹙額，彷彿談論這件事都很丟臉一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「如果他不告訴我們柯基果在哪兒，他下輩子就會投胎成泥魚，落入我們的漁網中。」
+
+他再次提高嗓門，確保塔馬奧聽到他的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我們沒理由在提卡瓦拉島上內鬥。只有在漁民喝了太多矮人的酒時才會互相打起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「奈利也知道很多事。但她自從……」
+
+他意識到自己可能說錯了話，睜大了雙眼。他清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「奈利……照管著小鎮西北部恩加蒂雕像附近的神社。是的。」他急促地點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「現在很多事還很難說。我們現在沒有蘭迦了，只有海姆西。」他撫摸下巴，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「她怒火中燒，和巨鯨的胃口一樣沒有盡頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「現在這無法實現了。我們的收穫失敗了，因為&lt;i&gt;這傢伙&lt;/i&gt;認為填飽自己的肚子比眾神更重要！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「但這些只是小打小鬧。和我們上次離開的那座小島上的戰鬥不同。那時有海盜……還有奴隸販子……」
+
+他的表情鬆弛了下來。有那麼幾秒，他回憶起了什麼可怕的事，睜大眼睛呆呆得盯著遠方。
+
+片刻之後，他回過神來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「你聽到了嗎？我們給了塔馬奧第二次機會，但他毫不領情！」
+
+穆庫姆握著利刃，指向塔馬奧的心臟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「我說什麼來著？啊……提卡瓦拉島物產不豐富，但這還不是最糟的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「我在巫師號瞭解到海盜烈酒的一件趣聞……這種酒喝高的人，忘卻煩惱的很多，但滋事的也不少。」
+
+他咧嘴一笑，從腰帶上解下酒囊，喝了一大口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「靈視者！我們不能對這種不義之舉放任不管！想想辦法，不然我就自己動手了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「這個外來者和馬塔魯一樣心直口快。」他摸了摸下巴，掃了一眼裘荻，然後將注意力重新集中在你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「我在努瓦泰海軍刑罰部或許還藏了一根舊雷管。你可以試一試。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「你聞到涅克塔卡城裡飄出來的柯基果氣味時就知道它在哪兒了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>他仔細觀察你頭上發光的新月，面露欣喜之色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>他觀察著包裹你頭部的肉質甲殼，表情凝重。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>他注意到你頭上跳動的火焰時突然往後跳了一步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>他仔細觀察你臉上微小的生長物和綠色植物，面露欣喜之色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「聽你口音像外來者，但看你的臉卻像部落成員。」他向麥婭皺了皺眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「表親，你可曾見過如此令人厭惡的景象？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「無恥！隨便哪個羅帕魯一天內干的工作兒都比你一輩子幹得多，他們從沒抱怨過！」
+
+戰士從要帶上拔出一把匕首，若有所思地輕撫著刀尖。
+
+他眨了眨眼看向你，臉上帶著親切的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「他之前這麼幹過嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「塔馬奧，你有什麼話說？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「你們抓到了犯人。打算怎麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「既撒謊又偷竊？好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「我們有食物時，他連不屬於自己的都拿。他偷籃子和鍋，甚至偷外出狩獵的戰士用的矛尖。」
+
+穆庫姆怒不可遏，用手背擦了擦眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「在提卡瓦拉，人人都受到過種種不公正的對待。也許亡焰列島上所有人都是如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「我理應得到其他人都擁有的一切：一片陰涼處、充足的食物和跪在涼爽沙灘上的片刻時間。」
+
+他抬頭怒視穆庫姆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「當盧亞努強迫我們走上外來者的道路時，我們部落就已名存實亡。現在我們只能自救了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「塔馬奧，你令我們&lt;i&gt;蒙羞&lt;/i&gt;！你下輩子投胎當椰子蟹都便宜你了！」 穆庫姆邊說邊跺腳，直跺得地上塵土飛揚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「要把塔馬奧丟進海裡，只需派科赫開口便足夠。」
+
+穆庫姆面向海灘，摸了摸額頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「正義是填不飽肚子，帶不來希望的。也無法驅使眾神結束這場饑荒。」
+
+穆庫姆伸手摸了摸肚子。他望向地平線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「抱歉，我露出了吃驚的神態。這裡鮮有基斯來訪，眾神來訪得更少。」
+
+他摸了摸額頭，點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「又是個外來者？提卡瓦拉島正在鬧饑荒，你偏偏在這時候來。」穆庫姆用鼻子歎息了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「在你的蘭迦面前美言幾句，我就會考慮一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「願你們大豐收。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「你願意這麼做？我們的蘭迦一定會以你的名義舉行最後一場柯基果盛宴！」
+
+他拍了拍你的肩，將塔馬奧忘得一乾二淨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「在你找到柯基果之前，我會不知疲倦地審問這條頑固的鰻魚。」
+
+他摸了摸匕首的刀尖，咧嘴而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「我沒有偷柯基果，不過我倒想偷來著。我會把它藏在最&lt;i&gt;令人不舒服&lt;/i&gt;的地方。」他挑釁地露齒而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「你對這個蠢貨怎麼看？我把繩收緊一點的話，他會認罪嗎？」他對受縛之人做了個手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「他在偷最後一顆柯基果時被派科赫逮了個正著。部落本打算在豐收儀式上享用這顆果實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「我猜他犯了事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「看起來你已經準備好把他丟下海了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「悉聽尊便。我都不認識這傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「看來你的部落也奉行正義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>他眨了眨眼，稍稍有些迷惑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「要知道，用蜂蜜抓到的蒼蠅遠比用醋抓的多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「動手吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「他罪有應得。」穆庫姆瞇起眼看著犯人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「有沒有人想過把種子留下或許是個好主意？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「按照傳統，不是應該把果實全部吃掉，連種子都不剩嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「不管有沒有眾神，我們從來沒有豐收過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「嗯哼。那肯定就是原因了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「這件事沒完呢。」穆庫姆朝你皺起眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「我們向科赫帕祈求豐收的方式是把果子全部吃掉，包括種子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「就是如此。」他堅決地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「科赫帕會確保塔馬奧下輩子投胎當一條整天挨餓的蛇，因為他就像蛇一樣狡猾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「我寧可清白地淹死也不願跟你們這幫蠢貨一起餓死！」
+
+塔馬奧啐了一口，但唾液只是沿著他的下巴滴落下來，因為他無力向前噴吐。
+
+穆庫姆看向別處，盡量無視他的存在。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「如果有水果不翼而飛，那[Player Animal Companion]和我會嗅到它的氣味，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>他朝你和 [Player Animal Companion]眨眨眼，突然明白了什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「你離開太久了。眾神的憤怒已平息，在群島上種植的時機已經成熟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>他咬了咬下嘴唇，不知是否該相信你的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「在你的故鄉，事情或許是這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「在亡焰列島，支配我們的力量比土地本身更久遠。「
+
+他敬畏地摸了摸額頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「呃，當我什麼都沒說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「我欠眾神一個人情。我會確保找到你們的柯基果的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「派科赫撒了謊。塔馬奧並沒有偷柯基果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「你說什麼？派科赫說了假話？」穆庫姆瞇起眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「拿出證據。把真正的叛徒帶來見我。」他張開雙臂，指向周圍的小屋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>[拿出干縮的柯基果。]「隆吉把這個藏在了岸上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「我……暫未拿到真憑實據。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「這件事我們得以後再談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「別浪費我時間了。」穆庫姆交叉起雙臂，皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「我在岸邊挖出了一些被埋的柯基果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「只有沙蟹和騙子知道其所在！」
+
+穆庫姆朝塔馬奧齜牙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「這件事還沒完呢！僅憑這點我就該親手把你送去餵恩加蒂！」
+
+穆庫姆拔出匕首，大步朝塔馬奧走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「慢著！私藏柯基果的人是隆吉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「塔馬奧的事，派科赫撒了謊。他並沒有偷柯基果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>他拿著利刃逼近塔馬奧的臉，猶豫著。
+
+最後，穆庫姆把手伸到犯人身後，給他鬆了綁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「他不配弄髒我的刀。被恩加蒂吃掉後別讓她噁心到。」
+
+他拽著塔馬奧站起身，朝海灘做了個手勢。事後，他給了你幾個瓶子和貝殼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「懦夫。我來生仍舊問心無愧。」塔馬奧揉著手腕。
+
+遠方的巨浪朝著海岸襲來，他眼神中充滿恐懼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>穆庫姆擺弄著匕首，死死地盯著塔馬奧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「這是真的嗎？隆吉為何要這麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「他想要柯基種子發芽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「因為他是罪犯。他甚至付了我封口費。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>「我不知道。你問他不就行了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>[撒謊]「他私藏了柯基果，還付了我封口費。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>他哼了一聲，瞥向北方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「兩個叛徒。但今天只有一人其罪當誅。」
+
+下定決心的穆庫姆點了點頭，雙唇緊抿。他一言不發，交給你幾個瓶子和貝殼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「隆吉在偷部落財產的那一刻就放棄了自己的誓言。他現在說什麼我都不會聽了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「非這樣不可嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「無意冒犯，但你沒有資格質疑我保護部落以及平息眾神怒火的方式。」
+
+他嚴厲地瞪了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「那是誰幹的？有話快說，不然我就讓巨浪永遠吞沒塔馬奧！」
+
+他咬緊牙關，沉穩的手中握著匕首。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「是隆吉干的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>[撒謊]「我不知道。你請便。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「他覺得一個編織工比蘭迦更清楚該拿我們的果實怎麼辦？」
+
+他將匕首握得更緊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「這不是我幹的，但我很樂意看著你挖出剩下的果實時被沙蟹夾斷指頭。」
+
+塔馬奧情不自禁地笑了起來，露出了血跡斑斑的牙齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>「怎麼樣，可惡的犯人準備認罪了嗎？」穆庫姆交叉起雙臂，沒好氣地俯視著塔馬奧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>「文明人的典範。繼續。」
+
+麥婭輕撫下巴，點頭說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>「這是我們的方式。」他向麥婭眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>「我不知道是誰幹的，但我打算進一步調查。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>「還是說你認為是別人幹的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>[撒謊]「是塔馬奧干的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>「別擔心。我正打算這麼做呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>[看她一眼。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>「裘荻，安靜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>「真的？我是說，當然是真的。」她咧嘴發出刺耳的笑聲，抑制不住和你在一起時心中的喜悅之情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>她以熾烈的目光回看了你一眼。然後她輕輕呼出一口氣，點了點頭，把接下來的事交給了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>「上次也有人對我這麼說，結果我打掉了他幾顆牙。」</DefaultText>
+      <FemaleText>」有意思。昨天你可不是這麼告訴我的。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「但我敬重你，靈視者。如果你要我退後，我會照做。」
+
+她怒氣沖沖地後退一步，給了你與穆庫姆談話的空間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「你可以按自己的方式向他提問。至於派科赫，他常在海灘邊逗留。」
+
+穆庫姆朝海岸點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>[撒謊]「我仍在梳理案情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「我在柯基小屋外發現了這些卡奧拉蘆葦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>「奇怪。」穆庫姆饒有興趣地歪著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「這是編織工用的原料，但在提卡瓦拉島隨處可見。」他伸出一隻手臂掃過整個村莊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「你為什麼干涉……」穆庫姆話音逐漸消失，將匕首收入鞘中，發出啪的一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「塔馬奧哪兒都別想去。眾神是耐心的。」他用嚴厲的目光瞪了你一眼，示意你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「如你所說，必須平息眾神的憤怒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>[拿出干縮的柯基果]「這是我在岸邊挖出來的，不過我不知道是誰偷的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>「恩加蒂保佑你！我看只有塔馬奧能自私到幹出這種事。」他慢慢點點頭，拔出了匕首。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>「偷柯基果的是隆吉，不是塔馬奧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「我看偷柯基果的肯定是塔馬奧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>[撒謊]「偷柯基果的就是塔馬奧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>「那就處決塔馬奧吧。我反正無所謂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>「處決塔馬奧後，我們部落的害人精又少了一個。」穆庫姆皺起眉點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>「正義無情，朋友犯了罪也不能姑息。隆吉……」穆庫姆倒吸一口氣，不再說話，一臉冷漠。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

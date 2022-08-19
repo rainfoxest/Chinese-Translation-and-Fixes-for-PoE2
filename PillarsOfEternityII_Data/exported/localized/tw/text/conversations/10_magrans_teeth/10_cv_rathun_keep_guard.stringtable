@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_magrans_teeth\10_cv_rathun_keep_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>高大健壯的戰士發現了你，變得十分惱怒。她用盾牌猛擊地面，把你腳下的石頭砸得卡嗒直響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「疾跑者出現在了我的堡壘裡？！激戰正酣之時又殺出了新的敵人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[拿出飾環。]「看看這個！我從你們倒下的布蘭提斯身上拿回了這個東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「慢著，先聽我說啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[亮出武器]「那我們就打吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你把她殺了？還把她的龍也殺了？！」
+
+戰士發出一聲中氣十足的怒吼，拔劍朝你攻來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>她停下了動作，一臉正經地審視你，同時身上的花紋也不停地閃爍著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你的廢話我聽得很清楚。你的話一聽就是事先編好的謊言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「火焰中存在真相，死亡中彰顯真實。真相就在化為灰燼的結局中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你說錯了。是我打。你負責死就行了。」
+
+她舉起劍向你攻來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「這個基斯，能戴飾環？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「他散發著火熱的氣場，閃動著榮譽的火苗。」</DefaultText>
+      <FemaleText>「她散發著火熱的氣場，閃動著榮譽的火苗。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「願你光榮安息，靈魂在永恆之火中燃燒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「保護神龕！火焰決不能熄滅！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「快點。布蘭提斯很快就會回來發動襲擊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「布蘭提斯的返回預示著襲擊將至。我們時間緊迫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「成為女神的祭品是最崇高的死法。瑪珈嵐會將榮耀賜予他的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>隨著你離戰士越來越近，她身上紅熱的花紋發出的光也越來越亮。她謹慎地扭過頭，肌肉緊繃，脖子上掛滿了晶瑩的汗珠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「瑪珈嵐的飾環！基斯成功了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「一個疾跑者戴著飾環，飾環經過了回火，沒有被毀。我必須通報巴瑟。」
+
+她猛衝進了堡壘深處，大聲將消息通報給了裡面所有的拉紳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「不，殺她的是龍，不是我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「那巴瑟會決定你的命運。他在堡壘後面等著你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你在我的火焰中不會得到憐憫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「葬身火海吧！」她屈伸肌肉，舉起武器發動攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「瑪珈嵐送來一個穿著她偽裝的基斯也許是某種預兆。」
+
+她點點頭，已作出了決定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「基斯，你供奉瑪珈嵐嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>她舉起劍向你齜牙。但攻擊之前她先打量了一下你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>她停下了動作盯著飾環，與此同時身上的花紋也不停地閃爍著。接著她吐了口氣，放下了盾牌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「把這東西拿給巴瑟看。他在堡壘後面等著你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[攻擊]「別人也這麼說過，然後我就把他們宰了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>她停下了動作，一臉正經地審視你，同時身上的花紋也不停地閃爍著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「不，現在是非常時期，我不能冒險讓你這個褻瀆者散播骯髒的思想。」
+
+她握劍擺好戰鬥架勢</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「願你的靈魂在瑪珈嵐的火焰中永遠痛苦地燃燒。你在永恆之火種不會得到憐憫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>她下巴上的肌肉抖動著。但最終，她收起了劍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「疾跑者出現在了我的堡壘裡？！準備好被碾碎吧，俄撒斯的害蟲！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_cv_weapon_merchant_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一名年輕女性上身依靠著收銀台，半閉著雙眼。他聽到你靴子摩擦石板的聲音是猛然驚醒，然後手忙腳亂地找東西擦，以裝出一副忙碌的樣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「想買武器的話就和我說一聲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你都賣些什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「看看這些貨吧。」她想演戲一樣揮手示意你看看商品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「關於這個地方，有什麼可以告訴我的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「呃，你想買點什麼？」她偷偷擦去嘴角淌下的口水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你說梨繪嗎？在我看來和窮鄉僻壤差不多，不過，呃，你可別和艦隊指揮說我講了這種話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「一個人看到水手同伴被炮彈或其他什麼東西炸得粉身碎骨時，就會被艦隊送來這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「當然，那是老早之前的事了，那時沼澤裡的那些瘋狂德魯伊還沒有開始派熊和夜貓翻越石牆呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「一個人類怎麼最後來這裡為亡焰皇家商行打工了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「呵，人人都非要問這個問題不可。不過我不怪他們。這&lt;i&gt;確實&lt;/i&gt;是個精彩的故事。」她從靴子裡抽出一把又細又長的刀，開始清理自己的指甲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「從前，我和一個男的約會，他叫啥來著，就叫他科諾好了。科諾和我交往已經有一陣子了，我開始嚷嚷著要和他同居。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「這小子嚇得半死，大半夜的跑去亡焰皇家商行上班了。重點是，我是個扔飛刀的好手，我能玩轉十種飛刀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「於是我跟著他進入了商行。我工作很賣力，得到了一艘不錯的船。科諾最後離開了商行，去了詩人學校之類的地方，但我留了下來。到目前為止還沒有人投訴過我呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「等早上我開門了再來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

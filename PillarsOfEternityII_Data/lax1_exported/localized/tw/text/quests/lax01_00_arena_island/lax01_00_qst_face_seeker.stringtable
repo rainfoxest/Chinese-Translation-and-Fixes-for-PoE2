@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_face_seeker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>探尋之面</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在&lt;b&gt;科哈特卡娜曠野&lt;/b&gt;找到一件&lt;b&gt;探尋者神器。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>返回&lt;b&gt;回憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;b&gt;探尋者之路&lt;/b&gt;系列競技場試煉中獲得勝利。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;b&gt;擊敗寂靜五人組，&lt;/b&gt;成為探尋之面天選者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>如果想獲得探尋之面的垂青，我需要滿足神秘塑像的需求並贏得&lt;b&gt;競技場中的探尋者挑戰&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>許多想要成為探尋者的人在科哈特卡娜曠野—— &lt;b&gt;卡茲瓦里島西海岸&lt;/b&gt;的一片茂密森林——失蹤了。如果我帶回比我先到的&lt;b&gt;失蹤請願者的信物&lt;/b&gt;，我將獲得探尋之面的垂青。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>深入科哈特卡娜曠野後，我發現了一個散發著靈魂能量的探索者頭骨。
+
+我應該將它送回&lt;b&gt;回憶水池&lt;/b&gt;，坩堝騎士可能會吸收這個物品上殘留的記憶，並根據那些印象進行宣戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我找到了一件對探尋之面十分重要的神器，並將它獻給了記憶水池，獲得了參加探尋者挑戰的資格。
+
+我現在可以&lt;b&gt;參加探尋者之路，&lt;/b&gt;這是一系列強調&lt;b&gt;用計謀克敵制勝&lt;/b&gt;而非公平對抗的戰鬥。如果我能獲勝，將繼續獲得探尋之面的垂青。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我在競技場中的英雄事跡贏得了探尋之面的關注。
+
+再贏一局，就能和&lt;b&gt;寂靜五人組&lt;/b&gt;地位相當了。如果我能在競技場中打敗他們，我就會成為探尋之面欽定之人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>位於卡茲瓦里島西海岸科哈特卡娜曠野到處都是探尋之面欽定動物——蜘蛛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我遇到了想要獲得探尋之面認可的另一隊人——&lt;b&gt;寂靜五人組。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我打敗了寂靜五人組，成為了探尋之面欽定之人。我應該回到&lt;b&gt;回憶大廳&lt;/b&gt;決定接下來的試煉。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

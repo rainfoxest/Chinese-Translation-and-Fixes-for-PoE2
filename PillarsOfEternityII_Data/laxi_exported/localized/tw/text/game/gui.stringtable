@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5249</ID>
+      <DefaultText>打開書</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5258</ID>
+      <DefaultText>查看詳情</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5259</ID>
+      <DefaultText>關閉詳情</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5260</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_parley" tint=1&gt; {0}. 帕利</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5261</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_board" tint=1&gt; {0}. 木板</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5262</ID>
+      <DefaultText>開始海戰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5263</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_intimidate" tint=1&gt; {0}. 恐嚇</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5264</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_leave" tint=1&gt; {0}. 離開</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5265</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_flee" tint=1&gt; {0}. 試圖逃跑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5266</ID>
+      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; {0}. 投降</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5270</ID>
+      <DefaultText>你正在追擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5271</ID>
+      <DefaultText>你正受到追擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5272</ID>
+      <DefaultText>你的船隻準備就緒時，一個身著斗篷的身影從跳板上到你身前，將一本燒燬的書籍強行塞進你的手中。他們一言不發地轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5273</ID>
+      <DefaultText>請求停泊並開始貿易。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5274</ID>
+      <DefaultText>登陸敵方船隻，開始跳幫戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5275</ID>
+      <DefaultText>開始海戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5276</ID>
+      <DefaultText>成功 = +&lt;sprite="Inline" name="icon_ship_currency" tint=1&gt;{0}  +&lt;sprite="Inline" name="icon_ship_food" tint=1&gt;{1}   +&lt;sprite="Inline" name="icon_ship_water" tint=1&gt;{2}        失敗 = &lt;sprite="Inline" name="action_board" tint=1&gt;木板</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5277</ID>
+      <DefaultText>各走各路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5278</ID>
+      <DefaultText>嘗試逃跑。海戰將會失敗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5281</ID>
+      <DefaultText>{0}機率</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5282</ID>
+      <DefaultText>成功！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5287</ID>
+      <DefaultText>終極挑戰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5288</ID>
+      <DefaultText>{0}投降</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5289</ID>
+      <DefaultText>你獲得了：</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5290</ID>
+      <DefaultText>失敗</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5291</ID>
+      <DefaultText>你嘗試威嚇但失敗了！敵方船隻開始準備甲板戰！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5292</ID>
+      <DefaultText>成功！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5293</ID>
+      <DefaultText>你成功逃離了追擊者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5294</ID>
+      <DefaultText>失敗</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5295</ID>
+      <DefaultText>你嘗試逃跑但失敗了！敵方船隻開始準備海戰！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5296</ID>
+      <DefaultText>逃跑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5297</ID>
+      <DefaultText>[ShipDuel_Opponent]針對你的投降提出了條件：
+[ShipDuel_SurrenderCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5299</ID>
+      <DefaultText>啟用所有挑戰並禁用所有作弊、模組與貝拉斯之祝福。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5300</ID>
+      <DefaultText>需要啟用寒冬巨獸/探尋者、殺戮者、求生者/被遺忘的聖所。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5301</ID>
+      <DefaultText>必須在戰鬥中擊敗所有主要敵人與頭目，否則遊戲將會結束。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5302</ID>
+      <DefaultText>撤退</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5303</ID>
+      <DefaultText>投降</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

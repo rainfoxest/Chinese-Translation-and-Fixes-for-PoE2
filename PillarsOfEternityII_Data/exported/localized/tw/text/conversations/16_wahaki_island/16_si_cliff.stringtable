@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\16_wahaki_island\16_si_cliff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>懸崖的一側佈滿了凸起的岩石。你能看出上方石製遺跡的輪廓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你站在奧里奧柯基最高的懸崖上，小心翼翼地俯視著下方的叢林。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[爬上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[爬下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[審視懸崖。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你發現了一道裂隙，裡面築著一個圓胖的、有規律地跳動著的黃蜂巢。若沒有這個蜂巢，那道裂隙本可以用來當立足點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你的腳滑進了一個裂隙，踩到了一團軟綿綿的東西。一大群長刺的黃蜂湧出，將你裹了起來，不過你咬咬牙忍住了疼痛，沒有失足跌落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你開始攀爬，將注意力集中在立足點以及潛在的危險上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你發現一道橫貫崖壁的巖架。這條突出的岩石看起來能承受成人的重量，只不過只有身手敏捷的人才能規劃出一條安全的路線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[派人上去探明一條安全的路線。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[往下爬到懸崖底。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0]爬上了懸崖頂，上氣不接下氣地為你指明了最安全的攀爬路線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 0]像山羊一樣敏捷地爬上了懸崖，向下朝你揮揮手並向你指明了最佳攀爬路線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Specifed 0]奮力往上爬，很勉強地爬到了懸崖上。[Specified 0]一邊喘著粗氣一邊指示出最安全的路線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Specified 0]奮力爬上懸崖探查路線。一番艱苦的掙扎後，氣喘吁吁的[Specified 0]被迫爬回了半山腰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[派人觀察懸崖。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>這樣的地形給你提供了足夠多的抓握點和落腳點，只不過這麼高的懸崖爬上去一定很累。
+
+確定安全的攀爬路線或許有助於降低攀爬的風險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 0]瞇起眼觀察了一下巖壁，聳了聳肩。上去的路看起來一目瞭然。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你確信懸崖上存在著不少隱藏的危險因素，只不過一個也看不出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Specified 0]瞇起眼觀察巖壁，指出了你之前一直沒有發現的危險因素。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>在更高處，你看到一道顯眼的巖架橫貫崖壁，擋住了你的去路。
+
+除此之外，你沒有發現其他重大的危險因素。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[前去探明一條安全的路線。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你巧妙地在岩層間移動，輕鬆地辨別出了能承受你體重的那部分岩層。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>儘管憑你的身體條件可以順利完成這次攀爬，你還是由於過分謹慎而爬的很慢，不一會兒便氣喘吁吁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>儘管你知道應該如何正確的下降，真正做起來時還是令人精疲力盡。你很勉強地爬完了全程。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你巧妙地在岩層間移動，輕鬆地辨別出了能承受你體重的那部分岩層。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>儘管憑你的身體條件可以順利完成這次攀爬，你還是由於過分謹慎而爬的很慢，不一會兒便氣喘吁吁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>儘管你知道應該如何正確的下降，真正做起來時還是令人精疲力盡。你很勉強地爬完了全程。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>剩下的路程對你來說太過艱難。你上氣不接下氣地爬回了半山腰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>剩下的路程對你來說太過艱難。你上氣不接下氣地爬回了半山腰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>你爬到了懸崖頂，疲憊地大口喘著氣，同時慶幸自己再次腳踏實地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>你深吸一口氣，開始謹慎而緩慢地往懸崖下爬，時刻注意著是否踩到了不牢固的立足點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[離開邊緣。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你回到了起點。重新踏上結實的地面讓你倍感欣慰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>你勉強避過了支援黃蜂窩的裂隙，並繼續往下爬。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_cold_hard_hope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>苦藥</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往峽谷中的&lt;b&gt;潛民街&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在&lt;b&gt;潛民街&lt;/b&gt;上尋找澇肺藥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將澇肺藥交給待在&lt;b&gt;峽谷&lt;/b&gt;裡自己的房子中的&lt;b&gt;皮特莉&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;峽谷&lt;/b&gt;中的數名羅帕魯染上了澇肺，這是一種有傳染性的致命疾病。一名來自晨星之子的牧師&lt;b&gt;皮特莉&lt;/b&gt;正在秘密照料他們，他們需要藥品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;皮特莉&lt;/b&gt;覺得我能夠在&lt;b&gt;潛民街&lt;/b&gt;上找到她需要的藥物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>潛民街裡面滿是各種攤販與可疑人物。肯定有人身上有皮特莉需要的藥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我得到了&lt;b&gt;皮特莉&lt;/b&gt;需要的藥物。她和生病的羅帕魯們正在她位於&lt;b&gt;峽谷&lt;/b&gt;的房子裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>皮特莉不知道該如何前往潛民街，但遊蕩在&lt;b&gt;酒館&lt;/b&gt;附近的人們有可能知道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;厄爾內佐&lt;/b&gt;許諾如果我殺死一名&lt;b&gt;潛民街&lt;/b&gt;的商人&lt;b&gt;瘦削男人&lt;/b&gt;就給我藥物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;厄爾內佐&lt;/b&gt;的惡棍們會在晚上出去買醉。那時候店裡的守備應該就不會那麼森嚴了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>瘦削男人提到了通往&lt;b&gt;厄爾內佐的儲藏室&lt;/b&gt;的一個秘密入口。我可以從&lt;b&gt;他的商店東面的木道&lt;/b&gt;潛入進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>瘦削男人建議我去殺死&lt;b&gt;厄爾內佐&lt;/b&gt;。它許諾自己將給我更低的價格。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我從厄爾內佐那裡偷走了&lt;b&gt;藥物&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我殺死了&lt;b&gt;厄爾內佐&lt;/b&gt;並拿走了&lt;b&gt;藥物&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>&lt;b&gt;厄爾內佐&lt;/b&gt;據說有&lt;b&gt;藥&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;瘦削男人&lt;/b&gt;死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;鐵銹&lt;/b&gt;將會為我消滅&lt;b&gt;厄爾內佐&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>我僱傭了&lt;b&gt;鐵銹&lt;/b&gt;去殺死&lt;b&gt;瘦削男人&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>&lt;b&gt;厄爾內佐&lt;/b&gt;死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我舉報了生病的羅帕魯人。皮特莉與她的病人們被逐出了舊城。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我將藥物交給了皮特莉。她和生病的羅帕魯正在慢慢恢復。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

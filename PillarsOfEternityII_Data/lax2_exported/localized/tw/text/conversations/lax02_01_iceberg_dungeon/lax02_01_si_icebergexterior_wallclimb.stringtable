@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_si_icebergexterior_wallclimb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>冰平面升起，升到先驅之守望的上方。它略向外彎曲，像防護幔一樣懸於居民區之上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[用碎冰錐攀爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[走開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你舉起從瓦特尼爾那裡拿的碎冰錐，向著牆壁靠近。
+
+你揮動其中一個錐子把它砸進冰裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>然後，你慢慢的、小心翼翼的登上剪力牆。到你沿著巖脊爬到二十四米高度的時候，你肌肉酸痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你回到巖脊上，俯瞰先驅之守望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[下山。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你用碎冰錐讓自己緩慢且小心地從牆上爬下來。在你到達地面時，你的肌肉酸痛，膝蓋擦出青紫色的瘀傷，手開始起水泡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>巨龍在空中瘋狂的轉動，向天空捲起一股寒冷、發出惡臭的風，刺到你的臉上。它猛地撞到居民區上方的冰牆上，然後被一股無形的力量向上拉起。它帶著鏈枷的利爪耙著冰霜。
+
+消失在懸崖的邊緣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>一瞬間， 世界歸於寧靜，除了先驅們安靜的祈禱聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[徒手攀爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[放下一根繩索，繫緊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你將抓鉤楔入一根鋸齒狀的冰柱中，然後把繩子的一端扔過懸崖的邊緣。繩子落下，向下面的居民區散落下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你輕鬆的放下繩子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你的繩子靜靜地從上面垂下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[順繩索攀爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>冰山山頂在你面前展現，參差不齊的固體冰面被古老、搖搖欲墜的廢墟破開。
+
+遠處海面閃爍，一條銀帶將海天分開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你爬上牆，靴子楔入冰塊上一些不均勻的邊緣。你繃緊肌肉，將自己拉離冰冷的表面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你朝上方抓握，想找到更多的著力點，但冰面太滑，無法提供更多的有力地形。
+
+你後退到冰凍的地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你的繩索向著居民區下垂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>冰山山頂在你面前展現，參差不齊的固體冰面被古老、搖搖欲墜的廢墟破開。
+
+遠處海面閃爍，一條銀帶將海天分開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>瓦特尼爾抱著雙臂，安靜的喃喃自語。當他看向你的肩膀時，他陷入沉默。
+
+「通向寺廟的繩索在東邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>守護者板甲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5522</ID>
+      <DefaultText>當一群軟泥怪聚集成一個明顯的實體，它們的代謝把它們行進中留下的未消化的骨頭、污垢和殘骸昇華成了類似珍珠的黏糊糊的副產物。這些東西通常會隨著其寄主的死亡而分解，但在極少情況下，它們可以被完整地恢復，並被當作紀念品展出。在更罕見的情況下，一個軟泥怪珍珠會吸收寄主的部分潛在品質，使攜帶這類物品者展現出某種可怕的天賦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5523</ID>
+      <DefaultText>如山的軟泥怪排泄物</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5524</ID>
+      <DefaultText>蜘蛛女皇的下顎</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5525</ID>
+      <DefaultText>這些毛茸茸的下顎滴下了一長串粘稠的毒液。要麼腺體產出這些黏液時沒有感知到女皇的死，要麼它們本來就是在死後才發揮作用的。毒液不但使獵物喪失行動能力，並在宿主身上形成一個凸起的休眠蜘蛛卵囊。這種捆綁的生物系統可能產生的結果令人細思極恐，也讓目睹者難忘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5582</ID>
+      <DefaultText>《亡焰列島的陷阱》第一卷 - 水晶女皇</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5583</ID>
+      <DefaultText>這本旅行者指南是寫給亡焰列島的新來者的。有一段很醒目：
+
+「要不惜一切代價避開蜘蛛貝蘭嘉。她對群島是個威脅，有著傳說級體型的恐怖毒物。她貪婪的幼崽會蜂湧向大意的旅行者，而如果她的任何一個子嗣受到了傷害，她的憤怒則是超乎所有想像的。找上她後果自負。
+
+亡焰列島來訪者保護協會對已知風險造成的傷害概不負責，並已盡一切努力讓旅行者遠離以下坐標：8° 53' 北 45° 25' 東。」
+
+一張用骷髏頭形狀的蠟封標記出貝蘭嘉位置的地圖。它指向昂德拉之臼西面的一座島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5584</ID>
+      <DefaultText>《亡焰列島的陷阱》第二卷 - 饕餮大山</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5585</ID>
+      <DefaultText>這本旅行者指南是寫給亡焰列島的新來者的。有一段很醒目：
+
+「別把病畜餵給豪尼奧威。由於誤入歧途的朝聖者將它奉若神明，那個原生怪物已經長得像山一樣大。
+
+一個可怕的警告：豪尼奧威會吐出一種共生體，&lt;i&gt;傷害&lt;/i&gt;靜止的寄主，在活動的寄主身上&lt;i&gt;繁殖&lt;/i&gt;。不惜一切代價避開這頭生物將防止重大危險、&lt;i&gt;感染&lt;/i&gt;和死亡的可能性。
+
+和往常一樣，亡焰列島來訪者保護協會對已知風險造成的傷害概不負責，並已盡一切努力讓旅行者遠離以下坐標：25° 52' 南 34° 22' 東。」
+
+一張用骷髏頭形狀的蠟封標記出豪尼奧威位置的地圖。它指向襯艙城南部一片礁湖。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

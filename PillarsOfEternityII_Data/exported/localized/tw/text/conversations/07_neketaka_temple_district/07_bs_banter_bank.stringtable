@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_bs_banter_bank</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你會以為諸神打算親自解決他們的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我在羚羊號上得到了一個職位。我們馬上就要出海了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「&lt;i&gt;顯然&lt;/i&gt;昂德拉回應了他的祈禱。把一群魚送進了他的漁網裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「等你的合同結束了，你打算幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我仍然不敢相信亞佐在這兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「那不就是參加了審判的靈視者麼？在反抗灣的那場審判？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「再簽一個。沒有報酬比這更好的工作了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「如果伊萊特再這麼用力瞪著他，他就要發火了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「真的嗎？你覺得他來這裡是想說服女王，我們是邪惡的嗎？」</DefaultText>
+      <FemaleText>「真的嗎？你覺得她來這裡是想說服女王，我們是邪惡的嗎？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「真的嗎？一連好幾個月，我們都在學院裡引用他的話。」</DefaultText>
+      <FemaleText>「真的嗎？一連好幾個月，我們都在學院裡引用她的話。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「聽說了關於上一個志願者的事嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「呃，還沒。光是想想這事就讓我反胃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「依我看來，諸神正忙得不可開交。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「太好了！你的風系法術終於可以派上用場了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你覺得海麗婭也會給浴室降下類似的恩賜嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我聽說有些瓦哈奇能變成鯊魚。用嘴就能嚼爛船身。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「呃。也許在我們離開前該去那些神龕前看看？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

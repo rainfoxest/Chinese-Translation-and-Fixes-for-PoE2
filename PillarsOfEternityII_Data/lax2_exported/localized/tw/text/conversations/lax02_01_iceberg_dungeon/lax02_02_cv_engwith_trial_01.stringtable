@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_cv_engwith_trial_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>108</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你在蒙面的目擊者中佔有優勢，這樣優勢讓你可以同時看清審判者和被告。你認出在上面門的旁後者就是被束縛的靈體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我們在娥狄卡和沃艾珥眼前聚集，推敲謊言中的真實性，看到正義得以伸張。」
+
+聲音似乎不是某一個特定地方傳來的，儘管你眼前的人物呈現出正在審判的畫面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>你吸引到法庭的注意力。蒙面的審判者看著你，腰板挺得直直的，對他們的權威充滿自信。蒙面人物在後廳排成一排，專心關注訴訟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[用破匕首遺物扮演被告的角色。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[用破匕首遺物扮演目擊者的角色。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你如何回答這些指控？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我否認它們。你有什麼證據？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我接受它們。我錯怪了眾神，我祈求寬恕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我拒絕你的權威！這個法庭是個虛偽之地，是滿足撒奧斯意願的地方！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「她在撒謊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[攻擊]「受夠了這個虛偽的地方！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>法庭裡的很多人突然發出嘶嘶的低語聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「沒有人能對事實提出異議。你的言語和行為都會被記錄下來，將由你的隊友來證實，無數的眼睛來確認。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>法庭裡的很多人突然發出嘶嘶的低語聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「如果假定我有罪，為什麼還要來這裡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「我們這有個智能系統。當你熱情燃燒時，誰還需要真相？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「難道我不能知道指控的細節嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「那我想我有罪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「很抱歉我發了脾氣。繼續，去把證據擺到我面前。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[攻擊]「我寧願死也不遠屈服於你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>當蒙面審判者把眼睛轉向發脾氣的你時，其他目擊者離開了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「被告找我幫忙來推翻這個法庭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「她對我說要成為愛歐瓦拉的信徒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「對不起，我是說&lt;i&gt;你在&lt;/i&gt;撒謊。這個法庭只不過是加強撒奧斯權力的工具。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「沒有人能對事實提出異議。你的言語和行為都會被記錄下來，將由你的隊友來證實，無數的眼睛來確認。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「入侵者用武器攻擊這個身體！消滅它們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[攻擊]「夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「這是個合理的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你的坦白值得表揚，即使語氣不好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>聚集的目擊者之間傳遞著安靜的低語聲，審判者交換了下眼色。最前面的一個人，舉起了一隻瘦骨嶙峋的手，她的長袍滑了下來，露出一截黑黝黝的手臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「願眾神憐憫你的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「然後你得死。」
+
+她舉起手，長袍滑落，露出一截黑黝黝、瘦骨嶙峋的手臂，聚集的英格維仙拿起了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「今晚，法庭審判的是異端邪說。」
+
+你從束縛的靈體中取出的匕首觸感溫熱，滲出黑油油的靈液。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[攻擊聚集的法庭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你在此被指控的罪名是反對普世神賜給我們的正統觀念。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你的惡意、無知和傲慢會攻擊到文明的根基。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我否認它們。我會用我的每根纖維服侍眾神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「哦，絕對有罪。眾神是傻瓜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「這樣的悔悟令人欽佩，在這個大廳裡真是罕見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>法庭裡的很多人突然發出嘶嘶的低語聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「你仍然對城堡感到不滿，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「哎，眾神不赦免你的罪。只有在貝拉斯之輪才能獲得赦免。」
+
+聚集在一起的審判者和目擊者點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「因此，本人向你作出以下宣判 — 應該在你的腳底打上烙印，以淨化你的塵世污點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「然後，還應該將你押送到海裡淹死，昂德拉讓你窒息，將你說的謊言從記憶中洗刷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我接受這次懺悔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「你開什麼玩笑？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[攻擊]「我要是死了，我也要在這裡站著死！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我們不是。而且我們也不欣賞你的語氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「已經宣判了，而且應該執行。所有的讚美都歸於眾神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「很多人在這圍牆之內提出了類似的主張。只希望言語能夠促成行動才好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「你的卑鄙並不能證明你的存在。你在自己的嘴唇上下毒，玷污的只是你自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「因此，本人向你作出以下宣判 — 應該在你的腳底打上烙印，以淨化你的塵世污點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「然後，還應該將你押送到海裡淹死，昂德拉讓你窒息，將你說的謊言從記憶中洗刷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「好極了。我需要和貝拉斯談一談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我懷疑她是不是會憐憫你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「這個身體是你最後的機會，讓你可以減輕你堆積在自己身上的罪惡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「如果你選擇不認錯、不懺悔，你應該把你對貝拉斯之輪所犯的過錯全都擔在自己身上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「這個法庭的權威是神賜的，它關注的並不是你是否接受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「如果你選擇不利用自己懺悔的機會，我們將繼續宣判。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「肅靜！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「你的眼睛應該從他們身上挪開，轉到自己的身上，這樣你可以全面審視自己的缺陷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「然後，你應該被鎖在一個銅桶裡，在皮膚上刻兩個傷痕和七個點，使你的靈體更好地超脫你腐敗的肉體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「一旦淨化，你的靈魂將被束縛在一個動物體內，從而可以永遠服侍眾神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「那麼，來淨化我吧。我想這需要一段時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「你該死，還有該死的眾神，該死的法庭！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「已經宣判了，而且應該執行。所有的讚美都歸於眾神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「你在此被指控的罪名是反對普世神賜給我們的正統觀念。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「你的惡意、無知和傲慢會攻擊到文明的根基。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「你如何回答這些指控？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我為很多事承擔罪責，但對於服侍神靈，我從未動搖。一次都沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>當蒙面審判者把眼睛轉向發脾氣的你時，其他目擊者離開了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「證人有證據要呈交嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>法庭裡的很多人突然發出嘶嘶的低語聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「這個法庭的權威是神賜的，它關注的並不是你是否接受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「你和我都知道，神靈是英格維仙的首領從他們自己的靈魂中造出來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「確實是的，如果神是一個戴著愚蠢帽子的老頭的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[攻擊]「我們不會被你的謊言蒙騙！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「你要把異端邪說帶到這個神聖的大廳？」
+
+她看向聚集在一起的目擊者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「治他死罪。」</DefaultText>
+      <FemaleText>「治她死罪。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>審判者將注意力放回到被束縛的靈體身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「難道你&lt;i&gt;沒有&lt;/i&gt;考慮過對壓載舷孔做點手腳嗎，靈視者船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我—我沒做過那樣的事！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>裘荻欲言又止。她交叉雙臂，鼓起腮幫，吹了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「宣判我有罪似乎是不可避免的結局。那為什麼要為這場鬧劇煩惱呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「聽夠了你的謊言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>審判者把她帶面具的臉轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「我們感謝你保持禮貌，不胡言亂語，免得舌頭被割。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「這個身體是你最後的機會，讓你可以減輕你堆積在自己身上的罪惡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「如果你選擇不認錯、不懺悔，你應該把你對貝拉斯之輪所犯的過錯全都擔在自己身上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「接下來對你進行宣判。我應該要用什麼樣的判例呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「抱歉，審判者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[攻擊]「否則我會砍了你的頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>她又一次向被告發表演說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「你的眼睛應該從他們身上挪開，轉到自己的身上，這樣你可以全面審視自己的缺陷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「然後，你應該被鎖在一個銅桶裡，在皮膚上刻兩個傷痕和七個點，使你的靈體更好地超脫你腐敗的肉體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「一旦淨化，你的靈魂將被束縛在一個動物體內，從而可以永遠服侍眾神。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>靈體的頭垂下來，頭髮蓋住了臉龐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「讚美眾神！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「不覺得我能抓到那只動物嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「肅靜！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「靈視者，這裡面全是被&lt;i&gt;折磨&lt;/i&gt;了千年的靈魂。放了他們吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_infighting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>隨著甲板上的叫聲越來越大，[Player Animal Companion]的耳朵一陣痙攣，打斷了你的儀容整理。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我知道其他船員不喜歡你在船上！」[Specified 1]嘴裡吐沫橫飛，漫罵著帥氣的伊連。「就你那蘑菇臉和你那瀝瀝勒勒的德行，可能搞些了髒東西在那燉湯裡，你肯定做了！」
+
+那個莊嚴的人站著一動不動，他隱藏的雙眼面無表情。然而，他的手指顫抖著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你擠過人群，汗水和海水的氣味讓空氣凝重。
+
+「來看看這場面，船長？」[Specified 3]問道。「要不要賭一把？我押醜的那個。我讓你猜猜那位是誰！」水手對這個玩笑大笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[把炮刷遞給他們。] 「繼續。打吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[懲罰他們。]「[Specified 2]，把這兩人綁到桅桿上，去拿鞭子來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「[Specified 2]，控制住這兩個人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 1]未能閃避迎頭一擊，滾入舷牆。[Specified 0]猛擊[Specified 1]的膝蓋，將其擊倒在甲板上，痛得大叫。眾人歡呼。
+
+「服了嗎？」 [Specified 0]問道，向被擊倒者伸出一隻手。
+
+[Specified 1]點了點頭，水手們鼓掌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>聽了你的話眾人散去，[Specified 2]抓住兩個打鬥者，拖到桅桿。
+
+「讓他們緊緊抱在一起。」檢查了那兩人後，[Specified 2]給你拿來了編織緊密的皮鞭。「準備好了，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 2]劃過空中，發出尖利的聲音，蓋過船員們伸著脖子看熱鬧的嘈雜聲。
+
+「夠了，諸位！」[Specified 2]給打鬥者加了一棒。「你們兩個，抓住水手。[Specified 1]在前桅，[Specified 0]在船尾。你們兩個之間不得說一句話。其他人回到崗位去，否則船長又要叫我拿鞭子了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Specified 1]躲閃過有力的一擊，然後猛烈攻擊[Specified 0]的雙腿，掃倒了他。後者水手重重的摔倒在甲板上，人群發出一片刺耳的嘲笑聲。
+
+「夠了嗎？」 [Specified 1]問道，向摔倒者伸出一隻手拉他起來。
+[Specified 0]點點頭，水手們鼓掌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>甲板上的大喊大叫讓你不能專注研究神秘學識。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>甲板上的大喊大叫干擾了你對[Player Deity]的祈禱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>甲板上的大喊大叫讓你無法冥想。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>甲板上的大喊大叫讓你無法查看在你面前展開的航海圖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[調查騷動。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[忽視問題讓其自行發展。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>擱置你手頭的任務，走上甲板。
+
+大多數船員聚集在船中間粗略圍成一個打鬥場旁，各自為打鬥的兩名船員歡呼吶喊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>你的到來令眾人鴉雀無聲。出海兩個星期後緊張升級。你懷疑事情能否自行得到解決。
+
+後來，你看到[Specified 0]打斷了鼻子，嘴唇破皮流血，而[Specified 1]的右眼腫起都看不見東西了。兩人怒目而視，全體船員在邊上看著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 2]看見你來了，皺著眉頭向眾人示意。
+
+「抱歉打擾到你了，船長。看起來[Specified 0]和[Specified 1]打算解決他們的紛爭。好像是因為舖位分配以及[Specified 1]鼾聲如雷引起的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「好戲！格鬥冠軍爭霸賽？」亞洛斯的眼中閃爍著伊莎彌兒的喜悅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「哎呀呀。事情尚未完結，緊張升級……我看這事就兩種結果。」
+
+麥婭咯咯笑著走到打鬥場邊上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>塞拉芬聳聳肩。「有時候一場或幾場好架正好可以撥正船員的風氣，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「他們爭吵?內鬥我最喜歡了。」裘荻伸長了脖子看個究竟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[接近打鬥圈。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[返回你的船艙。]「我沒有時間管這個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你返回自己的船艙。當你關上身後的門，馬上傳來拳拳到肉的暴擊，然後是不斷的喘息聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 1]急切地接過海綿頭的棍子，但伊連抬起手拒絕了。
+
+「你以為徒手就能打敗我嗎，你個蘑菇頭？」[Specified 1]扭掉海綿，開始對戰伊連。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「讓我們收起拳頭，我將給每人分配額外的海盜烈酒！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「誰下一個出拳就把誰丟下船去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[展現你的風範。]「停止這場爭鬥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[平靜他們的內心。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[用魔法將他們分開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>立即爆發出歡呼聲，淹沒了打鬥者的任何抗議聲，船員把他們分開。你向[Specified 2]點頭示意，命令拿出儲藏的酒以使船員們平靜下來。
+
+你還未回到你的船艙，水手號子就開始哼起來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>打鬥者的拳頭放下，離你最近的船員後退一步。
+
+「沒必要，船長。」[Specified 1]向你攤開手掌。「這裡沒什麼事了。」
+
+船員們散去，回到各自崗位，咕噥著，你仍然瞪視著他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>你展現你的精神力量，感化在場者。目瞪口呆。
+
+「對不起，船長。」[Specified 1]鞠躬道，「不知道是什麼進入了我的身體。太陽，或許?這再也不會發生了，我發誓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>船員們散去，留給你一個比平常更寬的船台。只有[Specified 5]帶著暗淡的微笑向你點頭致意。
+
+這天剩下的時間船員們說話都放低了聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你念動幾句快速咒語，通過你的魔法書將周圍的精粹彙集，然後形成一個能量場爆炸將水手們分開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[展現仁慈。]「我希望我已說清楚了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[抽打他們。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>鞭打聲和痛苦的叫聲在水上迴響。你命令把那兩人帶到甲板下面查看傷勢，其餘船員默默執行你的命令。
+
+船上又恢復了平靜[Player Ship]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你把鞭子還給[Specified 2]，[Specified 0]和[Specified 1]使勁點頭。
+
+「當然，船長。謝謝你，船長，上帝因你的仁慈會保佑你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>打鬥者各自接過一根海綿頭的棒子相互對陣。
+
+「你聽到船長說的了。」[Specified 1]傻笑道，「開打吧。」
+
+兩人你來我往，木頭碰木頭的脆響迴響在水面上，水手們陣陣歡呼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>船員返回他們的崗位，船上又恢復了平靜[Player Ship]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「你最好別別惹他，」[Specified 4]大聲說，「你知道他平時不是那副樣子的。天知道他能給你施加多少詛咒！」
+
+「那更是要把他扔到海裡了！」[Specified 1]抬起拳頭大叫道。「來吧，你個醜惡的混蛋！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>伊連開始咕噥，手指不斷變換著手勢。
+
+「噢，瑪珈嵐的奶子，」[Specified 1]咕噥著，然後把炮刷向伊連的頭上砸去。炮刷重重打在他的頭上，油滑的海綿頭折斷，彈到舷牆，掉入海中。
+
+輕輕一挪，伊連伸出手去，用手指抓住[Specified 1]的胳膊。一條黑影從他身上竄了出來，進入另外那名水手的身體，水手翻了白眼。[Specified 1]劇烈顫抖，倒在甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>騷動一下子停了下來，船員們面面相覷。[Specified 1]語無倫次地嘀咕著，在甲板上抽搐著。[Specified 2]咳嗽。
+
+「好吧，表演結束了。你們兩個，」[Specified 2]示意兩名船員，「把[Specified 1]弄到床鋪去吧。其他人，回去幹活！」
+
+水手回到他們的崗位，一塊幕布像濃霧一樣籠罩在甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>沒有再發生打鬥，但船員們好多天都沒有吼水手號子或舉杯慶祝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「蘑菇臉？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 1]的下巴耷拉著。「該死，呃。你好啊，船長。我的意思是……球。」
+
+一些船員咯咯大笑，但大部分船員不出聲等待著你的判決。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「回到你們的崗位，否則我讓你們看看貝拉斯的聖選士如何教訓你們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「都怪瑪珈嵐那熱情四溢的奶子，船長……」[Specified 1]從甲板上站起來，後退。「沒想到我們搞到那種程度。但是你說的我們記住了。不會再發生了，保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>手一揮，[Specified 5]施了一個咒語，讓水手們爬行。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

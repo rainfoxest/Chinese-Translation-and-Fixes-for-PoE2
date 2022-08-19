@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_undercroft_lift_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「朋友，站住。」
+
+海盜瞪得你停住了腳步，他的手緊握著劍柄。他肌肉發達的胳膊上有一條條白色的傷疤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「啊，是你啊。你總算來了。那個精靈早就等你等得不耐煩了。」
+
+他哼了一聲，將短彎刀收入刀鞘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「外來者不得進入港口。因此，我得送你去見昂德拉了。」
+
+他扭了扭脖子，發出卡啦一聲，並揮舞著短彎刀向你攻來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>他撓著頭，用銳利的目光審視著你，或許仍在考慮是否應該把你劈成兩半。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「把他給我亂刀砍死！」</DefaultText>
+      <FemaleText>「把她給我亂刀砍死！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我要找德理奧的合夥人葛溫芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「這裡是誰的地盤？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>這個海盜用下巴朝海灣邊緣指了指。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「那邊。在水的對岸。那隻小鳥在舊遺跡裡到處飛呢。快去吧，不然她就要來朝我們嘎嘎叫個不停了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>他懷疑地斜眼盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「道明來意。我不跟你說笑。要麼開口，要麼我給你放點血。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[出示金陽幣。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「哼！既然你有金陽幣，那就早點拿給我看嘛。湧入的屍體越來越多，我都跟不上節奏了。去辦你的事吧。」
+
+他咬著牙生氣地吐了口氣，聲音很刺耳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[撒謊]「我是來見你們船長的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「如果你是來見瘋狂的莫萊娜的，那願眾神保佑你的靈魂。」
+
+他揮舞彎刀，指向洞穴東側邊緣的又矮又寬的堡壘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你這麼急著找死，我反正不會攔你。船長就在那裡。她現在心情不好。請放輕腳步，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我是來找你們船長談羅帕魯的事的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「如果你看到皇族海盜的港口都不認得，那我看你壓根兒不該來這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「如果你是來見瘋狂的莫萊娜的，那願眾神保佑你的靈魂。」
+
+他揮舞彎刀，指向洞穴東側邊緣的又矮又寬的堡壘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[攻擊]「今天血濺當場的人只有你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[離開]「我好像走錯地方了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「錯得離譜了。這是你最後一次犯這種錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我承認你確實很厚顏無恥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你是回來見老大的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「是的，你也知道她討厭一直等下去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我來是有別的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「那我護送你去吧。跟緊一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「那你最好當心點，管好自己的事就行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我代表艾戴斯船長來此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>他懷疑地斜眼盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

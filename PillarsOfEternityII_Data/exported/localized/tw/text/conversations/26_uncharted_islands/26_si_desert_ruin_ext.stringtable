@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_desert_ruin_ext</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你爬下斜坡，進入一個深峽谷。這是繼續前進到峽谷的未知深處，或者回到你來前的唯一的路。
+
+在你決定走哪條路之前，你聽到前方傳來了奇怪的聲音。你躲在一對巨石後面，用你的眼睛尋找聲音的來源，但你什麼也沒有看見。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[仔細聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[走近一點，以便更好地查看。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你仔細聆聽，並且很快就意識到，奇怪的聲音是許多蛇妖的絲絲聲在峽谷牆壁上的迴響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>峽谷牆壁上的回聲沒辦法確定聲音的來源。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你深入峽谷。如果情況允許，你就躲在灌木叢和大石頭後面；如果不允許，你就藏身於陰影中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你深入峽谷。 [SkillCheck 0]行走在小石頭上，輕快地跑下滿是石塊的斜坡。
+
+前面的聲音突然停止了。峽谷變得出奇的安靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你聽到來自你身後的一聲刺耳的&lt;i&gt;嘶嘶聲&lt;/i&gt;。你四處轉轉時，一名蛇妖武士從頭頂的石頭上跳下來，堵住了你的去路。蛇妖進入了戰鬥的姿態，發出一聲刺耳的、無言的尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[潛行穿過蛇妖營地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[攻擊蛇妖。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你悄悄地從一個隱藏處移到另一個隱藏處， 以峽谷牆壁的陰影作掩護。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你從隱藏的地方跳下來衝進峽谷，準備正面迎接蛇妖營地的戰士。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>經過幾分鐘的偷偷摸摸的移動後，你可以清楚地看到聲音的來源。你前面聚集了幾個蛇妖，它們在說話，發出了噓聲和嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你深入峽谷，行走在小石頭上，輕快地跑下滿是石塊的斜坡。
+
+前面的聲音突然停止了。峽谷變得出奇的安靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Specified 0]指引你向前，在掩體之間不停移動，以峽谷牆壁的陰影作掩護。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你深入峽谷，行走在小石頭上，輕快地跑下滿是石塊的斜坡。
+
+前面的聲音突然停止了。峽谷變得出奇的安靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>通過精確的時間和謹慎的步伐，你潛行穿過大部分蛇妖營地，並且未被發現。
+
+你前面是最後一群蛇妖，它們擋在你和峽谷的出口之間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

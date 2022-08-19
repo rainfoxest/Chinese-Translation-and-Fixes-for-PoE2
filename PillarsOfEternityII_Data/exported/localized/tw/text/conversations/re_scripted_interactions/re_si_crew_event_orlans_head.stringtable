@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_orlans_head</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你正在檢查貨倉裡的物品，突然一陣低語與輕笑將你的注意力帶向了黑暗之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「瑪珈嵐的奶子啊！」[Specified 0]後退了一大步，手掌也張開了。「對不起，船長！我以為不會有人來這裡！更沒想到你會來，船長！」
+
+[Specified 1]慌慌張張地把第二把匕首塞了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>你小心繞過了一堆箱子，[Specified 0]和[Specified 1]正在聚精會神地玩著一局絨精頭。
+
+[Specified 0]敬了個禮。「你好啊，船長。我們正在賭絨精頭，你想不想來一把。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「什麼是他媽的絨精頭？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「好啊，來一局。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「馬上給我停下來，去幹活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「下次再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「船長你看，首先你先要向這樣在桅桿上刻上一隻絨精。」[Specified 1]笑了起來，指了指一處有著大的可笑的耳朵以及一隻兔鼻子的粗糙圖形。「然後你朝它扔匕首。絨精的每一個部分都代表了不同分數，因為有些相比之下要更難命中。比如說鼻子，這位置就值好多分數!」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「太棒了！」[Specified 1]後退了一步。「這次我就不參與了，錢不多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「這裡怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「隨你們開心。記住不要用匕首弄壞我們之後要賣的東西就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>當你回到船艙裡之後匕首戳木頭的聲音繼續了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 0]嚥了口口水。「絨精頭，船長。」
+
+[Specified 1]攤開手笑了起來。「這隻是個遊戲的名字而已。如果你想要投兩把的話就一起吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 0]笑了笑，拿出了一把匕首，舉到腦袋旁邊花了漫長而且不必要的時間去瞄準之後將匕首扔向了『絨精』。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 0]注意到的時候[Specified 1]臉色突然蒼白了起來。「遵命，船長！」他們結結巴巴地吼了出來。
+
+「對不起，船長。」[Specified 0]鞠了個躬。「我們沒別的意思。我們呃，我們馬上去幹活。」
+
+兩人急忙逃走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>匕首刺進了絨精[OrlansHeadGame_OpponentLastResult]，[Specified 1]笑了起來。「[Specified 0]拿了[OrlansHeadGame_OpponentLastScore]分，船長。你可以超過這個分數嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[瞄準『絨精』耳朵。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[嘗試瞄準『絨精』鼻子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你扔出了匕首，隨著沉重的一聲悶響匕首砸進了絨精[OrlansHeadGame_PlayerLastResult]。
+
+「命中了，船長！[OrlansHeadGame_PlayerLastScore]分！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「也許我們應該朝手那裡扔匕首。」
+
+塞拉芬雙手抱胸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「希望不是因為我，船長。在海上練習投擲算不上是水手們打發時間最糟糕的方法。」
+
+塞拉芬看著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Specified 0]搖了搖頭。
+
+「但是我們沒刻手啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Specified 1]搓了搓手掌。「這樣子的話[Specified 0]最終得分為[OrlansHeadGame_OpponentTotalScore]，船長得了[OrlansHeadGame_PlayerTotalScore]。看來我們的船長贏了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Specified 1]拍了拍[Specified 0]的肩膀。「真不錯！船長拿了[OrlansHeadGame_PlayerTotalScore]分，但是[Specified 0]已經拿到了[OrlansHeadGame_OpponentTotalScore]分！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Specified 1]笑了笑，拍了拍手。「雙方[OrlansHeadGame_OpponentTotalScore]平手。下一把定勝負！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Specified 0]拿回了匕首，將刀刃在褲腿上擦了擦之後握把朝著你遞了回來。「輪到你了，隊長。來看看你對付可怕絨精的水平怎麼樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Specified 0]嗤笑著搖了搖頭，將錢包遞了過來。「玩的很開心，船長。下次我一定能贏你。現在我們應該工作了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「好啊，來一局。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「好啊，來一局。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「好啊，來一局。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「你們這群蠢貨是想要弄死別人麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[直接走開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「知道了，船長！」[Specified 0]敬了個禮。「想都不敢想。」</DefaultText>
+      <FemaleText>「知道了，船長！」[Specified 1]脫帽致意。「想都不敢想。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Specified 0]撓了撓後腦勺。「啊，我們是在玩絨-」
+
+[Specified 1]手肘猛地一戳打斷了話語。
+
+「哦！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「在玩&lt;i&gt;什麼？&lt;/i&gt;」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「對，海員們經久不衰的愚蠢偏見傳統。」
+
+塞拉芬揉了揉鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>匕首插進了桅桿，但是完全沒有命中絨精。[Specified 0]雙手捂臉，[Specified 1]仰頭大笑。「船長，這個分數應該完全不是問題了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「我保證，沒有別的意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[作弊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>兩個船員看上去並沒有注意到你狡猾的動作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「哦船長，拜託！」[Specified 1]埋怨地說著。「只是友好的一次遊戲而已！沒有必要作弊，你可是船上最富的啊！」
+
+水手歎了口氣，將你的錢扔了回來。
+
+「如果你這麼看重這個的話，給你。我和[Specified 0]回去工作了。」
+
+兩人愁眉苦臉的走開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Specified 1]皺了皺眉。「船長，你明白你應該瞄準絨精吧？最起碼我猜你也能命中桅桿啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Specified 0]笑著拿走了錢包。「祝你下次好運了，船長！我們回去工作了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>你向前走了一步，將身體重心稍稍偏過了瞄準線，然後投出了你的匕首。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我是說你們這兩雙幹活的手啊，&lt;i&gt;和&lt;/i&gt;，你們這對蠢貨籐壺腦袋！」
+
+塞拉芬歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「……噢。算了，我們塊頭太大了，當目標可不太好，塞拉芬。」
+
+水手聳了聳肩，看向了同伴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「他們對於目標的選擇還有待提升。」
+
+他笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>你向前走了一步，將身體重心稍稍偏過了瞄準線，然後投出了你的匕首。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>你向前走了一步，將身體重心稍稍偏過了瞄準線，然後投出了你的匕首。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>你向前走了一步，將身體重心稍稍偏過了瞄準線，然後投出了你的匕首。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>你四處查看，突然一把匕首飛掠而過，插在了你身後的箱子上。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

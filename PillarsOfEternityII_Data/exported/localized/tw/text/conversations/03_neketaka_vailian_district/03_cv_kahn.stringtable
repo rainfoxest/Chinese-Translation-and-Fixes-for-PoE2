@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_kahn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>181</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一名年輕女性在舞台附近徘徊，手中緊握著一杯麥芽酒。她對舞者毫無興趣，不過她的眼袋表明她無數次在酒館裡喝到深夜。
+
+她無精打采地環顧室內，看到你時突然眼睛放光，顯得很有興趣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>沒見過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[撒謊]「當然見過，我看到他好幾次呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你找他幹嘛？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「喂！你是一艘船的船長吧，你手下的船員裡有一個年邁的聚鹿精靈，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你見過？在哪兒見到的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你以為我會上當？偷糖果被逮個正著的孩童撒謊水平都比你高明。」</DefaultText>
+      <FemaleText>「你以為我會上當？偷糖果被逮個正著的孩童撒謊水平都比你高明。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你最近有沒有看到一個年邁的精靈在附近遊蕩？他衣著滑稽，爛醉如泥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「是又如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[撒謊]「精靈？我不認識什麼精靈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「看來我搞錯了。抱歉給你添麻煩了，陌生人。」卡恩聳了聳肩，圓圓的臉上露出一個頑皮又略帶挑逗意味的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「少來這套。我耐心有限，我有筆賬要盡快算清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「這事巧了，我不久前還真遇到過他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[撒謊]「沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「想騙我你還得多練練。」她朝你翻了翻白眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「見鬼，我就知道是這樣。」她長歎一聲，捏了捏鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你見過？在哪兒見到的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「那個卑鄙的混蛋欠了我好多錢，他的債現在得由&lt;i&gt;你&lt;/i&gt;來還了，『船長』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[撒謊]「國王港。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[撒謊]「碼頭那兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[撒謊]「之前在努亞堡見到的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「抱歉，我只是開個玩笑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「少忽悠我。我剛剛人就在碼頭，他根本不在那裡。」她雙臂抱在胸前，怒目而視。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我&lt;i&gt;從&lt;/i&gt;鹿林一路追這蠢貨到亡焰列島。我比誰都清楚，他就躲在列島的某處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「前兩天有人在涅克塔卡城見到了那個老醉鬼。他絕不可能在國王港。」她朝你翻了翻白眼，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「喂，你！你欠我錢還沒還呢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>卡恩冷冰冰地瞪了你一眼，一言不發。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「聽著，我找的這傢伙欠了我一大筆錢。5000枚銅幣。如果你幫我找到他，我就分你兩成。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「在一座供奉娥狄卡的巨型金字塔裡，不過那座金字塔不知在什麼地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「別吊我胃口！他到底怎麼樣了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「那個混蛋欠了我好多錢。」她舉杯喝了一大口，最後還很誇張地打了個酒嗝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「具體欠了多少錢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我或許可以幫你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[離開]「真令人遺憾。祝你好運！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「等等！」她突然跳起來想要攔住你，差點因為用力太猛而摔倒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>她湊到你耳邊，壓低了聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「真的嗎？」她驚訝地張著嘴巴，不停地眨著雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「具體欠了多少錢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「他總共欠了我5000塊錢，我很想收回這筆債務。不管是從他身上還是從你身上搶回來，都無所謂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「欠你的都給你，拿了就走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「他只是個身無分文的老酒鬼而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「啊，還真沒想到呢。謝謝你還了奧斯瓦爾德的債務，[Player Name]。願女神保佑你。」
+
+卡恩一口氣把酒喝光，然後把杯子重重摔在桌子上，顯然已經喝高了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「兩成？要我跑腿才拿這麼點兒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「誰欠你錢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[離開]「我沒時間聽你說這些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「就是我之前跟你提到的老酒鬼奧斯瓦爾德。我太過相信人，借給他一筆錢，他居然賴著不還跑掉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「好吧好吧，看在昂德拉大奶頭的份上，好吧。給你四成，然後奧斯瓦爾德有其它什麼小玩意兒給你的話，你也可以留著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「少於五成的工作兒的都不接，女士。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「沒問題，反正我也沒其他事幹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「隨便你。如果改變主意可以回來找我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你這是改變主意了？一定是牽掛著我的小麻煩吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我到過滿是怪物和邪教徒的遠古金字塔，還能活著走出來。你算哪根蔥？滾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我懂你的意思了。」她撅起了嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你是他船長，要為他的債務負責！你他媽的快還錢，否則別怪老娘不客氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「沒我幫忙的話，你一分錢也拿不回來。分成再高點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「這樣吧：我給你六成，不要再討價還價了。」她長歎了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「好吧，看在你這麼辛苦的份上，給你八成。但不能再高了。」她歎了口氣，沮喪地理了理頭髮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「那幹嘛跟我討價還價？」她氣鼓鼓地坐回椅子上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「真是太感謝了。之前誰也不願意幫我這個忙，好在有你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「這目中無人的小賤貨不肯答理我。也許你能從她身上問出線索來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「能減半嗎？我只有這麼多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「雖然沒達到我的要求，不過也行吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「不必了，我已經拿到奧斯瓦爾德的日誌了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我想先問你幾個問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[離開]「沒問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「調查別人的事情是件很爽的事情，對吧？嘿嘿，我也覺得很爽。我妹妹的虛榮心有多強，說出來你都不會信。」她狡黠地抿起了嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「找到那個瘋老頭子了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「看看誰來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「他死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「他因為違背誓言在受審。我救了他，但讓他去擺平自己的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[撒謊]「他死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「詳細經過就不必說了。他身上有錢嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「他身上有錢嗎？這老笨蛋欠我5000塊錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「沒有，他身無分文。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[撒謊]「哦，他有很多錢。有大把金幣、一些銀幣，還有一大袋銅幣……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我的老天爺，那死騙子耍我！」她憤憤不平地用拳頭錘著桌子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「既然你收穫了這筆橫財，應該可以把欠我的那份給我吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「錢是我找到的。都得歸我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「我剛才說他有很多錢嗎？其實他已經破產了。奧斯瓦爾德一分錢也沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「你想瞭解什麼事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「我不想惹麻煩。把錢交出來，大家都可以相安無事，誰也不會缺胳膊少腿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我剛才開玩笑的。那老頭身上一分錢也沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「這是奧斯瓦爾德的日誌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「你不是要去找什麼神廟嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我找到奧斯瓦爾德了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「然後呢？他在哪？拿回我的錢了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「說起來有點好笑，奧斯瓦爾德破產了。身上一個子兒都沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[撒謊]「就在我這呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「看來你沒讓我失望。」她的嘴角擠出一絲笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「看來你沒讓我失望。」她的嘴角擠出一絲笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「看來你沒讓我失望。」她的嘴角擠出一絲笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「那個狡猾的老雜種！早該料到的。」卡恩憤憤不平地用拳頭砸著桌子。餐具都被砸得跳了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「哦，不好意思，那你是蛛人？難道是海裔？該不會是矮人吧？因為你絕對不是精靈。對吧。」她轉了轉眼珠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>亞洛斯清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>亞洛斯清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「正是本人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「你信不信我打爆你的豬頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[翻白眼，聳肩肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「那個卑鄙的混蛋欠了我好多錢，他的債現在得由&lt;i&gt;你&lt;/i&gt;來還了，『船長』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「好想重溫一下在真床上睡覺的感覺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[撒謊]「他挺好的。啥事沒有。日子過得悠哉悠哉的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「我要找的那人叫奧斯瓦爾德，非常喜歡樓上的一個妓女艾娜麗絲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「你有沒有試過對人家客氣一點？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「我的『魅力』太獨特，她沒法接受。就看你的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>卡恩翻了翻奧斯瓦爾德的日誌，然後停下來，睜大眼睛看著你。有人在最後一頁上潦草地畫了娥狄卡的破碎王冠符號。
+
+卡恩喃喃自語。她的手指順著符號游動，皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「奧斯瓦爾德，你現在真的攪進這趟渾水了啊？居然惹上了&lt;i&gt;娥狄卡信徒&lt;/i&gt;？該死的老笨蛋。」她難過地搖搖頭，啪地一下合上日誌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「不知道他被帶到哪裡？」她用參差不齊的牙齒咬著下嘴唇，自言自語道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「運氣好的話，可以把那個老笨蛋活著找回來，然後咱倆都能分點錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「你跟奧斯瓦爾德有什麼淵源？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「奧斯瓦爾德為什麼會欠你錢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「說起來有點好笑，奧斯瓦爾德破產了。身上一個子兒都沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「啊，還想著你不要問我這個問題呢。不過問了也無所謂。」她不耐煩地用手理了理骯髒的頭髮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>她誇張地歎了一口氣，就好像不想再重複自己的故事一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>她幽幽地盯著酒杯，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[離開]「這樣的條件我寧願去喝西北風。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「看你的窮酸樣，有西北風喝都已經算不錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「如果改變主意可以回來找我——當然是在你喝完&lt;i&gt;西北風&lt;/i&gt;之後。」她薄薄的嘴唇擠出個得意的獰笑，然後揮手向你做了個脫帽禮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「跟她談過之後再來找我。我會一直在這裡，喝酒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「我不想管這件事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「這兩成報酬咱們用得上。有件事本不想讓你操心的，但你的床已經鬧了幾星期鼠災啦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[離開]「這我幫不了你。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>卡恩咧著嘴給了你一個大大的微笑，轉身離開，在出門前還不忘記向你揮手告別。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「啊，我要去趕一趟船。再見！」卡恩一口氣把酒喝光，然後頭也不回地衝出酒館。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「我該走了。要去趕一趟船。再見！」
+
+卡恩急匆匆地跑出酒館，嘴裡喃喃地說著要在你改變心意之前趕緊離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「謝謝你告訴我這個事情，[Player Name]。雖然不是我想聽到的，不過我也不想再惦記著這件破事兒了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>她揮手示意你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「那麼，你在哪裡見到過他？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「5000銅幣，信不信由你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「這貨一直是我家族的朋友，算起來已經長達四代人了。沒辦法，人家精靈就是能長命百歲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「其實是我的錯。我以為那該死的老酒鬼心裡還有點數，結果是我失算了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「這貨是個法師，還喜歡搗鼓些小發明。他誇下海口，說只要有足夠的光魂珀，就可以製造出一件可以延年益壽的裝置。我居然也信了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「拿了我的錢之後他肯定也沒上過心，因為有一天他突然就不聲不響地跑掉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「我以為自己很清楚他的為人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「噢。我認錯人了。對不起，陌生人。我看到穿著聚鹿服裝的精靈就激動了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「怎麼，跟我瞎還價還不夠你忙乎的嗎？」她眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「要是幫我收回這筆錢，就分你兩成，作為感謝費。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「看來你沒讓我失望。」她的嘴角擠出一絲笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>雖然語氣冰冷，但她雙眼裡卻有淚水在打轉。她悄悄地眨眨眼，把淚水縮了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「你、你這不要臉的白癡！但願海麗婭的飛鼠吃掉你的雙眼！」盛怒之下，她全身發抖，邁步離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>卡恩向你略微點了點頭，一口把剩下的酒喝乾。然後頭也不停地走出門外。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「老天爺，我也受夠了這個破島了。」她重重地歎了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「不好意思，我要走了。願沃艾珥的魔寵們保佑你。」
+
+卡恩向你略微點了一下頭，一口把剩下的酒喝乾了。然後頭也不回地離開了酒館。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「那個老頭兒到底在哪？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「當我們的船靠近涅克塔卡的時候，水手長告訴我在卡拉海峽的一個島上有座奇怪的寺廟，正好位於城市的西南面。
+
+「她不願意告訴它是做什麼的，但——當我問她時，她露出了非常驚恐的表情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「聽著，很抱歉把你拖進這擋破事兒。你給了奧斯瓦爾德一份誠實的工作，這是好事，我也要為你點贊。」
+
+「這事就這麼了結，大家各走各路，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「雖然沒達到我的要求，不過也行吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「我是淪落在鹿林鄉間的無數無名貴族之一。你聽過反抗之戰的英雄艾德瑪斯·哈德萊特吧？他可以說是我的曾曾祖輩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「怎麼？這樣的身份有什麼問題嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「請原諒我的不耐煩，『夫人』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「看到沒，這就是我不喜歡把身份告訴別人的原因。別人聽了會變得怪怪的。就像你這樣。語氣都怪怪的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「人們知道後，會開始表現得很奇怪，比如說稱我為『夫人』，為我開門，請我喝酒之類的。」
+
+「說真的，貴族頭銜什麼的完全是個笑話。對我來說毫無意義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「我懂你的意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「聽著，我找的這傢伙欠了我一大筆錢。5000枚銅幣。如果你幫我找到他，我就分你兩成。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>卡恩滿懷期望的看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「奧斯瓦爾德死了。他被娥狄卡的義務警員處死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>卡恩的臉色變了。她迅速把臉轉過去，淚水剛從她的睫毛上萌出來，她顫著聲歎了口氣，迅速擦掉了它們。
+
+短暫的情感波濤過去後，她穩住自己，把目光轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>她迅速把臉轉過去，淚水剛從她的睫毛上萌出來，她顫著聲歎了口氣，迅速擦掉了它們。
+
+短暫的情感波濤過去後，她穩住自己，把目光轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「去看看吧，然後告訴我你發現了什麼。」她用個漂亮的字型在地圖上為你標出了位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「你必須穿過半個亡焰列島才能到涅克塔卡。有什麼能吸引你的注意力嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「島上零星分佈著無數個小巖洞。你可以......把它們甄別出來嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[聳聳肩]「我怎麼知道呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「也不算吧。坦白說，我從反抗灣出來後，大部分的行程都花費在建立堡壘上面，目的就是想讓昂德拉嘗嘗失敗的滋味。
+
+「我&lt;i&gt;討厭&lt;/i&gt;坐船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「對——問你我在做什麼呢？」她搖了搖了頭，並給你以苦笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「你問錯了人。我對這裡也不熟。」</DefaultText>
+      <FemaleText>「你問錯人了。我對這裡也不熟。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「媽的，要是我能找到船長，告訴我去往亡焰列島的通道就好了。我打賭他知道......
+
+「等一下。」她一邊眨眼，一邊回憶著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「我也如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>卡因略微笑了下，大概是笑她自己的。她好像聽得心不在焉的，心思都飄到其他地方去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>[聳聳肩。]「聽起來像個可以做事的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「奇怪的寺廟？指給我看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「你為什麼不去看看呢？」她用個漂亮的字型在地圖上為你標出了位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>[撒謊]「就在我這呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>[撒謊]「就在我這呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[撒謊]「就在我這呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>[撒謊]「就在我這呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

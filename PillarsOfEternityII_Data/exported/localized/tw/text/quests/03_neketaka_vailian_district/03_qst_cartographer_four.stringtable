@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_four</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>測繪亡焰列島：焚火沙洲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>探索瑪珈嵐之牙附近的未標小島。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找桑扎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在女王港見到的衝動繪圖師桑扎想要編匯一本亡焰列島的完整指南，但是他一個人沒辦法完成這任務。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>女王港裡的繪圖師桑扎請求我幫忙為亡焰列島中的未標小島測繪。
+
+桑扎要求我為人稱焚火沙洲的區域中的島嶼測繪。我能在東北邊的歐菲吉亞海峽附近找到我的目標。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經完成了焚火沙洲島嶼群落的測繪。&lt;b&gt;桑扎&lt;/b&gt;在涅克塔卡&lt;b&gt;女王港&lt;/b&gt;的商店裡等我前去報告。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我在東北邊的一座島嶼上發現了巫妖寄居的一處被淹沒的遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我在歐菲吉亞海峽西面找到了一處崩塌礦進的遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我已經為焚火沙洲中的島嶼完成測繪，並且我已經回桑扎那拿取了我的獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

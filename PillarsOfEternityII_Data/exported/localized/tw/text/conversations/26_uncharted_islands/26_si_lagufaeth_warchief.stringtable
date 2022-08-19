@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_lagufaeth_warchief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>一群魚人圍在一對原始魔符周圍。來回搖動，用一種刺耳、嘶嘶作響的語言吟唱著。他們似乎沒有發現你的出現。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[向魚人發起進攻。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>你在魚人發現你前悄悄溜走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[悄悄靠近魚人身後。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>魚人偶然回頭，凸出的雙眼驚恐地睜大。他們揮舞著武器，威脅地向你發出卡嗒卡嗒聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>當你悄悄接近魚人時，他們腳邊的魔符開始發光，警告他們你出現了。他們一把抓起武器並在嘶嘶吟唱聲中向你發起攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

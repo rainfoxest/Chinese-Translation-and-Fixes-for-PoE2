@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_prototype\00_cv_himuihi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>139</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>女人站在尚未完工的建築物外，雙臂交叉在胸前，彷彿對這座遮風避雨的建築物十分不滿。
+
+她看起來悶悶不樂，但她臉上的傷疤使她的表情難以判斷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你為何在這裡逗留？村子太安靜了。」她躁動不安地用手輕撫著武器，瞇起眼睛眺望地平線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「看來魚人不會再找我們麻煩了。我可以儲存體力，以後還會遇到值得一戰的對手。」她謹慎地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我想僱傭幫手加入我的冒險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[將巢母的頭交給她。]「我殺死了魚人巢母。現在其他魚人勢單力薄，不會發起攻擊了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我們應該放走魚人幼崽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「其他馬塔魯會因為輸掉比賽而痛哭流涕的。」
+
+她捧著頭顱，凝視著魚人的雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「但你沒有笑！就是說你並不是開玩笑囉？
+
+「我為什麼要幹這種傻事？」她抹去眼角歡樂的眼淚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「魚人天性不喜與外界接觸。要不是你們抓了他們的幼崽，他們不會來你們村莊惹麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「他們也有氏族和家庭。要是有人把你的孩子關了起來，你會怎麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「這次馬塔魯總算有用武之地了。挑選最優秀的獵人和戰士。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「那就把鑰匙拿去吧。要是出了意外，就高聲呼救。」她一隻手將鑰匙遞給你，另一隻手扛著武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我要找個地方休息一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你在別處不可能找到這麼熱情好客的部落。」她猛地將臉湊到離你的臉只有幾厘米的地方，凶巴巴的瞪著你，彷彿在考驗你是否反駁的勇氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「看，村民們為了給你接風洗塵，扭打在了一起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「你在這條沉船這裡幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我能買點物資嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我是不是庫亞魯？我會讓千人指萬人摸的錢幣弄髒我的手指頭嗎？死也不會！」
+
+她啐了一口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「去見見那個汗漬漬的傢伙。就是那個矮人。他有時候會洗手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我不是庫亞魯！我從來不碰那些髒兮兮的金屬片！去找——」
+
+她回頭一看，發現空無一人。
+
+她把頭轉了回來，惡狠狠地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「先把金屬片擦乾淨再交給我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「骯髒的蜥蜴。在這裡我都能聞到他們的氣味。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「那有什麼問題嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「蘭迦想建造貿易站。」她怒視著那座怪異的建築，看起來就像腳手架和沉船搭起來的怪東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我一天到晚站在這裡，這不是馬塔魯該干的工作！我們的天職是狩獵、戰鬥和領導他人。」她走到貿易站旁邊，雙臂和雙腿因躁動而顫抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「他說它會帶來更多汗漬漬矮人那樣的瓦利亞人。然後這些人會帶來食物、物資和汗漬漬的錢。」她臉上泛起一陣厭惡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你看起來像個監督者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你為何不去狩獵或戰鬥？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「總得有人做。」她停下腳步，皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「在這塊苔蘚覆蓋的大石頭上有獵物給我們打嗎？沒有獵物，只有赫希納溪谷中那些鬼鬼祟祟的魚人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「連羚羊都知道這裡不是宜居之地。這裡牧草稀疏，樹木就跟孩童的骨頭一樣又小又軟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「就連造這座樓，我們都要上山去取木材。」她用指關節敲了敲貿易站的一側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>她哼了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「貝拉斯用臉部甲殼圍住你的鼻子，你肯定心懷感激吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你什麼意思？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我也想帶頭突擊，但蘭迦命令我們守衛瓦利亞人和他們的物資。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「但現在蘭迦和很多其他人都不在了，我們不能離開，不然村莊就無人保衛了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「要不是蘭迦命令我們保衛這座貿易站，我肯定會拿起長矛跟你去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>她往後甩了甩頭，大笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「他們還小。對你構不成威脅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>她的表情變得冷酷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「那我永遠不會原諒他們。我們必須消滅巢母，不然她會變得更加肆無忌憚。」她又拭了拭去了眼中的淚花。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「但他們很快就會長大。到時候就會變成威脅了。也可能變成盤中餐。」她的肚子咕咕叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「他們是畜生。會前往聞到食物氣味的地方狩獵。而他們聞到了我們村子裡食物的氣味。」她向前俯身，緩慢地說道，彷彿在向一個小孩子解釋問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「他們把你們搞得焦頭爛額對吧？放了他們的幼崽，他們就不會再來惹麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「如果我放了幼崽，等他們長大了就會發動攻擊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「你為什麼把這個無聊的笑話又講一遍？不行。」她把雙臂交叉在胸前，這一次看起來比上次嚴肅多了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「他們會逃走並忘記這個地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「當你追蹤更醜的獵物時就穿著這個。與其把它掛在小屋的牆上，不如掛在獵人的腰間。」
+
+她帶著苦樂參半的眼神，取下腰帶並遞給你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「這不是我的請求，而是要求。如果你知道我是誰，這應該就足夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「一個連部落都沒有的流浪者大搖大擺地四處晃悠，以為自己是蘭迦嗎？」她朝你腳下的沙子上啐了一口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「亡焰列島上每個胡亞納都知道你的大名。
+
+「因為你是我們中的大哥，我信你準沒錯。」她費力地在語氣中摻入一絲羞怯，這幾個字就像從牙縫裡擠出的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「之前他們在我面前逃走時，我以為他們害怕的是我的武器。「她再次放聲大笑，但消失很快消失，取而代之的是憂傷的沉默。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「漁民說你放走了魚人！你發了什麼瘋？」她狠狠地瞪著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「至少等他們回來時弄死他們還是值得期待的。」她沒好氣地哼了一聲，看向了別處。你可以聽到她牙關緊咬的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「還有你，不是你的東西別亂碰，聽明白了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「還有你，不是你的東西就別用毛茸茸的爪子亂碰，聽明白了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「還有你，不是你的東西別亂碰，聽明白了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我們祖先的狩獵故事中提到殺死魚人的蘭迦，魚人群落就會四散而去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「不久之後我就會把那個女魚人的腦袋頂在我的小屋上。」她長吁一口氣，看向了別處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「那我們只能希望你放走的那些魚人不會長成和這個一樣的龐然大物。」
+
+她不耐煩地瞥了你一眼，然後又將注意力轉向巢母的頭顱上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「擦亮眼睛，豎起耳朵。母親在附近時，崽子們膽特別大。」她輕拍眼角，凝視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「靠近一看魚一點也不『小』，但我看你能應付。」她再次打量你，這次不住點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「我將關著幼崽的籠子朝著海灘推了不少距離，但在這裡我還是能聞到他們的氣味。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「你是從別處來到提卡瓦拉島的嗎？陌生人，你是誰？」她的手伸向緊緊纏在腰間的皮帶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「我什麼都沒聞到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「我這兒的朋友們說他們在我們離港前已經洗過澡了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>她發出低吼。「我說的是魚人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「聞起來像一座海濱村莊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「你當然能。你們種族鼻子長得就像棕櫚鼠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>艾德爾看了看四周有沒有路人，然後低頭嗅了嗅自己的腋下。他發現的東西似乎令他大吃一驚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「實際上是一天兩次。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[嗅了嗅空氣]「四個魚人。根據氣味判斷，他們還是幼崽，且遇到了險情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「看來你是個資深獵人。」
+
+她讚許地點頭道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「或者說用上你們種族類似眼睛和耳朵的器官。」她皺起眉，看上去有點沒把握。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>她臉上出現了痛苦和驚訝的表情。你敏銳的目光發現了一道有些年頭但露出肉的傷口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>在她的腦海裡，你瞥見的畫面是懸崖上一座被毀的村莊，海姆西手裡的一桿斷矛和一艘消失在地平線的奴隸販子的船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「等你回到自己那艘船上時也會如此。但我們會被魚人問題搞得焦頭爛額。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「別再說傻話了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「但你是對的。我不必再忍受他們的臭味。」
+
+她摸了摸下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「你為何再次提起此事？」她眉毛上揚，但仍在聽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「你沒聽到蘭迦的話嗎？在提卡瓦拉上沒有人家會收留你們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「由於奈利給你擔保，你可以在神社裡睡。如果你能在詠唱聲中睡著的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「看著他們被關在籠子裡我於心不忍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「別問我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「別再說傻話了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「伊希，我不是叫你去把自己洗洗乾淨嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「船長，我從不向人允諾做自己不想做的人。」
+
+塞拉芬撓了撓體側，咧嘴而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「我確實長著羞於向人提起的腺體，但它們的衛生工作我向來做得很好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「噢，拜託。你知道我只在週日洗臉。」
+
+她向你眨眨眼，但接著就伸手拂去頭髮上的灰塵和小枝，將剛剛微妙的氣氛毀去不少。至少……可能是&lt;i&gt;最近&lt;/i&gt;切磋時弄上去的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「要知道，它們是動物。你必須依靠刀劍，而非言語。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>塞拉芬的毛豎了起來，他的大眼睛與你的目光相遇並瞇了起來。他的喉嚨中傳來了輕微的低吼聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「船長，當心。奴隸制是很嚴肅的話題。」
+
+他朝海姆西皺了皺眉，撓了撓後腦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「希望他們別等那麼久。我想趁崽兒還小，看他們用小爪子小牙齒打架兒的樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「你是部落的表親吧，但並非來自提卡瓦拉島。陌生人，你是誰？」她瞇起一隻眼打量你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「有些部落將這些害蟲幼崽視為美餐。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「怪不得海灘聞起來像魚人孵化場時他們會來這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「你們是否打算處理這些害蟲？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「你不止要讓他們挨餓，還要惹惱他們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「並非每天都有新來者登上我們的沙灘。要不你們向我們展示一下外來者處理魚人的方式吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「在這座貧瘠的小島上，沒有那些怪物不偷的食物！」一道道傷疤使她的臉上只剩下怒容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「話是不假，但你怎麼『拒絕』那麼可愛的小臉蛋呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「他們時刻在我們村莊周圍徘徊，尋找弱點。」
+
+她搖了搖手指，似乎準備發表已經發表過多次的見解。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「要我說，與其磨利吹箭不如將他們牢牢控制在掌中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「我們考慮過……很多替代柯基果的方案。」說道這件事，海姆西咧嘴一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「在你們的部落裡，肯定有人對付過魚人吧？」不知能否不吝賜教？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「他們憤怒時會變得愚蠢而魯莽。比平時更甚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「一周前，我追蹤魚人來到了赫希納溪谷，於是我向馬塔魯發起狩獵挑戰，斬下巢母頭顱者將得到我母親的腰帶。」
+
+她露齒而笑，用拇指摸了摸腰間的皮帶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「你看起來很強，搞定幾個魚人應該不在話下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「比賽聽起來很有意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「我會考慮的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「這種工作對馬塔魯來說是一種恥辱。」她收緊交叉的雙臂，看著胡亂建起的建築，似乎想將其一腳踹倒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「沒必要追逐幼崽，只要砍下母親頭顱就行了。」她做了一個抹脖子的手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[將巢母的頭顱交給她。]「你似乎欠我一根腰帶啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「你指的是我放走的那些幼崽嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>她做捂臉狀，嘟囔著罵了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「如果你所言屬實，你就虧欠了部落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「你這外來者洞察力倒挺強。」她點點頭，撅起嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「我是[Player Name]，[Player Ship]的船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「[Player Name]。我離開群島好幾年了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「我只是路過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「你是船長？假如你順風的話，就不會在這座小島上停留。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「你已經摩拳擦掌讓我感到很憂慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「我告訴蘭迦盧亞努說提卡瓦拉島的臭味會趕走友人和外來者。你聞到了嗎？」她哼了一聲，做了個怪相。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「哼。隨著湧入的外來者越來越多，部落的兒女們開始憧憬外面的世界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「抱歉。外來者、饑荒和害蟲讓我們所有人忘記了禮數。」她歎了口氣，向你攤了攤手，然後又交叉起雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「[Player Animal Companion]和我並不介意去孵化場裡一探究竟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「如果他們在吹箭的尖端塗上什麼有意思的東西，我會十分感興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「亡焰皇家商行派我來視察一支瓦利亞探險隊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「啊。那些挖掘者從我們蘭迦手中得到想要之物後就立刻離開了，並沒有逗留。」她向重巒疊嶂的地平線做了個表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「瓦利亞商行想要我照看他們投資的項目。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「又是商人和挖掘者嗎？奉勸你們打哪兒來回哪兒去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「那就對幼崽動手，看他們如何反擊吧。」她低頭盯著面露驚恐之色的艾德爾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「不，如果你放走了幼崽，他們只會心存感激，動物都這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>她皺起眉，思索著如何反駁，但制止了自己。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「這麼小的生物不應被關在籠子裡。求你高抬貴手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

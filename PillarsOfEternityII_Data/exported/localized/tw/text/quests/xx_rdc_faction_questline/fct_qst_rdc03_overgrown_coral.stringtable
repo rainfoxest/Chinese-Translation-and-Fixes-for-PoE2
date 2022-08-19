@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc03_overgrown_coral</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>生長過度</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>與&lt;b&gt;艾維拉&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>前往&lt;b&gt;席格納斯·莫爾&lt;/b&gt;的水下遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>前往&lt;b&gt;席格納斯·莫爾&lt;/b&gt;的水下遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>找到魔力的來源。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>處理機器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>回去找&lt;b&gt;艦隊指揮官岡谷&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>回去找&lt;b&gt;艦隊指揮官岡谷&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>回去找艦隊指揮官岡谷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>與&lt;b&gt;首席工程師河圖&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;艦隊指揮岡谷&lt;/b&gt;要求我去查明造成&lt;b&gt;梨繪港&lt;/b&gt;周邊的珊瑚過度生長的魔力來源。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>艦隊指揮告訴我去找一名可以幫助我查明梨繪珊瑚問題起因的瓦利亞科學家&lt;b&gt;艾維拉&lt;/b&gt;。
+
+我可以在梨繪&lt;b&gt;亡焰皇家商行工坊&lt;/b&gt;裡面找到她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>艾維拉認為珊瑚過度生長的起因來源於英格維仙遺跡&lt;b&gt;席格納斯·莫爾&lt;/b&gt;。她給了我一頂潛水頭盔，這樣我就能自由探索遺跡了，遺跡位於&lt;b&gt;梨繪南岸&lt;/b&gt;海下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>首席工程師河圖認為珊瑚過度生長的起因來源於英格維仙遺跡&lt;b&gt;席格納斯·莫爾&lt;/b&gt;。他給了我一頂潛水頭盔，這樣我就能自由探索遺跡了，遺跡位於&lt;b&gt;梨繪南岸&lt;/b&gt;海下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>我已經到達了席格納斯·莫爾遺跡並發現裡面滿是可呼吸的空氣。我仍然需要查明珊瑚過度生長的起因並處理這一問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>我在過度生長的珊瑚中央發現了一台機器，但是當我試圖關閉掉它的時候被&lt;b&gt;伽拉溫&lt;/b&gt;阻止了。
+
+他請求我去關閉掉正在生成保護席格納斯·莫爾不受海水侵蝕的護盾的&lt;b&gt;高塔&lt;/b&gt;而不要去干涉機器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>我沒有聽從伽拉溫的請求並關閉了造成珊瑚過度增長的機器。
+
+我應該回去找&lt;b&gt;艦隊指揮岡谷&lt;/b&gt;並查明珊瑚是否已經恢復到了可控制的大小。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>我按照伽拉溫的請求摧毀了席格納斯·莫爾裡的高塔。沒有了護盾的遺跡被海水吞噬了。
+
+我應該去找&lt;b&gt;艦隊指揮岡谷&lt;/b&gt;並告知她這一壞消息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>我關閉了席格納斯·莫爾裡的高塔，廢墟被海水吞噬了。
+
+我應該回去找&lt;b&gt;艦隊指揮官岡谷&lt;/b&gt;看看我的行為有沒有解決她的珊瑚問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>艦隊指揮岡谷告訴我去與梨繪中的首席工程師&lt;b&gt;河圖&lt;/b&gt;談一談。他也許可以幫助我查明珊瑚問題的來源。
+
+他與其他的工程師們一起待在了梨繪的&lt;b&gt;亡焰皇家商行工坊&lt;/b&gt;裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我決定去幫助&lt;b&gt;伽拉溫&lt;/b&gt;，他告訴我去關閉&lt;b&gt;遺跡&lt;/b&gt;中的&lt;b&gt;三處高塔&lt;/b&gt;。這樣做將能夠關閉抵擋海水的屏障。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我關閉了一座高塔，保護屏障似乎微微削弱了。還剩兩座。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我關閉了第二座高塔，屏障已經明顯削弱。還剩一座高塔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我找到了一台小巧的&lt;b&gt;英格維仙機器&lt;/b&gt;，但我不知道它是用來做什麼的。或許遺跡中會有某些東西能給我啟發。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我關閉了造成珊瑚過度生長的機器。&lt;b&gt;伽拉溫&lt;/b&gt;很不滿意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>作為對我抗命行為的報復，&lt;b&gt;伽拉溫&lt;/b&gt;派了一隻海怪來阻止我離開遺跡，但是我勝利了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我發現了一台充滿能量大型&lt;b&gt;英格維仙機器&lt;/b&gt;，不過，我覺得暫時還是不要碰它為好。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>艦隊指揮岡谷知道我解決了珊瑚問題之後非常高興。她命令梨繪碼頭盡快重新開放。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>艦隊指揮岡谷得知珊瑚問題仍然沒有被解決之後憤怒異常，她用象徵性的少量報酬打發了我。但是伽拉溫賜予我的祝福絕對能夠派上大用場。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>艦隊指揮岡谷得知珊瑚問題仍然沒有被解決之後憤怒異常，她用象徵性的少量報酬打發了我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>亡焰皇家商行已經宣佈我是他們的敵人了。我覺得他們應該不會在乎我在他們的珊瑚問題上提供的幫助了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

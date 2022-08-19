@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_neketaka_slums_district\06_qst_treasure_hunt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>號角的呼喚</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>從巨蛇王冠裡的&lt;b&gt;高野宅邸&lt;/b&gt;獲取&lt;b&gt;海浪號角&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與&lt;b&gt;葛溫芬&lt;/b&gt;在&lt;b&gt;地下室&lt;/b&gt;見面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>在&lt;b&gt;舊城&lt;/b&gt;中找到一座&lt;b&gt;昂德拉神廟&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>向&lt;b&gt;地下室&lt;/b&gt;入口處的&lt;b&gt;葛溫芬&lt;/b&gt;匯報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>回去找&lt;b&gt;峽口&lt;/b&gt;裡的&lt;b&gt;德理奧&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>與神秘人在&lt;b&gt;峽口&lt;/b&gt;見面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>將號角還給&lt;b&gt;峽口&lt;/b&gt;裡的&lt;b&gt;德理奧&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>回去找峽口裡的德理奧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>在&lt;b&gt;舊城&lt;/b&gt;尋找&lt;b&gt;德理奧&lt;/b&gt;想要的嵌板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;峽谷&lt;/b&gt;裡的一名黑道頭目&lt;b&gt;瘦子德理奧&lt;/b&gt;正在尋找一件被稱作&lt;b&gt;海浪號角&lt;/b&gt;的貴重文物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>德理奧要求我從馬塔魯人&lt;b&gt;高野&lt;/b&gt;手中獲取一件叫做&lt;b&gt;海浪號角&lt;/b&gt;的文物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;葛溫芬&lt;/b&gt;在一扇古代胡亞納大門旁的&lt;b&gt;地下室&lt;/b&gt;裡等著我與號角。
+
+德理奧要求我通過與峽谷隔開的&lt;b&gt;潛民街&lt;/b&gt;裡的一座&lt;b&gt;升降梯&lt;/b&gt;去見她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>看來德理奧在尋找的嵌板就在&lt;b&gt;廢墟&lt;/b&gt;中的某座&lt;b&gt;古老神廟&lt;/b&gt;中。
+
+&lt;b&gt;葛溫芬&lt;/b&gt;要求我發現嵌板之後告訴她具體位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我找到了昂德拉神廟，看到牆壁上鑲著一塊精美的嵌板，上面描繪著某個叫做「烏凱佐」的的地方。這一定就是&lt;b&gt;德理奧&lt;/b&gt;在尋找的東西了。
+
+&lt;b&gt;葛溫芬&lt;/b&gt;在&lt;b&gt;舊城&lt;/b&gt;與&lt;b&gt;地下室&lt;/b&gt;之間的通道處等著我的消息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>葛溫芬正在去神廟的路上。她要求我將好消息帶給&lt;b&gt;德理奧&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>一名信使告訴我有重要任務想要跟我見面。
+
+我需要進入&lt;b&gt;峽口&lt;/b&gt;然後右轉後再右轉，之後在彎道處左轉後尋找使用幻葉果的痕跡。如果被人攔住我可以說是&lt;b&gt;德理奧&lt;/b&gt;派我來的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>我得到了一個刻有昂德拉的符印的貝殼物件，似乎這就是&lt;b&gt;德理奧&lt;/b&gt;想要的「號角」。
+
+他正在環繞著峽谷的&lt;b&gt;峽口&lt;/b&gt;隧道中等待著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>我找到了昂德拉神廟，看到牆壁上鑲著一塊精美的嵌板，上面描繪著某個叫做&lt;b&gt;烏凱佐&lt;/b&gt;的的地方。這一定就是&lt;b&gt;德理奧&lt;/b&gt;在尋找的東西了。
+
+他允諾我找到之後將會給予我一份獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>德理奧想要我找到&lt;b&gt;舊城&lt;/b&gt;中的一塊嵌板。現在葛溫芬已經不在了，我只能希望自己能夠一眼認出嵌板了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;德理奧&lt;/b&gt;比表面看上去地更加急切渴望號角。他說號角非常寶貴，但是他並沒有細說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;舊城&lt;/b&gt;遺跡裡面有一塊描繪著兩枚海螺貝殼的壁畫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我在&lt;b&gt;舊城&lt;/b&gt;裡面找到了一塊刻有月神教符號的貝殼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>&lt;b&gt;葛溫芬&lt;/b&gt;就在&lt;b&gt;地下室&lt;/b&gt;裡面一處古代胡亞納廢墟外面，就在那裡的堡壘附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我僱傭了&lt;b&gt;鐵銹&lt;/b&gt;去為我獲取海浪號角。刺客需要一整天才能完成這份工作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;葛溫芬&lt;/b&gt;覺得我可以利用號角開啟月神教雕像旁的一扇門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;德理奧&lt;/b&gt;提到了有關聯的一份文物&lt;b&gt;深淵號角&lt;/b&gt;在&lt;b&gt;舊城&lt;/b&gt;沉沒時消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>我不是第一個去嘗試的人。&lt;b&gt;德理奧&lt;/b&gt;最初僱傭了其他人，但是他們沒有成功。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>我在從&lt;b&gt;高野&lt;/b&gt;那裡回去的路上被&lt;b&gt;德理奧&lt;/b&gt;最初找到的傭兵&lt;b&gt;艾泰拉&lt;/b&gt;埋伏了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>我在神廟裡面找到了刻有兩個孔洞的一面牆壁。每一個孔洞正好能夠塞進一個號角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>按照&lt;b&gt;高野&lt;/b&gt;的說法， 一個相似的號角在&lt;b&gt;舊城&lt;/b&gt;淹沒的時候失蹤了。數名月神教徒與號角一起消逝了，他們被詛咒在號角出現之前永遠也不回到人世。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>我在神廟裡面找到了刻有兩個孔洞的一面牆壁。每一個孔洞正好能夠塞進一個號角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>升降梯位於&lt;b&gt;潛民街&lt;/b&gt;裡&lt;b&gt;厄爾內佐的商店&lt;/b&gt;旁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>&lt;b&gt;高野&lt;/b&gt;並不是非常在意&lt;b&gt;海浪號角&lt;/b&gt;，而且他很缺錢。也許他會願意賣掉號角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>我殺死了&lt;b&gt;葛溫芬&lt;/b&gt;。現在我得想辦法弄清楚號角的工作原理然後給&lt;b&gt;德理奧&lt;/b&gt;弄到他想要的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>聽見我針對烏凱佐嵌板的發現之後德理奧非常滿意。他警告我不要聲張此事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;德理奧&lt;/b&gt;正在尋找舊城中的一塊&lt;b&gt;嵌板&lt;/b&gt;。號角能夠將我帶到嵌板那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>一位大人物對我產生了興趣。我被要求與他在&lt;b&gt;峽口&lt;/b&gt;見面。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

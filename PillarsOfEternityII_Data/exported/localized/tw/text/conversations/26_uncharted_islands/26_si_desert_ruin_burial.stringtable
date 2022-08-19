@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_desert_ruin_burial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>159</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你躺在一塊華麗設計的石棺上，該石棺由一塊很純的幾乎是半透明的魂珀雕刻而成。
+
+ 無論誰躺在裡面，他的輪廓都很清晰， 但他的特徵細節卻很模糊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你在石棺的側面找到一塊不透明的面板，它的上面刻著一些神秘的符號。
+
+在這個面板中，有一個被拋光的金屬指針環繞的洞，它可以到達石棺的深處。
+
+在中心裝置的周圍，是三塊石匾，每塊石匾上都雕刻著一副圖畫——它們是一隻鳥、一條華臍魚和兩條相互吞食的鰻魚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[檢查匾和指針。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[嘗試移動指針]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>當你開始轉動指針的時候，一陣刺耳的隆隆聲響徹房間，並且你腳下的地面在搖晃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>當長時間未啟動的機關開始運轉時，一陣古老的呻吟聲顫抖著傳過你下面的平台。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>這裡肯定藏著一些特別不喜歡有人來冒險的機關，你退後，遠離石棺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[伸進洞裡]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你把手伸進洞裡，指尖感覺到有一些粗糙和乾燥的東西。你把它拉出來，露出手臂的骨頭和一隻殘肢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你的好奇心全沒有了，把手伸進洞裡，在石棺的突起部分找到一個握把。你推拉它，一點效果都沒有，但轉動它好像有些效果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[扭動握把。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>扭動握把，然後停下來，發出一陣輕微的卡嗒聲。你看到什麼也沒有發生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你轉動握柄的時候，握把會嘎吱作響，然後停下來，發出一陣輕微的卡嗒聲。你身後的門&lt;i&gt;呼&lt;/i&gt;地一聲滑開了。沙子不再從附近的雕像中流出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[SkillCheck 0] 輕推地板上的骨架，並做了個鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>握把似乎是一個死人控制的開關——但只要握住握把，就不會被困。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[放開握柄。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>這些牌匾都是精心雕琢的。你認出被描繪的生物是胡亞納對於亞彌拉、恩加蒂和理庫胡諸神的形象。現在指針停在亞彌拉和恩加蒂的圖像之間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>沿著指針軌道邊緣，你用你的手指尋找你的眼睛可能遺漏的細節。你感覺在理庫胡牌匾的中心有個非常微細的凹痕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>根據已有的指針和雕刻的牌匾，你推斷石棺是用組合鎖密封的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[試圖用力打開石棺。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你把你的手指摳入一個好放入的位置，將力量聚集在一起，試圖把蓋子打開。蓋子紋絲不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[拼圖開始了]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[進一步檢查石棺。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>魂珀石棺不適合你。你找到一個好下手的地方，將你的力量聚集在一起，然後把石棺的蓋子打開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>儘管石棺的蓋子看起來不厚，但你要嘗試打碎它也是不可能。
+
+你將兩根撬棍楔入石棺蓋子下面。一根撬棍卡住並向下用力，另一個深入魂珀，這樣你就能把蓋子打開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>揭開的石棺中有一具死去已久的古屍，它從頭到腳都穿著胡亞納酋長的多彩華麗的服飾。
+
+屍體躺在一片魂珀上，在它的後面，你可以看到石棺組合鎖的互鎖齒輪和古老的機關。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>骨架周圍是國王珍視的舊硬幣和名貴的寶石。骨架的手裡拿著一塊很舊、很多層並且裝飾著口袋花彩的布。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[拿陪葬品。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[拿布。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[嘗試移動指針]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>根據您之前對匾的檢查，您可以確定理庫胡匾是第一塊匾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[飛鳥，亞彌拉]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>你首先應該考慮一下將指針放在哪裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[鮟鱇魚，恩加蒂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[鰻魚，理庫胡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>在指針卡入到位之前，你要一直轉動指針。
+
+接下來你要考慮應將指針放在哪裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>第四次和最後一次，你應將指針與匾對齊。你屏住呼吸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[飛鳥，亞彌拉]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[鮟鱇魚，恩加蒂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[鰻魚，理庫胡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>石棺在隆隆作響。一些東西阻止了齒輪內部移動。
+
+你身後的雕像的嘴巴張大了，彷彿在無聲地吶喊。沙子繼續向外流出，速度比之前快了兩倍。
+
+指針重回到中間位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>沙子從雕像中湧出，速度從慢速到滴落，然後完全停止。已經堆積在地板上的沙子透過一些格柵又從室內排出去。
+
+你身後的門滑開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[從拼圖處退回來。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>你從石棺那裡後退了一部，使你的情緒穩定下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>你下面的地面在搖晃。但是，石棺仍然沒有打開。 
+
+更多的沙子從雕像的嘴中湧出，一會兒就流到了平台上。 
+
+指針重回到中間位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>石棺最後緩緩發出一聲嘎吱。沙子將房間埋沒了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>你努力使自己擺脫潮水般的沙子，但一點用都沒有。一會兒，你就被埋在這鋪天蓋地的沙子下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>當黑暗降臨的時候，你腦海中最後的畫面是蒼白騎士失望的臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Specified 0]伴隨著一聲如釋重負的歎息，放開死人身上的開關。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>你聽到古代齒輪艱難轉動的低鳴聲。死人的開關似乎正阻止石棺被打開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你將寶藏上厚厚的灰塵刷掉，取下腐爛的布料，然後將寶藏整齊地裝入你的包裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>你小心翼翼地將古老的胡亞納酋長的手從布上拿開，將它放在你的包裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>握把看起來是房間陷阱的開關。然而，當你鬆開握柄時，沙子又開始流動了，你身後的門吱地一聲關上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Specified 0]驚訝地大叫起來。隨著一聲尖叫聲， 開關迅速地縮回到石棺中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>在指針第二次歸位之前，你一直掰著指針。
+
+接下來你要考慮應將指針放在哪裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[飛鳥，亞彌拉]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[鮟鱇魚，恩加蒂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[鰻魚，理庫胡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>在指針第三次歸位之前，你要一直掰著指針。
+
+接下來你要考慮應將指針放在哪裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[飛鳥，亞彌拉]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[鮟鱇魚，恩加蒂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[鰻魚，理庫胡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>當沙子湧入你周圍時，你搶走了古老的胡亞納酋長手中的布。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[返回去檢查石棺。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>沙子從靠牆的雕像中湧出來。堆積在地板上，然後到了平台上。不久，它沒到了你的腳踝處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>控制石棺底下古老機械的齒輪在不受干擾幾個世紀後，緩緩地發出吱吱的尖叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[伸進洞裡]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>通過力量以及堅持不懈的努力，你設法將石棺洞中的沙子挖出來，並用力將你的手臂伸到洞裡面去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>你試圖伸到洞裡面，於是瘋狂地把沙子從石棺裡挖出來，但卻一點也沒有用——沙子堆積的速度比你挖的速度更快。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「我希望你完事後把手洗乾淨。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「總有一天，你得坐下來，向我解釋你想要找的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「我敢打賭你在葬禮上肯定很有趣。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「我們最好還是不要把手放進黑洞裡面了，以免那些殺人怪獸對我們下手。」
+
+帕蕾吉娜帶著一種病態的好奇心看著手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「謝謝，船長，我在想我到底把那東西放在哪兒了。
+
+塞拉芬皺起鼻子對著你那份毫無吸引力的獎品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「下次你把洞挖到泰克胡，可以嗎？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>裘荻把她的手放在滿是灰塵的洞的邊緣。她一邊微笑，一邊檢查指尖上的大塊污垢，然後隔著頭髮刮掉這些髒污。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「如果這是一個關於冒險和自覺性的價值的教訓，或者我們可以再利用一次？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「你剛剛那樣做了嗎？也許會適得其反。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「被困在石棺中？誰會想到這些事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「你必須知道將要發生的事情。」
+
+帕蕾吉娜似乎對突然活躍的古代建築感到無所適從。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「你知道當你把死人埋在海裡會發生什麼嗎？&lt;i&gt;不是這個！&lt;/i&gt;」
+
+當他蹲下來躲避隆隆聲時，耳朵在抽搐著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「沒錯，每次我擺弄死人時都會發生這種事！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「這就是你挖死人時要小心點的原因。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Specified 0]的臉扭曲成一種恐慌的表情。
+
+指針重置到中間位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Specified 0]站立並舒展著疲憊的肌肉，發出顫抖的歎息聲。
+
+沙子又開始從雕像裡湧出來。指針重回到中間位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>你盡可能長時間地屏住呼吸，徒勞地把頭伸向天花板附近不斷縮小的空氣間隙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>你放開握把，然後離開了石棺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>你聽到了魂珀石棺內轉動的古代齒輪發出的嘎嘎聲。在發出巨大的「砰」的一聲後，石棺的蓋子滑開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>如果你得不到這些財富，那它們對你而言毫無意義，所以你還是集中精力想想如何打開石棺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[要求[Specified 4]按住死人的開關。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Specified 4]把手伸進石棺的洞裡面，擰動死人身上的開關，使沙子停止流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[留下[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「你不能就這樣離開我 ！請等等！「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「嘿，現在停一下。我想我們要一起去俄撒斯。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「你回來是找我和伊希的，是嗎？」麥婭吞了一下口水。
+
+伊希薩似乎很嚮往自由。他停了下來，撫摸著麥婭的靴子，帶著冷冷的不滿凝視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「你！「
+
+ 當她把手放在開關上的時候，帕蕾吉娜滿是羽毛的頭向你猛撲過來。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「船長？我希望你什麼都不要想……忘掉腦子裡那些心思。我了個去……」
+
+他瞪著眼到處找你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「聖母恩加蒂，不要這樣！「
+
+一滴黑色墨水慢慢地從泰克胡的頭髮上順著額頭往下流。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「等……等等。你以為你要去哪裡？！「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「你......你在跟我開玩笑吧，混蛋？」
+
+費斯娜向你撲來，但是湧入的沙子迫使她抓住開關。她咬下她的下唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「是的，你真有趣。現在回來吧。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「Lash xe tetuxir med pux xe taxun！聽到我說的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>你慢慢地從石棺裡退了出來。[Specified 4]盯著你，眼睛瞪得很大，不敢相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「沒有！我想你也不敢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>你從房間裡逃出來了，[Specified 4]的恐慌的呼喊聲在你耳邊響起。你走後不久，你聽到你背後的門砰的一聲關了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「&lt;i&gt;他媽的&lt;/i&gt;！要是我祈禱，我只祈禱貝拉斯把我帶回去殺了你！」
+
+她的眼睛依然鎖定在你身上，一眨不眨，直到她消失在你的視線之外。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

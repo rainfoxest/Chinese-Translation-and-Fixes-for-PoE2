@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_injuried_drunk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>當[Specified 1]過來的時候，你正岔開雙腳站在艉樓上注視著[Player Ship]的甲板與無盡的大海。
+
+「船長，出了一個問題。[Specified 0]喝得酩酊大醉，以受傷為理由拿走了額外的補給。這不是艘大船，所有人都知道了這件事情而且大家都對此感到不滿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「在我看來如果[Specified 0]已經喝上了，其他的船員應該也開始喝起來了。保證所有人都能拿到額外補給。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「[Specified 0]受了傷。不要讓其他人去打擾。如果他們自己受傷了肯定也會想要獲得相同的待遇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「把[Specified 0]給我拖上甲板。公平起見它每偷走一份就給上一鞭子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你渴望的安寧與海盜烈酒一起隨著船員們的狂歡消失了。他們歡聲笑語地過了一晚上，第二天早晨，所有人都忘記了對於[Specified 0]的不滿。
+
+事實上有些人什麼也記不得了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>緊張的情緒隨著[Player Ship]的旅途繼續發酵著。
+
+[Specified 0]待在了甲板下面，祈禱能夠快速恢復的同時躲避著其他人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 1]將受傷的[Specified 0]拖上了甲板，在船員面前將罪犯綁在了桅桿上。你站在上面看著[Specified 0]接受鞭刑，舊傷上面又添了一層新的鞭傷。
+
+一些船員鞭刑的景象畏縮了起來，但是當懲罰結束之後，他們安靜地帶著滿意表情回到了崗位上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「把[Specified 0]扔下船。我的船上不允許出現小偷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 1]將船員集合到了主甲板上，一些人將[Specified 0]用一根繩子綁在了舷牆上，遍體鱗傷的水手尖叫著從船尾被一腳踢了下去。
+
+照尖叫聲判斷，被托在[Player Ship]後方的[Specified 0]掙扎了好幾個小時。其餘水手們努力將精力集中在自己手頭的工作上，所有人臉上因為恐懼都面如死灰。
+
+當尖叫聲最終停息，[Specified 1]割斷了繩索，將[Specified 0]留給了大海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>眨了兩次眼睛之後[Specified 1]的臉上慢慢浮現了一個微笑。「遵命，船長。我會通知他們休息時去海盜烈酒桶報告。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 1]接下來的幾句話卡在了喉嚨裡。她把那些詞語吞了進去，最後擠出了一句「遵命，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「好的，船長。我這就去把小偷綁起來。」</DefaultText>
+      <FemaleText>「是，船長。」我這就去把小偷綁起來。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「好的，船長。就算其他人有可能不喜歡，[Specified 0]聽見這個消息肯定很高興。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 1]點了點頭。「船長，你有什麼命令？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我知道該怎麼處理這件事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「如果換成是我，[Specified 1]你會怎麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[向[Specified 0]詢問情況。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「遵命，船長，我猜大家想的是給[Specified 0]好好打上幾鞭子。偷竊船隻物資就是在給所有人惹麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你在甲板下面找到了[Specified 0]，你要求知道船員拿走額外海盜烈酒的理由。作為回答，[Specified 0]解開了包紮著的繃帶，露出了裡面破破爛爛的鮮紅傷口以及青紫的皮膚。
+
+「疼的厲害，船長，太難受了。只有喝上幾口才能忍受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「有什麼能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「禁止給[Specified 0]任何口糧補給，然後告訴其他人回去繼續工作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「不要給[Specified 0]酒喝了。幻葉果效果更好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我要針對同情與憐憫的重要性……以及在偷竊水手同伴們物品的醜惡行為做一次訓誡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[公開責罵[Specified 0]，然後再偷偷給傷者塞點海盜烈酒。]「把小偷拖到甲板上去，我要讓船員們看見我的不滿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[讓船員們體會[Specified 0]的痛苦。]「看上去大家需要學習一下實用性同理心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我要切斷[Specified 0]感受痛苦的能力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你命人將[Specified 0]拖到了甲板上，宣佈說再也沒有海盜烈酒喝了，如果你再發現有偷東西的情況，就不是鞭刑而是直接掛船底了。等你說完的時候[Specified 0]已經嚇得戰戰兢兢，剩下來的船員裡面大部分也都臉色蒼白。
+
+過了一會你偷偷塞了一個酒瓶給[Specified 0]，警告傷員不要聲張這份慷慨，否則你就只能殺雞儆猴了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你向[Specified 0]敞開了意識，找到了水手的痛苦然後將痛苦抽了出來。你將這感覺包裹在你靈魂之中，然後傳給了所有船員，將他們與他們的同胞的痛苦捆綁在了一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「遵命，船長。斷幾天酒應該能讓[Specified 0]正常起來。再多斷幾天應該就能讓船員們解氣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「遵命，船長。斷幾天酒應該能讓[Specified 0]正常起來。再多斷幾天應該就能讓船員們解氣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「遵命，船長。斷幾天酒應該能讓[Specified 0]正常起來。再多斷幾天應該就能讓船員們解氣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>雖然你聽見了幾聲關於不符合海上行事準則之類的抱怨，大部分的船員看上去還是對你的決定很滿意，之前的緊張氣氛在接下來幾天裡面煙消雲散了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你將船員們召集在甲板上，[Specified 0]也是其中之一，然後你針對社區，憐憫以及同情心還有自私以及盜竊對世界造成的可怕傷害講述了一段漫長而又嚴厲的訓誡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「而且這應該能用一大層黑色蓋掉任何牙漬。」艾德爾點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>你走下船艙，給了[Specified 0]含有大劑量幻葉果的一份藥酊。這應該能對付所有疼痛感了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>最後，所有人都看上去羞愧難當，他們一臉肅穆地回到了工作崗位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你走下了船艙，將手放在了[Specified 0]的額頭上，開始接觸傷員的靈魂。你鈍化了傷員的靈魂與肉體之間的聯繫，水手總算放鬆了下來。
+
+「船長，謝謝你，」[Specified 0]低語道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>接下來的幾個小時裡面整艘船上只有安靜的誓言與呻吟聲，當你提議[Specified 0]拿一份海盜烈酒的時候沒有一個人抱怨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[公開責罵[Specified 0]，然後再偷偷給他塞點海盜烈酒。]「把小偷拖到甲板上去，我要讓船員們看見我的不滿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>你命人將[Specified 0]拖到了甲板上，宣佈說再也沒有海盜烈酒喝了。如果你再發現有偷東西的情況，就不是鞭刑而是直接掛船底了。等你說完的時候[Specified 0]已經嚇得戰戰兢兢，剩下來的船員裡面大部分也都臉色蒼白。
+
+過了一會你偷偷塞了一個酒瓶給[Specified 0]，警告他不要聲張這份慷慨，否則你就只能殺雞儆猴了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Specified 1]接下來的幾句話卡在了喉嚨裡。他把那些詞語吞了進去，最後擠出了一句「遵命，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Specified 1]點了點頭。「船長，你有什麼命令？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我要懲罰他……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>船員們等待你接下來的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[思考某種不同尋常的解決方法……]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>他們帶著期盼的目光看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[重新思考你的選擇……]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>他們帶著期盼的目光看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Specified 2]來到了病床前面，把手搭在了[Specified 0]的額頭上。幾分鐘之後，受傷的水手放鬆了下來，這是他這幾天來第一次放鬆下來。
+
+「謝謝你，[Specified 2]。」[Specified 0]低聲說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>雖然你聽見了幾聲關於不符合海上行事準則之類的抱怨，大部分的船員看上去還是對你的決定很滿意，之前的緊張氣氛在接下來幾天裡面煙消雲散了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

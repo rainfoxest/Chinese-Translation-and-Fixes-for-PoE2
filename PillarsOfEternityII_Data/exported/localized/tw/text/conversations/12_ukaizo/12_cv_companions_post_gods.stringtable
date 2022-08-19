@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_ukaizo\12_cv_companions_post_gods</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「快醒醒，船長。看起來我們能擁有這個島的時間不長了。」
+
+麥婭點點頭，然後把你丟在一邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「終於醒了嗎？船長，在你外出時，又有船登陸了。我們必須準備……準備應付任何情況。」
+
+泰克胡嚥下剩下沒說出口的話，點點頭，雙手握成拳頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我不是故意催你，但如果你感覺行的話，我們應該快點。」
+
+「你外出了相當長一段時間。足夠讓我們的對手在這裡趕上我們了。」他扶你站起來時向著塔後的大海點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「太好了，你起來了。最好把武器準備好，有些老朋友要來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你醒了。很好。風暴已經停了，但我們的敵人已經利用這個機會去烏凱佐了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「很抱歉打擾了你睡覺，船長，但有一大堆滿懷敵意的惡棍決心要殺你呢。很可能還有我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「感謝岡恩，你醒了。「我都開始擔心你了。
+
+「我們需要小心了。當你在睡夢中時，一些不受歡迎的人跟蹤我們上了島。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

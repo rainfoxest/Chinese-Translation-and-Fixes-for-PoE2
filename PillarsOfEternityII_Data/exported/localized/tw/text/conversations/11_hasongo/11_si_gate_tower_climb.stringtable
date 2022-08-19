@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_si_gate_tower_climb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>鬆垮的磚石結構毀了門樓的南牆。一些凸出的磚塊看起來足以攀爬。
+
+但佈滿了浪沫和苔蘚的石面還是很滑。你預計攀爬很難。
+
+而且摔下來很危險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[攀登塔樓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[把抓鉤擲上牆頂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我不認為那樣會特別安靜。」亞洛斯掃視了你周圍的通道和你身後平靜得出奇的水面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「當它撞上牆壁時，會發出不小的聲響。」艾德爾說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「船長，我能想出兩種辦法引起不必要的注意。這是更爛的那一個。」
+
+麥婭觀察到你的準備動作，抬手警告道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「等等。除非這些蛇妖耳背，不然他們隔著半個哈桑戈都能聽到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「喂，船長。金屬鉤子。石頭牆。你想吸引所有正在值班的眼睛和耳朵嗎？」
+
+塞拉芬搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「純屬自投羅網。你的裝備裡沒有動靜小點兒的抓鉤了嗎？」
+
+泰克胡歪頭笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「當心點兒。任何聲響都會引起多餘的注意。」裘荻說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>當你搖起抓鉤的繩索時，你意識到鉤子很可能會製造一些聲響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[擲出抓鉤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>抓鉤鉤中時發出了響亮的撞擊聲。
+
+你剛把它拉緊，就聽到身後響起了水花聲和嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>抓鉤鉤中時發出了響亮的撞擊聲。
+
+你環顧四周，發現沒驚動任何人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你快速地猛拽繩子確認了一下，然後開始向上攀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你的繩索順著城牆垂下。抓鉤還牢牢地掛著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[順繩索爬下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你爬下至塔底。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>一條繩索從門樓頂上垂下來。感覺很牢靠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[順繩索攀爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你快速向上攀登，輕鬆抵達塔頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>鬆垮的磚石結構毀了門樓的南牆。一些凸出的磚塊看起來足以攀爬。
+
+但佈滿了浪沫和苔蘚的石面還是很滑。你預計攀爬很難。
+
+而且摔下來很危險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你快速向上攀登，輕鬆抵達塔頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>當你向上爬到一半時，你的腳底不慎打滑。
+
+你一邊四處亂踢，尋找落腳點，一邊盡力握緊上方的一塊突石。
+
+不幸的是，你的力氣用光了。你的手從牆上滑脫了，整個人跌落至塔底，腳踝傳來一陣劇痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>當你向上爬到一半時，聽到下面傳來一聲喘息。
+
+你向下望去，看到[SkillCheck 0]正無力地抓著一塊突石，他的雙腳在空中懸著。
+
+在你的注視下，他的手從石上滑脫了，整個人跌落至塔底，發出了一聲痛苦的尖叫。
+
+你別無選擇，只能爬下去找他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>當你向上爬到一半時，聽到下面傳來一聲喘息。
+
+你向下望去，看到[SkillCheck 0]正無力地抓著一塊突石，她的雙腳在空中懸著。
+
+在你的注視下，她的手從石上滑脫了，整個人跌落至塔底，發出了一聲痛苦的尖叫。
+
+你別無選擇，只能爬下去找她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[從塔樓上爬下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[使用抓鉤爬下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你爬下至塔底。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>當你向下爬到一半時，你的腳底不慎打滑。
+
+你一邊四處亂踢，尋找落腳點，一邊盡力握緊上方的一塊突石。
+
+不幸的是，你的力氣用光了。你的手從牆上滑脫了，整個人跌落至塔底，腳踝傳來一陣劇痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>當你向上爬到一半時，聽到上面傳來一聲喘息。
+
+你向上望去，看到[SkillCheck 0]正無力地抓著一塊突石，他的雙腳在空中懸著。
+
+在你的注視下，他的手從石上滑脫了，整個人從你身邊經過，跌落至塔底，發出了一聲痛苦的尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>當你向上爬到一半時，聽到上面傳來一聲喘息。
+
+你向上望去，看到[SkillCheck 0]正無力地抓著一塊突石，她的雙腳在空中懸著。
+
+在你的注視下，她的手從石上滑脫了，整個人從你身邊經過，跌落至塔底，發出了一聲痛苦的尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你確保抓鉤鉤在牆頭的邊沿下，輕鬆地爬了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你快速向上攀登，輕鬆抵達塔頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>你爬下至塔底。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

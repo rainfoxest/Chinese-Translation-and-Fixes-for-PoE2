@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_tsk_libations_for_a_death_god</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>一杯敬死亡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>從白霜構裝體中收穫液體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>將液體帶回去交給先驅納瓦達爾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>帶著液體回去找納瓦達爾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>自稱是&lt;b&gt;先驅之守望&lt;/b&gt;釀酒師的&lt;b&gt;納瓦達爾&lt;/b&gt;請求我幫他完善他名為rymsjodda的啤酒配方。這種啤酒是他的得意之作，可用來御寒。納瓦達爾相信再加入一種原料就能強化他啤酒的御寒效果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;白霜構裝體&lt;/b&gt;體內有一種防止其在低溫下凍結的液體。
+
+納瓦達爾相信這種液體被基斯喝下後也會產生類似效果，於是要我給他帶回盡可能多的白霜構裝體液體。有人在&lt;b&gt;死亡浮冰&lt;/b&gt;深處見過白霜構裝體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我不確定這種奇怪的物質是不是釀酒大師要我收集的東西，我得仔細觀察一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我收集了一些&lt;b&gt;納瓦達爾&lt;/b&gt;想要的液體，但這東西看起來喝了會出人命。不管怎樣，他還是很想要這種液體，我能找到多少他就要多少。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我把&lt;b&gt;納瓦達爾&lt;/b&gt;想要的液體交給了他，讓他自己去發現這東西究竟有多毒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我把&lt;b&gt;納瓦達爾&lt;/b&gt;要的液體交給了他，並警告他說這東西有毒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我拒絕將白霜構裝體液體交給&lt;b&gt;納瓦達爾&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

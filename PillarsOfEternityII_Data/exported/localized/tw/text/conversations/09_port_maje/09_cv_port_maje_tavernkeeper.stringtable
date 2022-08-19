@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_port_maje_tavernkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>98</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「抱歉，我們這裡沒有空房間了。」
+
+一個身材高大的男人站在吧檯後面，看了你一眼，露出了冰冷的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你還活著呢？有什麼事情嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「清醒的人是做不好生意的，我可以幫你解決這個問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我猜，從南邊的船隻殘骸裡過來的人，就是你吧。我也不太清楚你到底算是幸運還是不幸，不過喝一杯吧，你應該喝上一杯。」
+
+他倒了一杯渾濁的麥芽酒，遞到了你面前的吧檯上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「有空房間嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「讓我看看你都有什麼好東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「知不知道有誰想賺點錢？我需要找個能在戰鬥中派上用場的幫手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「關於國王港，有什麼可以告訴我的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「在你出現之前，這裡的生活要安靜得多。
+
+「對我來說，安靜的日子就是好日子，各種各樣重複的工作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「經常會有人來這裡找活幹，看看我們能找到什麼人吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「恐怕在補給船到來之前，你沒什麼好挑的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「不過沒想到，你口袋裡居然還有幾個錢。」 
+
+「無意冒犯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「沒想到你還會回來，可別跟我說你又把船弄沉了。」
+
+他對你狡黠地笑了笑，之後轉過身，繼續擦杯子了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「無論你在外面和總督有什麼樣的麻煩，都不要帶進來。我們得保持冷靜。」
+
+他瞇起眼睛看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你到底是怎麼回事？我們聽到了尖叫聲。我是讓你去『清理房間』，而不是『把裡面的人都給我殺光』！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「是他們先動的手，我沒得選擇，只好自保。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你說得沒錯，錢你留著吧，但房間我還是要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你想讓他們消失，他們已經消失了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「抱歉……我，呃，是不是有點過火了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「你在開玩笑嗎？這個爛攤子該由誰來收拾？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[聳聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你應該說得更清楚點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「哦，不用擔心，房間保持原樣就行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你真是讓人……難以置信。
+
+「……他們說，在列島上的生活一定會很平靜的。他們說，這裡就是位於熱帶的天堂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「沒得選擇？貝拉斯在上啊，當初請你幫忙之前，我真應該好好想想！」
+
+托雷爾雙手摀住了臉，額頭上滿是汗珠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「你就別假裝是我讓你幹的這些了。說不定從此之後，除了你之外，不會再有人想要住在那個房間裡了。或許你能想辦法解決一下這個問題吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「&lt;i&gt;有點過火&lt;/i&gt;？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>托雷爾目瞪口呆地盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「讓我找個地方歇一晚上，我以後就不會再打擾你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你是怎麼知道的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「沒什麼難猜的，自從風暴襲擊這裡之後，我們已經有很長時間都沒見過新入港的船了，而我的酒吧裡就站著一位陌生人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「多謝了，這裡有空房間嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「你們的族人來這裡的可不太多，小伙子。」
+
+他聳了聳肉乎乎的肩膀。</DefaultText>
+      <FemaleText>「你們的族人來這裡的可不太多，僅此而已。」
+
+他聳了聳肉乎乎的肩膀。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「房間已經滿了。這裡時常有人把船弄沉了之後，打算來這裡看看有沒有地方能住，你並不是第一個這麼問的。」
+
+他停了一下，看著你，似乎在考慮什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「好吧，確切地說，有一個房間按理說應該能空出來，但房間裡的住客不打算走人。」 
+
+「真正的問題在於，他一直都沒有結清房費。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我需要有人幫忙修好我的船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「這我幫不了你，你應該去找克拉里奧總督談談。整個鎮子一半的人都在修修補補港口裡還剩下的破船，不過說不定他能找些人來幫你修船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「這我幫不了你。你本該找克拉里奧總督談談，不過看起來，你已經錯過了這個機會。
+
+希望下次漲潮的時候，你的船還能禁得起折騰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「他叫加里安，是一艘商船的船長。我已經給過他機會了，但他就是個徹頭徹尾的無賴。
+
+「我這裡有把備用鑰匙。只要你能把他和他的手下攆出來，這個房間你就可以住了，給你個折扣價。」
+
+他把鑰匙滑過吧檯，滑到你面前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「如果他不願意走呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你想殺了他嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「看看我能做些什麼吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我看，我還是在海灘上露宿一晚吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「如果你想弄得渾身上下都是沙子，隨便你吧。」
+
+他聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「為什麼叫它海怪之眼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「是啊，為什麼呢？現在海怪之眼已經不見了。我或許也應該把那個標牌撤下來了。
+
+我真不敢相信，居然會有人把它偷走。整個島上的人都知道，他對我來說是無價之寶！」
+
+托雷爾變得怒氣沖沖，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「啊，好吧……他是個混蛋，但也是個慫包。如果必要的話，揍他一頓就能解決問題，但我認為放幾句狠話嚇唬嚇唬他就夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「什麼？不！我說的是『把他攆走』，而不是『殺了我的客人』
+
+「……老實說，我現在也記不清當時是怎麼說的了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我真的很感謝你，等你把這件事做完之後，我就會讓人去幫你打掃房間。說不定他們已經把啤酒喝得到處都是了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你以為你傷了我的客人，還能大搖大擺地在這裡待著嗎？！趕緊滾蛋，否則我就要叫警衛了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「不如你給我點錢怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「好吧，我早就應該知道。我會給你一筆報酬，還會給你個特別優惠價，你覺得怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「你可真是個生意人啊，是吧？沒問題。我會給你一筆報酬，還會給你個特別優惠價，你覺得怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我並不想殺了他，我付錢給你也不是讓你幹這個的。只要你能讓他走人，這個問題就解決了。」
+
+最後，他點了點頭，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我想，我已經見過他了，我會把他攆走的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我已經替你把那個房間清理乾淨了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「嘿，幹得漂亮！這種時候，我可受不了別人一直拖著賬單不付。
+
+「要是這種事情傳開了，這座城市裡的每一個乞丐都會擠到我的門前了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「如果你想要的話，那個房間就是你的了。而且你做的很好，這是你的報酬。」
+
+他把一個裝滿了金幣的小皮帶遞到了你面前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我還以為這種事情根本不用說呢！哪會有人因為這麼一點點小事就大開殺戒的？」</DefaultText>
+      <FemaleText>「我還以為這種事情根本不用說呢！哪會有人因為這麼一點點小事就大開殺戒的？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「這種人你最好還是不要招惹。」</DefaultText>
+      <FemaleText>「這種人你最好還是不要招惹。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「拜託……反正看起來也沒別人想要待在那間房間裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「好吧，你自己處理房間吧，反正也不是我要操心的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我沒叫守衛來，算你運氣好！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「你最好想清楚你是在和誰說話，托雷爾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「如果你再這樣的話，說不定我就又會做過火了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「……昂德拉在上啊。好吧，但我是不會讓我的人去清理那個爛攤子的，這是我的底線。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「沒錯，我會付錢讓別人來操心這件事情。至於你呢，趕緊滾吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我的海怪之眼！你這該死的小偷！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「那個海怪之眼從幾年前就一直是我的東西，誰會去偷那種東西？現在我這個地方應該叫什麼才好呢？」
+
+托雷爾拿著抹布，固執地擦著吧檯，他的下巴一直在顫抖著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「要是連船都沒了，找船員也沒什麼意義。等真的需要找人的時候再來吧，我們看看能不能幫你找到些合適的人。」
+
+他帶著歉意地笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我打算為我的船找幾個新的船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「有不少人想要離開這個地方，看看他們之中有沒有讓你滿意的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「看看吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我明白，沒有人希望一大群吵吵嚷嚷的孩子們跟在身後，不停地問著不禮貌的問題。我是說，消息還沒有傳開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「我已經警告過你了，衛兵！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「你有沒有親眼見到莫克哈與林克之間的爭鬥？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「莫克哈？你說的應該就是那個大打出手的胡亞納傻瓜吧？我猜。
+
+「沒錯，我看到了，他們真的是搞得一團糟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「就我看到的情況，他們兩個一開始在打牌。打著打著，他們兩個突然起了爭執。
+
+「我把那個胡亞納人攆了出去，剩下幾個人把半死不活的林克抬回了家。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「你知道是誰先動的手嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「你認識林克嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「我想問的就是這些了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「啊，什麼事情都有可能發生。林克這個人，就是不知道什麼時候該閉嘴，而有些胡亞納人又確實很容易較真。就我所知，風語者保護了這個鎮子沒被撕成碎片，我們還欠他一個人情呢。
+
+「這倒不意味著我打算請她的人來品品茶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「嗯，我也不比別人更瞭解他。這麼說吧，他是個不怎麼招人喜歡的人。他是和他老婆一起來的這裡。他老婆是個鑄魂師，替奧德理斯幹活。
+
+「總督應該更瞭解關於他的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「沒錯，希望你不是又想來這裡打聽那些陳谷子爛芝麻的，把爭鬥留給那些貴族老爺吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「我想要個房間，謝謝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「沒問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[把海怪之眼還回去。] 「抱歉！我只是想看看它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[偷走海怪之眼。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「要是拿走不屬於你的東西，你可是會上絞架的。
+
+算了，這件事就這麼算了吧。以後別再碰別人的東西了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「所以說，他們是在打牌贏錢了，是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「是啊，沒錯，我猜林克估計沒想到，一個胡亞納居然打牌打得這麼好。
+
+「打到最後，他看起來明顯很緊張。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「嗯，我也不比別人更瞭解他。這麼說吧，他是個不怎麼招人喜歡的人。他是和他老婆一起來的這裡。他老婆是個鑄魂師，替奧德理斯幹活。
+
+「克拉里奧已經不在了，我想也沒什麼活可以干了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「說真的，這裡絕大多數時候都是個好地方。生意做得很不錯，克拉里奧的投資人也賺了不少錢。
+
+「這該死的地方比家裡那邊還安靜，不過鹿林的事情，應該輪不到我來告訴&lt;i&gt;你&lt;/i&gt;才對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「還有什麼可說呢？那是我以前一場惡戰留下來的紀念品。那頭怪物差不多活吞了七個人，我們才把它幹掉。
+
+那天掌舵的人是我，因為這個，船長把海怪的一隻眼球送給我當做紀念品。」
+
+托雷爾指著吧檯，眼神中綻放出了驕傲的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「它是我最值得驕傲的紀念品，也是我最珍貴的寶貝。哪怕是拿整個世界和我換，我都不換。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我猜你上岸之後，還沒見到這地方的漂亮景色，是吧？
+
+「除了風祝之里——我們西邊那個胡亞納小村子之外，這裡是這個島上唯一的城鎮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「經常會有人來這裡找活幹，看看我們能找到什麼人吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

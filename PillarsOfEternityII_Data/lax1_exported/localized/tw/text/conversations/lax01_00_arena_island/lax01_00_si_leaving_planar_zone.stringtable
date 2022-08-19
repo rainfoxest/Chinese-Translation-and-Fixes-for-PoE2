@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_leaving_planar_zone</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>靈魂的流動形成了完整的圓環。當精華流過魂珀之時，你感覺到強烈的歡愉、絕望，以及與魂珀產生共鳴的各種情感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>當你進入魂流之時，各種感覺轉變成可聽見的聲音，解脫的哭泣，幸福的眼淚，痛苦的尖叫，全都在你感覺的邊緣迴響。它們融入到一個雜亂無章的混亂之中，在你由於肉體的重力逆流而上之時，急速流過你的耳際。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你感覺自己的身體越來越接近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[再次使用托墨弗艾的牙齒，切斷競技場與靈界的聯繫。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[返回現世。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>如同從極高之處掉落一般，你猛地衝進自己的軀體。你氣喘吁吁地醒過來，發現因加里正盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你的靈魂將托墨弗艾的力量推回到你來的方向，然後把它掐滅，再次關閉了現世通往靈界的通道。
+
+卡茲瓦里將恢復你剛看到它時的模樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

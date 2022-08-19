@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_tavern_owner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在酒吧裡，你找了一個有著鹽灰色頭髮、罕見明亮的藍眼睛的高個子男人。他的臉上炫耀似的掛著幾條長疤痕，這些疤痕繼續從他的脖子延伸下去並消失在襯衫領子下面。
+
+當你走近時，他從低頭擦櫃檯的動作看向你並給你一個燦爛友善的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「有何貴幹？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我想幫塔爾娜還清債務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我碰到了你的一個朋友——狐狸埃德蒙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你的酒館看起來很像一條舊船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「讓我看看你的補給庫存。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我已經清楚表明了在那件事上的立場。你認為我改變主意了嗎？」他冷冷地凝視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「她找了你，是嗎？這個女人在五十步外就能認出誰心軟呢。像是第六感或什麼東西。值得注意。」他狡黠地向你點點頭，就好像他沒有暗示過你是一個輕易將能讓錢離身的笨蛋一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「不是我的朋友。讓我猜猜——他聲稱我招募了你，而且我即將復出？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我不明白為什麼當我告訴他們我已經忘記了那樣的生活時卻從沒有人相信我……尤其是從我之後打算殺了他們時。」他搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「在任何情況下，我懷疑尖嘴猴腮的埃德蒙在遭遇到你時都不會生還的。愚蠢的混蛋從不知道什麼時候應該屈服。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「但你說的沒錯。在我父親去世時我從他那裡繼承了老舊的單桅帆船。也就是一坨屎。我認識到我必須掙更多錢來將她變成一個酒館而不是讓它爛在泊位。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「只要我給我一些錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我聽到一些傳聞說你就是紅老 K，那個臭名昭著的海盜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「臭名昭著是對他的敵人，對他的朋友們來說是著名。」他瞇起眼睛並在你說更多之前就讓你張口結舌了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「人們決定叫我紅老 K……跟我沒什麼關係。但我也沒有制止就是了。」他笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「但我厭倦了每次出海時船舶獵手都爬上我的屁股。所以我付清了船員的薪水，將船遺棄在那裡，然後愉快地上路了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「還有任何火藻提取物賣嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「當然有。而且還是「特惠」折扣價——兩百五十個銅幣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我要一瓶這種提取物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「注意，你的眼睛並沒有看清任何東西。像一個母親一樣燃燒自己——不對，反正以你想不到的方式燃燒自己。不會希望拿這東西蟄著任何人，甚至我的死敵也不希望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「你自己搞清楚的，是嗎？」他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「你覺得我要往你嘴裡塞多少硬幣才能把你憋死？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「如果我將價錢翻倍呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「如果人們聽說你將當債務人當作奴隸扣留，他們可能就不那麼熱衷於在這裡賭博了，懂嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「除非你還要些其他什麼東西，否則我想我們沒有別的事了。」他轉過身並開始擺弄吧檯下面什麼東西。他這樣做時，你發現他的馬褲腰帶裡插著數把紅色握柄的手槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「看看你，大富豪啊！
+
+「說話小心點，現在——你不會想要在這周圍看起來太絕望的。海盜們能將那個嗅出來，就像叉魚一樣簡單。」他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「哈！我還沒有遇到過有人膽敢阻止我進去，哦，恐怕距離現在有兩個星期了。而那個傢伙最後的結局滿身都是槍孔！
+
+「真是悲慘的事故。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「精明的觀察。或許你終究不是一個這麼簡單的人物。」他摩擦著下巴上的須茬，陷入沉思。然後他聳了聳肩並向你投去一個過於明亮的咧嘴笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「塔爾娜可以走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我們來討論點其他事吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「作為交換她自由的要求，你還要別的什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「如果我想要別的東西，我早就提了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「以前沒在附近見過你。歡迎來到王棺之地。」他的笑容爽朗到足以讓你看到他那明亮的白牙，但他的淺色眼睛仍然冷淡強硬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「……實際上，對。對，我會的。」當他遞給你一瓶火藻提取物時，他自己深深地笑起來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「但，有件事兒——由我來控制她更合適，所以，儘管你的出價很貼心，但你可以帶著你的錢走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我承認你勇氣可嘉。或許你終究不是一個這麼簡單的人物。」他仰頭大笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「看，瓦利亞共和國讓我的父親破產了，而我作為回報，拿走他們的船隻和財富——幾乎所有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「換句話說，紅王已經死了。
+
+「如果你再問我更多有關他的事，你也會死的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「我想買些東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「你想幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我想租個房間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「你有沒有認識的水手在找工作的？我正缺船員呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「只要你不介意海盜，當然沒問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「有沒有熟客想來點小冒險的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「總是有人拒絕不了美妙的金錢的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「你的錢袋有多沉？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「我還有些別的事情想問你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「嗯哼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「沒關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

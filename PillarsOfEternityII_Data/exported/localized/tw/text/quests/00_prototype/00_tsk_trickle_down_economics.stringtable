@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_prototype\00_tsk_trickle_down_economics</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>被摘之果</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在&lt;b&gt;提卡瓦拉&lt;/b&gt;島上村莊四處調查不見的柯基果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>將柯基果交還給村裡的&lt;b&gt;穆庫姆&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>部落裡最後的柯基果不見了。&lt;b&gt;穆庫姆&lt;/b&gt;相信是&lt;b&gt;塔馬奧&lt;/b&gt;偷的，但&lt;b&gt;塔馬奧&lt;/b&gt;堅稱自己是無辜的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;塔馬奧&lt;/b&gt;在偷柯基果時被漁民&lt;b&gt;派科赫&lt;/b&gt;逮了個正著。&lt;b&gt;穆庫姆&lt;/b&gt;想找到其餘不見的柯基果。
+
+如果我與&lt;b&gt;塔馬奧&lt;/b&gt;和&lt;b&gt;派科赫&lt;/b&gt;交談，也許能進一步瞭解情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我發現失竊的柯基果被埋在了沙灘上。
+
+&lt;b&gt;穆庫姆&lt;/b&gt;看到果子失而復得肯定會很高興，但他也會想知道誰是小偷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;塔馬奧&lt;/b&gt;依然堅稱自己是無辜的。他提到柯基果存放在蘭迦住所北邊的乾燥小屋內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>籃子編織工&lt;b&gt;隆吉&lt;/b&gt;每天午夜都會去沙灘。沒人知道原因。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>對於&lt;b&gt;塔馬奧&lt;/b&gt;堅稱自己無辜一事，&lt;b&gt;隆吉&lt;/b&gt;的態度尤為輕蔑。此人或許值得一查。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>&lt;b&gt;隆吉&lt;/b&gt;為了收穫柯基果的種子而偷了果子。他求我誣陷&lt;b&gt;塔馬奧&lt;/b&gt;，為種子贏得生長的機會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>&lt;b&gt;派科赫&lt;/b&gt;承認&lt;b&gt;塔馬奧&lt;/b&gt;並沒有偷柯基果。他提到柯基果存放在蘭迦住所北邊的乾燥小屋內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>我發現的卡奧拉蘆葦顯然是用來編織的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;隆吉&lt;/b&gt;承認自己偷了柯基果。他說果子埋在了沙灘上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;派科赫&lt;/b&gt;不是很樂意提供訊息。他似乎特別厭惡&lt;b&gt;塔馬奧&lt;/b&gt;，因此這件事可能是他公報私仇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>我在乾燥小屋旁發現了一根卡奧拉蘆葦。上面似乎沾有某種汁液。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我誣陷塔馬奧偷了柯基果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我指認隆吉偷了柯基果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>隆吉料到了我已找到他藏的柯基果。他肯定把東西藏到了別處並和穆庫姆談過了，因為塔馬奧已經因為偷竊罪而被處決了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

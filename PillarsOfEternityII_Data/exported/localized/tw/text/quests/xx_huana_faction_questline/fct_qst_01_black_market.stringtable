@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_huana_faction_questline\fct_qst_01_black_market</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>行業機密</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>找到&lt;b&gt;潛民街&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>前往&lt;b&gt;地下室&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>向&lt;b&gt;阿羅海親王&lt;/b&gt;報告。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>前往&lt;b&gt;峽谷&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>調查&lt;b&gt;潛民街&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;阿羅海親王&lt;/b&gt;發現的證據表明被稱作&lt;b&gt;峽谷&lt;/b&gt;的羅帕魯區裡面有一個黑市存在。他想要知道黑市是從哪裡進貨的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;峽谷&lt;/b&gt;裡面應該有人知道該怎麼去&lt;b&gt;潛民街&lt;/b&gt;。親王的獎章說不定能夠吸引到黑市買家的注意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;潛民街&lt;/b&gt;裡的違禁物品都來自&lt;b&gt;地下室&lt;/b&gt;。如果我前往這個守備森嚴的秘密地點，我也許能夠弄明白黑市物資到底是怎麼被運進城市裡的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>看上去羅帕魯與一群海盜達成了交易。黑市物資都是通過地下室裡的一個小通道走私進涅克塔卡的。更重要的是，運輸物資的貨船得到了水塑法的幫助。
+
+&lt;b&gt;親王&lt;/b&gt;應該會想要知道這份情報。他就在&lt;b&gt;巨蛇王冠&lt;/b&gt;皇宮的&lt;b&gt;王座室&lt;/b&gt;裡面等著我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>我應該從&lt;b&gt;佩瑞琪之望東南邊&lt;/b&gt;的&lt;b&gt;峽谷&lt;/b&gt;開始調查。我也許能在那裡找到黑市的秘密位置&lt;b&gt;潛民街&lt;/b&gt;的證據。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>我已經找到了&lt;b&gt;潛民街&lt;/b&gt;，但是我還是不知道黑市物資是怎麼進來的。給任何商人展示親王的獎章應該能夠幫助我獲取更多情報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;泰克胡&lt;/b&gt;被殺死了。&lt;b&gt;阿羅海親王&lt;/b&gt;應該不會喜歡這消息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我決定拋棄&lt;b&gt;泰克胡&lt;/b&gt;。我可以自己解決這個問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我通過峽谷的&lt;b&gt;峽口&lt;/b&gt;進入了&lt;b&gt;潛民街&lt;/b&gt;，那地方就藏在一處商舖後面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;瘦子德理奧&lt;/b&gt;聽上去是&lt;b&gt;潛民街&lt;/b&gt;裡的權威人物。接近他應該能夠幫助我理解黑市的運作方式。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>德理奧已經允許我通過&lt;b&gt;潛民街&lt;/b&gt;裡的升降梯進入&lt;b&gt;地下室&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我在審視&lt;b&gt;峽谷&lt;/b&gt;裡一名死去的羅帕魯人的靈魂時發現城市下面有一處地下碼頭。那裡很有可能就是&lt;b&gt;地下室&lt;/b&gt;，去那裡的時候此人使用了&lt;b&gt;潛民街&lt;/b&gt;裡的一處升降梯。潛民街就在&lt;b&gt;峽口&lt;/b&gt;裡一處空置商舖背後的一扇密門後面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我說服了厄爾內佐，他給我指明了方向。&lt;b&gt;瘦子德理奧&lt;/b&gt;是&lt;b&gt;潛民街&lt;/b&gt;裡的老大，厄爾內佐已經同意將我介紹給此人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我遇到了一群守護著&lt;b&gt;潛民街&lt;/b&gt;裡一處升降梯的惡棍。這有可能通向&lt;b&gt;地下室&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>我離開&lt;b&gt;潛民街&lt;/b&gt;後右轉，左轉然後再左轉之後就能找到&lt;b&gt;德理奧&lt;/b&gt;的藏身點了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>我得知&lt;b&gt;舊城&lt;/b&gt;裡面有一處通往一座神廟遺跡的秘密通道。神廟裡面有一扇通往&lt;b&gt;地下室&lt;/b&gt;的密門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>我得知&lt;b&gt;潛民街&lt;/b&gt;就在&lt;b&gt;峽谷&lt;/b&gt;西面的&lt;b&gt;峽口&lt;/b&gt;地道裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>一名叫做&lt;b&gt;厄爾內佐&lt;/b&gt;的商人負責處理&lt;b&gt;潛民街&lt;/b&gt;裡面的貴重商品。他有可能會對獎章感興趣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>&lt;b&gt;厄爾內佐&lt;/b&gt;活著的時候在負責處理貴重類違禁物品。我應該去找一個叫做&lt;b&gt;德理奧&lt;/b&gt;的人，但是為了得到他的注意我得先在&lt;b&gt;涅克塔卡&lt;/b&gt;的黑色地帶建立自己的聲譽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>親王建議我去招募佩瑞琪之望裡水塑者公會的一名成員泰克胡。泰克胡自己對這件事也有所懷疑，他有可能成為我在這件事上的得力幫手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>親王建議我帶上&lt;b&gt;泰克胡&lt;/b&gt;。他可以為我在黑市的搜查提供幫助。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>我需要在進入&lt;b&gt;峽口&lt;/b&gt;後右轉然後直走，見到一處商舖之後我就能進入&lt;b&gt;潛民街&lt;/b&gt;了。&lt;b&gt;潛民街&lt;/b&gt;的入口就藏在商舖裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>&lt;b&gt;德理奧&lt;/b&gt;願意幫助我進入&lt;b&gt;地下室&lt;/b&gt;，但是我得先幫他取回&lt;b&gt;海浪號角&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>&lt;b&gt;伊諾&lt;/b&gt;告訴我，&lt;b&gt;峽谷&lt;/b&gt;的&lt;b&gt;巨洞客棧&lt;/b&gt;裡，或許有人知道怎麼進入&lt;b&gt;潛民街&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>&lt;b&gt;泰克胡&lt;/b&gt;同意加入我的隊伍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>&lt;b&gt;厄爾內佐&lt;/b&gt;死了，我沒能從他身上得到任何有用的東西。我只能想辦法從別的渠道，弄清楚物品是怎麼流入黑市的了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>因為我殺死了數名水塑者公會成員，阿羅海親王已經不再想與我扯上關係。他威脅等我回去就將把我囚禁放逐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我欺騙了親王並使他相信潛民街根本不存在。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我將有關地下室走私活動的情報告訴了親王。潛民街將會被取締。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我告訴了親王地下室的走私問題，但是我說服他暫時性放過潛民街。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>我將屠殺皇族海盜走私者的過程告知了親王。親王對我的行為略有微詞，但是他並不厭惡我的決定。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

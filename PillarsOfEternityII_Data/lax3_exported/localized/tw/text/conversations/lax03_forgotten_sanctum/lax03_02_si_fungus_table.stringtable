@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_02_si_fungus_table</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這張古老的木桌子上擺了一套複雜的煉金裝置，幾個瓶子，還有分類放好的其他材料。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[檢查桌子以及上面的東西。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[取走黴菌。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[取走殺菌劑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[將殺菌劑變為真菌肥料。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>有一大塊流明黴菌長在一個小金屬碗裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你將碗裡的黴菌倒進一個袋子裡，裝進了行李。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你手中的瓶子很沉重。很明顯裡面裝滿了東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>經過一系列謹慎的煉金步驟，你成功淨化掉了燒瓶中的毒素，並將其替換為強力增長劑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>經過幾小時對燒瓶和試管的擺弄後，[Specified 0]宣佈大功告成。你的同伴將試管遞給你，臉上掛著狡黠的笑容。
+
+「如果你不想讓菌怪變得超級大就謹慎使用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>經過幾個小時對燒瓶和試管百無聊賴地擺弄，殺菌劑還是十分致命的毒藥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>煉金裝置雖然很古老，但保養得十分不錯，看來完全可以使用。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>某個軟木塞瓶放在金屬籃子裡，瓶子標籤上粗略地畫了一隻濕菌怪，上面還標了一個紅色的「X」。這似乎是強效殺菌劑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[將瓶子裡的東西加一點到黴菌中。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>黴菌在你眼前以肉眼可見的速度枯萎著，表面黯淡的光迅速消散。最後它噗地一聲完全消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>黴菌在你眼前膨脹起來，伸出許多觸鬚從碗邊蔓延出來。它表面的光芒愈發光芒，發出如同心跳一般的搏動。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

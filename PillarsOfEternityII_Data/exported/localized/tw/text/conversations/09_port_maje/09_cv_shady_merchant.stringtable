@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_shady_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「啊，一副新面孔！當然，你肯定聽說過了，諾袞會是你最可靠、最謹慎的供應商，絕大多數的商品都是合法的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「歡迎回來！你一定需要什麼東西，我能感覺得到。讓我來幫你吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你在找什麼特別的東西嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「讓我看看你這裡都有什麼東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「『絕大多數』都是合法的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我是個誠實的商人，先生！我得承認，我賣的東西臭名昭著，但這是不公平的。
+
+畢竟客人們打算怎麼使用這些東西，這並不是我該管的事情。」</DefaultText>
+      <FemaleText>「我是個誠實的商人，女士！我得承認，我賣的東西臭名昭著，但這是不公平的。
+
+畢竟客人們打算怎麼使用這些東西並不是我能管的。」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_si_rooftop</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這扇窗戶能看到佩瑞琪之望的街道。亞柯彌莊園的二層就在對面。
+
+只要有正確的工具與高超的投擲技巧，就能成功越過其間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[爬向莊園。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>繩索嘎吱嘎吱地搖擺著，不過你還是小心地安全到達了對面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>鐵爪構裝體笨拙地前來調查這陣異響。經過一番仔細調查後，它又返回繼續巡邏了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[找人將抓鉤扔過莊園的欄杆。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>窗戶與莊園的距離太遠，跳不過去。此外，陡峭的高牆與不定的風向使得攀爬十分危險。
+
+不過，只要有點攀爬經驗的人都能從這個距離成功拋出抓鉤固定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>抓鉤從空中飛過，噹啷一聲落在地上。繩索拉緊後，抓鉤便牢牢卡在了欄杆上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>抓鉤從空中飛過，噹啷一聲落在了屋頂磚上。
+
+你趕緊將它收了回來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[研究距離。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[將抓鉤扔過莊園的欄杆。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>繩索與抓鉤飛了過去。繩索一側綁在了窗戶上，抓鉤則掛在了莊園二層的欄杆上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你觀察了一下莊園，發現似乎有一台鐵爪構裝體在獨自巡邏二層。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>抓鉤沒有命中目標，在欄杆上敲出了很大的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>鐵爪構裝體發出一聲金屬般的巨吼，立刻衝往現場查看。
+
+你聽到了震耳的鑼聲——毫無疑問莊園內的守衛已經發出了警報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>抓鉤從空中飛過，但在此等待的鐵爪構裝體一下就將其擊落了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>抓鉤連在了欄杆上。繩索一直通往隔壁商店的上層窗戶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[爬向黑暗櫥櫃。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

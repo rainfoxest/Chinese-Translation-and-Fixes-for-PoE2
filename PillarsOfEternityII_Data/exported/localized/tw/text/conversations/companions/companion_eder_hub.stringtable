@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_eder_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「嘿，往事回憶浮上心頭啦？嗯？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我們終結了維德溫遺贈後，你做什麼去了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你現在對俄撒斯作何看法？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「咱們曾經路過一個小鎮，叫鹿灘的那個。鬧維德溫遺贈的時候，它們可被打擊得不輕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「鹿林有一個俄撒斯信徒的組織，叫暗夜集會。他們暗中幫助其他的俄撒斯信徒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我跑遍了鹿林，但那個地方對我來說鬼魂太多了。我寧願把它忘在腦後。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我不曉得。我對他的印象還停留在小時候在教堂裡瞭解的那個樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我希望毀滅就此結束。我希望他停下正在做的事，安靜地離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「長久以來，我總是希望咱們能搞清俄撒斯想要什麼，到頭來總算是明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「他的目的……完全超出了我的估計。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我有空。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「你在想什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「嘿，瞧這是誰呀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「是什麼叫你這麼苦惱？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「哈，我還挺喜歡那種感覺的，咱們阻止了撒奧斯。咱們是大事件的一部分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「在那之前哪怕去打仗，我都從未有過那種感覺。所以嘛，我猜我後來又去尋找這種感覺啦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我可不想再跟神對著幹了。但可以選些沒那麼強大的，我覺得自己能搞定的對象。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「我就走進小鎮，問鎮長我能不能幫什麼忙。他人真的挺不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「不過後來事實證明他是個司坎邪教徒。趁我不注意時，他想用一把花園鋤頭打暈我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「可能想放我的血，用石頭剜出我的眼睛，要麼別的什麼司坎破事罷。我沒問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「總之，我提著他的首級走出那間房，後來我就當了鎮長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「他們甚至不肯選舉。我說你們確定不？個個都點頭，就這麼痛快。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你這鎮長當得怎麼樣啊？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我問你點別的事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我們快走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「有的業務我挺擅長。歡迎人們啊。招待人們定居啊。維持秩序啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「但有的我就摸不著頭腦了。比如談判、平息爭端、說該說的話什麼的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我覺得我還是改善了很多事兒吧，但是一路下來，也有許多人受了傷害。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「行呀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「是不是有點像灰鑰社？我就猜你會這麼講。只不過暗夜集會少了群膽小的瘋子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「總之，有天晚上，我在一家酒館。有個夥計跟我起了點衝突。他玩絨精頭輸了點錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「他注意到我的垂飾上有俄撒斯的印記時，我正好把他的腦袋按在上面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我們就長談了一番，結果發現他就是那個頭頭。組織暗夜集會的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「一兩個月後，他覺得我還行，就把我介紹給一些組織裡的人，他們讓我加入。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「這組織是如何發揮功效的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「這個嘛，得看情況了。我們做了很多工作，有很多人得幫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「多數時候，我們幫助人們擺脫困境。給他們提供更好的生活。我喜歡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「但這個組織也存在問題。對工作路線的意見分歧不少。有時候會讓我們試圖幫助的對象付出代價。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我也不知道傷害是能夠避免的呢，還是想要解決問題必需付出的代價。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「最後以我步父母的後塵前往聚鹿而告終。他們戰後就以難民的身份流亡過去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你找到活兒干了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「算有吧，大概。聚鹿仍然仇視鹿林，這段積怨可以追溯到起義那時候了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「有的聚鹿人一逮到機會就找鹿林人的茬兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「我跟著家人一起去討要他們的土地。假稱擁有它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「你怎麼做的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我坐下來，跟他們好好談判了一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「有個夥計大概這輩子沒法再往右邊看了吧。但我們達成了共識。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我的家人自那之後徹底對我刮目相看。我認為他們寧願放棄土地，也不願演變成暴力事件。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「那和咱們現在瞧見的模樣沒半點相似。跟維德溫什麼的也毫不沾邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「但那是我對他的第一印象……那仍是俄撒斯在我心目中的樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「只可惜，我看事態並未遂我所願啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「但這些日子再沒什麼比這更叫我害怕的啦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「但我開始琢磨，若真是這種行事作風導致了大肅清和維德溫的遺贈，那麼也許，是該做出一些改變了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「跟撒奧斯和娥狄卡好像區別不大呀，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「大能的存在總是覺得他們清楚什麼對我們最好。也不在乎我們要付出何等代價。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我只是希望他比我考慮得全面些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我開始覺得如果沒有諸神，人們會過得更好。起碼咱們曉得混亂都是自己造成的啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「跟我聊聊貝亞恩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「和我期望的不一樣啊，就這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我們把他救了出來。這才是最重要的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「別以為我有話想說。」
+
+艾德爾眼睛下面深深的黑色皺紋讓他看起來像是幾天沒睡覺一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「我本想著也許能跟他融洽相處。要麼因為他像他媽媽，要麼因為他像……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「不過，好像有人用言語讓他轉了性子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「這也不是他的錯。他孤身一人在這兒。他媽媽還那麼強勢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「她是那樣自信，要是有機會，她能讓那邪教首領轉而奉她為尊。」
+
+「她那性子啊，很難改變的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「他無依無靠，所以他最初才陷入了困境。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「希望這次的情況能有所不同罷。希望他能與別人建立關係，找到自己能做的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「不過，我還是很擔心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「他無依無靠。在別人的勸誘下相信了聽上去有益的事物。咱們沒法說服一個人轉變思想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「無論是不是出於俄撒斯的本意，又一個靈魂被他剝離了肉身。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「他選擇死亡，那有什麼好處？咱們杜絕了這種可能性。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「你覺得亡焰列島怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「空氣很不一樣。特別是跟飾金谷比，那兒的牲畜比鐵鍬還多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「聲音也不一樣。清晨你會被那些鳥兒的叫聲喚醒，它們聽起來就像音樂般動聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「當他看著你的時候，你會覺得他是在看你身後很遠的人。」
+
+艾德爾搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「換做在飾金谷，那兒的鳥把你叫醒，通常是一對烏鴉正在發出你這輩子聽過最恐怖的交配聲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「怪了，我還是有種盼望自己身處家鄉的感覺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「你跟亞洛斯怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>艾德爾的目光在閃閃發光的拱門與半倒的尖塔間游離，他的嘴大張著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「想念簡單的生活嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「很難想念你根本記不起來的東西。
+
+「我只知道當世界湧入我的生活時一切都發生了翻天覆地的變化。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「最起碼俄撒斯看上去是想要糾正那一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「是呀。我估摸著，他把這看得比什麼都重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「他們的問題是基斯的問題。兩種文明，儘管有所不同，都同意需要做出行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「所以我們才來這。我們要面對這事情。不管接下來是什麼，我們都要結束這件事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「比影中陽要漂亮多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「在某種角度上是的，在它完結之前是的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「飾金谷之所以叫飾金谷，是因為那兒的麥田在陽光下，看著好像金子一樣。」
+
+「但這兒。這個地方是真的鍍金。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「就像個完全不一樣的世界似的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「對。感覺他們看待事物有一整套和咱們完全不一樣的方法。」
+
+「我得說，我更喜歡這套，不過講實話，兩者對於我來說都很陌生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「完結啊……不過，我們總歸還是來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「這群『偉人』們離世的方式真是奇特。」
+
+「他們從這個世界消失無蹤，卻把問題留給我們剩下來的人來解決。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「你知道嗎，我以前也打碎過一個輪子。咱們弄清楚俄撒斯在做什麼的時候，我頭一件就想起這件事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「真是亂七八糟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「那時候的我就跟所有父母出了門的小孩子一樣拿它玩耍，玩瘋了，輪子直接落了出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「我又塞不回去，只好使勁地不停猛塞，很快又弄壞了一根輻條。」
+
+「想修那根的時候又弄壞了三根。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「最後我被狠狠揍了一頓。就算我老爹修好之後那輪子也跟以前不一樣了。」
+
+艾德爾的兩根手指在需要打理的鬍子中穿梭著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「我以前一直覺得諸神就像是我們所有人的爹娘。」
+
+「現在可不那麼想了。他們就是一群父母出門後的孩子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「不過，你看現在，俄撒斯正在努力扭轉一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>艾德爾哼了一聲。「救贖之神呵，祂想救贖眾神。」
+
+他搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「我猜這應該是好事罷。起碼對我來講是件好事。」
+
+「我這輩子總算能做點跟拉貨鏟土沒關係的事兒啦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「甚至在這期間還交到了一兩個朋友。」
+
+他得意地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「就算這代表我得與你同行也是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「全世界即將面對最巨大的考驗。俄撒斯在做的事情將要改變一切。
+
+「咱們有可能沒法倖免，我說咱們，意思是所有人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「我的母親有個紡車，她很喜歡那紡車。」
+
+艾德爾咬了咬自己的嘴唇，看來他仍然內疚著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「你早前關於裘荻想說什麼來著？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_constable</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「怎麼？有什麼事嗎？」
+
+治安指揮官向你致以無情打采的問候之後，抬頭看著你。你注意到她的一隻眼睛周圍有淤青。
+
+她苦笑了一下，但沒有轉開臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你在維護治安嗎？
+
+我開玩笑的，[Player Name]。有什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「有什麼事嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「老天爺，衛兵人手不夠的話，我啥也幹不了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「這裡的衛兵不是很多啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「這裡人少事多。風語者出了不少力，但鎮上大部分地方都被洪水淹沒了。
+
+現在到處是無家可歸的平民和受困的商人。更別提還有&lt;i&gt;邪教徒&lt;/i&gt;在蠢蠢欲動……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你問我怎麼了？有個喝醉的蠢貨，我給了他不該給的耐心和尊重，結果他一聲不吭地給了我一拳。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「對不起，塞維亞！我當時是衝著達莫的臉蛋去的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我可以去找這個伊拉里談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「伊拉里死了。他不會再給你製造麻煩了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「什麼？我不是不歡迎你這麼做，可是……我聽說你是最近才來到這裡的，而且是迫不得己的。
+
+為什麼要這麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我自己也因為風暴損失慘重。我想要幫忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「跟指揮官打好關係才是明智之舉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「這是個打架虐人的好機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「這一切都是俄撒斯搞的鬼。我受夠了眾神隨心所欲、草芥人命的做法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你的熱心真令人欽佩。換作是我的話，估計會給自己放個大假。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「看來你是個明智之人。很好。」</DefaultText>
+      <FemaleText>「看來你是個明智之人。很好。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我本不想派個平民百姓去的，可是……也許我沒有好好講清楚眼下的形勢。」
+
+塞維亞歎了一口氣。</DefaultText>
+      <FemaleText>「我本不想派個平民百姓去的，可是……也許我沒有好好講清楚眼下的形勢。」
+
+塞維亞歎了一口氣。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我們確實遭遇了不幸。但我不認為我們給了眾神出手干預的理由。
+
+只是來了場風暴而已。其他禍害，也只是貪婪和投機倒把造成的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「格雷西街在鎮上西邊。走到海邊就是了。
+
+我不想看到流血衝突。肯定有辦法通過和平手段解決。如能可以和平解決，我會很感激你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我說服伊拉里管好格雷西街。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「眼下跟熟悉的人合作可以輕鬆一點。我可以稍後再來對付他。」
+
+「現在我們控制了國王港的一小塊地方。算是個好的開局。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你運氣好，有我在。我…呃…可以為你效力。」
+
+「放我出去，我會幫你好好教訓這個伊拉里。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「閉嘴，瑞格列。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「能不能降低瑞格列的罰金？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我想幫瑞格列支付罰金。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「真的嗎？能遇上你這個貴人，算他運氣好。」
+
+塞維亞從口袋裡拿出一串鑰匙，走向牢房門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「什麼？我為什麼要這樣做？原諒他的無心之失嗎？
+
+瑞格列是個酒鬼加蠢貨。不要自己攬麻煩上身。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「什麼？別跟我說是瑞格列激起了你的同情心。你很快就會失望的。」
+
+她瞥了牢房一眼，一臉輕蔑的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「這是瑞格列的罰金，給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「怎麼回事？我不是鎖好的嗎……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「有人脫逃？不可能！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「瑞格列不見了。看來他之前醉酒什麼的都是裝出來的啊。
+
+可惡。這隻酒耗子運氣好，我現在沒時間去管他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「啊，是你。又來視察『民情』，打聽情況嗎？不，別跟我說話。今天已經夠煩的了。」
+
+怒氣沖沖的塞維亞扭過頭去，望向附近牢房牆上冒著煙的裂縫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「伊拉里的人在格雷西街搞事情。
+
+他的幫派在四處搶劫，這傢伙更是一副王爺的作派，成天趾高氣昂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我的天……本來以為伊拉里能派上點用場的。他在平民當中有點名氣，受人尊重。」
+
+「他確實是個麻煩鬼，可是……也不必操之過急的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「算了，事已至此。你辛苦了。
+
+要是我手下有十個像你這樣的人，不出一周便可將整個國王港整得井井有條。」</DefaultText>
+      <FemaleText>「算了，事已至此。你辛苦了。
+
+要是我手下有十個像你這樣的人，不出一周便可將整個國王港整得井井有條。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「國王港的情況如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「雖然風暴沒有造成人員傷亡，但很多住所受損。而且斥候報告說出現了『巨人』，導致百姓們很害怕。」
+
+「反正就是亂作一團。不過形勢遠沒有失去控制。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「情況不斷好轉。有很多地方有待重建，還有一些常見的違法現象。」
+
+「不過百姓們的精神面貌很不錯，這一點很重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我的天。我該怎麼跟克拉里奧解釋這件事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我的天。我該怎麼向議會解釋這件事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你為我做了不少事情，我很感激。因此，你要為瑞格列擔保的話，我就降低罰金。」
+
+「他給酒館造成的損失一共是300塊錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我倒想提高罰金數額。瑞格列怎麼會引起你的興趣？
+
+如果我的手下所言不虛，那你早就應該跟他一起蹲牢子。算你運氣好。你就別再來給我添亂了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「很好。這貨是坨狗屎，對吧？不過也是坨懶狗屎。」
+
+「如果沒必要的話，他是不會製造麻煩的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>塞維亞瞥了一眼裘荻，但是臉色平靜，沒有說什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我覺得這樣做應該有報酬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「好吧，我也不勉強你回答。不管你出於什麼目的，我都歡迎你幫忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「那你真是太樂觀了。要是我有錢的話，早就雇多幾個人手了。
+
+不過這次你沒猜錯。我會付你合理的報酬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

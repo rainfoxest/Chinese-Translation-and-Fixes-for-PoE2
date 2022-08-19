@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_transition_to_lich_lair</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你穿過島後，到了一個似乎還沒有被基斯人的手染指的地方。
+
+幾個洞穴的入口周圍植被繁茂，越過身後波浪沖擊海灘的聲音，你還能聽到動物和昆蟲的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>但是，當你走近時，你發現其中一個洞穴入口的結構過於均勻，不可能完全是靠自然風化形成的。
+
+仔細查看後，發現了一個利用洞穴的縫隙雕刻成的門廊，儘管現在再也沒有門立在那裡了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>島上的這片安靜區域看起來跟你上次穿島探險時沒什麼不同。你沿著同一條灌木叢生的小路返回下沉的遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_flame_naga_cave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你跳起來輕輕著地。一個洞穴在你面前張開大口。粘膩的巨雲、滾滾的黑煙像從洞口呼出的氣息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[進入洞穴]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[下山。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>在你爬上陡峭的山坡之前。瓦礫和矮樹叢阻擋了你的去路，但巨石和侵蝕的坑洞也可以讓你的手牢牢抓穩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>一大群蝙蝠突然從山腰的小洞裡飛出來。當它們飛過你的時候，你巧妙地躲開它們。
+
+蛇妖發出嘶嘶聲，並揮動著雙臂，從陰影中召喚出一團熊熊的火焰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>一大群蝙蝠突然從山腰的小洞裡飛出來，讓你大吃一驚。蝙蝠撞向你，把你撞到一堆鋸齒狀的石頭上。
+
+蛇妖發出嘶嘶聲，並揮動著雙臂，從陰影中召喚出一團熊熊的火焰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>一大群蝙蝠突然從山腰的小洞裡出來。[Specified 0]無法及時躲避，與蝙蝠撞個正著。[Specified 0]跌倒在地上，艱難地降落在一堆鋸齒狀的岩石上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>蛇妖開始用低沉的呢喃聲吟唱。嘶鳴的蝙蝠群扇動著翅膀聚集在你的頭頂，然後壓在你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你穿過煙霧，這讓你的眼睛流淚，肺部灼燒，然後你摸索著進入山洞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你受夠這座山了。你從你來的路爬下來，繼續探索這個島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你開始艱難地爬上山的一側。不久，你在山腰上看到了一個小而平的巖礁。
+
+你爬到了邊緣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>這座山直插雲霄，似乎要刺破天空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[爬山。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[下山。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你離開山腰，繼續探索島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>穿著絢麗多姿的衣服的蛇妖站在巖礁上，雙臂舉起，手下放著一個古老的圖騰。
+
+蛇妖看見了你，然後回頭，發出一聲長長的、高亢的&lt;i&gt;嘶嘶聲&lt;/i&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[攀登山坡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[偷偷溜進去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[向圖騰投擲炸藥。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[逃跑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[拔出你的武器。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你匆忙點燃了炸藥然後掄圓胳膊丟向了圖騰。爆炸將圖騰的碎片崩得到處都是。蛇妖薩滿在煙霧中毫髮無損地出現，珠粒般的眼睛死盯著你。
+
+山側迴盪起一陣高音嘶鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 1]點燃了炸藥然後掄圓胳膊丟向了圖騰。爆炸將圖騰的碎片崩得到處都是。蛇妖薩滿在煙霧中毫髮無損地出現，珠粒般的眼睛死盯著[Specified 1]。
+
+山側迴盪起一陣高音嘶鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>你將炸藥丟向圖騰，但動作不夠快導致它在半空中就爆炸了。
+
+山側迴盪起一陣高音嘶鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你舉起武器緊盯著蛇妖薩滿。不過正當你覺得它要發起攻擊時，山側迴盪起一陣高音嘶鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你轉身從山側下山，不過山側迴盪起一陣高音嘶鳴又讓你有些猶豫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 1]將炸藥丟向圖騰，但動作不夠快導致它在半空中就爆炸了。
+
+山側迴盪起一陣高音嘶鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

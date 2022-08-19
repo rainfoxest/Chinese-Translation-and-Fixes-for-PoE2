@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_lich_ext_wraiths</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「來吧，姐妹們，我們必須召喚靈威了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>事情有些不對勁，但你不知道為什麼。接著，你意識到了。安靜。風吹過你的皮膚或搖動樹頂時沒有了颯颯作響聲。鳥兒不再吹口哨和尖叫了。昆蟲的唧唧聲也消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[搜索聲音來源。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你偶然發現一條蜿蜒曲折的岩石山路通向山的陡峭一面。吟唱的聲音在這裡更大，但你仍然聽不清他們唱什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[繼續旅程。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[偷偷靠近觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你爬上山路，發現一群幽靈暢行無阻地漂浮在你前面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你爬上山路，發現一群幽靈暢行無阻地漂浮在你前面。
+
+你的靴子在石頭上發出吱嘎吱嘎的聲音。一個錯步就讓你的腳打滑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>一群幽靈將一個人圍在中間，全部將可怕的目光轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[偷偷接近幽靈。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>可能引起一場爭鬥這樣的前景絲毫沒能讓你打消念頭。你下定決心並衝向這些幽靈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>轉角後，你聽到了遠處傳來的吟唱聲。你聽不清說的什麼話，只知道許多種聲音同時響起，像一陣低沉的嗡嗡聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>當你爬上山路時，[SkillCheck 0]的靴子嘎吱嘎吱地踩到石子上。一步不穩，有塊石頭便噹啷作響地朝山下滾去。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

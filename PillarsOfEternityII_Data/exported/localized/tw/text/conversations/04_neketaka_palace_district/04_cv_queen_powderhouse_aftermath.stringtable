@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_queen_powderhouse_aftermath</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>154</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>王座室中迴盪著緊張的咕噥聲。你進來的時候有幾個人轉過頭來看你，但是大部分人的注意力都集中在了王座前聚集起來的緊張人群上，一名神情焦慮的瓦利亞人夾在了護衛中間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你覺得我們會信嗎？！這一切裡面透露著一股瓦利亞詭計的臭味。」
+
+哈扎努伊向前伸了伸，手裡的匕首指著卡斯托爾。她的下巴上一根青筋暴了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「放鬆，哈扎努伊。我邀請靈視者前來擔任我們最可靠的證人。」
+
+她掃視了一圈房間然後朝你的方向點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「那麼問題就解決了。」
+
+當奧涅卡莎準備起身的時候，吵鬧的侍臣們與咕噥聲又重新響了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「很不光彩，但是一切已經完結。」
+
+奧涅卡莎雙臂交叉歎了口氣，但是你察覺到她的唇上隱約浮現了一絲心滿意足的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「守衛們，保證主管安全回到自己的住所。所有人請退下吧！」
+
+她拍了一下手，撞擊聲異常響亮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「稍等片刻。」奧涅卡莎越過人群打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「……殿下，靈視者……不韻政治，但是我相信我們肯定可以繼續……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「孩子，別著急。靈視者是我的。
+
+「為了我的兄弟姐妹們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「你不知道自己到底做了什麼。」女王雙手捏成了拳頭，但是她的憤怒並沒有反映在自己的表情上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「這麼多爭鬥，毀滅掉一個國家卻只需要一瞬間的努力。」奧涅卡莎輕輕點了一下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「你在這個時刻證明了自己是我們最寶貴的朋友與盟友。」女王深深鞠了一躬……整個王座室一片肅穆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「來花園找我。我們要好好談談未來。」她在王座廳做了一個歡迎的姿勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「還有沒有事情？我手頭上還有要埋葬的屍體和需要重建的街區。對於我來說一切才剛剛開始。」她向女王投去了幾乎像是警告一般的凝視。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「你理應得到賠償，哈扎努伊。主管的股份屬於你。」她手掌打開平揮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>她嘟噥著。「那還差不多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「主管，你現在站在娥狄卡的公正與坦格羅亞的巨口之間。準備好更正自己的言論了嗎？」
+
+她婭揚起了眉毛，等待著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「尊敬的殿下，這些指控太過荒唐了！
+
+「如果這個男人收了錢，那些錢肯定不是我出的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「對，他給了我一千金陽幣。我本應該收十倍的價錢。」
+
+年輕男子雙臂交叉朝卡斯托爾主管點了點頭，之後他瞟視著聚集起來的領袖們的臉龐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>女王手指抵住太陽穴，她打量著你，表情複雜難以讀懂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「廢話已經夠多了，商人。」阿羅海用視線示意主管閉嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「哈扎努伊？是我炸掉了炸藥庫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「你這個兩面三刀的畜生！我要弄死你然後把你的屍首掛在我們的城牆上！」她向前突了過來，下巴上的青筋暴漲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「這些錢是點燃努瓦泰黑火藥庫存的報酬。是不是，安達奇奧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「對，殿下，是的。」年輕男子吞了口口水點了點頭。
+
+奧涅卡莎慢慢轉向了卡斯托爾主管，她的表情難以捉摸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「異議！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>房間裡一片死寂，所有人都轉向了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「貝拉斯有賦予你擾亂我的法庭秩序的權利嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>&lt;ispeech&gt;不要壞事。&lt;/ispeech&gt;女王的手指捏緊了她的王座扶手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「你來的很及時，正好夾在兩次認罪之間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「靈視者，請向卡罕加法庭陳述自己的姓名。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我叫[Player Name]，殿下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「我不想說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「你有目擊到黃銅堡的爆炸嗎？」
+
+奧涅卡莎手指相抵，點頭示意你發言。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我看到了，殿下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[撒謊]「我不知道你在說什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「靈視者，我不覺得……」
+
+奧涅卡莎向前做了做然後安靜了下來。觀察到了王座廳裡的情況之後，她向後靠了靠並且拂去了臉上的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「怎麼回事？！」
+
+「有人謀殺了我的人，並且還在我們的要塞裡面留下了一個大坑，在得到公正的審判之前我不會離開這裡！」
+
+她在盯視著人群的時候雙手前後甩著，不確定自己應該將怒氣發洩在誰身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>她注視著你，漫長而又富有深意，她的眼睛一眨也不眨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我們可以繼續了嗎？」她清了清嗓子，向後坐了坐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>&lt;ispeech&gt;「你是在幹什麼？&lt;/ispeech&gt;
+
+奧涅卡莎搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「目擊？殿下，我親自點燃的導火線。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你發言之後的寂靜就如迴盪的槍聲一般刺耳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「靈視者，法庭不能忍受沉默。」她慢慢點了點頭，示意你繼續。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「好吧。我們的證人已經將自己從繁瑣的證言中拯救了出來。」歎著氣的女王將一根手指舉到了太陽穴上。</DefaultText>
+      <FemaleText>「好吧。我們的證人已經將自己從繁瑣的證言中拯救了出來。」歎著氣的女王將一根手指舉到了太陽穴上。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「看來我浪費了諸位的時間。真是羞恥。」
+
+她朝你慢慢搖了搖頭，動作輕微到幾乎無法辨認。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「沒事。算不上什麼問題，殿下。失去炸藥庫這件事情震驚了我們所有人。
+
+「節哀，哈扎努伊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「好，跟我之前與客人們說的一樣。」她向哈扎努伊與主管投出了若有所思的眼神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「那麼我們開始吧。我想要知道靈視者到底看見了&lt;i&gt;什麼&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「不要擔心，哈扎努伊。在這間房子之內，真相就是一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「太……太瘋狂了。奧涅卡莎女王，我永遠也不會去威脅我們人民之間的和平。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「靈視者，告訴我們你到底看見了什麼。」她示意你繼續。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[撒謊]「我看見安達奇奧出入卡斯托爾主管的辦公室。我跟著他到了黃銅堡，但是沒來得及阻止他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[撒謊]「我之前說錯了。說實話，我什麼也沒有看見。主管是無辜的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「我目睹了爆炸，因為那是我引發的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「什……什麼？不，那……那不是……這是不是在開玩笑。靈視者，告訴她你是在開玩笑！」
+
+卡斯托爾驚恐地盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我就知道！把這頭毒蛇留給我，女王。我要實行努瓦泰的判決。」她向女王投去了滿懷期望而且怒氣沖沖的凝視。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「這是對於我的城市的攻擊，胡亞納人才能下達判決。」
+
+她靠在了王座背上，她抬起了下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「太荒唐了！這麼明顯的謊話，就算是我們的對手也應該知道這有多麼荒唐吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「是我做的。皇族海盜向你們致意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「這裡的每一個人都已經知道我的名字了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「如果我們不用再比傢伙大小了，我們能不能趕緊開始審判了？」她怒氣沖沖地看著你和女王。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>卡斯托爾鏡片後的眼睛像貓頭鷹一般眨著，他的嘴巴大張著。
+
+他轉向了女王。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「夠了，哈扎努伊。」奧涅卡莎安撫般地舉起了手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「不！你不能這麼做！議會，還有&lt;i&gt;共和國&lt;/i&gt;將……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「考慮到你身上背負著的恥辱，我認為就算是共和國也不會來保護你。」
+
+奧涅卡莎嘴上掛起滿意的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「你將被剝奪一切職位並被派往峽谷，處罰將持續到你死的那一天。願坦格羅亞之胃清除你靈魂上的污點。」
+
+奧涅卡莎不屑地一揮手，她的侍從們靠近了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>奧涅卡莎女王不相信地眨了眨眼。她的手指捏在了一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「明白了。」她轉向了阿羅海的方向，兩人互相交換了若有所思的眼神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「你這個兩面三刀的畜生！我要弄死你然後把你的屍首掛在我們的城牆上！」她向前突了過來，下巴上的青筋暴漲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「真是……意料之外。我們所有人都沒想到。」
+
+卡斯托爾困惑地打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「尊敬的權貴們，我沒有……」發現自己無話可說的奧涅卡莎轉向了阿羅海。
+
+他立即領悟了過來，他向前踏了一步並且響亮地清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>&lt;ispeech&gt;你這個笨蛋。&lt;/ispeech&gt;女王深吸了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「主管，請走開。你的審判已經結束了。」阿羅海抬起頭慢慢抽出了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「在穿越坦格羅亞之顎的時候請不要尖叫。那樣子會快一點。」
+
+阿羅海帶著堅定的眼神向你前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「孩子，別著急。靈視者是我的。
+
+「為了我的兄弟姐妹們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「你是收了什麼好處？他們付了多少錢讓你透露我的計劃？」
+
+她用拳頭支撐臉頰打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「聽不見你在說什麼。我在忙著數金陽幣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「很明顯他們付的不夠多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「原來我做這事情還能收錢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>女王從鼻子裡吹了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「為了瓦利亞人出賣自己的盟友……這真是最糟糕的交易。」
+
+女王閉上眼吐出了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「去吧，妹妹。我來解決這些叛徒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>你發言之後的寂靜就如迴盪的槍聲一般刺耳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「但是這……靈視者，你做了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「你這個兩面三刀的畜生！我要弄死你然後把你的屍首掛在我們的城牆上！」她向前突了過來，下巴上的青筋暴漲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「兄弟，你覺得呢？」王座上的女王向前靠了靠，她將注意力集中在了你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「我認為靈視者正在找通往科赫帕的捷徑。」他將關節按得劈啪作響向護衛們示意。
+
+其他人也都這麼做了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>&lt;ispeech&gt;我們本能為互相做那麼多的事情。太可惜了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「非常公正的裁決，殿下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>奧涅卡莎停了一下，朝你點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「希望如果未來有需要的話我們還能依靠你的供詞。」奧涅卡莎向你點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「不要擔心，妹妹。讓我來處理這傢伙。」阿羅海將注意力集中在了你身上，他拔出了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>你發言之後的寂靜就如迴盪的槍聲一般刺耳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「是我做的。你們這些蠢貨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「我說錯了。抱歉，不要被我嚇到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「不可能。靈視者一定是在海上待太久有點瘋了。」她的眉毛因為困惑與關心而扭在了一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「我看見的唯一一個蠢貨就是正在說話的屍體。」奧涅卡莎搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「有意思。這樣子的瘋病我聞所未聞。阿羅海？」女王遲疑著將注意力從身上移開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「我不喜歡你的幽默感。」她身上的肌肉慢慢放鬆了下來，但是她仍然怒視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我從來就不喜歡卡斯托爾。那一切只是順手做的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「為您服務是我的榮幸，殿下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「個中區別沒有任何意義，你的誠實倒是……相當新奇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「很有禮貌。我們能在這些黑暗的時刻當很好的搭檔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「我需要的是我的靈魂而不是朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「你將會得到你的靈魂。神靈們將我們的道理連接在了一起很明智。」她向你鼓勵般地點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「與你對我們的忠誠一樣，我們也將把忠誠給予你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「我猜我做了正確之事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「你應該試試公正的做事方式的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「完全不是，但是我猜你也不會意識到這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「去找你自己真正的盟友吧。卡罕加里沒有你的朋友。」
+
+她指向了大門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「你將自己的祖國出賣給了敵人。我不能容忍這件事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「但是有任何人給過我這樣的待遇嗎？」
+
+奧涅卡莎緊緊閉上了自己的雙唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「可恥，沒有別的好說了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「別這麼衝動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「放下武器，否則就等死吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[攻擊]「艾歐拉沒有一個法庭有審判我的權利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「靈視者，已經過了談判的時間。」女王摸了摸眉毛，沉默了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「阿羅海，我希冀你能擔任我的劊子手，執行我的審判吧。」她對著自己的兄弟點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「你對於死亡之神的信仰已經深刻到讓你做這種事情了嗎？」
+
+奧涅卡莎鐵青著臉搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>&lt;ispeech&gt;我們本能為互相做那麼多的事情。太可惜了。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「聽……聽見沒有。在情勢緊急時的誤解而已。
+
+「但是我並沒有被冒犯到……損失炸藥庫對所有人來說都是巨大的震驚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「我覺得應該沒有。閉上你的嘴，船長。」奧涅卡莎點了點頭，注意力轉回了法庭上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「殿……殿下，我保證……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「我問的是&lt;i&gt;靈視者&lt;/i&gt;！」
+
+奧涅卡莎向前坐了起來。她的聲音似乎穿透了整個法庭。
+
+她慢慢轉向了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「我的陳述？我覺得您最多算得上是個二流演員，殿下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「我知道你們瓦利亞人沒有原則，但是難道你們連羞恥心都沒有嗎？」
+
+哈扎努伊向前靠了靠，她手裡的匕首指著阿爾瓦瑞。她的下巴上一根青筋暴了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「對，她給了我一千金陽幣。我本應該收十倍的價錢。」
+
+年輕男子雙臂交叉朝阿爾瓦瑞主管點了點頭，之後他瞟視著聚集起來的領袖們的臉龐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「對，殿下，是的。」年輕男子吞了口口水點了點頭。
+
+奧涅卡莎慢慢轉向了阿爾瓦瑞主管，她的表情難以捉摸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「我一直都不太喜歡阿爾瓦瑞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「那麼，靈視者目擊了爆炸，涅克塔卡的每一名市民也都看到了。
+
+「這算是什麼證據？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「靈視者……你在做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>一片寂靜之中的阿爾瓦瑞笑了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「什……什麼？這……殿下，這是個謊言！靈視者在撒謊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[撒謊]「我看見安達奇奧出入阿爾瓦瑞主管的辦公室。我跟著他到了黃銅堡，但是沒來得及阻止他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「非常有趣的表演，殿下，但是我對此有些不滿。
+
+「結束了嗎？我還有要緊事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「殿下，請不要丟……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「你的偽裝遊戲一點也沒有作用，殿下。事實而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>阿爾瓦瑞的眼睛圓睜，她的嘴無聲地抿成了一條縫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「結束了嗎？還是說我們要列舉一遍涅克塔卡里的所有罪行看看有沒有問題？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「怎麼回事？！」
+
+「有人謀殺了我的人，並且還在我們的要塞裡面留下了一個大坑，在得到公正的審判之前我不會離開這裡！」
+
+她在盯視著人群的時候雙手前後甩著，不確定自己應該將怒氣發洩在誰身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「你……你這膽小鬼。你這個寄生蟲！」
+
+阿爾瓦瑞的嘴唇憤怒地扭了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「你們是在犯大錯！議會將會像神靈之怒一樣粉碎你們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「我炸掉了炸藥庫……按你要求的那樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「這是自然，因為我是按照你的命令將它炸掉的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[撒謊]「跟我沒什麼關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

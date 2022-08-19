@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_shrine_thieves</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你注意到了路旁的一尊飽經風霜的巨大石像。似乎是一尊胡亞納神龕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[褻瀆神龕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[繼續旅程。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>雕像的外形是一隻絢麗的天堂之鳥。飛鳥長長的身體環抱著一隻圓形的蛋。幾處顏料還突兀地黏著在石料上。
+
+雕像描繪的是亞彌拉-胡亞納版本的海麗婭。
+
+神龕底座上刻著一條銘文-"信徒們永遠在抗爭，如信天翁般迅捷，如魚鷹般矯健。"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你聽見了週遭奇怪而又快速反覆的滴答與咕嚕聲之後睜開了雙眼。
+
+一頭孤零零的蜥人正在翻弄著你的行李，它的鼻子嗅著你的補給。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>雕像的外形是一個長著怪魚頭的裸體女人。
+
+雕像描繪的是恩加蒂-胡亞納版本的昂德拉。
+
+神龕底座上面寫著一條銘文。「海浪打磨岩石但是也會將它們粉碎成沙礫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>雕像上纏繞著一對石鰻。每一條鰻魚嘴裡都貼著另一條的尾巴，兩條石鰻形成了一個無法打破的循環。
+
+雕像描繪的是理庫胡-胡亞納版本的貝拉斯。
+
+雕像底座上寫著一條銘文。「有些人跑。有些人戰。理庫胡吞噬一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>雕像的工藝巧奪天工，但是時間已經磨損了一切。
+
+你無法辨識出這尊雕像的原形。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「走開！離開這裡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>蜥人發出了一陣表示害怕的嘰喳聲之後逃走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>野獸轉了一圈頭，它鑽石形狀的瞳孔盯上了你。
+
+它發出了一連串尖銳的叫聲，你聽見有其他東西正在穿過樹林朝你這奔來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[操縱蜥人的意識。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>小獸身體突然僵直不動，原地打轉了起來，然後又開始漫無目的似的遠離了營地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[潛行到蜥人背後攻擊它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>蜥人沒有注意到你，你猛地一擊將它打倒在地。
+
+你解除了它的武裝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>野獸轉了一圈頭，它鑽石形狀的瞳孔盯上了你。
+
+它發出了一連串尖銳的叫聲，你聽見有其他東西正在穿過樹林朝你這奔來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>蜥人發出了開心的吱吱聲，它在你的背包裡翻江倒海。它挖出一些肉塊開始啃咬了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>蜥人發出了靜靜的幾聲吱叫，它放過了你的背包，蜥人用一隻利爪撓了撓腦袋。它打量著四周環境，嗅了嗅空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>雕像上滿是灰屑，底座上面雜草叢生。這個神龕已經好久沒人打理了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[休息之前向神龕祈禱。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你跪在了神龕前對著冰冷的石像低語著你的祈禱。
+
+它沒有給你任何回應，但是當你站起來準備紮營的時候感覺自己平靜了許多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>被腐蝕嚴重的古老雕像在你的摧殘下變得粉碎，雕像的碎片散落一地。在仔細蹂躪了神龕一番之後，你將它鏟翻了。
+
+神龕現在只剩下了石質底座與一堆礫石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[靠近檢查。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[冥想休息。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[繼續旅程。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[紮營休息。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我知道當恩加蒂擊沉你的海船的時候誰能活下來。」泰克胡雙手抱胸做了個鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「如果打倒海麗婭能跟弄倒這個神龕一樣輕鬆就好了。」
+
+帕蕾吉娜觀察著你的傑作，她金色的雙眼中洋溢著滿意之情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「正在處理與當權者的矛盾嗎？」亞洛斯帶著一絲揶揄的表情觀察著你的傑作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>你原地坐了下去，控制住自己的呼吸節奏的同時放鬆肌肉。
+
+你整理著自己的思緒。
+
+當你站起來的時候，你感覺一切都變得不那麼危險或者說更加容易實現了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>一陣吵鬧聲弄醒了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「浪費時間，"你祈禱的時候帕蕾吉娜大聲抱怨著。她怒氣沖沖地走到了旁邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「要我說一切都是船長給的，應該感激才對。」泰克胡拍了拍手，笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「遵命，船長。給幫了你的老夥計還人情這種事情沒什麼好猶豫的。」
+
+塞拉芬笑了笑跪在了你旁邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[調查週遭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>神龕週遭空無一物，說不定這裡是個休息的好地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[調查週遭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>你前去搜尋其他蜥人……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[回去睡覺。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>休息的時候什麼事情也沒有發生，你醒來之後繼續踏上了旅途。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[對著它吟唱。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>你開始吟唱的時候蜥人看向了你，它的腦袋微微傾斜，身體慢慢蓄著力。
+
+但是當你繼續吟唱，它開始跟著詞句的節奏慢慢搖擺了起來。它小心翼翼地又往前跳了幾下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>手裡拿著長矛的蜥人朝著你睡著的一位同伴慢慢靠近……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[餵它點食物。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[不警告就發起攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>你從背包裡拿出了一點食物給它，但是看上去小蜥人並不喜歡。
+
+它左右輕跳著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>它聞了聞送過來的肉塊，從你的手裡拿走肉塊之後往後跳了回去。
+
+蜥人將食物塞進嘴裡，試探性後退的時候嘴裡還在狼吞虎嚥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>它盯著你的眼睛，蜥人低聲吱叫了幾下之後營地邊緣放下了幾樣物品，它把自己的長矛與盾牌也放在了那裡。
+
+做完之後蜥人衝回了灌木之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>完全來不及反應的蜥人倒在了你的攻擊之下，它一動不動地倒在了你腳邊。
+
+你解除了它的武裝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>雕像描繪的生物與獅尾虎是同類，但是它的右肩上長著一隻蜘蛛頭，左肩上還長著一隻長牙野豬的頭顱。
+
+雕像描繪的是胡亞納版本的伽拉溫。
+
+神龕底座上寫著一句銘文。「跟蹤。屠戮。生存。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>區域附近較為鬆軟的土地上有蜥人的痕跡。看起來剛剛產生不久。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>雕像上滿是灰屑，底座上面雜草叢生。這個神龕已經好久沒人打理了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>你的小狗雕像也一同吠叫起來，蜥人發出害怕的啾啾聲，鑽入了灌木叢中。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

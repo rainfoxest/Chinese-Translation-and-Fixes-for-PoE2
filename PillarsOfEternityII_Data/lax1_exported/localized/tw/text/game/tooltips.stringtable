@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tooltips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>英格維仙建造了席格納斯·莫爾，以研究把海洋生物變為可怕巨獸的方法。你不顧伽拉溫的反對淹沒了它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>英格維仙建造了席格納斯·莫爾，以研究把海洋生物變為可怕巨獸的方法。你應伽拉溫的要求保護了它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>英格維仙建造了席格納斯·莫爾，以研究把海洋生物變為可怕巨獸的方法。你在艦隊指揮官岡谷的命令下造訪了它。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

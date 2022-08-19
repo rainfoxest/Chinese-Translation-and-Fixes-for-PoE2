@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_burning_building</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>71</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>到了涅克塔卡的富人區，映入你眼中的不再是歪歪扭扭的異國棚屋和建築，而是五彩繽紛的住宅。這裡的建築有著寬敞的大木門，門上裝飾著造型複雜的浮雕花紋。這裡的孩子並沒有纏著你，向你討要食物或是一點點小錢，而是賣著劇院演出的門票，或是在宣傳著公共浴室的好處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你從後門衝了出來，來到了一條幾乎被遺棄的小街。街上只有一群衣衫襤褸的人，手裡拿著火把。你注意到，其中一個人的破包裹上沾著血跡。
+
+其中一個人是個寬肩膀的人類，臉上帶著緊繃繃的面具，陰沉地看著你。「看起來有人要逞英雄了啊。可惜的是，我們的老大和我們說得很清楚，一個活口都不能留。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我是你們老大派來的，他囑咐我，別讓你們這幾個白癡傻愣愣地站在火堆邊上看著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[攻擊] 「我要為屋子裡的人們報仇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>站在右邊的是個身上帶著刀疤的女精靈，她看了戴著面具的小頭目一眼。「你覺得他會派人來看看我們幹得怎麼樣嗎？聽起來挺像他的風格，沒錯吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我和德理奧有交情。趕緊把武器收起來，我就不追究你們的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[試圖逃跑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「殺了他們滅口，然後撤退！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你的隊友們跟著你，突破了縱火犯們的陣型，沿著街道飛馳而去。在你們身後，一大堆飛刀和火把丟了過來。
+
+當你逃脫之後，你發現[SkillCheck 0]的胳膊流著血。你的同伴被絆了一跤，額頭撞在了磚牆上。
+
+謝天謝地，似乎是考慮到守衛們隨時都會趕來，縱火犯們並沒有追你，而是沿著他們來時的方向，逃進了小巷子裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你沿著鵝卵石的街道跑著，靈活地左躲右閃，躲開了一大堆朝你丟過來的飛刀和火把。
+
+似乎是考慮到守衛們隨時都會趕來，縱火犯們並沒有追你，而是沿著他們來時的方向，逃進了小巷子裡。
+
+縱火犯消失了，你的身體也冷卻了下來。這時你才驚異地發現，你身上留下了一處嚴重的燒傷，應該是剛剛逃跑的時候留下來的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>一支火把從你耳邊呼嘯而過，落在鵝卵石的街道上，辟啪作響。火星迸射到了你的腳邊。
+
+似乎是考慮到守衛們隨時都會趕來，縱火犯們並沒有追你，而是沿著他們來時的方向，逃進了小巷子裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>一個強壯的海裔人放下了交叉的雙臂，舉起了手。「哎喲，你是那個靈視者，是吧？」
+
+戴面具的人對你眨了眨眼。「[Player Name]？」他轉過頭看著燒燬的房子。「這些白癡欠了德理奧一大筆錢，一直都沒還。我們不過是要回他的錢而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>一個站在後面的強壯海裔人放下了交叉的雙臂。「我們不是白癡，你才是，你們都是。」
+
+「殺光他們。」戴面具的人開了口。
+
+縱火犯們朝你一步步走來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你們趕緊走，別再磨蹭了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[趁他們迷惑之際發起襲擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>小頭目皺起了眉，但還是簡單地朝你點了點頭。縱火犯們帶著不確定的表情互視一眼，之後逃進了黑暗的小巷子裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你曾經在德理奧身邊見過這樣的人。從他們的舉止判斷，你覺得這幾個人極有可能是德理奧雇來的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「媽的，我不喜歡老大有事瞞著我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你轉過街角，遇到了一群騷動的人們。一座漂亮的住宅燃起了熊熊大火，在你眼前崩塌。大多數胡亞納人被大火驚呆了，只是站在那裡。有幾個人尖叫著，跑去找消防隊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[使用冰系魔法撲滅火焰。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[進入住宅。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[檢查住宅。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[召喚暴風雨澆滅大火。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你離開了著火的房子，繼續向前走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你打了個響指，唸唸有詞，周圍的能量聚集成寒冰之力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0]念起了咒語，你感到濕熱的空氣立刻變得涼爽起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>強大的冰霜衝擊撲滅了外面的熊熊大火，房子周圍留下了一層滑溜溜的冰面，但屋子裡面依然在燃燒著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你呼喚著天空與大海的精魂，烏雲在你頭上聚集起來，翻滾著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 0]念起咒文，召喚著靈魂。你頭上的天空突然變黑，彷彿某種不祥的預示。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>天空像漏了個洞一樣，瓢潑大雨澆了下來。周圍穿著各式各樣衣服的胡亞納人躲到了房簷下面。
+
+水從屋簷上傾瀉而下，濃厚的水蒸氣從屋子裡升騰而起。火焰似乎已經完全熄滅了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>這座房屋和這個街區的其他房屋似乎沒什麼區別，只是面積稍微大了一點而已。房子是堅固的石頭蓋成的，上面刷著藍白相間的亮色油漆……這些地方暫時還沒被烈火燒黑。
+
+寬敞的前門敞開著，濃煙從裡面不斷往外冒。你覺得你看到裡面有形跡可疑的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>這座房屋和這個街區的其他房屋似乎沒什麼區別，只是面積稍微大了一點而已。房子是堅固的石頭蓋成的，上面刷著藍白相間的亮色油漆……這些地方暫時還沒被烈火燒黑。
+
+寬敞的前門敞開著，濃煙從裡面不斷往外冒。你覺得你看到裡面有形跡可疑的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你舉起手摀住嘴，從敞開的大門裡衝了進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>屋簷上放著還在燃燒的火把……看起來像是縱火犯干的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>你周圍到處都是煙。高溫灼燒著你的皮膚，把你的頭髮都烤得捲了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>空氣裡的水氣很重，你的衣服都被浸濕了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>接下來，你就看到了幾具屍體……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>三具屍體倒在房子的客廳裡。兩具屍體倒在地上，身上尖銳的刀傷傷口依然在流著血。第三句屍體被丟在又長又矮的椅子上，身體被弩箭刺穿了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[衝出後門，追擊縱火犯。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[尋找線索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[尋找靈魂的存在。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[掠奪屍體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[離開屋子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你看到了一串模糊的腳印，朝房子的後門的方向延伸過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>沒什麼不同尋常的地方，只是，這幾個人明顯不是被火燒死的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>縱火犯們笑著，抽出了武器，向你們走了過來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>你運用起靈視者的感知能力，尋找著靈魂的蹤跡……
+
+你感到身上傳來一陣劇痛，你的皮膚彷彿被利刃刺穿，被弩箭射出了個大洞。你聽到了腳步聲。那個從峽谷來的，奪走你生命的混蛋，從後門溜走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「看起來，已經有人先你一步搶走了屍體上的東西。他們身上的包裹已經被割開了，手指上和耳朵上的珠寶也被人粗暴地擼了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你撒腿從房子裡跑了出來。你跑到街上，一邊咳嗽一邊抹著身上的煙灰，人群朝你圍了過來。
+
+「我的天啊，裡面還有人活著嗎？」一個穿著亞彌拉淺色長袍的老馬塔魯女人問道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>靈魂的精粹&lt;link="stringtooltip://cyclopedia/56"&gt;不安分地翻滾著&lt;/link&gt;，被熊熊烈火吞噬，進一步增強了火勢。
+
+幻景消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>靈魂們感知到了你的存在，紛紛朝你而來，彷彿要抓住汪洋大海中的救生圈一樣。
+
+幻景消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「恐怕沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「你自己去看看就知道了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>女人點了點頭。「謝謝你，我們的外國朋友，我們還是感謝你的援助。雖然沒什麼東西，不過這是我們的祝福，收下它吧。」
+
+她把一個包裹按在你手中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>女人皺起了眉，慢慢點了點頭。「願亞彌拉的明目指引你，陌生人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>女人的目光垂了下來。「我明白了，不過，還是感謝你的援助。雖然沒什麼東西，不過還是收下它吧。」
+
+她把一個包裹按在你手中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>你轉過了身，把被燒焦的建築拋在身後，繼續前進了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你們得趕緊走，否則馬塔魯人就要來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「給我滾，王八蛋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「這裡發生的事情，我可以假裝沒看見，只要給我點好處就行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>你回頭看了一眼被燒燬的房子，之後便繼續前進了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>小頭目皺起了眉，上上下下打量著你。到最後，他看了拿著包裹的縱火犯一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>幾個人笑了起來。「你還以為我們會給你好處？我看你是喝酒喝傻了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>其中一個縱火犯帶著不確定的眼神，看了另一個人一眼。長相不起眼的精靈往後退了一步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>其中一個縱火犯看著戴面具的人。「這個王八蛋是不是管我們叫王八蛋來著？」
+
+「這個王八蛋是叫了，」他說道，「在我看來，咱們得再給幾個人身上開天窗了。」
+
+縱火犯們朝你一步步走來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「給他點東西，莫克。」</DefaultText>
+      <FemaleText>「給她點東西，莫克。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>叫莫克的人皺起了眉，從包括裡掏出了幾件小東西，把它們丟在了你的腳下。
+
+「我們就算兩清了。」戴著面具的人盯著你的眼睛，看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[攻擊]「很遺憾這還不夠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>你拔足狂奔，從縱火犯身邊衝了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_si_undercroft_introduction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一個波浪起伏的深藍色海灣橫臥在你面前，在一個洞穴下漸漸開闊最終通向大海。海浪拍打著破爛不堪的碼頭，你呼吸著的空氣略帶鹹味。
+
+來自粗野水手們的喊聲像鉛彈般瀰漫在空氣裡。甲板水手隆隆地走過被浪水拍打的碼頭，在準備就緒之後，一邊待命，一邊注視著海灣上激盪的波濤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>隨後，胡亞納水塑者遍佈了各個碼頭，長袍表明了他們的身份。他們只不過抬了抬手臂，動了動嘴唇，就將湍動的浪潮化為平靜的水流。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>霎時之間，海灣陷入了死寂，彷彿所有人集體屏住了呼吸。隨後，大批漆黑色的小艇降著帆，緩緩地駛入了海灣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>水手們縱聲高呼，在一堆下流的問候中夾雜著停船靠岸和卸載貨物的命令聲。
+
+船舶晃晃悠悠地停靠在碼頭邊，貨箱幾乎瞬間被卸空。行動高效而迅捷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>伴隨著一聲刺耳的口哨，一個矮人女子從坐落在洞穴東面的低矮堡壘中出現。她又吹了兩聲口哨後，水塑者紛紛扭轉海灣的水流，船隻又緩緩地被推出了視野——回到了大海中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[遠距離觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[悄悄靠近。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>粗礪的岩石摩擦著你的腳底，卻又滑膩得足以讓你放慢腳步。為了獲得更好的視野，你靠近觀察。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_pallegina_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「我能佔用你一點時間嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「當然了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「最好快點結束。具體是什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「不。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你……確定嗎？時間不會很久的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>她開始前嘴角露出一絲冷笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我還要說得多清楚才行？不。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「去死吧！」她震驚地退後幾步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「知道嗎，你可真是個混蛋。」她衝你擺擺手然後轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「雖然我們最近想法不太一致，但有件事我還是要你幫忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我認識一個在這座塔裡工作的傢伙，一個名叫賈克洛的鑄魂師。可以的話我想去見見他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我不打算反對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「只要快點就行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我在狩獵&lt;i&gt;神明&lt;/i&gt;，而非遵循你的社交日程。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「多謝。不會花上太久的。我只是很多年沒見他了，想對他說聲謝謝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「會很快的。我只是很多年沒見他了，想對他說聲謝謝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你沒事吧，帕蕾吉娜？你確定不是要『對他大喊大叫』？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我們這位鋼鐵般的聖武士也有多愁善感的時候？我倒是有些納悶這傢伙是怎麼做到這一點的？」他驚訝地看著帕蕾吉娜，同時也十分高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你還真有朋友啊。我不算你的朋友只是因為我並非不信神的鑄魂師……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「我還是個小姑娘的時候，他來學院拜訪過我。他正在研究……神嗣，研究我們的靈魂中與其他基斯不同之處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「他在我體內發現了一些東西，能夠和他拿出來的某樣器具產生共鳴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「他說所有神嗣都會這樣。不同種類的神嗣會有不同共鳴。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[點點你的胸脯。]「聽起來挺熟悉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「這樣就完了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「啊，他肯定是在托德·貝萊格的基礎上加以完善。請繼續。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>帕蕾吉娜轉過頭來看著你點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「確實如此。他說自己受到了托德的深切影響。很了不起，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「真的嗎？你也經歷過這樣的測試嗎？」
+
+她的雙眼不停掃視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「不過……你並非神嗣。」
+
+她瞇起眼睛抿著嘴唇，思考著你的意味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「是貝拉斯在我身在靈界時給我的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[示意她繼續。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「總之他告訴我這是導致我身體發生變化的原因。我求他將其移除掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「一開始他拒絕了，說這不可能。當我說他不幫我就自殺後，他才答應試試。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「沒人應該被逼成這樣。特別是個小女孩。」裘荻看上去一度有些悔悟。她摸著後頸皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「你真的要那麼做嗎？還是說你只是說說而已？有些瓦利亞人就會這樣一哭二鬧三上吊的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「很難脫離開來。特別是這些區別不容易隱藏的時候。」他皺起眉頭，眼中寫滿了同情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「亞彌拉的羽毛啊。在部落裡你會受到族人的喜愛，大家會告訴你珍惜這一切，而非當作詛咒避之惟恐不及……」
+
+泰克胡舉起一隻手指向他的神廟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「天啊，小姑娘……我覺得你十分漂亮，不管有沒有羽毛。」
+
+他想去觸摸她，但最終還是縮回了手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我不期望你能明白我的想法，但我當時才十二歲。我的身體在很多方面都在變化。作為學院裡……學院裡唯一的&lt;i&gt;神嗣&lt;/i&gt;姑娘讓我無法忍受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你不用對我解釋任何事，帕蕾吉娜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「不論當時氣氛如何，自殺的想法都是錯誤的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[一言不發。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我說過了，我也不指望&lt;i&gt;你&lt;/i&gt;理解。」
+
+她縮起下頜瞇眼盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「謝謝你。」她溫柔地對你笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「賈克洛雖無法消除共鳴，但他有辦法將其分隔開來。事情發生時我昏了過去。直到兩周後我才醒來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「兄弟會以『毀掉』其寵物神嗣的罪名將他驅趕出了學院。他們以為我會死掉。而我沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「隨著時間推移，我失去了大部分羽毛。我的鼻子形狀也發生了改變。雖然這還不足以讓我完全變成卡班德拉人的樣子，但至少讓我放棄了每天等死的生活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「當我看向鏡中的自己，眼前的人終於不再是一名神嗣，不是人人喊打的某種&lt;i&gt;東西&lt;/i&gt;。這個人是我。只是我而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「不。他告訴我這共鳴是導致我身體發生變化的原因。我求他將其移除掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我很高興有人能幫助你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「但你之前曾是『你』……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[一言不發。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「看來在青春期將共鳴分隔掉之後，你的神嗣天性也被基斯靈魂所淨化了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>她對你的一言不發皺眉搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「這對我很重要。沒有賈克洛的幫助，我現在可能已經死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「如果能去塔裡和他聊聊的話，我會很感激的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「不！」她低吼道，金色雙眼大大張開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「&lt;i&gt;你&lt;/i&gt;不能決定我是誰。海麗婭不能決定我是誰。兄弟會更不能決定我是誰。」
+
+她向你上前一步，指向自己的心臟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「只有&lt;i&gt;我&lt;/i&gt;能決定我是誰。賈克洛尊重這件事。他尊重我。沒有他的幫助，我現在可能已經死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>她縮起下頜，鼻孔裡呼著粗氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「理論上是這樣吧。關鍵是它改變了我。我因此而獲救。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>她深吸一口氣，溫柔地笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「賈克洛救了我。沒有他的幫助，我現在可能已經死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「謝謝你理解我。如果能去塔裡和他聊一會的話，我會很感激的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「哦不，這看起來可不太好。」
+
+帕蕾吉娜張大眼睛調查著屋內的破壞情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「就算是這種邪惡之處也總該有人聽見或看見過什麼。我們應該去問問這裡的主人，看看有沒有什麼情報。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「誰會來破壞賈克洛的工作？我還覺得鑄魂師在亡焰列島的這個地方很安全呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「當然了。我們會找到賈克洛的。別擔心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[令人惱火地歎口氣。]「我就知道這不是『一時半會』能搞定的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「希望如此。謝謝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「你先請，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「去死吧！就好像你自己的事情好處理一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「這就是黑市了。這裡比我想得要小一點。我們可以四處問問，看沒有人見過那些神嗣帶賈克洛來過這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我們會找到他的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我還有其他事要做。要不我們之後再來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[聳聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「我的天啊！賈克洛被神嗣海盜拐走了？！可為什麼呢？他一直在盡力幫助我們這種人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「靈視者，我已經拜託過你很多事情，但如果你有事情去襯艙城找到這個『塔特扎托隊長』，那真的是幫我大忙了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「他倒不一定立刻就有危險，但我很害怕這些人會對他做出什麼事情來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「你確定賈克洛沒有什麼仇人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「鑄魂師似乎到哪都不安全。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「到時候看吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「至少共和國內沒有，我也想不出神嗣——乃至所有基斯——有什麼理由抓走他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「在共和國內就是安全的。就算有人不喜歡賈克洛，他也絕不可能陷入危險之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「謝謝你，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「這裡有些奇怪的地方。也許是和他的研究有關。等我們找到塔特扎托隊長肯定就真相大白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[誘惑地笑起來。]「你因為是你而美麗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「別想蠢主意。這隻會讓你自己尷尬。」
+
+她比了個噓的手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>帕蕾吉娜仰過頭，臉上帶著惱怒與困惑看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我沒問你的意見。」
+
+她臉上酸澀的表情一會之後舒緩了些。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「總之，現在你知道賈克洛為何對我很重要了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>她鼻中粗重地呼出一口氣，眼膜不停翻動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「抱歉，但我不希望你有什麼錯誤想法。我敬重你，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>她臉上酸澀的表情一會之後舒緩了些。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「在鹿林，我們都是同伴。不管怎樣，還有這層關係在。我希望這件事也能如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「拜託了，請尊重我和我的職業。」
+
+她朝你禮貌地點點頭，暫時閉上了金色的雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>她仔細端詳著你，試圖確認你話語的含義。停了一會之後，她點點頭繼續說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「許多鑄魂師都十分虔誠。他們只是不會像你這樣狂熱到逮著一個說一次。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>裘荻輕輕搖著燈籠，將靈魂引入其中。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

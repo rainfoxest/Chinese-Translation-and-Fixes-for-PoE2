@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_02_si_dracolich_ending</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>巨龍屈膝伏在你的面前，前爪摳挖著枯瘦的胸腔，腐爛的血肉因為其中的秘法能量折磨而扭曲不堪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[從她的胸口扯下護符。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>你躲閃著揮舞的龍爪，將手努力探向她乾枯的胸口。你抓住遺物並將其從巨龍的胸口扯下，其中的暖意在你的指間湧動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>巨獸扭頭狂吼著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「拿到護符！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0]巧妙地遊走在巨龍揮舞的尖爪之間，將一隻手伸向巨獸的胸口。你的同伴向後躍起，淤血的指間緊緊抓著發光的遺物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[使用魔法將護符炸下來。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>精華在飛龍胸口處爆炸，遺物應聲彈出，在冰凍地面上打了幾個滾之後停在你的腳下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你不顧巨龍的尖爪鑿向你的背後，將手伸向其胸口。你抓住遺物並將其從巨龍的胸口扯下，其中的暖意在你的指間湧動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 0]將一隻手伸向巨龍的胸口，卻被巨獸狂揮的尖爪在背後劃了幾道深深的痕跡。不過你的同伴還是堪堪翻滾開來，淤血的指間緊緊抓著發光的遺物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>巨龍扭了扭脖子，轉頭將一隻發著災難般光芒的眼睛盯向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

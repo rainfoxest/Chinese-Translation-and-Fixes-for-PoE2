@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_omen_cloud</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一陣乍寒的冷風吹拂著船上的甲板，幾個小時過去了，還是沒有減弱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[儀式性地將 1000 銅幣拋入海中。]「我想我們可以拿點什麼獻給哀歌女士。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我們可給不起硬幣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0]吸了一口氣。
+
+「但是船長，這樣你是對昂德拉不敬……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「回去幹活，[Specified 0]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[把[Specified 0]扔下船。] 「這作為祭品如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你帶著一箱硬幣走到甲板上，把船員們集合起來，你站在船邊。
+
+很快地念過對昂德拉的禱詞後，你將錢倒入大海。
+
+船員們點頭唱著簡短的水手號子，慶祝昂德拉的仁慈。水手們返回工作時，[Specified 0]感謝你表達對女神的尊敬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>肩膀耷拉著，[Specified 0]返回工作。第二天，你注意到船員們看著你這邊小聲咕噥著，有時搖頭歎氣。
+
+第二天，風小了，船員們心情輕鬆，但仍然對你冒犯神靈的事耿耿於懷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你猛地衝向[Specified 0]，她還沒反應過來怎麼回事就抓住了她。她一開始因驚慌而結結巴巴，然後大叫抗議，你把她拖到甲板上。船員們吃驚地看著，你把[Specified 0]拖到欄杆，從船上扔了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>走到甲板上，你帶領船員舉行幾個小時的月神教儀式，祈求她保佑你的船和船員。
+
+你呼喚著昂德拉的諸多名字——恩加蒂、哀歌女士、鹽婦、失落者的情人—— 承認她對大海、所有航海者，以及大海中的所有沉睡者的權力和統治。
+
+在你的指示下，每個船員站在船邊，面對黑色的海水輕聲懺悔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[花時間帶領船員舉行儀式祈求昂德拉的佑護。]「我們欠她一份尊重，我們應給予她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[解釋科學] 「風是自然現象，沒什麼可擔心的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>雖然船員擺脫了憂鬱的情緒，但[Specified 0]還告訴他們，你已對女神表達極大尊重，保護船隻免受她的憤怒懲罰。
+
+為舉行儀式你花了好幾個小時，但第二天，風減小了，船員們鬆了一口氣，很多人說感謝昂德拉——還有你——饒恕了船隻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你耐心解釋海風如何隨時間變化，以及在某些地方異常寒冷或炎熱的時間會持續比較久。
+
+[Specified 0]不同意，但沒有充分的論據反駁你。最後，水手承認說，你是船長，你肯定懂的最多，但眼中的憂慮顯示出仍然害怕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>第二天，寒風消失了。船員們似乎很滿意，但不免擔心因你堅定相信科學而蔑視了昂德拉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你無意中聽到[Specified 1]對其他船員說，鑒於你向海中撒了那麼多錢，你應能夠給水手們更高一點的薪水。
+
+「我覺得我們值得分享財富，你說呢，船長？」
+
+船員們彼此交換眼色，高興地點著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「當然是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「好吧。你們把這分了吧，一群貪婪鬼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我覺得應該因為你的無禮把你綁在船底拖曳。或許可以用你殺雞儆猴……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「作為船長，我要存錢用於像這樣的緊急情況。難道你們覺得你們是昂德拉嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>船員們看著[Specified 1]，撅著嘴，皺著眉。
+
+「呃，我們不是那個意思&lt;i&gt;&lt;/&gt;，但是你必須承認……」
+
+[Specified 1]開始爭論他的理由，但是船員們已經開始重新考慮了。他們搖搖頭，嘴裡咕噥著，摸著後頸。
+
+很快他們決定，不值得為了這點錢褻瀆神明。他們安靜地回到崗位，感激大風已平息如常。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「滾，[Specified 1]。回到你的崗位，全部。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Specified 1]舉著手，後退一步，緊張的笑著。
+
+「呃……我是半開玩笑的。我的意思是，我們當然希望能獲得薪水——」
+
+其他船員離開甲板，留下你們兩個。
+
+「當我沒說。抱歉，船長。再也不會這樣了。」
+
+這名水手迅速躲進其他船員中，返回他們的崗位，內心慌亂，害怕他們的船長。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 1]吃驚地眨眨眼睛，但她的臉很快露出一絲微笑，因為她意識到你是坦誠相對。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>一開始，[Specified 1]似乎受到了侮辱，但她轉頭看看集合的船員，他們聳聳肩，點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>反駁的話就像水波紋一樣在船員中傳播開來，彷彿給了他們每人一記耳光。他們在震驚和憤怒中沉默片刻。
+
+沒人願意提起那問題，包括[Specified 1]。雖然他們感激寒風已平息，但他們返回崗位，對船長冷漠的話感到憤怒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[怒視船員]「&lt;i&gt;還有&lt;/i&gt;人要質疑我如何管理自己的船嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[狂笑。]「那你們還等什麼呢？給昂德拉唱讚歌吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[靜靜地看著[Specified 0]被淹死。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你一一注視每個船員，他們避開你的目光，搖頭或畏懼。誰也不說話。唯一能聽到的聲音是[Specified 0]，嗆著海水掙扎著，最後消失在波濤下。
+
+其他船員面無表情，眼睛大睜，回到他們的崗位。第二天，他們幾乎沒注意到風已經平息了。他們所記得的只有[Specified 0]令人絕望掙扎，你令人膽寒的目光，以及他們無力的沉默。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>一開始，船員們目瞪口呆、一言不發地站著。然後他們一個接一個開始唱起一支軟弱無力的月神教輓歌。他們的聲音斷斷續續，因為他們感受到甲板上令人恐懼的氣氛，一會看看你瘋狂的表情，一會看看水中掙扎的悲慘靈魂。
+
+很快，[Specified 0]的叫喊淹沒在輓歌聲中。一隻手在一望無際的海面上胡亂掙扎著想抓住點什麼，但卻什麼也抓不到，消失在波濤下。
+
+第二天，船員們幾乎未注意到風已平息。他們的腦海中滿是那個因為遭遇了船長的怒火而被懲罰的可憐蟲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>當[Specified 0]在水中掙扎、拍打，直到最終消失在波濤下，甲板上沒有人敢說話。
+
+第二天，風平息了，船員們繼續幹活。當你經過時，一些船員仍然發抖，忘不了你無情地看著他們的船員同伴葬身海底。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「對不起。我只是沒法饒恕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>船員們嘟囔著你看看我，我看看你，但似乎沒有誰願意提起問題。
+
+第二天，風平息了，但他們仍然對沒有獎金的事耿耿於懷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>第二天，風平息了，船員們很高興哀歌女士似乎因你向大海的獻祭而得到了安撫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>第二天，風平息了，大家看起來還是忘不了[Specified 1]「要求」發獎金的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0]羞怯地敲著你艙室的門。進來後，她的皮膚蒼白，額頭冒著汗珠。
+
+「對不起，船長，但這是昂德拉派來的邪風。我們已經航行很久，卻沒有給她貢物。如果我們不給她應得的東西，她肯定會懲罰我們的。
+
+她把頭傾向艙口，示意你跟隨她到甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0]羞怯地敲著你艙室的門。進來後，他的皮膚蒼白，額頭冒著汗珠。
+
+「對不起，船長，但這是昂德拉派來的邪風。我們已經航行很久，卻沒有給她貢物。如果我們不給她應得的東西，她肯定會懲罰我們的。
+
+他把頭傾向艙口，示意你跟隨他到甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 1] 吃驚地眨眨眼睛，但他的臉很快露出一絲微笑，因為他意識到你是坦誠相對。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>船員們獲分一箱硬幣，發出歡呼聲。
+
+接下來的數天，船員們士氣高漲，每當你經過時，各個船員都感謝你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>一開始，[Specified 1]似乎受到了侮辱，但他轉頭看看集合的船員，他們聳聳肩，點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「呃，有總比沒有好。謝謝，船長。」
+
+船員們仔細分著那袋錢，看起來對這份心意略有感激，然後回去幹活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>你猛地衝向[Specified 0]，他還沒反應過來怎麼回事就抓住了他。他一開始因驚慌而結結巴巴，然後大叫抗議，你把他拖到甲板上。船員們吃驚地看著，你把[Specified 0]拖到欄杆，從船上扔了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0]在水中拍打掙扎。船員們目瞪口呆地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「真該死，靈視者船長，好像你慣出他們反抗的毛病了……」塞拉芬咕噥著，眼睛掃視著船員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>帕蕾吉娜在你身後大喊道：「你瘋了嗎？！你這麼做意義何在？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我們&lt;i&gt;&lt;/i&gt;給他們拋條繩子吧……好嗎?」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「不錯，是你的船，但如果你繼續這樣做事，可能不久船員們就會以牙還牙了。」艾德爾搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

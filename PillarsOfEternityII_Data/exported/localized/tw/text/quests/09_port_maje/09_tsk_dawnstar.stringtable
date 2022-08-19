@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_tsk_dawnstar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>流浪之星</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到托克來福。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與攻擊托克來福的人對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>回去找瑪倫</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>與攻擊者們對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>返回晨星營地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>帶著消息回去找瑪倫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>晨星最近才到達國王港，他們正在新的土地上尋找工作機會，他們袒護胡亞納人的言論似乎讓殖民者們不滿了。
+
+雖然與本地村民們之間交流的氣氛大體上十分融洽，還是有一名晨星失蹤了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>瑪倫擔心有一個叫做托克來福的晨星陷入了與當地殖民者之間的衝突之中。她請求我去照顧他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>托克來福似乎與幾個當地人起了衝突。要將他成功解救出來可不容易。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>托克來福正在回晨星營地的路上。瑪倫知道他還活著肯定很高興。雖然光著屁股，但是人沒事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>看來有一名牧師與一些本地人起了衝突。我不確定事情的起因到底是什麼，但是看上去要出問題了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>托克來福建議我去港區找他和其他的晨星。他說等我到了之後瑪倫有可能會有獎勵要給我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>托克來福被殺死了。瑪倫肯定不會開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>瑪倫提到雖然托克來福自己不喝酒，我還是可以去酒館詢問情報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>海怪之眼的酒保沒有見過托克來福，但是他有提到鎮子西面好像有什麼「 動靜」。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>根據本地人的說法，晨星正在介入並想要幫助胡亞納人獲取更好的條件。這讓瓦利亞人不是很喜歡他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>托克來福被殺死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>瑪倫說有人看見托克來福去了鎮子裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>一名對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>瑪倫與托克來福安全地回到了晨星的營地。瑪倫看見自己的朋友安然無事後鬆了一口氣，她給了我一份獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我給瑪倫帶去了關於托克來福的可怕消息。她因為這消息而悲痛不已，並且似乎對晨星在國王港的目的失去了信心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>牧師已死，事情完結了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>探索國王港的時候，我碰到了一群當地人與一個蓬頭垢面的瑞德賽人之間的衝突。這有可能值得我調查一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

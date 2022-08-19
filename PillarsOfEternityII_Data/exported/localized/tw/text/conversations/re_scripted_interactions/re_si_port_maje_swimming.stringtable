@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_port_maje_swimming</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>129</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在你向西北方前進時，你發現有一條寬闊的海峽將你與另一側的沙島隔斷開來。
+
+一座木橋跨越於水面之上，寬度足夠一輛馬車通過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>橋下擠滿了各類人群，有衣著整潔的瓦利亞人，身穿五顏六色明艷長袍的海裔，甚至還有奇特的絨精。
+
+山丘下的水邊聚集了一小堆海裔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[走上橋。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>對於建在海邊的東西而言，這座橋似乎太新了些。橋面的木板沒有任何多餘裝飾，整座橋樑也僅僅只有功能性作用。
+
+隨著你的接近，人群中開始傳來低聲交談，甚至完全蓋過了海浪的沙沙聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[接近海邊的海裔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>在海岸上，你注意到海峽當中的水流比起之前明顯激烈了許多，這可能是受到了最近風暴的影響。
+
+身穿輕薄長袍的胡亞納人聚集在這裡注視著你接近。其中一人走上前來，她身上長袍的顏色比其他人都要明艷許多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>她溫柔地笑著。「願亞彌拉祝福你，朋友。我沒認錯的話你也是胡亞納人吧。你是否要前來挑戰歐薩的湍流？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>她揚起了一條眉毛。「你看起來像是島上土生土長的居民，但你並不是胡亞納人。」她朝著橋樑點點頭。「如果你是來觀光的話，橋上的風景更好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>她笑了起來，唇間露出三角形的牙齒。「是個海裔，但並非亡焰列島本地人。這麼說是來重新發掘你族文化的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>她把頭歪到一邊。「你看起來渾身濕透了，陌生人。就好像是被海浪沖上岸一樣。你為何來此？觀光嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>一個絨精向你走來並摘帽致意，他身上的棕色皮毛與你腳下的木板顏色相差無幾。「你好，陌生人。是來看比賽的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>棕色絨精在你返回橋樑時向你揮揮帽子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「這是在做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我想參加比賽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「誰最有可能贏下比賽？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[查看競賽者。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[返回橋上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>她略微低下頭。「那好吧，朋友，歡迎你來加入。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>幾個聚在一起的胡亞納人笑了起來。女人微微一笑，略低下頭。
+
+「挑戰歐薩通常是海裔為了證明自己在水中的力量與耐力而進行的。恐怕其他種族對此難以承受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我以為胡亞納人在傳統上都是熱情好客的呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你們不會是害怕輸給其他種族的人吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「你說得沒錯。我在亡焰列島已經差點淹死過一次了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>她用手指向游泳者，又指向水面，最後指向另一邊的島嶼。「他們在挑戰歐薩海峽。大雨傾盆而下，水流激烈湍急。然而他們必須游出更快的速度。每個完成的選手都會獲得榮耀。而獲勝者則可以贏得更多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我準備好比賽了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我剛剛只是好奇而已。我還是不要在這種地方游泳了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>她低下了頭。「如果我們讓不知情的客人把自己餵給恩加蒂，這算哪門子熱情好客呢？」
+
+她的目光與你相對，微微一笑。「不過看來你並非一無所知。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>其中一名游泳者哼了醫生。「我們可什麼都不怕！就讓那個外來的[Player Race]來比賽吧。」
+
+女人又轉向你。「如果你想游泳的話就去吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>游泳者們大笑起來。「害怕？我們？我們是笑你不知天高地厚啊。你這傢伙還真有趣。」
+
+女人又轉向你。「這是為了你的自身安全。在歐薩，恩加蒂並無慈悲之心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>她點點頭，示意你看向海峽。「那就去海邊和其他人一起準備吧。把衣服放在岩石上，游泳之後及時保暖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>她雙手握在一起低下頭。「要看的話就快去橋上吧。比賽馬上就要開始了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你衝下石頭，與其他選手跳入冰冷刺骨的海水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>一陣歡呼聲在你離開時從橋上響起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你回到水邊那群人附近。海裔們紛紛脫掉上衣，將濃厚的白膏塗在胸膛、臉頰和雙臂上。
+
+主持人向你點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「這些人都是到這裡來看比賽的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我們看比賽吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我能參加比賽嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「人們對這場比賽下注了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>絨精咧嘴笑起來。「你不是這的本地人吧？」他的瑞德賽口音也表明了他的出身。
+
+「這是一項當地傳統。游泳者會在一場大風暴後水流最為湍急之時挑戰歐薩海峽。勝者將會獲得……」他撓了撓後腦勺。「……某種便宜貨之類的東西吧。另外就是吹牛皮的資本。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你和絨精一起靠在欄杆上看著岸邊的海裔們脫去上衣。他們蹲伏在海邊的石頭上，而主持人則將一隻手高高舉過頭頂。
+
+她將手一放下，選手們便向出膛的炮彈般衝入水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>他撓了撓頭頂。「我也不太確定。其實我說了也不算。你還是去河邊和他們談談吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>他臉上漾起一道明媚的笑容。「我還覺得你像是會參與其中的人呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「賭注是十個貝殼。換算下來大概五十個子兒，你覺得我更想要銅幣還是銀幣呢。」他眨眨眼。
+
+「那個大個禿頂姑娘的賠率是一比三。金髮瘦高個是一比五。你要是押那個小破孩贏了，就能拿回十倍的賭金。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我過一會兒再回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>她點點頭。「別花太久時間。比賽馬上就要開始了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>她一隻手捂在肚子上笑個不停。「當然是得到恩加蒂寵愛的人了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>但你注意到她的目光在盯著那個瘦高金髮的海裔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>其中塊頭最大的禿頂女人身上滿是肌肉。她在戰鬥中極具威脅性，但她的身材在水中可能會拖慢她的速度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>這些人都是海裔。水性應該都是極好的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[向身材瘦長的少年施加法術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>沒人注意到游泳者身上發出的法術微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我準備好比賽了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我要下個最好的賭注——押我自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「那個女人比起一般精靈的身高和肌肉都有足足兩倍多。我就把錢押在她身上了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「那個金髮瘦高個看起來挺熟悉水性的。我就指望他了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我向來篤信高風險高回報。我押那個小孩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>他面不改色心不跳。「那就讓我算算你的賠率吧。」
+
+他敲敲下巴，眼睛不停打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>他點點頭收下了你的錢。「這座橋上一半人都和你一樣。看來是個最聰明的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>他笑著收下了你的錢。「也許你是獨具慧眼。又或者你只是愛唱反調吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>他大笑著收下了你的錢。「反正這是你的錢。祝你好運吧朋友！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你看起來倒是挺有塊頭的。就算給你一比三吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「我覺得你還是懂點水性的。不如就給你……一比五吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>他笑了起來。「一比十好了……淹死可不退錢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「優勝獎和賭金都是我的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「也許我應該押其他人……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>他笑了起來，點點頭。「可別為了賭金就消極比賽啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>他收下了錢。「希望如此！你獲勝的話咱倆就是&lt;i&gt;雙贏&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>幾位選手在湍流中破浪前行，洶湧的水波拍打著他們背上的肌肉。
+
+你周圍的人群紛紛鼓掌吶喊，為自己支援的選手歡呼助威。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>你注意到其中一名胡亞納人在努力掙扎跟上隊伍。
+
+不，他只是在掙扎讓自己不沒入水面。他絕望的喘息聲沿著海峽傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>大塊頭的女人遙遙領先，率先抵達了終點。她爬上遠處的海岸，得勝似的舉起雙拳，人群也隨之歡呼雀躍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>瘦高男人領先其他人一步抵達了終點。人群目睹他衝出水面發出歡呼聲，而他也向著人群遙遙深鞠一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>隨著比賽漸近尾聲，人群中夾雜的嘲諷與歡呼聲也愈發高漲，然而令所有人驚訝的是，最終率先衝出水面的竟是那個瘦高少年。
+
+可能他自己比所有人都要驚訝吧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[跳入水中幫助他上岸。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[給他丟根繩子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[把他的靈魂託付給貝拉斯。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[繼續觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>你沿著岸邊不停奔跑，手裡拿著繩索和抓鉤。你猛地停住腳步，蕩起抓鉤丟向游泳者附近的水面。
+
+他牢牢抓住了繩子，而你將他拖上了岸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「轉念一想，我其實也是囊中羞澀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>他哈哈大笑。「明智的人知道何時說不。等你改變心意再回來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我打算下一注。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>你一把抱住在水中掙扎的游泳者，他在你們二人向岸邊游去時總算沒再掙扎。
+
+你努力爬上岩石嶙峋的岸邊，把他丟在身旁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>歐薩海峽的湍流給你帶來了很大壓力，不停將你向後推去。不久後你也只能在水中奮力掙扎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>貝拉斯那無可緩和的意志在你的胸中沉重而舒適地安歇著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>健壯的光頭女性脫離了大部隊，回去救掙扎的游泳者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>觀眾們看著你從橋上縱身躍入冰冷的海水中，紛紛發出驚歎。你奮力與湍急的水流抗爭著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>有一隻手臂環住了你。那個大塊頭海裔女人一手夾著你，另一隻手夾著瘦削少年，靠雙腳向陸地上游去。
+
+你在岸邊拚命爬上地面，大聲咳嗽起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>年輕的游泳者握緊你的手臂。「天哪，真是太謝謝你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>橋上的人群漸漸散去，騷動也平息下來。
+
+你又開始繼續旅行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>棕色絨精在慶祝的基斯中找到了你。「真是場精彩的表演吧？」他遞給你一袋滿噹噹的努伊天靈螺殼。「這份是你的。別一次全花光了。省著點！反正這是你的錢對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>棕色絨精一邊靠近一邊搖著手指。「我想你偷偷動了些其他人都不知道的手腳。」他眨眨眼。「不過和我也沒關係。反正我有錢拿！」
+
+他遞給你一袋滿噹噹的努伊天靈螺殼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>你手腳並用胡亂撲騰，但就是追不上那群胡亞納人。他們似乎就是為水而生的。
+
+你們之間的距離越拉越大。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>你在湍急的激流中手腳並用，敏捷地在水中穿行，如同一把利刃破浪向前。
+
+其他人逐漸被你甩在身後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>你不停奮力向前，然而海浪的推力有如虎熊般可怕。你努力追趕著眾位胡亞納人，儘管你的肌肉已不堪重負。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>你注意到其中一名胡亞納人在努力掙扎跟上隊伍。
+
+不，他只是在掙扎讓自己不沒入水面。他絕望的喘息聲沿著海峽傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[幫助他上岸。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[繼續向終點前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[把他的靈魂託付給貝拉斯。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>貝拉斯那無可緩和的意志在你的胸中沉重而舒適地安歇著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>你繼續向前游去，而那個大塊頭禿頂女卻偏離賽道游向在水中掙扎的游泳者。
+
+終點又近了一步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>你最後全身肌肉一使勁衝過了終點，比離你最近的競爭者還早幾個身位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>你的肌肉已經隱隱作痛，但那個金髮海裔穩穩佔據頭名，即將獲得勝利。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[脫衣下水。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「游泳還要脫衣服？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「我還是穿著衣服吧。為了……加快速度。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[返回橋上。]「我……馬上回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>你拼盡全力，卻沒能拉近一點距離。你在其他四人之後才堪堪抵達終點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>渾身酸痛喘著粗氣的你爬上海岸，準備返回橋邊取走自己的物品。
+
+橋上的人們不停鼓掌喝彩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>渾身酸痛喘著粗氣的你爬上海岸，準備返回橋邊取走自己的物品。
+
+橋上的人們不停鼓掌喝彩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>那名絨精也一邊鼓掌一邊靠近。「哎呀呀我的天，你可真是秀翻天了吧？」
+
+他遞給你一袋滿噹噹的努伊天靈螺殼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>絨精一邊大笑著一邊靠近你。「你果然是個值得一比五的好泳手！」
+
+他遞給你一袋滿噹噹的努伊天靈螺殼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>主持人向你溫柔地笑起來。「恩加蒂降恩於你。希望你也能好好回報她。」
+
+她將一個小東西放入你的手中。「這個給你，祝賀你的勝利。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[穿過橋離開。]「我對你們這種遊戲不感興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Specified 0]看向幾名海裔，目光停留在一名大塊頭的禿頂女人、一名金髮男人與一名瘦削少年身上。
+
+「我覺得那個金髮的看起來很精壯，應該有優勢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>[Specified 0]皺起眉頭。「沒看過表現，我也不好說誰最強。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>其中一個金色卷髮的男人有著緊實的肌肉與精悍的身材。他一邊伸展軀體，一邊像注視老友般望向水面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>你覺得那第三名瘦弱的少年壓根不該出現於此。一陣微風說不定都能將他刮走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>你脫掉被海水浸泡過的衣服，將身上的東西放在石頭上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>她聳聳肩，唇間微微露出一絲笑容。「我們沒有任何&lt;i&gt;要求&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>你將較重的東西放在一旁，不過仍穿著衣服。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「我的天，靈視者。你真的是——我是說我覺得——嗯，那個……祝你好運！」漲紅臉的裘荻用拳頭掩住嘴清了清喉嚨。不過她並未移開視線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「我會保管好你的東西的。」亞洛斯點點頭，把手放在你脫掉的衣物上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「我不怪你，你這樣在水裡肯定吃力不討好，因為看起來也不太像魚。」</DefaultText>
+      <FemaleText>「希望你不是因為我才這麼做的。反正我只是想看看海龜。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>她低下了頭。「那就希望你避開飢餓的恩加蒂吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>游泳者們脫掉自己的長袍，站在了大石頭上向海峽突出的位置。每位海裔的緊致肌膚上都閃著微光，彷彿覆有一層銀粉。
+
+女人站在一側。「我的手一落下，你們就可以出發了。第一名抵達終點的人可以獲得獎勵。」
+
+她將手高高舉過頭頂……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>你一把抱住在水中掙扎的游泳者，他在你們二人向岸邊游去時總算沒再掙扎。
+
+你努力爬上岩石嶙峋的岸邊，把他丟在身旁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>他微微一笑，兩根手指相互摩挲著，好像在示意你給錢。「不過對於我們這種不游泳的外來人，小賭怡情一下還是可以的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「我過會再來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「我會看好你的東西的。
+
+「我指的是你的衣服。」亞洛斯不自然地咳嗽幾聲，把手放在你脫下的衣物上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>艾德爾的唇上出現了一絲不易察覺的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

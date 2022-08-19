@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_bardatto_favor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>不詳的預感</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到基利·瓦雷拉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>找到佩莎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>回去找伊扎莉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>伊扎莉·巴達托相信瓦雷拉家族正計劃對付她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>伊扎莉·巴達托要求我去收集有關瓦雷拉家族的一個潛在的陰謀的情報。她建議我先去找找瓦雷拉家族裡面一名相對好處理的成員基利。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>基利將我引到了他經常光顧峽谷裡一家叫做巨洞的酒館的一名表親佩莎，</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我覺得我已經收集到了需要的所有情報。希望伊扎莉能夠滿意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我處理掉了佩莎。這應該能在以後的問題上幫到我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>伊扎莉說基利會在本地的一座瞭望塔附近演奏琉特琴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>基利·瓦雷拉已經被殺死。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我給伊扎莉弄到了她想要的情報，她獎勵了我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我在為尋找情報的時候分了心。我覺得她應該不會再尋求我的幫助了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我告訴了伊扎莉有關搶劫她的秘室的計劃。但是我告訴了她我覺得摧毀瓦雷拉家族不是正確的回應。如果我要說服任何人，我就需要趕快行動了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我告訴了伊扎莉有關搶劫她的秘室的計劃。她急切想要給那些盜賊一個驚喜。看上去事情馬上就要變得血腥起來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>爭鬥已經結束，伊扎莉不再需要這份情報了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>瓦雷拉家族已經開始他們的計劃，看上去進展地並不順利。我決定幫助瓦雷拉處理他們的殘局。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

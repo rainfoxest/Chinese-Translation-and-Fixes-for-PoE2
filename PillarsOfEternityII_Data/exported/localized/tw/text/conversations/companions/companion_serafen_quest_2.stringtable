@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「這簡直是要命了，船長！你看到那艘該死的三桅破木頭板子了嗎？上面還有一根光禿禿的桿子？那肯定就是痛苦之悅號，是瑪娜吉該死的鬼船！」
+
+他指著附近停靠著的一艘大帆船。甲板上只有兩個人，剩下的船員可能是在甲板下層，也可能都上岸了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我可沒法同時留意你所有的海盜朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「那我們就快點吧。發生這種事情，絕不可能是巧合。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「是瑪娜吉！亡焰列島的海上惡魔女王！不幸的是，她還是這片海域裡排行第二的深海獵人。當然，排行第一的那個人在追殺你。」
+
+他氣喘吁吁地說著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我敢拿我這麼多年的經驗打包票，瑪娜吉肯定是在追殺雷馬洛。要是讓她先找到了他，她肯定會一見面就把他丟到海裡淹死！快點，船長！」
+
+他跳了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「自從我上了巫師號之後，那個傢伙就對我特別刻薄，一部分原因應該是她討厭我。是雷馬洛保護了我免於她最嚴酷的『訓練』。當那些人懸賞要抓雷馬洛的時候，我就知道，這個該死的女王肯定會第一個蹦出來！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你看到一片沾滿了血的蠟片，只有兩個詞你能認得出來：「烏黛恩」與「雷馬洛」。
+
+你並沒有找到烏黛恩、瑪娜吉或是塞拉芬的蹤影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「保持警惕，不要大意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「沒問題，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

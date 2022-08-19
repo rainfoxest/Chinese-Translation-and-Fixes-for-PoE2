@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_main_quest_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>狩獵儀式</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>和&lt;b&gt;回憶水池&lt;/b&gt;親密互動，開始&lt;b&gt;第一個挑戰&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>尋找&lt;b&gt;第二個挑戰。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>在&lt;b&gt;第三個挑戰&lt;/b&gt;中殺死一個記憶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>在&lt;b&gt;血流成河&lt;/b&gt;（狩獵儀式最後一個挑戰）中活下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>同意通過&lt;b&gt;狩獵儀式&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>返回&lt;b&gt;回憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>和&lt;b&gt;胡瑪爾交談。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;胡瑪爾&lt;/b&gt;請求我參加競技場，以便發現攪動整個卡茲瓦里島的悸動的靈魂背後的故事。
+
+在參加競技場的所有挑戰前，我被要求先通過&lt;b&gt;狩獵儀式。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>胡瑪爾似乎在擔心，如果我不參加他們的運動，卡茲瓦里島當地人會介意我的出現。
+
+她說我可以使用競技場下面&lt;b&gt;神廟西海岸&lt;/b&gt;的&lt;b&gt;回憶水池&lt;/b&gt;初次涉足&lt;b&gt;競技場&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>胡瑪爾擔心&lt;b&gt;卡茲瓦里島的靈魂&lt;/b&gt;侷促不安，希望我這個靈視者能夠解釋它們的需求。要這麼做， 我得面對競技場的試煉&lt;b&gt;吸引狩獵之面的注意&lt;/b&gt;。
+
+我已經在一場元素戰中活了下來，但似乎我還沒能證明自己。
+
+當我準備好進行下個挑戰時，應該與&lt;b&gt;回憶水池&lt;/b&gt;互動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我已經在競技場中斬獲兩次勝利，但狩獵儀式還未結束。
+
+下個挑戰將從挑戰者的回憶中抽取。待我和&lt;b&gt;回憶水池&lt;/b&gt;互動後，將會找出更多訊息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>打敗梅沃德的幻象後，你還剩下一個試煉才能完成&lt;b&gt;狩獵儀式。&lt;/b&gt;
+
+當我準備好後， &lt;b&gt;回憶水池&lt;/b&gt;將會開啟終極證明——同想要完成他們自己的狩獵儀式的對手隊伍決鬥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>胡瑪爾似乎擔心，如果我不參加他們的工作動，卡茲瓦里島當地人會介意我的出現。她說我必須參加&lt;b&gt;狩獵儀式&lt;/b&gt;，才能贏得信任。
+
+如果想瞭解這個島的更多訊息，我可能得到競技場下面，和&lt;b&gt;神廟西側&lt;/b&gt;的&lt;b&gt;回憶水池&lt;/b&gt;附近的&lt;b&gt;胡瑪爾&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>我完成了狩獵儀式，獲得了競技場角鬥者稱號。
+ 
+有人告訴我還有更多試煉等著我。我應該返回&lt;b&gt;回憶水池&lt;/b&gt;，看看水中等著我的是什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>我在與元素的戰鬥中倖存了下來。我應該更深入地瞭解此地，其看守人&lt;b&gt;胡瑪爾&lt;/b&gt;很可能知道答案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>胡瑪爾借給我一把小黑曜石刀，讓我得以向競技場獻祭鮮血&lt;/b&gt;。這將滿足競技場的要求，為我開啟挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我在狩獵儀式中倖存下來並贏得了競技場角鬥者的稱號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我選擇了進攻，而不是被動應戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>我被強行推進了競技場——某種讓我對抗靈體和基斯的角鬥競賽。
+
+我需要瞭解自己正身處其中的狩獵儀式。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_qst_03_llengrath_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>完全徹底</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在檔案庫裡找到更多冊《郎歌世編年史》。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>把收集好的編年史交給郎歌世。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>（可選）和泰恩談談《郎歌世編年史》的事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>（可選）將《郎歌世編年史》還給泰恩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>把被泰恩動過手腳的《郎歌世編年史》交給郎歌世。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在探索&lt;b&gt;檔案庫&lt;/b&gt;時，發現了一本名為《郎歌世編年史》的不同尋常的書。
+
+根據書名判斷，這套書共有五冊。我繼續探索檔案庫期間，應該留意尋找其他冊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我撿起第一冊時，聽到了一個聲音。說話者似乎是第一個擁有郎歌世頭銜的人。
+
+如果我想把這個故事聽完整，就應該&lt;b&gt;找到其他四冊&lt;/b&gt;，它們就藏在&lt;b&gt;檔案庫&lt;/b&gt;裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>最後書在有智慧的菌堆手中，該菌堆認定自己就是郎歌世。我幹掉了菌堆並拿到了最後一冊。我現在只需要把收集到的編年史交給&lt;b&gt;郎歌世&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>&lt;b&gt;泰恩&lt;/b&gt;或許對《郎歌世編年史》的本質有有意思的見解。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>泰恩警告我不要相信郎歌世。我不知道她打算拿這些書做什麼，但大概不是什麼好事。如果我把書全交給泰恩，他或許能想出一些有意思的主意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>泰恩在《郎歌世編年史》裡植入了虛假的記憶。如果我把書交給&lt;b&gt;郎歌世&lt;/b&gt;，那她對自己過去和起源的理解將被永遠改變。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我找到了《郎歌世編年史》的第二冊。我又聽到了撿起第一冊時聽到的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我找到了《郎歌世編年史》的第三冊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我找到了《郎歌世編年史》的第四冊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我把書出示給了郎歌世。她懷疑書的真實性，但很感興趣。如果我找到了其餘的書，她應該會有興趣一看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我把書出示給了郎歌世看，但沒有讓她詳細檢視。如果我找到了其餘的書，她應該仍有興趣一看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我收集齊了《郎歌世編年史》並將其交給了郎歌世。她現在已不再與前任的記憶分離。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>泰恩對收集好的《郎歌世編年史》執行了秘法儀式，這樣應該能影響郎歌世準確回憶前任記憶的能力。之後我把書還給了郎歌世。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我決定自己留著收集好的《郎歌世編年史》。郎歌世要不高興了。我估計她不會再與我合作了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我殺了郎歌世。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>我探索檔案庫期間，找到了《郎歌世編年史》的全部五冊，並將其交給她檢視。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

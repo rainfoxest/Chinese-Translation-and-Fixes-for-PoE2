@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\20_splinteredreef\20_qst_splintered_reef_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>心之鄉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在銅頭蛇的家裡與他交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>調查碎礁裡的墓穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>爬上墓穴裡的階梯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>為門扎格與他的軍隊找到一處活人精粹來源。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>與銅頭蛇交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>探索碎礁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>調查墓穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>調查碎礁裡的墓穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在調查碎礁時發現了了一個滿是魂軀的酒館，裡面的所有魂軀都像沒發生過任何事情一樣過著日子。我在裡面遇到了一名叫做銅頭蛇的食屍鬼。他宣稱那裡正發生某種奇怪的事情。似乎沒有人注意到他們已經是吞噬活基斯血肉的腐屍，他說的很有可能是對的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>銅頭蛇要求我與他在鎮外西面的隱居點與他會面。他似乎知道更多有關碎礁的情報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>銅頭蛇透露說他相信鎮子裡面的所有人都被幻術欺騙了，他們相信自己仍然是活著的基斯。他找到的頭盔抵擋住了來源於鎮中心裡面的墓穴頂部散發出的魔法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我的調查將我帶到了一條通往俯視島嶼的海角的道路上。雖然道路崎嶇，但是我相信我能在那裡找到答案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>為了維持門扎格與他的軍隊，我需要想辦法為他找到新的精粹來源。
+
+他說鉤刺島有可能能為他們提供基斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我終結了門扎格對碎礁裡的破碎靈魂們的統治。我應該回去找銅頭蛇並且告知他最新進展。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>銅頭蛇已經死了，我現在需要獨自調查這座島嶼與上面的怪異居民們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>這座墓穴似乎是控制著這座島嶼的力量的來源。也許我能在裡面找到一些線索，前提是避免成為這區域裡徘徊著的腐爛基斯們中的新成員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>墓穴的守衛十分森嚴。無論這座島上有什麼事情發生，這座墓穴肯定都是其中心地點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>銅頭蛇已經同意在墓穴外製造干擾，這樣子我就能夠不驚動守護著墓穴的不死族大軍潛入了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我發現了一扇沒有任何明顯門鎖或者把手的大門，門的兩邊有包含乾涸血漬的儲液室。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我遇到了一名正在製造某種魂軀的吸血妖。殺死她之後我收集了她的部分血液。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我遇到了一名正在給不死族附上魔法封印的吸血妖。殺死他之後我收集了他的部分血液。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>似乎門旁的火盆會在位於下方的儲液室裝滿吸血妖血液時點燃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我決定摧毀門扎格用來控制不死族的魔球。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>門扎格使用了一顆魔法球來鞏固自己對碎礁人民的控制。他死後，這顆魔法球的使用權就歸我了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我決定對於碎礁裡的人們來說最好還是繼續處於迷惘的狀態之中。法術的效果有可能會在未來漸漸衰退，但是在那之前他們仍然會繼續安逸滿足地生活下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我說服門扎格將我看做是一名盟友而不是敵人。他已經同意如有需要就派遣他的艦隊幫助我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我摧毀了碎礁墓穴頂端的魔球，碎礁上的居民們不再受幻象迷惑了。沒有了魔球的魔力，門扎格不再有可能組織起一隻軍隊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我親自解決了碎礁裡的魂軀們。能夠控制心智的魔球應該能給我派上用場。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我擊敗了碎礁的統治者門扎格，也將他腦海中的陰謀畫下了句點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>我在碎礁中央的崎嶇巖壁上發現了一處墓穴，裡面滿是行屍走肉。此地似乎聚集著大量魂軀。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_neketaka_palace_district\04_qst_crew_of_the_antelope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>最後的遠航</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到船隻墳場。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>搜尋羚羊號的殘骸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>釋放俘虜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一名叫做&lt;b&gt;洛弗&lt;/b&gt;的奇怪船長宣稱在&lt;b&gt;涅克塔卡東南方&lt;/b&gt;遠處遇到了可怕的威脅。這個威脅偷走了他的艦船&lt;b&gt;羚羊號&lt;/b&gt;上的船員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>洛弗提到了被沉船包圍著的小島，似乎攻擊了他的船隻並且偷走了他的船員們的存在就來自那裡。
+
+他似乎覺得這存在對於此地的所有船長都是威脅，這東西對於任何毫無防備之人來說都有可能是致命的挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我找到了洛弗描述的小島，這塊暗礁上有上百條沉船。
+
+也許我能在那裡找到關於洛弗的艦船，或者是他的船員……或者是攻擊了他們的怪物的線索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我已經找到了&lt;b&gt;洛弗的船員&lt;/b&gt;，或者說，是殘存的船員，只有兩人倖存下來。
+
+他們被捆在某個鮮血四濺的&lt;b&gt;酒吧&lt;/b&gt;裡。要是我不幫忙的話，他們就會變成屍鬼的晚餐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我攻擊了羚羊號上倖存下來的生還者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我為洛弗的船員中的兩名倖存者清開了一條道路。他們允諾將向舷窗堡壘的皇族海盜美言幾句。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我回到了酒館之後沒有找到俘虜們。那裡的屍鬼們肚皮都已經圓滾滾，我來的太遲了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>洛弗沒有活下來，但是他的故事還在，我找到了他提到的島嶼。也許他的故事並非完全胡編亂造。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_crew_event_cannibalism</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>108</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0]如此虛弱地打開了你的門，好像一道微風吹開一樣。那船員笨拙地進入船艙，瘦骨嶙峋的手臂扶在側邊，好像干苔蘚一樣。
+
+「嗨，船長。食物不足了。」水手嗦嗦發抖，皮屑脫落並飄舞在昏暗的燈光中。「呃，我們開始想，鑒於我們需要食物，你知道，我們在想著……採取……呃，……非常規……手段……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我就把這建議當無聊玩笑了，你可以滾了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0]朝你眨著眼睛。「但是船長……你不是……我是說，你吃死人的故事……並非&lt;i&gt;完全&lt;/i&gt;是假的吧……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0]麻木地點點頭。「這不是掉以輕心的事情，船長。你想知道是誰嗎？好吧......」水手認為是[Specified 1]那邊。就是。」
+
+[Specified 0]呼吸沉重，好像這個名字已經把整個房間壓跨。船員看著你，眼神在請求你說點什麼或做點什麼。任何東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 0]深吸一口氣，不禁微笑著發出一聲歎息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「必須作出犧牲……&lt;i&gt;動手吧。&lt;/i&gt;」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0]點了點頭。問題的重要性和情況已明確，水手又精精神抖擻地弓身走出了房間。在門口，[Specified 0]回頭看你。
+
+「謝謝，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我不是隨便就提出這個，但是……[Specified 1]，船長。那傷勢怎樣？」[Specified 0]皺了皺眉。「可能挺不過去，但肯定的是我們將會挨餓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「[Specified 1]……船長。」[Specified 0]咳嗽得握起拳頭。「醉鬼真是死沉死沉的。什麼都不做。什麼也做不好。這…… 應該是[Specified 1]這麼長時間以來最有幫助的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>一個小時後，[Specified 0]又進來了，眼睛下面多了個黑眼圈，手中拿著一塊板。上面放著一塊紅色的肉，仍然飄著絲絲煙氣。
+
+「你的晚餐，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 0]在船艙中找到你。船員看起來精疲力盡——眼睛凹陷，面頰無肉，四肢枯瘦。
+
+「船長……船員們很餓。太餓了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「吃人是你的辦法？「滾出我的船艙！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你心裡想著要吃誰了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「絕對不行。集合船員到甲板。我會跟她談談的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 0]抬起一支胳膊作咬食狀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[殺了 [Specified 0]。] 「這個主意太棒了。你的骨頭上沒有多少肉，但你還是可以餵飽不少人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Specified 0]有意避開你。「遵命，船長！我只是提個建議。不是認真的……」
+
+船員走出船艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>心不在焉地撓著肚子，[Specified 0]無奈地笑笑。
+
+「很樂意餵你，船長，但我寧願拿勺子，而不是成為勺子裡面的食物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 0] 召集船員到甲板集合。這小群水手悶悶不樂地掛在索具上，坐在板條箱上，或靠在欄杆上。
+
+你踏上甲板，大伙的眼睛轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>最後顫抖和喘息幾下，[Specified 0]的屍體滑到船板上。鮮血淤積到你的腳下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「[Specified 1]，船長。半數以上的船員想把那混蛋在睡夢中扔下船去。正好結束這個無賴給我們帶來的麻煩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「是的，我吃&lt;i&gt;屍體。&lt;/i&gt;在戰場上殺死的敵人屍體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「你聽見我怎麼說的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你說的不錯……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>船員眉毛上揚，充滿希望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>他皺起了眉頭。「我覺得沒多少區別，船長。我們不是在說吃活人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>她皺起了眉頭。「我覺得沒多少區別，船長。我們不是在說吃活人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我剛好知道這樣一個人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 0]睜大了眼睛。「真的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「一名船員。對我來說，一名水手作為肉食的價值更高。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「恐怕，作為我關係最好的盟友之一，我們的關係到此為止了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「轉念一想……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0]目瞪口呆地盯著你，片刻之後才點點頭。「我會辦好這件事的，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>門關上了。甲板上響著急促的腳步聲。有人尖叫。有人大吼。發出一陣暴擊聲。更多腳步聲。身體壓在門上，門搖晃，門下方閃現著混亂的影子。
+
+終於，安靜了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>水手轉移目光，掩蓋不了失望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「誰開始談起這餿主意的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「他們盤算著要弄誰了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 0]皺了皺眉。「我想是[Specified 2]首先提起這主意的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0]聳聳肩。「沒有具體是誰，船長。就是那麼……談起了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 0]認真檢查了船板。
+
+「他們開始談論了……他們又開始提吃人的事情了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我不是隨便就提出這個，但是……[Specified 1]，船長。那傷勢怎樣？」[Specified 0]皺了皺眉。「可能挺不過去，但肯定的是我們將會挨餓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「[Specified 1]……船長。」[Specified 0]咳嗽得握起拳頭。「醉鬼真是死沉死沉的。什麼都不做。什麼也做不好。這…… 應該是[Specified 1]這麼長時間以來最有幫助的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「[Specified 1]，船長。半數以上的船員想把那混蛋在睡夢中扔下船去。正好結束這個無賴給我們帶來的麻煩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 0]麻木地點點頭。「這不是掉以輕心的事情，船長。你想知道是誰嗎？好吧......」水手認為是[Specified 1]那邊。就是。」
+
+[Specified 0]呼吸沉重，好像這個名字已經把整個房間壓跨。船員看著你，眼神在請求你說點什麼或做點什麼。任何東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「當然。是個玩笑。我試試船員。……看他們反應如何。」
+
+[Specified 0]弓身走出房間，你明白你聽到的嘎吱聲是門還是瘦削水手的骨頭發出的了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[把屍體扔下船。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[吊起屍體作為警告。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[把[Specified 0]變為肉食。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>你將屍體拖到甲板，靠到欄杆上。船員們期待的目光跟隨著你。
+
+你直接將之扔進海中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你撕下這名水手的襯衫，用大大的參差不齊的字母在屍體的胸膛上刻下一個詞：&lt;i&gt;食人者&lt;/i&gt;。
+
+你將屍體拖到甲板，叫了幾名船員幫忙，將其吊到桅桿上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>你將屍體拖到甲板，扔在船員腳邊。你告訴他們說，吃晚餐了。
+
+他們麻木地點了點頭，接受了你扔下的屍體，虛弱地將屍體拖下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>不久，[Specified 1]托著一個大淺盤進入船艙。上面放著一塊紅色的肉，仍然飄著絲絲煙氣。
+
+「你的晚餐，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>最後看了一眼你的水手，你返回船艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>門關上了。甲板上響著急促的腳步聲。有人尖叫。有人大吼。發出一陣暴擊聲。更多腳步聲。身體壓在門上，門搖晃，門下方閃現著混亂的影子。
+
+終於，安靜了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>水手嚥了嚥口水，等待你宣佈判決。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「[Specified 1]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「[Specified 2]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「[Specified 3]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「[Specified 4]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「給我出去。告訴船員，我們不可以吃任何人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Specified 0]點了點頭。問題的重要性和情況已明確，水手又精精神抖擻地弓身走出了房間。在門口，[Specified 0]回頭看你。
+
+「謝謝，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>門關上了。甲板上響著急促的腳步聲。有人尖叫。有人大吼。發出一陣暴擊聲。更多腳步聲。身體壓在門上，門搖晃，門下方閃現著混亂的影子。
+
+終於，安靜了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Specified 0]點了點頭。問題的重要性和情況已明確，水手又精精神抖擻地弓身走出了房間。在門口，[Specified 0]回頭看你。
+
+「謝謝，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>門關上了。甲板上響著急促的腳步聲。有人尖叫。有人大吼。發出一陣暴擊聲。更多腳步聲。身體壓在門上，門搖晃，門下方閃現著混亂的影子。
+
+終於，安靜了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 0]點了點頭。問題的重要性和情況已明確，水手又精精神抖擻地弓身走出了房間。在門口，[Specified 0]回頭看你。
+
+「謝謝，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>門關上了。甲板上響著急促的腳步聲。有人尖叫。有人大吼。發出一陣暴擊聲。更多腳步聲。身體壓在門上，門搖晃，門下方閃現著混亂的影子。
+
+終於，安靜了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 0]點了點頭。問題的重要性和情況已明確，水手又精精神抖擻地弓身走出了房間。在門口，[Specified 0]回頭看你。
+
+「謝謝，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>門關上了。甲板上響著急促的腳步聲。有人尖叫。有人大吼。發出一陣暴擊聲。更多腳步聲。身體壓在門上，門搖晃，門下方閃現著混亂的影子。
+
+終於，安靜了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0]後退，眼睛大睜，但水手躲避不及你扔向他的匕首，刺進他的肋骨之間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 0]後退，眼睛大睜，但水手躲避不及你扔向他的匕首，刺進她的肋骨之間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[命令殺了[Specified 2]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我剛好知道這樣一個人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Specified 0]睜大了眼睛。「真的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「一名船員。對我來說，一名水手作為肉食的價值更高。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>水手嚥了嚥口水，等待你宣佈判決。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「恐怕，作為我關係最好的盟友之一，我們的關係到此為止了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「轉念一想……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Specified 0]點頭，挺直身體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Specified 0]敬禮。「遵命，船長。」
+
+船員離開時，你聽到肚子咕咕叫。你不確定是[Specified 0]的還是你的在叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Specified 0]敬禮退出。不到一小時，船員帶著[Specified 2]的屍體回來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我知道現在是拮据時期。一旦我可能給你更多食物，我就給你。先堅持一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「聽清楚了！下次我再聽到談論一點點吃人的事情，你們這些混蛋當中有人就死定了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「每人給你們一個錢包！我知道這吃不了，但是當我們抵達港口，你就會喜歡它了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「你們感覺到肚子餓的折磨？那是你們的軟弱。是你不能推翻奴役你的人的表現。記住這個教訓吧，你們這些可憐蟲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「每個人都拿起漁桿或漁網。我們要打漁，直到我們填飽我們的肚子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>船員聽了你的話點頭，相互苦笑。在你說完後，[Specified 1]帶領大家鼓掌，雖然發自內心，但並不響亮。
+
+安心後，船員們紛紛回到自己的職責崗位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>船員你看看我，我看看你，然後散了，相互喃喃低語。
+
+看起來他們不會吃了彼此，但更大的麻煩在醞釀之中……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>大部分船員本能地逃避你的憤怒，舉起張開的手掌，好像要擋開你的話。
+
+但[Specified 0]撓撓頭，問道，「比如可以買東西吃？」
+
+「閉嘴，白癡！」[Specified 1]發出噓聲說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>船員感激地接受了錢包，看到那麼多硬幣，眼睛睜得大大的。他們虛弱地回到各自的舖位，放好剛收穫的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>船員你看看我，我看看你，然後散了，相互喃喃低語。
+
+看起來他們不會吃了彼此，但更大的麻煩在醞釀之中……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Specified 1]眨眨眼。「但你不是我們的——」
+
+這名船員話未說完，被[Specified 0]迅速戳了一下他的肋骨打斷了說話。「安靜，蠢貨。」
+
+船員散開回到各自的職責崗位，小聲嘟囔著他們的不滿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>雖然沒有什麼熱情，但船員拿起釣魚工具走向欄杆。你在他們旁邊來回走動，告訴他們捕魚方法，同時給他們由所剩無幾的庫存製成的餌料，以及其它的幫助。
+
+用了很長時間，但船員終於捕了滿滿一網。你繼續航行時，他們甚至還編了些無聊的水手號子打發時間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>雖然你利用你無可質疑的專長幫助了船員們，但接下來的幾個小時幾乎沒捕到什麼東西。他們逐漸越來越沮喪，變成偶爾的咒罵甚至揮拳猛擊。
+
+最終，你不得不收工了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>看起來你平息了事態……暫時。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>船員返回各自崗位，邊走邊偷偷回頭看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>船員你看看我，我看看你，然後散了，相互喃喃低語。
+
+看起來他們不會吃了彼此，但更大的麻煩在醞釀之中……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「呃，我們還有動物……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Specified 0]皺眉。「寵物，船長？」
+
+你考慮下你將用哪只寵物給你的船員吃……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[你的熊崽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[沙漠幼龍幼崽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[狗人卡茲。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[野豬兒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[飛龍幼崽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>你將小動物哄出來，說了再見，將它交給[Specified 0]。
+
+「沒有多少肉，但是……謝謝了，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>不久，[Specified 1]托著一個大淺盤進入船艙。上面放著一塊紅色的肉，仍然飄著絲絲煙氣。
+
+「你的晚餐，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[把[Specified 2]變為肉食。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「我，呃……知道一種菜譜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>一個小時後，[Specified 0]又進來了，眼睛下面多了個黑眼圈，手中拿著一塊板。上面放著一塊紅色的肉，仍然飄著絲絲煙氣。
+
+「你的晚餐，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

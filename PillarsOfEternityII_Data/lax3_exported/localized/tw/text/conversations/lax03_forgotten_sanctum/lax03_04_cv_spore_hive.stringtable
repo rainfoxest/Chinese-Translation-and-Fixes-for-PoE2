@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_04_cv_spore_hive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;ispeech&gt;郎歌世聽出了你的歌聲。你喜歡這座花園嗎？每個綻放的膿皰是否讓你的卵充滿期待呢？&lt;/ispeech&gt;隨著你逐漸靠近菌堆，它也開始扭動顫抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;ispeech&gt;你的歌聲太美妙，不能讓它的生長受到任何阻礙。請允許我們為你準備肥沃的花壇以示感謝。&lt;/ispeech&gt;
+
+沃艾珥的肉扭曲抽搐，伸出粗厚的黴菌捲鬚清出一條路。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「看來你想辦法把自己傳播了很遠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你或許需要複習一下基斯生物學。那些都不是真的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「別擋道。現在不是和蘑菇聊天的時候。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>&lt;ispeech&gt;謝謝。現在血肉花園是一潭靜水。小石頭都能激起不斷擴散的漣漪。&lt;/ispeech&gt;一個蘑菇的菌蓋上泛起一抹粉紅，彷彿在練習如何臉紅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>&lt;ispeech&gt;萬分抱歉。這座花園令我們欣喜萬分，但從你的歌聲中我們聽到了更深入探究的渴望。&lt;/ispeech&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

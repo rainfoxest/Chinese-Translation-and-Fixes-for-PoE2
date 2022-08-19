@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「喲呵，你來了，我猜你是想我了吧？」
+
+這隻藍色的絨精向你深深地鞠了一躬，一隻腳踏在身後，一隻手像翅膀一樣伸著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「拾掇好了之後去[Player Ship]上報到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「不行，現在不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「你最後還是決定想讓我來幫忙了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「你能給我的船員們帶來什麼好處？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「沒問題，船長！」
+
+他向你敬了個禮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「好吧，船長。」
+
+他點點頭，眉毛微微皺了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「你是問除了我吹噓炫耀的獵船戰技、不言而喻的禮儀以及豐富的海盜知識之外的東西嗎？」他笑時牙齒閃著光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「我的腦子很靈光，碰到什麼麻煩事交給我就行了。另外，我射擊的技術也不算太差。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「另外，我的眼睛相當好看，大概姑娘們都這麼告訴我的。」他揚起了眉頭快速形成兩個疙瘩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>塞拉芬睜著眼睛，抓著自己的屁股。當你走近的時候，他往地上吐了口唾沫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「我有話想和你說說，靈視者船長。」
+
+塞拉芬交叉著雙手，耳朵耷拉著，藍色的毛髮都立了起來。他瞇起了眼睛，藍綠色的眼睛瞇成了一條縫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「我沒那麼多牢騷要發，靈視者船長，只有一件事想跟你說說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「你看起來心神不寧，和我說說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「我可不在乎你怎麼想，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「心神不寧？心神不寧這個詞可差得太遠了，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「你在不在乎我怎麼想，我可不在乎，船長。我必須和你談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「我不喜歡讓別人當奴隸，我也不想在一艘有奴隸的船上幹活。明白了嗎？如果你再這樣的話，我就走人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「把別人當奴隸這件事，你有什麼不滿？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「我可沒把別人當奴隸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「除了我之外，沒人能在這艘船上發號施令。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「不如我替你省省時間吧。拿著你的東西，從我的船上滾蛋吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「好啊，去他媽的吧，船長。我終於能擺脫你了。」
+
+他往地上啐了一口，轉身走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「很抱歉，塞拉芬，我以後不會再這麼做了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「哦，我也不知道啊，船長。或許就是因為是狗日的奴隸制吧？我沒想到，別把別人當奴隸這件事也要靠一個水手來說明白。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「我希望你能說話算話，船長。盡量……往好了去做吧。」
+
+他歎了口氣，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「希望你以後別這樣了。」
+
+他歎了口氣，拿過酒囊喝了一口，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「不過你一直都在幫助奴隸，是吧？只要基礎保持下去就好了。至於皇族海盜……這個問題交給我處理就好了。」
+
+他搖了搖頭，耳朵顫了幾下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>塞拉芬的鼻子抽動起來，毛也立了起來，彷彿體內捲起了一場風暴一樣。他抿著嘴唇，露出了歪歪扭扭的哈吃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「我已經說過我對奴隸的看法了，但我們現在又要談談這件事情了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「你之前是認真的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「很抱歉，塞拉芬，我向你發誓，我以後不會再這麼做了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「那你就滾蛋吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「你要和我打一架嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「當然是認真的！就像船艙漏水一樣認真！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「你這麼說已經太晚了，船長。騙我一次的人是小王八蛋，騙我兩次的話……」
+
+他聳了聳肩，手掌對著天空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「如果我說，我的小藍腦袋從來沒想過這種事情，那是在胡扯。但我覺得這個世界還需要你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「再他媽的見吧，船長。希望我們以後再也別見面了。」
+
+他轉過身，晃晃蕩蕩地走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「我已經經過過你了，靈視者船長。」
+
+他轉身走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>他猛地向你敬了個禮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>這隻藍色的絨精快速地眨著眼睛，左耳顫動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>塞拉芬雙手叉腰，露出冷酷的表情搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「我回想了一下，但完全不曉得我們是怎麼到這來的，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「嗯，你自己跑的挺快，丟下我們在這裡等死，靈視者船長。希望你對此夠開心吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「有你和我們一起真好。希望你知道我們都在背後支援你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「我說的可不是一般海盜那種『背後支援你』結果有事就背後下刀子的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「和胡亞納人合作……這不是我一開始計劃的，不過這也不能說明你就是在瞎指揮。」
+
+他歎了口氣，撓撓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「一無所有地出發，帶我們穿過那片要死的大風暴，在這個鬼知道是什麼地方登陸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「你這傢伙還是有點本事的。不用否認。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「希望你知道自己在做什麼。我是不會升起同樣顏色的旗幟，但你最好也別搞錯了。反正我現在不怎麼樂觀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「我對射擊皇族海盜一點不抱有刺激感。從一般人的角度來說這些傢伙是不怎麼樣，但他們也有自己的家人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「我沒有把那些胡亞納人在水裡淹死個三四次。還真他媽可惜啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「也許是學到了一課。不過不能說具體是啥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「不過，讓這些商行的混蛋們嘗嘗咱們火炮的滋味說實話還挺爽的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「給那些努瓦泰混蛋們上了一堂航海課，是吧船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「什麼意思？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>「我們在小船上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「我們坐著小船穿過了靈界。有什麼可迷茫的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「我感覺我們都喝了個爛醉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「你也是嗎？怪不得我的酒瓶都不見了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「我真是有點啥都不想管了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「啥都迷茫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「無論如何，還好你也在這。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「準備好應付接下來的事了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「我會盡力讓我們度過這道難關的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「我們走吧。還有個神等著我們去找呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「謝謝你這麼信任我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「我們會撐過去的，我向你發誓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「沒誰把你拽到這裡，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「如果你想的話，我現在也能送你上路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「我的力量和智慧都為你所用。希望這樣綽綽有餘了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「可能現在還不是發誓的最佳時機。你會比想像中更早和眾神周旋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>「行吧。我也不想屢次三番地抱怨了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「用不著這樣。人早晚有一死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「你這是想引誘我嗎，船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「總得有人保證你這個滿口講鬼話的傢伙別死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「我知道，船長。希望會足夠吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「遵命，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「誰也沒法準備接下來會有什麼，船長。反正會有東西來臨就是了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「那就前進吧，船長。前往結局，前往靈界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「我們就繼續完成我們來到這裡要做的蠢事吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

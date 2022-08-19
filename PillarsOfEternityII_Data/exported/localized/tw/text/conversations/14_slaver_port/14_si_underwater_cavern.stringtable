@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_slaver_port\14_si_underwater_cavern</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在你面前，一個小洞穴一直連通到堡壘中坍塌石基下的岩石地帶。洞穴的蹲口位於一抹海水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在你的腳下，一池發綠的污水流成一條水下隧道，消失在黑暗中不見。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[涉水進入洞穴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你涉水前進，直到腳下的地面突然一沉，一股涼意襲上你的皮膚。在洞穴的後部，水更綠了，又黑又深。
+
+一個波浪撞上你身後的洞穴，在它退去的時候，猛烈的潮水又要把你拖回海岸線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[游到洞穴的更深處。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[讓水流把你拉回岸邊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你劃開水流，緩慢而穩定的前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>游到洞穴裡更深的地方，你看到了兩個隧道，它們左右分叉。一個隧道通往黑暗，另一個透著微弱的光。
+
+兩個隧道都完全淹沒在水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[游進更暗的隧道。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[游進更亮的隧道。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>隨著你接近分叉處，你的肺部開始有灼燒感，但你還是平靜的繼續挺進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>隨著你接近分叉處，你的肺部開始有灼燒感並感到疼痛，脈搏在跳到，耳邊傳來呼嘯聲。你的四肢在冷水中行動越來越遲鈍。你速度慢下來。
+
+嘴裡有氣泡冒出，讓你的鼻子和臉頰發癢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>耳朵裡傳來時間滴滴答答的聲音，像一群螞蟻在看似一望無際的地方排隊行進。心臟在跳動，又一秒缺氧，然後又一秒……又一秒…
+
+你為了前進和回流作鬥爭。你的肺部一陣疼痛。一大串的泡沫從你的喉嚨裡冒出來，就好像你來到了隧道的盡頭一樣……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>耳朵裡傳來時間滴滴答答的聲音，像一群螞蟻在看似一望無際的地方排隊行進。心臟在跳動，又一秒缺氧，然後又一秒……又一秒…
+
+然後，你耗盡了一切——空氣、希望、體力和時間——但還有無盡的隧道。
+
+一大串泡沫從你的喉嚨裡冒出來，但隨著水流在湧入，這些泡沫又被擠回去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>隧道的深處很黑，伸手不見五指，除非用手掌拍打，否則根本注意不到是條死路。
+
+沒有地方可去，除非回到隧道中——又要游幾英尺。
+
+你的動作讓周圍的水波動起來，你恰好能聽到拍打在隧道邊緣的微弱的波浪聲。
+
+可能會有一小片空間有空氣……也可能什麼也沒有。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[游出水面。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[游回堡壘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>在你試著游出水面時，你的鼻子撞到隧道的岩石頂，但那裡的空間足以讓你在被冰冷的海浪無情沖刷前，張開嘴巴深吸一口氣。
+
+當你用胳膊壓水浮上水面時，你發現你的動作讓波浪更加起伏，很快會淹沒了洞穴與水面之間的狹小空間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>深呼吸一下後，你又跳進水下，艱難的向堡壘游去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>當你在黑暗中打轉時，你的手指抓住了隧道凹凸不平的一面。血液衝擊著你的耳朵。你繼續前行，尋找分叉口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你游啊游，在隧道裡越游越深，看不到盡頭。過了一段時間，你的肺部感覺到一陣刺痛，但你忍住疼痛，頑強的向前推進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你在堡壘外的海岸邊醒來，沙子壓在你的臉頰上。你吐出一口水和海藻——不過你還活著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你的小組游啊游，在隧道裡越游越深，看不到盡頭。你的肺部開始受到壓力，迫切需要空氣，喉部的脈搏劇烈跳動著。眩暈感向你襲來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你游出隧道，從堡壘地下深處洞穴的水面上浮出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[跳入隧道。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>隧道很窄而且有很多岩石，水又冷又黑。你一邊游著，一邊用手摸索著兩邊和頂部，但沒浮出水面，因為沒有空間存儲空氣。再進入隧道幾英尺後，你再也看不到你前面或後面的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>在隧道的中途，一股強大的回流將你迅速拖向大海，又經過了幾秒胸口灼燒感後，你在連接海岸線的洞穴口浮出水面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你和你的組中每個人的肺裡都充滿了新鮮空氣，你們輕鬆的通過了黑暗的隧道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你的肺裡充滿了新鮮空氣，你輕鬆的通過了黑暗的隧道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你游啊游，在隧道裡越游越深，看不到盡頭。一段時間後，你的肺部開始受到壓力，瘋狂地需要空氣，喉部的脈搏劇烈跳動著。眩暈感向你襲來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>每個人的胳膊和腿都努力地扑打著，快速、頑強的游過隧道。但是距離太長了。
+
+你幾乎分不出其他人臉上痛苦的表情，因為你自己的肺也在因缺氧而飽受痛苦，不過謝天謝地，沒有人掉隊，你還能堅強的繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>每個人的胳膊和腿都努力地扑打著，快速、頑強的游過隧道。但是距離太長了。
+
+你幾乎分不出其他人臉上痛苦的表情，因為你自己的肺也在因缺氧而飽受痛苦。然後，窒息了，有人失去知覺，你不得不把他們拖回來，利用回流的力量輕易的把他們帶到海岸的安全地帶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你的小組游啊游，在隧道裡越游越深，看不到盡頭。你的肺部感覺到一陣刺痛，但你忍住疼痛，頑強的向前推進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[游到洞穴口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>你衝破洞穴中心的水面。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

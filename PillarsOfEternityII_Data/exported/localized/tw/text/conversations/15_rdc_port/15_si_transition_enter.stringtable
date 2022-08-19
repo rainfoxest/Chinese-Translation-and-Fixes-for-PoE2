@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_transition_enter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你到達了珊瑚匠所說的梨繪附近海面上的地點。你越過船的邊緣往下看，看到水下深處發著微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[穿上潛水服向下游。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你爬進了潛水服，從船上撲通一聲跳進了水裡，濺起巨大的水花。
+
+你朝著光亮游過去，靠艾維拉的這件發明呼吸著新鮮空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你穿越了屏障，發現遺跡內部與你想像的不同，並未被淹沒，而是乾的。你取下頭盔，深吸了一口新鮮空氣，並走進了席格納斯莫爾遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>隨著你越潛越深，周圍的水越來越暗，但你下方的光卻越來越亮。一群群巨大的魚在你身邊游來游去，沒有在意你。
+
+很快，你就隱約看到海底有一座建築物。席格納斯莫爾遺跡中聳立著一座尖塔，上面有個看似登陸平台的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>光似乎是從海底附近的某處發出的。如果你就這麼游過去，肯定會淹死。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[穿越屏障]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你終於到達尖塔時，發現一道發光的屏障包圍著遺跡。你伸手穿過屏障，只感覺傳來一陣觸電一般的刺痛感。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

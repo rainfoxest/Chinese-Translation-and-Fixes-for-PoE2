@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_reef_unknown</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Specified 0]在主甲板上找到你。你的領航員遞上一個指南針，捏在兩個手指之間，就像我們拿一塊發霉的水果那樣。
+
+「船長，有些不對勁。指針像甲蟲的腿一樣顫搐著，但是航海圖上在這個地方什麼訊息也沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「穿過去，[Specified 4]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我們不能碰運氣。繞開異常海域。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你的舵手熟練地引導船在其間穿梭。
+
+途中，你看到了不幸船隻的殘骸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>……但是一個阻礙物擋住了船身。船舵從水手的手中脫滑而出，[Specified 4]大聲呼喊。[Specified 0]抓住船舵，引導船駛向深水區。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>船顫抖著，水手咒罵著，船身緩慢地駛過尖銳的魂珀。船的顛簸把[Specified 5]拋出欄杆掉入水中。你向下看去，有上千條魚突然襲擊那個倒霉的甲板水手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 4]指著前方。「礁石，船長。我曾聽說有船從這些礁石中穿過以節省時間。我們可以試試，或者繞行。
+
+[Specified 0]歎息道。」沒有儀器，完全瞎碰運氣？我的意見是繞行這個地方——無論它是怎樣一個地方——無論花多少時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 2]抱怨。「幾小時？幾天？沒有什麼比等待更糟的了，船長。穿過去吧——我們將為任何情況作好準備。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Specified 5]低頭小聲咕噥。「隱秘而撲朔迷離的東西也能夠給予啟示。或許秘密之神出於某種原因在這個地方留下了他們的標記。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Specified 0]擦了擦她的眉毛。「明智的決定，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0]擦了擦他的眉毛。「明智的決定，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「昂德拉保護我們，」[Specified 0]咕噥道，把沒用的指南針掛在一顆釘子上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>當你在礁石上方航行，深處閃爍著一道微光。一開始，那暗光幾乎未到達水面，但它逐漸明亮起來，它的源頭越來越近……看起來像是淹沒在水下的山峰。
+
+你意識到它是一個巨大的光魂珀暗礁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 1]向船外看去，輕聲低語。「……無目之面的眼睛……」
+
+就在水面下——以及在你船的周圍——你隱約看到多只眼睛在看著你。
+
+然而，當它們閃爍起來，這些眼睛化成了數以千計的魚，它們的銀藍色側腹分佈著有如瞳孔般的黑點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>終於，淺灘和魂珀已經落在你的身後，眼睛似的魚群也放棄了它們的追逐。[Specified 0]檢查指南針——現在又保持指北了——鬆了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>如同半空中一聲炸雷，你腳下的甲板開始分崩離析。你周圍的世界彷彿天旋地轉了許久，隨後你便落入了水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0]在主甲板上找到你。水手呈上一個指南針，表情十分困惑。
+
+「我覺得這破玩意壞了，船長……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 1]盯著海上遠處。「沃艾珥之影降臨我們身上，窺視著我們穿過深處。」
+
+[Specified 0]對[Specified 1]茫然地眨著眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「百重幻境應能指導我們穿過這片神秘之境。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「[Specified 3]，我們的船狀況怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Specified 3]笑了起來。「她的狀況很不錯，船長。我是不想開著她穿過一大片暗礁，但如果真的要冒險的話，現在的狀況確實再適合不過了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Specified 3]皺起了眉頭，轉著眼珠，打量著甲板。「我猜她大概還可以撞個一兩下吧，倒不是希望她撞上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 3]盯著你，瞪大了眼睛。「咱們的船都快沉了，船長！這種時候可不能再冒險了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你回到了那片與眾不同的淺水區，讓設備恢復正常運轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>很快，你被參差不齊的魚群包圍，它們就像貪婪的爪子都想要碰你的船。你的船員們很安靜、緊張，被驚呆了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「這是一種祝福，」[Specified 5]說，但其他人則不那麼肯定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[閉上你的眼睛掌舵。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「穩定。輕輕來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「向前開。我們在往回走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 0]喘息。「蒼天在上……」
+
+「正好，」[Specified 1]低語道。「看吧，沒見過的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>憑著堅定的領導，你指導[Player Ship]穿過了礁石。船在優雅地穿行，雖然你聽到你的船員咕噥著說看到一些船隻殘骸——那些船看來沒有獲得神的引導</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>終於，淺灘和魂珀已經落在你的身後，眼睛似的魚群也放棄了它們的追逐。[Specified 0]檢查指南針——現在又保持指北了——鬆了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你睜開眼睛，發現船員們敬畏和驚恐地盯著你。
+
+「有時我在想我們究竟碰到了什麼，」[Specified 0]說。[Specified 4]只是點點頭。
+
+[Specified 1]咧嘴笑笑，轉身走開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你意識不清地漂在水面上，旁邊四散著破碎的木板和鋼鐵。你沒有什麼力氣繼續游泳，只能眼睜睜看著自己沉入水面。
+
+黑暗籠罩了你的全部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>魚群聚集靠近你周圍，同時[Specified 4]努力保持船航行在他們中間……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>他尖叫一聲，消失在一片翻滾的深紅色中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>她尖叫一聲，消失在一片翻滾的深紅色中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>一片暗礁出現在你面前。靠這群骷髏船員，你也沒辦法確認參差不齊的淺灘位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

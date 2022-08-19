@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_mutiny</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你準備在日誌中記錄你最近的旅程，當你提起羽毛筆，卻只剩下一片無言。你傾聽著，但你所能聽到的只有蠟燭的滋滋聲，木材的吱吱聲，以及海水輕輕拍打著你窗戶的聲音。.
+
+其它便沒有了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[把[Specified 0]踢下水。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「還記得上次惹毛我的那個人是什麼下場嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[攻擊]「行吧。讓我們解決這事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>隨著雙方推進，武器從刀鞘和槍套中拔了出來……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「相互殘殺只會產生更多問題。放下武器，讓我們像文明的基斯一樣討論這事兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你們很多人都知道，我殺食人魔和亞龍取樂，對吧？」你們或許需要對此反思一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Specified 0]向前站了出來，你轉到右邊。叛變者跟蹤你，你將他們引到左舷欄杆，他們圍成一圈。
+
+「有些奇怪，是吧，船長？」[Specified 0]問道。「老實面對這後果吧——，」
+
+你快速前衝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 1]把叛變者排起隊來，按列清點，每人分配編號。忠誠的水手用袋子做成一個骰子，把它拋到甲板上。骰子卡嗒翻滾停了下來。
+
+「幸運號三。」
+
+「上帝，不！」 [Specified 2]大叫著說。.「饒命，船長，饒命！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>叛變者們停下來。[Specified 3]匆匆小聲咕噥著，毫無疑問是在說關於你和你的過去的什麼事情。
+
+「放下你的武器，」[Specified 1]大叫道。讓恐懼引導你繼續活命，抑或忘記那些你知道的屬於真實的東西，轉而冒險擁抱未來，相信我，船長和我已經在那裡等待著你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 0]走到左舷，看著船外，一根手指在欄杆上滑動著。「是的，我想我能夠把這個攤子管理得更好。」
+
+你看了一眼叛變者們。這是一個你將獲得的好機會。一個箭步，你就到了[Specified 0]的跟前。等那個混蛋抬頭看時，你對著這傢伙的肚子就是一腳。叛變者向後踉蹌幾步，痛苦地倒下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>當[Specified 0]充滿信心向前大步踏來，你一個箭步衝到跟前。滑過甲板，你疾步如飛。
+
+[Specified 0]匆忙讓路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>叛變者們的衣服在風中捲起，從枯瘦的身體上飄起，就像旗桿上飄揚的旗幟。一張張凹陷的臉皺著眉頭，深陷的眼睛一致瞪著你。[Specified 0]咳了咳嗽開始講話。
+
+「你站在這裡時，你的夾克上帶著麵包屑，你的呼吸中帶著香料的氣味。」
+
+[Specified 4]接著說。「我們幾天沒吃東西了。」
+
+「整天肚子餓得咕咕叫。」[Specified 3]搖搖頭，皺著眉頭。「為發餿的麵包屑打架，把艙底的老鼠視為黃金去捕捉……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Specified 0]扔了一個杯子到甲板上，木頭發出卡嗒聲和刮擦聲傳遍甲板。杯子最後對著你的腳停了下來。
+
+「我們是水手，船長。我們不是牧師或修道士，或任何其他行當。水手。沒有爽口的水喝，沒有一口海盜烈酒安慰我們的傷和痛，沒有一口朗姆酒讓我們忘懷這該死的一切。」
+
+[Specified 2]滿臉怒容地點著頭。「我想吐口痰，但我口乾舌燥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0]向前一步，在甲板上滾出一枚硬幣。硬幣跳躍撞到你的門上，停了下來。
+
+「看看吧，船長。那是屬於我的唯一硬幣。」
+
+[Specified 4]咆哮道。「你的意思是讓我們想方設法分了這個，是嗎？」我們確實需要分錢，因為工作不是免費的，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「船員們不高興。」[Specified 0]的話低聲、平靜，聲音勉強可以聽到，好像在推理一個問題一樣。「怎麼會這樣？缺乏計劃。誰負責計劃？」
+
+叛變者大聲說道，「船長！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>叛變者們停下來。[Specified 3]匆匆小聲咕噥著，毫無疑問是在說關於你和你的過去的什麼事情。
+
+「放下你的武器，」[Specified 1]大叫道。讓恐懼引導你繼續活命，抑或忘記那些你知道的屬於真實的東西，轉而冒險擁抱未來，相信我，船長和我已經在那裡等待著你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>叛變者們舉起手。[Specified 1]走到你面前，手中拿著大棒。 
+
+「可不是輕易饒得了的事情，船長，」水手嘟噥道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Specified 0]啐了口唾沫。「在我看來，少了你和你的朋友，就少了幾張嘴和少發些薪水。具體我不知道，但我覺得這意味著我們可以得到更多，不是嗎，諸位？」
+
+[Specified 2]輕輕笑著，與[Specified 3]一致點著頭。[Specified 4]春風滿面，看著其他同伴，好像在計算每個人應得的銀幣一樣。
+
+「這『外交』手段如何，船長？」 [Specified 0]壞笑著問道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0]哈哈大笑。「哦，不，一位性格殘忍的船長？」我們該怎麼辦？」
+
+[Specified 2]咯咯笑道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0]冷笑，但那是一種無可奈何的憤怒，就像被陷阱困住的動物一樣。那名水手將武器放到了甲板上，其他叛變者也一個個放下了武器。[Specified 1]向前走出去，手中拿著短棒。
+
+「放了他們，」[Specified 0]說。「要不是因為我，他們也不會叛變。我對此承擔全部責任。」
+
+[Specified 1]看著你。如果你每次都讓步，外交是做不成的。你崇尚和平……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[拔出[Specified 0]射擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Specified 0]回頭看了其他人一員。「讓我們了結這事吧？」
+
+那名水手還沒來得及轉身，你拔出你的手槍開火。[Specified 0]的前額出現一個大坑，頭骨碎片飛散在空中。那名叛變者倒向甲板上，冒著熱氣的糊狀物從腦袋上掉下來，鮮血流滿甲板。一隻眼睛慢慢朝著你滾來，慢慢停了下來。
+
+你的眼睛透過槍管的余煙看著其他人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Specified 0]向你聳聳肩，手心朝上，好像在問，『成交嗎？』
+
+你拔出手槍。叛變者退縮。
+
+你開火。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你從槍套拔出你的手槍，立即扣動了扳機。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>叛變者們被扒光背部，向前撲在欄杆上。只鞭打了三處地方：一處在睡覺要躺的背上，一處在要走路的腿上，一處在非握槍的那隻手上，以提醒他們你的懲罰還是對他們網開一面了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我想我們都知道我們在這兒的原因，船長。」[Specified 0]裝腔作勢道。
+
+[Specified 4]點點頭。「事情上次出了岔子，但亡羊補牢，為時不晚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我們需要過往不咎。讓他們回去幹活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「鞭打他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「把他們其中一個綁在船底拖拽。我不管是誰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0]冷笑，但那是一種無可奈何的憤怒，就像被陷阱困住的動物一樣。那名水手將武器放到了甲板上，其他叛變者也一個個放下了武器。[Specified 1]向前走出去，手中拿著短棒。
+
+「放了他們，」[Specified 0]說。「要不是因為我，他們也不會叛變。我對此承擔全部責任。」
+
+[Specified 1]看著你。如果你每次都讓步，外交是做不成的。你崇尚和平……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Specified 0]冷笑，但那是一種無可奈何的憤怒，就像被陷阱困住的動物一樣。那名水手將武器放到了甲板上，其他叛變者也一個個放下了武器。[Specified 1]向前走出去，手中拿著短棒。
+
+「放了他們，」[Specified 0]說。「要不是因為我，他們也不會叛變。我對此承擔全部責任。」
+
+[Specified 1]看著你。如果你每次都讓步，外交是做不成的。你崇尚和平……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>叛變者們停下來。[Specified 3]匆匆小聲咕噥著，毫無疑問是在說關於你和你的過去的什麼事情。
+
+「放下你的武器，」[Specified 1]大叫道。讓恐懼引導你繼續活命，抑或忘記那些你知道的屬於真實的東西，轉而冒險擁抱未來，相信我，船長和我已經在那裡等待著你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>叛變者們停下來。[Specified 3]匆匆小聲咕噥著，毫無疑問是在說關於你和你的過去的什麼事情。
+
+「放下你的武器，」[Specified 1]大叫道。讓恐懼引導你繼續活命，抑或忘記那些你知道的屬於真實的東西，轉而冒險擁抱未來，相信我，船長和我已經在那裡等待著你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「船底拖拽[Specified 0]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 0]的眼睛瞇起，但並沒有表現出吃驚的眼神。「地獄見，船長。」
+
+船員迅速綁起那名叛變者，這名水手的身體砸到水中的濺擊聲像槍聲一樣迴響在甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 1]皺著眉頭，匆匆與你對視了一眼，把目光移開了。
+
+[Specified 0]伸出一隻手，露出壞笑。「這不用非得流血解決，[Player Name]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「抱歉，船長。」[Specified 0]瞇著眼睛對視著你。「但我們有些人對你對那絨精少女所做之事不太高興。維拉對我們來說就像親人一般。或許你不明白那是什麼感覺，但對於像我們這樣的老水手來說，真的意味著很多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你的腳步聲迴響在船艙中，好像你正穿過一個廢棄的修道院。
+
+你踏上甲板，看到船員們盯著你，雙臂交叉，屁股上掛著武器，[Specified 0]站在前面中間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你完成儀容整理，揩去臉上的水。當你凝視著空無一物但發出顫抖的表面，你發現沒有其它聲音，這非常奇怪。船異常的安靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你的航海圖在你面前展開，你奮力使自己不要在閃爍的光線和船艙的輕搖中睡著。奇怪的是，最終使你完全清醒的不是聲音，而是幾乎沒有噪聲的安靜——只有燭蠟燃燒的啪啪聲和大海的低語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>對眾人嘲弄一番後，[Specified 0]轉身，雙臂展開。「呃，如果是這樣，我們必須要有一位船長！沒有船長無法航行，對吧？」你們認為誰應該當船長呢？」
+
+「你！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「不，船長，」[Specified 3]警告說，「以前你就這樣幹過。你最好把你的手從那門大炮拿開。」
+
+[Specified 0]在甲板上吐了口痰。「你說呢，船長[Player Name]？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>那名叛變者的大衣掛在肩膀上，衣服碎片飛捲到聚集的人群中。你放下槍，盯著尚未消散的黑火藥煙。
+
+一隻手按著傷口，[Specified 0]慢慢轉向你。「殺光他們，兄弟們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>你從槍套拔出你的手槍，立即扣動了扳機。
+
+欄杆裂開，碎片散落在叛變者身上。
+
+[Specified 0]慢慢站了起來，舔了一下手指，把它舉了起來。「連風都沒有。」那名叛變者看著其他人。「殺了這個神槍手以及任何擋道者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>你仔細斟酌著下面要說的話，船員們看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[試圖用話語化解局面……]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[試圖用立即果斷的暴力結束叛變……]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[用能力使他們的內心或心智屈服。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>你採取處置他們的措施時，叛變者們不安地盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「小心，[Player Name]。」[Specified 2]舉著一把手槍瞄準你。「我們不會再被你的伎倆耍了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[用戰技恐嚇它們。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你利用精粹以及叛變者的靈魂製造迷惑之鏈，他們的眼睛呈玻璃狀，對你充滿崇拜。
+
+然而，其他船員眼睛恐懼地睜得大大的盯著你，他們覺得反感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>在謹慎地利用了這種神秘的天賦後，[Specified 5]扭轉了叛變者們的思想，讓他們重新歸順於你。
+
+然而，其他船員則明顯厭惡恐懼地盯著你們倆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>你詠唱著，你的話語迴響在甲板上，以絕對恐怖的氛圍把你周圍的精粹聚集起來。
+
+包括叛變者和忠誠者在內的全體船員下跪，極度恐懼地顫抖著，鮮血從緊握的拳頭湧出，眼睛流淌著淚水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Specified 5]點點頭，邪惡地盯著叛變者，開始進行低聲的詠唱。空氣變得更冷了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[考慮其它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>他們帶著期盼的目光看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「放了他們。但是[Specified 0]要永久負責廁所裡的工作兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>水手們臉上露出釋然的表情，緊張消散，咯咯笑了起來。
+
+當你返回你的船艙，[Specified 1]向你點頭致意。
+
+在靠近船首的地方，[Specified 5]起頭唱起一首水手號子。
+
+其他船員慢慢跟著唱了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>緊張消散，船員們臉上表情釋然。[Specified 1]警惕地看了[Specified 2]一眼，而[Specified 4]試圖悄悄溜走。命令很快傳達，索具拉緊，水手號子的聲音甚至高過喧鬧聲。
+
+你返回你的船艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 0]向你攤開手掌。
+
+「看到這個了嗎，船長？」這就是我的名字的來由。」
+
+[Specified 4]點點頭。「當你從國王港第一次啟航時，你告訴船員要去掠奪亡焰列島的財富。現在看看你自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 2]放下了武器。「我不想參與這事的。」
+
+其他人也紛紛效仿，直到所有人的手上都沒有了作亂的工具，而[Specified 0]獨自站著。悲傷地搖了搖頭，這名水手最後把手槍和劍放到了甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Specified 0]啐了口唾沫，環顧四周，好像在打量著船隻要做新旗幟。「我要把你切成碎片用作魚餌，然後把你吊在主帆桁上，看著鳥兒啄你的眼睛。它們很喜歡的，知道嗎？」那是它們最喜歡的食物。而你只能眼睜睜看著。眨眼沒有用。它們直接從眼瞼啄進去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>他不斷哀求饒命，但船員們很快把他綁了起來，拖向欄杆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>她不斷哀求饒命，但船員們很快把她綁了起來，拖向欄杆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「等等。給這個女巫鬆綁。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「代我向貝拉斯問好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[一言不發。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Specified 2]被綁起來扔下了船。過了一會，扭爛的衣服和皮肉從船後的尾跡浮了上來。[Specified 1]把屍體撈上來起來示眾。
+
+你返回自己的船艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Specified 1]怒目而視，但放了那名掙扎的水手。[Specified 2]從木板上起來，跪倒在你腳邊。
+
+「謝謝你，船長！感謝你的仁慈，上帝保佑你！你不會後悔此舉的，我發誓你不會！」[Specified 2]的鼻孔裡冒著鼻涕。
+
+你轉身返回你的船艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Specified 1]把屍體綁起來示眾，你返回你的船艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「他們又找事了！」[Specified 2]大叫道。.
+
+「殺了這些混蛋！」[Specified 0]直指著你說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「他們又找事了！」[Specified 2]大叫道。.
+
+「殺了這些混蛋！」[Specified 0]直指著你說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>你進入叛變者的靈魂，找到他們的夢魘和恐懼，使之在他們的內心擴散。水手們紛紛跪下，顫抖著，哭喊著，你高傲地站在他們上方。
+
+其他船員則恐懼地保持沉默，向你表示敬意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>你融入了怒火而製成的精粹，向船員發出怒吼，讓他們膽顫心驚。
+
+船員們紛紛跪下，包括叛變者和忠誠者，他們恐懼地顫抖，你則怒目而視，高高在上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>叛變者們在你的同伴的力量下紛紛下跪，顫抖著，哭喊著。
+
+其他船員則恐懼地保持沉默，向你們倆表示敬意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Specified 5]立即向前一躍，向叛變的水手們發出一聲勢不可擋的狂怒咆哮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Specified 0]的臉緊繃著，緊張的手急忙掏出手槍。槍的擊錘掛到皮帶走火，在甲板上打出一個洞。
+
+你箭步穿過煙霧，踩著叛變者的胸部，把[Specified 0]翻過欄杆，讓他順著船身翻著跟頭掉了下去，砸得砰砰直響。你扭頭看去，看到那名水手的屍體面部朝下漂浮著。
+
+你轉回身，看到船員們在甲板上扔下了刀槍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Specified 0]站了起來，指著你。「殺了他！」</DefaultText>
+      <FemaleText>[Specified 0]站了起來指著你說道。「殺了她。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>你飛起來，在你滑翔準備停下之前，你的腳在空中蹬踏著準備踩地步行。[Specified 2]咯咯笑著。
+
+」不錯啊，」[Specified 0]說道，慢慢拔出劍來。「[Specified 4]跟我打賭說你根本沒有&lt;i&gt;那個&lt;/i&gt;。我將從你的屍體上收回我贏得的賭注。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「你小心點，」[Specified 1]叛變者們嚴肅地警告道。
+
+「沒人跟你說話，」 [Specified 0]厲聲說。「當你準備為我們的忠誠度買單時，那重要的時刻也會很快成真的，[Specified 1]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

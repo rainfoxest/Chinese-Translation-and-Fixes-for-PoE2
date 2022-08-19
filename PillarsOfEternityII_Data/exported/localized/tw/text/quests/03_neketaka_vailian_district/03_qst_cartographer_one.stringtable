@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_qst_cartographer_one</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>測繪亡焰列島：國王港</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>探索國王港附近的未標小島。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找桑扎</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在女王港見到的衝動繪圖師桑扎想要編匯一本亡焰列島的完整指南，但是他一個人沒辦法完成這任務。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>女王港裡的繪圖師桑扎請求我幫忙為亡焰列島中的未標小島測繪。
+
+桑扎建議我從繪圖師南北兩邊的兩座未標小島開始。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已近為此地區中的兩座小島完成測繪。&lt;b&gt;桑扎&lt;/b&gt;應該會想要知道我的進度，這是填充他的海圖的好機會。他應該就在涅克塔卡&lt;b&gt;女王港&lt;/b&gt;的商店裡等著我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我發現了一座居住著蜥人部落的島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我發現了一座居住著被放逐者的島嶼，他們因為饑荒而陷入了瘋狂與食人行為中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我將國王港周邊島嶼的測繪交給了桑扎，他給了我獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

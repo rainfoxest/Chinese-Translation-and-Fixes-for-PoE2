@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_qst_arkemyr_observatory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>貝卡納之愚</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往&lt;b&gt;貝卡納&lt;/b&gt;的天文站。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>搜尋&lt;b&gt;天文站&lt;/b&gt;，找到&lt;b&gt;貝卡納的研究記錄。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>解開&lt;b&gt;貝卡納&lt;/b&gt;的星象儀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>回去找&lt;b&gt;亞柯彌。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>啟動&lt;b&gt;星象儀。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>取回&lt;b&gt;貝卡納&lt;/b&gt;的筆記。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;大法師議會&lt;/b&gt;認為&lt;b&gt;俄撒斯&lt;/b&gt;將對亡焰列島造成史無前例的破壞。法師&lt;b&gt;貝卡納&lt;/b&gt;的研究記錄應該能夠在減輕損失中提供幫助。
+
+&lt;b&gt;亞柯彌&lt;/b&gt;派我前去了她的&lt;b&gt;天文站&lt;/b&gt;，但是&lt;b&gt;議會&lt;/b&gt;並不是唯一一個對&lt;b&gt;貝卡納&lt;/b&gt;的發現感興趣的組織。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>研究站位於&lt;b&gt;涅克塔卡東北面&lt;/b&gt;的一座小島上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;貝卡納&lt;/b&gt;有可能在遺棄她的&lt;b&gt;天文站&lt;/b&gt;之前在那裡留下了有用的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>&lt;b&gt;貝卡納&lt;/b&gt;在她的研究站頂部的星象儀裡面藏了某種重要之物。裝置有著輸入夜空中星座坐標的機關。
+
+星象儀控制台上的牌匾提到了一個女獵手與她的傳說的三個舞台，也許能夠在&lt;b&gt;天文站&lt;/b&gt;裡面找到她的傳說的所有四個部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我已經得到了&lt;b&gt;貝卡納&lt;/b&gt;的筆記，&lt;b&gt;亞柯彌&lt;/b&gt;與&lt;b&gt;大法師議會&lt;/b&gt;應該會想要研究她的成果。我可以在&lt;b&gt;佩瑞琪之望&lt;/b&gt;的宅邸裡面找到&lt;b&gt;亞柯彌&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>我找到了&lt;b&gt;貝卡納&lt;/b&gt;在她的指導中提到的所有四個星座的坐標。
+
+我應該能夠啟動&lt;b&gt;星象儀&lt;/b&gt;然後得到她藏起來的物件了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>在啟動了&lt;b&gt;貝卡納的天文站&lt;/b&gt;裡的&lt;b&gt;星象儀&lt;/b&gt;之後，艾歐拉的一個月亮的模型開啟了，裡面一個隱藏的夾層露了出來。&lt;b&gt;貝卡納&lt;/b&gt;藏著的東西肯定在裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;天文站&lt;/b&gt;裡面滿是傭兵。&lt;b&gt;亞柯彌&lt;/b&gt;對於有其他人在搜尋貝卡納的發現的判斷是正確的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我能夠通過使用&lt;b&gt;星象儀&lt;/b&gt;旁邊的天文望遠鏡找到夜空中的女獵人，只要找到排成彈藥帶形狀的星星就好了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我已經知道了女獵人星座的坐標。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>翠鳥座就在一對異常明亮的星星中間。我需要使用&lt;b&gt;星象儀&lt;/b&gt;旁邊的望遠鏡找到它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我已經知道了翠鳥座的坐標。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>獵豹座就在一串像弓一樣彎連的星星旁邊。&lt;b&gt;星象儀&lt;/b&gt;旁邊的望遠鏡應該能夠幫我找到它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我已經知道了獵豹座的坐標。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>利維坦座就在象徵獨木舟的一串星星之上。我需要&lt;b&gt;星象儀&lt;/b&gt;旁邊的望遠鏡來找到它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>我已經知道了利維坦座的坐標。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>一座巨大的&lt;b&gt;星象儀&lt;/b&gt;被安置在了研究站的頂部。我應該仔細查看一番。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>&lt;b&gt;亞柯彌&lt;/b&gt;的一隻妖精告訴我說能夠在他的莊園&lt;b&gt;實驗室&lt;/b&gt;層的占卜池處找到&lt;b&gt;他&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>白天沒有辦法使用望遠鏡。我得等到夜晚才能觀察星座。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我回到了亞柯彌那裡並且將貝卡納的研究交給了他。希望這能夠幫助到他和議會。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

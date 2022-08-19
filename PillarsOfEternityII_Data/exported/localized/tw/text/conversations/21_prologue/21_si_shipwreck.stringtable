@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\21_prologue\21_si_shipwreck</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>巨大的衝擊把你甩下了甲板，把你摔進了波浪、屍體與漂浮的碎木屑之間。
+
+你掙扎著爬向前面的海岸，但海潮卻把你朝大海的方向越推越遠。你拼盡全身的力氣蹬著水，滑動著，直到你感到了指間傳來了泥沙的觸覺。
+
+你把自己拉上岸之後，便倒在了海灘上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>與此同時，風暴幾乎將你推上了海岸。
+
+閃電的光芒照亮了一條險惡的海岸線，遠方則是俄撒斯移動的身影。
+
+瞭望員幾乎沒有時間發出警告，反抗者號就在海岸上擱淺了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你擊敗了海盜，但你仍未擺脫麻煩。
+
+襲來的風暴猛烈地衝擊著你的船隻，將你推向一片岩石嶙峋的海岸。反抗者號的船員們已經降下了船帆，開始封起了艙口。
+
+他們的動作很快，但船依然傾斜得厲害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[抓住箱子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>雖然你無法停住箱子，但你減慢了它的速度，讓奇圖帕有足夠的時間逃出去。他感激地對你點著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[推開奇圖帕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你衝向奇圖帕，把他猛地堆到一邊，之後箱子猛地砸在了艙壁上。他顫抖地點著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[警告奇圖帕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>就在這時，一個鬆動的貨箱向你撞來，在滿是雨水的甲板上速度越來越快。
+
+貨箱沒有撞上你，但卻撞倒了你手下一個叫奇圖帕的甲板水手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>反抗者號在波浪間起伏。奇圖帕被甩出了船舷外。他努力抓著欄杆，但他的手指在打滑。
+
+他大叫著尋求幫助。
+
+與此同時，那個滑動的貨箱已經到了甲板邊緣，馬上就要滑出船外。
+
+你認出了箱子前面的標識，意識到其中裝著來自努亞堡的物資。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[援救奇圖帕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[保住箱子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>在奇圖帕鬆手之際，你抓住了他的手臂。他整個人就吊在翻騰的海面之上。
+
+緊接著你用力一拖，把他拽回了甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你聽到沉重的水花聲。努亞堡的箱子沒了。
+
+此時奇圖帕感激地向你點點頭，又匆忙趕回崗位上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你趕在箱子馬上要掉下海的時候抓住了它。雖然箱子很沉，但你還是成功把它從船邊弄了回來。
+
+就在箱子重重落回甲板上時，你聽到一聲墜落時的尖叫與隨之而來的水花聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>奇圖帕掉下海了。下方洶湧的波濤中見不到他的半點影子。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

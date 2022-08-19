@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_quest_4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>116</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你把你在若賽爾的靈魂中窺見的前世記憶告訴了亞洛斯——包括她早先與撒奧斯的會面，撒奧斯關於遺跡的警告，她要處決他的決定，以及她委託瓦哈奇保衛領土免受外來者侵犯等事跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你的樣子像是看見了什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「回到那裡，跟酋長……你看到什麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你在奧里奧柯基發現什麼了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「那瓦哈奇就是塗鴉面具人了。
+
+「他們在不知情的情況下為灰鑰社的利益服務了兩千年。」亞洛斯眨了眨眼，解析著其中的含義。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「挺像他對格蘭芬瑟人講的話。」
+
+「我敢打賭，他肯定沒想到這幫土人為這個就要殺他。真想瞧瞧他當時的表情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「真的嗎？與他給格蘭芬瑟人講的故事一樣。至少瓦哈奇讓他為謊言付出了代價。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「只不過似乎沒有按照撒奧斯預期的方式罷了。」他皺起眉頭，揉了揉下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「一整個部族的人出於錯誤的起因犯了數千年的錯卻毫不自知。再典型不過的灰鑰社作派了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「聽起來不大舒服。他們仍在被他利用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「但還是不夠精明。如果我有一件事需要做兩千年的話，我應該會親自完成。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「反正是錯了。」她咬著牙，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你怎麼想的，亞洛斯？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「很少有計劃能完美地實施。撒奧斯成功地讓瓦哈奇幫他守衛遺跡——這才是重點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「計策生效純屬他運氣好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「撒奧斯詭計多端。他知道自己在幹什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「信仰是個神奇的東西。」他雙臂交叉，重新站了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「曾經，瓦哈奇堅信自己是在抵禦英格維仙人——撒奧斯的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「但時過境遷，他們開始仇視所有外來者。」他若有所思地皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「是嗎？」他的眉頭皺得更緊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「但那又怎樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「這是他們從撒奧斯那裡所學之道的合理延伸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「以亡焰列島的種種劇變來看，誰知道再過幾百年他們會信仰什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「故事與訊息會變。撒奧斯只清楚自己的，因為娥狄卡每次都會讓他徹底轉生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「看看周圍。他們的環境必然會把他們逼上那條路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「不僅僅是瓦哈奇誤解了撒奧斯的原始訊息。而是它從根本上改變了他們。」他撅起嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「他們從一個往來密切的大部落變成了被孤立主義劃分的小部族。」
+
+他的臉因焦慮而添了幾分皺紋和陰影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「難道你不好奇，是否正是承載了那個訊息才造就了那樣的撒奧斯的？」他揚起了一條眉毛，沉默了片刻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「沒錯，但它並沒有就此停止。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「如果沒有撒奧斯的干預，也許他們會做出不同的反應。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「或者會變成誰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「這讓你再一次反思自己介入所造成的後果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「但這跟你有什麼關係？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你不能把兩千年形成的變化歸因為一件事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「小事件也可能產生重大後果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「你看到我忍受了多少來自這個傢伙的愚蠢行為了吧？一個正義的潛入者正活躍在他的腦袋裡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「知我者，莫若[Player Name]。」他的苦笑並沒有消除他那憂鬱的神情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我一直在追查灰鑰社，試圖消除他們引起的危害。
+
+「但如果我只是把事情弄得更糟了呢？」內心的痛苦壓抑著他的聲音。他的話讓自己喘不上氣來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「也許……我應該承擔責任？我是否因出手干預而犯下了一個嚴重的錯誤？」
+
+透過他的傷疤、皺紋和新決意，你看到了五年前你認識的那個亞洛斯——焦慮、孤獨、渴望方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「也許不能，但我想我們永遠不會知道如果沒有撒奧斯的干預最終會發生什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「不管你是不是有意的，你都該為自己行為造成的後果負責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「不。如果你根本沒做嘗試的話，那你就該為灰鑰社持續造成危害負責了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「想想撒奧斯對瓦哈奇的瞭解有多糟糕。你對灰鑰社的瞭解又能有多深？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「沒人能知曉一切，所以我們只能利用現有資源做到最好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「撒奧斯實現了他的目標，只不過沒按照他最初設計好的路線進行。你的問題在於尋找具體和直接的結果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你無需改造灰鑰社——沒了撒奧斯，它遲早會發生轉變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「這個問題得由你自己回答。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你沒必要毀滅灰鑰社——所有事物最終都會消亡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我想那倒是真的。這是個細思極恐的想法，但也是個令人鼓舞的想法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「從哪下手呢？我很難指望自己能夠在亡焰列島之中找到一個由黑衣奴才們組成的秘密會議。」他發出了自嘲的一笑，然後陷入了沉思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「當你這麼說時，我的話倒像是一個站不住的藉口，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「你說的沒錯。也許我的期望太不現實了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「所以我應該袖手旁觀，任其發展？」他沉寂了片刻，若有所思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>他笑了起來。「我就怕你會這麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「也許我不應該認為自己知道正確的做法。或是如何付諸行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「好吧。在瞭解了來自基斯的神明之後，就很容易理解為什麼這個世界會變成一個如此……複雜的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「把艱難的決定留給別人自己則一味地聽從，這樣總歸是過於安逸了。」
+
+他一邊思索著，一邊把腦袋偏向了你這邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「但我還是沒法想像他打算毀掉整整一代人。一開始的時候。」
+
+他雙手交握，嘴唇緊閉，試圖明確闡述一個想法。
+
+當他再次開口講話時，像是在謹慎地選擇措辭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「奇怪的是，這整段經歷讓我對撒奧斯產生了一絲同情。
+
+「當然了，我並不是說寬恕他的行為。」他快速地清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>他苦笑了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「很少有人活生生地被火烤我還覺得他『運氣好』。
+
+「但我知道你的觀點了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「根據你所描述的，它顯然不是那麼回事，但我必須承認撒奧斯比極大多數人都狡猾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「他們生活在了英格維仙遺跡。這絕不是撒奧斯的本意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「嗯，我想不是。」他的眉頭皺得更緊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「很棘手，不是嗎？」他臉上的陰影更深了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我一直在搜尋灰鑰社，試圖把他們塑造成一股力量。
+
+「但如果我只是把他們變得更糟了呢？」內心的痛苦壓抑著他的聲音。他的話讓自己喘不上氣來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「不得不說，這是一個令人不安的想法。如果那是真的，那麼我們所做的每一個決定都存在隱患。沒有什麼是一定的。」
+
+他沉寂了片刻，若有所思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「也許我錯在誤以為自己可以除掉一個存活了兩千年的組織。或者它原本會是個簡單的任務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「也許我錯在誤以為自己可以改變一個存活了兩千年的組織。或者它原本會是個簡單的任務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「看來我被誤導了，就像當初的撒奧斯一樣。」他的耳朵變紅了，向你擺出一副懊惱的樣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「我們總是試圖把自己的秩序和願景強加於它。
+
+「也許當我們所有人都收手時，它反而會好轉起來。」他打探性地衝你揚起了一條眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「別這麼責怪自己。你跟他一點兒也不像。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「撒奧斯從來都意識不到自己的錯誤。現在糾正那些錯誤才是重中之重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「別無他法，唯有前進。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我也不知道……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>一絲微笑緩和了他的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「當然。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「有可能。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「聽起來會導致混亂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「我不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>他若有所思地聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「這似乎不取決於你我，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「不管怎麼說，都要感謝你，[Player Name]。你幫我卸下了肩上的重擔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「那我們就繼續前進吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「現在，我想跟你談談別的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「但也許你是對的。說到底，我怎麼能覺得自己只用一生時間就可以戰勝別人兩千年的成果呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「也許認為自己能在一生的時間裡改造一個擁有著兩千年歷史的組織的想法實在太天真了。
+
+「但它值得我一試。」他的臉上露出一絲微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「也許認為自己能在一生的時間裡瓦解一個擁有著兩千年歷史的組織的想法實在太天真了。
+
+「但它值得我一試。」他的臉上露出一絲微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「很高興看到你找回了你的使命感。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「要的就是這種精神！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「只要記著別對自己太苛刻就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「你做的不可能比維德溫的遺贈更差了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「謝謝你對我這麼有信心啊，真感人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我想說的是，他認為自己做了正確的事。即使到最後。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「也許吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「撒奧斯是邪惡的。他的行為足以證明這一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「那麼他的例子對你來說是一個警示。我們應該引以為戒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「我們都會以某種方式為自己的行為辯護。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「不會的。我有伊莎彌兒就夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「我盡量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「很精明的建議。」他點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「我現在只想知道，當我們最終面對俄撒斯時，你會做出怎樣的決定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我也想知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「我會讓他對自己的行為負責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「等我們見到他時，自然會知道。沒必要預想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「我相信他的做法是有原因的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「只要我們能恢復被破壞的，其餘的就不重要了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「我相信你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「這話在理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「那說明你比我有信仰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我贊成。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>他歎了口氣。「我擔心事情沒那麼簡單。不過，也有可能你是對的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「無論如何，向前邁進將是一種解脫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「確實如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「但我想那不會讓之前的努力失去意義，對嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>他笑了起來。「我就怕你會這麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

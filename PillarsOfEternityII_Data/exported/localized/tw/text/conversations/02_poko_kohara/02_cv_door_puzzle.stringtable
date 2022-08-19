@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_poko_kohara\02_cv_door_puzzle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>從這扇門表面的銅銹可以看出它常年風吹日曬。儘管這座拱形的青銅製門已生銹，但依然沉重厚實。
+
+門板在重力的作用下嚴嚴實實地壓在石頭上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[仔細檢查門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[用全身力氣舉門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[透過石頭縫往裡看。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>手指形狀的痕跡表明英格維仙泰坦曾經擁有舉起這扇門的力量。
+
+從這裡很難判斷是否有別的什麼東西控制著門的開閉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你在附近的石頭上找到一個奇特的螺旋狀孔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你還注意到門底部有摩擦的痕跡，很可能是之前有人用撬棍撬門時留下的。石頭上的缺口是不久前留下的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>假如有人成功進入，這扇門早就把它們關在了裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你四肢顫抖，額頭上躺下豆大的汗珠，慢慢地從地上把門抬起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你設法把門抬到了離地兩厘米的高度，但緊接著你手臂就一陣痙攣。
+
+大門落下，將周圍的石頭砸出裂痕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你隱約看到齒輪的形狀。沙粒和碎片將其卡住，幾乎已經無法轉動。
+
+你認為可以用抓鉤鉤住齒輪的內環。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你在附近的石頭上找到一個孔，孔的形狀和你之前在提卡瓦拉島上獲得的鑰匙一樣，都是螺旋形。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[插入青銅穆祖瑪海螺殼鑰匙。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你拭去了擋住孔的沙粒後，正好能把穆祖瑪海螺殼放進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你向右旋轉海螺殼。你感覺到了阻力，但很快就聽到石頭後面傳來齒輪轉動的聲音。
+
+門慢慢升起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>門開啟後，一股不新鮮的空氣撲面而來。另外，你還感覺到黑暗中存在著某種令你毛骨悚然的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[用抓鉤拽齒輪。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[把手指伸進齒輪。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你拭去裂縫裡的灰塵，用抓鉤套住齒輪。
+
+你費力拽了好幾下，最終齒輪還是伴隨著嘎吱聲艱難的轉了起來。
+
+門慢慢打開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>機械突然從內部啟動。齒輪毫無徵兆地開始猛烈轉動，狠狠地夾了一下你的手指，發出清脆的嘎扎聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你抓住了最大的齒輪，用力抖了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>一時間灰塵揚起，而齒輪也開始轉動。你及時縮回了手，沒有受傷。
+
+門慢慢升起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[用撬棍撬開門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>你把自己的重量壓在撬棍上。由於你施加的力不夠大，門並未如你預期的那樣被撬動。
+
+再這麼用力下去，你身體會受損傷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>隨著入口越來越寬，隱藏在石製結構裡的一個齒輪發出一聲響亮的卡噠聲，將敞開的大門固定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你摩擦手掌，增加摩擦力。你將手指伸進大門和地面間的縫隙，用盡全身力氣開始抬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你急忙抽出手揉著痛處。轉動的齒輪慢慢停下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你設法強行將門抬離地面一小段距離。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[撬門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[重新考慮。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你把撬棍放在一旁，重新想辦法。大門依然緊閉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>你咬緊牙關，將全身重量壓了上去。
+
+一陣疼痛從你手腕傳來，但你忍著痛繼續用力。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

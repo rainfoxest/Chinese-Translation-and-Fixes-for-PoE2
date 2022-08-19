@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax03_forgotten_sanctum\lax03_tsk_04_celestial_magic_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>天外奇石</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在&lt;b&gt;晦密之廳&lt;/b&gt;裡找到一塊&lt;b&gt;星鐵&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將&lt;b&gt;星鐵&lt;/b&gt;交給&lt;b&gt;貝卡納&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>已拿回魔典的&lt;b&gt;貝卡納&lt;/b&gt;想起了她來黑島的原因：找回一顆隕星。找到一塊&lt;b&gt;星鐵&lt;/b&gt;碎片能幫助她寫下一個獨特的法術，且她承諾與我分享研究成果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>貝卡納確信可以在晦密之廳裡的某處找到天體催化劑（即一塊充能的&lt;b&gt;星鐵&lt;/b&gt;碎片）。最近有一顆隕星落在了這個地方，因此我或許還得去&lt;b&gt;更深處&lt;/b&gt;尋找。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我找到了貝卡納要找的東西。如果我把東西帶回&lt;b&gt;啟示神廟&lt;/b&gt;交給她，她肯定會很高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我找到的書上寫道，我找到星鐵時，裡面不同尋常的幽靈或許會出來保護它。我或許能用獻出自己一部分精粹的方式安撫它們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>貝卡納死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>貝卡納成功地寫下了自己的法術。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

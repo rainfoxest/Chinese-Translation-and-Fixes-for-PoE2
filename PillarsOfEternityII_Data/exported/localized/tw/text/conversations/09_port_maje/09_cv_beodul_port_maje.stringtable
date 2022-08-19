@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_beodul_port_maje</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「該死的海盜！但願昂德拉把你們骯髒的靈魂扔到海裡去餵鯊魚！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「情況很糟糕。我們要找人幫忙把反抗者號弄回海面上去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「有什麼需要幫忙的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「盡快離開這座島嶼，我要去找那個海盜船長算帳。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「怎麼樣？看到有什麼情況嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「啊，你好，[Player Name]大人。之前中了海盜的圈套，挺不好受的吧。」</DefaultText>
+      <FemaleText>「啊，你好，[Player Name]夫人。之前中了海盜的圈套，挺不好受的吧。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我一直在想辦法安全地過去，還要確保不會斷腿或者中毒什麼的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「這個洞裡只有蝙蝠和發臭的屍體。你發現有其他人嗎？」
+
+他小心翼翼地撐著受傷的腿站起來，臉上露出痛苦的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我們在沙灘上生了一堆營火。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「還沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[撒謊]「還沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「快走吧。你已經浪費了我太多時間了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「那我就自己過去吧。到海灘上見，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我會在海灘上生一堆火。要是有人還活著的話，他們會看到煙火的。
+
+我在那等你，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「好吧，別生氣。我會在海灘上生一堆火。待會兒見吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你瞭解這個地方嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「搞定幾個陷阱我還是可以的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我看見陷阱了。我來引導你過去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「區區幾個陷阱就讓你怕成這樣？膽小鬼。難怪咱們會被那些海盜虐得七暈八素。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[離開]「我來想想辦法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[用一些大石頭提前觸發陷阱。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「這招聰明。不過好在那些陷阱不是爆炸型的。」
+ 
+「要是老英格利姆在的話，他肯定很喜歡這種玩法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「……哈！怎麼樣？我這不活得好好的嘛。看吧！我說什麼來著？波多爾大爺所向無敵！」
+
+他停下來喘氣，斜眼看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你在地上指出一條安全路線，波多爾按照指引蹣跚地走了過去，汗流夾背。
+
+抵達安全地帶之後，他終於鬆了一口氣，擦了擦眉毛上的汗水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「要是傷著了可不好受，多加小心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「現在該怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「之前那場風暴把我們搞得暈頭轉向。不清楚這是什麼地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我們自己來移動船隻的話，很難成功。不過我們還在海圖上的水域。附近肯定有村鎮的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>被你觸發的陷阱發出激烈而吵雜的金屬碰撞聲。
+
+等這一陣刺耳的聲音停止後，波多爾放下捂著雙眼的手，咧嘴大笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「什麼？你……你這白眼狼……要不是大爺幫著你戰鬥，你早就死無葬身之地了！」
+
+波多爾暴跳如雷，臉脹成了青紫色。他氣喘吁吁，憤憤不平。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「波多爾！你還活著！我看你還是老樣子，逮誰罵誰呀！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「老實說，你現在也只剩下半條命了。
+
+「很高興看到你能站起來，不過接下來要多加小心。這裡到處是陷阱，稍有不慎咱倆就粉身碎骨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「艾德爾？這不是我們一直搬來搬去的『屍體』嗎？現在看來挺鮮活的嘛。」
+
+「很高興見你們倆，不過接下來要小心了。我現在都遇到麻煩了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「呃，要是國王港跟我到過的其他瓦利亞港口一個樣，那麼我建議先辦事再喝酒。否則等你酒醒了可能底褲也不剩了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「沒漲潮的話，我們也拿反抗者號沒轍。要是你真要去追那個巨人，那我們得搞清楚往哪走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「這樣啊……你有把握就好。」
+
+波多爾站了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「你們都去死吧！亞拜登，就看你服不服我！」
+
+他艱難地站起來，帶著一臉的輕蔑，踉蹌著往前跑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你……剛才你是對我用激將法吧，真俗套。」
+
+波多爾雙手抱在胸前，緊繃著脹紅的臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「很高興見到你，鄉下仔。你們倆還好吧？之前中了海盜的圈套，應該挺不好受的吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「好啊，咱們現在有水手長了。萬事俱備了，只差一艘船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

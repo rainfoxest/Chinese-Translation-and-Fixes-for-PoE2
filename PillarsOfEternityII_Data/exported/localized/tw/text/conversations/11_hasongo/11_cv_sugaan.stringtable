@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hasongo\11_cv_sugaan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>145</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>那座燈塔很安靜，只能聽到絲絲輕語。他們喜歡反覆吟咒。
+
+然而，當你跨過門檻時，一個皮膚皴裂的年邁蛇妖突然停了下來。他轉身面對你，露出一顆破損的牙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「如果你加入了他們玷污魂珀的行列，那意味著你也加入了他們送死的行列。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「海紋惡魔派你來根除神明之樹，是吧？他們對神明對褻瀆簡直沒有止境！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「下令吧，船長。或者點點頭就行。我怎麼著都行。」
+
+麥婭的上唇捲起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>蛇妖們嘶嘶作響，露著毒牙，向你逼近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「走吧！把你的所見所聞當作警告帶給其他曳步者。」
+
+他的舌頭像被撕開的飄帶在口中翻動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「他們死得很光榮。請放尊重點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「安靜點，你們倆。我來這不是為了聽你們爭論一堆屍體的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你是說這場屠殺都與魂珀有關？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[攻擊]「我聽膩味了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我需要接近魂珀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[離開]「我現在就去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>他發出嘶嘶聲。「蠢物！看看海紋惡魔犯下了多少瀆神的罪行！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「如今，神明歸來，對這些島嶼大施懲戒。再度。」他在憤怒中把眼睛瞇成了一條縫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>蛇妖盯著發光的魂珀，他們的菱形瞳孔大睜。
+
+蘇甘將目光轉向你，他的身體警惕地半蜷著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[攻擊]「沒人能擋我的道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我是靈視者。我可以恢復魂珀，如果你讓我靠近的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「你的臭味不合我的胃口，曳步者。你怎麼又回來了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「好。把即將降臨的毀滅告知其他曳步者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[將亞納斯的靈魂引到這裡]「聽聽這個，蘇甘。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>亞納斯光亮飄渺的形態出現了，其他蛇妖皆因恐懼緊盤成結。
+
+只有蘇甘向前探著身子，伸著腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「去吧。恢復神明對魂珀的祝福。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「你是說在此之前，神明就給亡焰列島帶來過毀滅？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>他詫異地露出破碎的牙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「難道你們的傳說裡沒提到過那些災難？沒提到過曳步者的巢穴就像泡沫一樣被沖走了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「許多年以前，長沙紋的在列島上建了很多巨大的巢穴。還在魂珀根莖周圍建了不少堡壘。」
+
+聽到這裡，其他蛇妖發出了憤怒的嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「他們的干預觸怒了神明。所以神明用起伏的火山和海浪毀掉了他們的勞動成果。」他響亮地拍了下手，他的珠子和手鐲隨之嘩嘩響動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「神明看到了。他們會將建築統統摧毀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「我們的祖先藏得很深，他們所藏的海域阻擋了烈火和風暴。當曳步者還七零八落時，我們的祖先便記下了這一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「俄撒斯是為了觸碰魂珀而來，並不是來懲罰任何人的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「謊言和背叛！神明不會讓自己的根莖幹枯。」他往後退了退。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「蘇甘！我找到路了！」表情通過她的精粹脈動著，在以太中辟啪作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[背景：虛無主義者]「基斯和魔物永遠在戰鬥。這裡面沒有任何意義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>隨著亞納斯的最後一縷精粹退入暗空，蘇甘注視著魂珀礦脈，內心在不斷地盤算著什麼。
+
+最終，他把警惕的目光轉向了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「你是怎麼知道的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「所以你覺得歷史自己重演了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「如今，曳步者又開始建造了。」他用尾巴撞擊著地板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「你們夜裡排泄，只是為了天亮後把它們塗在身上。你們把自己包裹在骯髒破爛的東西裡。」他噁心得渾身哆嗦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「深淵獵手是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「群島的防禦者。潮汐的守護者。」他做了一個虔誠的手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「它曾經生活在我們之中。在曳步者不會踏足的所有明亮而安靜的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「但隨後，更多的曳步者從遙遠的地方趕來。一開始很少，到後來極多。
+
+「如今，我們的深淵獵手已一去不復返。」他瞪著你，就好像罪責在你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「貝拉斯派我來的。我來這裡是為了完成神的意志。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>他一邊注視著你，一邊用尾巴擊打著地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「看來，長沙紋的竟也被惡魔腐化了。我現在能從她的身上聞到他們的那股臭氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「我們已經跟長著沙紋的人和平共處了很久。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「我們必須得走了。我不知道這意味著什麼，但我們的同胞應該認同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>他鞠了一躬。「你今天向我們展現了新的東西，曳步者。感謝這一點。
+
+「還有你的仁慈。」
+
+他往你的手中塞了點東西，然後離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「屠殺絕不可能是神聖的使命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「那是因為他們殺了你的族人，搶了你的地盤。他們看待事物的方式與眾不同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「現在呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「但是按誰的規矩來呢？」他惱怒地擺了擺尾巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「也許不是。我在這個曳步者身上看到了貝拉斯的印記。」他注視著你的額頭及其扭曲的皮肉。
+
+他的舌頭吞吐著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「如果這不是肥舌頭謊言，那就證明給我們看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>[施展祝福術。]「我召喚神明，他們會傾聽。別再質疑我——或是神明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>他和其他蛇妖向後退縮，驚訝地發出嘶嘶聲。
+
+最後，蘇甘直起了身子，用警惕的眼神盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「治癒這魂珀，曳步者。如果你可以的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「這話你之前就說過。可你又回來了。
+
+「我們不能相信你這厚舌的鬼話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>「又一個海紋惡魔，來這裡根除神明之樹！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>他的頭猛地扭向她，舌頭不停地吞吐著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「你們這些長沙紋的應該更清楚。當初，你們留下這些根，任其生長。
+
+「如神明所願。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「沙紋曳步者更清楚。但來的卻是你們——要麼聲音柔和、要麼一身毛、要麼長著海紋——還熱衷於褻瀆神明。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「如今，外來者挖掘這些根莖，我們的身邊卻沒有了深淵獵手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「此刻你卻讓外來的惡魔挖掘這些根莖。他們趕走了深淵獵手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「神明之樹，沒錯！正是&lt;i&gt;這些&lt;/i&gt;惡魔掠奪和玷污的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「你想讓我傳達什麼『警告』？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「曳步者不得染指這些根莖。否則，神明會再度摧毀列島。」
+
+其他蛇妖發出了贊同的嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「『長沙紋的』——你是在指胡亞納人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>泰克胡長歎一口氣，抬手摸了摸額頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「胡亞納文明的確遍佈整個群島，但在魂珀周圍興建廟宇的是英格維仙人啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>他發出嘶嘶聲。「不是他們獨自建的！長沙紋的幫了他們。
+
+「就像他們現在幫助其他惡魔一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>他冷冷地盯著著麥婭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>[攻擊]「我聽膩味了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>「如果你的肥舌頭所言非虛，那就證明給我們看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>「你想怎麼證明？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>「聽著，厚舌頭愛說謊。分叉的舌頭只說真話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>「如果你說的是真話，那你肯定能跟死人說話了。」他歪著腦袋，用一隻眼睛打量你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>「除非你的話是從我們族人的舌頭上吐露出來，不然我是不會相信的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>「你們曳步者真是獸性難改。你們不吸取教訓。你們不做出改變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>「路變得黑暗。但這個[player race]帶來了光亮。」她短暫地轉向你。
+
+但蘇甘那長滿碎牙的嘴仍僵著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>「嘶！亞納斯，我們會殺掉這個曳步者，解脫你的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「蒼老的鱗片蒙蔽了你的雙眼？[player race]散發著光芒。就像神明巨人一樣。
+
+「就像那條路。」她望向昏暗無光的魂珀礦脈。蘇甘和其他人順著她眺望的方向看去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「他將開闢那條道路。」
+
+亞納斯在開始消失時指向你。</DefaultText>
+      <FemaleText>「她將開闢那條道路。」
+
+亞納斯在開始消失時指向你。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「亞納斯？你死了。我們看到——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「我就站在這兒……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「聽她說，蘇甘。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「那樣沒用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>「我只是想幫忙！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「我會讓你的靈魂解脫，毒蛇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>亞納斯轉向蘇甘，發出憤怒的嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「他們的祖先，沒錯！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「曳步者的厚舌頭上滿是對神明的褻瀆！趕快殺了他，蘇甘。」另一隻蛇妖蜷起身子，蓄勢待發。</DefaultText>
+      <FemaleText>「曳步者的厚舌頭上滿是對神明的褻瀆！趕快殺了她，蘇甘。」另一隻蛇妖蜷起身子，蓄勢待發。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>「神明的確賦予了你力量。但是足夠嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>「你這個愚蠢的爬蟲，證明就是我已經痛扁了你的僕從。單槍匹馬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>蘇甘用警惕的眼神盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「不要回來了。除非帶著神明祝福過你的證明。」
+
+蛇妖目送你離去，他們的手緊握著武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「不要回來了。」
+
+蛇妖目送你離去，他們的手緊握著武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>「我們曾確信神明巨人前來驅逐他們。以為趕走他們是個神聖的使命。」他的眼中充滿了好奇和驚愕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>「但後來，外來者來了，散步各處。還屠戮我們的人民。到處建造他們的巢穴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>「還不錯的鄰居。只要我們別在交配的季節撞上他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>「荒唐。你攻擊你看到的每一艘船。胡亞納人也許不喜歡我們，但他們至少願意跟我們&lt;i&gt;交談&lt;/i&gt;。」 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>「你的路子不太友善。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>「你從來沒為保衛什麼而戰過。非常幸運。
+
+「也可以說成懦弱。」他惱怒地擺了擺尾巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>「曳步者會找很多故事辯解他們的飢餓和暴力。」他惱怒地擺了擺尾巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>「比起我們之間的不和，神明更值得擔憂。我們必須學會共存。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>「揣測神明的意志毫無意義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>「你應該驅逐他們。你只是沒痛擊他們罷了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>「這不是個選項，毒蛇。我打賭你一定清楚自己毒害過多少善良的士兵。」
+
+麥婭瞇起眼睛，掏出了武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>「聽你的，麥婭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>「所以現在他欠我們了。債比鮮血更有用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>「這裡已經有太多亡魂了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>[攻擊]「你是對的。我們應該為你的陣亡將士報仇雪恨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>「殺了他也不能換回他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>「為我的同胞報仇！」
+
+麥婭喊出了戰鬥的口號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>「算了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>[攻擊]「那樣就沒意思了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>「那是懶漢和不願從自己的蛻皮中爬出來的軟腹者的答案。」他惱怒地擺了擺尾巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>「我希望你的首領能看到你的這份魄力。」他懷著敬意衝你點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「這原本不過是場簡單的戰鬥。島嶼多而險要，曳步者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>「嘶！思想跟蛻皮一樣空洞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>「他們得到了所應得的。凡掠奪與褻瀆神明珍寶者，也必如此！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>「那就走啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>「你一直提到的『曳步者』是什麼人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>他不耐煩地發出嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>「你的同類！有許多不同的類型，有些肉多，有些毛長，其他有著沙或海色的條紋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>「全都跌跌撞撞的，如同剛從蛋裡孵出的幼崽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>「那聽起來確實像神明的行徑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>「神明絕不只是懷著惡意的巨人，你知道的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>「他們原本靜臥著，直到曳步者跌跌撞撞地踏上了自己不該涉足的地方。
+
+「隨後，他們發起了迅猛的攻擊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>「是，他們做的一切都是有目的的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>「神明呼風喚雨。召喚月亮。如果他們想摧毀哈桑戈，那他們連一塊石頭都不會留下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>「魂珀不是會枯萎的根莖，而是精粹的通道。這個只是堵上了——我可以證明給你看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>「魂珀不是會枯萎的根莖，而是精粹的通道。這個只是堵上了——我可以證明給你看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>「說重點吧。你想要什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>[仰望。]「貝拉斯，這將是你顯靈的絕佳時機……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>什麼都沒發生。蛇妖仍好奇地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>「船長？」
+
+麥婭轉向你，她的右眼在抽動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>「復仇救不回你失去的人，士兵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>「逗你的。我可以用蛇皮手套了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>「退下。這是命令。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>「冷靜一下。我還有更重要的仗要打。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>麥婭咬牙切齒地收回武器，解除戒備狀態，雙拳卻在身體兩側緊攢著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>「好，好……船長。」</DefaultText>
+      <FemaleText>「好，好……女士。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>「無論我們航行到哪裡，海灘和失落都烏凱佐的尖塔 都與我們同在。」
+
+他懷著敬意雙手合十。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

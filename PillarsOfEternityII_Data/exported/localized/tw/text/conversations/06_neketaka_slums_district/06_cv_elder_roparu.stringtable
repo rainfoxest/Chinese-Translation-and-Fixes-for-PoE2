@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_elder_roparu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>185</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一名羅帕魯老人朝你的方向斜視了一眼，然後誇張地眨起眼來。他光著腳蹣跚地靠近你，腳踩在他住所裂開的地板上發出啪啪的聲響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我見的東西多了。只不過我用……這雙眼睛看東西的方式和其他人不同罷了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「說吧，我聽著呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我在找一個叫做潛民街的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「說說峽谷的事。這裡有什麼歷史？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你指的是盤踞在峽谷深處的黑市。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我在這座峽谷裡住了很多年。我的髮膚一年年乾枯老去，因此羅帕魯人稱我為『大人』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「時間與悲劇讓峽谷成為了一片低賤與擁擠之地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「守衛們已經盡了最大努力，但這無異於杯水車薪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「儘管你看到了我並非體格高大健碩。不過如果峽谷內出現爭端，我一定會將其解決——這點我可以向你保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我們羅帕魯人曾居住在城市中的上好地段。然而美好時光短暫，我們的舊城也成為了涅克塔卡之下的廢墟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「早在異鄉之人如潮水般湧入之前，一場海底地震毀滅了我們的城市，群山也隨之崩塌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「許多人向昂德拉哭號著，但無論如何努力最終還是無濟於事。」他垂下的眼瞼忽閃不停。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「現在馬塔魯將我們遣至舊城的廢墟中接受懲罰。那個深坑之中只有黑暗與死亡。其中不是沉默，而是終結。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我聽到了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>老人努力擠出一個微笑。他把頭傾向你，表示他已經意識到你的出現了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>老人的手臂和樹枝一樣細。僅剩的牙齒因為常年營養不良而又黃又黑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「有人說你能告訴我峽谷中的飢餓問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「這就是胡亞納人之道：我們網中捕到的魚都屬於整個部落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「晨星會供給我們食物，但守衛禁止他們濫用分享的手段。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「不過近日來，我們什麼都沒找到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「發生了什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText> 「烏羅格從不延遲送貨，一直盡職盡責。是個好孩子。
+
+「他一言不發消失這麼多天……肯定是死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「你說羅帕魯人受到了創傷？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>他直直的盯著你的臉，同時眼睛越眨越快。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你能看到我嗎？你怎麼知道我是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「你是追蹤俄撒斯的靈視者，人們都說你是個宅心仁厚的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你是追蹤俄撒斯的靈視者，很多人聽聞過你的惡名。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你的腳步聲就像遠處的雷聲。風輕聲告訴我有個追蹤俄撒斯的靈視者來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「你是追蹤俄撒斯的靈視者，人們都說你是個宅心仁厚的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「你是追蹤俄撒斯的靈視者，人們都說你是個宅心仁厚的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「你為自己贏得了相當令人恐懼的名聲，追蹤俄撒斯的靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「女王拒絕提升我們的份額。沒有了烏羅格的貨物，我們肯定會餓死的。我問問你，我們還能怎麼做？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「晨星之前打算幫助你們的。我們可以利用他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我可以通過黑市重建走私行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「皮特莉是一名晨星之子，也是峽谷中最受珍視的治療者。我想她肯定很願意聽取你的請求。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你需要一名舉薦者。我會代表你去和巨蛇王冠的皇族談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「也許你能完成我的族人未競之事。請為我們帶回王冠，我們羅帕魯人將永世感激你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>如果有更多羅帕魯人與皇族海盜一同工作，他們就會繼續供給食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「晨星會分享其穀物，而皇族海盜會通過潛民街進行走私。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「女王會加倍努力幫助你們繁衍生息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「晨星會分享自己的穀物，而女王則會把大部分都分配給峽谷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「我別無選擇，只能希望……這次冒險的結果好過上次。我們會接受皇族海盜的慷慨並十倍償還。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「我真不知該如何感謝你，擁有基斯與諸神之耳的靈視者。羅帕魯人將永遠銘記你的善良。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我曾懷疑晨星與犯罪相勾結，但你打消了我的疑慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我此生已無他求——能獲得女王大人的慷慨便是我畢生所願。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我聽說有使者在峽谷中分發食物，儘管我並不相信這是真的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>他那雙烏黑的雙眼看向天空。齒間傳出一聲歎息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「你是追蹤俄撒斯的靈視者，很多人聽聞過你的惡名。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「你為自己贏得了相當令人恐懼的名聲，追蹤俄撒斯的靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我能聽到你的呼吸聲，小子。」</DefaultText>
+      <FemaleText>「我能聽到你的呼吸聲，姑娘。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「如果你說是諸神派我前來，那你就錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「是什麼讓羅帕魯人承受如此苦難？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「這個地方就像一處鮮血淋漓的傷口。該將它好好清理一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「我也聽到羅帕魯的心跳越來越微弱與痛苦。現在一位靈視者來到了峽谷，正如亞彌拉向我展示的那樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[離開]「我會考慮的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「羅帕魯人被從頭到尾完全壓垮了。我們慢慢承受著飢餓，簡直痛苦萬分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「不管怎樣，你不會白白出力。是這個意思吧，小子？」</DefaultText>
+      <FemaleText>「不管怎樣，你不會白白出力。是這個意思吧，姑娘？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>他做了個表情，露出參差不齊的灰狀牙齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「我仍然能聽到你的呼吸聲，小子。」</DefaultText>
+      <FemaleText>「我仍然能聽到你的呼吸聲，姑娘。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我能聽到世間萬籟，比如地平線上一位神明的腳步聲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>羅帕魯長者深鞠一躬打算離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「其實是有位快餓死的乞丐要我和你談話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>他的眼瞼半垂著，陷入了沉思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「我沒有錢財作為報酬，但羅帕魯人絕不會忘記你的善意。只要你幫幫我們，全涅克塔卡都會讚頌你的名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「就這麼說定了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「讓我考慮考慮吧。也許諸神會要我幫助你們呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「既然你不說話也不離開，或許你會聽的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「所有的熟食都屬於整個部落。於是全部落便會自上而下進行分享——按需分配，迫切者優先。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「為什麼羅帕魯人在部落的分配中排在了最後？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「聽起來這種方式很糟糕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「當然，這樣是最有道理的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「此乃人生之道。」他的喉嚨中艱澀地吐出幾個字眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「此乃人生之道。」他的喉嚨中艱澀地吐出幾個字眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「馬塔魯冒著生命危險保護部落。庫亞魯提供了精緻的貨物與服務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「曾有一位找到了我們，並居住了一段時間。但皮特莉死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>老人的雙眼閃著淚光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>老人的雙眼閃著淚光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「好餓……難道諸神俗務纏身，以至於無暇顧及這山中之事嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>老人聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「不該有人承受這些。不該如此的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>艾德爾看著你，深吸一口氣憋住，並示意你做同樣的事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「現在你同伴的呼吸聲沒了，但在一個勁地擺動手臂。他腦子是不是有病啊？你收留這麼個傻子，肯定是個好心人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「你還沒見過更誇張的呢。」裘荻搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>艾德爾看著你，深吸一口氣憋住，並示意你做同樣的事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「你還沒見過更誇張的呢。」裘荻搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「現在你同伴的呼吸聲沒了，但在一個勁地擺動手臂。他腦子是不是有病啊？你收留這麼個傻子，肯定是個好心人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「那些滿臉痘痕的蠢貨怎麼不去拿毛巾把海水吸乾呢，真是癡人說夢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>老人點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「奧涅卡莎會聽到的。這座島因為她的關係才能心繫一處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>他的目光斜向一側，眼神遊離著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「這想法不錯！我的同胞對任務之類的事情最有興趣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>他的目光斜向一側，眼神遊離著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「希望別是那麼瘋狂的人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「如果連本地人都無法養活自己，我真不知道努瓦泰人能圖個什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「好吧，希望這隻是個臨時方案。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「不算是個完美的選擇，但眼下也只能如此了。我能理解。」他苦笑了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「只要別再因為相同的理由而出了問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「如果本地市場不能供給，非法市場自然就成了唯一選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「解決了溫飽，海盜付了錢。大家臉上笑咪咪。這一手真高啊船長，簡直趕上雷馬洛本人了。」
+
+塞拉芬微微一笑拍拍肚子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「我之前也這麼考慮過……為達目的不擇手段。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>他的下巴抖了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「如果女王都不能養活自己的子民，我覺得幾個異鄉人也改變不了什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「靈視者。這裡會永遠歡迎你。我對你的善意無以為報。」
+
+老人向你低下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「我們還能如何解決食物短缺問題？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「如果我們無法說服馬塔魯或皇族海盜，也許晨星可以幫忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「曾有一位找到了我們，並居住了一段時間。但皮特莉死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「皮特莉是一名晨星之子，也是峽谷中最受珍視的治療者。我想她肯定很願意聽取你的請求。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「至少這個黑暗而動盪的地方還有著虔誠的信仰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「這如同翻江倒海的聲音……終於有昂德拉的後裔來見我了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「哼。什麼事，小子？」</DefaultText>
+      <FemaleText>「哼。什麼事，姑娘？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「我聽說的事情也不少。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>他黯淡的雙眼游離著，最後定格在你的臉上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「部落對羅帕魯人的照顧要勝過我們對部落的貢獻。至少在我們人數飛漲之前是這樣的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「曾有個幫助我們的善良海盜名叫烏羅格。他與某個皇族海盜船長——人稱瘋狂的莫萊娜——為我們從黑市帶來食物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「願你能與烏羅格一樣幫助我們。但別落得和他同樣的下場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「如果你在涅克塔卡需要庇護，請記得羅帕魯人永遠是你堅實的後盾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「你必須要找到潛民街，小子。那裡有一座升降機可以帶你到海盜出沒的地方。你肯定能在那裡找到烏羅格的聯繫方式。」</DefaultText>
+      <FemaleText>「你必須要找到潛民街，姑娘。那裡有一座升降機可以帶你到海盜出沒的地方。你肯定能在那裡找到烏羅格的聯繫方式。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「也許高階女祭司會願意幫助我們。她在聖梯中的岡恩神廟布道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「也許高階女祭司會願意幫助我們。她在聖梯中的岡恩神廟布道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「我知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「我們田中的果實同樣屬於整個部落，我們口袋中的錢財不歸個人所有，而是集體共享。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「你知道的，我們網中捕到的魚都屬於整個部落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「當然了。」他微微一笑，露出褪了色的牙齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「你的部落中羅帕魯人不是排在最後嗎？至少在卡罕加是這樣的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「我對虛名沒興趣。你還有什麼能給我的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「在我同意之前，我需要情報。我該如何去潛民街？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「這個，我不知道。巨洞也許有人能告訴你更多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「的確，你不像是在乎名聲的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「也許你對趁手的好武器更有興趣。靈視者，只要你幫助我們，我就告訴你一把神兵利器的所在之地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>[離開]「你們的悲慘遭遇與我無關。換個人吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「等等！」他急切地拽住你的袖子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「等等！」他急切地拽住你的袖子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「我沒有錢財作為報酬，但羅帕魯人絕不會忘記你的善意。只要你幫幫我們，全涅克塔卡都會讚頌你的名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「我對虛名沒興趣。你還有什麼能給我的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>「告訴我如何前往潛民街。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「這就夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「的確，你不像是在乎名聲的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「也許你對趁手的好武器更有興趣。靈視者，只要你幫助我們，我就告訴你一把神兵利器的所在之地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「這個，我不知道。巨洞也許有人能告訴你更多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「沒問題，只要你幫助我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「好吧，我會幫忙的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「發發善心吧，小子——我的族人命不久矣！我說什麼都無法打動你嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「好吧，我會幫忙的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>[離開]「不了，再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>「我不知道如何前往，但酒館也許有人知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>「願亞彌拉保佑你，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>「保重，老頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>「等等，你保證過要告訴我某把劍的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>「願亞彌拉之風永遠吹拂你的船帆，小子。我們永遠不會忘記你的付出。」</DefaultText>
+      <FemaleText>「願亞彌拉之風永遠吹拂你的船帆，姑娘。我們永遠不會忘記你的付出。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>「沒錯沒錯，我是說過。」他點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「幾個月前，正如暴風如同寒冬巨獸親自出現般肆虐時，某個女人出現在峽谷中，手裡握著一把火焰長劍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「我不安地聽著她走過大橋。她身上交織著悲傷與憤怒，時而對劍咆哮，時而向附近的羅帕魯人長嘯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「最後她發出怒號，把劍丟下了大橋。
+
+「它掉到了下方的舊城，我想它現在應該還在那裡吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「如果你不知道如何前往潛民街，巨洞也許有人能幫到你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>老人雙手緊握在一起點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「我在峽口找到了烏羅格的屍體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>伊諾頓了一會，撲閃著他的黑色眼睛。然後他深深吸了口氣，又一下子全部呼出來。他的呼吸中混雜著膽汁與疾病的氣息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「看來和我恐怕的一樣。和我說說——他怎麼死的？至少是一下子結束的？沒受什麼罪吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「他是被打死的。似乎持續了一段時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>[撒謊]「他死得很痛快。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「他是被打死的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>[撒謊]「我只找到了一些殘肢斷臂與一份筆記。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「那麼峽谷又收下了一條人命。」老人默默歎息著，乾枯凸節的手指交叉在眼前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「噢。」他的喉嚨中發出一小聲哀歎。他的雙手顫抖著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>老人的雙肩向前垂下，他又發出一聲歎息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>老人的雙肩向前垂下，他又發出一聲歎息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>「我必須想想要向人們說點關於峽谷別的東西。那樣……那樣不行的。」他緩緩地搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>「謝謝你的誠實，靈視者。很少有人會將可怕的真相全部講出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>「那麼峽谷又收下了一條人命。」老人默默歎息著，乾枯凸節的手指交叉在眼前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>「我-我很抱歉讓你看到這些。這是不對的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>「至少……他沒受什麼苦。」他緩緩地點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>「要是馬塔魯願意履行他們的職責，我們的族人就不會成為徘徊於峽口的各種惡人兇徒的砧上魚肉。」
+
+他因為憤怒而微微發抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>「我明白了。我會做出自己的決定。」
+
+他乾枯凸節的手指交叉在眼前。他露出了精疲力竭的神情，有那麼一會兒彷彿已不打算再和你說話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>「感謝你傳來的消息，靈視者，儘管不是什麼喜訊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>「告訴我如何前往潛民街，然後我會考慮幫助你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>「如果你不知道如何前往潛民街，巨洞也許有人能幫到你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

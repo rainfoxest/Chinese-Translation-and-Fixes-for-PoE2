@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_ghost_ship_first_contact</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一片濃霧不知從哪裡湧到海上，從你的船上只能看清楚不到十幾英尺開外的地方。霧來風止。海浪平靜。[Player Ship]漫無目的地漂著，船上唯一的聲音是水手們的呻吟聲，好像是害怕即將發生的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>詭異的綠燈透過濃霧射來，一艘大帆船的輪廓逐漸駛近。黑帆雖然破爛，但卻順著清新脫俗的海風，帶著船快速向前乘風破浪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>那艘船的船長骨瘦如柴，穿著生銹的盔甲，眼睛陰森恐怖，從那艘腐爛的大帆船的後甲板上觀察著你。她用兩根消瘦的手指輕敲她的胸部，然後指著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>船消失在霧中。幾分鐘後，霧散風起，吹得你的帆窸窣作響。大海清澈深邃。另外那艘船已不見蹤影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「死亡女神標記的東西，我絕不會去染指。」她嚴肅地點頭，然後腦袋一歪，駕船而去。
+
+當漂浮吊死鬼號轉向，好幾個不死族水手蹣跚走過甲板，希望看一眼你的船員。他們抓撓著腐朽的欄杆，頭在他們暴露在外的脊柱上轉動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

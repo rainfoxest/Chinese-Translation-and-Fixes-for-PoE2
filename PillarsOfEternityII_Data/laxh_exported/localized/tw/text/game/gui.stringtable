@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>結束回合</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5170</ID>
+      <DefaultText>使用的行動</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5171</ID>
+      <DefaultText>每回合{0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5173</ID>
+      <DefaultText>先手權</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5174</ID>
+      <DefaultText>動作類型</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5175</ID>
+      <DefaultText>自由</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5176</ID>
+      <DefaultText>標準</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5177</ID>
+      <DefaultText>施展</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5178</ID>
+      <DefaultText>回合制模式</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5179</ID>
+      <DefaultText>自由行動</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5180</ID>
+      <DefaultText>標準行動</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5181</ID>
+      <DefaultText>施展行動</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5195</ID>
+      <DefaultText>無移動</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5199</ID>
+      <DefaultText>選擇遊戲模式</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5200</ID>
+      <DefaultText>帶暫停的即時制模式</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5201</ID>
+      <DefaultText>回合制模式</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5202</ID>
+      <DefaultText>回合制模式提供了另一種遊戲形式，在該模式下，戰鬥的每回合裡各角色將在輪到自己時行動。
+
+‧&lt;indent=2.5em&gt;另一種遊戲模式。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;強調戰鬥的策略元素。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;提供節奏舒適的體驗。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;建議喜愛回合制遊戲的玩家體驗。&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5203</ID>
+      <DefaultText>帶暫停的即時制是《亡焰》的經典遊戲模式。該模式下，戰鬥為即時進行。
+
+‧&lt;indent=2.5em&gt;經典的遊戲模式。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;戰鬥節奏更快且更注重動作要素。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;任意時刻都可暫停以協助玩家控制節奏。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;建議喜愛經典的帶暫停的即時制遊戲的玩家體驗。&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5205</ID>
+      <DefaultText>可用行動</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5206</ID>
+      <DefaultText>可用移動</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5207</ID>
+      <DefaultText>當前回合</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5208</ID>
+      <DefaultText>下一回合</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5229</ID>
+      <DefaultText>{0:Value:PercentBonus}先手權</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5230</ID>
+      <DefaultText>遠程武器{0:Value:PercentBonus}先手權</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5231</ID>
+      <DefaultText>移動時{0:Value:InvertPercentBonus}遠程先手權</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5232</ID>
+      <DefaultText>{0:Value:PercentBonus}物品先手權</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5233</ID>
+      <DefaultText>{0:Value:PercentBonus}雙持武器先手權</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5234</ID>
+      <DefaultText>{0}裝填先手權</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5235</ID>
+      <DefaultText>選擇帶暫停的即時制</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5236</ID>
+      <DefaultText>選擇回合制</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5237</ID>
+      <DefaultText>先手權</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5239</ID>
+      <DefaultText>‧&lt;indent=2.5em&gt;角色只有在輪到自己時才能行動。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;冷卻時間變為「先手權」——先手權較低者可在一回合中優先行動。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;裝填時間影響「先手權」，這些武器將在回合之間裝填。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;施展時間較長的法術將按回合順序在晚些時候完成施展。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;雙持自動攻擊現在變為全武器攻擊，且不再影響冷卻時間。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;持續時間變為持續的「回合」數。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;每隔一段時間生效一次的效果的效力已得到調整，以與每回合數值相一致。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;瑪珈嵐的挑戰不再限制暫停次數，而是給每回合加上了時間限制。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;已禁用隊友AI和重新瞄準。&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5240</ID>
+      <DefaultText>‧&lt;indent=2.5em&gt;所有角色可同時行動。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;可使用暫停以獲得更多時間做出困難的決定。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;冷卻時間機制決定角色可執行行動的頻率。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;效果的持續時間實時倒數計時。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;可使用隊友AI幫助自動角色行動。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;法術或戰技開始後，可使用重新瞄準選項變更其目標位置。&lt;/indent&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5241</ID>
+      <DefaultText>行動後切換結束回合</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5243</ID>
+      <DefaultText>{0} ‧ {1}先手權</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5244</ID>
+      <DefaultText>敵人回合</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5245</ID>
+      <DefaultText>你的回合</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5246</ID>
+      <DefaultText>友方回合</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5247</ID>
+      <DefaultText>清空下一先手權</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5248</ID>
+      <DefaultText>切換武器套裝為自由行動</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5250</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+一開始就擁有一個額外的武器套裝和武器熟練。
+
+切換武器為自由行動。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+持續&lt;xg&gt;恢復&lt;/xg&gt;能力減弱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5251</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+街鬥士受夾擊或重傷時，偷襲更加致命，先手權減少。
+
+街鬥士同時受夾擊和重傷時，武器暴擊傷害增加。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+當街鬥士既未受夾擊亦未重傷之時，先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5252</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+攻擊4米之外的目標時，「命中到暴擊」的轉化獲得加成。
+
+攻擊距離4米以內的目標時，獲得額外穿透。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+先手權增加。
+
+格擋降低。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5253</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+咒法系法術的力量等級增加。
+
+獲得「召喚魔寵」法術：召喚一個生物來協助法師。魔寵不擅長戰鬥，但可以為主人提供被動加成。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用塑能系和幻術系法術。
+非咒法系法術的先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5254</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+附魔系法術的力量等級增加。
+
+獲得「自由行動」被動效果：當法師受敏捷減益狀態影響時，他們會清除該減益狀態並短暫對該狀態免疫，每場戰鬥一次。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用幻術系和變化系法術。
+
+非附魔系法術的先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5255</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+塑能系法術的力量等級增加。
+
+塑能系法術有較小几率產生「雙重施法」，即立即對目標再次施加法術的傷害和效果。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用變化系和咒法系法術。
+
+非塑能系法師法術的先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5256</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+幻術系法術的力量等級增加。
+
+獲得「反射鏡面」被動技能：首次遭到攻擊時，自動獲得「鏡影術」效果，每場戰鬥一次。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用咒法系和附魔系法術。
+
+非幻術系法術先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5257</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+變化系法術的力量等級增加。
+
+獲得「狂暴化身」法術：法師變身為食人魔。變身後，無法使用法術，但各項體能屬性增加。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用附魔系和塑能系法術。
+
+非變化系法術的先手權增加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5267</ID>
+      <DefaultText>敵方效果獲得{0:Value:DurationBonusTurnBased}持續時間</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5268</ID>
+      <DefaultText>增益狀態獲得{0:Value:DurationBonusTurnBased}持續時間</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5269</ID>
+      <DefaultText>{0:Value:DurationBonusTurnBased} {0:AfflictionType}減益狀態持續時間</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5280</ID>
+      <DefaultText>在回合制模式下，隊伍回合在{0}之後自動結束。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5304</ID>
+      <DefaultText>延遲回合</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5305</ID>
+      <DefaultText>Beta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5306</ID>
+      <DefaultText>輪到你了</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5307</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5308</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5311</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

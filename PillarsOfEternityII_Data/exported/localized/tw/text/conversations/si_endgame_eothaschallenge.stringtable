@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_endgame_eothaschallenge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>當貝拉斯聲明她的存在時，你感覺到自己正被一股冰冷的壓力籠罩著。她什麼也沒說，但她的反對態度像暴風雲一樣懸在頭頂。你行動不夠快，她已前來收集。突然，她猛拽從你胸口伸出的一根金線，張力足以敲響她放在那裡的鈴——現在正如鐘樓一般在你耳中鳴響。它的力量將你的身體和靈魂分離，你尖叫著進入靈界。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在這個生命陷入模糊之前，你感覺自己聽到了雷聲在遠處迴盪——就像有人帶著攻城槌來到這個世界一樣。無論他是誰，俄撒斯都得到了他想要的。在你意識到這一點之前，你已經——拋開了一切憂慮。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

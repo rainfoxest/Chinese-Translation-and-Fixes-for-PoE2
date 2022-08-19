@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\23_vtc_between\03_si_xaurip_tunnel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你湊到雕像嘴部，看到一處四散著塵埃與岩石的粗糙隧道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>爬入</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>離開</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>狹窄的隧道七扭八歪，到處是岩石形成的天然溝坎。狹縫很窄，但你還是成功從中擠過繼續向前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你甚至沒有什麼空間轉身，不過你可以倒退著慢慢走出隧道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>隧道變得開闊起來，面前出現了一條岔道。
+
+東方似乎能看到岩石反射出的光線作為提示。
+
+北側依稀能聽到流水落下的迴響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>走北側隧道</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>走東側隧道</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>退回隧道外</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你朝著光線前進，走了不久便到了隧道入口附近的一處洞穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你跟隨著水聲連爬帶擠一路前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你在狹窄的隧道行進過程中，塵土變得愈發泥濘，讓通道地表潤滑起來。
+
+[Slot 2]表示還是暗一點好，因為到處都是泥巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>隧道突然一個急轉彎向下，滑膩而泥濘的地面將你摔到一塊地底湖上方幾英尺突出的石頭上。
+
+上方細小的陽光照亮了整個洞穴，映照出你腳下的黑色湖水與遠處聳立而起的瀑布。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你在狹窄的隧道行進過程中，塵土變得愈發泥濘，讓通道地表潤滑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>照亮洞穴繼續調查</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>進一步檢視洞穴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>沿泥濘隧道返回</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你慢慢沿路走回隧道中，努力在泥濘的斜坡上攀爬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>巖壁上有一處缺口，是某條黑暗隧道的入口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>爬入</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>離開</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>隧道繼續在巖壁間彎曲向前，形成了一處岔路。
+
+北方依稀有水落的聲音。
+
+西方的小徑似乎緊窄無比，崎嶇難行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>走西側隧道</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>退回隧道外</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>湊近水面查看</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你輕鬆轉身返回了小洞穴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>隧道空間狹窄無比，你被迫手腳並用連爬帶推繼續向前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>再向前之後，你總算能夠重新自由活動，而微弱的火炬光線也照亮了隧道的出口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>取走寶石</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>使用裘荻的燈籠照亮洞穴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>光亮增強之後，你得以看清周圍更加詳細的情況。
+
+洞穴的牆壁經過數百年流水的洗刷，似乎已變得光滑無比。光線沒有辦法穿透水下，因而看不清湖底的情況。
+
+不過在你腳下有小堆寶石與閃閃發亮的金屬，可能是神廟內的蜥人擺放於此的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>僅靠暗淡的光線，除了陽炎術照射到的範圍之外幾乎都無法分辨。
+
+從你看到的一小部分來看，這處地下湖足以容下兩艘以上的船隻，甚至還綽綽有餘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你在海邊的小石堆四處挑挑撿撿，將沒用的金屬扒拉開，收集了不少寶石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你在泥巴裡手腳並用，總算又爬上了斜坡頂端。你還沒來得及組織下降，[SkillCheck 0]就失去平衡滾下了隧道，卡在了巖縫之間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你在泥濘中左掙右扎總算回到了頂端，然後從另一頭輕鬆地滑下了隧道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你回到了隧道的岔口：
+
+東邊可以隱約看到巖縫中透出的光亮。
+
+西邊的隧道越來越窄，應該不是很好走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你費了半天勁總算把[SkillCheck 0]從隧道中清理出來，然後繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

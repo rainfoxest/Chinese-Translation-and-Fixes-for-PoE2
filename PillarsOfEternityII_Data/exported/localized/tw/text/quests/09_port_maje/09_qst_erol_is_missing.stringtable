@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\09_port_maje\09_qst_erol_is_missing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>信仰與金錢</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>與&lt;b&gt;艾娜麗絲&lt;/b&gt;談論有關&lt;b&gt;奧斯瓦爾德&lt;/b&gt;之事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>將&lt;b&gt;奧斯瓦爾德的日誌&lt;/b&gt;交給&lt;b&gt;卡恩&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>在&lt;b&gt;卡拉海峽&lt;/b&gt;附近找到古代神殿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>尋找&lt;b&gt;縛誓者聖殿&lt;/b&gt;裡的&lt;b&gt;奧斯瓦爾德&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>與&lt;b&gt;奧斯瓦爾德&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>與&lt;b&gt;奧斯瓦爾德&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>從&lt;b&gt;奧斯瓦爾德&lt;/b&gt;身上拿走&lt;b&gt;卡恩的錢&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>干預，或者看著他們解決。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>搜尋&lt;b&gt;奧斯瓦爾德&lt;/b&gt;的屍體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>與&lt;b&gt;奧斯瓦爾德&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>與&lt;b&gt;奧斯瓦爾德&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>回去找&lt;b&gt;卡恩&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>回去找&lt;b&gt;卡恩&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>回去找&lt;b&gt;卡恩&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>干預，或者看著他們解決。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>回去找&lt;b&gt;卡恩&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;卡恩&lt;/b&gt;請求我幫她找到一個欠了她5000銅幣的老精靈&lt;b&gt;奧斯瓦爾德&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>卡恩提到說奧斯瓦爾德喜歡&lt;b&gt;艾娜麗絲&lt;/b&gt;，她是&lt;b&gt;野牝別館&lt;/b&gt;&lt;b&gt;二層&lt;/b&gt;裡的一個交際花。
+
+卡恩跟我說艾娜麗絲拒絕跟她透露有關奧斯瓦爾德或者他現在所在位置的訊息。她覺得換成我去找艾娜麗絲有可能會成功。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我在艾娜麗絲的衣櫃裡面找到了奧斯瓦爾德的日誌。&lt;b&gt;卡恩&lt;/b&gt;會想要讀一讀這東西的。我能夠在&lt;b&gt;野牝別館&lt;/b&gt;&lt;b&gt;一樓&lt;/b&gt;找到她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>卡恩聽說，&lt;b&gt;涅克塔卡西南方&lt;/b&gt;的&lt;b&gt;卡拉海峽&lt;/b&gt;附近有一座巨大的海島，島上有一座獻給娥狄卡的巨大神廟。
+
+卡恩覺得奧斯瓦爾德有可能被跟蹤他的人綁架到了那裡。
+
+她要求我前往神廟，不管用什麼方法都要從奧斯瓦爾德拿回她的錢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>我找到了卡恩跟我說的那座神廟。說不定&lt;b&gt;奧斯瓦爾德&lt;/b&gt;還活著而且就在裡面，或者最起碼他的錢還在屍體上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>&lt;b&gt;奧斯瓦爾德&lt;/b&gt;被一群狂熱的娥狄卡邪教徒抓住了並因為違背了誓言而被審判。我說服了綁架者們，他們放過了他。
+
+我得跟他談談欠&lt;b&gt;卡恩&lt;/b&gt;錢這件事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>&lt;b&gt;奧斯瓦爾德被&lt;/b&gt;一群狂熱的娥狄卡邪教徒抓住了並因為違背了誓言而被審判。我拯救了奧斯瓦爾德並殺死了綁架他的人們。
+
+我得跟他談談欠&lt;b&gt;卡恩&lt;/b&gt;錢這件事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>&lt;b&gt;奧斯瓦爾德&lt;/b&gt;被一群狂熱的娥狄卡邪教徒抓住了並因為違背了誓言而被審判。他沒有活過審判。
+
+他欠&lt;b&gt;卡恩&lt;/b&gt;的錢說不定還在屍體上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>我發現了一名叫做&lt;b&gt;奧斯瓦爾德&lt;/b&gt;的精靈男子，他似乎正在被娥狄卡的信徒們審判著。如果我不出手的話他應該活不下來。
+
+他告訴信徒們他可以讓他們變得富有。我可以先救下他然後索要獎賞……或者我可以直接從他的屍體上面拿錢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>被審判的精靈被捉拿他的人殺死了。在他死之前精靈男人提到如果放他走的話他能讓那些抓住他的人變得富有。
+
+我應該搜索一下他的屍體然後看看他身上到底帶了多少錢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>一個名叫&lt;b&gt;奧斯瓦爾德&lt;/b&gt;的精靈被一群狂熱的娥狄卡邪教信徒組織抓住了，他們準備就奧斯瓦爾德背棄了誓言一事審判他。
+
+我救下了奧斯瓦爾德並殺死了那些信徒。我應該跟他談談獎勵的問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>一個名叫&lt;b&gt;奧斯瓦爾德&lt;/b&gt;的精靈被一群狂熱的娥狄卡邪教信徒組織抓住了，他們準備就奧斯瓦爾德背棄了誓言一事審判他。
+
+我說服那些信徒放過了奧斯瓦爾德。我應該跟他談談獎勵的問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>我搜索了奧斯瓦爾德的屍體，但是上面並沒有他提到的金錢。
+
+我懷疑&lt;b&gt;野牝別館&lt;/b&gt;的&lt;b&gt;卡恩&lt;/b&gt;聽見這消息應該不會開心的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>我與奧斯瓦爾德交談之後發現他已經徹徹底底地瘋了。我猜&lt;b&gt;野牝別館&lt;/b&gt;的&lt;b&gt;卡恩&lt;/b&gt;聽見這消息應該不會很開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>我與奧斯瓦爾德交談之後發現他已經徹徹底底地瘋了。我猜&lt;b&gt;野牝別館&lt;/b&gt;的&lt;b&gt;卡恩&lt;/b&gt;聽見這消息應該不會很開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>我發現&lt;b&gt;奧斯瓦爾德&lt;/b&gt;被一群娥狄卡的狂熱信徒抓住了。我可以選擇干涉並幫助他，或者等邪教徒結束之後從他的屍體上拿走&lt;b&gt;卡恩的錢&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10035</ID>
+      <DefaultText>奧斯瓦爾德被一群狂熱的娥狄卡邪教徒抓住了並因為違背了誓言而被審判。我沒有干涉邪教徒，奧斯瓦爾德死了。原來他身上本來就沒有卡恩的錢。
+
+我得回&lt;b&gt;野牝別館&lt;/b&gt;告訴&lt;b&gt;卡恩&lt;/b&gt;這件事情。我猜她應該不會很高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我成功說服了那些&lt;b&gt;抓捕奧斯瓦爾德的人&lt;/b&gt;。儘管他們已經同意離開，我還是殺光了他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>按照&lt;b&gt;奧斯瓦爾德&lt;/b&gt;的日誌，似乎最近一直有人在跟蹤他。奇怪的是，日誌裡面最後一頁上只畫了一個娥狄卡的破碎王冠的符號。&lt;b&gt;卡恩&lt;/b&gt;有可能知道更多情報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>儘管&lt;b&gt;艾娜麗絲&lt;/b&gt;不願意告訴我有關奧斯瓦爾德之事，她還是有很緊張地瞟視過自己的&lt;b&gt;衣櫃&lt;/a&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>從金字塔入口處祭壇上點燃的蠟燭判斷，這裡剛剛有人來過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我感覺了一個被神秘身影帶到這裡審判之人的靈魂。靈魂堅持自己是無辜的。也許綁架之人誤解了他們的犧牲品，也有可能是他們根本不關心這個問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>基於我在屍體上找到的一份筆記，似乎有個叫做&lt;b&gt;審判者洛德溫&lt;/b&gt;的人帶領著佔據著這座金字塔的神秘組織。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我找到了&lt;b&gt;奧斯瓦爾德&lt;/b&gt;。他因為背棄誓言而正在接受審判，看上去他勝訴的機會不大。如果我不干涉的話他很有可能會死。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我通過殺光了綁架者救下了奧斯瓦爾德。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我通過說服綁架者們放過奧斯瓦爾德救下了他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>卡恩死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>奧斯瓦爾德死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>為了找到奧斯瓦爾德的鑰匙，卡恩去了縛誓者聖殿。我不知道她會碰到什麼事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>被審判的男人奧斯瓦爾德死了。不幸的是，他身上似乎沒有他宣稱的金錢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30012</ID>
+      <DefaultText>我加入了審判著一個叫做奧斯瓦爾德的娥狄卡信徒們。他身上沒有他自己宣稱的那些錢，但是信徒們因為我的忠誠獎勵了我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>我在&lt;b&gt;縛誓者聖殿&lt;/b&gt;的底部碰到了一個奇怪的臨時法庭。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

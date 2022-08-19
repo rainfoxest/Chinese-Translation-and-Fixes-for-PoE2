@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_neketaka_temple_district\07_qst_skipping_ahead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>闖入暗空</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>與&lt;b&gt;靈魂先知尖塔&lt;/b&gt;塔頂的&lt;b&gt;佛羅恩·伊萊特&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>開始第二項鑄魂學實驗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>尋找出去的方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>返回&lt;b&gt;涅克塔卡&lt;/b&gt;的&lt;b&gt;佛羅恩·伊萊特&lt;/b&gt;處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>返回&lt;b&gt;瓦利亞商行總部&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>擋住&lt;b&gt;僱傭兵&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>等待&lt;b&gt;鑄魂師們&lt;/b&gt;完成機械再次校正工作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>返回&lt;b&gt;瓦利亞商行總部&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>與&lt;b&gt;靈魂先知尖塔&lt;/b&gt;塔頂的&lt;b&gt;佛羅恩·伊萊特&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;鑄魂師們&lt;/b&gt;已經得到了需要的材料，拾起了訊息，準備再次進行實驗，進入&lt;b&gt;暗空&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;佛羅恩&lt;/b&gt;給瓦利亞商行總部寫了一封信，告知主管他們已經做好了準備，準備將實驗對像在魂珀之柱間瞬間傳送。
+
+如果我準備再試一次的話，我應該和佛羅恩談談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;佛羅恩&lt;/b&gt;堅持聲稱，她的團隊已經做好了所有必要的調整與計算，魂珀之柱的傳送實驗一定能成功。
+
+或許我應該為最糟糕的結果做好準備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我被傳送到了別的地方……實驗又出問題了。至少這次我沒被傳送到海底。
+
+不過，我卻被傳送到了地底。只要能想辦法回到&lt;b&gt;地上&lt;/b&gt;，或許我就能知道自己在什麼地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我成功地回到了地面上。他們的實驗肯定是把我傳送到島嶼的另一端了。
+
+我只能徒步走回&lt;b&gt;靈魂先知尖塔&lt;/b&gt;了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>鑄魂師們暫時安全了。佛羅恩建議我前往女王港的&lt;b&gt;瓦利亞商行總部&lt;/b&gt;，向&lt;b&gt;卡斯托爾主管&lt;/b&gt;告知尖塔這邊發生的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>我不在的時候，這裡發生了很多事情。有人襲擊了尖塔。
+
+雖然不知道襲擊者是什麼人，但他們似乎沒什麼和平對話的興趣。如果想要救&lt;b&gt;佛羅恩&lt;/b&gt;的話，我必須殺出一條血路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>&lt;b&gt;靈魂先知尖塔&lt;/b&gt;的&lt;b&gt;鑄魂師們&lt;/b&gt;正在校準他們的設備，準備再次嘗試進入&lt;b&gt;暗空&lt;/b&gt;的實驗。&lt;b&gt;
+如果我還打算參加實驗的話，等他們準備好之後，
+佛羅恩&lt;/b&gt;會寄信給我。不過現在，她建議我先回到&lt;b&gt;瓦利亞商行總部&lt;/b&gt;找些別的事情來做。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>鑄魂師們暫時安全了。佛羅恩建議我前往女王港的&lt;b&gt;瓦利亞商行總部&lt;/b&gt;，向&lt;b&gt;阿爾瓦瑞主管&lt;/b&gt;告知尖塔這邊發生的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>&lt;b&gt;佛羅恩&lt;/b&gt;給我寄了封信，說鑄魂師們已經做好了所有必要的調整與計算，魂珀之柱的傳送實驗一定能成功。
+
+或許我應該為最糟糕的結果做好準備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>從雕像上來判斷，這裡看起來應該是古代胡亞納人的昂德拉神龕。那些胡亞納人似乎已經不在這裡了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>神龕被一群蜥人佔領了，它們的領頭似乎是一隻雙頭魔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我在某個臨時監獄裡找到了一位胡亞納俘虜。她告訴我，她的&lt;b&gt;兩個同伴&lt;/b&gt;被這些新來的住民帶到了&lt;b&gt;神殿&lt;/b&gt;深處的某個地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我在大廳裡找到了一位被捆起來的胡亞納俘虜。他告訴我，他其中一位&lt;b&gt;同伴&lt;/b&gt;已經被雙頭魔吃了，另一位同伴被關在&lt;b&gt;東南方向的牢籠裡&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我找到了一個控制面板，上面有個&lt;b&gt;槽孔&lt;/b&gt;。這個面板似乎與附近的&lt;b&gt;走廊&lt;/b&gt;有某種關係。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我找到了一根奇怪的拉桿，它似乎可以插在某個槽孔裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>佛羅恩建議我在繼續進行實驗之前，先去&lt;b&gt;瓦利亞商行總部&lt;/b&gt;，與那裡的&lt;b&gt;主管&lt;/b&gt;談談。顯然，只要是與鑄魂學計劃有關的人，商行都想隨時瞭解他們的情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>沒錯，實驗確實把我傳送走了，不過卻傳送到了島嶼的另一端。我消滅了那些趁我不在突襲尖塔的僱傭兵們，佛羅恩對我的協助表示非常感激。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>沒錯，實驗確實把我傳送走了，不過卻傳送到了島嶼的另一端。我消滅了那些趁我不在突襲尖塔的僱傭兵們，不過還是有幾個人喪命了。卡斯托爾對我的協助非常感謝，不過他可能會由於這起事故受到懲處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>沒錯，實驗確實把我傳送走了，不過卻傳送到了島嶼的另一端。遺憾的是，佛羅恩和其他的鑄魂師們被接踵而至的僱傭兵們殺害了。這樣一來，他們的愚行也就結束了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

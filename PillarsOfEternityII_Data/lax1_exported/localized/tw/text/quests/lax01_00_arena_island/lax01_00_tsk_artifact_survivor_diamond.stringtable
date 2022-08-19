@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_tsk_artifact_survivor_diamond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>求生之面的未切割的寶石之獵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>獲得&lt;b&gt;未切割的寶石。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>將&lt;b&gt;未切割的寶石&lt;/b&gt;交回&lt;b&gt;回憶池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>求生之面希望我能在&lt;b&gt;沙漠&lt;/b&gt;中找到一個「在世界中心鍛造的」&lt;b&gt;石頭&lt;/b&gt;並將其還回到回憶水池。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>因加里瞭解到這個石頭可由執著於生活的&lt;b&gt;孤獨的求生者&lt;/b&gt;在&lt;b&gt;艱苦的荒漠&lt;/b&gt;中找到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我在波格科哈拉外找到了未切割的寶石。如果要進入裡面的精神史，我必須將其交給&lt;b&gt;回憶水池。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我將未切割的寶石新增到了回憶水池中， 解鎖了一個額外狩獵之面挑戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_lord_admiral_imp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「呃！止步，骯髒的地表生物！為何要侵擾海軍上將大人，嗯！？」
+
+一看即知這環顧四周的妖精極其焦躁不安。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「是黛瑟蘿爾派我來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開]「那我就……走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「呃！不！不可干擾計劃！海軍上將大人的職責非同小可！」
+
+蜥人舉起爪子好擋住妖精的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「需保持士氣高昂！此次不可失誤，呃！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「未有逾越之舉！呃！速速離去！」
+
+蜥人們移到喋喋不休的妖精周圍，環視著街區。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你沒打算偷船，對吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「抓——抓住他，小的們！」
+
+妖精指著你，嘶聲力竭地吼叫道。</DefaultText>
+      <FemaleText>「抓——抓住她，小的們！」
+
+妖精指著你，嘶聲力竭地吼叫道。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「船？呃！海軍上將有一支艦隊——炸翻骯髒的地表城市！從你開始，呃！？」
+
+妖精的聲音吸引了其他生物的注意力。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

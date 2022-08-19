@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_tsk_sealed_fate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>注定的命運</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到&lt;b&gt;戴格諾斯&lt;/b&gt;的包裹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>將&lt;b&gt;戴格諾斯&lt;/b&gt;的包裹還給他，他就在女王港的&lt;b&gt;攤販水道&lt;/b&gt;上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我看見了在&lt;b&gt;明亮澡堂&lt;/b&gt;外因為丟了包裹而失魂落魄的&lt;b&gt;戴格諾斯&lt;/b&gt;。他說自己把包丟在了澡堂&lt;b&gt;二樓&lt;/b&gt;的一個房間裡面，但是守衛們不允許他回去取。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>搜索&lt;b&gt;明亮澡堂&lt;/b&gt;二層樓的房間，找到&lt;b&gt;戴格諾斯&lt;/b&gt;的包裹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我在明亮澡堂找到了&lt;b&gt;戴格諾斯&lt;/b&gt;的包裹。他請求我不要打開包裹。在我尋找包裹的時候戴格諾斯跑回了女王港去向他的船長艾薇塔報告。他說到時候自己會在&lt;b&gt;攤販水道&lt;/b&gt;等我，希望我將包裹交到那裡去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我打開了&lt;b&gt;戴格諾斯&lt;/b&gt;的包裹，裡面有一個印章，一份破爛的信件與一些其他奇怪的物品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>戴格諾斯包裹裡面的信件提到了戴格諾斯破壞掉&lt;b&gt;艾薇塔的船隻&lt;/b&gt;之後就可以加入皇族海盜船長&lt;b&gt;塔爾佛&lt;/b&gt;隊伍的陰謀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>在我去&lt;b&gt;女王港&lt;/b&gt;的路上我碰到了&lt;b&gt;塔爾佛&lt;/b&gt;與他的船員們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我告訴&lt;b&gt;塔爾佛&lt;/b&gt;我不會干擾他的計劃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我殺死了&lt;b&gt;塔爾佛&lt;/b&gt;。我覺得&lt;b&gt;戴格諾斯&lt;/b&gt;現在應該不會加入他的隊伍了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我將戴格諾斯的包裹還給了他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我將在戴格諾斯的包裹裡面找到的物品還給了他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我殺死了塔爾佛並且阻止了埋伏，但是我並沒有將戴格諾斯的背叛告知艾薇塔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我將戴格諾斯的背叛行徑告知了艾薇塔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我說服戴格諾斯放棄他殺掉戴格諾斯的計劃了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\28_drowned_barrows\28_qst_drums_in_the_deep</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>吞噬者涅姆諾克</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往&lt;b&gt;淹死鬼廢坑&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與&lt;b&gt;朱維克村&lt;/b&gt;裡的&lt;b&gt;塔托克&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>進入&lt;b&gt;淹死鬼廢坑&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>探索&lt;b&gt;淹死鬼廢坑&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>處理&lt;b&gt;卡利&lt;/b&gt;與&lt;b&gt;涅姆諾克&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>與朱維克村裡的塔托克交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>朱維克村的人們正在談論寄居在&lt;b&gt;淹死鬼廢坑&lt;/b&gt;深處的一位神秘神靈&lt;b&gt;涅姆諾克&lt;/b&gt;。涅姆諾克會向部落收取供奉，一名叫做&lt;b&gt;卡利&lt;/b&gt;的男孩最近被獻祭了。
+
+存在一名新神靈的概念讓人異常不安。除非&lt;b&gt;「涅姆諾克」&lt;/b&gt;只是司坎或者沃艾珥的另一種把戲，這事情需要有人去調查。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>朱維克部落的塔托克告訴我說&lt;b&gt;涅姆諾克&lt;/b&gt;統治著&lt;b&gt;朱維克村北面&lt;/b&gt;的頭骨山。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經解決了涅姆諾克，但是&lt;b&gt;塔托克&lt;/b&gt;應該不會為此感謝我。最起碼他應該會想要&lt;b&gt;卡利&lt;/b&gt;已經死了的確切消息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我已經找到了&lt;b&gt;淹死鬼廢坑&lt;/b&gt;，現在我需要想辦法進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>&lt;b&gt;涅姆諾克&lt;/b&gt;就在山中深處。如果我想要調查，我就需要闖入神靈看管著的領域了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我在&lt;b&gt;淹死鬼廢坑&lt;/b&gt;的深處找到了&lt;b&gt;卡利&lt;/b&gt;。他陷入了一場瘋狂的召喚儀式中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>我已經解決了涅姆諾克，卡利也已經回到了自己在&lt;b&gt;朱維克村&lt;/b&gt;的家。&lt;b&gt;塔托克&lt;/b&gt;知道自己的兒子活著應該會很高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我從侍僧基努克那瞭解到&lt;b&gt;卡利&lt;/b&gt;正在&lt;b&gt;淹死鬼廢坑&lt;/b&gt;的最下層。&lt;b&gt;涅姆諾克&lt;/b&gt;也在那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>基努克告訴我說&lt;b&gt;涅姆諾克的聖所&lt;/b&gt;就在一個被稱作&lt;b&gt;死亡之門&lt;/b&gt;的地方下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我需要一塊結界石才能穿越&lt;b&gt;死亡之門&lt;/b&gt;。一名雙頭魔&lt;b&gt;死亡守望者&lt;/b&gt;看管著它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>&lt;b&gt;死亡守望者&lt;/b&gt;就在&lt;b&gt;淹死鬼廢坑&lt;/b&gt;的中間層。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我獲得了正確的結界石，現在我可以通過&lt;b&gt;死亡之門&lt;/b&gt;前往&lt;b&gt;涅姆諾克的聖所&lt;/b&gt;了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>卡利死在了淹死鬼廢坑，塔托克憂傷哀悼著自己的兒子的死。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>塔托克已經死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我將卡利從涅姆諾克那裡偷了回來，並且將好消息告訴了塔托克。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_dereo_messenger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「[Player Name]。有重要人物注意到了你。」
+
+一個披著斗篷的人悄悄走到你的身邊，他戴著低垂的長兜帽，用沙啞的聲音對你說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「如果你有興趣賺大錢以及結交好朋友，就去峽谷最西邊的峽口。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「告訴他們是德理奧派你來的。言行舉止一定要有禮貌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「到達小巷後，右轉兩次，每次都是在第一個拐彎處。然後順著左邊的彎道走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「最好別讓頭兒久等。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「看門的壯漢喜歡嚼幻葉果。你沿著他們留下的蹤跡走就行。」兜帽遮住了她的面容，你只能看到她牙齒的反光。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_prototype\00_cv_poko_kohara_well</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這塊風化石頭似乎有些年頭了，但你看到它週遭的沙地裡有新採掘的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>旁邊有根繩索一路垂入下方漆黑的深淵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[拉繩索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[丟石塊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>幾秒後傳來噗通聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>沒想到收繩索很輕鬆。原因很快就明瞭了——繩索那頭什麼都沒有。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你發現泥土與石塊之間有一片麻布。那是一隻年代久遠的麻布袋，它被遺棄（或是隱藏）在牆縫裡。
+
+很遺憾，你夠不著它，而布料看起來也已被磨薄了。的確有用繩索擺過去拿到袋子的可能，不過稍有閃失，它脆弱的布料就會磕到週遭的石塊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[降下繩索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>不久後你便看到在暗處的水面。繩索末端剛好垂到水面上方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[拿袋子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[向袋子的方位擺盪。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[爬回去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你抓緊繩索攀爬，回到沙漠中的烈日下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你抓緊繩索攀爬，回到寒冷的沙漠之夜中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你去夠它……只差一點點。不管怎麼試，你就是夠不著。
+
+更糟糕的是用來握住繩索的那隻手開始肌肉酸痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你上體前後搖晃，但蓄不上力。最終你借助風勢在空中劃出一道誇張而詭異的弧線，堪堪夠到袋子，把它勾了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>袋子從牆縫裡出來之前磕到石頭上，裂開一道口子。耀眼的寶石從裂口裡零散地灑出來。
+
+手夠快的話你還是能挽回一些寶石的，但你滑翔的弧線太蹊蹺，
+
+並且裝著剩餘寶藏的袋子份量仍然很結實。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你前後蹬腿。你輕巧而麻利地一步步向牆逼近，直到袋子觸手可及。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你把一條腿盤在繩索上，掠過水面。你用一隻手接到掉落的寶石，用另一隻手抓住袋子。
+
+你把獎品收入囊中，優雅地順著繩索攀上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你牢牢握住繩索，把自己放下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[派人下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Specified 0]牢牢握住繩索，把自己放下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>掉落的寶石從指間溜到渾濁的水裡。還好袋子裡尚有一些余貨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你用一隻手握住繩索和破損的袋子，用另一隻手靈巧地接到掉落的寶石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>袋子從牆縫裡出來之前磕到石頭上，裂開一道口子。隨著繩索平順的擺動，耀眼的寶石從裂口裡零散地灑出來。
+
+手夠快的話你還是能挽回一些寶石的，然而裝著剩餘寶藏的袋子份量仍然很結實。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[拿上袋子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[努力接住掉落的寶石。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Specified 0]發現泥土與石塊之間有一片麻布。那是一隻年代久遠的麻布袋，它被遺棄（或是隱藏）在牆縫裡。
+
+很遺憾，你夠不著它，而布料看起來也已被磨薄了。的確有用繩索擺過去拿到袋子的可能，不過稍有閃失，它脆弱的布料就會磕到週遭的石塊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Specified 0]前後蹬腿。[Specified 0]輕巧而麻利地一步步向牆逼近，直到袋子觸手可及。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Specified 0]上體前後搖晃，但蓄不上力。最終[Specified 0]借助風勢在空中劃出一道誇張而詭異的弧線，堪堪夠到袋子，把它勾了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[向袋子的方位擺盪。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你想設法接住寶石，結果笨拙地撞上牆壁。你不僅沒接到墜落的寶石，還把剩下的寶石震出來了。
+
+它們也掉進了水裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[努力接住掉落的寶石。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你接到一些寶石，但其他的永遠消失在井底的渾水裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 0]抓緊繩索攀爬，回到沙漠中的烈日下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 0]抓緊繩索攀爬，回到寒冷的沙漠之夜中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>掉落的寶石從[Specified 0]的指間溜到渾濁的水裡。還好袋子裡尚有一些余貨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Specified 0]接到一些寶石，但其他的永遠消失在井底的渾水裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0]嘗試接住寶石，於是笨拙地撞上牆壁。[Specified 0]不僅沒接到墜落的寶石，還把剩下的寶石震出來了。
+
+它們也掉進了水裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0]把一條腿盤在繩索上，掠過水面。[Specified 0]用一隻手接到掉落的寶石，用另一隻手抓住袋子。
+
+把獎品收入囊中，[Specified 0]優雅地順著繩索攀上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 0]用一隻手握住繩索和破損的袋子，用另一隻手靈巧地接到掉落的寶石。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>168</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「感謝你的考量，我明白你現在有很多問題想要問我，不過恐怕我要等出了這個島之後才能回答你。」
+
+他對貝尼莎和鑄魂師們投去了充滿歉意的一瞥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「至少和我說說你在這裡幹什麼吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「這個故事說來話長，暫時給你講個簡短一些的版本吧——我目前正在搜集關於當地鑄魂學進展的訊息。」
+
+他上上下下地打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「不過，我也可以問你同樣的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我正在尋找魂珀巨人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「這個問題我們私下裡再談吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「俄撒斯摧毀了我的城堡，殺害了那裡絕大部分的人，而且差點要了我的命。他必須要為此負責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「眾神又打算密謀什麼事情了，我得弄清楚他們要幹什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我下了決心，我要好好遊歷世界，尋找自我。或者說，尋找我被俄撒斯奪走的那部分靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「和你在一起永遠都不會覺得無聊。」他揚起了眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「很好，那就等我們離開這個島之後再談談吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「至少這裡的食物比飾金谷那裡好多了，這些瓦利亞人很會用調味料。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「跟我來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「太好了！我們得救了。」一個年輕人從保護籠裡走了出來，眼睛放著光，拍著手，臉上掛滿了笑意。
+
+不過他身邊的女人卻一言不發。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「肯定是克拉里奧總督派你來救我們的吧？但你看起來並不太像他的衛兵。」她站起身來看著你的身後，看起來像是在找其他人一樣。
+
+她說不定只有三十五歲左右，不過她嚴肅的面孔讓她看起來比實際年齡要顯得老。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「總督已經死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[撒謊] 「他們依然在努力開闢道路，穿過森林。我是他們派來的先遣隊員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我早就告訴過你，總督根本不關心我們的死活！他和那些瓦利亞人只在乎利益——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「你看，我早就告訴過你，總督會派人來找我們的！你老是說那些瓦利亞人只在乎利益什麼的——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「夠了！」她凌厲的目光讓所有人都閉了嘴。
+
+她轉向你，聽天由命地喘了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「重要的是，你已經來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我在找一位朋友。個子很高，身體是魂珀做的，渾身發光——說不定你已經見過他了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「嗯？到底是風暴，還是說——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我只是想弄清楚這裡發生了什麼事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「奧德理斯在什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你們在這裡幹什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「那個魂珀巨人，它去了什麼地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我覺得他是去了北邊的什麼地方。願眾神憐憫我們，他應該已經離我們有好幾里了。」她顫抖著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「當然是躲起來了！」他的嘴角抽搐著。
+
+在他身邊，那個古怪的老婦人歎了口氣，把手放在他胳膊上，安慰他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「雖然不知道是怎麼回事，但看起來，他是被我們正在挖掘的光魂珀之柱吸引過來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我們當時正在測量光魂珀，緊接著就發生了一些奇怪的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>這位鑄魂師轉過頭，看著另一位鑄魂師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「他應該還在遺跡裡，我們是這麼想的。」她一臉苦相，盯著自己的腳趾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>他舔了舔嘴唇。「很有意思。那時，魂珀的光開始變得黯淡。大地搖晃起來，我們的儀器也發出了不尋常的振動——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「發生了什麼事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我應該去看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「如果打算下去的話，你應該帶著英格菲和你一起去。」她轉過身，示意那一群人中的某個人站出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>一位輪廓鮮明的精靈走了出來。看到你的時候，他向你點了點頭。
+
+雖然他的臉上新添了幾道傷疤，但你一眼就認出來，他就是亞洛斯·科菲瑟。
+
+他把一根指頭比在唇上，向你露出了狡黠的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「英格菲會使用很多法術！他一開始甚至還會用火球術趕走野豹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「很高興能幫上忙。」他睜大眼睛看著你，充滿期待。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「關於這個『英格菲』，還有什麼可以告訴我的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「很高興能得到他的幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我不需要他的協助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你說的這個『英格菲』並不是鑄魂師，他是個法師，名字叫亞洛斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「嘿，他看起來可真像——」
+
+艾德爾出於某種原因，住了嘴，下巴一直張著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「當時，我們一些腦子還算清醒的人就鑽進了籠子裡。」她盯著那個興奮的年輕人，但他似乎沒注意到她的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「當時發生了什麼事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「籠子？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「那是我們製造的保護器，可以保護我們免受光魂珀能量噴湧的傷害。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「那個巨像，像是某種用光魂珀製成的構裝體。它穿過了競技場，朝著魂珀之柱就來了。」
+
+貝尼莎閉上了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「那些以前並不是問題，但我今天很感激有這些不必要的預防措施。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「那個時候，叢林豹和幼龍都出現了，它們鑽進了我們的帳篷裡。當時真的太可怕了，不過英格菲——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「我們中的一部分人依然在遺跡中不知所蹤，其中包括我們的研究主管奧德理斯。
+
+「說不定他也順利地躲起來了。」
+
+她揚起了眉毛，但眉宇間卻流露著截然相反的意味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「他只和我們在一起工作了幾個星期。他沒什麼經驗，不過卻是瑟洛拿的學院隆重推薦過來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>他朝你快速地笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「很好，我們一會再談吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「等我們離開國王港之後，我們就可以盡情地大談特談了。不過就目前而言，還是先找奧德理斯吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「說得沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>他竊笑著。
+
+「說真的，我也會改個名字，如果——」
+
+但貝尼莎開始罵起了亞洛斯，年輕的鑄魂師也趕緊閉了嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「拜託。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>他一臉驚愕地朝你眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「跟我來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「你還是別跟我來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>他低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「事實上，克拉里奧是派我來找奧德理斯的，或者說，找他的筆記。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>一位年長的女人往地上吐了一大口濃痰，之後踢起一塊泥巴蓋在上面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>他興奮地朝一個古怪的老女人轉過了身，拉著她的袖子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「過了一會兒，魂柱變暗了。所有沒在保護籠裡的同事就被凍住了，就彷彿化成灰了一樣。」她的聲音安靜了下來，雙手緊緊地捏著拳頭。
+
+年輕人傾過身子，大睜的眼睛裡帶著一種興奮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「後來，大火已經快要燒到我們的帳篷裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「後來我們決定，最好省著點用補給品，萬一什麼時候能出去呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「要小心點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「那個時候，叢林豹和幼龍都出現了，它們鑽進了我們的帳篷裡。當時真的太可怕了，不過——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我認為這個遺跡已經不安全了，我們之中許多人都被落在了後面，這肯定會吸引更多……野生動物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「接受幫助會是個謹慎的選擇，只要英格菲願意幫忙的話。」她朝亞洛斯看了一眼。
+
+他點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「哦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「你&lt;i&gt;真的&lt;/i&gt;為英格菲提出了個不錯的理由。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「總之，我很高興你安然無恙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「謝謝你。」她歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「出了這個籠子之後，他的技能會派上很大用場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「你是說，隆重推薦他嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「這麼說可實在是有點太過譽了。」亞洛斯發出了讓人不舒服的笑聲，意味深長地看了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「我不明白為什麼。」老鑄魂師轉了一下眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「相當了不起，尤其是他的口音聽起來一點都不像瓦利亞人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「我覺得我知道得已經夠多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「來自世界各地的人，都會去共和國學習鑄魂學，尤其像包括聚鹿的許多地方，鑄魂學都是被禁止的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「但英格菲的經歷尤為悲慘。他那時還是個孩子，他的父母就死了，死於一場大火之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「如果已經沒事了，或許我們應該出發了吧？」他揚起了眉毛，盯著你看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「我記得，他們當時用的詞是『天賦異稟的學生』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「看起來他絕大多數導師都很喜歡他，很看重他。不過如果我沒記錯的話，他的同輩都不怎麼理解他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「他後來去了鹿林，那裡有他來自[Player Culture]的叔叔，是個上了年紀的有錢人。他一直和他叔叔住在一起，後來他叔叔也去世了。」</DefaultText>
+      <FemaleText>「他後來去了鹿林，那裡有他來自[Player Culture]的姨媽，是個上了年紀的有錢人。他一直和他姨媽住在一起，後來他姨媽也去世了。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「確實如此，這個願意幫忙的陌生人肯定還有更重要的事情要擔心。」亞洛斯的耳尖變紅了。
+
+他盯著你看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「一場大火。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「確實，我還有……別的事情。恐怕我沒法和你解釋清楚。」他捏緊了拳頭，拳頭變得蒼白而堅硬，像珍珠一樣。
+
+他慢慢地迎上了貝尼莎的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「等等，你認識他嗎？」她瞇起眼睛，疑惑地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「認識。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「他是我的好朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「我們以前共事過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「我就是他的有錢叔叔，來自[Player Culture]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「我就是他的有錢嬸嬸，來自[Player Culture]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>年輕的鑄魂師睜大了眼睛，他一會兒打量著亞洛斯，一會打量著你，沒有注意到冰冷的寂靜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>他對你快速做了個痛苦的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>她轉向亞洛斯，臉上充滿了憤怒。
+
+還有難過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「你對我們撒了謊。」這句話並不是一句疑問，而是一句指控。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「我的天啊，他還活著！這怎麼可能——」
+
+但老婦人搖了搖頭，他慢慢地閉了嘴。</DefaultText>
+      <FemaleText>「我的天啊，她還活著！這怎麼可能——」
+
+但老婦人搖了搖頭，他慢慢地閉了嘴。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「但你得明白，我並不想傷害誰。我一點想要傷害你的意思都沒有，貝尼莎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「去吧，英格菲，亞洛斯，隨便你是什麼人。
+
+「別讓我再妨礙你做『別的事情』了。」 
+
+她朝你轉過頭，閉上了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「拜託了，帶他走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「我們走吧，亞洛斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「就讓他待在這裡吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「你該不是認真的吧。」他盯著你，一臉震驚與憤怒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「我敢肯定，我們能……互利互惠。」
+
+他湊近你身邊，不讓鑄魂師們聽到他說的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「我會在這裡再待一會兒，說不定你會改主意呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「我沒辦法強迫你帶走他，但我們這裡已經不歡迎他了。」她緊緊地交叉著雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「那他愛怎麼樣就怎麼樣吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「[Player Name]！」一個聲音叫起了你的名字，聽起來非常熟悉。
+
+你循聲望去，發現是亞洛斯·科菲瑟在喊你。他看著你，眼神裡既滿懷希望，又有些鬼鬼祟祟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「就像我說的那樣，我在亡焰列島上還有別的事情要做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「你肯定已經猜到了，我在亡焰列島上還有別的事情要做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我很樂意和你再次一起旅行，我認為我們可以互利互惠。
+
+」不過決定權在你手上。」他一邊玩弄著肩帶的邊緣，一邊等待著你的回應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「如果不需要我陪著你的話，等到下一艘船經過的時候，我就準備走了。說不定我們也就此別過了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「小心點，朋友。」她快速地握了握亞洛斯的手，之後轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「我盡量。」亞洛斯朝她點著頭，之後領著你走開了一段距離。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「你『上了年紀的有錢叔叔』？你是認真的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「你『上了年紀的有錢嬸嬸』？你是認真的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>他歎了口氣。「越快越好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「看來我只能一個人回到鎮子裡去了，如果你改了主意，記得告訴我一聲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「你確定嗎？亞……呃，我是說……英格里菲聽上去挺有本事的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>他皺起眉頭。「這確實是個很合情合理的故事。
+
+「而且在我認識的人裡，你的靈魂是最老的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「你結交了一群新的朋友，毫無疑問，他們是鑄魂師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「我會想念他們的，雖然和他們在一起的日子，只會讓我更加確信鑄魂學是……一種危險的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「跟我來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[握握他的手。] 「我希望你能找到想要找的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「你也是，朋友。」他溫暖的手握住了你的手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「很好，或許等我們離開這個地方之後，可以再好好談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「英格菲會是個很不錯的嚮導，只要他願意和你一起走的話。」她朝亞洛斯看了一眼。
+
+他點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「等我們離開國王港之後，我們就可以盡情地大談特談了。現在，我們還是回克拉里奧那裡吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「看來我只能一個人回到鎮子裡去了，如果你改了主意，記得告訴我一聲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「那就是奧德理斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「可憐的傻瓜，他們根本沒想到會發生這種事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「靈視者！你在幹什麼呢？！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「發生了什麼事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>貝尼莎憤怒地瞪了他一眼，他再次閉上了嘴，臉上露出了困惑又有些受傷的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「我會盡我所能地幫助他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「如果他當時沒進保護籠裡的話，你應該做好發生最壞情況的準備。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>她點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「我不認為這樣真的——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「我們沒時間——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「這可真是——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「那太好了，我和伊莎彌兒有好多事兒要做了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「我覺得他有點孤獨，不如我們讓他跟我們一起來吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「如果補給品都用光了呢……？」她摸了摸鼻樑，一臉關切。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「我和靈視者隨時願意幫忙。」她看著你，眼神裡充滿了自豪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「咱們確實需要幫助，想想已經死了多少人了啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「遺跡的絕大部分在那個方向，穿過坡道旁邊的門就到了。」她指著競技場東側牆上的入口，入口漆黑一片。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「我猜你要離開國王港了。既然風暴已經散了，過不了多久我應該也會離開這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「你走出遺跡的時候，我看到你了。我當時和那些鑄魂師們在一起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「我當時本想和你說些事情，不過我並不想對其他人暴露自己的身份。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「這些事情我下次再和你說吧。不過，我在亡焰列島上還有別的事情要做，這不禁讓我有個想法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「你在這裡幹什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「你還是有很多秘密，是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>他的耳尖變紅了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「我們見過面嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「五年前，我們曾在鹿林一起對抗撒奧斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「在那之後發生了很多事情，但上天讓我們兩個再次見面了。」他狡黠地看了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>其他人轉過了頭，拒絕進一步的猜測。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「我猜你要離開國王港了。既然風暴已經散了，過不了多久我應該也會離開這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

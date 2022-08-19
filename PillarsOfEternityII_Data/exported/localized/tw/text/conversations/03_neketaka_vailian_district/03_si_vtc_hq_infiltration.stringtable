@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_si_vtc_hq_infiltration</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你在運河裡跪下，發現前方有一座鐵柵欄。另一端的下水道污物發出的臭氣足以刺激得你眼睛流淚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>鐵條牢固地插在磚塊之中，堵住了去路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[查看柵欄。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>鐵條雖牢固，但長期暴露在這環境中使得它從四周的磚塊上鬆脫了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[讓某人去折斷鐵條。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[用法術融化鐵條。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>神秘的光亮和禱念製造出一陣騷動，但幸運的是，沒有其他人注意到你在幹什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>有一根鐵條從磚石中融化脫出，你沒費多大力氣就把它拉了出來。它滑落進水裡，發出金屬冷卻時的嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>就在你開始懷疑自己手無縛雞之力時，一根鐵條鬆脫了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你用盡了全力，但鐵條紋絲不動，只有肌肉酸痛起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[尋找結構上的弱點。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[爬過去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你逆流而上，與水流搏鬥著，並盡量不去想那股味道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>當你在隧道中前進時，你注意到氣壓產生了變化。你頭上有個出口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>光滑的牆壁上蓋滿了污物，但你找到了一條向上的窄道，兩側有可供攀援的支撐點，你把你自己從坑裡拖出來，向著自由……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>……從瓦利亞商行總部的廁所裡出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>一根鬆動的鐵條從磚石上脫落，給了你足夠通過的空隙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>儘管你竭盡全力，但柵欄紋絲不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>柵欄上鐵條之間的空隙大小不一。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你朝散發著芳香草葉氣味的總部廁所下面看。黑暗中飄來一股惡臭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[從開口爬下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[原地不動。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>看來有瓦利亞商行的人找到了你的秘密入口。上面鋪了木板，木板上面還有一層厚厚的石頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>光是這股味道就讓你想把胃裡的食物都嘔出來，更別提你每走一步腳下還都是黏糊糊的噁心東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你屏住呼吸，沿著窄道爬下去。迎接你的是漆黑的穢物深淵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 0]輕易地折斷了一根鐵條。你們同時驚訝地看著它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你聽見黑暗的下水道中傳來了陣陣乾嘔聲。你帶著一絲同情繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你的隊伍排成一行逆流而上，氣味沒有阻擾到你們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>櫃子裡面滿是合同，賬本與登記冊，裡面甚至還有涅克塔卡的黑幕記錄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>從文件的安放順序來看，漫無目的地翻看是一點意義也沒有的。只有有了明確目的才能在這裡面找到想要的情報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[搜尋有關杜阿佩部落的合同。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你找到了一份標注了瓦利亞商行針對杜阿佩部落土地所有權的文檔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>還沒找到任何相關文件你就被陰影中的一個聲音叫住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你在夜幕的掩護下順利地搜索著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>仔細查看之後你確定了杜阿佩島的所有權將會在蘭迦死亡時返還給瓦利亞共和國。細節隱藏在了繁文縟節之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[試試能不能修改合同。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>附近有墨水瓶和大量公章。只要你足夠小心，新增一兩處修正條款應該不成問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[用贗品替換合同。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[更改繼承條款，這樣子土地將歸部落所有。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[嘗試在合同的修正上偽造總督的簽名。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>你拿走了原始文件並將贗品放在了盧卡的辦公室裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>合同的新條款合情合法，沒有人會質疑這些條款的合法性。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[劃掉影響所有權的部分。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>身邊的大量總督簽名樣品應該能讓你輕鬆偽造一份合格的簽名。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>你顫顫巍巍地偽造起了總督的簽名。不知道會不會有人相信你的贗品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你劃掉了相關條款，在上面新增了總督的名字縮寫之後將卷軸放回了架子上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>隨著一聲哼哧[Specified 0]撬開了欄杆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Specified 0]使盡全力撬動著，欄杆紋絲不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「喂，說你呢！那是商行的財產！離開這裡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>你調整了合同條款。在缺少子嗣繼承的情況下，杜阿佩土地的所有權將歸擁有蘭迦的靈魂碎片者所有。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>欄杆看上去很牢固，但是你發現欄杆與磚塊連接處有些許腐蝕痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[用撬棍撬開柵格。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>用力壓上撬棍後一根柵欄鬆了出來，你可以爬過去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[扭彎柵欄。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>一根鬆動的鐵條從磚石上脫落，給了你足夠通過的空隙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>儘管你竭盡全力，但柵欄紋絲不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>就在你開始懷疑自己手無縛雞之力時，一根鐵條鬆脫了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>你用盡了全力，但鐵條紋絲不動，只有肌肉酸痛起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>你在運河裡跪下，發現前方有一座鐵柵欄。另一端的下水道污物發出的臭氣足以刺激得你眼睛流淚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你小心翼翼地擠過了開口，冷靜下來準備應付接下來要發生的一切。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>你找到了一份標注了瓦利亞商行針對杜阿佩部落土地所有權的文檔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>弱點已經很明顯了，扭彎柵欄應該不會那麼困難了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>鐵桿比看上去地要更加牢固，要撬動柵格得花不小的力氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

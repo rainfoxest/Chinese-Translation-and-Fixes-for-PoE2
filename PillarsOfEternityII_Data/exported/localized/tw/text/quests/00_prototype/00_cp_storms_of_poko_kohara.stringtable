@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_prototype\00_cp_storms_of_poko_kohara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>波格科哈拉的風暴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在&lt;b&gt;提卡瓦拉&lt;/b&gt;島上瞭解&lt;b&gt;波格科哈拉&lt;/b&gt;的情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>前往&lt;b&gt;波格科哈拉。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>在&lt;b&gt;波格科哈拉&lt;/b&gt;遺跡中搜索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>進入腐化的魂珀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>將我的進展報告給&lt;b&gt;阿爾瓦瑞&lt;/b&gt;總督。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>逃離魂珀位面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>將我的進展報告給&lt;b&gt;卡斯托爾&lt;/b&gt;主管。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>在&lt;b&gt;提卡瓦拉&lt;/b&gt;島上瞭解&lt;b&gt;波格科哈拉&lt;/b&gt;的情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>將我的進展報告給&lt;b&gt;阿蘇拉&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>將我的進展報告給&lt;b&gt;阿蘇拉&lt;/b&gt;或&lt;b&gt;卡斯托爾&lt;/b&gt;主管。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>將我的進展報告給&lt;b&gt;阿蘇拉&lt;/b&gt;或&lt;b&gt;阿爾瓦瑞&lt;/b&gt;總督。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>據說未標注在海圖上的&lt;b&gt;波格科哈拉&lt;/b&gt;遺跡中有一條光魂珀礦脈。瓦利亞商行的&lt;b&gt;路耶瓦·阿爾瓦瑞&lt;/b&gt;總督已派出一支探險隊尋找此礦脈，但他們至今仍音信全無。
+
+她想要我找到礦脈存在的證據，如果可能，順帶查明第一支探險隊出了什麼事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>第一支探險隊曾計劃在涅克塔卡城東南的&lt;b&gt;提卡瓦拉&lt;/b&gt;島上停留，並希望那裡的本地人能指引他們前往&lt;b&gt;波格科哈拉。&lt;/b&gt;如果我與那裡的村民交談，也許他們也會指引我去那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;波格科哈拉&lt;/b&gt;位於提卡瓦拉島的正東面，上面的遺跡可隨意探索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我將船安全停靠在&lt;b&gt;波格科哈拉&lt;/b&gt;後，可以探索遺跡並看看有何發現了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>腐化魂珀的東西就深埋在其中。我感覺到支柱中有一個存在。我將自己的靈魂投射進去後也許能抵達腐化力量的源頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我已經知道了在波格科哈拉發生的一切，&lt;b&gt;阿爾瓦瑞&lt;/b&gt;總督肯定會對我的報告感興趣。
+
+我可以在&lt;b&gt;涅克塔卡&lt;/b&gt;城的瓦利亞商行總部找到她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>在魂珀內部，我遇到了歷代被困其中遭到扭曲的靈魂。
+
+我必須擊敗他們並逃出去，不然我就會永遠成為他們的一員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>我已經知道了在波格科哈拉發生的一切，&lt;b&gt;卡斯托爾&lt;/b&gt;主管肯定會對我的報告感興趣。
+
+我可以在&lt;b&gt;涅克塔卡&lt;/b&gt;城的瓦利亞商行總部找到他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>&lt;b&gt;阿蘇拉&lt;/b&gt;並不知道&lt;b&gt;波格科哈拉&lt;/b&gt;的確切位置，但位於涅克塔卡城東南的&lt;b&gt;提卡瓦拉&lt;/b&gt;島上的居民或許知道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>我已經知道了在波格科哈拉發生的一切，&lt;b&gt;阿蘇拉&lt;/b&gt;肯定會對我的報告感興趣。
+
+我可以在&lt;b&gt;涅克塔卡&lt;/b&gt;城的&lt;b&gt;黃銅堡&lt;/b&gt;找到她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>我已經知道了在波格科哈拉發生的一切，&lt;b&gt;阿蘇拉&lt;/b&gt;和&lt;b&gt;卡斯托爾&lt;/b&gt;主管肯定會對我的報告感興趣。
+
+在&lt;b&gt;涅克塔卡&lt;/b&gt;城我可以去黃銅堡找&lt;b&gt;阿蘇拉&lt;/b&gt;或去瓦利亞商行總部找&lt;b&gt;卡斯托爾&lt;/b&gt;主管。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>我已經知道了在波格科哈拉發生的一切，&lt;b&gt;阿蘇拉&lt;/b&gt;和&lt;b&gt;阿爾瓦瑞&lt;/b&gt;總督肯定會對我的報告感興趣。
+
+在&lt;b&gt;涅克塔卡&lt;/b&gt;城我可以去黃銅堡找&lt;b&gt;阿蘇拉&lt;/b&gt;或去瓦利亞商行總部找&lt;b&gt;阿爾瓦瑞&lt;/b&gt;總督。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>一支瓦利亞商行派來的探險隊遺棄了在此處的營地。一切看上去完好無損。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我遇到了&lt;b&gt;維克多&lt;/b&gt;，他是瓦利亞商行探險隊的廚師。他同伴動身前往&lt;b&gt;波格科哈拉&lt;/b&gt;時，他自己留在了&lt;b&gt;提卡瓦拉&lt;/b&gt;島。他仍在等他們回來，或是他們的死訊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;盧亞努&lt;/b&gt;酋長死了。我只能靠自己找到&lt;b&gt;波格科哈拉&lt;/b&gt;了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我在遺跡外找到一具屍體。似乎瓦利亞探險隊裡其餘的人為了躲避岩石泰坦而逃進了遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>一根魂珀之柱通往遺跡深處。我找到了頂部，但我得深入地下才能看到其全貌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>有什麼東西已經腐化了魂珀，我越深入地下，腐化就越嚴重。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>瓦利亞商行探險隊的首領&lt;b&gt;貝莎&lt;/b&gt;死在了遺跡深處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我又找到一具瓦利亞商行探險隊成員的屍體。似乎他們當時自相殘殺過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>我在營地找到一張標明&lt;b&gt;提卡瓦拉&lt;/b&gt;島位置的地圖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>我找到了腐化力量的核心。這裡有一台機器，也許用它能幫我清除腐化。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>&lt;b&gt;盧亞努&lt;/b&gt;酋長能指引我前往&lt;b&gt;波格科哈拉。&lt;/b&gt;他的小屋位於小鎮的東北部，就在貿易站上方的小山上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>女祭司&lt;b&gt;奈利&lt;/b&gt;請求我摧毀&lt;b&gt;波格科哈拉&lt;/b&gt;的光魂珀。她擔心瓦利亞人會讓她的部落迎來滅亡或被奴役的命運。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>我聽人說起村子的女祭司&lt;b&gt;奈利&lt;/b&gt;對近期湧入的外來者十分不滿。如果我想聽聽她的想法，可以去神龕找她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>瓦利亞商行的&lt;b&gt;卡斯托爾&lt;/b&gt;主管也要求我前往&lt;b&gt;波格科哈拉&lt;/b&gt;，這次是為了搜尋一條光魂珀礦脈並找到失蹤的探險隊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>瓦利亞商行的&lt;b&gt;阿爾瓦瑞&lt;/b&gt;總督也要求我前往&lt;b&gt;波格科哈拉&lt;/b&gt;，這次是為了搜尋一條光魂珀礦脈並找到失蹤的探險隊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>&lt;b&gt;阿蘇拉&lt;/b&gt;是亡焰皇家商行的一名顧問，她要求我破壞&lt;b&gt;波格科哈拉&lt;/b&gt;的光魂珀，使瓦利亞人無法開採。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>我已經清除了魂珀上的腐化力量，平息了在該區域肆虐的風暴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>我摧毀了魂珀，既平息了風暴，又粉碎了開採光魂珀的野心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>一道厚重的門擋住了沙漠遺跡的入口。若想進一步探索，就得想辦法通過這道門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>我殺死了村裡的女祭司&lt;b&gt;奈利&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>這項任務之前失敗了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我清除了魂珀上的腐化力量，在該區域肆虐的風暴似乎也因此而平息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我在&lt;b&gt;波格科哈拉&lt;/b&gt;核心摧毀了魂珀之柱，在該區域肆虐的風暴似乎也因此而平息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我平息了風暴，清除了&lt;b&gt;波格科哈拉&lt;/b&gt;的腐化力量，現在瓦利亞人可以去那裡開始開採光魂珀了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我摧毀了&lt;b&gt;波格科哈拉&lt;/b&gt;的魂珀之柱，因此瓦利亞人無法在那裡開採光魂珀了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>我在異常猛烈且不停歇的風暴中央發現了一座沙漠小島。某種非自然的存在或許處於這場異動的核心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>一支尋找光魂珀的瓦利亞探險隊在海圖上找不到的&lt;b&gt;波格科哈拉&lt;/b&gt;島上失蹤了。留守後方的&lt;b&gt;維克多&lt;/b&gt;想得知他船員的命運。
+
+他確信商行會重賞任何為找回失蹤船員提供情報或協助的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40004</ID>
+      <DefaultText>瓦利亞商行的&lt;b&gt;卡斯托爾&lt;/b&gt;主管提到一座名為&lt;b&gt;波格科哈拉&lt;/b&gt;的島上蘊藏著商機。&lt;b&gt;阿爾瓦瑞&lt;/b&gt;總督之前派過一支探險隊前往該地區，但他們至今音信全無。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40005</ID>
+      <DefaultText>亡焰皇家商行的&lt;b&gt;阿蘇拉&lt;/b&gt;相信瓦利亞商行正打算在&lt;b&gt;波格科哈拉&lt;/b&gt;島上展開光魂珀的開採作業。他要我暗中破壞這次作業，且最好不要造成人員傷亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40006</ID>
+      <DefaultText>環繞波格科哈拉遺跡的風暴異常猛烈，妨礙了提卡瓦拉島上作物的生長。盧亞努酋長擔心惡劣的天氣會威脅到他部落的生存並導致富有的旅行者難以登上他們的島。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

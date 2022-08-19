@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_tekehu_banters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>122</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「麥婭，你還能想起你部落的傳說或是歌謠嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我正在為你和伊希薩寫一首歌，是獻給飛鳥女神亞彌拉的頌歌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你為什麼要盯著我看，小人兒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你以前……是個奴隸嗎？對魚兒來說，大海只意味著自由。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「要我說，眾神造就了我們，肯定不想只讓我們當個海盜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你為什麼要把臉埋在書裡，我的朋友？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你得保護好你的尖耳朵，我的朋友，亞洛斯。那些海鷗永遠都不肯安靜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「呃……沒有。我離開亡焰列島時才出生不久。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我在想，或許……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「又一首胡亞納史詩嗎？等你寫好之後記得叫醒我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我在書上看到……你們的艦隊在納卡羅環礁之戰中表現的很出色。這場戰鬥給雙方都造成了不少損失。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你的頭怎麼了，泰克胡？你……需要什麼東西嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「你能想到嗎，伊希？這個小魚孩還會閱讀呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我的墨汁正在自行補充，我的身體並沒有什麼不適。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「要我說的話，還真是個有意思的伎倆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我以前從沒見過伊希薩還會像這樣跟著音樂跳舞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「要我說，如果連飛鳥和游魚都能成為朋友的話，那一切事情都有可能！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「現在可不是講故事的時候，小魚孩，別讓我叫伊希薩去啄你的眼睛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「這裡的環境很惡劣，但胡亞納人卻做的不錯。這一點你必須承認。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「從前是這樣的，直到他們將領地交給了瓦利亞人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我覺得你會喜歡的，這首歌的旋律源自努瓦泰人的祝酒歌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你……你隨意就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你的……觸手正朝我做著下流的動作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我很抱歉，它們有它們自己的意識。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「好吧，這還……真可愛，雖然有點嚇人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「他當然是個舞者！他照顧著他的胡亞納姐妹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「他……可能只是覺得你要餵他了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我……謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「還是很感謝你這麼說。能從本地人口中聽到這樣的評價，這對我……很重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「皇室人員已經有一段時間沒徵召過我們水塑者參加戰鬥了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「胡亞納人被惹火之後能幹出什麼事情，我們都見識過了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「如果她命令我去擊沉一艘努瓦泰的艦船，我覺得我是不會去做的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「真的嗎？我……答應不告訴任何人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「啊……就當我沒說過這些話吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「泰克胡，你真的相信昂德拉關心你嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「泰克胡，哀歌女士上一次幫助你的同胞，是什麼時候的事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「要我說，亞彌拉賜予了你漂亮的羽毛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「當然，她關心她所有的孩子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「或許就像小孩子喜歡洋娃娃一樣吧，用不了多久，她就會喜新厭舊了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「要我說，聖母恩加蒂每天都會讓潮起潮落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「既然如此，我還有什麼好索取的呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「你是認真的嗎？你們的神這麼不關心你們，你們怎麼還能那麼侍奉她，我實在是理解不了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「饒了我吧，你知道有多少個混蛋對我說過這種話嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「好吧，你的嘴巴也很尖利……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「你為什麼要鄙夷亞彌拉的祝福呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「如果我也有羽毛的話，我會把它整理得整整齊齊，吸引伴侶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「恩加蒂的賜福……要我說，很複雜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「泰克胡，你的……頭髮……可以剪嗎……我是說……可以剪它們嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「海麗婭沒幫過我什麼忙，所以我也不想替他做什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我不得不承認，胡亞納比我們的人更加熱情好客。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「啊，不過你說錯了，這是詛咒。只要我還活著，我就會永遠痛恨海麗婭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「好吧……他們都是這麼教孩子們的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「伴侶？我們是不能生孩子的，白癡。我的羽毛就和你愚蠢的觸手一樣有用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「別聽她的，我的小傢伙們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「沒錯，想要我誇大其辭地讚美它，看起來基本不太可能。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「可以，不過我只剪過一次。那之後的幾個星期裡，它們都不願意搭理我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「真要命！幸好我的羽毛沒有自己的意識。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「要我說，第一步應該由我們先邁出來。這是我們的責任，騎士小姐。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「胡亞納的父母會把剛生出來孩子遺棄掉嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「是啊，我的部落一定很樂於擺下一桌盛宴，對亞彌拉表示敬意！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「太荒唐了！我最不想要的東西，就是一桌向我『母親』致敬的盛宴！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「這些『羽毛』只會讓一群沒腦子的男孩跑過來，睜大了眼睛，對我阿諛奉承。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「沒這種事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「真奇怪啊，是吧，怎麼只有眾神能做出這種事情呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「為什麼我只要一開口，就會把事情弄得更糟……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「要我說，你的耳朵真可憐，它們還腫著呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「俄撒斯為什麼是光之神呢？空中的太陽是他舉著的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「有個好消息，我的朋友裘荻！你的頭上落了一隻神聖的椰蟲！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「你為什麼要盯著我看，女祭司？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「裘荻，要我說，你剛剛踩到了一隻神聖的棕櫚甲蟲！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「要我說，眾神是用堅木和龍骨把你雕刻出來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「你和船長一直都在一起旅行，但從來都沒有……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「你很喜歡撫摸異國風情的動物，是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「我盯著你了嗎？我只是覺得你的思路有點……不太一樣，嗯，就這麼回事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「我只把思想留給自己，我的心向所有人都敞開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「大海裡到處都是漁網和魚鉤，小伙子，希望你能躲開它們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「每個法師都需要一本魔典，當然，你也可以找個地方把你的歌寫下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「你覺得它們會幹什麼？從天上衝下來咬我的耳朵嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「沒錯，肯定也不僅僅只是當個農民，當個漁夫，甚至當個水塑者。當海盜只是一種手段，小伙子，並不是目的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「是啊，想不被咬的話，卡奧拉蘆葦做成的帽子比什麼頭盔都管用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「要不是貨倉裡一股魚味的話，估計那些鳥也不會被引過來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「用蟹卵和甲蟲醬搗成的油膏可以去掉這種味道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「有尊嚴地忍受痛苦，也是一種美德。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「是啊，正是如此。太陽會升起，就是因為有俄撒斯，無論他是死是活。你對這件事有什麼疑問嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「好吧，別等它在上面產卵了，替我把它弄下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「這是個幸運的預兆！要我說，就讓它在上面吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「好吧，但如果它被人捏扁了，那可不是我的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「只是因為……我是說……你的，呃，頭髮。它一直在扭來扭去，就像是有自己的意識一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「你想摸一下嗎？它們不咬人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「我一直都想！不要動，哦……粘糊糊的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「不，我不是有意的！該死，你覺得噩運要降臨到我身上了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「是啊，長老們說，你的鼻子會掉進沙子裡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「這可實在是太——等等，你該不是在和我開玩笑吧？沒有吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「我只是想說，這些神聖的甲蟲似乎都喜歡往我身上飛，這已經是第九隻了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「沒錯……詭騙師恩加蒂的孩子們，和它們的母親的舉止都非常相似！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「不過，我還是得警告你，有一隻塔蘭托狼蛛正在你的後背上爬……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「說得好，不過我這次可不會上當了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我從來不拿蜘蛛和人開玩笑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「這我能接受。到現在為止最沒有討論到我的頭顱的言論了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「不，呃，不是那樣子的。從來沒有那樣想過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「這麼好的機會就浪費掉了，恩加蒂是會哭的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「我嗎？大概吧。大家應該都喜歡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「離這邊的海岸線比較遠的地方，有個地方到處都是海葵。我們一起去那裡吧，你覺得怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「如果你手上的是那種東西的話，我現在就可以馬上拋開這一切有關俄撒斯的使命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「而我恰恰相反。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「天啊，他把光明從別人那裡偷走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「我才不呢！我為什麼要把我心裡的歌聲抄在紙上？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「你要是想被打得鼻青臉腫，你就接著說吧，魚臉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「船長，你這身衣服的顏色太迷人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「我真希望在努亞堡被巨像踐踏之前能見上一面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「當你在身邊時，我感覺亡焰列島有不止一位救星。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「你會考慮在亡焰列島久居嗎？島嶼生活很適合你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「主臥室能住下幾名客人？我的意思是住的舒服。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「對另一個人袒露感情是件很舒服的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「努亞堡肯定有過地牢吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「這裡歡迎訪客嗎，還是只有囚犯？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「船長，你臉上又什麼東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「好吧，只是親一下而已。不用怕，我已經處理好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「要我說，亞彌拉賜予了你漂亮的羽毛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「麥婭，你還能想起你部落的傳說或是歌謠嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「船長……可以和你談談嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「船長……可以和你談談嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

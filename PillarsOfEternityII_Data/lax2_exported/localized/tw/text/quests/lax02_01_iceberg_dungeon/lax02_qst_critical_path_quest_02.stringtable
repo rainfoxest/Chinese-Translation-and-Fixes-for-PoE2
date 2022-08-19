@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax02_01_iceberg_dungeon\lax02_qst_critical_path_quest_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>潮起潮落</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在死亡浮冰內找到Vytmadh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>發現睿姆岡之眼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>通過Vytmadh進入靈界。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>在死亡浮冰內找到Vytmadh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;瓦特尼爾&lt;/b&gt;說&lt;b&gt;死亡浮冰&lt;/b&gt;深處開啟了一道通往&lt;b&gt;白色虛空&lt;/b&gt;的傳送門，而這道門也使冰山體積越來越大。
+
+如果我想阻止無盡寒冬的蔓延，我就應該先找到這道通往&lt;b&gt;靈界&lt;/b&gt;的大門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>瓦特尼爾也不清楚死亡浮冰為何越來越大，但他建議我去位於&lt;b&gt;這座冰封島嶼中央&lt;/b&gt;的一座&lt;b&gt;神廟&lt;/b&gt;，並在藏於神廟中的靈界入口&lt;b&gt;Vytmadh&lt;/b&gt;開始我的搜索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我與睿姆岡進行了交談，這位恐懼之神確認了寒冰蔓延的源頭就是Vytmadh。
+
+但祂警告我說，我若想進入傳送門就必須擁有名為睿姆岡之眼的遺物，否則必死無疑。睿姆岡之眼一度由此處地位最高的守護者持有，但她已經在多年前一次巨龍襲命中喪生。
+
+如果我打算關閉Vytmadh，我首先得找到&lt;b&gt;睿姆岡之眼&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我發現睿姆岡之眼在一隻冰妖精手中，並將其取回。現在我已經擁有了遺物，我可以使用&lt;b&gt;Vytmadh&lt;/b&gt;進入&lt;b&gt;靈界&lt;/b&gt;了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>如果我想阻止死亡浮冰不斷擴大，我必須找到先驅領袖提到的&lt;b&gt;Vytmadh&lt;/b&gt;。我應該探索冰山的其餘區域並想辦法阻止其擴大。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我從先驅的撤退現身時，剛剛被我擊殺的龍死而復生。似乎有一股非自然的力量將它帶去了&lt;b&gt;冰山頂端&lt;/b&gt;。也許這頭巨獸或是將它從先驅之守望挪走的存在知道更多&lt;b&gt;Vytmadh&lt;/b&gt;的相關情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我探索冰封神廟期間，目睹了因遭遇某種襲擊而被冰封在這裡的人們的靈魂幻景。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>在神廟內，我又看到了在襲命中喪失的靈魂的幻景。他們想要協助一個名為&lt;b&gt;雷哈妲&lt;/b&gt;的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我找到了&lt;b&gt;巨龍&lt;/b&gt;，發現它正在被強行拖入&lt;b&gt;Vytmadh&lt;/b&gt;的白色嚴寒之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我在&lt;b&gt;Vytmadh&lt;/b&gt;附近發現了一具&lt;b&gt;凍結的屍體&lt;/b&gt;，似乎此人到死都緊握著&lt;b&gt;一個擁有強大力量的物件&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>一個長著鋒利的小爪子的生物把這樣物件從守護者凍結屍體的手中奪走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我穿越了Vytmadh，進入了靈界。現在我必須在其中搜尋妨礙封印&lt;b&gt;傳送門&lt;/b&gt;的&lt;b&gt;巨龍&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>&lt;b&gt;高階先驅瓦特尼爾&lt;/b&gt;臨死前提到了一個叫&lt;b&gt;Vytmadh&lt;/b&gt;的東西，並說它會無休止地蔓延下去，併吞噬整個世界。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

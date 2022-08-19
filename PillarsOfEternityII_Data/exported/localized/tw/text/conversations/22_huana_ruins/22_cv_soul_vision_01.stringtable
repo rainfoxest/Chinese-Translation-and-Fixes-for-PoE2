@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_cv_soul_vision_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這個靈魂的碎片，帶著深深的憂慮和猶豫振動著。當你靠近時，它會帶著一種盲目的緊張感向你漂去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[讀取靈魂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你氣喘吁吁地一路奔逃，雙手緊握著精美的金環。及髖深的水減慢了你狂奔的速度，但你仍然懷著一絲希望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>叢林中響起一陣痛苦的尖叫。你心慌意亂，扭頭就跑，卻又跟一個龐然大物撞個滿懷。這個龐然大物將她的注意力轉移到你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>她用一隻骨瘦如柴的爪把你拽起來，就像拽洋娃娃一樣。透過讓人迷失方向的陰霾，你可以隱約看清她的臉和乳白色的眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>她抓住金環，將它掛在一棵高高的、粗糙的樹上。
+
+她說出了你將遭受的可怕命運——成為林地的養料，灌溉她的孩子們，但她的語氣聽起來彷彿這是一種榮耀。
+
+你真希望自己能聽信她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>視線消散在痛苦和困惑的陰雲中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[不要執著於回憶。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>裘荻輕輕搖著燈籠，將靈魂引入其中。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

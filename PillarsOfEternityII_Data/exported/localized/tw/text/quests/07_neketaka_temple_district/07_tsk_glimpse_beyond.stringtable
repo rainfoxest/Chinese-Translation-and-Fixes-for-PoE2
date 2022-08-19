@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_neketaka_temple_district\07_tsk_glimpse_beyond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>窺視靈界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>與&lt;b&gt;靈魂先知尖塔&lt;/b&gt;塔頂的&lt;b&gt;佛羅恩·伊萊特&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>開始鑄魂學實驗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>想辦法返回&lt;b&gt;實體世界&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>與&lt;b&gt;佛羅恩&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>回去找&lt;b&gt;卡斯托爾主管&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;聖梯&lt;/b&gt;的&lt;b&gt;鑄魂師們&lt;/b&gt;正在使用光魂珀進行某些古怪的實驗，他們急需志願者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>卡斯托爾主管想讓我幫助涅克塔卡的一群鑄魂師。他們正在聖梯區的&lt;b&gt;靈魂先知尖塔&lt;/b&gt;塔頂進行實驗。首席研究員&lt;b&gt;佛羅恩·伊萊特&lt;/b&gt;會在那裡等我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;佛羅恩&lt;/b&gt;告訴我，如果我準備好再次進行實驗的話，就來&lt;b&gt;靈魂先知尖塔&lt;/b&gt;找她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>實驗出了很大差錯，我好像被傳送到了&lt;b&gt;靈界&lt;/b&gt;的某個地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我活著回到了現實世界。&lt;b&gt;佛羅恩&lt;/b&gt;肯定想知道發生了什麼事情，不過，和她想的恐怕不太一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>鑄魂師們正在調整機器，準備進行後續實驗。我可以去找&lt;b&gt;卡斯托爾主管&lt;/b&gt;匯報情況，獲得更多任務。
+
+他應該就在女王港的&lt;b&gt;瓦利亞商行總部&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;佛羅恩&lt;/b&gt;聲稱她的研究團隊發現了某種辦法，可以利用我的力量在&lt;b&gt;暗空&lt;/b&gt;中穿行……這麼說吧，他們打算把我從一根魂珀之柱傳送到另一根柱子。他們希望我也能參與實驗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>看起來，我被困在了&lt;b&gt;睿姆岡的領域&lt;/b&gt;中，&lt;b&gt;寒冬巨獸&lt;/b&gt;肯定會很喜歡這個消息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>這裡看起來並沒有出口。看來，我只能說服&lt;b&gt;睿姆岡&lt;/b&gt;把我放出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>儘管鑄魂師們的實驗並不像計劃得那樣順利，但我還是平安無事地活下來了。佛羅恩對此感到很抱歉，給了我一些錢作為補償。她希望我以後還能再回來參與實驗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>儘管鑄魂師們的實驗並不像計劃得那樣順利，但我還是平安無事地活下來了。對卡斯托爾的科學進步之夢而言，這算不上開了個好頭。不過他似乎對實驗結果很感興趣，還給了我一部分報酬。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

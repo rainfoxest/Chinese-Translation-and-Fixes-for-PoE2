@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_deadlight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>有仇必報</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往舷窗堡壘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>找到本維斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>想辦法接近本維斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>與本維斯對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>流亡皇族的首領弗蘭特向我揭示了我在海上遇到的攻擊者的身份與位置：一名躲在了海盜避風港舷窗堡壘裡的海盜船長，那個人的名字是本維斯。他建議我去舷窗堡壘復仇，他表明自己與我一樣希望本維斯死。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>本維斯已經回到舷窗堡壘。固諾金湯的要塞就在亡焰列島西南部的一座小島上。這裡是各種各樣海盜的老巢。不管是靠蠻力還是玩陰的，想進入本維斯都非易事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已到達舷窗堡壘。本維斯就在堡壘某處。先查明他的方位，然後想想怎麼找到他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>本維斯定居在堡壘高層，把自己鎖在層層防禦內。正面路線阻力極大，也許有別的什麼辦法繞過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我明白該怎麼進入本維斯所居住的舷窗堡壘船長區禁地了。雖然有法子正面突破了，但也許還有繞過去的辦法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>舷窗堡壘的領主是皇族海盜一個大型子派系的領袖艾戴斯。在她消失的時間裡，本維斯經營著堡壘，但大部分居民都只是對艾戴斯忠誠而已。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>弗蘭特不鼓勵正面進攻。此地的高牆、大炮與海盜可不是好惹的。他建議我們悄悄摸進去，或扮成皇族海盜混進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>要是能掛皇族海盜的旗，我就能偽裝成海盜停靠在舷窗堡壘了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我以蠻力入侵了舷窗堡壘。現在這一區域的海盜都將對我兵戎相向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我冒充海盜將船停在了舷窗堡壘。要是被人看出來，我可能就有麻煩了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我趁著夜黑風高摸進了舷窗堡壘中。堡上的海盜沒有懷疑我的理由，除非我出現在不該出現的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>目前，除非是本維斯自己的貨運，否則堡壘的護牆與地牢禁止任何人出入。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>本維斯的守衛用號角來發警報。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>我知道如何用守衛號角來轉移守衛的注意力了，不過這招應該只能用一次。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>在舷窗堡壘的餐廳舉行一次吵鬧的饕餮派對也許就能把本維斯從防禦重重的船長休息區裡引出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>莫珂認為舷窗堡壘的派對需要艾戴斯的特製朗姆酒來吸引海盜。這種高檔酒存放在堡壘東部護牆的升降機處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>如果我把拉蒙德的船員們從舷窗堡壘的地牢裡放出來，他就答應我打開通向堡壘高層的門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>拉蒙德的船員們被關在地牢東南部。牢房的鑰匙可能在獄卒的位子上或身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>據悉本維斯喜歡在舷窗堡壘的派對正熱時演奏羽管鍵琴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>莫珂需要廚師做點特色菜，這樣舷窗堡壘裡的派對就會更加「熱鬧」了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>拉蒙德將會在我解決舷窗堡壘地牢下方的私人碼頭裡本維斯的船員們後盜取亞龍號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>掃平碼頭之後我需要敲響西面圍牆上的大鐘以通知拉蒙德去盜取本維斯的船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>我需要穿過火藥室與本維斯的衛兵才能接近地牢北側的廚師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>拉蒙德準備將本維斯趕出他的私人房間，這樣子就不用考慮衛兵的問題了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>我已經得到了艾戴斯的精品朗姆酒。莫珂得到這些肯定很開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>我已經將拉蒙德的船員們救了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>我已經得到了莫珂需要的特殊菜餚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>我已經清理了私人碼頭。只要我一敲響城牆上的大鐘，拉蒙德就將開走本維斯的亞龍號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我擊敗了本維斯，並因此在亡焰列島的海盜圈子裡面打響了自己的名氣。襯艙城裡的弗蘭特船長知道多管閒事的海盜已死的消息肯定很高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我對本維斯進行了復仇，並因此在亡焰列島的海盜圈子裡面打響了自己的名氣，不過我到最後還是饒了他一命。聽到我成功的消息，弗蘭特理的弗蘭特船長一定會很高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

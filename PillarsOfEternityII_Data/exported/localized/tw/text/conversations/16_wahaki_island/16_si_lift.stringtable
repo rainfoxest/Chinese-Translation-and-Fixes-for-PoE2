@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\16_wahaki_island\16_si_lift</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>乘坐木製升降機可以到達高聳懸崖上遠離叢林的定居點。
+
+升降機現在升到了高地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[乘坐升降機返回地面。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>這台升降機在複雜滑輪的幫助下，可以升到高地的高度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[乘坐升降機上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[朝升降機投擲抓鉤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>抓鉤成功鉤住了升降梯，你可以靠這跟晃晃悠悠的繩子爬上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>抓鉤沒能飛到升降梯的高度，落回了地面。你小心地把它收起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[爬上高地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你爬達了頂端，擺盪上了高地，準備面對一場惡戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>乘坐木製升降機可以到達高聳懸崖上遠離叢林的定居點。
+
+升降機現在升到了高地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>守衛懸崖的瓦哈奇戰士發出一聲呼喊示警。弓箭手們朝你的方向搭弓射箭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你用繩子往上爬的同時，弓弦震動的聲音表明弓箭手已經發動了一輪齊射。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你巧妙地利用繩子，眼花繚亂地搖晃著身體，勉強避開了箭矢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>一支箭噗的一聲扎進了你的體側。你咬咬牙克制住了尖叫的衝動，然後拼盡全力無視痛苦繼續往上爬。
+
+血液形成涓涓細流滴向下方遙遠的地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你加快了攀爬的速度，由於速度太快，弓箭手無法預測你的行動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>高地上沒有人注意到你的企圖，只不過你估計要是他們發現了你的行為，恐怕不會高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你在往上升的途中，木頭的嘎吱聲和繩子緊繃的聲音不絕於耳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>升降機拉緊了吊著它的繩索，滑輪將你慢慢地降至地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[乘坐升降機返回地面。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

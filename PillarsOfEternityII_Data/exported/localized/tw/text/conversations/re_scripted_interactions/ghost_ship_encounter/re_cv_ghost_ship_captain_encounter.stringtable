@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\ghost_ship_encounter\re_cv_ghost_ship_captain_encounter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一群狂暴的不死族湧向你的船。不過它們隨後又突然停下腳步，從中一分為二給船長讓出道路。利文邁著堅實有力的步子走來。她停了一下，銳利的眼神直射向你——彷彿要把你燒穿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;link="neutralvalue://瓦利亞語：把噬魂者之劍給我！"&gt;"Derme o Engoliero do Espirs!"&lt;/link&gt;
+
+她伸出一隻骷髏手向你要劍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[撒謊]「你說這把嗎？我是在垃圾堆裡撿來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「不行。我殺了耶蘇亞才拿到這把劍的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「抱歉，我向耶蘇亞承諾過會用這把劍殺死你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「這把劍按理應屬於我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「就算耶蘇亞像我一樣把它弄丟了——誰會讓如此珍貴的寶劍遭受如此境地？不，我不相信。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「那麼我非常感謝你。現在把我的噬魂者之劍還給我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我不會放棄這把劍的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「做個交換如何：用你的船來換這把劍？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[把劍給她。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「等我將你屍體中的靈魂完全征服之後，你&lt;i&gt;就會&lt;/i&gt;將這把劍拱手交給我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我之前在鹿林清理過你們這種傢伙。我有本事並且馬上會幹掉你，亡者守衛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「哦，那就來試試吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「他肯定就是努亞堡的靈視者。屠戮不死族的殺手。也是殺死瑞德利克的人。」漂浮吊死鬼號上的一些不死族懷著恐懼向後退去。</DefaultText>
+      <FemaleText>「她肯定就是努亞堡的靈視者。屠戮不死族的殺手。也是殺死瑞德利克的人。」漂浮吊死鬼號上的一些不死族懷著恐懼向後退去。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>利文轉過身去，一出手便將某只吸血妖砍為兩段。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>利文沉默著向後退去，而其身後的不死族則開始蜂擁向前，一邊高聲發出戰吼一邊向你的船爬來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我不對這把劍討價還價。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「有個名叫弗蘭特的達寇茨聖武士需要你的船來運送舊瓦利亞的難民。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我代表艾戴斯船長來此。她打算去掠奪烏凱佐，並且需要你的方菲羅斯號助一臂之力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「&lt;i&gt;如果&lt;/i&gt;這個弗蘭特真是個達寇茨聖武士，他就應該幫助他將這把劍交還給皇室血脈不是嗎？我的船和瓦利亞大帝國有什麼關係？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「方菲羅斯號可以穿越烏凱佐周圍的風暴屏障，而弗蘭特希望能在那裡建立新的瓦利亞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「這個弗蘭特何德何能，可以接受瓦利亞的傳承？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「作為達寇茨聖武士，我在此向你懇求——我一定會保證弗蘭特履行諾言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「瓦利亞王室已經成為了過往。但這把劍仍然有其作用——那便是在皇族海盜的手中代代傳承。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我需要你的船來阻止俄撒斯摧毀貝拉斯之輪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你的海盜船長就是死上一千次也與我無關。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「一艘船可以隨便換，但這把劍不行。你把船和我換一下，我就把劍給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「你別無選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你是打算堅守自己對貝拉斯的誓言了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我曾許下誓言。我不會背盟棄約。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「如果你還想佔著我的東西不放——那你可就大錯特錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「你這艘船就是一堆爛木板。不過為了這把劍，就按你說的吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「除了這把劍，我&lt;i&gt;還&lt;/i&gt;給你一艘好船——我這艘船和你的交換一下。你意下如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「你這艘船看起來也還可以。為了這把劍，就按你說的吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我不曉得這件事和我有什麼關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「倘若達寇茨血脈都變為了空嬰，你還要如何履行職責呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我可以把方菲羅斯號交給你，但你必須用這把劍和你的船作為交換，讓我能夠完成使命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「歸你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「把我的船給你？你這輩子想都別想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你說的也有道理。」她用一根指骨敲著下頜骨陷入沉思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我尊重你的信仰。但我不能隨便信任一個尚未謀面之人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「如果皇族海盜真的是達寇茨遺脈的最貼近者，那我必須將這把劍交給他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我在追捕一名四處遊蕩的神明，但沒有方菲羅斯號的話我無法抓住他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「沒有貝拉斯之輪的轉動，艾歐拉終將漸漸停滯死亡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「一言為定。」她點點頭收下了長劍。她欣喜地將其舉過頭頂，然後示意手下的船員開始將貨物搬運至你的船上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「那我也只能讓這把劍沾上你的鮮血了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>利文欣喜地將寶劍舉過頭頂。隨後她將其指向遠方，手下的船員們也趕緊準備起航——破爛的船帆緊緊束起，銹蝕的船錨浮出水面，這艘船就這樣奇異地離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你這個論據倒是挺有說服力。不過很抱歉，我不能讓你的個人事務阻礙我的使命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「恕我難以苟同。要知道我大可直接殺了你然後取劍繼續搜尋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「你說自己是聖武士——但你身上能體現出何種教會的氣質呢？我可是一點都沒看出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「你是個聰明的聖武士吧？你應該明白我為何不能盲目相信一個尚未謀面之人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「你憑什麼要這把劍？這把劍是我盜墓得來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「巧了我也是。我的誓言永恆無盡。你也是嗎？」亡者守衛點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「你會這麼想也很正常，不過……」摩德維爾的劍柄像燒紅的木炭一樣發光，末端的圓頭升起一縷青煙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>利文歪了歪腦袋，頂著腦袋的脖子上的肉已掉光。她雙眼放光，眼前的一幕勾起了她的興趣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「真的嗎？我希望你是從貝拉斯那乾枯而了無生氣的雙手中奪來的。不過這並不能改變此劍為我之物的事實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「那端坐於宮中王座之上的又是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「宮殿已被燒燬，再未重建。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「瓦利亞大帝國數百年前便已傾覆。如今的皇族海盜便是當年帝國崩塌之時難民的後裔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「他會的——只要你把劍和船交給他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「你們誰對這件事還有什麼想說的嗎？有哪個懦夫想離開我的船隊？只有一條出路可選——你們都明白吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>船員們都陷入了死一般的沉寂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「露西亞·利文，我特此徵用你的船！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「你打算從我手中把方菲羅斯號&lt;i&gt;以及&lt;/i&gt;噬魂者之劍都偷走？你未免太狂妄了。」
+
+「你只能以我船員的身份上我的船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[攻擊]「漂浮吊死鬼號的船長該換我當了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「錯，你最多只能當大副。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「好極了。你的兩把劍我今天都要了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>漂浮吊死鬼號上的一些不死族懷著恐懼向後退去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>隨著最後一名不死族被擊殺，漂浮吊死鬼號如今成為了你的所有物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>你站在漂浮吊死鬼號的船舵處，示意水手長揚帆起航。海風呼嘯著刮過破舊的船帆。腐爛的木板隨著船體逐漸加速而吱呀作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>當幽靈船與你打了個照面並向相反方向駛去時，利文舉起拳骨向你致意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「船員們！Derme o Engoliero!把劍奪來，殺光生者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>你用這把劍換取了利文的漂浮吊死鬼號後，示意船員準備起航。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>利文朝你舉起這把劍，恭敬地向你做最後的道別。接著，亡者守衛和她剩下的船員也離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

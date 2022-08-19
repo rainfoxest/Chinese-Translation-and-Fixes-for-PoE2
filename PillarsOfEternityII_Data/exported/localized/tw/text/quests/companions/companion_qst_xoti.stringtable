@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_xoti</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>岡恩的燈籠</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>幫助裘荻指引在亡焰列島迷途的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與裘荻探討她做的那些有預兆性的惡夢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>在岡恩神廟裡進行靈魂淨化。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>與裘荻談談她日漸險惡的夢境。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>帶裘荻去光魂珀之柱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>帶裘荻去涅克塔卡找鑄魂師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>與淨化後的裘荻旅行</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>為了侍奉&lt;b&gt;岡恩&lt;/b&gt;，&lt;b&gt;裘荻&lt;/b&gt;在整個亡焰列島上追逐著&lt;b&gt;俄撒斯&lt;/b&gt;。很顯然，她是個任性的晨星之子，她希望我能幫她引導死者的靈魂。然而，她的使命感也讓她付出了代價。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>作為岡恩的女祭司，裘荻的神賦任務是用岡恩的燈籠照亮孤魂的道路、收割它們。
+
+我決定在追逐俄撒斯時順道幫助她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我遇到&lt;b&gt;裘荻&lt;/b&gt;的時候，她就和我說起過她的預知夢。我注意到，每當裘荻收割靈魂之後，她的行為就會變得更加古怪。現在，她的夢境變得越來越可怕。她日漸模糊的心智值得我擔憂。
+
+我應該去查明她的現狀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>裘荻為神明收集的靈魂數量日漸增長，她肩上的負擔也越來越重。她打算試一試，在&lt;b&gt;岡恩神廟&lt;/b&gt;前面的雕像處進行淨化儀式。她希望這個儀式能驅散她心智中日益加劇的黑暗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>裘荻的末日啟示惡夢和白日幻象的頻率與強度都日漸增大。下次休息時，我應該與她聊聊她的現狀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>要是能找到光魂珀之柱，裘荻就能將她收集到的靈魂放入她的燈籠，以此賦予它們新生，正如冥界諸神所做的那樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>我成功勸說裘荻與涅克塔卡靈魂先知尖塔頂的鑄魂師合作來幫助後者對人工重生的研究。俄撒斯打破貝拉斯之輪後，這是我們生存的最佳手段。
+
+我會將裘荻介紹給靈魂先知尖塔的首席研究員佛羅恩·伊萊特。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;不太確定淨化儀式是否能長期減輕惡魔的侵擾，但儀式結束之後，她的情況似乎確實好了一些。與此同時，她打算繼續履行她的職責，收集更多靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;的神聖職責是用燈籠收集靈魂。燈籠束縛的靈魂越來越多，裘荻心頭的擔子也日漸加重。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我鼓勵裘荻追尋岡恩的死亡後重生之燈籠發出的光明。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我鼓勵裘荻擁抱岡恩的重生前死亡之鐮刀的黑暗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>裘荻坦白說她一直都不只想收割死者的靈魂。她的職責是指引迷魂進行重生——但目前為止她只做到了自己使命的一半。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我鼓勵裘荻追尋岡恩的秋後回春之燈籠發出的光明。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我鼓勵裘荻擁抱岡恩的春日前入秋之鐮刀的黑暗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我在山崖邊的神殿裡看到一根光魂珀之柱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我在國王港競技場地底看到一根光魂珀之柱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>我在涅克塔卡的海麗婭神殿，即鑄魂師所在之處看到一根光魂珀之柱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>我在哈桑戈的燈塔裡看到一根光魂珀之柱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>我在涅克塔卡的貝拉斯神殿地底的懸墓看到一根光魂珀之柱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>裘荻在國王港附近的採掘點收集到了一個靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;在&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;收集了一個靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;在&lt;b&gt;未標小島&lt;/b&gt;上收集了一組靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;在&lt;b&gt;灰燼之胃&lt;/b&gt;中收集了一個靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;在涅克塔卡&lt;b&gt;峽谷的黑市&lt;/b&gt;裡收集了一個靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;在涅克塔卡的&lt;b&gt;亞柯彌莊園&lt;/b&gt;下收集了一個靈魂</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;在國王港附近的&lt;b&gt;維洛艾之息&lt;/b&gt;中收集了一個靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;在國王港附近的&lt;b&gt;格雷西街道&lt;/b&gt;中收集了一個靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>我鼓勵&lt;b&gt;裘荻&lt;/b&gt;不要釋放她收集到的那些靈魂。這麼做可能會讓她的情況變得不穩定，但同樣也會激發她深處驚人的力量。儘管如此，她還是希望能找到某種辦法釋放這些靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>當我切斷了俄撒斯與魂珀之柱之間的緞帶後，魂珀之柱恢復了光芒。&lt;b&gt;裘荻&lt;/b&gt;已經可以收集國王港附近&lt;b&gt;英格維仙挖掘場&lt;/b&gt;裡部分失落的靈魂了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;在&lt;b&gt;涅克塔卡小島的營地&lt;/b&gt;處收集了一組靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>我復原了&lt;b&gt;波格科哈拉&lt;/b&gt;的&lt;b&gt;光魂珀之柱&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;無法收集國王港附近&lt;b&gt;英格維仙挖掘場&lt;/b&gt;中焦灰屍體的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>我鼓勵&lt;b&gt;裘荻&lt;/b&gt;追尋岡恩的秋後回春之燈籠發出的&lt;b&gt;光明&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>我鼓勵&lt;b&gt;裘荻&lt;/b&gt;擁抱岡恩的春日前入秋之鐮刀的&lt;b&gt;黑暗&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>我鼓勵&lt;b&gt;裘荻&lt;/b&gt;擁抱岡恩的春日前入秋之鐮刀的&lt;b&gt;黑暗&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>&lt;b&gt;裘荻&lt;/b&gt;收集了涅克塔卡&lt;b&gt;舊城&lt;/b&gt;中的某個靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>裘荻信任諸神能帶來重生，因此她指引收集到的靈魂進入一根光魂珀之柱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>為了輔助人工重生的過程，裘荻選擇信任鑄魂師，將她收集的靈魂交給他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>裘荻選擇吸收燈籠收集的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

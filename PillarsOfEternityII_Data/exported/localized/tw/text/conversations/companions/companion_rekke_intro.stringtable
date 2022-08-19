@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_rekke_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「Ta, yuki...Ke tagi. Lash tasam.」雖然他並不明白你說的話，但他理解了你的意思。雷科朝你笑了笑並快速地點點頭，表示理解了你的意思，也可能是為了表達謝意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>甲板上有個年輕人在等著你，他穿著你從來沒見過的厚重衣服，戰袍的顏色明艷醒目。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「Lap kun imak'ihe?」他咳著說出最後一個字之後，就趴在了甲板上，一大堆海水嘔到了甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我通常都不反對毫無意義的寒暄，但現在恐怕不是時候。」亞洛斯看著那個人，眼神中帶著困惑和關心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「希望他吐出來後，講話就不是那個樣子了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我也這麼想，朋友。」麥婭做了個鬼臉，後退了一步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「什麼？他在說什麼呢？那是以撒密陀語嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「『膝蓋貼到褲子了？』還是等等吧，小傢伙，等你看起來沒那麼像條死魚的時候再說。」
+
+塞拉芬笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我應該明白他的意思嗎？無論是他說的話，還是他吐的東西？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你會說聚鹿語嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[古聚鹿語] &lt;link="neutralvalue://古聚鹿語：君亦知夫古聚鹿語乎？"&gt;「Scaketh fe Eld Aedyran?」&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[瓦利亞語] &lt;link="neutralvalue://瓦利亞語：您可懂得瓦利亞語？"&gt;「Perla Vailian, fentre?」&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[以撒密陀語] &lt;link="neutralvalue://以撒密陀語：儂曉得以撒密陀語伐啦？"&gt;「¿Ixamitl ye llank'ayku?」&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「Ke tetahibi?？」他深深地歎了口氣，搖了搖頭。
+
+由於在海中掙扎很久，他的長髮打起了結。他盡可能地把頭髮捋順，打了個鬆散的結。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「Ke lagahak tetahakus?」他絕望地舉起雙臂，擺出個無可奈何的手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「Ku？」他揉了揉前額，深深地皺著眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「Kun imatak'ihe?」他歪著頭，瞇起了眼睛，似乎彷彿聽過這種語言，但就是不明白這些話是什麼意思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[英格維仙語] &lt;link="neutralvalue://英格維仙語：膩會所英格維仙語嘛？"&gt;「E dhnei toi Engwith?」&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[奧德尤瑪語] &lt;link="neutralvalue://奧德尤瑪語：奧德尤瑪語咋說你茲不茲道？"&gt;「Tele dha Ordhjoma?」&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[胡亞納語] &lt;link="neutralvalue://胡亞納語：胡亞納語喔，哈納吸馬斯嘎？"&gt;「Kautō e kui ne Huana?」&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[努瓦泰語] &lt;link="neutralvalue://努瓦泰語：你歪剛努瓦泰語發？"&gt;「A kana Rauataian ō ikoru ne?」&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[靈博語] &lt;link="neutralvalue://靈博語：雷歲港靈博語咩？"&gt;「Vii dornesti za Lembur?」&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「Shiyiz ikihakus?」他用手掌捂著眼睛，深深地吸了口氣，肩膀耷拉了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「Usuyii ihakus!」他呲起牙，深深地吸了口氣。不過他的怒氣很快就消失了，他抿起嘴，露出了挫敗的愁容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「Lash ku hakusa?」他幾乎是喊著說出了這句話，語調中帶著明顯的挫敗感。
+
+他把拇指和食指壓在一起，深深地吸了口氣。當他再次看著你的時候，臉上的憤怒已經消失了，取而代之的是無可奈何的愁容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「舡秫鶿珮？」他使勁搖了搖頭，做了個鬼臉。一縷縷水從他打結的頭髮流到了他的臉上，他猛地噴了口氣，把水吹走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「Ah, ke tetahun muhan kugatug?」他做了個鬼臉，搖了搖頭。他把拇指和食指壓在一起，深深地吸了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「你還好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「你的船發生了什麼事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「哉諑閌？聠珮痦？扃磨麵馺訿聠蔥？」他皺起了眉。你聽不懂他說的話。這種語言聽起來又低沉又粗糲，但他的聲音卻非常柔和，還帶著某種困惑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你叫什麼名字？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「Um, ke tetahun- ke tetaheb-」他重複著這些話，目光從你的臉上轉到了甲板上。他咬著手指，陷入了沉思之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[點頭。]「歡迎上船，雷科。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[指著自己，慢慢地說出你自己的名字。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「啊！瀦鶓詚雷科。雷——科，掔？」他的目光中出現了喜悅，這是你第一次從他臉上見到這樣的神情。說出自己的名字之後，他用手點著自己的眉心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「如果你對我的船員造成威脅，雷科，我就會把你從穿上扔下去。希望你聽明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「Muki kasube. Ke tahibi, ke tagi.」雷科目光審視著你，彷彿是第一次認真地打量你的樣子。
+
+之後他就咧開嘴笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我猜你就算是我的同伴了……暫時算是吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>他勉強站了起來。由於浸在海中，被太陽暴曬，再加之受了傷，他幾乎站不穩腳跟。他踉蹌了幾下，之後站了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>他警惕地看著你，睡眼惺忪，看起來疲憊不堪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>他轉過頭凝視著翻滾著的海面。你並不知道他在想什麼，但是你可以從他脖子上暴漲著的血管與身側捏緊的拳頭看出來他似乎準備做決定了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>他歎了口氣。「Ke lak tekatu tetatig hun, t'ekiwa ke kek tetayiteh tetaki mas shan. Ke lash tat'atay lu?」
+
+說完這些之後他無奈地笑了起來，他明白你沒辦法理解他說的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我明白了。你叫做雷科。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「什麼？我沒聽清。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「Ta, ta!」他甩了甩自己的拳頭，表示自己很高興總算跟你互相理解了。他蒼白的臉頰也因為放鬆了下來而展現了一團紅暈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「雷——科。」他再次點了點自己的額頭，然後對著你重複了一遍你的名字。他綠色的眼睛裡面閃爍著睿智和沮喪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[聳聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>雷科深呼吸了一口氣，想要壓住自己的煩惱。當他緩過來之後，他給了你一個大大的微笑，他臉上長長的傷疤皺了起來，最裡面迷人的爛牙也露了出來。
+
+他看上去已經接受了讓自己被理解需要很長時間這一事實。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「Ke lash tat'atay lu?」他重複著自己最後一句話，這一次他指向了你的船，你，你的船員然後最後指向了自己。
+
+看上去他想要跟你一起旅行。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_sea_cave_swim</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>這裡的水面閃爍著怪異的藍光，由於反光的緣故，山洞也閃著光。
+
+洞窟的牆上有個朝向西北方向的洞，水流也在往那個方向流動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[尋找氣穴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[游過去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[戴上你的潛水頭盔。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你再一次站在水池前，看著遠處的隧道。海水懶洋洋地擊打著你附近的石頭，發出了持久不衰的背景音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你的隊員們狠狠地吸了一大口氣之後，潛入了隧道中，沿著曲折的巖壁不斷前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你把笨重的頭盔戴在了頭上，走入水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>隧道乍一看似乎沒多長，但沒過多久就開始急轉彎，你不知道它會通往什麼地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你深吸了一口氣，潛入了冰涼的水中。你沿著巖壁前進，用手摸索著隧道中還沒有完全被水浸沒的地方。
+
+你來回折返了幾次，不過最後還是找到了一個可以呼吸的安全場所。呼吸了一大口新鮮的空氣之後，你游到了隧道的另一端。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[派人去前面尋找氣穴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你深吸了一口氣，潛入了水中。水很涼，但並不會讓人感到不舒服，於是你一直向前游到了隧道裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>隧道突然轉向，你沿著山壁繼續向前，想找找有沒有可以抬頭呼吸的地方，但一無所獲。水弄疼了你的眼睛，水下的石頭看起來都一模一樣，這讓你失去了方向感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Specified 0]游得很快，很快就穿過了水底。
+
+在通道另一處不遠的地方，[Specified 0]找到了一處可以呼吸的氣穴。有了可以呼吸的地方之後，這條隧道應該能更容易地游過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0]潛入了水中，穿過了昏暗的洞穴。洞穴變得曲曲折折，上面的石頭也看起來幾乎一模一樣。雖然他很努力地在找，但什麼都沒有找到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>裝備的重量並沒有影響到你，你有力地劃著水，不斷向前游動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你來到了另一個看起來像是小洞穴的地方，日光從上面岩石的開口處照了進來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你來到了另一個看起來像是小洞穴的地方，月光從上面岩石的開口處照了進來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你潛入了已經輕車熟路的隧道，再一次來到了山洞的另一側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你才游到一半，[SkillCheck 0]就開始掉隊了。剩下的距離越來越近，他的心裡也越來越著急。
+
+[SkillCheck 1]折了回來，把[SkillCheck 0]拉到了安全的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你在昏暗的隧道中不斷尋找方向，試圖穿過水域。由於不用擔心氧氣不足，這個過程變得簡單多了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你在昏暗的水中不斷前進。隧道猛地拐了幾個彎，到處都是一模一樣的石頭，沒過多久你就開始分不清方向了。
+
+你充滿決心，不斷地向前游著，但沒過多久，你就發現你實在是低估了這段隧道的長度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>感覺已經快要憋死了，你不得不沿著來時的方向返了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你一開始游得很快，但當通過隧道的第二個轉角的時候，你的肺就開始感到火辣辣的。
+
+所幸，你剛好找到了一個可以呼吸的氣穴。找到了這個可以在途中休息的地方，你很確定能毫不費力地穿過隧道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>你有力地劃著水，游動的速度很快，而且你在起始點附近找到了幾個位置恰到好處的氣穴。
+
+你很確定能毫不費力地穿過隧道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你不得不返回原處，把頭伸出水面，大口喘了幾口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Specified 0]不得不返回，否則可能就要淹死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>在穿過隧道的過程中，氣穴幫了你不少忙，讓你能在中途進行換氣。你很快就穿過了隧道。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

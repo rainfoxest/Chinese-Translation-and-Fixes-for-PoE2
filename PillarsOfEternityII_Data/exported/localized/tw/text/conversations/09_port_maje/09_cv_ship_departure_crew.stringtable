@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_ship_departure_crew</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「很好，你來了，克拉里奧遵守了他的承諾。我們馬上就能把你的船修好了。」
+
+伊卡瓦指著你的船，一大群胡亞納人和瓦利亞人來來往往。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我覺得，你確實運氣不錯，[Player Name]。那艘船差點就沉了，但它還是浮起來了。
+
+「但我說不好它還能撐多久。我覺得，你最好趕緊找到一個能修船的港口，越快越好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「來吧，讓我們為你的反抗者號送行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「快動起來，你們這些傢伙！還有你！注意一下那邊的支撐！」
+
+粗暴地揮了揮拳之後，她轉過身看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「哦，你來啦。那邊有艘小艇上還刻著你的名字呢。」
+
+「我們會盡我們所能，盡快把反抗者號修好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「要是那個胡亞納女祭司能幫我們施個法術的話，這他媽的肯定容易多了，不過……我們也只能對付著來了，沒錯吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「啊，你來了。如你所見，我們正在幹著呢， 雖然進度很慢就是了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你知道涅克塔卡在什麼地方嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「如果又來了一場風暴，該怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「幹得不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「所以你要去那座宏大的罕加王城嗎？只要往北航行一段時間，再往東一點就到了。」
+
+「在涅克塔卡一定要小心，外來者。它可能會把你吞噬殆盡，而你甚至都注意不到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「那你的船就要沉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我的法術沒辦法把船修好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

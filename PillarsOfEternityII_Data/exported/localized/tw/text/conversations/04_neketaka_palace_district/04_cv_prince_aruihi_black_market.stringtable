@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_prince_aruihi_black_market</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>176</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「我等你結果，靈視者。你去過潛民街深處了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「皇族海盜在通過地下室走私貨物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「地下室……涅克塔卡更為黑暗、惡臭的一層。」
+
+他用手掌托著下巴，眼神看向遠方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「至少潛民街是個穩定的目標。皇室有足夠多的時間來決定接下來的行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「針對潛民街，有什麼計劃嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「不管怎樣，我覺得還是別對潛民街動手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「水塑者在幫海盜引進船隻。我殺了他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我在競技場學會了一個道理，永遠不要低估優勢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「現在，已經很容易得出他們從哪裡進的貨了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「怎麼說？」阿羅海慢慢地皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「你勾起了我的好奇心。繼續說。」他攤開手掌等著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「羅帕魯已經接近顛沛流離的邊緣了。就別再剝奪他們這些了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「我收回我的建議。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「嗯，那樣最好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「至少這樣可以讓羅帕魯繼續忙下去，涅克塔卡也有錢賺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「外國錢。」他揮了揮手，就好像宮殿中飄進了一股惡臭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「你這麼快就開始為他們辯護了，不過羅帕魯必須知道自己在社會中的位置。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「潛民街安全了。現在而言安全了。」阿羅海懷疑地朝入口望去，自顧自地聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「皇族海盜能夠保證羅帕魯的富足和健康。為了你子民的利益，不要去動潛民街。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「我一直在致力於保證羅帕魯的安全。你為何要干擾我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[撒謊]「恐怕我沒什麼發現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「沒有？泰克胡，怎麼說？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「什麼，什麼都沒有？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「我們無意中發現了廢棄的羅帕魯聚落的痕跡，其他就沒有了。」泰克胡清了清嗓子，盯著你一臉擔憂的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「親王，我沒有隱瞞。我們在潛民街的中心發現了皇族海盜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「你最好不要欺騙我。還有其他要報告的嗎？有什麼違法物品嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「這不可……」泰克胡停了停，露出一個古怪的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「你有什麼想說的嗎，泰克胡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「呃，我……搞錯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「皇族海盜在通過地下室走私貨物。我把他們殺光了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「啊，你告訴我這座城裡發生了一場海盜戰，而我卻&lt;i&gt;錯過&lt;/i&gt;了？」
+
+阿羅海似乎想要問詳情點，不過他發現自己被熱情沖昏了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「如果你不介意的話，我等會再匯報。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「我還有其他問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「嗯，至少你平安無事地回來了。我派往峽谷的特工不止你一個，但你是第一個回來的。」
+
+阿羅海自顧自地咧嘴大笑，然後拍了拍你的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「我不是說想要把你送去比峽谷更糟糕的地方，不過……」
+
+阿羅海的聲音低了下來，然後撓了撓自己的後腦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「如果我想要刺客的話，我早就招一個了。不管怎麼說……幹的不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「水塑者在幫海盜引進船隻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「嗯，別讓我們的水塑者惹上麻煩。」阿羅海向泰克胡點點頭，然後跟你揮手告別。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「好。別讓我乾等著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「皇族海盜在通過地下室走私貨物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「皇族海盜在通過地下室走私貨物。我把他們殺光了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「我一直有所懷疑，但是我也不希望這些事是真的。」阿羅海臉抽搐著，移開目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「你是……被委託來進行斡旋的嗎？」他慢慢地抱起雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「如果黑市能將資源供給在羅帕魯上的話，我認為……他們就能贏得一次得來不易的休戰期。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「羅帕魯能夠照顧自己。還是把注意力放在大問題上吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「走私者就是反叛的底層階級與僅僅只是個餓死鬼之間的差異。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「從巨蛇王冠這個角度，怎麼可能知道羅帕魯的疾苦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「黑市就是羅帕魯建來謀求生存的東西。沒有人逼迫他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「在峽谷呆上一段時間後有所改變了嗎。嗯，我跟恩加蒂的選民想的一樣。」
+
+泰克胡叉起雙手點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「在峽谷呆上一段時間後有所改變了嗎。嗯，我跟恩加蒂的選民想的一樣。」
+
+泰克胡叉起雙手點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「這是……最接近我們與外來者之間的健康的合作關係之事了。」
+
+泰克胡喘了口氣，等著親王的反應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「去峽谷就是原諒羅帕魯。女王必須向他們證明自己的價值。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「我會聽從恩加蒂的選民的意見。」他朝泰克胡點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「峽谷的問題不光是因為女王的法律。」泰克胡一臉緊張的盯著你的方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「贏回子民的愛戴，這是女王的責任。不應該落到外來者的肩上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「親王？恕我冒昧。」泰克胡向前邁出試探性的一步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「泰克胡，不要讓我後悔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「不要讓我後悔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「您就放心吧，親王。」泰克胡深深地鞠了一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「你……你為什麼要這麼做？我妹妹需要所有的水塑者的幫助去牽制努瓦泰的艦隊！」
+
+親王站得筆直，突然警覺地看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「泰克胡，你是無力阻止嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「不，親王。我對水塑法有更高的標準。恩加蒂也是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「泰克胡……沒人想聽到你的懷疑得到確認。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「嗯。我自己更不想，親王。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「事關公會的尊嚴，王權不會向任何事情妥協。
+
+「奧涅卡莎將會整治他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>「你也是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>親王轉過身，臉上掛著一幅冷漠的表情。你只有通過他臉部細微的運動，才能分辨出他在咬緊下巴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「你對涅克塔卡已經有了初步的認識。據說你已經探索過城下之城了。」阿羅海眉頭微微皺起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>「他們怎麼避開巡視員的？誰負責的？不可能一點蛛絲馬跡都不露。」親王雙手交叉，皺著眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>「我妹妹緊緊掌握著涅克塔卡的控制權，但是從她手掌中滴落的污穢都匯聚到了峽谷。」
+
+他張開手掌表示強調，然後在自己的肩膀上擦了擦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>「在我們眼皮底下，走私違禁品，還賄賂羅帕魯得到默許。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>「一名信使的船隻在離涅克塔卡一天航程的地方沉沒了。他的胸口上掛著這個東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>「我的守衛在針對峽谷的一次搜捕中得到了這枚東西。這證實了我的懷疑。
+
+「涅克塔卡存在海盜問題。」
+
+阿羅海厭惡的揚起上嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「我想讓人去黑市上兜售這塊獎章，贏得這些海盜的信任，然後弄清楚那些物資是怎麼進入這座城裡的。」
+
+他的目光與你對視，透露著冷漠和算計。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「聽起來有點賺頭。我還需要知道些什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>「你這張臉其他人不會認出來。別讓任何人知道你是為皇室效力的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>「當然，你會想要帶著恩加蒂的選民與你一起。」
+
+阿羅海朝泰克胡笑了笑，然後撇過頭去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>「我嗎？地下城市什麼時候需要藝術家了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「你誤會了。我派你去，是因為你向我妹妹遞交的公文。」
+
+他抬了抬眉毛，兩人心照不宣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「好吧，我沒想到……」泰克胡雙手叉起，慢慢的點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>「有人能給我講講情況嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>「我……我們最好話還是下山路上再討論吧。」
+
+泰克胡看向阿羅海，後者點頭表示同意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>「下山的時候記得去佩瑞琪之望找泰克胡。他是位神嗣——是人們尋求希望的人。」親王用拇指戳著下巴，笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>「恩加蒂的選民知道我們的麻煩。他也能學習一下羅帕魯的謙遜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>「有個本地導遊永遠不是壞事。我會去找泰克胡的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>「嗯。據我對泰克胡的瞭解，他應該在水塑者公會發脾氣呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>「到峽谷後務必保持警惕。我擔心那些洞穴比恩加蒂能想像到的還要深。」阿泰羅點了點頭示意你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>「神裔難道不會引起不必要的注意嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「跟你半斤八兩吧！」親王笑了笑，眼光在你身上瞄來瞄去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>「胡亞納人尊敬恩加蒂的選民……即便他看不上他們也是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>「在貧民窟裡閒逛好像跟我的職業不搭調啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>「貧民窟。我們可不是用的這個詞。」親王瞇了瞇眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>「峽谷對於涅克塔卡的重要性，跟這宮殿沒有差別。你已經見過了美麗的花園。現在，去熟悉下那些普通的土壤吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>「我會考慮的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>「好好考慮下吧沿著這條路下山，你可以在佩瑞琪之望找到水塑者公會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>「你為什麼需要靈視者來進行巡視工作？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>「因為只有敏銳的洞察力才能穿透迷霧。」阿羅海自顧自點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>「在聽到更多消息之前，我保留意見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>「是嗎，你還沒從峽谷探究到任何秘密嗎？」
+
+阿羅海揚了揚眉毛，示意你繼續。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>「沒錯，正是如此。」跟我想的八九不離十。烏凱佐這個名字你有印象嗎？」親王點點頭，露出一臉謹慎的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>「走私者和小偷像老鼠一樣簇擁在潛民街，他們就是長在我們城市地底的瘤子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>「如果你要證據的話，拿著這個。」他拋給你一塊銀質獎章，上面刻著瓦利亞敬語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>「他們或許會懷疑你是皇室的密探。別洩露了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>「你的臉或許不算陌生。但是別告訴任何人你是為皇室效力的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>「那種關注只會帶來更多的好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>「奧涅卡莎下達這個任務是為了解決問題，但是……好吧，我不能再浪費寶貴的時間來質問你了。」阿羅海歎了口氣，示意到此為止。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>「其他人會錯過細節，而你有這個能力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>「據說你跟恩加蒂之子泰克胡關係不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>「我本想讓你去找泰克胡，不過……他已經去永恆之海中尋找他的母親去了。」
+
+親王移開目光，短暫的失神後，重重歎了口氣又重新關注到你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>「務必讓他跟你一起去峽谷。他……已經知道我們的麻煩了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>「跟她也差不多。」他朝帕蕾吉娜點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>「跟她半斤八兩。」他朝帕蕾吉娜點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>「你說不定會大吃一驚的，殿下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>「如果選擇去的話，注意警惕。」親王點點頭，示意你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>親王歎了口氣，他權衡著你說的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>「最近已經有太多的血錢被衝到到山上來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>「那使者的獎章呢，難道是無意被衝上岸的嗎？！」親王像是模仿施咒一樣，手臂在空中揮了揮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>「在我們眼皮底下，走私違禁品，還賄賂羅帕魯得到默許。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>「恩加蒂的選民？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>「泰克胡出生時被女神恩加蒂觸碰過。他既是胡亞納，也是海洋生物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>「我們只能想辦法弄明白女神將他送到我們中間的意義在哪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>「成為恩加蒂的選民難道不是救世主的意思嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>「嗯，差不多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>「這是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>「瓦利亞使者的獎章？共和國為那些模範人物頒發的獎勵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>「嗯。你的洞察力比我的守衛們銳利多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>「你覺得海盜襲擊這些共和國的王八蛋是你子民苦痛的來源？不知道峽谷的人對此會怎麼想……先生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>「任何敢傷害我子民的人都將遭到奧涅卡莎正義的審判。」奧索瞇向塞拉芬瞇了瞇眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>「你想要得到什麼結果？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>「這要取決於你有什麼發現。」阿羅海叉起雙臂，打量著腳下的地板，陷入了沉思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>「為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>「我可不覺得這種貧民區會引起他的興趣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>「我會考慮的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>「他將信任交給了我。。剩下的讓他親自說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>「嗯，當然不會！這趟旅程對他有好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>雖然他說的都是真的，但事情沒那麼簡單，而且他不相信自己的臉沒有露出馬腳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>「奧涅卡莎將這交給我來處理。她擔心房子裡面的東西，我負責打掃地下室。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>「現在，告訴我你隱瞞了什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>「沒什麼能夠瞞得過你。關於我為什麼要你幹這個活，還有什麼要問的嗎？」
+
+阿羅海自顧自地輕笑幾聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>「如果我們只對付海盜的話，我只要讓一名信得過的密探穿上破衣服，然後讓他躲在糧食貨車裡就好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>「但是……我有理由懷疑我們面臨的問題比想像的還要麻煩。所以我需要一個專業人士。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>「務必帶上恩加蒂的選民。讓他整天對著船上的海鷗唱歌是荒廢了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>「他們應該明白跟海盜合作的風險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>「奧涅卡莎就該更好地控制好她的水塑者們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>「奧涅卡莎和我都對公會期望甚高。知道這事她肯定不會開心。」阿羅海搖搖頭，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>「他們肯定是缺錢。你能想像是為什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>「呃，不能。」阿羅海捏了捏自己的下嘴唇，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>「嗯，如果我們不是身處在這麼一個有趣的時間點上的話，我認為她肯定會那樣做的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>「有努瓦泰最鋒銳的武器在我的軍械庫中……我走哪都會感到安全。」他別過頭看向麥婭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>「如果你想要恭維我的話，就不要從詩歌裡面找詞用了。」麥婭叉起雙臂，朝阿羅海做了個鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>「麥婭，我希望你不要太過苛刻地評判我們這座美麗的城市。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>「什麼？喂，別多管閒事了，有事跟船長說去。」麥婭皺著眉頭，向你靠了靠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>「說不定？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>「或許是海盜想以錯誤的線索引你上鉤呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>「你這是在侮辱我的智商。不要跟奧涅卡莎玩這一招。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>「他們那種貨色應該不會這麼聰明。」
+
+他聲音低了下來，抓著下巴，像是掂量武器一樣似地權衡著這個想法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>「但是你還是要這麼做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>「繼續說。我想給女王留下個好印象。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>「嗯。我向你道歉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>「嗯，我就喜歡為了獎勵奮勇一搏的人。」</DefaultText>
+      <FemaleText>「嗯，我就喜歡為了獎勵奮勇一搏的人。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>「我的心意沒有改變。一隻腐蛆就能污染柯基，而且我們不能在這個時候向海盜低頭。」
+
+阿羅海舉起手掌，示意別再爭論。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>「這就是所謂的燈下黑啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>「呃，你怎麼……」
+
+阿羅海目光一轉向麥婭，後面的回答聲就越來越小了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>「奧涅卡莎和我是這座城市的靈與魂，但是地下……我們無法觸及。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>「那個，恩加蒂的選民從地下的旅程中有學到什麼嗎？」
+
+阿羅海向泰克胡打了個手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>「親王，我一直都知道那些向恩加蒂禱告的人……但直到現在我才看到那些依賴於它的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>「嗯。看來亞彌拉的智慧之羽飄落到你頭上了。」他讚許地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>「謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>「要接下這英勇勳章，對你來說還太早。」阿羅海的一條眉毛揚了揚。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

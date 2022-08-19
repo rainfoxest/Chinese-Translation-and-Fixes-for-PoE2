@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax\lax_cv_craftsperson</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「是不是有什麼寶貝要給我，朋友？」
+
+矮人朝你靠過來，迎面飄來一股濃重的煤油和鐵屑味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「是不是有什麼寶貝要給我？」伊吉婭伸長了脖子，上下打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「打擾了，你在幹什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[撒謊] 「肯定在裡面的，繼續找吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[讓她幹活。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[趁她不注意偷她的東西。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「嗯……」她咬著嘴唇，瞇著眼睛看了一下你的貨物和裝備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你今天沒帶什麼我看得上眼的東西，朋友。至少目前沒有。等你有了再來找我吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「這塊金屬有點怪異。還有其他什麼嗎？」她把「奈瑞思賽拉絲的希望」還給你，繼續翻看你的物品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「這是啥，從某種怪物嘴裡拔下來的牙齒嗎？」她拿著托墨弗艾的牙齒仔細端詳一番，然後交還給你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「這小玩意兒挺古怪的啊。」她用手指輕敲你從黑島上取回的金屬碎片，然後把它像海螺殼一樣托在耳邊傾聽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「讓我來好好鑒別一下。現在別出聲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「要是能再帶點這種奇特金屬給我，我也許可以製作點好東西給你。不過我可不打保票，要東西到手了才行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「常規檢查而已。別擔心，我是&lt;i&gt;專家&lt;/i&gt;。大家的東西都要看一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>她的注意力全部放在你的包內物品上，以至於完全沒察覺你把她掛在身上的錢包偷走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你收集了好多奇怪的金屬。給我點時間，肯定可以整出有用的東西出來。」
+
+她摸了摸下巴，若有所思地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你為什麼對我的財物這麼好奇？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「噢！有東西咬我！」
+
+她驚恐地把手縮回來。康賽豪的頭骨開心地笑了起來，然後鑽進一堆錢幣當中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你也有一本夢境日記？沒必要難為情，跟我的比起來，你這故事太平淡了。」
+
+她笑了笑，把酒醉的俄撒斯信徒所寫的胡亂日記放在一邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你保證不笑我可以嗎？一切要從我做的那個夢開始說起。」
+
+她轉過頭去，輕輕地咳了幾聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「這些東西太神奇了。給我一點時間，我可以整出個寶貝兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我所記得的是，有個女人打開了這個包裹，給了我三塊黑暗金屬。還說她把它們弄丟了，但要是仔細尋找的話，終有一天會把它們找回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「做這個夢的時候我還是個小女孩，但一直到現在都還縈繞在我腦海中，揮之不去。
+
+「因此，要是你找到有&lt;i&gt;不同尋常&lt;/i&gt;的金屬，先帶給我，行嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「需要費點功夫好好鍛造一番，不過我可以整出個寶貝給你！」
+
+她用一塊布小心翼翼地從你手中接過發光的金屬碎片。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[交出奈瑞思賽拉絲的希望、托墨弗艾的牙齒與啟示砝碼。]「這三件遺物可以整出什麼東西來？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「當然可以！」
+
+就在她開始工作的當口，你突然有了異樣的感覺。你的皮膚感到緊繃，就好像在太陽下曬乾然後做成鼓皮一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[交出奈瑞思賽拉絲的希望。] 「你能把這個跟合法權利鎖鏈熔合在一起嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「當我拿到這些碎片時，就打算把它們整在一塊，畢竟自己費了這麼大功夫，總該有些成果吧。這種想法會不會很奇怪？」她撓撓後腦聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「這個戴在你身上應該很好看。試一下，看你喜不喜歡。」
+
+伊吉婭微笑著把她的勞動成果交給你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[交出奈瑞思賽拉絲的希望和托墨弗艾的牙齒。] 「這兩件遺物可以整出什麼東西來？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[交出啟示砝碼和托墨弗艾的牙齒。] 「這兩件遺物可以整出什麼東西來？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[交出奈瑞思賽拉絲的希望和啟示砝碼。] 「這兩件遺物可以整出什麼東西來？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「應該可以哦！我敢打保票，這些碎片可以做成飾品，嵌在一個優雅而時尚的王冠上。試戴一下，我要看看合不合適。」
+
+伊吉婭給你一個飾有寶石的頭盔，拿在手上有種暖暖的感覺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我的天，簡直霸氣側漏啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你不戴我的王冠嗎？怎麼，難道你有比這個更好的頭盔？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>她幹活時鐵錘敲打的聲音，就像美妙的音叉在敲打著這個世界。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我遭到一些刺客的襲擊，他們提到了你的名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「是嗎？」她的嘴角抽動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「呃，很多人認識我。其中不乏壞人。不過鑒於你這一副老江湖的模樣，應該司空見慣了吧。」
+
+她上下打量著你，目光中流露出讚許之情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「你在這裡幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「我大部分時間在熔煉金屬，接駁鐵鏈，修補損壞的頭盔。雖然挺無聊，但可以賺錢還債。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>空氣中瀰漫著一種&lt;i&gt;不對勁&lt;/i&gt;的感覺。就好像哪裡出錯了一樣。感覺有人在暗中觀察著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>感覺&lt;i&gt;有點疼，&lt;/i&gt;可是這疼痛居然有點……熟悉的味道？當伊吉婭拿著工作成果轉過身來之時，疼痛並沒有減輕。只是後來才慢慢消失掉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「對我來說，製作一頂王冠有點難度。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「多謝了，伊吉婭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「過陣子吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「你不習慣戴帽子嗎？可憐的孩子。我感覺這一頂任何頭型都適合。」她眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「這些東西太神奇了。給我一點時間，我可以整出個寶貝兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「這些東西太神奇了。給我一點時間，我可以整出個寶貝兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「當我受到亞拜登的啟發之時，我在製作奇珍異寶方面早已經是家喻戶曉的人物了。只要給我適當的材料就行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[交出托墨弗艾的牙齒。] 「你能把這個跟合法權利鎖鏈熔合在一起嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[交出啟示砝碼。] 「你能把這個跟合法權利鎖鏈熔合在一起嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「你在尋找什麼材料？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我還有其他問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「那過一陣子再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「特殊材料、稀有金屬——尤其是那種顏色猶如午夜一般的&lt;i&gt;黑&lt;/i&gt;，充斥某種&lt;i&gt;沉睡力量殘留的材料！」&lt;/i&gt;
+
+「只要帶給我就行了。」
+
+她開心地笑著，聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「沒問題！想要什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「只要付出一點小小的代價就可以認清我的命運。那就來吧！我想看看你戴起來的模樣有多漂亮！」她後退幾步，把雙手別在身後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「這話挺傷我的自信……不過這是你的王冠。怎麼處置都隨你。」她點點頭，示意你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「你還帶著那件我幫你製作的奇怪東西吧？要是找到有可以跟它拼在一起的奇異金屬，就拿回來給我。」伊吉婭示意你暢所欲言。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「當然，你可以多留意一下有沒有可以跟它拼在一起的奇異金屬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>她睜大了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「可以用我的裝備製作出東西來嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「我得認真看過了才知道。」她搓著手，靠過來仔細查看你的物品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「如果你願意，我可以把那塊東西跟我之前幫你製作的鐵鏈熔在一起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「你能否把兩件物品拼在一起，然後留下第三件給我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「只有想不到，沒有做不到的。告訴我你要組合哪兩件，留下哪一件。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[交出奈瑞思賽拉絲的希望和托墨弗艾的牙齒。] 「組合這兩件。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[交出啟示砝碼和托墨弗艾的牙齒。] 「把它們組合一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[交出啟示砝碼和奈瑞思賽拉絲的希望。] 「把它們組合一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「讓我考慮考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「沒問題。你要是決定不了的話，我也無所謂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>她把一隻手伸進你的口袋中，皺起了眉頭。什麼東西也沒撈著，她又厚顏無恥地打開你的背包，朝裡面看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「除了我鑄造的那條鐵鏈，沒有什麼新東西，不過你找到有跟它相配的第三件物品就回來找我，可以嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「噢。為什麼會這麼痛？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「多謝了，伊吉婭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「過陣子吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「你是撞到腳趾了嗎？你剛才確實有點臉色蒼白。給你這個，我之前用過，很有效。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「我該感謝你給了我一項這麼刺激的工作兒。還有其他事情的話儘管來找我，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「呃，我發誓之前這裡頭放有一些白葉的。算了。」她拍了拍她的口袋，聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>她從一隻袋子裡拿出一片乾癟的葉子，塞到你手中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「你感覺到了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「你剛才有一陣子臉色不大好。要我說的話，你那兩條腿得緩一緩了。」她笑著搖了搖頭。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「現在試一下那條漂亮的鏈子，我想看看它在陽光下閃閃發光的模樣！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>她一隻手放在她屁股上，仰著頭等著你開口說話。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

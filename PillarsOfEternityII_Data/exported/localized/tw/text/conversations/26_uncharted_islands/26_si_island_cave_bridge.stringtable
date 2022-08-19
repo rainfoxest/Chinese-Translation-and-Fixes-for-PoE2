@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\26_uncharted_islands\26_si_island_cave_bridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>徒步數小時穿過佈滿灌木叢和佈滿籐蔓的山麓後，你到了海邊洞穴的入口處。
+
+海浪沖刷岸邊，在你背後隆隆作響。海鷗俯衝下來在頭頂尖叫著。洞穴很大，在懸崖峭壁內部延伸開來，就像餓急的巨獸張著大嘴一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你越進入洞穴深處，氣溫就會變得越低——很快，你會看到你呼出的空氣。
+
+洞穴的角度突然回轉形成一個急轉彎。它的方向似乎朝後指向大海和橫跨在一個狹窄海峽間的另一個島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[進入洞穴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>感覺像是走了幾百英尺的下坡路後，小路就變平了。有什麼東西吸引了你的目光，所以你蹲下來查看。沙上有基斯的腳印，可能是新鮮的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>幾小時後，你發現自己在一面被一道狹窄裂縫撕開的牆體面前，而裂縫的寬度僅能讓你勉強通過。你勉強通過裂縫，眼前出現一個橫跨海峽的島嶼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你又一次長吐一口氣，收縮胸腹，盡力擠進去那條狹窄的縫隙，再次回到地下通道</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>幾小時後，你精疲力盡地爬出洞穴，回到一開始的島上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你背對著洞穴繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

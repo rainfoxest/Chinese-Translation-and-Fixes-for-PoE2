@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_gorecci_transition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>當你走進國王港的小巷時，將明顯看到風暴雨過境的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>這裡的許多房屋玻璃窗碎裂，遮陽傘鬆垂的掛著，而你經過佈滿落葉和碎片的狹窄街道。
+
+你腳下的鵝卵石上仍然沾著水和泥沙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>不久前你還踩在齊踝深的淤泥和鬆動的石頭上。
+
+前方洪水反而更嚴重，水位已經上升到膝蓋了。大部分國王港的居民已經逃離這個地區到乾爽的地方去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>但前方更高聲的抱怨以及偶爾濺起的水花都說明你不完全是一個人。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

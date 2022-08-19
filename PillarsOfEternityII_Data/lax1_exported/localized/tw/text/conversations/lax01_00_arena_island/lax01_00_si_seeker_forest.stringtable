@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_seeker_forest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>通道慢慢擴大，然後突然來到一個寬敞的空地上。有一會兒叢林看起來在發光，每棵樹都發出淡綠色的光芒，但後來你看到這些亮光的來源，是一顆燃燒著靈魂能量的頭骨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>不過，一群蜘蛛從你上方的黑暗之中落了下來，你沒機會把它收回來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>你進入了島嶼西南側的荒野之中。隨著你不斷前進，森林也變得越來越茂密。空氣變得凝重而潮濕，只有極微弱的光芒能穿過林蔭，照入森林。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[進入森林。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你不斷地朝小島更廣闊的地方進發。灰色的霧氣像捲鬚一樣，沿著樹根和籐蔓不斷上升。空氣漸漸變得不再透明。微風吹過，空氣之中似乎響起了呢喃的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>就當霧氣變得最濃的時候，你眼前的迷霧像窗簾一樣分向兩邊，露出了前進的道路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>在兩條通道之間，你看到一座雕像，這是個有著石頭底座的百眼探尋者之面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[走左側的小路。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[走右側的小路。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[試圖返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你朝森林的深處前進，周圍也變得越來越陰暗。
+
+你前面的道路再次出現了分岔。儘管這條岔路和之前的岔路看起來很像，但你依然能看得出區別。這讓你確定，你確實是在往前走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>越往叢林深處，道路越來越窄，好像樹木在不懷好意地聚攏。
+
+它們似乎不歡迎你的到來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你朝越來越厚的陰影中走去。四面八方都是參天的巨樹，巨樹的樹冠已經被上方的黑暗遮住了。彎彎曲曲的小道在樹基之間蔓延，每條小道都像城堡的塔樓一樣寬闊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你朝森林的深處前進，周圍也變得越來越陰暗。
+
+你前面的道路再次出現了分岔。儘管這條岔路和之前的岔路看起來很像，但你依然能看得出區別。這讓你確定，你確實是在往前走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[檢查小徑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[檢查雕像。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>兩邊的通道看起來驚人的相似，幾乎完全對稱，就好像安裝在兩者之間的玻璃一樣，相映成趣。
+
+樹木像有著很多關節的長腿一樣彎曲，它們的樹枝互相緊緊纏繞著，密不透風。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>顯然雕像已經在這個分叉路口有很長一段時間了，上面的線條已經風化，各種細節也被侵蝕得無法辨認。底座上長滿了苔蘚，籐蔓從蜘蛛一般的頭部垂下。探尋者的雙眼盯著你，一眨不眨。
+
+但是這座雕像的一切，甚至佈滿其上的植物，都呈現出不可思議的對稱性。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>沒什麼不尋常的地方，只是雕像的左眼不見了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[走中間的小路。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你進入了洞窟，在黑暗之中蜿蜒而行。有那麼一陣子，你只能聽得到自己的呼吸聲。但隨後，你聽到了昆蟲的鳴叫聲。你沿著蟲鳴聲的方向走去，蟲鳴聲越來越大，直到空氣都在隨之顫動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>從洞穴出來後，你進入了叢林，但是四周伸手不見五指，一開始你還沒意識到自己已經出洞。
+
+上方和四周傳來一陣某種生物的下頜咯吱作響，以及有著許多關節的沉重節肢移動的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>前方的道路分向左右兩邊，每條岔路乍看之下都是能走得通的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[走左側的小路。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[走右側的小路。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[試圖返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>幾個小時之後，叢林匯入了一片森林，雖然很茂密，但也比濃密的令人髮指的叢林來得讓人舒心。
+
+你找到了返回這片荒野邊緣的道路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>道路再次分岔，但這次沒有出現探尋者的雕像。兩條岔路的中間出現了第三條通道。
+
+兩條的通道看起來幾乎完全一樣，而中央的通道比較狹窄，雜草叢生。它向下通往一個黑暗的洞穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你意識到，在這裡被你丟下的人，可能會永遠迷失在叢林裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[離開這裡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[待在這裡，繼續探索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>你沿著小鹿往前走，周圍灌木叢的陰影中發出了安靜的沙沙聲。
+
+你面前的道路再次分了叉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>頭頂的樹葉發出急促的呼聲，提醒你有一隻龐大的球形蜘蛛從林冠上爬下來。它的長肢以迅雷不及掩耳之勢捲起[Specified 0]，然後向上退回到陰暗的樹葉深處。
+
+[Specified 0]的尖叫聲突然沉寂了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你轉身離開，不再驚擾棲息在這座叢林中的動物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[叫喊] 「把它們還給我，你們這群怪物！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[小心翼翼地繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[尋找敵人。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[試圖逃跑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>叢林只發出了無休止的啁啾聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>你沒看到可以攻擊的東西，也沒看到有什麼東西要攻擊你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>你意識到，在這裡被你丟下的人，可能會永遠迷失在叢林裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[離開這裡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[待在這裡，繼續探索。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>你撞開荊棘和灌木，推開樹枝和籐蔓，在濃密的樹林中慌不擇路地奔逃，直到樹木越來越稀薄，你終於來到了叢林邊緣。
+
+你終於逃出了生天。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[探尋雕像的含義。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>令你感到奇怪的是，這個探尋者以盲人的形象出現，與你對托墨弗艾一直以來的瞭解不相符。你懷疑這個探尋者的信徒崇敬盲人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Specified 0]仔細查看了雕像。「奇怪啊，這個探尋者居然是瞎的？反正有一部分看來是這樣。難道跟殺戮者的信徒崇敬弱者一樣，這個探尋者的信徒們崇敬盲人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>除此之外……它看起來像一隻蜘蛛，或是某個海裔人。
+
+或者是某種海裔和蜘蛛的混合體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>通道越來越狹窄，呈現在你面前的是一片黑暗，之前持續不斷的昆蟲蜂鳴聲慢慢變成隱約的低語聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>遠處突然出現一棵小樹枝。「你聽到了嗎？」康士坦丁問道。
+
+四周寂靜無聲。矮人雙手抱在胸前，皺起眉頭。「感覺真他媽的毛骨悚然。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>這裡沒有任何道路的痕跡，既沒有動物、野生物，也沒有半個人影，就好像這條跟從來沒人走過一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>這個探尋者少了一隻眼睛。也可能是在島嶼舉辦的賽事過程中，某個選手把雕像的眼睛弄掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Specified 0]皺著眉頭看著底座。「這是探尋者，對吧？是不是應該還有其他發現？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>沒什麼不尋常的地方，只是雕像的右眼不見了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>森林中的低語聲變得更響了，聲音不像是蟲鳴，而更像是某些看不見的觀眾發出的嘈雜聲……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>你面前的道路變寬、分岔。你難以置信地發現，你又回到了某個非常熟悉的岔路口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「我們得跟上它們，[Player Name]！」亞洛斯看著你，眼神裡滿是恐懼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「不要浪費時間，船長！」麥婭把手掩在眼睛上，不敢看蜘蛛和[Specified 0]消失的方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「我們必須地找到它們，快點！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「[Specified 0]！船長，那玩意兒先贏了我們一手！」泰克胡驚慌失措地團團轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「我的天，你看到了嗎？我們的人就這麼被它抓走了！快，得把他們救回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「伽拉溫的豐饒之矛啊！我們最好把[Specified 0]救回來，如果被蜘蛛吃掉就慘了！」
+
+塞拉芬舉起武器亂劃一通，就好像隨時會有怪物再次襲擊一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「當心，靈視者。我在幻景中看到今天會遇到無比可怕的怪物。」
+
+「當然，那隻大蜘蛛剛剛擄走了我們的一名同胞。如果我們想把人平安救回來，就得加快腳步了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「我們之前想得沒錯。」 康士坦丁嘟囔道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[試圖返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「我的老天爺啊！」瓦特尼爾朝上方的空中胡亂地揮著手。「那頭怪物肯定會吃了那個可憐的蠢貨！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>這個探尋者少了一隻眼睛。也可能是在島嶼舉辦的賽事過程中，某個選手把雕像的眼睛弄掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>這個探尋者少了一隻眼睛。也可能是在島嶼舉辦的賽事過程中，某個選手把雕像的眼睛弄掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>這個探尋者少了一隻眼睛。也可能是在島嶼舉辦的賽事過程中，某個選手把雕像的眼睛弄掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>這個探尋者少了一隻眼睛。也可能是在島嶼舉辦的賽事過程中，某個選手把雕像的眼睛弄掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「該死！」伊德溫大叫一聲。「你看那怪物的個頭……」她很快用手摀住自己的嘴。然後，她的語氣平靜了不少：「我們得找到[Specified 0]。要抓緊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「它是想找個伴兒嗎？」艾德爾問道。「不是？那我們得去把[Specified 0]救回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>你打起精神。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

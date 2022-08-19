@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_hunter_camp_lurker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你穿過了涅克塔卡西邊山丘地區茂密的樹林，發現了一處小小的營地。乍看之下，這處營地似乎是被人遺棄了。兩個營帳已經倒在了地上，但你馬上注意到了屍體。
+
+那是兩具倒在黑土中的屍體，被撕扯得支離破碎，大部分肉已經被吃掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[跟著足跡前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>在葉子的邊緣處，你注意到那裡潛伏著一群潛妖，還有幾隻濕菌怪。這些原生生物幾乎一動不動，看起來彷彿和周圍的樹木一樣人畜無害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[溜近一些。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Specified 3]想帶著你輕輕地穿過灌木叢，但卻一頭摔在了地面上，腳踝被扭曲的樹根纏住了。[Specified 3]痛苦地哼了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你朝開闊地悄悄摸過去，但腳卻被樹根絆了一下。你扭傷了腳，摔倒在地，發出了痛苦的叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你衝了過去，潛妖們轉過了身，幾隻幼菌怪也從灌木叢裡跳了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你意識到，這種又大又圓的不規則腳印是&lt;link="stringtooltip://cyclopedia/49"&gt;潛妖&lt;/link&gt;留下的，這種食肉植物經常大規模聚集在一起。
+
+你還注意到，腳印中間還留下了一條很寬的痕跡。潛妖們離開這裡的時候，似乎拖著某個很重的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你從灌木叢中穿了過去……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[搜索物資。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>營地附近放著幾張獸皮、鹿角，還有其它一些獵獲物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[製造出一個魔法誘餌，引開他們的注意力。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[檢查腳印。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>每個腳印都像餡餅一樣大小，幾乎都是相同的形狀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「你想用一下你的燈籠嗎，裘荻？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[尋找靈魂的存在。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[搜索這片區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「怎麼會發生這種事情？這些……這些人都是晨星之子，從涅克塔卡來的。我……我還和他們一起做過祈禱呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Specified 4]指著又大又圓的腳印。「看到這些不規則的腳印了嗎？這是&lt;link="stringtooltip://cyclopedia/49"&gt;潛妖&lt;/link&gt;的根留下來的。」
+
+腳印中間還留下了一條很寬的痕跡。[Specified 4]說，潛妖們似乎是拖著某個很重的東西前進的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>這個營地已經被徹底毀壞了。營地像是被大腳怪踩得稀爛。一個燉鍋倒在地上，幾乎已經被踩得凹進去了，營火也被踩滅了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>除了屍體之外，營地裡並沒什麼值得留意的東西。
+
+除了營地南邊折彎的樹枝和殘破的肢體留下的拖痕，還有一串巨大的腳印。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你集中精神，運用靈視者的能力，努力搜尋著周圍遊蕩的精粹。一陣幻景湧向了你的腦海，彷彿決堤的河流一樣，拉扯著你不斷前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「安息吧，我的同胞。我會在旅途中保護你們，我保證。」
+
+裘荻低下了頭，一邊收割著靈魂，一邊搖著燈籠，確保傳教士們的靈魂有足夠的時間接納燈籠的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[掩埋屍體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[焚燒屍體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你撓著下巴，思考著自己可以做的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[結束調查。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>營地的調查工作結束之後，你朝前方走了過去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你把殘破的屍體聚攏在一起，之後收集了一些用來引火的東西，點燃了一堆小小的篝火。屍體燃燒的時候，你盡量小口小口地呼吸，免得把太多塵煙吸到喉嚨裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>黑土地非常柔軟，你在上面挖了幾個小時，挖出了一個足以掩埋屍體的深坑。你把殘破的肢體放進坑裡，填上土，把它們託付給了貝拉斯之輪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「循環在繼續。儘管身體會因此消散，靈魂卻會尋得新的開始。」
+
+裘荻低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「還好他們得到了照看，就算對方不是俄撒斯。很感謝你這麼做。」艾德爾衝你點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「循環在繼續。儘管身體會因此消散，靈魂卻會尋得新的開始。」
+
+裘荻低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「真希望你種下的因不會引來結出的果，船長。」
+
+塞拉芬盯著路面，耳朵不停抖動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>營地南邊的樹枝被折彎了。看起來，在這裡大肆屠殺的兇手是從那個方向過來的，後來又從那邊離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>殘缺不全的屍體上還穿著襤褸的長袍，長袍上畫著晨星的印記。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>營地南邊的樹上插著幾枝箭矢，被箭矢射中的樹上凝結著一層冰霜。在溫熱的空氣中，這些冰正在慢慢融化。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>你看到了這些怪物，幾乎有兩個人那麼高。它們站在一片狼藉的營地中，吞吃著你同伴們的屍體。它們無定型的身體上覆蓋著樹皮，上面還垂著籐蔓和青苔。是
+
+&lt;link="stringtooltip://cyclopedia/49"&gt;潛妖&lt;/link&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>憤怒與恐懼充滿了你的腦海：有憤怒，有恐懼，但也同樣有俄撒斯必將歸來的信念。念出一句禱文之後，你用附魔弓射出了幾支飛箭，每支箭都像暴風雪一樣寒冷。
+
+你聽到右邊傳來了嘩嘩的響聲，你轉過了頭……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>幻景突然消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>吃人的怪物似乎並沒打算隱藏自己的腳印，你輕而易舉地沿著腳印，走到了叢林深處。你沿著道路來到了一處寬敞的地方，差點就走了過去。但你注意到了周圍的危險……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>除了潛妖和濕菌怪之外，你還看到灌木之中藏著幾隻體型較小的幼菌怪。
+
+此外，你還看到了一具年輕精靈女性的屍體，屍體的右腿以可怕的角度扭了過去。屍體右手抓著一把弓，弓身是由上好的木頭經過繁複工藝製成，上面似乎還閃爍著寒冰的光澤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>你靜靜地念起了咒語，將附近的精粹凝聚在一起，引導它們飛向了空地的另一側。過了一會兒，你聽到召喚出來的實體撞在濃密的植物中，發出了很大的噪音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Specified 3]帶著你，靜悄悄地穿過了灌木叢……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Specified 4]靜靜地念起了咒語，做了個複雜的手勢，召喚出了某種東西衝向空地的另一側。它撞在濃密的植物中，發出了巨大的響聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>潛妖們慢騰騰地挪起了步子，朝聲音的方向衝了過去，但菌怪們依然留在原處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>前面的潛妖轉過身看著你……你聽到身後的叢林裡發出了更多沙沙的響聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你返回了涅克塔卡野外叢林中的空地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>崩塌的營帳中埋著一個小小的箱子，裡面裝了一些新鮮的食物。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

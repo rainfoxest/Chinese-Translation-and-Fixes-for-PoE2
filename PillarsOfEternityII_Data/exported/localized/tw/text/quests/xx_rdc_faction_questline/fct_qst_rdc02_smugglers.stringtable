@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_rdc_faction_questline\fct_qst_rdc02_smugglers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>進口問題</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>與維德拉在海上的集合地點見面。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在黃銅堡裡的哈扎努伊卡魯辦公室與她交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>與艦隊指揮官岡谷在梨繪交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>與艦隊指揮官岡谷在梨繪交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>哈扎努伊卡魯要求我去收取一批重要貨物然後將之運送到梨繪島。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;維德拉&lt;/b&gt;和她的船員們在&lt;b&gt;涅克塔卡西面&lt;/b&gt;的預定地點等著我。我需要與她在那裡會面然後收取貨物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>哈扎努伊卡魯給了我一份工作。她的辦公室就在黃銅堡帝國總部的一樓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我支付了走私者然後得到了貨物。現在我只需要將之送往梨繪港。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我殺死了走私者並奪取了貨物。現在我只需要將之送往梨繪港。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>哈扎努伊現在正在皇宮與女王和瓦利亞首領們會面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>一位叫做&lt;b&gt;艾維拉&lt;/b&gt;的科學家被人裝在箱子裡運走了。她說她在&lt;b&gt;梨繪&lt;/b&gt;還有事情要做。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我帶著&lt;b&gt;艾維拉&lt;/b&gt;安全抵達了&lt;b&gt;梨繪&lt;/b&gt;。她已經去找她的聯絡人了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我按照指示將貨物送到了梨繪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我已經惹怒了亡焰皇家商行，他們已經不想再和我有任何關係了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>哈扎努伊卡魯要求我幫助她處理一個敏感性事件。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

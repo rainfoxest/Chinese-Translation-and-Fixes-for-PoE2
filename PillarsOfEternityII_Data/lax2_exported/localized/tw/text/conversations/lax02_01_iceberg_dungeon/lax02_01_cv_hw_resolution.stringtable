@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax02_01_iceberg_dungeon\lax02_01_cv_hw_resolution</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>126</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你回來了，黃昏代言人。先驅之守望顫抖著，彷彿受傷了。Vytmadh 發生什麼事了？」他用他的三隻冰藍色的眼睛在尋找你的容貌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「黃昏代言人！整座冰山都在搖晃，就好像你捅了它一樣。你做了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你不必為她擔心。她不會回來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「這些是你們的人，瓦特尼爾。介意處理掉嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你可真會說笑！野獸真的走了嗎？那 Vytmadh 呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[撒謊]「道路依然暢通。隨著時間的推移，冰將吞噬整個世界。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「大門關上了。你的冰山不會再長了。最終，它可能會融化掉的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「信使死了嗎？但 Vytmadh 呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「那時我們就有時間了。」牧師把纏著繃帶的臉朝向烏雲密佈的天空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「姐妹們。兄弟們。我們從睿姆岡領地外回來了。我能為它的荒涼美麗伸張正義嗎？我認為不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「睿姆岡的意志是派巨龍來威脅我們，而它也這麼做了！」
+
+其中一些先驅者交換了一下困惑的眼神，但瓦特尼爾仍繼續說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「寒冬巨獸對我們的信仰很滿意！很快，我們就會獲得回報了，那就是可以暫時從麻煩中抽身！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你們所有人都得打包帶上你們的船離開這座冰山。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「事情既然發生了，以後應該也會這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[聳聳肩。]「別再靠近了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我不在的時候，哈弗堯恩給你帶路了。我想讓他繼續這樣做，這樣我就可以和黃昏代言人繼續旅程，傳播睿姆岡真理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「可是——可是你&lt;i&gt;碰到&lt;/i&gt;寒冬巨獸了！當然，您一定明白我們在這裡工作的重要性！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「噢。」哈弗堯恩轉向其他的先驅者，回頭看看你，然後看著聚集在一起的基斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我進入了虛空和寒冬巨獸交涉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「你……說的是真的嗎？和寒冬巨獸本身？那巨龍呢？那巨龍現在怎麼樣了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「那條龍不會回來了。你只需要知道這些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「瓦特尼爾兄弟……請給我們講一講你的旅行故事吧！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「兄弟姐妹們，睿姆岡跟我們還沒完呢。我們必須做好準備，因為冬天總會來的！」
+
+先驅者們低著頭向寒冬巨獸祈禱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我們要留在這裡嗎？還是要離開？睿姆岡會讓我們做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[離開]「我已經為你做得夠多了。」剩下的就靠你自己了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「你必須自己作決定。我希望你做對的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「睿姆岡這裡不需要你，而巨龍也不是他的信使。你或許應該離開這個地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「你們在這裡幹得太棒了！兄弟姐妹們，繼續正義之路！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「謝謝你，黃昏代言人！願你在睿姆岡的擁抱中得到喘息！」
+
+先驅者們低著頭向寒冬巨獸祈禱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>那些先驅者對你怒目而視。將痰吐在冰凍的地面上。另一個人握緊拳頭，她的指關節在寒冷中開裂了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「那……嗯，真是難以置信的。幾乎難以置信。睿姆岡的信使呢？那巨龍現在怎麼樣了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「所有的榮耀都衰敗了！所有人都讚美寒冬巨獸！「
+
+聚集在一起的先驅者們高聲歡呼祈禱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「但我們下一步要怎麼做？寒冬巨獸對我們有什麼要求？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>瓦特尼爾一手捂著嘴咳嗽，一手無力的舉起來打招呼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>哈弗堯恩透過他那濺滿淤血的兜帽看你處理事情。他坐立不安，扯著他的一隻手套。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>瓦特尼爾立刻開始劇烈咳嗽，但卻還是設法點頭回應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>哈弗堯恩興奮地點頭，並看著周圍的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「真該死。好極了。」伊德溫歎了口氣，搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「慢著，什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我，好吧，我和你一起走。我願意和你一起。如果你想和我一起走的話。那就一起吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「絕對不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>他張口結舌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「你……你確定嗎？難道我不能改變你的想法嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「完全確定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「這些人需要你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你不是有一個教派要操心嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>瓦特尼爾歎了口氣，三隻眼凝視著冰凍的地面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「哦，請不要鼓勵他們這樣做！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我的意思是，我回到你身邊，引導你……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「哈弗堯恩能照顧他們。我知道你不&lt;i&gt;需要&lt;/i&gt;我，但我可以幫助你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「好的，你可以一起去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「答案是不。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[默不作聲地瞪著他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>神嗣的禿唇大嘴不自然地扭成微笑的樣子。他回到了他自己的群落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「那就是答應了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「我出去宣傳這些奇跡。我不在的時候，請保護好這個地方！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「你想想，他們大部分的房子剛開始都是按照船的樣子建造的，所以只要把房子翻過來，馬上就可能動身走人。」
+
+艾德爾自顧自點點頭。村民們都默默地盯著他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「你還沒把我們引入歧途，瓦特尼爾兄弟。我們現在懷疑你真是愚蠢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「這真是個幸運的日子！你好，寒冬巨獸！你好，黃昏代言人！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>瓦特尼爾皺著眉頭，但什麼也沒有說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「就像瓦特尼爾所說的，睿姆岡很高興。你在這裡的工作已經完成了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我&lt;i&gt;殺&lt;/i&gt;了寒冬巨獸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「那究竟是份什麼樣的工作？在我看來，你大部分時間都是坐在那裡釣魚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「睿姆岡對你完全不屑一顧。你做的任何事都不能取悅他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「聽著，你們這些長著尖耳朵的白癡！快離開這座冰山！走吧！別再磨蹭了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>從先驅者們的人群中傳來陣陣喘息聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「如果你不離開這座冰山，我也會這麼對你的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「你失敗了。他死了。沒理由留下來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>聚在一起的先驅者們在你的威脅面前退縮了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>伊德溫的雙眼是紫紅色的，其中一隻眼睛上蒼白的眉毛挑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>人群開始散開，他們慢慢地走回住處時互相低聲咕噥著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「總有一天，你會得到你想要的，黃昏代言人。」睿姆岡還沒有結束，直到它們自己結束。」
+
+哈弗堯恩垂下頭，轉身離去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「船長，不要這麼快就對種簡單的生活下結論嘛。眾神不會比這些人愛你更多或更少。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我們要保護神廟！我們唱冬之歌，呼喚寒冷！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「然後留下來，保護它。我不在乎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>當先驅者們互相注視時，一些神經質的低語聲包圍著人群。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>在其他的先驅者都在互相尋求指導的時候，哈弗堯恩摸著他的後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「嗯，你這個人真……真不友善，黃昏代言人。」
+
+這個戴著兜帽的精靈從你身邊轉過去，加入他的教派中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「嗯，各位，幹得不錯。讓我們把所有東西都打包起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「和眾神聊了一下天。殺死了一些怪物。標準靈視者的生活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「那，那睿姆岡的信使呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「嗯哼，你能不能告訴我們他們怎麼樣了……睿姆岡的信使？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>你的沉默讓先驅者們緊張不安。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「強行記住教條，會有效果的。讓一個小伙子考慮信教。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「&lt;i&gt;這&lt;/i&gt;正在成為一種常態。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「我們可以通過和怪物交談來改變它們。只是想想而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「最佳練習，正適合我們追趕岡恩時用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[給他們看這些護符。]「她在這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「她試圖與睿姆岡戰鬥。這對她並不奏效。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「我說服她去死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「我把她殺了。再一次。她真得死透了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「不用擔心她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「但是……這條巨龍是信使，不是嗎？瓦特尼爾兄弟，你在那裡。你都看見什麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「別——？那個要求太離譜！你去了神廟，對吧？你得告訴我們發生了&lt;i&gt;什麼事！&lt;/i&gt;」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「不用擔心它嗎？但，但 Vytmadh 呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「你的小白門不重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「嗯，它在發光。」他咳嗽說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「原來那隻老蜥蜴只是怕岡恩的鐮刀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「我們中的一些人比其他人更習慣岡恩的鐮刀。」麥婭開玩笑地扎你的肋骨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>他們中間的低語聲越來越多時，先驅者們相互交換憂慮的眼神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>先驅者們在遺物面前畏縮不前。一些人睜大眼睛，恐懼或好奇地盯著它看，而另一些人則移開目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「她不是—你不能只—啊！那神廟呢？我祈禱 Vytmadh 沒有受損吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「很公平，我想，但 Vytmadh 呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「甜美的沙冰和死去的神……就剩下這些了嗎?你們…你們有傷害到 Vytmadh 嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「難以置信……Vytmadh 呢？它還在嗎？還是你把它藏在某個地方的盒子裡了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「瓦特尼爾兄弟在哪裡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「寒冬巨獸考驗了他，而他就是它想找的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我想回到我的船上去，可以嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>」他死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「他決定成為我船上的一員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「哦，呃。當然。發生什麼……什麼事了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「這對我們很重要！」對我們來說，它就是一切！」一個戴著兜帽的先驅者從人群中喊道。其他人使勁點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「那就真的結束了。我們沒有理由呆在這裡，是嗎？那——我們現在該做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>十幾個戴著兜帽的腦袋打了敗仗似的耷拉下來。你幾乎可以在寂靜中聽到自己的心跳聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>先驅者們互相望著，在那幾張沒有戴著兜帽的臉上可以看到一絲寬慰。瓦特尼爾走上前，舉起一隻手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>當你轉身離開時，先驅者們都目瞪口呆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>一些先驅者交換了憂慮的眼神，而另一些先驅者則點頭表示同意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「我們將……我們不會拿你的話來你反駁你的，黃昏代言人。很明顯，你被自己的苦難搞得暈頭轉向。」
+
+哈弗堯恩悲傷地歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「嗯，我們還有工作要做。也許你該走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>伊德溫歎了口氣，用雙手按了按太陽穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>伊德溫輕聲地笑了起來，並把眼鏡推到鼻樑上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「鑒於他們迄今為止在決策方面的出色記錄，我敢肯定，他們會這樣做的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「兄弟姐妹們，靈視者沒有錯。為你們的才能找到了更好的用處。睿姆岡在別的地方需要你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「我們應該……應該開始吃晚飯了嗎？」其中一個先驅者問另一個先驅者。他用一個不置可否地聳聳肩來回答。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>先驅者們低著頭向寒冬巨獸祈禱。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

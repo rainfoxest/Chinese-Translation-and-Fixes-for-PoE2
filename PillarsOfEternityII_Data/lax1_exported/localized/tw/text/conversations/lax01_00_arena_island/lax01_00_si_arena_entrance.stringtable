@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_si_arena_entrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>126</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>叢林變得開闊起來，你的面前出現了一座陡峭的小山，空氣沖充滿了鳥囀聲與蟲鳴聲。在高草之中，有一條不太明顯的小路，一路延伸到上方陰影之下的建築中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[把石頭留在原地，爬到山上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你的面前有一扇巨大的石門，石門前面有一塊較高一些的底座。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>敞開的拱門展現出了一條隧道，隧道似乎通往某個燈火通明的集市。集市上到處都是小貨架，貨架上掛著布質的遮陽棚，長長的麻線上還掛著小小的三角旗。烤肉的香氣和愉快的談話聲讓你不由得走了過去。
+
+進入集市的時候，你無意間聽到很遠的地方傳來了歡呼聲……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[檢查底座。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[返回山腳下。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>底座下面有一處小小的間隙，看起來像是延伸到廣場之下，更深遠的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[把石頭推上山。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>儘管你用力按下底座，但底座紋絲不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>想把石頭推到山上，恐怕不會是件簡單的事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[按下底座。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>你拼盡全力按下底座，但底座只往下移動了一兩寸，然後就停住了。你退了回來，底座發出吱吱嘎嘎的聲音，恢復到了原本的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>即便是沒帶著試煉石，爬這座山也並不輕鬆。當你接近山頂的時候，你的腿已經又酸又疼了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[讓某個人跑到繩子的另一端。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 0]快速點了點頭，拉住了繩子的另一端，朝山坡走了上去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[讓[Specified 0]把繩子繫在底座上，然後拉動繩子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[讓[Specified 0]回來。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[把繩子的一端繫在石頭上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[讓[Specified 0]把石頭拉上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0]向你敬了個禮，便離開了。繩子繃得緊緊的……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你把抓鉤穿過了試煉石中心的空洞，之後把它鉤在繩子上，繫緊了繩子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Specified 0]向你敬了個禮，便離開了。繩子繃得緊緊的……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>推石頭的過程漫長而艱辛，你們兩個累得滿頭大汗，但還是齊心協力把試煉石推到了山頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>石頭幾乎一動不動。
+
+大約一分鐘之後，[Specified 0]筋疲力盡地出現在山頂上，遺憾地搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>石頭慢慢地朝山頂滑去，留下了一條泥土的痕跡。不過，石頭沒走多遠就突然停了下來。
+
+[Specified 0]筋疲力盡地出現在山上，遺憾地搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>石頭幾乎一動不動。
+
+大約一分鐘之後，[Specified 0]筋疲力盡地出現在山頂上，遺憾地搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>石頭慢慢地朝山頂滑去，留下了一條泥土的痕跡。不過，石頭沒走多遠就突然停了下來。
+
+[Specified 0]筋疲力盡地出現在山上，遺憾地搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>石頭慢慢地朝山頂滑去，下面的草地都被磨禿了。石頭大約走了四分之一的路程之後，就慢慢地慢了下來，最後停住了。
+
+[Specified 0]筋疲力盡地出現在山上，遺憾地搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 1]一邊嘟囔著，一邊推起了石頭。他並沒有按照蜿蜒的小路前進，而是沿著直線穿過了草地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 1]展現出了傳奇般的力量，成功地把試煉石推到了山頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你用肩膀緊緊地頂住了石頭，讓[Specified 0]重新開始拉繩子。
+
+石頭又開始慢慢向上滑行了……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>推石頭是個漫長的過程，兩個人累得汗流浹背。不過到了最後，他們還是成功地把試煉石推到了山頂。
+
+你也跑過去，與他們匯合。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>石頭似乎往上走了一小段，但繩子從[Specified 0]的手裡滑脫了，石頭又往下滾了幾英尺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>趁你喘息之際，剩下的隊友也趕了過來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>你去幫她的忙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[把石頭放在底座上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>你把腳深深地踩進了土裡，拖著石頭慢慢地朝山上走去。你並沒有按照蜿蜒的小路往前走，而是沿著直線，直接穿過了草地。
+
+你的肌肉開始發酸，你的手開始發燙。汗珠流下了你的臉頰，從你的鼻尖落到了地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>你衝到了[Specified 1]身邊，用你的肩膀頂住了石頭……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>在你和[Specified 1]的齊心協力之下，你們把石頭成功地推上了山頂。
+
+你退到旁邊，雙手放在膝蓋上，大口大口呼吸著溫暖的空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>即便是齊心協力，你們也沒能頂得住試煉石的重量。你們兩人趕緊從石頭旁邊跳開，石頭一路滾下了山腳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>你們兩人把石頭安全地推回了山腳處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>你眼睜睜地看著石頭碾了過去，[Specified 1]發出了痛苦的尖叫聲。
+
+石頭滾到山腳下，停了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Specified 1]跳到了你身邊，用肩膀頂住了石頭，你們兩人齊心協力地推起了石頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>在你和[Specified 1]的齊心協力之下，你們把石頭成功地推上了山頂。
+
+你退到旁邊，雙手放在膝蓋上，大口大口呼吸著溫暖的空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>即便是齊心協力，你們也沒能頂得住試煉石的重量。你們兩人趕緊從石頭旁邊跳開，石頭一路滾下了山腳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>但你卻更加用力地推起了石頭。在你難以置信的怪力之下，你成功地把石頭推到了山頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>你把石頭推到了底座上，石頭嚴絲合縫地嵌入了底座之中。石柱發出了像大樹被砍倒的聲音，慢慢地陷入了地下，試煉石也跟著一起下了下去。
+
+試煉石不斷下沉，巨大的石門也隨之不斷下沉，最後消失在了泥土之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>廣場的邊緣佈滿了古老的石柱，石柱上刻滿了符文。符文風化得特別厲害，已經無法辨認了。有的石柱已經倒了，還有的石柱斜靠在附近的樹上，所有的石柱上都長滿了籐蔓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[檢查石門。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>你離開了廣場，回到了山腳下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>人們認為這些生物都是聖獸，它們服侍托墨弗艾，胡亞納人的狩獵之神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>這扇門本身似乎就嵌在石頭裡，你沒找到能打開這道門的機械裝置。石門上雕刻著浮雕，是三隻動物的面容，兇猛而醜陋：一隻蜘蛛、一頭野豬、還有一隻獅尾虎——性情凶暴、長著利齒的貓科動物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>這個底座大約有一米高，尺寸比長得特別大的蜜瓜還要大一點。無論是材料上還是樣式上，這個底座都讓你想起了試煉石。甚至連底座上的圖案，都與試煉石上的圖案很相似。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Specified 4]嘟囔了一聲，用盡全力地推著底座，試圖把它壓進地裡。底座陷入了地裡，約一英吋左右。[Specified 4]歎了口氣，挺直了身子。底座發出吱吱嘎嘎的聲音，恢復到了原本的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>你走進了損壞的小廣場的陰涼處。由於風吹日曬，小廣場的石頭地板已經磨損了，上面還有樹木根部撐出來的裂縫。苔蘚沿著石板的裂縫蔓延，沿著裸露的泥土不斷擴散，彷彿從傷口中滲出的鮮血一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>你感覺你的胳膊開始酸痛，已經使不出勁了。你的腳在草地上滑了一下。
+
+石頭開始慢慢地滾回來了……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Specified 1]尖叫一聲，幾乎無法阻止石頭滾下去。
+
+形勢看起來非常危急……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[試圖擋住它、]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[叫人來幫忙。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[趕緊跳開。}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>你頂住了試煉石，試圖阻止它的慣性……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>你成功地擋住了石頭，把石頭安全地帶回了山下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>但石頭從你身上碾了過去，你的雙手都被碾在了下面。你感覺你的雙手被石頭碾骨折了。
+
+你返回了山腳下，看到石頭就躺在那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>你決定不管它了，打算從石頭滾下來的路徑上跳開……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>你看著石頭滾下了山，回到了它原來的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>但石頭從你身上碾了過去，你的雙手都被碾在了下面。你感覺你的雙手被石頭碾骨折了。
+
+你返回了山腳下，看到石頭就躺在那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[幫助[Specified 1]推石頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[幫助[Specified 1]把石頭滾下山。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[什麼都不做。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>你去幫他的忙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>你衝到了[Specified 1]身邊，用你的肩膀頂住了石頭……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[召喚魔法生物幫忙。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精華回應了你的呼喚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>你召喚出的巨獸看了你一會兒，緊接著就跑到了石頭前面。它輕而易舉地把石頭舉了起來，拿到了山頂。之後，它把石頭丟在地上，發出一聲巨響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>一頭巨熊從森林裡竄了出來，微風吹拂著它的鬃毛。它用後腿站了起來，結實的肌肉抓住了石頭，把石頭舉了起來。巨熊爬到了山頂，把石頭丟在地上，之後發出了一聲震人心魄的吼聲。
+
+叢林裡也迴響起了吼聲和鳥兒鳴叫的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>兩個朦朧的幽靈透過你看了一段時間，似乎在測量著什麼。隨後，它們點了點頭，朝石頭走了過去。它們輕而易舉地舉起了石頭。蒼白騎士的化身單手抓住石頭，引魂人雙手拿著石頭，舉過頭頂。
+
+兩個幽靈一路把石頭抬到了山頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>三個發光的生物出現在你的面前，向你輕輕地鞠了一躬。靠著難以置信的力量，它們舉起了試煉石，把它抬到了山頂。之後，它們小心翼翼地把石頭放了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>轉眼之間，召喚生物消失了，你開始往山上走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[試試別的辦法。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>你盯著這座難以逾越的小山，思考起了其它的對策。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[讓所有人都去拉繩子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>所有的隊員都跑到了山上，拉住了繩子。你也抓住了繩子，讓重力把你帶到了山下。繩子在底座上摩擦著，不過，石頭也因此被拉到了山上。
+
+你們聚集在石頭旁邊，擦著額頭上的汗水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>白骨從地底升了起來，組成了三個骷髏的形態，來幫你的忙。
+
+幾個骷髏蹣跚著走向試煉石，在巨大的岩石身邊彎下了身子，把白骨粼粼的手指放在了下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>骷髏們努力支援著岩石的重量。但隨著一陣陣響亮的破裂聲，它們的胳膊掉了下來，落在了地上。
+
+它們也散落成了白骨，消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>你的面前迸發出了烈焰，烈焰變成了一頭火焰與岩漿組成的雙足巨獸。它舉起了試煉石，帶著它朝山頂走去，留下了一串由燒焦的青草組成的腳印。它把冒著蒸氣的石頭丟在了山頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>這隻又高又瘦的生物出現在你的面前，輕輕地笑了一聲，你聽到你的腦後傳來了低語聲。它大步跑向石頭，用雙手舉起它，毫不費力地拿著它走到了山頂。它低著頭盯著你，有那麼一瞬間，你看到了它手持巨石猛砸地面的幻景。但它並沒有那麼做，而是輕笑一聲，把石頭放了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>你身邊的叢林開始閃閃發光，某個沒有形體、沒有容貌的生物從空氣中凝聚而成。空氣似乎在顫抖，彷彿時間的維度被切掉了一樣。可以確定的是，石頭已經不在你身邊了，而是矗立在山頂的位置。你的身邊迴響著不和諧的低語聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[對整座山使用油膩術。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>你施展了咒語，沒過多久，整座山都發出了油光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[幫助[Specified 0]一起推石頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>三條又長又堅韌的觸手從山上伸了下來。第一條觸手捲住了試煉石，把它傳給了第二條觸手，第二條觸手又依樣傳給了第三條觸手。第三條觸手抓住石頭後，以比較輕柔的動作把它放在了山頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Specified 1]朝你點點頭，跑到了石頭處，用肩膀頂住了石頭。你對[Specified 0]打了個開始推的手勢，石頭動了起來……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>推石頭的過程漫長而艱辛，你們兩個累得滿頭大汗，但還是齊心協力把試煉石推到了山頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>推石頭是個漫長的過程，兩個人累得汗流浹背。不過到了最後，他們還是成功地把試煉石推到了山頂。
+
+你也跑過去，與他們匯合。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「膝蓋得使勁，夥計們！」塞拉芬喊了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「這些傢伙真可憐。」
+
+艾德爾搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「我不太清楚你剛剛在想什麼。即便是在最好的情況下，這些生物也非常脆弱。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精華回應了你的呼喚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精華回應了你的呼喚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>你的吟唱在空氣中迴盪，空氣中的精華回應了你的呼喚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>這扇門本身似乎就嵌在石頭裡，你沒找到能打開這道門的機械裝置。石門上雕刻著浮雕，是三隻動物的面容，兇猛而醜陋：一隻蜘蛛、一頭野豬、還有一隻獅尾虎——性情凶暴、長著利齒的貓科動物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>這個底座大約有一米高，尺寸比長得特別大的蜜瓜還要大一點。無論是材料上還是樣式上，這個底座都讓你想起了試煉石。甚至連底座上的圖案，都與試煉石上的圖案很相似。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>寒冷的空氣籠罩著你，一頭巨大的野牛從森林裡走了出來。它每走一步，你腳下的地面都要晃動一下。它朝你哼了一聲，緊接著，就把石頭扛在了寬敞的肩上。
+
+它帶著石頭，爬上了山。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[召喚魔法生物幫忙。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>你把腳深深地踩進了土裡，拖著石頭慢慢地朝山上走去。你並沒有按照蜿蜒的小路往前走，而是沿著直線，直接穿過了草地。
+
+你的肌肉開始發酸，你的手開始發燙。汗珠流下了你的臉頰，從你的鼻尖落到了地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Specified 1]一邊嘟囔著，一邊推起了石頭。他並沒有按照蜿蜒的小路前進，而是沿著直線穿過了草地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[重新考慮使用繩子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>你已經確認過，繩子很結實。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>推石頭的過程漫長而艱辛，你們兩個累得滿頭大汗，但還是齊心協力把試煉石推到了山頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>推石頭是個漫長的過程，兩個人累得汗流浹背。不過到了最後，他們還是成功地把試煉石推到了山頂。
+
+你也跑過去，與他們匯合。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>由於一路推著試煉石，你的手變得又乾又澀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>草叢裡放著一塊圓形的大石頭，石頭表面刻著旋轉的線條。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>你回到了競技場下方的陡坡處。這裡的空氣厚重而溫暖，遠處可以聽到鳥兒們的鳴叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>你認出了這塊石頭就是試煉石。雖然你努力找著線索，但你並不清楚是什麼人把它放在了這裡，也不知道這塊石頭要用來幹什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>石頭其它的部分都很結實，只有中間有個洞，像個戒指一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>穆阿圖模糊的幽靈出現在你眼前。
+
+「哦，是試煉石！到了山頂，你就能找到競技場的大門，這塊石頭可以打開大門。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>試煉石就躺在山腳下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>沒有試煉石的話，這裡沒什麼能做的事情……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「不過，你還得把它推到山上。這塊石頭之所以被稱為試煉石，就是這個原因。因為它特別重，這裡又是山坡，所以嘛——」
+
+幽靈笑了起來，搖起了頭。
+
+「如果你能順利把它推到山頂，你肯定有資格參加狩獵儀式了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>艾德爾一邊嚼著草葉，一邊遮住了眼睛。「看起來挺有意思的，你先請吧，[Player Name]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[帶著試煉石離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「我們一起來吧，應該不算太困難。」康士坦丁一邊挽起袖子，做著伸展運動，一邊意味深長地看了艾德爾一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>雷科笑了一聲，便跟著康士坦丁幹了起來。他拍了一下艾德爾的肩膀，艾德爾最後也加入了他們的行列。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>你考慮著接下來要怎麼做。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

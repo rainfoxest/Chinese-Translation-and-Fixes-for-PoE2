@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_vtc_faction_questline\fct_qst_vtc06_no_confidence</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>踟躇不前</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>作為證人參加審判。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與卡斯托爾主管交談</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>與阿爾瓦瑞總督交談</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>見證尼切斯伯爵尼洛的最終判決</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>路耶瓦·阿爾瓦瑞召集起了瓦利亞商行的重要投資人，她要求革去卡斯托爾主管的職位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>尼切斯伯爵將面見卡斯托爾主管最近行動中的參與人員。也就是說我。
+
+阿爾瓦瑞要求我去參加瓦利亞商行上層主管室裡面舉行的會議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>卡斯托爾主管的職位安然無恙。路耶瓦·阿爾瓦瑞已經被逐出涅克塔卡，她不會再對他造成威脅了。
+卡斯托爾應該會知道接下來該幹什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>卡斯托爾已經被放逐，路耶瓦·阿爾瓦瑞是瓦利亞商行的新任主管。
+阿爾瓦瑞應該會知道接下來該幹什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我已經陳述了我的供詞。是時候看看瓦利亞商行的領導層會發生什麼變化了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>議會已經下令流放了阿爾瓦瑞。現在，卡斯托爾主管成了瓦利亞商行的管理人，為了爭奪烏凱佐的控制權而戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>議會已經下令流放了卡斯托爾。這樣一來，主管的位置就交給了路耶瓦·阿爾瓦瑞。她準備為了爭奪烏凱佐的控制權而戰。為此，她邀請我助她一臂之力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

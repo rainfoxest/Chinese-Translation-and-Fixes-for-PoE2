@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_imp</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「有人闖進來了！人類在主人的聖堂之中！快來人！」
+
+妖精發出極度緊張的大叫，翅膀拚命扑打著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[撒謊]「你竟然認不出主人的長袍，你這僕從？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[攻擊]「一隻妖精——殺了它！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「低賤的野獸想戰鬥嗎？自從主人在二樓放出一隻貓以來都沒好好活動過手腳了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你需要些什麼？」妖精摳著牙縫盯著你看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「秘室的鎖上面缺一塊寶石。發生了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你對秘室瞭解些什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「想要亮閃閃的石頭？去和黃眼三號聊聊。在樓上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「呃……竟然問這種問題？你是瘋了還是腦子不靈光？」
+
+妖精快速揮動著翅膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「繼續。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「主人。我們應召前來效命。」妖精將一隻手指放進耳朵攪動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我在找一處出口。越近越好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我要是成了大法師，絕不會僱傭妖精，我才不管他們多可愛哩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「隨我來。帶你出去。跟好了別受傷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[離開]「帶路吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「大法師的親朋好友都會被當作竊賊對待嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你不懂了吧。主人根本沒朋友。」
+
+他發出了某種模仿笑聲的刺耳尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「冷靜點。我只想好好談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「呃？！不該在此！人類不該沾染主人的屋子！」
+
+妖精伸出利爪向你撲來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[撒謊並指向你的同伴。]「我和亞柯彌一同來此。認識這長袍吧？只是變身過程出了問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「嗯，已經足夠了，妖精。現在離我們遠點，否則我讓你把我書房裡的每本書重新整理一遍！」
+
+亞洛斯快速看向你，眼中閃爍著惡作劇般的愉快光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你認識我，我乃亞柯彌。我會讀書，還會施展有意思的法術。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「不，這太荒謬了。」
+
+她抱起雙臂向妖精怒目而視。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「好。我是說……是的。」
+
+帕蕾吉娜半閉著眼簾，交叉雙臂盯著妖精。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「對，那就是我，你這個沒完沒了的蠢東西！你難道從沒見過……雷瑪米爾的……縮短……毛皮？這可是再普通不過的法術了！」
+
+塞拉芬抬起下巴輕蔑地盯著妖精。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>目瞪口呆的裘荻盯著你有點說不出話。一陣尷尬的停滯後，她清清喉嚨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「呃……這個人類是亞柯彌？主人給過我們通行口令。你們重複一遍！」
+
+妖精靠得更近了，一邊獰笑一邊用舌頭舔舐著尖牙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「蘋果汁與奶酪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「你要給你的主人下命令？我沒聽錯吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我們已經不用通行口令了。反正也沒人記得住。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「什麼？真的？見鬼……誰也沒和我講過。」
+
+他發出嘶嘶聲，抓撓著空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「呃……不對！來人！」
+
+妖精退後發出了嘶鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我不知道你在說什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你想要什麼？我在這遊蕩可不是為了好玩。」
+
+妖精向你拋出了問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[撒謊]「我是亞柯彌的客人，你要尊重我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「訪客？你真不是竊賊？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「通行口令，好吧。」
+
+妖精歪了歪他的尖角腦袋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「對啊。沒錯。我就是有名的亞柯彌。現在……在我眼前消失！」
+
+泰克胡狡猾地向你眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>他攤開手掌嘟囔了一句樂節，從附近的水滴中召喚出一隻貓般大小的龍。這隻野獸展開雙翼，發出一聲沉默的怒吼之後又在戲劇性的爆炸中蒸發，令在場所有人都有些不知所措。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「惡人傾慕瓦利亞之美德。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「魂珀流動不息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「昂德拉的水之擁召我歸鄉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「鐵與銅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[攻擊]「無關個人，只是我覺得你太煩人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「挺有膽子啊？試試地毯如何？妖精們都這麼幹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>在你繼續說話之前，妖精用雙爪扣在嘴邊發出一聲震耳欲聾的嘶鳴，在整座屋宅中迴響。
+
+妖精揮動起尖齒利爪發動了進攻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我保證妖精離你們遠遠的。只要別破壞任何東西。這的東西都很貴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>妖精發出一聲充滿慌亂與恐懼的邪惡嘶鳴，迴盪在大宅的每個角落。
+
+他揮動起尖牙利爪準備攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我在測試你。這應該挺簡單的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[攻擊他。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「趕緊回答那該死的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「好吧好吧！秘室在下層的西南角。有一扇大門，很容易找到。」
+
+妖精指向一個方向，又調轉手指。他聳聳肩，陷入沉默。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>你一記老拳打在妖精的下巴上，感覺像是捶上了一面硬牆。不過妖精還是發出了一聲驚叫，退了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「不。自己去找吧，人類。」
+
+妖精向你吐吐舌頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>妖精死死盯著你，只有他翅膀規律的顫動聲在沉默中迴響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「全是好東西。如果主人沒上好鎖，就被我們吃光了。」
+
+他向你撇了撇乾癟的嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我和其他妖精說了離你們遠點。只要別亂碰東西好吧？」
+
+他的喉嚨裡飄出一段令人同情的低求聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「別再騙我們，否則真正的主人把你們炸成碎渣！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「聰明的人類應該在主人面前躬身行禮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>妖精向你發出不耐煩的嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「嗯，亞柯彌。正是本人。呃，可怕而強大的巫師……長袍聞起來很老舊。絕不受人質問。
+
+「所以……別理我們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「那傢伙舔寶石有不少日子了。」
+
+妖精否認地搖搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「我正在工作！非常努力的工作！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\15_takuro\15_qst_hunting_season</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>狩獵季節</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>保衛&lt;b&gt;梨繪&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與&lt;b&gt;艦隊指揮官岡谷&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>與&lt;b&gt;艦隊指揮官岡谷&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>前往&lt;b&gt;彎叉沼澤&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>找到並殺死德魯伊領袖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>回去找&lt;b&gt;艦隊指揮官岡谷&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>回去找德魯伊們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;德魯伊&lt;/b&gt;們率領的一群狂暴動物攻擊了&lt;b&gt;梨繪&lt;/b&gt;的亡焰皇家商行港口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>一名亡焰皇家商行士兵警告我說&lt;b&gt;梨繪&lt;/b&gt;正遭到&lt;b&gt;德魯伊&lt;/b&gt;與野獸的攻擊。德魯伊應該不會理會我是不是商行士兵，為了自救我需要保護港口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我幫助亡焰皇家商行的士兵擊退了攻擊&lt;b&gt;梨繪&lt;/b&gt;的德魯伊們。我應該去看看&lt;b&gt;艦隊指揮官岡谷&lt;/b&gt;有沒有活下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我在德魯伊攻擊時離開了&lt;b&gt;梨繪&lt;/b&gt;，戰鬥現在肯定已經結束了。等有時間我應該去看看&lt;b&gt;艦隊指揮官岡谷&lt;/b&gt;與她的士兵們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>艦隊指揮岡谷說德魯伊的首領們躲在了梨繪叢林深處的&lt;b&gt;彎叉沼澤&lt;/b&gt;裡。
+
+她派去調查的士兵們都沒有回來，因此她請求我前往沼澤消滅&lt;b&gt;德魯伊首領&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我到達彎叉沼澤後發現艦隊指揮岡谷之前派遣的士兵們都已經被德魯伊屠殺。
+
+殺死&lt;b&gt;德魯伊首領&lt;/b&gt;應該能夠終結他們與梨繪中的亡焰皇家商行的衝突。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>我按&lt;b&gt;艦隊指揮官岡谷&lt;/b&gt;的要求殺死了德魯伊。我應該去通知她這一進展。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>我按照&lt;b&gt;德魯伊&lt;/b&gt;的請求殺死了艦隊指揮官岡谷。我應該去通知他們這一進展。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>&lt;b&gt;德魯伊&lt;/b&gt;告訴我說在&lt;b&gt;艦隊指揮官岡谷&lt;/b&gt;死之前他們會持續攻擊&lt;b&gt;梨繪&lt;/b&gt;。我可以親自去殺了她，但是如果那麼做，我就會成為&lt;b&gt;亡焰皇家商行&lt;/b&gt;的敵人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我為了保護梨繪殺死了德魯伊們。艦隊指揮岡谷知道伐木工作可以繼續後欣喜若狂並獎勵了我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>亡焰皇家商行已經對我下達處決令。我覺得艦隊指揮官岡谷應該不會再想要我幫忙解決梨繪的德魯伊問題了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我殺死了艦隊指揮官岡谷，我沒有辦法再幫助她解決梨繪的德魯伊問題了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我按照德魯伊的請求殺死了艦隊指揮官岡谷。他們應該能夠暫時擺脫亡焰皇家商行的干擾了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

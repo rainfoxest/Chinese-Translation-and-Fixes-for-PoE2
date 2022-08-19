@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_si_sepulchers_tunnels</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這棵樹的根深深紮在岩石和磚塊上，懸掛在峭壁之上。在下方，一座敞開的墳墓緊貼懸崖的山壁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[下降到墳墓的開口處。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[把繩子和抓鉤固定在樹上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[越過懸崖]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你站在墳墓入口狹窄的邊緣上，入口通向黑暗之中。你的繩子懸吊在樹上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[順著通道進入墓穴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[觀察通道裡面。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[爬上去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你站在一個門廳前。它的支柱是許多在岩石中挖空出來的墳墓。牆上排列著許多壁龕。骸骨亂七八糟地躺在各個壁龕裡，灑落在鋪地的厚石磚上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[穿過門廳繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[檢查門廳。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[返回通道處通向懸崖的出口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你站在一個門廳前。它的支柱是許多在岩石中挖空出來的墳墓。牆上排列著許多壁龕。骸骨亂七八糟地躺在各個壁龕裡，灑落在鋪地的厚石磚上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[穿過門廳繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[檢查門廳。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[回到狹窄的洞穴中。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你站在一個黑暗、狹窄的洞穴裡。前面的路蜿蜒曲折。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[在曲折的洞穴裡繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你站在一個黑暗、狹窄的洞穴裡。面前的道路通向大山深處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[繼續在洞穴裡前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[原路返回到墓穴。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>穿過一座搖搖欲墜的古墓遺跡，一條小道通往山的更深處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[進入小道。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[檢查墳墓的入口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你抓住繩子，腳踩在懸崖邊，開始下降。一陣強風吹得你左搖右晃，你不得不緊緊抓住繩子。隨著你的每一個動作，繩子都更深地勒進你的皮膚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>儘管費了一番功夫，你小隊成員證明了他們的身體素質極佳。所有人都成功抵達了墳墓的開口，沒有耗盡體力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>下山的過程比預想中艱難得多。你設法抵達了墳墓的開口，但也幾乎筋疲力盡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>儘管費了一番功夫，你成功抵達了墳墓的開口，並且沒有耗盡體力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>下山的過程比預想中艱難得多。你設法抵達了墳墓的開口，但也幾乎筋疲力盡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你站在墳墓入口狹窄的邊緣上。在你上方，懸崖的巖壁上有一棵樹可以為抓鉤提供錨點。山腰的大風會使得抓鉤很難扔准。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[扔出抓鉤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[扔出抓鉤。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[回到墳墓外的通道。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你把抓鉤固定在樹幹上。你用力猛拉了繩子幾下，確信它能在你下降時承受你的重量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>你的抓鉤牢牢嵌在樹幹中，上面的繩子一路垂落到你下方山間墳墓的開口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>懸崖下方幾百尺是涅克塔卡較低的街區。大風剮蹭著懸崖，一邊吹起口哨一邊刮下落石。下方幾碼遠處，墳墓開口的邊緣就在那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你順著小道前進。儘管外面狂風肆虐，但墳墓裡的空氣紋絲不動，陳舊而沉重。刻在岩石上的台階通向山的深處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>你沿著台階行進，每一步都在狹窄的通道裡發出迴響。沿途的牆上是成列壁龕，裡面散落著骸骨，一直延伸到台階進入一條狹窄走廊的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>漏進小道的光線剛剛好夠照亮埋葬於此的骸骨，它們躺在洞穴巖壁上鑿出來的壁龕裡。石磚地面彷彿是在幾百年前鋪設的。小道消失在前方的黑暗中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>你決心找到通往你上方街區的道路。儘管攀登很艱難，但從懸崖側面刮過的風不會妨礙你前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你找到了貝拉斯神殿下方地面堅實的通道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>你用穩定的搖擺動作平衡抓鉤，將其高高扔出，希望它穩固地掛在樹上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Specified 0]用穩定的搖擺動作平衡抓鉤，將其高高扔出，希望它穩固地掛在樹上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>儘管難度頗大，你完美地將抓鉤投擲到了樹上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>迎著強風，抓鉤勉強掛在樹上。抓鉤撞在一根樹枝上彈開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>儘管難度頗大，[Specified 0]完美地將抓鉤投擲到了樹上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>迎著強風，[Specified 0]的抓鉤勉強掛住了樹。抓鉤撞在一根樹枝上彈開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>你回到墳墓外的通道。儘管外面狂風肆虐，但墳墓裡的空氣紋絲不動，陳舊而沉重。刻在岩石上的台階通向山的深處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>你小心檢查著走廊，不放過一個細節。牆邊散落著因為時間而散落一地的骷髏殘骸。從墳墓石塊上雕刻著的一個符號可以看出，這裡埋葬著的都是同一個部落或者團體的成員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>你察覺到了一絲黯淡的火花。你注意到了一處壁龕中崩塌的骸骨堆中有什麼在閃爍。看上去近在咫尺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>你轉過身爬上了階梯，你朝著光芒一直前進，最後你終於發現了隧道與墓穴縫隙中的一處通往山巒外的出口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>隧道中的岩石上雕有階梯。出口就在前面，外面就是廣闊天空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[取出墓穴中的發光物體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>你伸進了壁龕中的骸骨與石堆之中。你的手指觸到了某種冰冷的物體，表面如鏡面一樣光滑。你抓住了那個物體，它的重量出乎意料，你將手收了出來，你的手掌裡現在趟著一塊巨大的紅寶石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[取出墓穴中的發光物體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>你繼續向前，堅毅謹慎地順著道路上的轉彎口前進著。當你拐過一個彎道時，你聞到了一絲冰冷的空氣，狹長的通道馬上就要結束了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>出口就在前面，兩側儘是沒有完整埋葬的屍體。你走了進去，一個巨大的洞穴，洞穴的牆面與陡峭的崖壁上滿是通往未知之地的墓穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>你轉過身去開始順著洞穴裡的通道向上走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>你穿過了狹長的洞穴，開始順著一處陡峭的通道向上爬。空氣變得陳腐而且沉重。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>你轉過去，順著彎曲的通道爬了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>你爬上了墓穴。除了四周沒有掩埋的屍體之外，岩石上還有一條向上的彎曲通道。你小心翼翼地爬了上去，墳墓的光芒已在身後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>墓穴四壁上滿是凸出的骷髏殘骸，壁龕裡面現在滿是碎石。前方的墳墓通向了一處通道。道路的左側有處轉彎，一陣輕風在空洞的黑暗中嗖嗖作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你找到了貝拉斯神殿下方地面堅實的通道。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

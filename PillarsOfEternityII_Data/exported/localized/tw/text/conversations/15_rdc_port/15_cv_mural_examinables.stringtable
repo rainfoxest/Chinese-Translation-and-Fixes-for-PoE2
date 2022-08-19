@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_cv_mural_examinables</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>壁畫下方一塊小匾額上寫著：「風蛇是我們的首次成功。這種生物由普通梭魚所生，我們對其注入機器的生命能量，導致它長得碩大無比。從那時起，它似乎演變出了某種群體意識，經常成群結隊獵食。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>匾額磨損嚴重，但仍可辨識出上面的字：「我們對風蛇的研究取得成功後，最直接的產物是刺鯊。我們將毒刺移植到牛鯊身上，然後給它們注入機器的能量。它們的體型先變成了原來的三倍，後來又變成了四倍，將刺吸收進了體內。最可怕的捕食者就這樣誕生了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>壁畫附近的匾額上寫著：「利維坦是最狂傲者的造物。我們與刺鯊打過交道後，決定測試機器生長能力的極限。我們誘捕了一批藍鯨，連續幾個月不停地給它們注入機器的能量。只有幾隻活了下來，但活下來的這幾隻……
+
+已經無法控制了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>壁畫下方的匾額十分引人注目。上面寫著：「海怪是與眾不同的怪獸。通過對利維坦的研究工作，我們改良了操縱技術，並將普通章魚的尺寸與智力分別加以提升，使其成為兇猛無比的獵手。
+
+不過遺憾的是，有一個副作用：它們的領地意識也變得很強。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

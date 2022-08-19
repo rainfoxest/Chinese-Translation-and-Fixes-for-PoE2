@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\11_hasongo\11_qst_castles_in_the_sand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>遙遠的光芒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>航向哈桑戈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>前往堡壘西面的魂珀燈塔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>與燈塔中的光魂珀連接。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>找到哈桑戈的光魂珀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我得知俄撒斯曾經出沒在設有一座努瓦泰前哨站與一座魂珀燈塔的小島哈桑戈附近。哈桑戈就在涅克塔卡的西面。
+
+我有可能可以通過信標與他連接。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>俄撒斯最後一次被人發現是在位於涅克塔卡西北面的小島哈桑戈附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>亡焰皇家商行在光魂珀上建造了一座燈塔。也許那就是我在國王港與俄撒斯連接時他正在前往的地方。
+
+如果我能到達燈塔，也許我就能夠再次與俄撒斯對話了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>燈塔裡的魂珀礦脈已經黑化，俄撒斯來過這裡。我應該能夠通過與魂珀連接接觸到俄撒斯。
+
+但是一名叫做蘇甘的蛇妖擋住了我的去路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>我到達了一座被稱為哈桑戈的小島，很明顯俄撒斯也來過這裡。
+
+如果我能找到一處光魂珀，我就能夠與他再次連接了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>蘇甘放我走了，但是他警告我不要再回來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>蘇甘認為神靈們正在因為使用魂珀的行為懲罰基斯。那就解釋了他為什麼不讓我靠近魂珀的原因。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我殺死了蘇甘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>蘇甘允許我接觸魂珀了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我找到了一個目擊了俄撒斯吸收魂珀的蛇妖的靈魂。也許這能夠說服蘇甘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>祖希拉說有面外牆處有可能有一座完好無缺的射石炮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>使用射石炮之前我需要彈藥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>祖希拉告訴我說有個叫做埃姆羅之前在為射石炮製作爆破彈。他的工坊就在北門附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>我找到了一枚射石炮的爆破彈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>射石炮因為銹蝕卡住了。在使用之前我需要某種潤滑劑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>我找到了一些烹飪油，這也許能夠鬆動銹蝕的齒輪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>我將射石炮轉向了堡壘中央的蛇妖群。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>我在堡壘的高牆上找到了一座射石炮。我有可能可以用它來對付蛇妖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>我發現一群蛇妖棲息在堡壘中央，或許有什麼辦法可以繞開它們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>我已經解決了堡壘中央的大群蛇妖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>埃姆羅提到了通往燈塔的兩條道路。第一條在堡壘圍牆上，第二條在工坊之上並且需要穿過艦隊指揮官辦公室。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>蘇甘放我走了，但是他警告我不要再回來。我需要帶來他死去的一名手下來證實我的說法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>在我前往哈桑戈之前，我需要找人修理我的船隻。我應該去女王港的碼頭上轉轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>魂珀燈塔在堡壘的西邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>其中一位士兵警告我，如果離水太近的話，可能會遭到蛇妖的襲擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>我找到了一份說明書，告訴我如何正確操作射石炮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我在哈桑戈的燈塔裡與俄撒斯做了連接。他沒有告訴我他在做什麼，他只說去瑪珈嵐之牙找他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>我已經到達了哈桑戈，現在那裡只剩下了一座堡壘的廢墟。看上去俄撒斯直接踩過了那裡。
+
+如果我能在這裡找到光魂珀，我就能再次與俄撒斯連接。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

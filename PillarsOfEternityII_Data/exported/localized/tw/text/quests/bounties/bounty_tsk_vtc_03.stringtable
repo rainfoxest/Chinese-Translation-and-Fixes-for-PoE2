@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_vtc_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸賞：鯊魚戴斯瓦</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺死&lt;b&gt;鯊魚戴斯瓦&lt;/b&gt;並奪取她的艦船旗幟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找&lt;b&gt;艾尼亞&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;艾尼亞&lt;/b&gt;要求我去追捕單桅帆船&lt;b&gt;黑尾號&lt;/b&gt;的努瓦泰船長&lt;b&gt;鯊魚戴斯瓦&lt;/b&gt;。任何能呈現船長死亡證明之人都能獲得一份賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;鯊魚戴斯瓦&lt;/b&gt;駕駛的單桅帆船&lt;b&gt;黑尾號&lt;/b&gt;在&lt;b&gt;梨繪南部水域&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我可以去收取針對鯊魚戴斯瓦的賞金了。我可以去向涅克塔卡女王港的&lt;b&gt;瓦利亞商行總部外&lt;/b&gt;的&lt;b&gt;艾尼亞&lt;/b&gt;收取賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我解決了鯊魚戴斯瓦並得到了賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

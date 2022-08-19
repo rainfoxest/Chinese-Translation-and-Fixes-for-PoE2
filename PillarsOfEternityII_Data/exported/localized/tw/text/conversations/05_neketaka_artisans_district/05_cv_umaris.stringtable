@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_umaris</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你有問題要問我？儘管說吧。」麥魯會長抱起雙臂點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「曾經的陌生人——如今挺臉熟。你想要什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「說說公會的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你還想知道些什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「水塑者的力量從何而來？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「水塑者到底是做什麼的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我們的能力來自古時胡亞納與女神的誓約。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我們能掌控潮汐，阻止風暴來襲，還有……讓不懷好意的船隻不敢輕易靠近。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>會長抬起頭看向你，試圖凝聚目光。她已深受無數重創，長袍上浸滿了血跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「就算是我，對手也太多了。」她噴出一口鮮血，但仍努力露出一個深紅色的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「你這麼頑強死不了的，老鯊魚。」
+
+他飄渺的聲音像麥魯指間滲出的一團鮮血。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「就這一次，泰克胡……聽我說。」
+
+她的手掌堅定地握住他顫抖的手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「深淵長杖……被我弄丟了……被拿走了。你需要……」
+
+麥魯咳嗽幾聲，吐出一點血跡。她每次努力發出一點聲響，呼吸都變得逐漸微弱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「找到長杖。從入口……穿過……石門。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「結界……失效了。快……不要讓它逃走。」
+
+麥魯意識模糊地看著你，眼神慢慢渙散。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「我們代表了胡亞納的最高成就。責任重大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「好，儘管說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>「好，這是我的榮幸。水塑法是女神恩加蒂賜予胡亞納人的天賦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>「我……我想她是讓我們進入水塑者聖殿？」
+
+泰克胡看向麥魯，後者虛弱地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>「麥魯？麥魯！」泰克胡抓著她的肩膀搖晃著——幅度越來越大。
+
+最終他停了下來，放下麥魯，將手握拳放在眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>「恩加蒂在上……她死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>「你已經知道了泰克胡，我們出色的學生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>「由於我們的明星學生泰克胡，最近我們經歷了……某種文藝復興。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>「你覺得水塑者一直在背後支援地下室的走私者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>「地下室？這名字和我有關係嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>你注意到會長眉頭上落下一點汗滴。她彎彎手指，汗滴便消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>「如果你說的確有其事，那麼就違反了我們組織的原則——更不必說這是對王權的背叛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>「接下來就交給我吧。這種事情最好要謹慎處理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>「你沒有完全說出實情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>「還是回到我其他的問題上來吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>「隨便問。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>「你一直在奉行半信半疑的原則，泰克胡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>「我只是按你的命令辦事，會長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>「你可以隨便懷疑我。我沒有什麼好隱藏的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>「水塑者想幫助羅帕魯對我而言無所謂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>「你還真是開明啊。但王權讓我們必須要保持更高水準，包括我在內。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>「佩瑞琪率先將這種天賦轉化為了可傳授的形態。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>「我們的先祖發誓會保護光魂珀，列島與眾部落。恩加蒂賜予我們力量，讓我們能夠遵守這份約定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>她向麥婭投去不適的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>「銘記鋼鐵信條。」麥婭將拳頭置於胸口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>「銘記納卡羅環礁之戰。」會長重複了一次動作，然後重新看向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>「得想辦法讓你離開這。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>「得想辦法處理一下傷口。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>「我能堅持。還有……更重要的事情。」
+
+她捂緊腹部的傷口縮成一團。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>「麥魯！天哪，你怎麼傷成這樣！」泰克胡檢查著她的傷勢，不禁用雙手摀住了嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>「什麼長杖？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>「我會找到長杖的，你要堅持住。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>「沒時間了！」麥魯吸著涼氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>「你有什麼看法，泰克胡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>「我想大部分都是蛇妖的血液。你很了不起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>「當你……知道為何而戰時很有幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>「別再勉強自己了，你會失血而死的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>「呃！你以為我……不知道自己的情況嗎？」
+
+她抬頭看向你，臉上已經沒有了血色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>「結界？我沒有看到什麼結界啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>「逃？什麼要逃？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>「你……已經死了。願你在靈界安息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>「恩加蒂真遺憾……哀歌女士。如同……天堂的……珍珠……」
+
+她一邊喘息一邊吐出幾個字眼。甚至好像已經顧不上你了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>會長的眼神逐漸渙散，不再作聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>「沒事的，泰克胡。我……索取之物已十倍償還。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>「沒時間說這個了！」她揮手示意你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>「奧涅卡莎命我前來找你，但我想你得先找個治療師……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>「奇怪的遺言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>「我們還是不知道怎麼回事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>「我們走吧。我們已經盡力了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>「我想是關於佩瑞琪的奉獻。對恩加蒂的古老禱告。」
+
+泰克胡皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>「這肯定對她有什麼含義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>「麥魯要我們尋找一根長杖……還有一扇門。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>「說得太模糊了……但我會尊重她的遺願。」
+
+他摸著眉角歎息道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>「不知這一切與深淵獵手是否有關聯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>「對啊。你和我想的一樣。」
+
+泰克胡歎了口氣，抱起雙臂思索著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>「對啊。等我們收拾好一切後，會有人注意到她的。」
+
+泰克胡最後一次向麥魯的屍體致意，然後轉身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>「呃……關於蛇群的詛咒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>[舉起深淵獵手的長杖。]「你要找這個？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>她張大了眼睛，不顧嘴角滴落的血珠露出了微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

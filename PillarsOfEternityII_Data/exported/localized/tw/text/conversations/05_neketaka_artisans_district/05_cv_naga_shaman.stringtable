@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_neketaka_artisans_district\05_cv_naga_shaman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「嘖！又有低賤的生物？」
+
+蛇妖瞇起眼睛，長長發出一陣嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「要解救深淵獵手，即便要跨過你的屍體也在所不惜！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「深淵獵手是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「沒有必要把事情鬧成這樣。我是蘇甘的朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[攻擊]「我才不會和蛇談判。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「我非把你這人類的骨髓吸乾不可！」
+
+蛇妖發出嘶嘶聲，扭動著身體接近你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「守護者！群島的僕從。壯麗而輝煌……」
+
+蛇妖的動作逐漸慢了下來，似乎陷入了回憶中。但在你有所行動之前她又暴起而動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「胡亞納人把他偷走了！不能再和基斯閒聊了！」
+
+蛇妖不再多說，向其他同類發出了攻擊的信號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「著什麼急？我們就不能談談嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>[攻擊]「等你死的時候就知道這是個多大的錯誤了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「蘇甘？」她的眼神左右掃動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「呸！無禮的傢伙以為所有的蛇妖都是同個部落？
+
+"深淵獵手歸來後，蛇妖將再次成為群島最強一族！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「抓住她，[Player Animal Companion]！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「夠了！基斯的胡說八道對我們沒有半點好處！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

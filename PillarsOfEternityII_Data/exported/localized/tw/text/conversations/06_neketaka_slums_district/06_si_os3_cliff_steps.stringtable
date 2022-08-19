@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_si_os3_cliff_steps</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你發現崖壁上有鑿出的階梯。雖然有些階梯十分狹窄，甚至有些已經破損不堪，但似乎其走勢最終指向了懸崖頂部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[檢查小徑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[爬上台階。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你開始向上移動，並踩在第一塊搖搖欲墜的台階上測試其承重情況。台階似乎沒什麼問題，於是你開始小心地一步步向上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你邁著輕快的步伐抵達了頂峰。汗珠沿著你的脊背滑落，但你感覺十分良好——終於從緊張的氣氛中解脫出來。一步一蹭的方法給了你不少時間來思索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>半臨崩壞的石階在你腳下吱嘎作響。你小心地抵達了頂端，一路上不停地喘著粗氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>半臨崩壞的石階在你腳下吱嘎作響。你小心地抵達了頂端，一路上不停地喘著粗氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你邁著輕快的步伐抵達了頂峰。汗珠沿著你的脊背滑落，但你感覺十分良好——終於從緊張的氣氛中解脫出來。一步一蹭的方法給了你不少時間來思索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>有不少台階已經破損裂縫、搖搖欲墜。風一吹就掉下不少碎石。
+
+行至半山腰，有一道大溝攔在了你的面前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>走到一半，你發現前面的階梯幾乎已破損到無法行走。
+
+幸運的是，還有一點狹窄的階梯稜脊。它的確非常結實，讓你輕鬆跨越了溝壑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>當終於到達頂端後，你展開手腳好好放鬆了一下，而你的隊員們也是一樣，興奮的笑容在你們臉上綻開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>當終於到達頂端後，你展開手腳長出一口氣。檢查了一下進度後，你露出了滿意的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>外衣被汗水浸濕緊貼在肌肉之上，有不止一名隊員在登上頂峰後大口喘著粗氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你到達頂峰時，外衣已經被汗水浸濕緊貼在肌肉之上。你之後得好好洗個澡，不過你仍然還活著。所以就這樣了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

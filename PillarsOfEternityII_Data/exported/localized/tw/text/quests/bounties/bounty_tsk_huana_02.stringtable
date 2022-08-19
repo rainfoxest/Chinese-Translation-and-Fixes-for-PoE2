@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_huana_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸賞：奧赫羅</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺死&lt;b&gt;奧赫羅&lt;/b&gt;並奪取他的艦船旗幟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找&lt;b&gt;巴拉提&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;巴拉提&lt;/b&gt;要求我去追殺大帆船&lt;b&gt;石錨號&lt;/b&gt;的亡焰皇家商行船長&lt;b&gt;奧赫羅&lt;/b&gt;。任何能呈現船長死亡證明之人都能獲得一份賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;奧赫羅&lt;/b&gt;的&lt;b&gt;石錨號&lt;/b&gt;通常出沒於&lt;b&gt;涅克塔卡東面&lt;/b&gt;的&lt;b&gt;庫瓦奧里庫胡&lt;/b&gt;島鏈的南角附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我可以去拿取針對奧赫羅的賞金了。&lt;b&gt;巴拉提&lt;/b&gt;就在涅克塔卡&lt;b&gt;巨蛇王冠&lt;/b&gt;的上層帶我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我解決了奧赫羅並得到了賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

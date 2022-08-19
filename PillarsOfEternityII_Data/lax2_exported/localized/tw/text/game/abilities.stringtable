@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4146</ID>
+      <DefaultText>神錘之守護</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4147</ID>
+      <DefaultText>使用者瀕死時將獲得額外護甲並對近戰攻擊者造成灼燒傷害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4358</ID>
+      <DefaultText>忠誠</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4372</ID>
+      <DefaultText>向死而生</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4373</ID>
+      <DefaultText>終結烈焰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4374</ID>
+      <DefaultText>臨場離間</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4380</ID>
+      <DefaultText>腐蝕吐息</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4457</ID>
+      <DefaultText>吸收精華</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4459</ID>
+      <DefaultText>靈魂碎片</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4460</ID>
+      <DefaultText>釋放靈魂</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4461</ID>
+      <DefaultText>釋放靈魂</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4462</ID>
+      <DefaultText>死亡蔓延</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4463</ID>
+      <DefaultText>冰稜碎片</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4464</ID>
+      <DefaultText>破碎護甲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4468</ID>
+      <DefaultText>刺骨寒霧</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4469</ID>
+      <DefaultText>冰霜爆炸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4471</ID>
+      <DefaultText>深層冰凍</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4472</ID>
+      <DefaultText>虛空吐息</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4473</ID>
+      <DefaultText>湮滅召喚</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4479</ID>
+      <DefaultText>時間膨脹</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4481</ID>
+      <DefaultText>吞噬虛空</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4484</ID>
+      <DefaultText>撕裂現實</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4487</ID>
+      <DefaultText>瞥視虛空</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4488</ID>
+      <DefaultText>重壓終結</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4490</ID>
+      <DefaultText>破壞</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4491</ID>
+      <DefaultText>凶暴崩陷</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4494</ID>
+      <DefaultText>湮滅之握</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4499</ID>
+      <DefaultText>呼喚睿姆岡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4500</ID>
+      <DefaultText>寒冬刺骨</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4501</ID>
+      <DefaultText>巨獸足跡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4508</ID>
+      <DefaultText>熱寂</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4513</ID>
+      <DefaultText>衝鋒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4526</ID>
+      <DefaultText>破碎精華</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4540</ID>
+      <DefaultText>免疫：酸液</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4541</ID>
+      <DefaultText>重建</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4565</ID>
+      <DefaultText>重建 - 布甲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4585</ID>
+      <DefaultText>迷失時間</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4649</ID>
+      <DefaultText>重建 - 板甲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4675</ID>
+      <DefaultText>熵殤守衛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4676</ID>
+      <DefaultText>寒冰將護甲的銜接處密封，賦予穿戴者護甲加成，但同時使其定身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4677</ID>
+      <DefaultText>腎上腺素衝擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4678</ID>
+      <DefaultText>傳播混沌</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4692</ID>
+      <DefaultText>碎境祝福</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4693</ID>
+      <DefaultText>Rymsjodda Lager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4694</ID>
+      <DefaultText>Ekkevit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4695</ID>
+      <DefaultText>冰川伊薩魚</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4696</ID>
+      <DefaultText>酒釀伊薩魚</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4697</ID>
+      <DefaultText>小冰跟隨你時，你獲得額外冰凍護甲，隊伍的冰凍攻擊精準度更高。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4698</ID>
+      <DefaultText>永凍碎片</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4707</ID>
+      <DefaultText>碎境鎖鏈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4708</ID>
+      <DefaultText>碎境激流</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4715</ID>
+      <DefaultText>折磨之力</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4716</ID>
+      <DefaultText>冰噬崖壁</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4717</ID>
+      <DefaultText>（冰噬崖壁）敵人對持有者攻擊失手時有機率觸發一次冰凍反擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4718</ID>
+      <DefaultText>睿姆岡之守護</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4719</ID>
+      <DefaultText>提升持有者的格擋，不過也會延長持有者的負面效果持續時間。只有在受到負面效果時才能使用。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4720</ID>
+      <DefaultText>冰川勢能</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4721</ID>
+      <DefaultText>當持有者獲得減益效果時，寒冬壁壘加固，增加敵人擦傷失手的機率。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4722</ID>
+      <DefaultText>混亂打擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4723</ID>
+      <DefaultText>持有者將睿姆岡的能量轉化為一次攻擊，對自己與目標施加一層隨機減益狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4724</ID>
+      <DefaultText>麻痺（冰凍）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4725</ID>
+      <DefaultText>佩戴者被注入睿姆岡的能量，受減益效果影響時獲得全面防禦加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4726</ID>
+      <DefaultText>呆滯死亡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4727</ID>
+      <DefaultText>靈魂注入</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>獲得減益狀態時，持有者的防禦將提升。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4729</ID>
+      <DefaultText>靈體門閂</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4730</ID>
+      <DefaultText>爐邊床</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4731</ID>
+      <DefaultText>寒冬面紗</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4732</ID>
+      <DefaultText>使用者與友軍被睿姆岡之眼遮蔽，賦予其異世狀態。對於不含「護罩穿刺」關鍵詞的攻擊，其承受的傷害降低同時無法被暴擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4733</ID>
+      <DefaultText>使用者在指定地點製造一團強力火焰爆炸。被爆炸波及的敵人將受到即刻與持續灼燒傷害。被爆炸波及的友軍將獲得即刻與持續治療效果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4734</ID>
+      <DefaultText>使用者將吸收區域內所有敵人的防禦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4735</ID>
+      <DefaultText>使用者將敵人困在時間中，同時自身時間加速。敵人被困在原地，無法被瞄準，同時使用者獲得冷卻與移動速度的大量加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4736</ID>
+      <DefaultText>使用者喚起周圍敵人的反叛之心。這些敵人會暫時被魅惑，同時提升其力量、體質與敏捷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4737</ID>
+      <DefaultText>永恆凜冬</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4738</ID>
+      <DefaultText>凜風</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4745</ID>
+      <DefaultText>瘟疫宿主</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4746</ID>
+      <DefaultText>終結神嗣在受傷時也不忘拖人下水，在陷入重傷或瀕死狀態時會散發出一陣充滿痛苦與嫌惡的瘴氣，使敵人獲得噁心狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4747</ID>
+      <DefaultText>終結神嗣在生命中會持續不斷地承受各種疾病困擾。因此，敵人對其施加的減益狀態影響也會降低。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4748</ID>
+      <DefaultText>虛空之子</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4749</ID>
+      <DefaultText>持有者指向一名敵人，暫時將其宰制。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4751</ID>
+      <DefaultText>熱寂護盾</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4760</ID>
+      <DefaultText>不穩定的靈魂精華</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4761</ID>
+      <DefaultText>靈魂能量在引爆之後四處飛散，治療區域內所有人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4762</ID>
+      <DefaultText>腐蝕靈魂精華</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4763</ID>
+      <DefaultText>慈悲的靈魂精華</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4764</ID>
+      <DefaultText>睿姆岡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4765</ID>
+      <DefaultText>熵、寒冷、冬天、厄運、饑荒和自然災害之神。睿姆岡以一隻巨型白色野牛的形態出現，行走於超級暴風雪之中，伴隨著他沉重的腳步聲而來的是死亡和靈肉解離。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4766</ID>
+      <DefaultText>睿姆岡的召喚</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4767</ID>
+      <DefaultText>牧師呼喚睿姆岡，創造一道通往白色虛空的入口。這片區域會週期性律動，牽引周圍所有人同時造成冰凍傷害，並且減少所有增益狀態持續時間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4768</ID>
+      <DefaultText>睿姆岡的符記</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4769</ID>
+      <DefaultText>在地面刻印睿姆岡的符記，對範圍內敵人造成冰凍傷害與驚慌狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4770</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+睿姆岡的牧師在適當的力量等級自動習得下列法術：
+1.腐化之手
+2.暴風雪
+3.瘟疫術
+4.毒爆術
+5.冰霜爆發
+6.耐高司冰柱術
+7.死亡之環
+8.&lt;xg&gt;睿姆岡&lt;/xg&gt;的符記
+9.&lt;xg&gt;睿姆岡&lt;/xg&gt;的召喚</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4782</ID>
+      <DefaultText>使用者釋放奈瑞思賽拉絲的腐蝕吐息，造成腐蝕傷害與驚慌狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4783</ID>
+      <DefaultText>使用者釋放一團酸液，造成腐蝕傷害與驚慌狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4784</ID>
+      <DefaultText>陷入昏迷狀態時，持有者會復活並得到治療。治療量隨持有者宗教技能而提升。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4785</ID>
+      <DefaultText>寒冬巨獸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4786</ID>
+      <DefaultText>持有者的腳印會使地面結冰，對進入該區域的敵人造成蹣跚狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4787</ID>
+      <DefaultText>持有者引出內在潛力，獲得額外行動速度，但同時也會獲得虛弱狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4788</ID>
+      <DefaultText>遭受減益狀態時，持有者會隨時間逐漸治療自身，同時獲得額外力量、體質與敏捷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4789</ID>
+      <DefaultText>時間膨脹 I</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4790</ID>
+      <DefaultText>交戰時，持有者周圍的所有人都被減速。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4791</ID>
+      <DefaultText>時間膨脹 II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4792</ID>
+      <DefaultText>（時間膨脹 II）持有者周圍的所有人都進一步被減速。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4793</ID>
+      <DefaultText>時間膨脹 III</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4794</ID>
+      <DefaultText>（時間膨脹 III）持有者周圍的所有人都更進一步被減速。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4795</ID>
+      <DefaultText>冰川猛擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4796</ID>
+      <DefaultText>冰雪大槌</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>冰霜毛皮</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4799</ID>
+      <DefaultText>白茫咆哮</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4825</ID>
+      <DefaultText>當弗約爾德跟隨隊伍時，你的體質提升，且隊伍的近戰攻擊可造成額外寒霜傷害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>正義的復仇</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>無上忠誠</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

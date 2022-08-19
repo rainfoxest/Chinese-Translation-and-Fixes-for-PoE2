@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_arena_food_seller</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「哎喲，來看看吧，我的朋友！」
+
+矮胖絨精的身後停著一輛板車，上面飄來了當地小吃和異國食物的香氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「挑戰裡面的幽靈之前，不如先吃點美味的點心吧？」他做了個手勢，指著自己身後的食物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「讓我看看你都有什麼好東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]「下次再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「歡迎回來！「絨精搓了搓手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「整個亡焰列島最美味的食物！來來，好好看看吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我勒個大去，是你吧，科林？我已經兩三年沒見過你了吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我的老天，這不是浪蕩廚師科林嘛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「沒錯！看到和我一樣的海盜，這可真讓人高興。尤其是像你這麼可愛的海盜！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你認識這個絨精嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「那還用說嘛！還在舷窗堡壘的時候，他因為做飯的手藝特別好，當時還蠻有名氣來著。不過幾年前，他突然就不見了人影。我們大家還以為他逃到了什麼地方，一命嗚呼了呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「必須的！我和這個水手共事過，他是我見過最出色的廚師。他離開巫師號後，那裡就少了很多歡樂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「聽說你這麼想我，我可真高興。」
+
+科林笑了起來，有點害羞地移開了視線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你還沒在角鬥場裡角鬥過呢，是吧？你最好先去找胡瑪爾談談，免得有人覺得這地方你不該來。」科林叉起手臂，點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「打架可是個累活，沒錯吧？想要補充能量的話，來找我就對了！」科林攤開雙手，朝小吃攤做了個手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我聽說了不少關於新角鬥者的傳聞。你在我這裡點東西吃，我的生意肯定會越做越好！」科林眨眨眼，朝各式各樣的熟食點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你可把我們從火坑裡拉出來了，老哥！要是連這都不值得大吃一頓的話，那恐怕也沒什麼能值得大吃一頓了。想要點什麼？」科林揚起一條眉毛，笑著說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我這裡可不是每天都會有角鬥冠軍光顧的啊！想要點什麼嗎？」科林攤開了手掌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「鬼魂？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你怕是剛來這地方吧，小伙子？競技場裡充滿了靈魂的能量。」</DefaultText>
+      <FemaleText>「你怕是剛來這地方吧，姑娘？競技場裡充滿了靈魂的能量。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「大概不是因為這裡血流成河造成的吧。」
+
+他笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「如果某個地方死了很多人的話，這種事情確實很容易發生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「沒錯，死亡通常都會帶來這樣的結果。」費西娜揚起眉毛，以審視的目光打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「這種運動非常血腥，會變成這樣也情有可原。真有意思。」伊德溫捏著下巴，若有所思。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「狩獵之面呼喊著它們的心神，讓無數怪物和傳奇戰士前往此地，成為角鬥者們的強敵！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「沒時間吃飯了，小伙子，除非你想變成別人的午餐！」</DefaultText>
+      <FemaleText>「沒時間吃飯了，姑娘，除非你想變成別人的午餐！」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

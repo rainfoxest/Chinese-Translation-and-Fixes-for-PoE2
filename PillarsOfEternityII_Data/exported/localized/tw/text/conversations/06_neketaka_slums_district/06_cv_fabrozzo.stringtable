@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_neketaka_slums_district\06_cv_fabrozzo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>152</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「厄爾內佐之前沒見過你——你肯定是新來的！或者非常善於偽裝。」男人咯咯笑起來。
+
+他通過半月形眼睛打量著你。他的臉上長著又厚又長但修飾整潔的鬍鬚，眼神不停在你和走廊之間跳躍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「有什麼我能幫你的嗎？悄悄告訴我。」他湊近你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「瘦削男人死了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我需要治療澇肺的藥物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[支付800銅幣。]「我要買澇肺藥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你對瘦削男人瞭解些什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我需要補給。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「好吧。我有聽過一些傳言。當然，我並不打算問太多問題。」他透過眼鏡看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「呃？我希望你沒事！不過沒關係——如果馬塔魯來問的話，我不會說的。」他向你眨眨眼，拍拍自己的下嘴唇，又稍稍後退了一點。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「好吧。儘管你的錢包裝得滿滿當當，不過還是要注意財不外露。」他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「該死，那是十分危險的傢伙！」他抱起雙臂瑟瑟發抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「當然了。只有一點，別對其他人說起這些東西的來歷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我殺了他。還有他的保鏢。你想看證據的話，屍體還在那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「現在談談我們的交易吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「別再說了，拜託！」他用手指壓在嘴唇上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「說好的，你的藥。」他和你握握手，你感到有個玻璃藥瓶滑入了你的手掌。
+
+他向你會心地點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「解藥並不便宜。不過千金難買好身體啊！」
+
+他詭秘一笑，伸出八根手指在你面前搖晃著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「如果你覺得價格太高了，也可以幫我辦點小事情替代。」他抱著希望揚了揚眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「和我說說這點『小事情』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「想說就趕快說！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「這裡有個商人。這個人不能存在於此。」他用手指在喉嚨上比劃了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「耐心點！保持安靜，好吧？」厄爾內佐緊張地環顧四周。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「人們說你是個讀心者。」
+
+「我們這些住在潛民街的都是普通的平民。也很安靜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「別有什麼讀心者來煩我們。你明白的吧？」他把腦袋側向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「你在找什麼東西嗎？說不定我這有。」</DefaultText>
+      <FemaleText>「你在找什麼東西嗎？說不定我這有。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「不過你怎麼聽說這地方的？等等，別說！別和我講。有時候無知是福。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「不過澇肺症很嚴重。非常致命。」他咯咯叫著，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「另一方面，你看起來像個……有頭有臉的人物。
+
+「倒不是說我會輕率行事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「另一方面，你看起來很強壯。應該能處理一些麻煩事。」他拍拍自己的小細胳膊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「你不是我感興趣的類型……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「呃？不，我不是這個意思！」他清清喉嚨，鬆開衣領。他的臉色陰沉下來。</DefaultText>
+      <FemaleText>「呃？不，我不是這個意思！」他清清喉嚨，鬆開衣領。他的臉色陰沉下來。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我很榮幸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「幹好你自己的髒活，人渣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我不是謀殺犯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「很好。」他微微一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「這個商人在街的盡頭開了家商店。人們稱其為『瘦削男人』。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>他惱怒地捶了捶胸口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「那你為何要來潛民街？你以為我們在這幹什麼，給老鼠開茶會嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「有傳言說他死於一把匕首。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「確實如此。我也聽過這傳言。」他微微一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「看我幹嘛。我可一點都不知道……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「在它挖掘自己的老窩時甚至都沒徵詢過德——咳咳。徵詢過老大的意見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「如果你把……它搞定了，我就把藥給你。」他點點頭，鏡片上映射著燭火的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「另一方面，你是個荒蕪行者吧？也許你能幫我做點事情，我就把藥作為報酬。」他抱著希望揚了揚眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「另一方面，你是個金盟騎士吧？也許你能幫我做點事情，我就把藥作為報酬。」他抱著希望揚了揚眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「和我說說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「朋友，你簡直像教堂鐘聲一樣微妙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「那麼兄弟會的聖武士對此怎麼看呢？」他向她揮揮手，又轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「所以呢？你會跟著嗎？」他把指尖疊在一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「等等，別太著急。
+
+「他這個稱呼是因為他身材瘦長？還是他細胳膊細腿？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「你說的老大是德理奧吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「你一直在說『它』。這個商人不是基斯嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「……是我肯定不會說這種話的。」他的手侷促地捋著鬍鬚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「就這樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「是個蛛人。」他湊近一點對你陰謀似的耳語道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我猜想你們的頭領有名字吧？」麥婭交叉著雙臂。厄爾內佐什麼也沒說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「要我說，吵動的甲蟲對於燕雀而言毫無吸引力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「嗯，至少他留下了&lt;i&gt;你的&lt;/i&gt;位置。」他瞥向泰克胡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「通常情況下，挖掘巢穴的時候你要表達一點敬意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「可拉倒吧，你還真是不擅長這個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「很適合被從頭到腳一分為二。」
+
+他皺起帶著疤痕的嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「惡棍們通常都這樣嗎——從你的老大那裡獲取許可？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「不過這個瘦削男人。人們說它是個讀心者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「嘿，你怎麼做到的？再來一次如何？」
+
+艾德爾用孩子般的幼稚目光盯著厄爾內佐，用手指反覆指著小藥瓶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「誰能在谷堆前面掛隻老鼠啊，不然我們要在這呆上一整天了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「這樣的花招只是用來取樂的話，鹿林也太缺娛樂了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「艾歐拉的命運就在我們大家的手中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「給這個農場小子玩一點瑟洛拿街頭巷尾的偷盜本事，他肯定會樂個沒完。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「他的思維就像鳥池一樣。淺而清，除了動物什麼也沒有。」
+
+塞拉芬鼻孔呼出一口氣，揉揉鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「願他的力量與俊俏的模樣永遠如此……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>他神經質地大笑。「我和你說的可不一樣，朋友！你肯定把我和其他人弄混了。」</DefaultText>
+      <FemaleText>他神經質地大笑。「我和你說的可不一樣，朋友！你肯定把我和其他人弄混了。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「英雄所見略同。」他微微一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「另一方面，你是個刺客吧？也許你能幫我做點事情，我就把藥作為報酬。」他抱著希望揚了揚眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「當然了。老大的朋友還有特殊折扣呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[出示徽章。]「其實我懷疑你到底是不是真想買東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「這是一件稀有的寶藏。有人願意花上一筆小錢。
+
+「我得問一句，這東西你從哪弄來的？」
+
+他低下眼鏡皺眉看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「是親王給我的。他知道你在這的小動作。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[撒謊]「我看到有個乞丐想用它典當換幻葉果，我就幫了他一把。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「厄爾內佐很小心。處處謹慎。你想敲詐他？這事沒完，朋友。」他悲傷地咯咯叫著。</DefaultText>
+      <FemaleText>「厄爾內佐很小心。處處謹慎。你想敲詐他？這事沒完，朋友。」他悲傷地咯咯叫著。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「小心——我一個訊號，馬塔魯的怒火就會降臨於此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「與我合作，親王才會放你一馬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[攻擊]「準備受死吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「但你不是從我這聽說的。」他向你露出狡黠的笑容，又推了推眼鏡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「那你是眼疾手快了。不過誰會想要這種舊東西？」他將徽章在手裡把玩著，皺眉盯著你陷入思考。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「你可以和瘦子德理奧談談。他會很有興趣瞭解這種東西在……流通。」他友好地笑笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「要想去找他的話，你得離開潛民街。直接離開市場，在交叉路口左拐然後再左拐。」他又一次環顧四周。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「誰是德理奧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「我想他已經派人來找我了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「我已經見過德理奧了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>厄爾內佐不安地扭動著，不斷用焦慮而瞇起的雙眼瞥向守衛和大門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「好吧，告訴他，我會幫他保管好這東西。」他將徽章丟進口袋拍了拍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「我該去哪找他？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「更該問的是違法貨物是如何落入壞人之手的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「沒錯，我自己也納悶。航船的結實程度，取決於木板。」他疊起雙手，從眼睛上方盯著你看。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「因此我也非常想知道你是怎麼拿到它的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「我……不好意思，我們見過面嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「啊，又一個年輕的水法師！來看看厄爾內佐的東西吧。肯定有你想要的。」他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「稍等片刻。」他將眼鏡湊到眼前，舉起徽章反覆旋轉，檢查著它的邊緣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[攻擊]「別想什麼徽章了。我來這是要你的腦袋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>厄爾內佐和守衛交換了一下目光，後者握緊武器漸漸向前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>他哼了一聲。「吹牛者還有醉漢都不懂得禍從口出的道理。還有……」
+
+厄爾內佐捋著鬍子，用目光打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「我姑且相信你吧。用什麼才能與親王和解呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「讓我看看你是怎麼將貨物運進涅克塔卡的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「我要分一杯羹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[攻擊]「你的腦袋。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「真的嗎？但這無法瞞過德理奧的眼睛。更別說親王了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「你肯定想要點靠譜的吧？」他無力地笑了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>他臉色發白。「穿過地下室，但你絕不能使用那裡的升降機，否則德理奧肯定會知道的……」
+
+他的眉間滲出了汗珠。他有些慌亂地盯著你，直到他身上似乎發生了什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「靈視者，你怎麼了？」
+
+泰克胡向你投來一個懷疑的目光，隨後也加入其中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「等一下。「我不是來打架的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「抱歉。不過你說的太多，懂的也太多。我不能冒險放你離開。」他示意守衛發起攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「你還有什麼別的事要討論嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>最終他們找到了泰克胡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「抱歉打擾了。是我認錯人了。」他的笑容漸漸消失。
+
+他又轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「當然，有一條隱藏通路。」
+
+他拍拍前額拿下眼鏡，慢慢擦亮鏡片。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「乘坐峽谷中通往舊城的升降機向下。你可以通過一處舊神廟悄悄溜進地下室。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「德理奧的人脈很廣。有什麼東西——或什麼人——穿行於潛民街都是他的管轄範圍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「不過這話可不是我和你說的，朋友。」</DefaultText>
+      <FemaleText>「不過這話可不是我和你說的，朋友。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>他搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「這麼說吧，我曾經做過一些『獲取』某些財物的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「看來我們的利益相同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「放輕鬆。我知道你只是個中間人。不如你指引我去見這些『人物』如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>他停了下來，考慮著你的提議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「我才是在提問的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「真的嗎？」
+
+他看向守衛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「我可不想當眾鬧起來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>他歎了口氣，向守衛示意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「記住這事只有你知我知。你這個人……有點過於正直了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>他向你投來一個意味深長的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「我想你很善於保守秘密。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「現在他派了一名娥狄卡的扼殺者來處理？
+
+「厄爾內佐準備好對付你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「別這麼大聲！不過……要馬上發消息出去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「我們在反抗灣的買家又有一批幻葉果的需求。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>厄爾內佐透過眼鏡輪廓看著你，雙眼瞇成一團，眉頭緊鎖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「那好吧，朋友。」他聳聳肩。</DefaultText>
+      <FemaleText>「那好吧，朋友。」他聳聳肩。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「人們不想讓別人知道自己在做什麼事情的時候就會這麼說話。」
+
+艾德爾瞇起眼睛打量著厄爾內佐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>厄爾內佐揉揉鼻樑歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>厄爾內佐慢慢盯著艾德爾，隨後又轉向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[撒謊]「我殺了他。還有他的保鏢。你想看證據的話，屍體還在那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「我雇了鐵銹去殺他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「啊，你是羅帕魯提到的那個人！看來他們很喜歡你啊。」他搖了搖手指。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「等等，看來 我搞錯了。我們在這裡有共同的朋友對不對？」他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「啊，你是羅帕魯提到的那個人！不知道你是做了什麼才惹得他們這麼憤怒？」他挑了挑眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「等等，看來 我搞錯了。 你已經在這裡樹敵了是不是？
+
+「你現在還敢在這裡逗留真是勇敢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「等等，看來 我搞錯了。這裡的人們有談論過你，但是他們並不瞭解你的為人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「啊，你是羅帕魯提到的那個人！ 好像他們對你的看法很混亂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>他轉向了泰克胡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「那麼就把這當成是我的威脅吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>他強行無視了艾德爾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「不自量力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

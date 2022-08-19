@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crit_path\cp_qst_12_ukaizo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>失落之城</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到&lt;b&gt;俄撒斯。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>平息風暴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>抵達&lt;b&gt;俄撒斯&lt;/b&gt;面前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>前往&lt;b&gt;烏凱佐。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>擊敗&lt;b&gt;烏凱佐守護者。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;俄撒斯&lt;/b&gt;正在前往傳說中的&lt;b&gt;烏凱佐&lt;/b&gt;並意圖擾亂或摧毀&lt;b&gt;艾歐拉&lt;/b&gt;的輪迴循環。只有跟著他到了那裡我才能見到他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>現在我已經到了&lt;b&gt;烏凱佐，&lt;/b&gt;接下來就差找到&lt;b&gt;俄撒斯&lt;/b&gt;了。如果他仍然佔據著某個七百英尺高的巨像作為身軀，那麼這應該不是什麼難事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>&lt;b&gt;俄撒斯&lt;/b&gt;就在城市中心某處。通向他的道路被一片大風暴與魂風阻隔了——二者似乎都是由遠處一座高塔產生的。如果這片風暴能被設法平息掉，我就可以抵達&lt;b&gt;俄撒斯&lt;/b&gt;所在之處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>如今風暴既已消散，我便可以繼續深入城市與&lt;b&gt;俄撒斯&lt;/b&gt;正面對抗了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>&lt;b&gt;烏凱佐&lt;/b&gt;在&lt;b&gt;涅克塔卡東北部&lt;/b&gt;很遠的地方。想要前往那裡，唯一的道路是&lt;b&gt;歐菲吉亞海峽&lt;/b&gt;。那裡是一處天然的絕境，前有瑪珈嵐之牙嶙峋的礁石，後有昂德拉之臼洶湧的風暴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>&lt;b&gt;烏凱佐守護者&lt;/b&gt;出現了。我必須將其擊敗才能見到&lt;b&gt;俄撒斯。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>胡亞納艦隊會與我在那裡匯合，助我一臂之力登上烏凱佐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>瓦利亞商行的艦隊會與我在那裡匯合，助我一臂之力登上烏凱佐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>亡焰皇家商行的艦隊會與我在那裡匯合，助我一臂之力登上烏凱佐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>皇族海盜的艦隊會與我在那裡匯合，助我一臂之力登上烏凱佐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我背叛了我的盟友。現在不會有人幫助我前往烏凱佐了。我得自己抵達那座島。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我見到了&lt;b&gt;俄撒斯。&lt;/b&gt;他為&lt;b&gt;艾歐拉&lt;/b&gt;帶來了巨大變革——基斯與眾神必須團結一致才能解決這場危機。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

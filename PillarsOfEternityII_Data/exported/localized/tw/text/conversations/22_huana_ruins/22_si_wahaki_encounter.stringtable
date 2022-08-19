@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_si_wahaki_encounter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你在一個平靜的海灘上下了船。前方茂密的林木線將你與更深的叢林分開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[去內陸。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[凝視林木線。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>在樹間，你瞥見了一個不應該出現在那裡的影子。你不是一個人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>海灘上異常安靜，你花點時間就能意識到缺少了什麼——鳥兒唧唧喳喳的叫聲。
+
+然後你便發現了它——在樹叢間迅捷地跳動著。你不是一個人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你看到有另一隊人在這裡登陸過的痕跡。靴子印將你引進叢林，雖然看起來不像有人從這條路返回過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>當你接近林木線時，有幾個戰士從藏身處出來並用長矛指著你。
+
+一個高個子、臉上塗著瓦哈奇臉部塗料的胡亞納人從隊伍中站出來。他一直搖著頭對著你嘲笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>當你接近叢林時，一聲戰吼從林木線的陰暗處響起。
+
+一群臉上塗著胡亞納油彩的胡亞納戰士舉起武器，衝下海灘迎戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[尖叫著衝向林木線，將武器舉過頭頂揮舞著。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>一隊胡亞納的勇士衝出林木線，瘋狂地聚集在攻擊陣地，在半路迎接你們的瘋狂衝刺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>一個高個子的胡亞納戰士走出林木線，揮舞著雙手，示意你停下來。他有禮貌地要求有說話的機會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[攤開雙手證明是空的。]「我知道你在外面。我們來談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>幾個臉上塗著瓦哈奇油彩的胡亞納士兵平靜地從林木線冒了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你再一次在這個海灘上登陸，這一次更清楚地知道應該期待什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>當瓦哈奇衝向你的位置時，林木線突然活動起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「沒有外人能踏上我們祖先的土地！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你忘掉海灘並考慮你自己的方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>一個一直在嘲笑你的高個子戰士站了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>一個高個子戰士脫離隊伍後停了下來，嚴肅地看了你一眼之後向你走過來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「感覺很敏銳啊，朋友！我們聊聊吧。」他向海灘上的某個位置指了指。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「怎麼說呢？這麼急著踩進陷阱裡。來吧，我們必須談談。」他靠近了你一些。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>亞洛斯端詳了一下他們面部的彩繪，向你投來一個意味深長的神情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>亞洛斯端詳了一下他們面部的彩繪，向你投來一個意味深長的神情。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

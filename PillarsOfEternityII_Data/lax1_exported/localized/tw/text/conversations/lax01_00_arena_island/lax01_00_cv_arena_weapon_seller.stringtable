@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_cv_arena_weapon_seller</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你好，你好，歡迎光臨！」
+
+這個高個子女人穿著精心打造的盔甲，朝你鞠了一躬，她的黑髮幾乎都要拂到你的臉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「好好和我的武器和護甲打打交道吧，除非你打算在競技場裡和死神打交道！」
+
+她笑了起來，側身讓了幾步，將鋒利的武器和毫無瑕疵的盔甲展示在你眼前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「讓我看看你都有什麼好東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]「下次再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「別在意，隨便看看吧。」
+
+她邀請你往前走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你好，朋友！」</DefaultText>
+      <FemaleText>「你好啊，朋友！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你覺得我在戰鬥中保護不了自己嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你是怎麼來到這裡的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>她笑了起來，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「你是達寇茨聖武團的成員嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我一點都沒這麼想過，但在殺戮場上，我們每個人都要面對希若洛，是吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你是怎麼看出來的？是因為我魅力四射的外表嗎？」
+
+她笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>」我曾在貝拉斯之輪中，在狩獵之面的面前尋找人生的意義。而如今，我……差不多找到了。」
+
+她笑了起來，露出了明亮而整齊的牙齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「不過，已經不是了。我守護了達寇茨家族，而他們卻讓我到海上，服侍一個蠢得不能再蠢的人，那個人已經死了很久了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「那次重傷差點就把我送回貝拉斯之輪裡了。我本可以離開這個世界，不過，結果嘛……」
+
+她聳了聳肩，擺了個誇張的姿勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「這個地方已經是我的新家了。只要希若洛需要我，我就守在這裡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你還沒在角鬥場裡濺過血吧？那就抓住這個機會，武裝起來吧！」卡蕾塔用指尖拂過刀刃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「沒在我這裡買過東西的挑戰者，沒有一個人晉陞成了角鬥者。&lt;i&gt;這一點&lt;/i&gt;我敢向你保證。」卡蕾塔眨眨眼睛，朝武器架走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你知道嗎，那些看客都在看台上歡呼著你的名字？就算在這裡，我都能聽到他們跺腳的聲音！」卡蕾塔笑了起來，伸手示意她的貨物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「就算你戰勝了那只瘋狂的怪物，你也絕對不想離開我的裝備！有什麼能效勞的嗎？」卡蕾塔臉上帶著歡迎的笑容，上下打量著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「角鬥冠軍！如果你還來的話，我會跟所有人說，你的東西都是在這裡買的，只此一家。」卡蕾塔眨眨眼，伸手展示她的貨物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「即使是狩獵之面的青睞，也無法讓你刀槍不入。我該怎麼效勞，才能保護你的威名呢？」卡蕾塔伸長脖子，叉起雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「是因為你盲目樂觀？或者是因為你嘮叨個不停？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

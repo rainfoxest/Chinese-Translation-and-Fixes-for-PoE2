@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_aeldys_greeter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你是艾戴斯船長請來談判的船長，是吧？」
+
+「我負責留意你的安全。」他用手指著自己沒戴眼罩的那隻眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你已經準備好見我們的指揮官了嗎？艾戴斯在等你呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「帶路吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我自己也能找得到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「這邊走，船長。能為我們尊貴的客人帶路，這是我的榮幸。沒錯，確實就是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你已經來了，我可以護送你去艾戴斯的房間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[撒謊。] 「我不知道你說的是誰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「或許吧，雖然我認識艾戴斯艦隊的絕大部分船長，但我卻不認識你。」
+
+「所以，為了安全，我覺得還是我來給你帶路比較好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「好吧，她倒是沒說我必須得把你帶過去。我派個人去告訴她，說你已經來了。這樣可以給她一些時間來，嗯……準備一下。」
+
+「順帶一提——」 他朝你傾了一下帽子，慵懶地笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「如果你改主意的話，你知道來哪裡找我，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>game\tutorial</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>134</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>移動</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>要移動選定的角色，在地圖上點擊任意公開空格。所有選定的角色將按當前隊形移動至指定位置。角色無法移動至游標為紅色禁止標誌的區域。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>點擊高亮物體可與其互動。每種物體均有其基礎互動類型。門可以被打開或關閉，上鎖的物體可以被解鎖，物品可以被拾取，人們會與你交談，而敵人則可以被攻擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>互動</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>物品欄</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>按&lt;sprite="Inline" name="ico_inventory" tint=1&gt;或[I]鍵可打開物品欄。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>在物品欄中點擊一件物品將其拾起後，可放至任意高亮欄位將其裝備。你也可以雙擊物品將其自動裝備。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>裝備物品</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>戰鬥介紹</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>顯示紅色選中圈的角色與你為敵對關係。要使用當前裝備的武器攻擊一名敵人，點擊其選中圈即可。
+
+你也可以選擇螢幕下方中心的&lt;sprite="Inline" name="ico_attack" tint=1&gt;按鈕將游標置為攻擊狀態。此時你可以攻擊包括友方角色在內的任何人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>性情</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>你獲得了某項性情的聲望。性情代表全世界的人們如何看待你的品格。就算看起來卑劣的行徑也會被某些人喜愛，而行善之舉反而是某些人最不能接受的行為。在《永恆之柱II：亡焰》中，沒有哪種性情具有絕對的好壞之分。
+
+在難度設置中啟用「顯示個性/聲望」可顯示對話中做出的決定對性情產生影響的圖標。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>性情 - 聖武士與牧師</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>你獲得了某項性情的聲望。性情代表全世界的人們如何看待你的品格。就算看起來卑劣的行徑也會被某些人喜愛，而行善之舉反而是某些人最不能接受的行為。在《永恆之柱II：亡焰》中，沒有哪種性情具有絕對的好壞之分。
+
+儘管如此，由於你的靈視者是牧師或聖武士，你還是要注意切勿使其性情與自身遵從的神明或組織相違背。性情會影響靈視者自己的聖輝（牧師）與信仰加身（聖武士）等效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>任務日誌</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>你接受任務後，日誌也會更新相關情報。如果你不知任務如何繼續進行，不妨按&lt;sprite="Inline" name="ico_journal" tint=1&gt;或[J]鍵查看之前的訊息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>對話</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>在世界中點擊友好與中立角色的選中圈可與其展開對話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>選擇角色</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>要選擇一名隊伍成員，可點擊其選中圈、頭像或按下其在隊伍中位置的對應數字鍵，從左至右由1開始。
+
+要選擇多名隊伍成員，可按住螢幕任意區域並拖拽選取框至所有目標成員均被選中。
+
+要選擇整支隊伍，可按下&lt;sprite="Inline" name="ico_selectall" tint=1&gt;或[Backspace]鍵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>生物圖鑒</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>擊敗生物可逐漸解鎖其在生物圖鑒中的條目。當你解鎖生物圖鑒中的更多情報時，也會獲得更多經驗獎勵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>戰鬥攻擊結果</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>遊戲中所有角色均有四種對抗攻擊的防禦屬性：格擋、強韌、反射和意志。其防禦值會受到對應屬性、等級、物品與其他效果的影響。越強大的角色，其防禦屬性值也會越高，並且越難被攻擊命中與戰技影響。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>攻擊骰為1至100之間的隨機數，並計算該次攻擊精準&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;與目標防禦&lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt;差值。  &lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;。如果精準低於防禦，則該次攻擊骰將遭受懲罰。如果精準高於防禦，則該次攻擊骰將獲得加成。
+
+攻擊骰最終越高越好。[Miss Max Roll]或更少 = 失手，[Graze Min Roll]-[Graze Max Roll] = 擦傷，[Hit Min Roll]-[Hit Max Roll] = 命中， [Crit Min Roll]+ = 暴擊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>失手不會造成任何效果。命中將造成標準效果。擦傷將造成更低傷害與更短狀態持續時間。暴擊將造成更高傷害，獲得更高穿透&lt;sprite="Inline" name="cs_penetration" tint=1&gt;與更長狀態持續時間。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>快速使用物品</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>藥水、卷軸、爆炸物、陷阱與魔法雕像等物品都會裝備在角色的快速使用物品欄中。可在戰鬥中選擇角色熱鍵欄中的&lt;sprite="Inline" name="quickitems_s" tint=1&gt;使用這些物品。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>同伴聲望</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>按下&lt;sprite="Inline" name="ico_charsheet" tint=1&gt;或[C]鍵可打開角色清單。選擇「聲望」頁簽並選擇任意同伴頭像可查看其與另外隊伍成員之間的關係。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>聲望</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>靈視者的聲望、性情與關係全部會通過聲望輪盤顯示出來。
+
+同伴的聲望輪盤會顯示其與另外隊伍成員之間的關係以及自身的好惡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>隱匿</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>按下&lt;sprite="Inline" name="ico_stealth" tint=1&gt;或[Alt]鍵可使選定角色進入或退出隱匿狀態。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>隱匿偵測</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>當某位隱匿狀態下的角色進入他人的聽覺或視野範圍後，後者就會開始偵測到其位置。偵測率根據角色的隱匿技能與對方等級決定，以及在視野範圍內增長更快。你可以在隱匿狀態下將游標懸浮在任意角色身上查看其聽覺與視野範圍。
+
+有些物品例如噪音器可以用於在隱匿狀態時探索時分散對方的注意。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>陷阱</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>探索時可能會發現陷阱與其他隱藏物品。角色發現隱藏物品的能力與其感知屬性和基於其機械技能的解除已知陷阱能力有關。
+
+任意角色（包括敵人）都可能觸發陷阱。啟動之後，陷阱會使相應角色進入傷勢狀態。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>戰技</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>每位角色自身都有包含其所有主動戰技的戰技欄（包括法術、靈威、禱歌等等）。要使用某項戰技，只要點擊即可。某些戰技會自動將使用者自身作為目標，但大部分戰技要求你點擊某個目標才能使用。
+
+某些戰技可以造成區域效果（AOE）。最常見的範圍區域為圓形。如果你的範圍區域顯示為兩個一大一小的圓形，那麼在兩個圓之間的友方角色&lt;i&gt;絕對&lt;/i&gt;不會受到傷害。其間一直會是安全區域。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>大部分戰技會使用角色職業獨有的資源引出力量。野蠻人、戰士、武僧、聖武士、遊俠與遊蕩者戰技的資源池在戰鬥時均為滿狀態。每項戰技均會消耗一定資源直至其完全耗盡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>與野蠻人和戰士等不同的是，德魯伊、牧師與法師&lt;i&gt;並沒有&lt;/i&gt;全部戰技通用的資源池。取而代之的是，其在每場戰鬥中均能釋放自己當前掌握的各等級一定數量法術。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>詠者、譯靈使與武僧在戰鬥開始時僅有部分資源池，需要隨時間慢慢積累。每個職業獲取資源的方式各有不同。與其他職業不同的是，其可以在戰鬥中持續補充資源。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>護甲與穿透</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>角色的護甲值&lt;sprite="Inline" name="cs_ar" tint=1&gt;代表其抵抗不同攻擊類型的穿透&lt;sprite="Inline" name="cs_penetration" tint=1&gt;能力。造成傷害的攻擊具有穿透值，用以計算該傷害抵消目標護甲值的程度。
+
+如果某次攻擊的穿透等於或高於目標對應傷害類型的護甲值，將造成滿額傷害。如果某次攻擊的穿透低於目標護甲值，將根據差值降低傷害。如果某次攻擊的穿透為目標護甲值兩倍以上，將獲得傷害加成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>交戰</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>你有一位角色進入了近身攻擊交戰狀態。如果一名被交戰的角色脫離與其交戰的角色範圍，將會招致一次藉機攻擊。
+
+打斷技能如戰士的擊倒可以擺脫交戰狀態從而安全撤離。有些戰技例如遊蕩者的逃脫可使角色在不觸發藉機攻擊的情況下逃離。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>打斷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>某些戰技會特別說明能夠打斷角色行動。如果一名角色被打斷攻擊命中，其當前行動將被中斷，且該行動消耗的資源（包括快速使用物品）也將失去。
+
+打斷攻擊可以被專注阻擋。如果一名帶有專注的角色被打斷攻擊命中，其將失去專注但不會被打斷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>傷勢與休息</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>觸發陷阱或在戰鬥中被擊倒將對角色造成傷勢。只有角色在休息時進食或選擇在旅店休息才能解除傷勢。按螢幕下方中央的&lt;sprite="Inline" name="ico_rest" tint=1&gt;按鈕或[R]鍵可休息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>休息加成</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>一名隊伍成員獲得了休息加成。玩家在旅店中休息或在其他地點休息時進食會獲得此類加成。休息加成將一直保持，直到角色下一次休息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>升級</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>你的角色已有足夠經驗可升級。點擊其頭像上的「+」圖標對其進行升級操作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>你現在可以強效&lt;sprite="Inline" name="empowered" tint=1&gt;你的戰技或你自身。每場戰鬥中你都可以使用一次強效，使某一項主動戰技效果更強。此外，你也可以對自己使用強效，恢復一部分戰技資源。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>強效</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>詠唱</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>點擊&lt;sprite="Inline" name="actionbar_edit_chant" tint=1&gt;可以編輯或建立新的詠唱。
+
+點擊某項詠唱可將其選中。點擊左側面板的樂節即可新增至指定詠唱中。要移除某段樂節，只要在詠唱中點擊它即可。
+
+啟動的詠唱會依次播放每段樂節並自動循環。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>世界地圖</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>在世界地圖上點擊可使你的隊伍移動至指定地點。要開啟/關閉鏡頭自動跟隨隊伍，點擊右下角的「開啟跟隨視角」選項即可。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>聲望</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>按下&lt;sprite="Inline" name="ico_charsheet" tint=1&gt;或[C]鍵可打開角色清單。選擇「聲望」頁簽可查看你的角色獲得的陣營與組織聲望。
+
+陣營的正面聲望顯示為藍色條，負面聲望則顯示為紅色條。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>你的船需要船員才能起航。你可以在港口城市的絕大多數旅店中招募船員。在旅店中點擊&lt;sprite="Inline" name="sqrmenu_hiresailor" tint=1&gt;查看可用船員。
+
+當你僱傭一名船員後，需要為其分配在船上的相應職務。沒有放置在船上的船員屬於未啟動狀態，不會消耗食物飲料與薪酬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>魔典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>魔典可以讓法師施放出當前尚未學習的法術。要施放魔典中的法術，其必須裝備在法師的魔典欄中。法師可以將額外的魔典放入快速物品欄中，以便在戰鬥時快速切換魔典。
+
+要查看魔典中包含的法術，只需右鍵點擊魔典或點擊物品欄中的「？」圖標再點擊魔典即可。要注意的是儘管魔典中涵蓋了大量強力法術，但法師自身如果能力未達到相應等級法術的條件，同樣也無法施放魔典中的法術。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>原料</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>你發現了一種原料。原料可用於附魔唯一武器、盔甲與盾牌，此外還能製作食物、卷軸、藥水與其他物品。
+
+在隊伍儲物箱選擇&lt;sprite="Inline" name="ico_filtercrafting" tint=1&gt;查看原料。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>附魔</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>唯一（用金邊標示）武器、盔甲與盾牌可以通過附魔進一步提升力量。每種附魔配方都需要一定數量的特定原料。當你擁有可以對某項物品附魔的足夠原料時，該物品圖標左上角會顯示一個「+」圖標。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>隱藏物體</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>探險時可能會發現隱藏物體。角色發現隱藏物體的能力與其感知屬性相關。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>反制</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>反制是指某項戰技或狀態在生效時能移除或防止承受另一類狀態。反制共有兩種類型：增益狀態與關鍵詞。
+
+增益狀態根據屬性劃分（例如敏捷、感知等）且會自動反制並移除或防止承受對應屬性的減益狀態。同理，減益狀態也能用於移除增益狀態。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>隊伍AI</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>如果你希望隊伍成員在戰鬥中自動完成行動，那麼你可以為其選擇AI行為。每個職業根據其所能勝任的角色均有多種可選表現。
+
+你也可以通過行為編輯器進行完全自訂或建立新行為。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>裝卸區</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>在船甲板上時，你可以選擇&lt;sprite="Inline" name="citymapicon_setsail" tint=1&gt;進入世界地圖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>船長</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>靈視者是你這艘船的船長。與其他船員一樣，船長也會獲得水手經驗，但船長的水手經驗可以提升其船長等級。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>船隻介面</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>船隻航行時，船員有幾件工作要完成。每艘船都需要甲板水手、炮手與一名舵手，而廚師、船醫與領航員則會對船隻大有幫助。大型船隻甚至還需要一名水手長來維持甲板水手的秩序。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>要將新水手派上船，你首先要前往一處港口。在已知水手區域點擊一名可用水手，並將其移至船上的空閒角色。注意每名水手均有不同天賦。並非所有水手都能出色完成被分配的任務。通過已知水手工作類型進行篩選可以查看各人擅長的工作類型。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>你的船員們在冒險時會消耗食物與飲料。其享用的食物與飲料類型會改變其鬥志。更昂貴的補給品會使其更愉悅。廉價的吃喝會隨時間逐漸降低其鬥志。
+
+儘管如此，船員們的鬥志在斷糧時會大大降低。鬥志低下的飢餓船員可能會發生暴動。如果被忽視太久，有些人甚至會死去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>船上有多種職務。
+
+船長決定了船隻在海戰中取得優勢（先手移動與其他加成）的可能性。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>海戰中的任何行動都需要甲板水手的參與。如果船隻的甲板水手數量不足，在世界地圖的移動速度就會減慢。如果甲板水手更有經驗，船隻在戰鬥中也會移動更快。
+
+水手長仍然屬於甲板水手的一員，但其因自身能協調眾水手行動加速特殊事件（例如撲滅甲板起火）的完成從而更顯重要。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>海戰中船隻的調頭與轉向等行動都需要舵手的參與。更有經驗的舵手可以讓船隻在完成調頭與轉向後更難被命中。
+
+如果船隻沒有分配炮手，就無法發射火炮。炮手越有經驗，火炮命中率就越高。
+
+船醫在戰鬥中與旅行時能提升船艙內傷員的治療速率。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>有兩個職務與戰鬥無關，但在解決船隻事件時也能派上用場。
+
+領航員能加速船隻在世界地圖上航行的速度，而廚師則能夠減少旅行時的食物消耗。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>航海</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>點擊「已知地點」將彈出你已經發現的地點列表。你也可以輸入名稱搜索某一地點。船隻在深水中航行較快，淺灘區域則會減慢速度。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>低配給</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>你的船員每天都會消耗食物和水。你需要找尋或購買以補充這些資源。
+
+按下&lt;sprite="Inline" name="ico_strongholdship" tint=1&gt;可管理你的船隻。購買補給並將其按適合順序放置即可完成補充食物與飲品。補給品永遠從左向右消耗。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>無配給</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>沒有補給時旅行會使船員陷入飢餓狀態，其會降低鬥志，最終死亡或發生暴亂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>低鬥志</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>如果船員的鬥志過低，可能最終會導致發生暴亂。你可以通過補充較昂貴的補給品、擊敗敵人船隻與分享戰利品等方式提升船員鬥志。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>船對船海戰</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>在亡焰列島中，並非每艘駛來的船隻都帶著善意。敵對船隻會試圖向你發起海戰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>在海戰中，敵人的距離與方向是取勝的關鍵。距離決定了敵人是否在你的炮火打擊範圍中（或者你是否會受到炮擊）。方向決定了哪些火炮能攻擊到敵人，以及你的船隻受到攻擊的難度。將船隻側面對準敵人就能發射最大限度的火炮，但同時你也更容易被命中。
+
+每艘船的船帆與船身都必須得到良好維護。船帆受損會影響船隻速度。如果船身被毀，船隻就會沉沒。船隻的火炮也會受到所能攜帶的彈藥限制。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>當兩艘船距離足夠接近時，就可以選擇登船或撞擊。登船會將兩艘船鎖定在一起，並轉變為兩隊船員之間的甲板戰。撞擊會對兩艘船的船身均造成損傷。如果兩艘船均未沉沒，那麼也將轉變為甲板戰。
+
+如果你成功擊沉其他船隻或在甲板戰中取得勝利，就可以隨意處置戰利品。戰利品一般包括船隻資源和財寶，偶爾還會有代表敵方船長的唯一旗幟。搶奪來的錢財可以分享給船員提升其鬥志，而旗幟則會始終飄揚在船隻的桅桿上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>船員傷勢</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>海戰與遭遇事件可能會造成船員傷勢。傷害會限制船員能力。在戰鬥中，你可以使用「報到」指令將受傷的船員送至船艙接受船醫治療。戰鬥中船員在受傷時無法完成工作，除非得到船醫的照料。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>水手經驗</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>完成遭遇事件與在海戰中擊敗敵方船長可使我方船員與船長獲得水手經驗。獲得水手經驗會提升船員當前職務的等級。&lt;i&gt;只有&lt;/i&gt;船員為至少1級的職務才能夠提升等級。船長獲得經驗後永遠可以提升其船長等級。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>水手特質</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>船員在獲得水手經驗時自然會對當前職務有所進步。只有船員為至少1級的職務才能夠提升。單項職務最高可提升至4級。靈視者作為船長的職務最高可提升至5級。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>在城市地圖中，你可以選擇&lt;sprite="Inline" name="citymapicon_supplies" tint=1&gt;使用港口商店對船隻進行補給。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>港口商店</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>瀕死</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>一名隊伍成員已有三層傷勢。如果其遭受第四層傷勢就會死亡。在休息時進食或在旅店休息即可恢復傷勢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>死亡</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>一名隊伍成員已死亡。如果隊伍成員的傷勢累積至四層或被強力毀滅效果命中就會死亡。在休息時進食或在旅店休息即可恢復傷勢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>同伴對話</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>有一名同伴想要和你談談。要與同伴開始對話，只需將其選中並點擊能力欄中的&lt;sprite="Inline" name="ico_talk" tint=1&gt;。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>靈視者的聲望與性情全部會通過聲望輪盤顯示出來。
+
+同伴的聲望輪盤會顯示其與另外隊伍成員之間的關係以及自身的好惡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>聲望介面</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>僱傭船員</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>船隻事件</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>有時候你的船隻遭攻擊時會觸發船隻事件。這是一類持續性問題，你必須分配船員前往解決。使用「報到」指令將船員分配至指定事件。被分配至事件的船員越多，該事件就能被越快解決。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>助手</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>助手為獨特的NPC角色，每個人都有各自的專屬任務，各自擁有獨特的個性與外表。完成他們的任務後，作為獎賞，他們可能會願意加入您的隊伍中。和同伴一樣，這些新的角色擁有各自不同的頭像與聲音。不過與同伴不同，助手並沒有專屬的幻景任務，而且也不涉及到同伴關係。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>關鍵詞為描述性的詞語，如水、火與霜。關鍵詞之間為雙向關係，因此火能反制水，水也能反制火。
+
+例如，一名角色正處於帶有關鍵詞「火」的焰盾術效果之下。一名敵人對其使用了帶有關鍵詞「水」的海嘯術並命中。海嘯術會被完全無效化，焰盾術的狀態也會被移除。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>部分任務可能難度很高，需要您的角色升級之後才能完成。難度過高的任務，會在日誌中以一個、兩個或三個骷髏標記來表示，每個骷髏都代表任務難度比您的隊伍等級高一級。如果任務難度比您的隊伍等級高三級以上，會用紅色的骷髏進行標記。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>要對某項戰技使用強效，點擊行動欄上的&lt;sprite="Inline" name="empowered" tint=1&gt;，然後選擇希望強效的戰技。要恢復資源，點擊&lt;sprite="Inline" name="empowered" tint=1&gt;然後選擇角色頭像或選中圈。
+
+你每場戰鬥只能使用一次強效，並且使用一定次數後就需要休息重置次數。在旅店休息或在其他地點休息時進食可以恢復角色的強效點數。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>在世界地圖中，強迫受傷的船員工作會嚴重降低士氣。此時船員只要在船艙欄位中就會繼續接受船醫治療。
+
+無論是在世界地圖還是戰鬥中，只要某位船員的傷勢累至第四層就會死亡（即使有船醫照料）。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>某些攻擊與戰技會產生噪音引起NPC注意。守衛會調查聲音來源並開始巡邏自己防守的區域。
+
+玩家可以製作能夠爆炸的爆竹，吸引範圍內的NPC來查看聲音來源。這可以為你的角色創造機會偷偷溜過巡邏的守衛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>行為編輯器允許你為隊伍成員建立新行為。每種行為由各種行動集構成，行動集決定隊伍成員在戰鬥中採取的行動。
+
+行動集是帶有條件、目標和冷卻時間的行動列表。每種職業有若干個已建立好的示例行動集，你可以複製其中之一作為你自訂行動集的模板。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>每套護甲都擁有基礎護甲值，該值顯示對所有類型傷害的抗性。「對抗傷害類型」字段顯示該護甲抵禦特定類型傷害時的優勢或劣勢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>酒館</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>亡焰列島各處的酒館有多種功能。在任何酒館裡，你都能購物、租房間、招募冒險者、重新訓練角色以及管理你的隊伍。
+
+某些房間可提供影響整個隊伍的休息加成，效果持續到隊伍下次休息為止。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>招募冒險者時，需要對該冒險者進行完全角色建立，此過程與建立主要角色時相同。你招募冒險者時自身等級越高，招募費用就越高。
+
+重新訓練角色將把角色重置為1級，這樣你可以對其重新進行升級操作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>

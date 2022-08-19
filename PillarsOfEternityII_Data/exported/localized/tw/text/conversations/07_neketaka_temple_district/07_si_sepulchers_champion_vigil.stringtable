@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_neketaka_temple_district\07_si_sepulchers_champion_vigil</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這幅骸骨如同石像一般僵硬而堅定地站立，永遠守衛著墓穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>這幅骸骨如同石像一般僵硬而堅定地站立，永遠守衛著墓穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[查看骸骨。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[呼喚她的名字，守望女士。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>骸骨的肩部裝有戰鬥用的方甲。它的指骨抓著一柄銹蝕嚴重的巨大戰錘。
+
+在顱骨上方的牆上蝕刻著圖畫，描繪出一個女人雙膝跪下，高舉著提燈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>骸骨的肩部裝有戰鬥用的方甲。它的指骨抓著一柄銹蝕嚴重的巨大戰錘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你的聲音在洞穴中迴響。聲音不斷迴響，一遍又一遍，而你四周的空氣似乎變得越來越沉重。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>火焰點燃了空洞的眼窩。骸骨搖擺晃動著，頭顱向前彎曲。
+
+它的靈魂精粹滲透到門的封印中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「費德雯。」鐘聲響起，是死亡的喪鐘。「費德雯，守望女士。」
+
+黑暗的絮狀靈魂精粹從空氣中凝結。它蜿蜒扭曲，緩緩淌進骸骨的嘴中。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

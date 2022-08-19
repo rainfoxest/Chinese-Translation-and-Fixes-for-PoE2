@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\lax01_00_arena_island\lax01_00_qst_main_quest_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>試煉場</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>打開在你船上發現的&lt;b&gt;奇怪包裹&lt;/b&gt; 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>航行至西亡焰列島海域的&lt;b&gt;卡茲瓦里島&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>冒險深入&lt;b&gt;卡茲瓦里島。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>和&lt;b&gt;胡瑪爾交談。&lt;/b&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>和&lt;b&gt;胡瑪爾&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>和你船上的總管交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>總管告訴我，船員發現&lt;b&gt;[Player Ship]船體中深埋著&lt;/b&gt;一批&lt;b&gt;貨物&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我應該回到&lt;b&gt;[Player Ship]&lt;/b&gt;調查這批神秘貨物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>包裹裡面裝著一個叫作穆阿圖的海裔的頭顱。他的靈魂請求我這個靈視者幫忙。
+
+他希望跟我一起前往正爆發某種精神危機的&lt;b&gt;卡茲瓦里島&lt;/b&gt;。這座島嶼位於哈桑戈西方。
+
+我可以通過小島&lt;b&gt;南海岸&lt;/b&gt;的一處&lt;b&gt;瀑布&lt;/b&gt;去到那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>穆阿圖請求我前往&lt;b&gt;島心&lt;/b&gt;，在那裡我可以遇到&lt;b&gt;胡瑪爾&lt;/b&gt;並開始解決卡茲瓦里島的問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我發現自己身處某種錦標賽之中，周圍到處都是觀眾。有人告訴我，&lt;b&gt;胡瑪爾&lt;/b&gt;是這個地方的看守人，可能知道這個奇怪的邀請是怎麼回事。她現在&lt;b&gt;正在上面&lt;/b&gt;看著這些事件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>總管告訴我，我的船上不知怎麼回事出現了一個神秘的包裹。我應該跟她談一談，瞭解更多情況。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>著陸後，我聽到了靈魂精粹的聲音，看到小島中央有一個巨大的雕像。雕像周圍擠滿了任性的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>當我靠近卡茲瓦里島時，[Player Ship]一個體型龐大的動物擠了過來。在它消失在小島北海岸前， &lt;b&gt;狩獵之神伽拉溫&lt;/b&gt;警告我遠離卡茲瓦里島。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>&lt;b&gt;胡瑪爾&lt;/b&gt;告訴我前往競技場下方&lt;b&gt;神廟西側&lt;/b&gt;的&lt;b&gt;回憶大廳&lt;/b&gt;與她交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我好像被誤認作某種錦標賽新人了。我要麼找到其它出路，要麼進入&lt;b&gt;競技場大門&lt;/b&gt;一探究竟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>據胡瑪爾所言，我可以幫助卡茲瓦里島，並通過參加競技場積累屬於自己的榮譽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我想明白了，卡茲瓦里島的人最好死了，所以襲擊了它們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

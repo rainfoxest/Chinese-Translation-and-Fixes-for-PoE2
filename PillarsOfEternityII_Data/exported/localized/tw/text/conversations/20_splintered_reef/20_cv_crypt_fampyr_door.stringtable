@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_crypt_fampyr_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>火盆裡看上去並沒有任何明顯的照明裝置，但你在其底部發現一個覆蓋著風乾血跡的小盆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>火盆裡看上去並沒有任何明顯的照明裝置，但你在其底部發現一個覆蓋著風乾血跡的小盆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[仔細查看。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[將吸血妖的血倒進小盆。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[走開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你將惡臭的液體倒入小盆，液體流入了火盆深處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你聽到了微弱的隆隆聲，只不過不確定是從哪兒傳來的。火盆中一下子竄出了火苗，在周圍的牆上投下跳動的陰影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>第二個火盆也點亮後，你聽到石頭摩擦發出響亮的摩擦聲，接著聽到了類似巨獸呼氣的空氣流動聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你敏銳的耳朵不一會兒就聽到出現在你面前的深坑中傳來其他聲音：牙齒的撞擊聲和嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>小盆裡有一個豎起的頂飾，上面有舊瓦利亞紋章。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>結殼的血跡部分覆蓋住了一個上面有幾何圖案的頂飾。你辨別不出這是什麼頂飾，但它看起來是胡亞納風格的。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

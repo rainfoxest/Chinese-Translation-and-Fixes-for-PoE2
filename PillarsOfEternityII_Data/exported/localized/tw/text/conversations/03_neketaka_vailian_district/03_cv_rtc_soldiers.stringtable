@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_neketaka_vailian_district\03_cv_rtc_soldiers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「再來一首唱努瓦泰海岸的歌曲！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「唱什麼都好，就是別唱『蛇妖的私處』了，好嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「誰的五內翻攪如螺旋開瓶器？哦，那水手吃了柯基燉菜卻嚥不下去……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「反抗灣對吧？」這個大塊頭海裔朝你一笑，用力地拍了拍你肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「有什麼能為你效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你們在幹什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「逮到你了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「抓住那個毛球！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「教訓他們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我只不過是個小人物，但我記得活著離開哈德萊特大宅的那個人。」
+
+他又拍了一下你的肩膀，這次力氣更大。你也意識到他雖然熱情，但已酩酊大醉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「他喝多了。或許我們應該盡快離開，不然他估計就要別人示愛了。」他湊到你耳邊低聲說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「敬祖國！」水手將一杯酒一口飲下，用袖子擦了擦嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「朋友，你怎麼來了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「有個音樂家在橋邊彈琴。這個街區沒人能彈出更好聽的曲子了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「再見，靈視者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「這傢伙琴彈得不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「喂，我在這兒等著呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「麻煩你和你的夥伴們出去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我……不明白。我們沒做錯什麼事啊。」
+
+水手看了一眼同伴，又用受傷而困惑的眼神看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「船長多給了我們些錢，讓我們上岸好好放鬆一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「馬蒂諾·瓦雷拉要你們離開女王港。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「瓦雷拉。就是那個自命不凡的海盜獵人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我又想了想，你們還是繼續喝吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我要怎樣才能說服你們離開呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「聽著，如果你們暫時消失幾小時的話，對我倆都有好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「實在沒辦法的話，我只能把你們丟進運河裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「運河嗎？我考慮一下。」
+
+這名水手面無表情地看向他的同伴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我一直想搞清楚絨精能不能浮在水面上。」
+
+他示意其他人攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你能不能演奏努瓦泰歌曲？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「如果這個瓦利亞家的人五音不全，我就切掉他的拇指。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我並不是針對你們。你們站的地方正好有個憤怒的鬼魂。我打算放逐它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「呸！你肯定是開玩笑的！根本沒有……我……不會是真的吧？」
+
+水手嚥了下口水，朝身後瞥了一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[舉起雙手]「退散吧！不許為非作歹，你這狡猾的鬼魂！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[盯著空氣看作目瞪口呆狀。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>這名水手朝他的同伴嘻嘻傻笑。每個人都聳聳肩，用笑容回敬他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「不行，告訴瓦雷拉家族，他們只配舔我靴子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>一開始這位水手似乎要用難聽的話語回擊，但他的表情舒緩了下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「不知他是否演奏努瓦泰歌曲。小的們，來吧。我們走。」他扭頭示意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「你巴結瓦雷拉家的人時我們會迴避的。不管你有何打算，祝你好運。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我們盡興之後自然會離開。瓦雷拉應該已經習慣等待了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「這樣才對嘛。不介意的話，我先失陪了……」他點點頭轉過身去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[攻擊]「是時候消滅海耗子了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「海耗子可沒那麼容易殺死！」
+
+這位水手示意同伴們圍攏在身邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「精靈，我肯定眼花了吧，因為我看到你肩膀上蹲著一位……大塊頭女士。」
+
+水手斜視亞洛斯，聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我們一直在喝瓦利亞酒，並努力回憶起努瓦泰國歌的歌詞。通常是邊唱邊回憶！」
+
+他熱情洋溢地扭頭看向他的同胞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>你的話和一陣拂過的微風嚇到了水手們，他們彎下身，確信有憤怒的鬼魂在攻擊他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「回船上去！我們當初就不該來這裡。「
+
+水手們東倒西歪地慌忙逃走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>或許只是你的想像，但你聽見了布的摩擦聲以及類似緩慢呼氣的聲音從你耳後傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[指著空氣大聲尖叫。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>水手摀住耳朵，扭頭看向隱形的存在，把眼睛睜得像茶碟一樣大。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[趁他不注意觸碰他的肩膀。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>他脊背發涼，嚇了一跳，扭過頭來帶著僵硬的表情驚恐地瞥了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「誰也不能請我們挪窩。朋友。」
+
+他臉沉了下來，雙手垂到體側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「我想看看你們這種生物停止呼吸時是什麼樣的。」
+
+他示意其他人攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「如果有人發現你的殘骸，那算你運氣好。」
+
+他示意其他人攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「划不來。夥計們，我們走。」
+
+他吹了聲口哨，示意同伴動身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我們喝的酒待會兒都可以吐出來！」水手向亞洛斯晃晃肚子，哈哈大笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「你是誰來著？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[撒謊] 「當然了！我怎麼可能忘記呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>他用懷疑的目光看了你一眼，似乎被逗樂了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「你是來喝酒的還是只想聊聊天？」水手友善地朝你咧嘴一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「士兵，你這就錯了。」麥婭透過牙齒吹響口哨。伊希薩立刻警戒地豎起羽毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「敬塔科瓦。願我們的大炮把敵人轟得灰飛煙滅。」麥婭朝水手們眨眨眼，舉起拳頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「我沒有不敬的意思。我們正在上岸休假……」他眨了眨眼，向後靠了靠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「麥婭，上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「是我聽錯了還是這個水手的下巴不想要了？」麥婭捲起袖子，惡狠狠地等著對方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「伊希薩，你挑個目標吧。大塊頭歸我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>鳥瞇起眼，發出一聲刺耳的叫聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「麥婭 露瓦？」水手瞪大雙眼。他用手肘戳了一下同伴，示意他們安靜。
+
+他們都肅立恭聽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「沒想到在女王港撞上我吧？士兵，不用拘謹。」麥婭緊握雙手，擺正姿態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「抱歉，長官。這次我們保證守規矩。」
+
+他嚥了下口水，看向你點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「去吧。」麥婭向伊希薩眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>亞洛斯緊抿雙唇，有那麼幾秒，他看起來好像在跟伊莎彌兒較勁。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「這也是我想避免的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

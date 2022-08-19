@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_transition_exit_pylons_destroyed</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>海水湧入遺跡。你剛好在海水沒過頭頂前穿好了潛水服。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>儘管你不用擔心會溺水而亡，但你的處境也並不安全。從遺跡深處傳來的隆隆聲並沒有變小，反而越來越響。你衝出了高塔對面的窗戶，然後開始朝遠處在海面上等待著你的船游去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>在返回海面的途中，你感覺到呼吸越來越困難，沉重的潛水服也開始成為你的負擔。它肯定發生了嚴重故障。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[扭身脫掉潛水服，向海面沒命地衝刺。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[檢查潛水服的受損情況。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[對頭盔進行迅速修復。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你快速檢查了一遍頭盔，發現水正從上面的一個裂口處滲進來，導致在艾維拉魔法作用下循環的空氣越來越少，潛水服也越來越重。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你以最快速度朝海面游去，沒有了潛水服，你完全暴露在了海水中。你在眼睛開始看到斑點時，終於發現上方投射下了亮光。你總算浮上了水面，大口呼吸著新鮮空氣，然後爬上了自己的船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你以最快速度朝海面游去，沒有了潛水服，你完全暴露在了海水中。你眼睛開始看到斑點，而上方依然沒有看到海面上投下的亮光。就在你視野中的一切越來越暗之際，求生欲驅使著你向海面發起衝刺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>差一點不省人事的你浮上了海面，貪婪得呼吸著新鮮空氣，然後爬上了船。你精疲力盡，但總算保住了一條命。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你一刻也沒有耽擱，從潛水服上扯下一塊布，並迅速纏住了頭盔受損的部分。水依然在滲進來，但速度變慢了許多，你最後毫髮無損地回到了船上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你從潛水服上扯下一塊布，並試圖纏住頭盔受損的部分。不管你怎麼努力，水依然和之前一樣不斷地滲進來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你繼續游向海面，但由於潛水服越來越沉，且呼吸越來越困難，你的動作變得愈發遲緩。不知過了多久，你總算看到了水面上透來的亮光。你浮上海面，爬上了自己的船。雖然筋疲力盡，但總算保住了一條命。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

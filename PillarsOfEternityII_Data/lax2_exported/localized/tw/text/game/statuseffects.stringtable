@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>每有一名隊員被打倒，力量與決心提升{0:triggervalue:straight}直至戰鬥結束（最多疊加{0:value:straight}次）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>命中時{0:value}所有防禦屬性。每次命中時，施法者獲得{0:extravalue}全部防禦（疊加{0:triggervalue:straight}次）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>你的靈魂在靈體形態時在遭受持續傷害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>每{0:interval}獲得{0:value:percent}命中轉化為暴擊（造成暴擊後重置效果）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>（當前加成：{0:value:percent}）每{0:interval}獲得{0:extravalue:percent}命中轉化為暴擊（造成暴擊後重置效果）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>生命值損失時提高行動速度（最高{0:value:percentbonus}行動速度）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>行走會留下小範圍傷害使敵人蹣跚</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>被攻擊命中或暴擊時，持有者的下次成功武器攻擊將造成{0:value:bonuspercentbonus}冰凍傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>持有者的下次成功武器攻擊將造成{0:value:bonuspercentbonus}冰凍傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>對奈瑞思賽拉絲造成{0:value:percentbonus}傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>受到冰凍傷害後獲得{0:value}穿透（最高疊加{0:extravalue:straight}次）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>武器攻擊造成鈍擊/冰凍類型中更高的傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>被減益狀態命中後，{0:value:percent}機率對附近1名敵人釋放1階隨機減益狀態</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>完成擊殺後，對附近敵人的敵對效果獲得{0:value:percentbonus}持續時間</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>暴擊命中有{0:value:percent}機率凍結敵人，持續{0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>暴擊命中時，有{0:value:percent}機率對目標周圍敵人造成冰凍/穿刺傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>大盾武器熟練現在會在敵人近戰攻擊失手時賦予{0:value:percent}機率造成冰凍傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>持有者每次被失手時獲得{0:statuseffects}（最高疊加{0:value:straight}次）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>需要雙手持握，但造成逐漸提升的傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>造成暴擊時將使目標每{0:interval}受到{0:value:straight}真實傷害，持續{0:extravalue:duration}（目標受到傷害時提升持續時間）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>正義天平效果擊殺敵人時會對附近敵人造成{0:value:straight}真實傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>正義天平效果擊殺敵人時會治療附近友軍{0:value:straight}生命值</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>使用武器命中時有{0:value:percent}機率每{0:interval}造成{0:extravalue:straight}腐蝕傷害，持續{0:triggervalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>武器攻擊有{0:value:bonuspercentbonus}機率命中轉化為暴擊（與{0:skill}技能疊加）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>擊殺敵人時會治療附近友軍{0:value:straight}生命值（與{0:skill}技能疊加）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>造成暴擊時有{0:value:percent}機率發動一次打斷鈍擊範圍傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>造成暴擊時有{0:value:percent}機率發動一次打斷與定身鈍擊範圍傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>用近戰武器發動暴擊後，有{0:value:percent}機率使目標武器穿透降低{0:extravalue}，持續{0:triggervalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>穿戴者陷入昏迷時，會對附近敵人造成大量灼燒傷害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>穿戴者用藉機攻擊命中時，附近敵人跨步{0:value:percentbonus}，持續{0:extravalue:duration}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>穿戴者隨著生命值降低而獲得額外交戰（最高{0:value}交戰）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>{0:value:percent}機率將敵人的非護盾穿刺攻擊暴擊變為命中</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>{0:value:percentbonus}承受的非護盾穿刺攻擊傷害</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

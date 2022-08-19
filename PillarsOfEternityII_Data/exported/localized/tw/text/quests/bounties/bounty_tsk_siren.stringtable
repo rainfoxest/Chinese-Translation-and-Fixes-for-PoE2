@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_siren</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸賞：海妖奧娜德蕾</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺死&lt;b&gt;奧娜德蕾&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找&lt;b&gt;歐考羅&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一頭海妖正在引誘艦船觸礁。倖存者透露&lt;b&gt;奧娜德蕾&lt;/b&gt;正在&lt;b&gt;庫瓦奧里庫胡群島&lt;/b&gt;&lt;b&gt;西側&lt;/b&gt;肆虐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;奧娜德蕾&lt;/b&gt;徘徊於&lt;b&gt;庫瓦奧里庫胡群島&lt;/b&gt;&lt;b&gt;西側&lt;/b&gt;。殺死她將能保證路過航船的安全並且還能夠換取豐厚的賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>奧娜德蕾已死，我可以將海妖已死的證據交給涅克塔卡&lt;b&gt;聖梯區&lt;/b&gt;的&lt;b&gt;歐考羅&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我殺死了奧娜德蕾並且從歐考羅處收取了賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

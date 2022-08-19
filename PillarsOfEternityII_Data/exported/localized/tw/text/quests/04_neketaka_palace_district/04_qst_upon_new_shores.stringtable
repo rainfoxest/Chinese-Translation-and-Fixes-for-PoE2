@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_neketaka_palace_district\04_qst_upon_new_shores</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>新的海岸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在巨蛇王冠裡的一條走道上發現了瑪索格的靈魂。他被人從走道上推了下去，並且因為這件事而心煩意亂。我告訴他我將幫他找到罪魁禍首。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>一個僕人提到他們中的一個 織工已經失蹤了一段時間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我在織工的籃子裡找到了一份筆記，上面寫著她在峽谷的家的方位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我消滅了水手們。他們應該不會再對任何人造成威脅了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>那個僕人艾雷緹講述了一個被瓦利亞商行捕獲之後被賣給了羚羊號船長的胡亞納奴隸的故事。她想盡辦法給她的族人們送出了一條訊息，但是之後她就被發現了。
+艾雷緹臨死之前給了我一份標記有羚羊號航線的地圖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>僕人艾雷緹已經死了。搜尋她的口袋時我找到了一份標有被稱作羚羊號的船隻的航線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我在公海上找到了羚羊號。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>靠近羚羊號之後我見到了那艘船的船長泰瑞克·洛弗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我與船長的交談被下層甲板的可怕尖叫聲打斷了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>我制服了化神。司坎在收走自己的精粹並離開之前給我留下了幾句話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>洛弗船長與羚羊號的其他船員被殺死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>擊敗了化神之後，洛弗船長命令將所有的奴隸推下大海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我選擇殺死了羚羊號上的所有人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我與泰瑞克·洛弗船長一起打敗了化神，並為了防止司坎信仰在島嶼上傳播將所有奴隸推入了大海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>儘管我打敗了化神，我還是決定與奴隸站在一起反抗洛弗船長。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\28_drowned_barrows\28_si_drowned_barrows_transition</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一座高山坐落在北方地平線處，其崖面彷彿一塊飽經風霜的頭骨。食腐鳥類在其頂峰不斷盤旋，形成一道恐怖的圓環。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>一座頭骨形狀的高山出現在北方的地平線上，其張開的大嘴與眼部的凹陷有一種奇異的輪廓分明之感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[前往北方。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>當你接近山腳時，頭骨那張開的大嘴與空洞的眼窩中不約而同響起了鼓點聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[穿過大口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[爬上雙眼。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[爬至右眼。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>突出在外的下頜與上顎遮住了天空。從高山的喉嚨之中傳出的聲音回想說明了你並非獨自一人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>坑坑窪窪的岩石為你提供了足夠的落腳點爬上鼻樑的位置。
+
+迴響的鼓聲震掉了一塊小卵石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[爬至左眼。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[進入眼內。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[爬回頭骨底部。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你成功爬到了眼窩邊緣。一處尖銳的缺口直通向頭骨內部的凹陷處。
+
+下方的陰影之中閃爍著光亮，有聲音從某處未知的地方飄上來。看來需要有正確的工具或靈巧的攀爬本事才能抵達下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[跳入眼內。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[爬回去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你一點也不費勁地抵達了地面。鼓聲漸漸向遠處減弱了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>洞穴遠處某個角落傳來了火盆的氣息，對你而言代表著光亮與溫暖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你觸到地面後順勢一滾，彈起身來調整著呼吸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你來到了右眼窩的邊緣。一處短促的缺口直通向頭骨內部的凹陷處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[爬回去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你沿著這塊頭部的表面移動，讓自己再次來到了兩處眼窩的正中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[掛好抓鉤，爬至眼內。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你的著陸過程並不順利。[SkillCheck 0]的骨頭折斷聲與吸氣聲在黑暗中迴盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你固定好抓鉤與繩索之後便開始向洞穴的陰影中下降。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你重重跌在地面上，腳踝由於承受了下墜的重量而發出斷裂的聲音。你咬牙忍受著劇痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你退回腳步開始思考自己的選擇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>正當你停下來調查周圍環境時，沉重的鼓點聲又開始在你耳邊跳動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>正當你停下來調查周圍環境時，沉重的鼓點聲又開始在你耳邊跳動。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

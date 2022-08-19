@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\27_pyramid_of_woedica\27_si_pyramid_ascent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在沙漠中跋涉了幾個小時之後，你發現了一處綠洲，綠洲對面就是巨型金字塔的底座。你開始尋找金字塔的入口，最終發現在一列長長的樓梯盡頭有個入口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你又回到了綠洲，巨大的金字塔就在你眼前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[爬到金字塔頂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[探索綠洲。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離開綠洲。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>在沙漠中長途跋涉之後，綠洲的樹蔭無疑讓人心曠神怡。沒走多久，你就在樹林深處找到了一個小水塘。走近一看，你注意到水塘裡生了幾千隻蛆，這些小小的蛆蟲不斷地蠕動著。你一眼就認出來，這種蛆蟲就是傳播腐疫的寄生蟲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>在沙漠中長途跋涉之後，綠洲的樹蔭無疑讓人心曠神怡。沒走多久，你就在樹林深處找到了一個小水塘。走近一看，你注意到水塘裡生了幾千隻蛆，這些小小的蛆蟲不斷地蠕動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>雖然爬上去的過程非常困難，但這並不能阻止你的腳步。走出一身大汗之後，你終於走到了金字塔頂怡人的陰涼之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[裝滿你的水袋。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你用未遭污染的涼爽清水裝滿了水袋，在沙漠中烈日炎炎的長途跋涉之後，這些清涼的水無疑是天賜之福。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>當你打算離開蛆蟲遍佈的水塘時，一線微光引起了你的注意。在蘆葦叢後面，你看到了一個小池塘。很明顯，這個池塘並沒有生蛆。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

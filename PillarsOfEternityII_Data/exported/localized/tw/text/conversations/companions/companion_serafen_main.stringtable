@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>184</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你好啊，船長。需要我效勞嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「和我說說雷馬洛的事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>他想了一會兒，點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「當我剛出海，還是個只菜雞的時候，教我怎麼給繩子打結的人就是雷馬洛。不僅如此，他始終都在保護著我的安全。」
+
+他拔起了胳膊肘上的毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我向你保證，我們一定能找到他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「謝謝了，船長，這個忙就靠你了。」
+
+他鞠了一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「謝謝你，很高興你願意和我說這些話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「當然，這麼做是對的，我絕不會後悔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「雷馬洛的事情就先談到這裡吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「遵命，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「抱歉，靈視者船長，這個故事我只能講給朋友聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「把這個故事講給我聽，否則就給我從這裡跳下去吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「好吧，如果你真的這麼打算的話……」
+
+他叉起雙臂，怒視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我和雷馬洛以前都在巫師號上幹活，我欠那個人一兩條命呢。如果能想辦法報答他的話，我願意那麼做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我明白，我們都有自己的秘密。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「沒錯，確實如此。多謝了，船長。另外……如果真的有什麼事情需要告訴你的話，我一定會告訴你的。我對我毛茸茸的藍屁股發誓。」
+
+他盯著你看了一會兒，之後轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「身為船長，我得知道你打算把我的船員捲到什麼事情裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「該死，你這句話說得有道理。」
+
+他搓了搓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「哦？我猜你大概是不想讓我幫忙了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我沒什麼太想說的，船長。」
+
+他微微皺起了眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[調情] 「我說，塞拉芬……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「很感謝你這麼溫情，船長。不過，呃，咱們還是別讓事情變得不舒服比較好。」
+
+他對你揚起了一條眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「呃，船長……我是說，呃，這麼說吧……倒不是我不喜歡你……只是我很矮，渾身還是藍色的，我知道我沒什麼條件……」
+
+他盯著自己的腳看著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「我只是……你總是讓我想到……我早晚有一天會死，這實在是讓人氣餒。」
+
+他退了一步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我只是有點擔心，你明白吧。我身上長著毛，你又會……點火。」
+
+他用手摀住了臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「你看……鑒於我和昂德拉之間的關係，事情已經夠複雜了。」
+
+他避開了你的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「我只是……只是有些這樣那樣的……抱歉，船長……」
+
+他咬起了指甲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「不是每個人都喜歡這樣嗎？」
+
+他笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「嗨，水手，你想要根大柱子來搓一搓嗎？」</DefaultText>
+      <FemaleText>「嗨，水手，你想要個小洞洞來擠一擠嗎？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「要不是我瞭解你，船長，我還以為你會喜歡上一個臭烘烘的水手呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我們比比誰先上床吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「船長……不開玩笑地說，你應該知道，我不是那種適合結婚的人。」
+
+他撓了撓自己的胡辮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我只是開個玩笑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「啊，呵呵對啊，真好笑，嗯。」
+
+他搓著後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「或許我想要的不僅僅是個水手，或許我想要你整條大船。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我倒是不會這麼委婉地說，不過，我就是喜歡你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「如果我的副武器就讓你覺得不錯的話，你真應該看看我真正的武器。」
+
+他毛茸茸的眉毛一跳一跳的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「和我說說關於你的事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我現在想不出有什麼能和你說的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「一想到你想要研究我這個人，我就覺得很好笑，船長。你具體想瞭解些什麼事情呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我想瞭解一下巫師號的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你之前和我說過，你最喜歡的數字是四十。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你還沒和我說過你小時候的事情呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「沒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「遵命，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我可不是騙子，船長。騙子都是小兒科的事情，我可是語言藝術的大師。我的舌頭就是我最拿手的武器。」
+
+他得意地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「譯靈最糟糕的一點，就是可以知道別人都在想些什麼。無論你想不想知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我是個很坦率的人，船長。無論你做了什麼事情，我都不會覺得你是個壞人，除了把別人當奴隸。如果你把別人當奴隸，我們就算是掰了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「這樣的話，那我非常願意為你效勞。」
+
+他深深地彎下了腰，耳朵幾乎碰到地面了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「所謂的家人，並不是你體內流的是誰的血，而是你願意為了誰而不惜流血。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「沒，我是沒說過。絨精長得很快，這個話題就到此為止吧。」
+
+他叉起雙臂，不再繼續這個話題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我最喜歡的數字是四十。等你有空的話，我給你講講吧，這個故事可不像你想得那樣。」
+
+他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我這個人從來不後悔，船長。如果每死一個無辜的人，你都要哀悼一陣子，那你就永遠都沒法前進了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「在巫師號之前，我在第一艘船上當過起重工，籐壺刮工，還有管火藥的。所有要命的差事，我都幹過。他們想讓我意外死亡，但我就是要讓他們失望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「有些水手暈船暈得像傻子一樣，一直在叨咕著說大海在對他們說些什麼，之類的。我去過了這麼多個海島，大海是從來不會說話的……不過會起浪。」
+
+他笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我想問問你皇族海盜的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「儘管問吧，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「皇族海盜究竟是些什麼人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「以前都是流亡的皇族，就是那些貴族，呃……無……」
+
+他的眉毛擰成了一團。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「皇族海盜都幹些什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「通常都是襲擊遠洋貨船，奪走裡面的貨物。如果船還不錯的話，也會把船也奪走。如果乘客之中還有重要人物，我們也會把他們綁來，勒索贖金。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「你好像很喜歡當海盜嘛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「沒錯，我確實挺喜歡的，船長。」
+
+他裂開了傷痕纍纍的嘴唇，露出了歪歪扭扭的牙齒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「如果我也想加入的話，我該怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「加入海盜嗎，船長？我們又不是那群裝腔作勢的努瓦泰海軍。」
+
+他笑了起來，笑聲低沉而溫厚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>塞拉芬敬了個禮，轉身走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「不知道你有沒有空，船長……我在想……如果我要把你拖到這些事情裡，我應該把來龍去脈都和你說清楚才對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我明白，這是關於雷馬洛的事情，我願意聽你說說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「是時候說一說了，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「老實說，我不太在乎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「好吧，如果你改注意的話，告訴我一下就好。」
+
+他聳聳肩，轉身走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「好啊，沒問題。」
+
+他點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「沒錯，我還在角鬥場裡戰鬥的時候，我不得不親手殺了另外三十九個奴隸。他們都是和我差不多大的小伙子或者姑娘。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「和我說說雷馬洛的事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「無家可歸，沒錯。他們都是很多年前從瓦利亞大帝國過來的，現在變成了亡焰列島的大麻煩。」
+
+他甩甩肩膀，挺起胸膛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「至於別的事情，就不是我這種人能說得清的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「我們並不是殺人狂，只要能不殺人，我們盡量都不殺。因為只要殺了人，別人就會知道。等以後你去搶劫的時候，被搶的人就更容易和你拚命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「無家可歸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「只有不擅長殺人的人，殺人之後才會被別人知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「躲在陰影裡朝人放冷槍是一回事，把整個一艘大帆船沉到海裡是另一回事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「怎麼說呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「有什麼不好的呢？大海的鹹味、舵盤的吱吱聲、大炮的轟鳴聲、還有衝到船上拚命搶東西的快樂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「手裡拿著朗姆酒，嘴裡哼著黃段子。每個港口都有個漂亮的姑娘或者小伙子等著我，我自己的床上還有一個。」
+
+他聳聳肩，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「我天生就是當海盜的料。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「一個毛茸茸、臭烘烘的海盜說出來的話，和我從高官們嘴裡聽到的話一模一樣。」
+
+「要不是因為它不是什麼好事的話，還挺有意思的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「別擔心，姑娘。我會讓你當上一個正直誠實的海盜，還有伊希薩。」
+
+他向麥婭眨眨眼，也有可能是朝她的鳥眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「只要有艘不錯的船，和一群出色的船員就夠了，你已經把最難的這部分搞定了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「現在你只要去和委員會的人談談，然後想辦法適應海盜生活就行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「聽起來挺簡單的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我們可不擅長用各種條條框框管理一群難管的傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「巫師號？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「就這些嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「你在隱瞞某些事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「我跟弗蘭特一起干之前，在巫師號上幹活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「就是這些，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我有嗎？」
+
+他聳聳肩，轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「好吧，我相信你，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「大海有時候就像個翻臉不認人的婊子一樣，在巫師號上的生活更是如此。我們的船頭兒叫瑪娜吉，她千方百計地想要傷害我，而雷馬洛為我提供了保護。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「他也教我知識，教會了我怎麼閱讀，怎麼掌舵。皇族海盜的傳統也是他告訴我的。有那麼一段時間，我們就像是親人一樣，巫師號彷彿成了我的家庭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「雷馬洛最後是怎麼惹上皇族海盜的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「你說了很多關於你們兩個事情，但關於他你沒太多說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「你們兩個墜入愛河了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「這個瑪娜吉為什麼要傷害你？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「這麼說吧，他是那種舊瓦利亞人。是個好人，而且很正直。當然，他並不誠實，但他是個可敬的人。他以前還當過船醫，手藝真是相當不錯。」
+
+他笑了起來，搓起了右臂小臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「像他這樣的人，死了之後應該不至於進不了貝拉斯之輪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「誰知道啊，船長！她對待我的樣子，就像是我只要活著就會讓她發火一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我不知道是什麼惹惱了她。究竟是我的樣子？還是『下賤的藍毛怪』這種過時的觀念？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「怎麼了，船長？你是在吃陳年老醋嗎？」
+
+他笑了起來，快速揚了兩下眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「沒有，我們都沒在一張床上睡過。倒不是說我把他從吊床上踹下去了，但是……就像我說的，我們是家人。他從來沒趁機佔過便宜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「這真是個該死的好問題啊，船長。」
+
+他皺起眉頭，用拳頭砸了一下手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「他們說是因為他造反了，但要我看，這就跟找個彬彬有禮的碼頭工人一樣不靠譜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「我知道我不是什麼總說實話的人，船長。但雷馬洛這件事，我一定要知道真相。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「雷馬洛和我們說起巫師號和船上奴隸的時候，我大概感覺到了你都在想什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「你的戰鬥風格不太像海盜，你是在哪裡接受的訓練？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「她簡直是一艘怪物，這艘大船上裝滿了大炮。在巴斯蒂安船長的指揮下，我們橫行四海，給每條航線，每個港口都帶來了不少麻煩。」
+
+微笑爬上了他滿是疤痕的嘴角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「至少以前是那樣。那個時候，我們不僅搶海商，還搶奴隸販子的船。我們殺了那幫狗日的畜生，讓奴隸們獲得了自由。如果這算解放奴隸的話，我們肯定解放了有一千個奴隸了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「但現在呢？那艘船的情況，就像沃艾珥的腦袋瓜子一樣，沒人知道怎麼樣。」
+
+他轉過了視線。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「我以前從來沒聽說過海盜還會殺奴隸販子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「沒聽說過不意味著沒有，姑娘。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「沒接受過什麼正規訓練。都是在沙坑裡，在海上練出來的。」
+
+他聳聳肩， 攤了攤手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「我學會的最重要的一課是什麼？就是一旦開打，就不能手下留情。我會尋找對手的破綻，然後一下就攻過去。」
+
+他用手指點著眉心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「先見之明算是一種天賦，我也並不吝於使用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「有用的辦法能用就用，沒什麼可羞愧的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「我覺得你有問題想問我了，船長。」
+
+他的耳朵微微垂了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「我那時最渴望的事情，就是能親手殺死一個奴隸販子。當我殺死第四十個人的時候，我的願望實現了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「你以前是奴隸嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「願意和我談談這件事嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「轉念一想，我還是不問了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>他深吸了一口氣，整個人都鼓了起來。之後用鼻子噴著氣，發出了一聲長長的歎息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「我一生出來就是個奴隸，船長。除了雷馬洛之外，沒有哪個人像父親一樣對我。母親的樣子，我也記不太清了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「別了，我還是和你講講吧，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「不過我還記得他們把我從她懷裡搶走的那一天，還記得她的尖叫。這種事情大概一輩子都忘不掉了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「要是他們買走我讓我幹活也就算了，抬個東西、種個地、修修東西，或者幹點別的什麼的。但他們買走我，卻是為了讓我戰鬥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「他們把我扔進決鬥場裡，讓我和其他的奴隸戰鬥。」
+
+他聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「地獄專門為這種惡人的靈魂留了個位置。算不上位置，他們的靈魂會被撕碎，再也沒辦法轉世重生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「真讓人噁心，奴隸角鬥真是讓我反胃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「他們用船把我從一個角鬥場運到另一個角鬥場，路上還會讓我清洗甲板。」
+
+他用毛茸茸的拇指搓著手掌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「你是怎麼從角鬥場裡逃到海上的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「我真替你難過，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「所以你才會這麼痛恨奴隸販子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「痛恨這些奴隸販子需要理由嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「這又不是你的錯，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「有一天晚上，巫師號在夕陽之中慢慢地接近了港口。我和看守我的奴隸販子兵刃相見，後來我殺了他，也算是為我自己伸張了一點正義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「雷馬洛把我帶上了巫師號，剩下的事情你都知道了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「怎麼了，船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「我剛好就喜歡你這種又矮又藍，渾身都是毛的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「我們第一次見面的時候，你身上那兩把手槍還真不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「今天的大海看起來特別平靜，讓人不禁想來點風浪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「每個港口都有情人確實不錯，但你不想在船上也有一位嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「當心點，船長。只要你一發威，這艘船說不定就要沉了。」
+
+他笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「你都這麼說了，看來我只能二選一了。」
+
+他眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>塞拉芬眨著眼，笑著，用手搓著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「你對我不感興趣，就因為我是個神嗣嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「我以為你不會讓我這麼失望呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「哦，這件事算了吧， 水手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「抱歉，船長……」
+
+他耷拉著腦袋，無精打采地走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「不是！更多是因為，呃——該死！——更多是因為，我不太喜歡接下來各種各樣的事情。神嗣之類的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「你以前&lt;i&gt;有沒有&lt;/i&gt;和神嗣交往過呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「沒有……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「那就給我個機會吧，這是命令。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>他快速眨著眼睛，然後向你敬了個禮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「沒問題，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「我只是想爽一把，又不是想結婚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「所以，我們只是逢場作戲囉？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「我覺得我可以改變你的想法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「我有些地方壞了，已經修不好了。我也希望事情不是這樣，但我就是個無名小卒，也沒什麼前途可以承諾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「沒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「遵命，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「等你進屋之後，記得把鞭子給我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「把好酒都拿過來吧，畢竟這是個特別的日子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「希望你能讓我見識見識你著名的寫詩技巧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「能至少讓我試試嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「別了，船長。我們這些話最好還是打住吧……抱歉。」
+
+他皺起眉頭，向後退了兩步，然後轉過了身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「沒問題，船長！」
+
+他向你敬了個禮，轉身朝你的房間走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「我想找點樂子了，水手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「別了，船長，這種事情還是先打住吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「沒問題，船長！」
+
+他向你敬了個禮，轉身朝你的房間走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「手裡拿著朗姆酒，嘴裡哼著黃段子。每個港口都有個漂亮的姑娘或者小伙子等著我，我自己的床上還有一個。」
+
+他聳聳肩，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「無家可歸，沒錯。他們都是很多年前從瓦利亞大帝國過來的，現在變成了亡焰列島的大麻煩。」
+
+他甩甩肩膀，挺起胸膛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「怎麼了，船長？你是在吃陳年老醋嗎？」
+
+他笑了起來，快速揚了兩下眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「我……我有點沒心情，船長，很抱歉。」
+
+他撓了撓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「不過在這艘船上，我覺得你對我並沒有這樣的看法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「這時候我不太想談這個話題。要不改天吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

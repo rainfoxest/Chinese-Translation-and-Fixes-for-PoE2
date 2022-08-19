@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aloth_quest_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>213</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「提醒我一下，我們是怎麼認識對方的來著？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「啊。「總管把你在努亞堡發生的事件告訴了我。」他歪著腦袋，用銳利的目光望向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你到底在這裡做了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「俄撒斯拿走了你的一部分靈魂。我想一些記憶隨它消逝是很正常的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你我在飾金谷相遇。那是在我到達鹿林不久之後，與當地人發生……衝突期間。」他朝你緊張不安地一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你要聽這個嗎？！這麼多年了，他還是像奶媽的乳頭一樣冰冷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我當時跟你在一起，你正在尋找撒奧斯和關於你覺醒的答案。」
+
+他雙手交握，深吸了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你幫助我和我的覺醒達成了約定。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「多虧了你，我才學會讓自己的意志凌駕於伊莎彌兒之上。從那之後她再也沒困擾過我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我已經學會感激伊莎彌兒的果決了。如果不以她的方式說話。」他得意地笑起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「然後呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「但我們是在談論我……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「很高興你做得更好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>他笑了。「確實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「說回我們的鹿林之旅……」他清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我們在維德溫的遺贈中心追蹤到了撒奧斯，揪出了灰鑰社。」
+
+他皺起眉，眉心出現了一道深深的皺紋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「更為重要的是，發現了一個掩蓋眾神真實起源的千年陰謀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「在這些之後你做了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「至少我們結束了空嬰浩劫。我只希望我們能復原鹿林的所有孩子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「罪行纍纍的撒奧斯受到了應有的懲罰。這才是最重要的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「就英格維仙而言，那是個令人印象深刻的詭計。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「然而並沒有發生太大的改變。鹿林的百姓仍繼續過著不知有更強大的力量在作祟的生活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「聽了你的建議，在我們分道揚鑣後，我接過了撒奧斯的斗篷。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我們分開之後，我打算消滅灰鑰社。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>他斜眼掃視你。他突兀地頓了一下之後才接著開口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我也是。」他眉頭之間的皺紋加深了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「曾經，我可能會感到驚訝。」他露出了若有所思的表情，過了良久，他重新望向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「這個任務……比我預想的要困難。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「所以五年以來，我一直在追查灰鑰社的圈子。搜尋他們秘密活動的地點。」
+
+他皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「希望他們能洗心革面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「試圖搗毀他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「那麼進展如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「你在做正確的事情。不要忘記。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「也許應先從小事著手。比如改改那些面具。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「只要確保他們不會再犯下類似維德溫的遺贈的暴行即可。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你在浪費你的時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「等等，那便是你在這裡幹的事情？聽起來可不是個好主意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「你五年前似乎不這麼想。」他快速地衝你皺了下眉。
+
+然後他歎了口氣，用手指撓起了頭皮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「抱歉。這……比我預想的要艱難。
+
+「但這是我的責任。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>他笑了起來。「撒奧斯有許多個世代的時間去建立起灰鑰社。我開始欣賞這個優勢了。」他停下來，笑容從臉上消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「你也許五年前就這麼說過。」他快速而苦澀地衝你皺了下眉。
+
+隨後他歎了口氣，用手指撓起了頭皮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>他退後盯著你，驚訝地瞇起眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「這主意是哪來的？五年前，你——」
+
+他欲言又止，最終歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「算了。是我的責任。
+
+「這……比我預想的要艱難。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>他朝你苦笑了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我認為當初我沒完全認識到我要做的一系列決定有多大份量。
+
+「或是伴隨它們生活的負擔有多大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「對我來說，還是聽從別人的指揮更簡單一些。我父親的。撒奧斯的。
+
+「你的。」他用眼角瞥了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你的話是什麼意思？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「簡單，當然了。我直接把你帶進了神明的監獄。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我們最終還是要堅持自己的立場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>他十指交織，臉上又浮出了熟悉的焦慮神情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「在我們擊敗了撒奧斯之後，我以為搗毀他心血的最難部分在於追查灰鑰社的成員和活動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「在我們擊敗了撒奧斯之後，我以為改革灰鑰社的難關在於追查其成員和活動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「結果呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我還以為是扯下他們的頭飾呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「也許我舉個例子更容易理解。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我去了舊瓦利亞的一個村莊。一個破敗的窮鄉僻壤。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「幾個世紀前，灰鑰社出手終結了某個邪教。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「每逢滿月，村民都會用自己的血供養土壤。老幼病殘也無一例外。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「你做了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「他們心裡一定是抱有某種目的的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「你幫了他們，是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「這世界上的傻子太多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「流點兒血也沒什麼大不了的嘛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「從這開始事情就變複雜了。」他對著交叉的手指皺起了眉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「有人認為它能避開司坎。有人則認為它能換來貝拉斯對村子的恩澤。或是岡恩對莊稼的祝福。」他聳聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我以為新的領導人也許會指引他們遠離這種習俗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「村裡的牧師管理著這種習俗。陰沉的老傢伙。讓我想起了撒奧斯。」他衝你揚起了一條眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「因此我『調整』了關於他們土地所有權的契約。」他狡黠地看了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「剛巧附近的一個女伯爵——相當富有的一個——聲稱自己擁有這個村莊。及其周邊的良田。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「機智。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「我也這麼覺得。一開始。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「沒錯，但具體目的還要取決於你問誰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「所以，我給他安排了一場『意外』。」他狡黠地看了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「然後呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「像是撒奧斯的骯髒把戲。我希望你能有尊嚴地行動。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「女伯爵佔領了村莊，正如我計劃的那樣。
+
+「但她對放血儀式坐視不理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「老傢伙死了。村民都被嚇壞了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「這個習俗仍在繼續的同時，她向村民征起了稅，用以承擔她興建種植園的費用。並徵召他們中的半數人去衛戍。他把自己的肩帶邊緣紮成了一個結。用蒼白僵硬的手指緊攢著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「他們相信他的死是不祥之兆。他們把它——與其他降臨在他們頭上的災禍——歸咎於缺乏信仰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「因此他們開始每週舉行一次放血儀式。指責他們的鄰居奉獻得太少。」他的嘴唇扭曲，就像他說出的話都帶著苦味似的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「每年死一小撮人變成了每週都要死幾個。」他把自己的肩帶邊緣紮成了一個結。用蒼白僵硬的手指緊攢著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「也許你應該放手了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「你不可能預知那些。這不是你的錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「所以你現在覺得該為此負責了，是不是？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「是女伯爵選擇了給這些人帶來苦難。該受責備的是她，不是你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「如果你不怎麼瞭解這個儀式，你怎麼指望自己能阻止它？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「你試圖做正確的事，這才是最重要的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「村民早已適應了伴隨這種儀式的生活。也許早晚有一天，他們自己會改變它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「村民自己選擇這樣做。要怪只能怪他們自己，不能怪你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我必須做點什麼，不是嗎？」他睜大眼睛轉向你，目光裡飽含苦澀。
+
+他又停下來，解著肩帶上的結。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「我一直在想我還可能做出哪些不同的事情。或者我怎麼才能更好地預知。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「對此我也沒有答案。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「像這樣從錯誤中吸取教訓是個好的開始。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「別再糾結這個問題了。你會讓自己癱瘓。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「那麼至少我有伴兒了。」他凝視著地平線，似乎在整理自己的思緒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「我想是吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「我應該休息一下。這是漫長的一天，況且你已經給了我很多值得深思的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「等等。你還是沒告訴我這一切跟鑄魂師有什麼關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「那我們就晚些時候再談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「啊，那個呀。」他揉了揉太陽穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「我在尋找灰鑰社的一個古老分派。我搜集到了一些相關文獻，但——」
+
+他話說到一半，搖起了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「我想確定一下。讓我再翻翻筆記。我保證到時知無不言，言無不盡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「你當初是帶著一種使命感開始的。切莫丟了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「有沒有什麼是我能幫上忙的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「我知道。我也是這麼做的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「我要是知道就好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「我沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「重要的是你又把我們救出來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>他朝你會心一笑，但他的心思明顯在其他地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>他皺起了眉。「我不怪那些村民。我能理解他們需要有人來領導。需要信奉點什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我沒法怪那些村民。畢竟，他們也是受人擺佈。」他皺起眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「他們會放血放到暈厥的臨界點。很多時候會放過頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「在接下來的幾天裡，會有三兩個人死於失血過多。或感染。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>他皺眉蹙額。「我這麼做是出於正當的理由。結果都差不多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「這與你的筆記無關。你在質疑自己的決定了。又一次。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>他不自在地笑了。「你太瞭解我了。
+
+「但我還是得整理下思路。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「也許他有一本地址簿。可惜你燒了他的袍子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「是嗎？到頭來，村民反因我的舉動蒙受了更多苦難。」
+
+他又停下來，解著肩帶上的結。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「也許吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「等咱們離開了國王港，再好好聊一聊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「再次感謝你沒在貝尼莎和其他人面前拆穿我。」他心存感激地給了你個一閃而過的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「我不喜歡騙她們，但這樣做似乎比其他選擇更簡單。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「那好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「比解釋你跟灰鑰社的牽連還要簡單？顯而易見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「想守住謊言可絕不簡單。你應該比任何人都瞭解。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「我很驚訝你能控制伊莎彌兒這麼長時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「我們達成了某種協議。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「是啊，抨擊的時候他讓我進來，嘮叨的時候我就離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「大體上是吧。」他歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「你是不是還在想著貝尼莎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>他歎了口氣。「我知道我倆之間不可能。
+
+「但有個朋友總歸是不錯的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「也更孤獨。你似乎很關心他們，但他們卻並不真正瞭解你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「我本希望你不在貝尼莎和其他人面前拆穿我。」他責備地看著你，眼鏡和嘴巴都因為不爽而僵著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「我正在改造全艾歐拉最秘密的組織之一。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「如果那個流氓真的上了自己母親的女兒，那就不是我在譁眾取寵了。」
+
+他的表情瞬間換成了他的覺醒人格——伊莎彌兒的壞笑，稍縱即逝。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「接著說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「我記得。伊莎彌兒指控一個男子……與他自己的妹妹有染。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「啊，是。伊莎彌兒管某人叫偷妹者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「正是如此。」他咧嘴而笑，與此同時耳尖變粉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>他的笑容猶疑了一下。那一下很短暫，要不是你已經習慣了他微妙的偏轉和迴避，你甚至可能注意不到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「相信我，我可不喜歡兩面三刀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「我不知道，亞洛斯。但你如今相當擅長它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「過去五年裡，我當然沒少練習過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「這很重要嗎？你似乎不會再見到他們了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「現在終於遠離了國王港。我覺得這是一種解脫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「我無法相信你殺了他們。貝莎和其他人。」他心寒地搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>他的眼睛瞇得更緊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「我希望你能理解。」他點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「那你為什麼——」他停下來，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>他的表情溫和起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「我以為咱倆已經是朋友了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>他的表情溫和起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「你陪我渡過的難關比任何人都多。」他雙手交握，十指緊緊地打了個結。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「但過去五年發生了太多變故。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「那就告訴我啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「我接管灰鑰社可不是為了獵殺鑄魂師。我一直在努力營造更好的局面。」他攥緊了拳頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「在過去的五年裡，我一直致力於阻止這樣的過度行為。」他攥緊了拳頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「你到底在這裡做什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「淡定。我都忘了咱們是怎麼認識的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「五年過後，我想你會告訴我我是誰以及我需要什麼。」他哼了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「我正在對抗全艾歐拉最秘密的組織之一。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「對鑄魂學而言，該組織有著多災多難的歷史。
+
+「這不是能跟新朋友分享的東西。」他停了下來，轉動肩膀，就像在解一個結。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>他歎了口氣。「我想不會了。但我把他們看作朋友。這當然是有意義的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>「我想利用灰鑰社改善基斯的生活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>「它控制我們太久了。我想把基斯從中解放出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「不妨從活躍在水晶海域和沙灘上的開始下手。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>他笑了起來。「聽起來挺詩意的。但小冊子沒能提到幼龍巢穴和大海蛇。」他停下來，笑容從臉上消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「怎麼會這樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「你的話是什麼意思？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「但我們有責任給他們善意的引導，不是嗎？」他在繼續開口之前望了你一會兒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「他是個暴君。我敢肯定的是，如果那些村民擺脫了他的影響，也就擺脫了放血儀式。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「謝謝你，[Player Name]。有人願意一起分擔是一種解脫。你給了我很多值得思考的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>「靈視者。我們必須談談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「總而言之，那傢伙是個壞老頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「是啊。就像家鄉一樣。」隨著伊莎彌兒的出現，亞洛斯的表情變了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「我喜歡直言不諱的人。儘管我不怎麼贊成這個話題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「是他應得的，不是嗎？我是說這個稱號，不是說他跟妹妹滾床單應得。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「具體細節已經遺失了，但一種放血儀式的習俗流傳了下來。
+
+「一個可怕而無意義的傳統。」他做了個鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「你有一雙發現迷人小鎮的慧眼，我只能這麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「一個危險的遊戲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「無需為這群人害臊，亞洛斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「老習慣。」他的嘴角露出似笑非笑的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「我可不關心你的願望是什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「抱歉。我失手了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「你說什麼？！當伊莎彌兒發現一瓶木薯酒，想起『庫柯林的好色姑娘』裡的一句歌詞時，我倒是『濕手』過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>他陷入沉寂，臉上浮現出悲憤交加的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「我不想再糾纏這個話題了。我只想讓它能趕緊翻篇，尤其是我們還要繼續同行的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「你已經說得夠清楚了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「我以為&lt;i&gt;我們&lt;/i&gt;之間有點兒什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>他一臉錯愕地衝你眨了眨眼睛，然後開始笑了。
+
+他的笑聲裡含著幾分不確定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「我差點兒忘了你有多愛開玩笑。即使是拿我開涮。」他微笑著，看起來疲憊大於開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「恕我直言，你很少說話這麼不著調。這到底是什麼意思？」他瞇眼盯著你，試圖揣測你的意圖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「當我什麼都沒說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>「你說對了，我只是在逗你玩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>[撒謊] 「被你發現了！只是想跟你開個玩笑。哈，哈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「嗯，我想那樣最好。真是漫長的一天。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「我是說真的，亞洛斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>他一臉錯愕地衝你眨了眨眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「原諒我，但這真的有點兒突然。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「我很高興再次見到你，但已經過去五年了。我們都各自經歷了很多。」他的眼睛打量著你，就像是在測量變化的程度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「或許我們應該專注於我們面前的工作。」他的眼角皺了起來，露出再熟悉不過的焦慮神情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「哎喲……我覺得連伊希都能感覺到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「我知道關係的確立可以能擦掉額頭的汗水。」
+
+泰克胡拍了拍你的肩膀，點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「哈，是真不錯。不錯！」
+
+艾德爾在你肩胛骨之間高興地錘了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「拜託了。如果再這樣下去，會變得難以收拾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「那是聚鹿人的通病嗎？我已經不知所措了。」
+
+他撓了撓後腦勺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「這就是我跟艾德爾說話時其他人看到的畫面嗎？」裘荻不自然地清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>他有氣無力地笑了笑。「是。原諒我，但這真是漫長的一天。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>他轉身離去，用手按著太陽穴。你看不到他的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「就像觀看拖龍骨一樣……虐心。」
+
+塞拉芬做了個齜牙咧嘴的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「你陪我渡過的難關比任何人都多。」他雙手交握，十指緊緊地打了個結。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_slaver_port\14_cv_aeldys_spy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「啊，是你！喲，老朋友！居然用這種方式碰到你這個呆子。」
+
+你看到一個商人被按倒在零亂的老鼠窩裡，他的皮膚被陽光曬得發亮，稻草般的頭髮鬆鬆散散地束在一起，他慌亂地揮舞著雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「天殺的魔鬼，我說看這裡！你是聾了還是傻了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你好，老朋友。聽到我口袋裡錢幣的叮噹聲嗎？」
+
+你看到一個商人被按倒在零亂的老鼠窩裡，他的皮膚被陽光曬得發亮，稻草般的頭髮鬆鬆散散地束在一起，他慌亂地揮舞著雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「現在，如果我是個好賭的女人，我會說是艾戴斯派你來幫助我為這些旅行者提供裝備的。沒錯吧？」
+
+那個商人悄悄走近，狡黠地掃視四周，然後繼續低聲說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我駐紮在這裡的時候，偵察到一些非法活動的跡象。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「但蓄奴在亡焰列島是合法的，不是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我們能做些什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「奴役亡焰列島的人是非法的。這是從其他地方販賣來的奴隸，不是非法的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我們可以先曝光鉤刺島的非法貿易。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「如果我們可以在他們被送出亡焰列島前就釋放出被拘留的當地人，那非法貿易就會曝光，從而使整個貿易疲軟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「如果你願意幫忙的話，請記住我的船長會親自補償你。」
+
+商人把她長袍的領子拉向一邊，從敞開的口子裡露出了青銅色閃閃發光的金陽幣——上面印刻著艾戴斯船長的徽章。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「此外，我們還能戳穿弗蘭特和奴隸販子的詭計，不管他們有什麼花招。」
+
+她卑鄙地笑了笑，使她臉上的傷疤都皺了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「我會盡力的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「讓我考慮考慮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「艾戴斯為什麼要關心這件事情？向她發誓效忠的皇族海盜都不會被奴役，是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「艾戴斯不能容忍這些奴隸販子繼續存在——繼續存在於她的海域。」斯弗爾用大拇指摸了摸蜿蜒到太陽穴的皮膚褶子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「弗蘭特派我來幫助奴隸販子，而不是來削弱他們的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「要做什麼，先生？」</DefaultText>
+      <FemaleText>「要做什麼，女士？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你要找到當地人——還有那些非法存貨——它們就藏在堡壘深處看不到的地方。」
+
+「進去裡面的路有很多條，但大多數都戒備森嚴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我不覺得有什麼好擔心的。你只是對你的商品感到好奇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「基斯的非法貿易在亡焰列島是合法的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「這就是我需要知道的一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>斯弗爾將嘴唇緊繃成一條線，撓了撓嘴角的那道疤痕的邊緣，沉思著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我想去看看你的存貨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「關於這個地方，有什麼可以告訴我的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「你是說，除了鉤刺島成為亡焰列島奴隸貿易之都外，你還想知道一點其他消息嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「亡焰列島內對奴隸的需求量大嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「是的，這是最有利可圖的生意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[盡量忽略她。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[瞥一眼她的方向。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[給她一個下流的手勢，然後你繼續走。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[轉過身去瞪著她。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「是的，我現在明白艾戴斯為什麼喜歡你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「你是說『艾戴斯』？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[走開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「你一定從基斯的非法交易中賺得盆滿缽滿吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>斯弗爾在她身邊緊握拳頭。她怒視著你，傷疤處的皮膚變得沒有血色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「水兵，我不制定法律。」她循著蜿蜒在右臉頰上的傷疤撫摸著，手指張開好像在尋找著什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「你是個廢奴主義者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「注意你在公開場合所說的話——尤其是那些評論在鉤刺島賺黑心錢的商人們的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[降低你的聲音。]「我只想說，找一個盟友來支援你的工作才能給你創造最大的利益。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[提高你的聲音。]「這一定是件沒面子的事，如果這個組織的老闆知道了你的……！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「得了吧，商品會賣出去的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「可惜啊，恕我不懂你的意思。要麼你就放手吧，免得我們兩個都痛苦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「別犯錯，朋友。」謹慎地四周環顧一番後，斯弗爾靠得更近一些，嘀咕著她接下來的話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「大師不讓買家進入他的地牢是有原因的。
+
+「如果有人偷偷溜進去，等他到了堡壘下的某個洞穴後，你就明白原因了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「現在，我知道是弗蘭特派你來的。」她深吸了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>商人再次說話時，她的聲音離你的右側更近了幾步，聽起來像一種尖厲的嘶嘶聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你想怎樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>看到你的反應後，商人仰天大笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>她朝你會心一笑，又恢復到戒備的狀態，經過一陣死寂後，她開始講話。
+
+離得這麼近，你甚至能看清她鼻子和臉頰上的雀斑是怎麼排布的。她把頭轉向一側，你清楚地看到了從她的右太陽穴向下蜿蜒到唇角的那條皺巴巴的傷痕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我嗎？我現在要說什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「來看看吧。你找不到比鉤刺島更大的，能滿足你的勞動力需求的市場了——也找不到比我的更好的規避商品了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「原以為這可能會引起你的注意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「請一定要叫我斯弗爾。」她猛地伸出一隻佈滿老繭的手來握了握。
+
+離得這麼近，你能看到她鼻子和臉頰上的雀斑是怎麼排布的。她把頭轉向一側，你清楚地看到了從她的右太陽穴向下蜿蜒到唇角的那條皺巴巴的傷痕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「那麼現在，你必須叫我斯弗爾。認識你很高興，先生。」
+
+她猛地伸出一隻佈滿老繭的手來握了握。</DefaultText>
+      <FemaleText>「那麼現在，你必須叫我斯弗爾。認識你很高興，女士。」
+
+她猛地伸出一隻佈滿老繭的手來握了握。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「什麼是規避商品？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「開鎖器、噪音器具、鑿子和鐵鍬、地圖、指南針、壓縮餅、偵探眼鏡、隱形藥水。」
+
+她伸出手指，逐個介紹這些商品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「你懂的，就是那些最常見、最基礎、最需要的生存裝備。」
+
+她甜甜的笑著，一雙大大的眼睛無邪地閃爍著光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「為了更加勇往直前的旅行者…」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「買家從遠方航行而來，就是為了競拍…這裡的特殊奴隸。所以，你看到我現在也在兜售我的特殊商品。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「哦，沒錯。如你所願，朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「什麼類型的特殊奴隸？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「你在別處找不到的類型。請裡面看看，我敢打賭你會理解我的意思。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我只做這種生意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「一個見過但記不住名字的人？」她語無倫次，傷疤上的斑點更加沒有血色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「大多數奴隸都是從別處運來的。從離亡焰列島很遠的島嶼上。但它們在這裡出售。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「而且他們會呆在這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「糟了！你是那種眼裡容不下沙子的人，是嗎？低調點！」
+
+她在空中壓了壓雙手，示意不要大聲說話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>當她收回手時，下巴緊繃著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「你是那個聯繫人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「是的，是我。」她用手摩挲著參差不平的疤稜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「但還有其他人——在皇族海盜裡勢力比較大的船長會支援你，你應該阻止奴隸販子，而不是助紂為虐。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「奴隸本不應該成為奴隸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「什麼樣的非法活動？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我們不能讓這個繼續下去。」她用手摀住了嘴。
+
+然後，為了表明決心，她悄悄走近了些，繼續用更低沉的語調講話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「歡迎所有被你解救的奴隸與我們一起航行。」她輕輕拍了下她的下巴，表示肯定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「因為皇族海盜中還有一些殘黨餘孽，我們的想法可能不同。相比他們柔情入微的品味，我們就顯得太簡單粗暴了。但我們把自由和忠誠看得比什麼都重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「弗蘭特可能會焚燬和沉沒我在意的一切東西。他的陰謀幫不了皇族海盜。這是為了他的利益，為了他自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「通過散佈在海岸邊的洞穴偷偷潛入，說不定能撞個好綵頭。
+
+「其中一個通向堡壘。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「當然，一定要悄悄的做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「為了更加勇往直前的旅行者…」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「我已經為你解救的奴隸準備好了一艘小艇。我們要快點到舷窗堡壘。」
+
+她眨了眨眼，腦子裡浮現著危險逃跑的情景。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「然後呢？除了昂德拉還有誰知道。或許我會在襯艙城再見到你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「喂！在這！」
+
+你看到一個商人被按倒在零亂的老鼠窩裡，他的皮膚被陽光曬得發亮，稻草般的頭髮鬆鬆散散地束在一起，他慌亂地揮舞著雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「有只小鳥告訴我庫瓦被人給宰了。他這種殘忍的混蛋真是咎由自取。
+
+「所以我真是要謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我的船長要我來這裡把所有還能動的奴隸招回去。當然是在我幫助他們逃跑之後。儘管你是無心之中幫助了我們，不過我想她肯定還是會讚揚你的。
+
+「如果你想找個好盟友的話，就去見見舷窗堡壘的艾戴斯吧。」
+
+她眨眨眼，臉上那道醜陋的疤痕也隨之皺起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「那我就走了。你幫我弄出的動靜足夠我撬開幾扇牢房門了。」她鞠躬致意，臉上從太陽穴到嘴邊的疤痕擰成了一道笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

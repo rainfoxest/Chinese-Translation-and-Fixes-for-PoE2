@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_principi_boss_ghostship</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「既然排除叛徒這件倒霉事已經解決了，我們可以繼續這一宏偉事業了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你拿到那把劍了。太好了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「大帆船控制周圍天氣的能力可以用來平靜大部分危險的風暴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我會處理好的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「聽起來很危險。讓我考慮下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「這不是猶豫的時候，朋友。」</DefaultText>
+      <FemaleText>「這不是猶豫的時候，朋友。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「考慮下我們搜集到的訊息，我們從艾戴斯那裡搜集的訊息，我必須要你從耶蘇亞那裡收回那把劍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我必須在出海之前完成我們的計劃。我會帶著大帆船來見你的。
+
+「你需要什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我認為碎礁對而我們而言可能是一筆財富。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[離開]「算了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你什麼意思？要我招募不死族進皇族海盜嗎？」他因厭惡這個想法而抿起了嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「門茲扎戈在離開利文的船員隊伍之前曾是她的大副。如果他有船的話，會借給我們去烏凱佐的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「那麼，作為交換，這個門茲扎戈到底有什麼要求？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「他需要穩定的消耗精粹補給。裝運數批光源魂珀應該足以。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我會盯著這件事完成的。」關於這點，我向你保證。」然後他隨便地點了下頭，就走開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「打擾了，但我不明白不死族的存在對我的理想之國有什麼好處。或許這個選擇我們可以在新瓦利亞建立並穩定後再討論。
+
+「到那時……」他聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「船長。」他點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我是漂浮吊死鬼號的船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「輝煌了，船長。現在沒什麼能阻止我們登上榮耀之峰了，甚至連神靈都不能。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「皇族海盜已準備好烏凱佐遠航之旅了。我出錢邀請你加入我在昂德拉之臼附近的船隊。」
+
+分開時他僵硬地向你鞠了一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你計劃怎麼抓捕利文，然後指揮漂浮吊死鬼號呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我的計劃不是抓捕利文而是去跟她談判。畢竟，她是忠於達寇茲的聖武士。我相信我們是可以達成協議的，如果我跟她談的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你們對烏凱佐有什麼打算？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「舉個例子，我們將不讓其他人染指這個地方。」我們會在那兒定居，掠奪那裡無盡的資源並且享受有一個稱為家的地方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「皇族海盜的未來會變成什麼樣呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「榮華富貴，過去完全不能相比。
+
+」當我們統治烏凱佐時，我們將繁榮興旺起來。沒有人能有辦法威脅我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我希望使用方菲羅斯號和一小支船隊出海到烏凱佐。一旦到了那裡，我們就可以判斷是哪種力量一直在引發風暴了。我們會將其消滅並著手建立新的瓦利亞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「無論如何，我必須召喚船隊。希望你能體諒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「把劍帶到海上並使用達寇茨誓言引出利文。
+
+「希望你們成功獲得這艘船，皇族海盜將在昂德拉之臼恭迎大駕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「問題是……他吃人。越新鮮越好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「如此，仍然活著較為理想，對吧？」他皺起鼻子但沒有再就這個話題說什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「很好！由你坐鎮，就不會出什麼錯了。我等著你成功的消息，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「當然，我們必須使用噬魂者之劍和達寇茨誓言將她引出來以便我可以……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「關於如何在海上召喚利文的大帆船，艾戴斯知道了什麼方法嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我給你個提示：關於一條達寇茨誓言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「握著噬魂者之劍劍吟唱達寇茨誓言會將利文引到附近。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我知道這些話，因為聽你說時已經刻在我的心裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「有許多達寇茨誓言，我向你保證。但關於利文以及她對皇室的責任，相信我知道你要吟唱的那條。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「一些話語和一把劍，僅此而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「你的意思是利文承諾保護的那把劍？那把她以生命起誓的達寇茨之劍？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我接受你的忠誠，就在這裡，在委員會面前。如果沒有任何其他情況，我們會盡享盛宴，慶祝到醉生夢死。但現在，我們必須繼續更迫切的事了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「尤其是我早就應該知道的。不過現在重要的是我們從利文手上拿到了將漂浮吊死鬼號變回方菲羅斯號需要的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>&lt;link="stringtooltip://tooltips/2"&gt;"Io guri di prodeggere mat Paladina med Darcozzi i ouer iusti regli, mea Orelia Darcozzis eri.
+
+"Guri chue liuretto bon aimo i ba fetta, eppore peri chue mao Dicenas fiaces mi converande."&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我幫助了你在鉤刺島的盟友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「你對我的事業有相當大的幫助，船長。請允許我進一步鞏固我們的合作關係。我相信你會發現這非常合你的意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「當務之急是，我們要確保有一種方法來解決掉烏凱佐的問題。因此，我們需要利文的漂浮吊死鬼號，朋友。」</DefaultText>
+      <FemaleText>「當務之急是，我們要確保有一種方法來解決點烏凱佐的問題。因此，我們需要利文的漂浮吊死鬼號，朋友。」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>地獄火彈幕</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4803</ID>
+      <DefaultText>磁力過載</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4804</ID>
+      <DefaultText>地獄火之鐵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4821</ID>
+      <DefaultText>充能地獄風暴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4822</ID>
+      <DefaultText>野蠻順劈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4840</ID>
+      <DefaultText>堅守陣地</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4841</ID>
+      <DefaultText>魔符突擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4842</ID>
+      <DefaultText>協同突擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4843</ID>
+      <DefaultText>無盡突擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4844</ID>
+      <DefaultText>免傷之球</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4845</ID>
+      <DefaultText>最後伎倆</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4855</ID>
+      <DefaultText>充能核心</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4856</ID>
+      <DefaultText>使用者給核心充能，使其變得不穩定但獲得力量等級加成。啟動之後，經過短暫的延遲，使用者將爆炸，對附近所有敵人造成火焰傷害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4859</ID>
+      <DefaultText>秘法災難</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4860</ID>
+      <DefaultText>法師迅速翻閱魔典，對目標施展一系列隨機法術。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4894</ID>
+      <DefaultText>地獄風暴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4941</ID>
+      <DefaultText>戰術家</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4942</ID>
+      <DefaultText>在激戰正酣之際也能運用智慧的人被稱為「戰術家」。這些戰士將所有戰鬥形式視為棋局中的棋子。戰術家在結構化的軍隊裡往往擔任指揮官一職，他們將聰明才智作為自己的武器，不斷在實踐中精進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4943</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+成功打斷敵人行動時恢復紀律。
+
+獲得&lt;link="gamedata://b1bf5832-b633-49fa-8ea2-b74ea720af0a"&gt;卓越戰術家&lt;/link&gt;。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+攻擊未受到隊友威脅的目標時，穿透和精準降低。
+
+獲得&lt;link="gamedata://b6cd697b-176e-4fc3-b538-ae80a78d1ef3"&gt;戰術窘境&lt;/link&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4944</ID>
+      <DefaultText>戰術窘境</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4945</ID>
+      <DefaultText>被夾擊時，陷入動搖和困惑狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4946</ID>
+      <DefaultText>卓越戰術家</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4947</ID>
+      <DefaultText>所有敵人被夾擊且無隊友被夾擊時，獲得才智過人增益狀態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4949</ID>
+      <DefaultText>怒塑者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4950</ID>
+      <DefaultText>過去的創傷是怒塑者的重擔。當那些情感莫名地湧現出來時，他們就會陷入痛苦。這些人數量稀少，能將自身的情感具象化，讓世界也感受到他們的憤怒、恐懼或瘋狂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4951</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;力量等級1時
+獲得&lt;link="gamedata://17093a31-44c6-45e4-ac71-78463307d496"&gt;塑造結界：狂暴&lt;/link&gt;。
+力量等級4時
+獲得&lt;link="gamedata://f45a289b-c363-4281-aa56-e4a2d81d0ccd"&gt;塑造結界：恐懼&lt;/link&gt;。
+力量等級8時
+獲得&lt;link="gamedata://bfa3f85c-ea51-466c-912b-56d43304bc63"&gt;塑造結界：鮮血&lt;/link&gt;。
+
+獲得對靈體的精準加成。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+如果一個結界被毀，立刻受到真實傷害以及力量等級懲罰，直至戰鬥結束。
+
+意志下降。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4952</ID>
+      <DefaultText>塑造結界：狂暴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4953</ID>
+      <DefaultText>在戰場上塑造一個能激起隊友憤怒的結界，只要圖騰存在，隊友就獲得行動速度加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4954</ID>
+      <DefaultText>狂暴結界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4955</ID>
+      <DefaultText>結界被摧毀</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4956</ID>
+      <DefaultText>圖騰之力</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4957</ID>
+      <DefaultText>塑造結界：鮮血</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4958</ID>
+      <DefaultText>在戰場上塑造一個激起隊友嗜殺慾望的結界，使隊友根據自己造成的傷害獲得生命值。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4959</ID>
+      <DefaultText>鮮血結界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4960</ID>
+      <DefaultText>恐懼結界</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4961</ID>
+      <DefaultText>在戰場上塑造一個製造恐怖面容的結界，只要圖騰存在，就能恐懼附近敵人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4962</ID>
+      <DefaultText>塑造結界：恐懼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4963</ID>
+      <DefaultText>雅賊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4964</ID>
+      <DefaultText>這些遊蕩者狡詐而有風度，運用聰明才智和外交手腕達到自己的目的。他們的行動往往只考慮自己的利益，通常會受委託混進上流社會進行盜竊、揭露醜聞，偶爾甚至會專業地執行刺殺任務。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4965</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+對被魅惑的目標的命中和暴擊大幅提高。
+
+獲得&lt;link="gamedata://b75184f8-63d7-44e3-901d-9c9205ad538c"&gt;迷人無賴&lt;/link&gt;戰技。
+
+未受到減益狀態影響時，受到攻擊時可使命中變為擦傷。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法交戰。
+
+獲得&lt;link="gamedata://26890e79-a660-4593-ae57-08607d5cf296"&gt;懦弱&lt;/link&gt;戰技。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4966</ID>
+      <DefaultText>懦弱</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4967</ID>
+      <DefaultText>如果附近沒有隊友，則遭受精準和防禦懲罰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4968</ID>
+      <DefaultText>迷人無賴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4969</ID>
+      <DefaultText>說服基斯目標背叛自己的隊友並加入你的陣營。如果遊蕩者的等級高於目標，目標被魅惑時將獲得肉體增益狀態，等級越高，增益狀態越強。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4970</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+對受影響目標造成傷害中的一部分轉化為治療量。
+
+獲得&lt;link="gamedata://ec3c9d53-7a1b-404d-a037-ff133f1e17a0"&gt;絞殺&lt;/link&gt;戰技。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4971</ID>
+      <DefaultText>供奉娥狄卡的鐵絞喉聖武士團令人膽寒。他們與有權有勢者和商業利益團體合作，追捕那些違反合同的人，尤其是當合同簽署者是流放女王的女祭司時。他們成立於聚鹿帝國，活躍於整個區域，並將勢力發展到鹿林和瓦利亞共和國。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4972</ID>
+      <DefaultText>秘法弓箭手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4973</ID>
+      <DefaultText>極少數人既擁有肉體能力上的天賦，又擁有更依靠頭腦的秘法才華。這些少數人就包括秘法弓箭手，他們運用自己與生俱來的魔法天賦將法術暫時注入到箭矢之中。這些本領高強者往往出現在旅行演出團體中和箭術大賽上，有些人仰慕他們，而有些人則厭惡他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4974</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+灌注法術效果的精準根據秘法技能提高。
+力量等級1時
+獲得&lt;link="gamedata://710a9a69-d47b-45e7-9134-432d13e2bcc0"&gt;灌註：飛彈。&lt;/link&gt;。
+力量等級3時
+獲得&lt;link="gamedata://87004a21-bb5d-48b6-b75a-6ca2fc5d5f2e"&gt;灌註：蛛網。&lt;/link&gt;
+力量等級5時
+獲得&lt;link="gamedata://3b4b619b-8d35-4ee2-b19c-d8155faf9f07"&gt;灌註：火球術&lt;/link&gt;。
+力量等級7時
+獲得&lt;link="gamedata://76d00207-79d6-425b-81ba-401a7c0ef494"&gt;灌註：艾歐拉&lt;/link&gt;。
+力量等級9時
+獲得&lt;link="gamedata://e8b4e221-e29b-4758-91c7-6d8f121d7c8b"&gt;灌註：死亡&lt;/link&gt;。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+不擁有以下特質的攻擊遭受精準懲罰：灌注、元素、火焰、寒霜、酸液、電擊和法術。
+
+生命值上限降低。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4975</ID>
+      <DefaultText>灌註：飛彈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4976</ID>
+      <DefaultText>在你遠程武器的&lt;xg&gt;彈藥&lt;/xg&gt;裡暫時存儲一個法術，之後發動主要攻擊，在命中同時釋放該魔法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4977</ID>
+      <DefaultText>（灌註：飛彈）——存儲法術&lt;link="gamedata://d8c72c57-398e-4d66-818e-11124fe01494"&gt;靡奧塔次級飛彈術&lt;/link&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4978</ID>
+      <DefaultText>灌註：蛛網</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4979</ID>
+      <DefaultText>（灌註：蛛網）——存儲法術&lt;link="gamedata://a4b94f17-90fd-4a56-9aa5-d1beb2937821"&gt;蛛網術&lt;/link&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4980</ID>
+      <DefaultText>灌註：火球術</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4981</ID>
+      <DefaultText>（灌註：火球術）——存儲法術&lt;link="gamedata://04ece2da-d1a8-4627-a48d-2fa6b2549583"&gt;火球術&lt;/link&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4982</ID>
+      <DefaultText>灌註：艾歐拉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4983</ID>
+      <DefaultText>（灌註：艾歐拉）——存儲法術&lt;link="gamedata://0ae68702-a844-45bd-a7e5-0726a1a05194"&gt;艾歐拉引力術&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4984</ID>
+      <DefaultText>灌註：死亡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4985</ID>
+      <DefaultText>（灌註：&lt;xg&gt;死亡&lt;/xg&gt;）——存儲法術&lt;link="gamedata://dbb1f8c8-0977-4dd0-aadd-c29f75120670"&gt;死亡之環&lt;/link&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4986</ID>
+      <DefaultText>禁忌之拳</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4987</ID>
+      <DefaultText>這些武僧遵循源自黑暗過去的神秘教義，是少數被授予禁忌技巧（或承受其詛咒）的人。他們的高強武藝據說能腐蝕練習者的靈魂。這些武僧相信世界上可怕的重大事件給他們使用這種武藝提供了正當的理由。他們遊歷艾歐拉各地，維持著自身靈魂純淨性和衝突必要性之間的平衡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4988</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+負面效果消失時獲得苦痛和生命值。
+
+獲得&lt;link="gamedata://0f99851c-d970-4661-9d8b-a394e3951c3d"&gt;禁忌之拳&lt;/link&gt;戰技。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+受到傷害時不再能獲得苦痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4989</ID>
+      <DefaultText>發動禁忌技巧，投射靈魂的一部分，產生強力衝擊波。被命中的目標將被打斷且陷入無力狀態。如果武僧的靈魂被詛咒，則此效果的傷害大幅提高。
+
+每次使用，武僧的靈魂會被詛咒一小段時間，增加苦痛消耗和禁忌之拳的傷害，並延長一切現有詛咒的持續時間。武僧靈魂承受的每個詛咒都會持續造成傷害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4990</ID>
+      <DefaultText>禁忌詛咒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4993</ID>
+      <DefaultText>（禁忌之拳）——當負面效果消失時獲得苦痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4994</ID>
+      <DefaultText>咆哮者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4995</ID>
+      <DefaultText>咆哮者往往出現在飽經風霜的團體裡，尤其是那些最近遭遇不幸的團體。他們的故事更像是一系列凌亂的胡言亂語，而非有條理的敘述。他們的名字源於罕見情況下可怕魔法的猛烈爆發。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4996</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+禱歌根據持有樂節的數量賦予暫時的力量等級加成（並從中獲益）。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+禱歌消耗所有剩餘樂節。
+
+樂節半徑縮小。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4997</ID>
+      <DefaultText>流放女王的牧師們在小鎮和城市中心擔任律師和法官，以此表達他們的信仰。他們中的最傑出者在皇宮裡擔任顧問。他們在聚鹿帝國裡尤為重要，因為商業合同需要他們簽署。娥狄卡的信徒往往出現在上流社會中，但渴望已消失的過去的持傳統觀念將在她的宗教信仰中找到自己的一席之地。「當娥狄卡奪回她的王座時」是她信徒的一句俗語，指的是社會再度變得井然有序且她成為眾神合法統治者的美好未來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4998</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+到達新力量等級時自動習得以下牧師法術：
+1.&lt;link="gamedata://6886f71a-3f91-4598-9ded-e6a27f76aac1"&gt;交戰令狀&lt;/link&gt;
+2.靈武術
+3.&lt;link="gamedata://bc919a2c-54e1-41fc-9a6c-5f69a7827211"&gt;消耗令狀&lt;/link&gt;
+4.神威術
+5.&lt;link="gamedata://e2874808-4832-4210-8509-de912b940b0e"&gt;戰爭令狀&lt;/link&gt;
+6.聖火之柱
+7.&lt;link="gamedata://4bfb191a-2f1c-400d-98ff-67ca2b606a02"&gt;術法令狀&lt;/link&gt;
+8.福禍之手
+9.&lt;link="gamedata://8d941565-acc3-4cd1-9c63-7904e4fac905"&gt;修補令狀&lt;/link&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5000</ID>
+      <DefaultText>借神之口下令一片區域內所有目標禁止交戰，使其踉蹌且不准其以任何方式進行交戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5001</ID>
+      <DefaultText>借神之口下令一片區域內所有目標禁止使用消耗品，使其噁心且不准其使用藥水或卷軸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5002</ID>
+      <DefaultText>借神之口下令一片區域內所有目標禁止戰鬥，使其動搖並不准其以任何方式使用非法術的技能。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5003</ID>
+      <DefaultText>借神之口下令一片區域內所有目標禁止施法，使其困惑且不准其以任何方式施展法術。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5004</ID>
+      <DefaultText>借神之口下令一片區域內所有目標禁止恢復，使其無力且不准其以任何方式獲得治療。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5005</ID>
+      <DefaultText>心靈術士</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5006</ID>
+      <DefaultText>心靈術士極其少見，他們一開始往往是年輕浪子，後來慢慢領會連最睿智學者也無法理解的秘密。他們的力量需要高強度冥想，但能讓他們操控他人的心智或用難以置信的力量移動物體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5007</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+獲得&lt;link="gamedata://cadd44b6-1499-4b09-8c42-dd483bb48b6f"&gt;靈魂心智&lt;/link&gt;被動戰技。
+
+獲得&lt;link="gamedata://4c07ccd0-1907-4490-9165-98b83196097f"&gt;念力爆發&lt;/link&gt;戰技。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+失去&lt;link="gamedata://f057dd2e-953f-442a-abad-fc34bfa39b26"&gt;靈魂之鞭&lt;/link&gt;戰技。
+
+受到傷害會使靈魂心智暫時失效。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5008</ID>
+      <DefaultText>靈魂心智</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5009</ID>
+      <DefaultText>譯靈使不受干擾地全神貫注時，其思維變得敏銳，使其能運用隱藏的力量被動產生集中值。不過，如果譯靈使受到攻擊傷害，此效果暫時失效。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5010</ID>
+      <DefaultText>念力爆發</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5011</ID>
+      <DefaultText>引導目標心智中的心靈能量爆發，打斷他們並擊退附近的所有目標。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5012</ID>
+      <DefaultText>血法師</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5013</ID>
+      <DefaultText>血法師堅信鮮血是靈魂之力的燃料，他們為了掌握魔法，走上的是一條痛苦和自我毀滅之路。儘管聲譽好的鑄魂師完全不接受血法師的信仰，但少數目睹過血魔法的人無法否認這種無謂的自我傷害確實可以引發難以置信且往往非常可怕的魔法事件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5014</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+獲得&lt;link="gamedata://9d3e2b8d-1fdd-496f-acc1-51d6d3836e59"&gt;血祭&lt;/link&gt;戰技。
+
+獲得被動生命再生。
+
+&lt;b&gt;懲罰&lt;/b&gt;
+無法使用強效。
+
+所有對重傷攻擊者的防禦降低。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5015</ID>
+      <DefaultText>血祭</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5016</ID>
+      <DefaultText>在其他人辦不到的情況下，利用你自己的生命力強化你的魔法。受到不定量的真實傷害，恢復與受到傷害相等或等於其一定百分比的法術等級。
+
+使用後，法師的法術將獲得力量等級加成，持續一小段時間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5017</ID>
+      <DefaultText>古代之靈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5018</ID>
+      <DefaultText>並非所有遠古之靈在外形上顯得值得尊重，不過其中不少人已經在艾歐拉活了好幾百年。這些伽拉溫的狂熱信徒擁有原始的本性，往往隱居在叢林和極端環境之中，趕走旅行者並施展充滿野性的法術。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5019</ID>
+      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
+野獸和植物法術獲得力量等級加成。
+
+到達新力量等級時自動習得以下德魯伊法術：
+1.&lt;link="gamedata://48d74cf1-89b9-4e26-8c6a-bc7e5f522890"&gt;召喚幼菌怪&lt;/link&gt;
+2.&lt;link="gamedata://c1592be9-f39e-4e5d-9609-435c6bcc59db"&gt;動物定身&lt;/link&gt;
+3.&lt;link="gamedata://f0e6cfe6-e68b-4ce2-9142-be79d4f776bd"&gt;野性生長&lt;/link&gt;
+4.&lt;link="gamedata://794774fa-234a-4358-8746-195eefdbd76b"&gt;樹妖之形&lt;/link&gt;
+5.&lt;link="gamedata://9fa747f0-d845-4198-aee9-a84a42e9d4c5"&gt;荊牆術&lt;/link&gt;
+6.&lt;link="gamedata://13c453a0-d369-4f4c-8ccc-f2214d94a5b1"&gt;毒花葬&lt;/link&gt;
+7.&lt;link="gamedata://71c248be-5f7a-4e6c-a69d-fe6bc7e08fd6"&gt;原生召喚&lt;/link&gt;
+8.&lt;link="gamedata://a944cbbd-408d-4c1b-9123-9f87536fd537"&gt;焰鹿&lt;/link&gt;
+9.&lt;link="gamedata://050aeb12-6903-466d-a296-8e107a8cbc76"&gt;伽拉溫的化身&lt;/link&gt;
+
+&lt;b&gt;懲罰&lt;/b&gt;
+對護罩穿刺類攻擊的防禦降低。
+
+受到魂軀造成的傷害提高。
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5021</ID>
+      <DefaultText>將兩個幼菌怪召喚到戰場上協助德魯伊作戰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5022</ID>
+      <DefaultText>召喚幼菌怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5023</ID>
+      <DefaultText>野性生長</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5024</ID>
+      <DefaultText>給一頭召喚出來的野獸或原生物注入自然能量，使其獲得身強體壯增益狀態並增大其體型。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

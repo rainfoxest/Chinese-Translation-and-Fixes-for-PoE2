@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_wizard_orb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一個球體漂浮在你面前，在自身魔力的作用下晃動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>紅寶石般的表面和玻璃一樣光滑油亮，內部強大的秘法光環照亮了整個球體。
+
+你能感覺到它內部澎湃的能量。粉碎寶珠能釋放這股能量，但你無法確定會產生怎樣的後果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[摧毀寶珠。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你擊打玻璃狀的表面。裂痕在表面不協調地擴散著。
+
+突然間，寶珠碎裂，其中的能量爆發而出，放射出耀眼的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>寶珠微弱的光芒忽明忽暗，能量越來越弱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「朋友，你敢碰那玩意兒的話，我就把你的腦袋像爛葫蘆一樣劈開。」</DefaultText>
+      <FemaleText>「朋友，你敢碰那玩意兒的話，我就把你的腦袋像爛葫蘆一樣劈開。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[伸手觸摸寶珠。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你沒被他的話嚇到，伸手去摸這個珵亮的球體。你的手指剛要接觸到表面，門扎格就把他的權杖朝你的腦袋猛甩過來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我已經警告過你了。現在你除了下地獄，什麼獎勵也得不到。祝你平安，葫蘆頭。」
+
+「代我向眾神問好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_campsite_xaurips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>111</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>從前方的山谷吹來的沙漠之風在你耳邊沙沙作響。時不時的突然裂開一個縫然後冒出來，這讓你想起在熱鍋上的雞蛋和干灌木叢裡的火。隨之而來的還有一陣陣低吼，從你的身後傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[小心翼翼地繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[仔細聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>那聲音漸漸分解成了有節奏的嗒嗒聲，週期性的、緩慢的上升和下降。那聲音聽起來像是齊聲唱歌的聲音——不是基斯的聲音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>你小心翼翼地進入沙漠峽谷，在高處石頭投下的陰影裡穿行。
+
+在你的前方，一隊蜥人在歌唱，搖晃著他們的短矛，兩隻小細腿不住的前後跳躍。在他們中間有一隻通體黑色、外皮堅韌如革的亞龍。在那個生物撕扯腳下那只死野豬的時候，它的雙翼高高揚起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[趁他們分心偷偷靠近。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>你輕輕的從一塊石頭穿梭到另一塊石頭上，在不被那個生物發現的情況下進入了峽谷......</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>當你向前走的時候，你的腳踩上了一些疏鬆的砂岩，一些小卵石在岩石上跳來跳去。
+
+那些魔物同時抬頭向上看，他們亮晶晶的眼睛一齊注視著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>當你向前走的時候，[Specified 0]的腳踩上了一些疏鬆的砂岩，一些小卵石在岩石上跳來跳去。
+
+那些魔物同時抬頭向上看，他們亮晶晶的眼睛一齊注視著你們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>在涅克塔卡的西邊，平原綿延起伏延伸向群山。帶有鮮艷花朵的尖刺植物點綴著翠綠的高草。這如畫的風景中散落著幾棵大樹，寬大的樹冠像遮陽傘一樣在地上投出大片陰影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[偷偷靠近觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>你悄悄穿過灌木叢，眼觀八方警惕未知的威脅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[揮舞武器大聲叫喊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>[離開]「我走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>蜥人默默的看著你遠去。當你走遠之後，他們又開始聚在一起交談。有些人回去繼續玩遊戲，其他人則回到岩石外圍開始放哨。
+
+你將那些怪物遠遠甩在身後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>在如此近的地方突然出現威脅，蜥人都睜大了眼，互相推擠著彼此，小聲嘰嘰喳喳的交談，作勢想要後退。
+
+一夥人突然出現，蜥人拋掉了他們的武器逃進了叢林裡。
+
+你將他們丟棄的物品都收集起來，回身繼續你的旅途。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>你向著蜥人衝鋒的時候他們驚聲尖叫。帶著他們的武器四散奔逃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[逃跑。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>你保持隱秘，逃離了那些蜥人。地上的草抽打你的雙腿，植物上的刺撕裂你的皮膚，不過你為了避開那些魔物......生怕他們過來追你。
+
+你調整了一下呼吸，繼續上路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>你保持隱秘，逃離那些蜥人......突然你的腿被荊棘絆住，一下摔倒在地上，面部著地。看到你跌入荊棘叢，蜥人開心的尖聲叫著。
+
+他們舉起武器向前走來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>你保持隱秘，逃離那些蜥人......突然聽到[Specified 3]一頭撞進左邊的灌木叢。你瞥了一眼，看到你的同伴正在一堆外形可怕的荊棘中掙扎。
+
+那些蜥人見狀開心的喳喳叫。他們舉起武器，向前走來......</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[派遣伊希薩去偵查。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[搜尋其他意識的存在。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>麥婭看著你點了點頭，舉起了一隻手臂。伊希薩抖動翅膀，極速衝上了天空，很快就成了一顆黑點，在你頭頂盤旋。
+
+幾分鐘後他又回來了，停在麥婭的手臂上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「有一隻亞龍還有幾個蜥人。如果小心點的話可以幹掉他們。
+
+「寶貝你真乖。」
+
+麥婭從包裡拿出一些肉丟給伊希薩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[Specified 0]輕輕閉上眼睛放慢了呼吸。譯靈使的能力在向外發散之前，探索了一下你的靈魂邊緣，讓你感到輕微的刺痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「嘿，船長。前方大約有三到五個意識。其中有一個真他媽的大，也比其他人更加飢餓。」
+
+塞拉芬眉頭緊皺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「沒有十足的把握，不過我感覺到前方大約有四個意識。不是基斯，也比動物複雜的多。其中之一非常......飢餓。」
+
+伊德溫眉頭緊鎖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「前方有幾個意識。我覺得應該是魔物。大約四到五隻？」[Specified 0]點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>你的靈魂探了出去，搜尋這絲絲的聲音後是否有生物的意識。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>很快你就感受到幾個生物的意識。大部分的意識都很小很簡單，不過其中有一個明顯比其他人更強大。
+
+不管那東西是什麼，它都處於飢餓之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>這聲音聽起來像是竊竊私語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[繼續觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[迷惑亞龍。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>亞龍扭動肌肉發達的脖頸，輕易將野豬撕成了兩半。它雙臂向上，舉頭向天，將帶著後腿的半段野豬一口吞下。隨著野豬入喉，在它的喉嚨中撐起了一塊，從喉嚨滑落到胃袋的軌跡清晰可見。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>其中一隻蜥人跳上前。它把頭上的羽毛頭飾一把抓下丟在一邊。片刻之後它丟下了法杖，在亞龍的面前張開雙臂。那個巨大的野獸俯視著那個蜥人，然後以迅雷不及掩耳之勢一口吃掉。
+
+其他蜥人歡呼雀躍，用短矛擊打著盾牌發出戰鼓般的聲響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>當你將自己的思想灌注到亞龍身上時，它的眼睛變的灰暗呆滯。那些骨瘦如柴的蜥人面面相覷，口中的歌聲已經支離破碎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Specified 1]安靜的歌唱，而這時亞龍的眼睛模糊了。那些骨瘦如柴的蜥人面面相覷，口中的歌聲已經支離破碎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>亞龍的頭甩向身後，發出一聲沉悶的低吼。它甩動頭顱四處尋找，直到看見了你。看來操縱它思想的意圖徹底激怒了它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>[讓亞龍攻擊蜥人。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[命令它離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[釋放亞龍。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>亞龍有條不紊的把蜥人挨個叼起，一口一個吃了下去。它似乎在考慮怎麼處理這最後一個——蜥人太瘦小了，這一隊還不夠亞龍塞牙縫的呢。
+
+它蜷曲了身體，閉上眼睛，吃飽喝足沐浴在陽光下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>亞龍強壯有力的雙腿向上一躍，拍打翅膀帶動周圍空氣，便飛上了天空。那些蜥人一邊追一邊可憐的哀嚎著。
+
+很快就只剩下你一個人了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>蜥人舉起手中的武器，身後的亞龍也拍著翅膀飛了起來......</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[殺死它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>你將注意力集中在了道路上繼續前行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>沉睡的亞龍完全沒有阻止你殺它的意思。當它倒在血泊中，你收割了這個爬行動物身上最有用的部分。
+
+做完這件可怕的事情，你再次上路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[使用小型望遠鏡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>透過望遠鏡，你看到一隊大約十個蜥人。一些蜥人在其中一位薩滿的指導下用長棍戳蛆蟲。
+
+在圓圈的中心，兩隻蛆蟲吸附在一起，被這些蜥人驅使著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>你悄悄穿過灌木叢，眼觀八方警惕未知的威脅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>其中一個蜥人昂首挺立，鼻翼翕動，扭動脖頸朝向[Specified 0]。它的叫聲抑揚頓挫，用一隻爪指向你的同伴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>[大搖大擺靠近。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>你朝它們聚集的地方走去，蜥人見你走近，有的尖叫有的竊竊私語。一些蜥人架好了短矛和弓箭。
+
+那群魔物彼此交換著眼神，不確定這時候應不應該發起攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>其中一個蜥人昂首挺立，鼻翼翕動，扭動脖頸朝向你。它的叫聲抑揚頓挫，用一隻爪指向你的同伴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>作為回應，蜥人舉起了自己的武器......</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>那個魔物被活動的熱鬧氣氛干擾，並沒有發現你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>[進行伏擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>你拔出武器慢慢向前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[潛行穿過該區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>你沒有引起它們的注意，避開了這隊魔物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>你在山頂上看到一群爬行動物，大約在山下一百英尺的位置。在一塊寬闊平坦的石頭上，那些蜥人佝僂著背嘰嘰喳喳的互相交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>你靠近那隊蜥人，發現它們有十個左右。一些蜥人在其中一位薩滿的指導下用長棍戳蛆蟲。
+
+在圓圈的中心，兩隻蛆蟲吸附在一起，被這些蜥人驅使著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>你靠近那隊蜥人，發現它們有十個左右。一些蜥人在其中一位薩滿的指導下用長棍戳蛆蟲。
+
+在圓圈的中心，兩隻蛆蟲吸附在一起，被這些蜥人驅使著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>那些小生物架好弓箭和短矛作為威懾。
+
+不過，它們似乎沒有進攻的打算。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[把它們留在原處。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[迷惑蛆蟲。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>你觸碰蛆蟲單純的靈魂並對它們低語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>[Specified 3]低語聲在蜥人發出的噪音干擾下已經聽不見了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>蛆蟲挪動幾下又呆立不動，蜥人竊竊私語面面相覷......</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>[讓蛆蟲爬走。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[讓蛆蟲攻擊蜥人。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>[讓蛆蟲跳一支搖擺舞。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>「讓蛆蟲走開。蜥人應該會跟著它們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「讓蛆蟲反抗它們的主人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「讓蛆蟲跳舞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「別緊張。我們沒有惡意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>「[Player Animal Companion]可以加入你們的......蛆蟲派對嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>蜥人薩滿向前走了幾步，頭頂的羽毛飾品左右搖晃。它嘰嘰喳喳說了一通，先指向了遠處的地平線，然後又指了指腰間的袋子。
+
+其他蜥人點了下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>蜥人憤怒的叫喊，支起短矛朝向你，防止你突然發難。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[耍點花招讓他們驚訝。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>蜥人小心翼翼仔細檢查[Player Animal Companion]。那個帶著羽毛頭飾的傢伙，將枯瘦的雙拳衝向天，其他人也紛紛效仿齊聲尖叫。
+
+看起來他們同意了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>那些蜥人目不轉睛，被你複雜的戲法迷住了。當你從背後再次拿出硬幣結束表演的時候，他們尖叫著上躥下跳，向天空高舉雙手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>蜥人目不轉睛的盯著[Specified 4]複雜的硬幣戲法。當銅幣消失之後再次出現時，他們高興的大聲尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>蜥人目不轉睛的盯著[Specified 4]簡單的硬幣戲法。他們面面相覷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「手下留情，[Player Animal Companion]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「撕碎那些蛆蟲！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>看起來像是要給你一些東西讓你走。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>你完全不明白它想要說什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>「呃......好吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>戰鬥持續了太長的時間，最終，你和你的動物夥伴只剩下靈魂鏈接在一起，避免了[Player Animal Companion]的徹底消亡。你無比自責，在痛苦的迷霧中完全聽不見蜥人的尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>戰鬥以壓倒性的優勢迅速結束，[Player Animal Companion]最終獲得勝利。蜥人嘰嘰喳喳地尖叫著，很難聽出是憤怒還是開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>[向它們點頭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>那個蜥人伸手放進口袋裡，看看你，再看看袋子裡的東西。你不清楚它到底是懷疑你還是在對自己的東西進行評估。也許兩者都有。
+
+最後它的手停在了某樣東西上，將它拿了出來。它小心謹慎的向你跳了幾步，在你面前放下一尊小龍雕像，然後又跳了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[離開]「謝謝你。我現在要走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>你耍了一個簡單的硬幣戲法，蜥人目不轉睛的盯著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>蜥人薩滿向前走了幾步，頭頂的羽毛飾品左右搖晃。它嘰嘰喳喳說了一通，先指向了遠處的地平線，然後又指了指腰間的袋子。
+
+其他蜥人點了下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>你用一隻手撫摸了[Player Animal Companion]的背，讓它上前。在蜥人把一隻蛆蟲放在地上的時候，你那只帶毛的夥伴走進了圈子裡。
+
+[Player Animal Companion]圍著蛆蟲，只見它緩緩向你的夥伴移動，使勁張開它微小的下顎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>你用一隻手撫摸了[Player Animal Companion]的背，讓它上前。在蜥人把一隻蛆蟲放在地上的時候，你那只帶毛的夥伴走進了圈子裡。
+
+[Player Animal Companion]圍著蛆蟲，只見它緩緩向你的夥伴移動，使勁張開它微小的下顎。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>當蛆蟲試圖逃走的時候，蜥人的第一反應是一片茫然。他們面面相覷，看看蛆蟲，再看看薩滿，然後再回頭望著蛆蟲。
+
+那個薩滿嘰嘰喳喳地吼了一通，用枯瘦的指頭向前一指，蜥人們便緊跟著蛆蟲去了，希望能把它抓回來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>當蛆蟲調轉矛頭向蜥人的時候，它們驚慌失措，痛苦的大聲叫喊。它們或用爪撕扯，或用短矛突刺，想要殺死這個不久之前還是它們寵物的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>那些蜥人目不轉睛地盯著，完全被迷住了，跟隨蛆蟲的舞步擺動。其中一個開始在胸口拍打出簡單的節奏。其他蜥人開始上下點頭，不住地變換腳步，然後跳起了舞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>[Specified 3]揚起了一邊眉毛，還是點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>顯然那些魔物已經無暇分心.....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>你沒有引起它們的注意，避開了這隊魔物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>在如此近的地方突然出現威脅，蜥人都睜大了眼，互相推擠著彼此，小聲嘰嘰喳喳的交談，作勢想要後退。
+
+一夥人突然出現，蜥人拋掉了他們的武器逃進了叢林裡。
+
+你將他們丟棄的物品都收集起來，回身繼續你的旅途。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>這是你見過最奇特的魔物。其中一個搖了搖頭，將一隻手失望地拍在自己的臉上。另一個坐了下來，雙手抱著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

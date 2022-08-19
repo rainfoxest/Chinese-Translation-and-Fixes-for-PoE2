@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_neketaka_palace_district\04_cv_takano</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>121</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一名年長的馬塔魯男人站在一圈年輕胡亞納人中間，他們似乎是他的學徒。他的長袍上面點綴著石英珠子，身上的香水味瀰漫在整個房間裡面。
+
+但是在華貴的外表之下，他仍然有著戰士的靈魂。他的手臂上堆疊著荒廢掉的肌肉，身上的肥肉像是絲綢一般層疊在一起。
+
+他抬起頭注意到了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你來我的莊園所為何事？」他熱情地張開了雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我需要海浪號角。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我聽說你手裡有一件稀有的月神教工藝品。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「海浪號角有什麼特殊之處？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[查看高野的靈魂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「您是一名高尚之人。與你分享歷史文物是榮幸之至。
+
+「但是。」他皺起了眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你？這可不是什麼可以隨手給人的便宜玩意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「我沒有贈予這種物件的習慣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「這是女王對我多年服務的獎勵。我可是她小時候的貼身護衛。」他將手放在了自己的大肚子上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「你的女王將它作為多年服役的獎勵賜予了你。我希望你能將同樣的榮耀賜予我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「這樣的寶物本就應當與世界分享。胡亞納必須向世界展現自己的榮耀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我可以付錢給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「想成是換你自己的命好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「這件事我們下次再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「言之有理。你幫助了胡亞納人民很多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「帶著我的祝福拿走它吧。」
+
+他將一個閃耀著光澤的大海螺交給你了。海螺表面刻滿了標誌，尖頭上裝有一個銀質吹口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>他笑了笑。「好！那麼等你帶到[Player Culture]的時候肯定也會記得跟所有人分享我的名號吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「這是交易了！這樣子情況就不一樣了。
+
+「你想出什麼價？」他一邊用手指玩弄著自己戴著的一枚戒指一邊端詳著華美的彩繪玻璃。看來每一面窗戶的成本都不小。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「這應該能消除你的擔憂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「很公平。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「海浪號角不是什麼戰利品。它需要一名明白其中蘊含的歷史的守護者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>他嘟噥著。「差不多」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「好吧。但是我只是因為看見你這麼想要號角才這麼做的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>他眨眨眼。「但是女王把它交給了我！沒有比這還要貴重的禮物了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「你來我自己家威脅我？我可是女王最菁英的戰士！」他向你走了一步，水桶一般粗的胸膛裡滿是怒火。
+
+他的弟子們抓緊了手中的武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「你覺得那能夠阻止我？你難道不知道我是誰嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你確定要賭上自己所成就的一切嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[攻擊]「那準備好死吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[離開]「我走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我聽說是一條瘋狗。而且我覺得我沒有聽錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「拿走吧。」他舉起了手，弟子們都退下了。
+
+他拿出了一個閃耀著光澤的巨大海螺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「滾吧。在我改變主意之前離開這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>他看了你好幾秒。
+
+停頓片刻之後他轉向了他的弟子們，都是年輕人，胸膛中滿是怒火並且已經準備好犧牲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「因為這是女神昂德拉的聖物！所有人都知道這其中代表的特權。」他將自己的手指關節捏的發白。
+
+他轉向了自己的學徒們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>他向一名學徒點頭致意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「海螺是胡亞納人好幾百年間的交流工具。這一個就是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「這種工藝品中通常蘊含著強大的法術。使用的時候要小心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「真是……高貴的用途啊。」他的臉沉了下去，像是本來期望有更加宏偉的背景故事一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我已經把它鎖了起來了，只能看不能摸！但是你說的很對。」他緊張地看了一眼自己華麗的房子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「很多年以前，有一個類似的貝殼。當舊城沉沒時，昂德拉的信徒們聚集在了那個號角周圍，祈禱著神的拯救。」
+
+他靠近了你，臉上掛著說書人的微笑。他的語氣中帶著一股不祥的平淡感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「但是昂德拉並不是一名仁慈的女神。她並沒有將他們從廢墟之中拯救出來，昂德拉用貝殼把他們拉入了海淵並說等到貝殼再次浮現的時候他們就能出來。」
+
+他笑著往後靠，雙手緊緊扣住了自己寬厚的腹部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「傳說裡是這麼寫的。是不是毛骨悚然？」他的雙眼閃爍著笑意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「歡迎，[Player Name]！您這種尊客來我這真是讓我蓬蓽生輝。」他微笑著，寬廣的胸膛更突出了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「歡迎！被昂德拉觸碰之人來我這真是讓我蓬蓽生輝。」他低下了頭，但是他的視線歡愉地集中在了你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「是[Player Name]，對不對？只要你不惹事，我們這裡就一直歡迎你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「[Player Name]。你可以來我家，但是我會盯著你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「還有海麗婭眷顧之人！神靈們今天真是對我青睞有加。」他吸了吸肚子朝帕蕾吉娜露出了一個巨大的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「你帶了一名受到海麗婭眷顧之人來？我榮幸之至。」他吸了吸肚子朝帕蕾吉娜露出了一個巨大的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>帕蕾吉娜嘗試擠出一個微笑，但是抗拒的心情將表情扭成了一個抽搐著的怪相。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「難道沒人認出這麼帥氣的我了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「歡迎，歡迎光臨寒舍。」他指了指奢華的房間，寬大的胸膛愈加膨脹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「海浪號角。一枚非常重要的海螺。能得到它是至高的榮譽。」他用力點了點頭，脖子上的肥肉抖動著。
+
+他講的像是在說服自己而不是你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「昂德拉是失物之神。傳說中提到她會用海螺之樂呼喚失蹤之物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「海螺是我們的人民好幾百年間的交流工具。這一個就是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「真的嗎？那我得祈禱她不要呼喚我這裡的東西了！」他響亮的笑聲裡面帶著一絲緊張，他一邊笑一邊掃視了一遍自己奢華的宅邸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「當然了！我怎麼可以阻止昂德拉的使者呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我的人民賣掉了自己的土地，賣掉了魂珀，也賣掉了自己的尊嚴。恩加蒂肯定都記著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>他紅著臉故意避開泰克胡的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「理論上我不應該說出來，我現在正在執行王室的一項任務。像號角這樣子的重要之物會對我有所幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「別擔心。我在保護女王的這麼多年裡面早就學會該如何保守秘密了。」他朝你狡黠地點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「不要回來了。」
+
+他的學徒們都把手放在了自己的武器上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我的家不歡迎你。請離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「威脅一名德高望重的馬塔魯肯定不是什麼好方法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「我們可以兩樣都拿走。他的靈魂已經很成熟了。」她熱切地舉起了自己的燈籠，昏暗的燭光在她的臉上投下了詭異的陰影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「對打的時候要小心，看見那些刮痕了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「跟你這種人打交道不是壞我的名聲嗎？」他哼了一聲抬起頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「也許我能給更多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「非常好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>他哼了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「真的嗎？」他靠了過來，眼睛圓睜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我真是太想念宮廷八卦了。來吧，到底是怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「要想辦法治治瓦哈奇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「就我自己的話我肯定就告訴你了，但是我已經發誓保密了。你懂那是什麼情況的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「我不能說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「親王給了我經費。收下這些，我們不要再談了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>他皺起了眉頭。「那麼我也不能將女王的禮物拱手送人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>他看了你好幾秒。
+
+停頓片刻之後他轉向了他的弟子們，都是年輕人，胸膛中滿是怒火並且已經準備好犧牲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>他的眼睛睜大了。「但那是女王給我的禮物啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「如果說守著一個貝殼就能獲得恩加蒂的青睞的話那我肯定是被人騙了。」泰克胡捋了捋頭髮，咯咯笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「你的榮譽在於她對你的尊重，你現在還擁有那一點。那才是最重要的，對不對？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「份子是胡亞納的方式。貝殼是傳到了你那邊，不是贈予的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「昂德拉會懲罰那些拒絕放手之人。如果你抓住她的聖物不放，想想她會怎麼想吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>他臉色發白。「我還犯不上去冒犯一名女神。我現在還有這麼多要……管的。」他看了一眼巨大的莊園。他緊張的表情反射在了如鏡面般光滑的大理石上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>他停頓了一下。「但是如果沒人看得見的話榮耀與尊嚴又算的了什麼？這些東西都很貴。」他掃視了一眼自己巨大的莊園，他精明的表情反射在了鏡面般光滑的大理石上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>他停頓了一下。「如果我把它傳給了你，你必須給我相同價值的禮物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「在現在的情勢下，這個價格不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「我就猜王室會要處理他們。你需要能找到的一切優勢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>你的精粹離開了你的身體，高野的靈魂像是某種溫暖的油滑物質一般包裹住了你。
+
+他的恐懼與疑問滲了進來，你的視線轉到了他那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>起初，你擔心這個[Player Subrace]是瓦利亞收債人派來的。
+
+利用你自己遠近聞名的好客有可能是有點不光彩，但是話說回來那些瓦利亞人可是異常狡猾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>最起碼貝殼還在你這裡。你把它藏起來不單純是為了安全問題，還因為你感覺很羞恥。
+
+這種簡樸而且醜陋的東西怎麼能是神靈的聖物？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>只是因為這是女王的禮物你才一直留著它。
+
+你的視線轉向了牆壁上。對，你得敲掉那裡一塊然後裝上宏偉寬廣的窗戶。等你有了錢……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>也許如果你的莊園更大他們就會知道你是一個值得尊敬之人了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「你的鄰居們房子比你的大。裝一個尖塔去鄙視他們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>他畏縮了一下，彷彿你對他揮出了致命一擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「對，我本來就想要換掉屋頂。也許再添點黃金點綴……」他沉迷在了思緒之中，緊張的視線環顧著莊園。
+
+他清了清嗓子並將注意力重新轉到了你身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「對，高野。所有人都知道這是青睞的象徵。」
+
+她瞬間接了話頭，這回應突然而又自發，就像是高野剛剛給了她一條命令一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>你從高野的靈魂中撤了回來，他正帶著平靜的笑容看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「就算是大把的黃金也不要麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「只需要一點點錢你就能好好整整這地方了。比如說可以先在那裡加扇窗戶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「我不是什麼庫亞魯商人。我不會出售我的寶藏。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「我的人民沒有這種習慣。」他抱起了雙手，他的眼睛卻渴望地環視起他的豪華莊園。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「你肯定有什麼想要的東西吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「你看看！我什麼都有了。」他張開了雙臂，笑聲迴盪在了大廳之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>但是高野的誇耀對你來說空虛無比。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「請等等！靈視者，我不能坐視你威脅無辜之人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「[Player Name]，他是不是每次都要這麼來上一遍？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>高野繼續朝著你微笑著，他完全沒有理會亞洛斯的嘲諷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「除了謙卑之外是都有了。」亞洛斯翻了個白眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「房子不錯。如果有這地方從山坡上推下去就可惜了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>他笑了起來。「有關你們的傳說早就眾人皆知了。我這裡可不是什麼三教九流之地。」他看了一眼泰克胡，如果不是那麼傲慢人們說不定還會以為他是個嚴肅之人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「你們努瓦泰人的幽默感真是太奇怪了！」他大笑了起來，但是眼神裡帶了一絲恐慌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[向他展示深淵號角。]「瞧，我也有個特殊的貝殼！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「嗯，我看到了。」他的臉上佈滿了失望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「這肯定&lt;i&gt;也是&lt;/i&gt;一種巨大的榮耀吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「嗯，不過沒必要洋洋自得。」他一副自尊心受傷的樣子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「那是&lt;i&gt;以前&lt;/i&gt;。現在，你只不過是個膨脹的糟老頭而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>他的臉因為憤怒而變得扭曲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「從沒有人在我自己的家裡侮辱過我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_si_town_exploration</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一系列不結實的碼頭連接著一塊塊露出水面的陸地。你的四周都是破破爛爛的船隻殘骸。
+
+水面上籠罩著濃霧，遮擋住了通往各個方向的路。你只能聽到波浪的拍打聲和你踩在狹窄的爛木板上的腳步聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你左側某處傳來的狗吠聲打破了這異樣的沉寂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[吹口哨召喚狗。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[無聲地靠近。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>回應你口哨聲的是新一輪的叫聲，接著又是一聲突如其來的尖利的哀鳴。
+
+片刻的沉寂後，你聽到碼頭上傳來跑動的腳步聲。一條狗從霧中一躍而出，它深色的毛皮上沾著血跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你一言不發，繼續前進。
+
+突然，離你幾步開外的霧中傳來一陣令人汗毛直豎的低沉咆哮聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你透過濃霧，看到一條消瘦的狗來回跑動的身影。
+
+這條狗一邊吠一邊朝你的方向跑來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[站在原地。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[躲進船隻廢墟的陰影裡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你迅速躲回陰影中，藏身在了一根裂開的桅桿和一堆欄桶後面。
+
+片刻後，狗從你面前走了過去。它嗅了嗅空氣，那時你發現它的口鼻部被咬掉了一塊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>獵犬身後跟著兩個踉蹌的身影，他們的嘴上沾染著血跡。它們走出迷霧，你看清了它們的真身。它們是萎縮而腐爛，只有體型像人類。它們是食屍鬼。
+
+它們看到你時停下了腳步，搖晃著身子，但沒有做別的動作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>獵犬身後跟著兩個踉蹌的身影，他們的嘴上沾染著血跡。它們走出迷霧，你看清了它們的真身。它們是萎縮而腐爛，只有體型像人類。它們是食屍鬼。
+
+它們看到你時停下了腳步，搖晃著身子，但沒有做別的動作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>從昏暗的霧中出現了第三個人影，此人穿著長袍，手中高舉著一根扭曲的法杖。
+
+法杖閃耀出光芒。你看著發生的一切，與此同時，烙印在食屍鬼額頭上的符文一下子閃耀了起來，像黑暗中的燈塔一樣閃著光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>食屍鬼咆哮著向你衝來，沾滿血污的爪子在空氣中揮動著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[繼續躲藏。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[抓住優勢發起攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你拔出武器跳了出來，對方二人帶著恐懼向後退去，因為匆忙而有些步履蹣跚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>這群奇怪的傢伙從你身邊掠過，如同突然出現時那樣又立刻消失在濃霧之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

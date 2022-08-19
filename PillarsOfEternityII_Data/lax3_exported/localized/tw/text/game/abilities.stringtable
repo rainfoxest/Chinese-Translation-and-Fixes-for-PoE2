@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>131</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4358</ID>
+      <DefaultText>忠誠</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4649</ID>
+      <DefaultText>重建 - 板甲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4739</ID>
+      <DefaultText>怪物</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4740</ID>
+      <DefaultText>過去之面</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4741</ID>
+      <DefaultText>竊取身份</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4742</ID>
+      <DefaultText>閃光步</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4743</ID>
+      <DefaultText>破夢擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4744</ID>
+      <DefaultText>噩夢蜂擁</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4749</ID>
+      <DefaultText>持有者指向一名敵人，暫時將其宰制。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4795</ID>
+      <DefaultText>冰川猛擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4796</ID>
+      <DefaultText>冰雪大槌</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4798</ID>
+      <DefaultText>冰霜毛皮</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4799</ID>
+      <DefaultText>白茫咆哮</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4807</ID>
+      <DefaultText>巨大</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4808</ID>
+      <DefaultText>阻礙</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4810</ID>
+      <DefaultText>聚精會神</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4811</ID>
+      <DefaultText>亞柯彌之眼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4812</ID>
+      <DefaultText>康賽豪之眼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4813</ID>
+      <DefaultText>卡拉寇之眼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4814</ID>
+      <DefaultText>靡奧塔之眼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4815</ID>
+      <DefaultText>耐高司之眼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4816</ID>
+      <DefaultText>蘭格瑞之眼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4817</ID>
+      <DefaultText>事後諸葛亮</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4818</ID>
+      <DefaultText>哀悼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4847</ID>
+      <DefaultText>夢境盛宴</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4848</ID>
+      <DefaultText>穿戴者令目標沉睡並躍入其夢境。沉睡期間，穿戴者持續恢復生命且無法被瞄準，但也無法行動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4849</ID>
+      <DefaultText>逼近的瘋狂</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4850</ID>
+      <DefaultText>穿戴者在戰鬥開始時獲得大量意志，但意志會隨時間持續下降。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4917</ID>
+      <DefaultText>正義的復仇</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4928</ID>
+      <DefaultText>蟲群</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4929</ID>
+      <DefaultText>弱點：肉體減益狀態</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4930</ID>
+      <DefaultText>蜘蛛流</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4931</ID>
+      <DefaultText>削減數量</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4932</ID>
+      <DefaultText>月食</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4933</ID>
+      <DefaultText>月蛛精粹</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4934</ID>
+      <DefaultText>月蛛光輝</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4935</ID>
+      <DefaultText>月相</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4936</ID>
+      <DefaultText>月之祝福</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4937</ID>
+      <DefaultText>增生之牆</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4938</ID>
+      <DefaultText>靈魂碾壓</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5035</ID>
+      <DefaultText>靈能擴散</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5036</ID>
+      <DefaultText>荒涼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5037</ID>
+      <DefaultText>靈魂迴響</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5038</ID>
+      <DefaultText>靈能壁壘</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5040</ID>
+      <DefaultText>瘋狂侵蝕</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5042</ID>
+      <DefaultText>靈能折磨</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5043</ID>
+      <DefaultText>沉默</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5044</ID>
+      <DefaultText>深度學習</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5045</ID>
+      <DefaultText>菌怪滲出</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5046</ID>
+      <DefaultText>注能操控</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5047</ID>
+      <DefaultText>感染膽汁</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5048</ID>
+      <DefaultText>感染奴役</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5049</ID>
+      <DefaultText>郎歌世的教誨</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5050</ID>
+      <DefaultText>盲目之怒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5051</ID>
+      <DefaultText>毒素注射</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5052</ID>
+      <DefaultText>儲存魔法</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5053</ID>
+      <DefaultText>暴擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5054</ID>
+      <DefaultText>雙重猛擊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5055</ID>
+      <DefaultText>被遺忘者迷惑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5056</ID>
+      <DefaultText>靈敏思維</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5057</ID>
+      <DefaultText>無畏</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5058</ID>
+      <DefaultText>元素明晰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5059</ID>
+      <DefaultText>永恆祝福</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5060</ID>
+      <DefaultText>爆破化身</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5061</ID>
+      <DefaultText>精神領袖</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5063</ID>
+      <DefaultText>精確</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5064</ID>
+      <DefaultText>戰士之魂</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5071</ID>
+      <DefaultText>使用者過度集中精神，擴大盾牌的半徑並給附近隊友提供格擋加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5072</ID>
+      <DefaultText>強化盾牌擴展</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5073</ID>
+      <DefaultText>（全面盾牌擴展）——現在隊友獲得全防禦加成，而非僅獲得格擋加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5074</ID>
+      <DefaultText>全面盾牌擴展</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5075</ID>
+      <DefaultText>（強化盾牌擴展）——給隊友提供的格擋加成提升。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5076</ID>
+      <DefaultText>盾牌擴展</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5077</ID>
+      <DefaultText>防護兜帽</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5078</ID>
+      <DefaultText>當穿戴者首次被攻擊時，他們將會自動獲得「秘法護盾」的法術效果，每次遭遇僅能起效一次。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5079</ID>
+      <DefaultText>放聲尖叫</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5080</ID>
+      <DefaultText>逃跑</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5081</ID>
+      <DefaultText>安保系統</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5084</ID>
+      <DefaultText>器官之口</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5085</ID>
+      <DefaultText>中毒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5086</ID>
+      <DefaultText>貝卡納的午夜白日夢</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5087</ID>
+      <DefaultText>每次遭遇穿戴者被暴擊命中時有機率進入狂暴狀態。穿戴者獲得強力和健康增益狀態以及行動速度加成。處於狂暴狀態下的穿戴者將受到格擋懲罰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5088</ID>
+      <DefaultText>求生者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5089</ID>
+      <DefaultText>求生小隊</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5090</ID>
+      <DefaultText>當穿戴者處於深紅全罩甲的狂暴狀態下時，獲得護盾效果，可吸收部分承受的傷害。吸收量隨穿戴者的生存技能提高。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5091</ID>
+      <DefaultText>（求生小隊）——所有靠近穿戴者的隊友也獲得傷害護盾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5092</ID>
+      <DefaultText>當奧布里特跟隨隊伍時，你獲得的所有增益狀態持續時間延長，另外隊伍的脫戰防禦提升。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5093</ID>
+      <DefaultText>當苗條阿吉跟隨隊伍時，你的區域效果攻擊和法術可造成額外傷害，另外隊伍對區域效果攻擊和法術的防禦力提升。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5094</ID>
+      <DefaultText>當盧塞洛跟隨隊伍時，你獲得對敏捷減益狀態的抗性，另外隊伍在快速使用物品後的冷卻時間縮短。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5095</ID>
+      <DefaultText>當小眨巴跟隨隊伍時，你獲得對感知減益狀態的抗性，另外隊伍的近戰精準提升。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5096</ID>
+      <DefaultText>當雷迪納跟隨隊伍時，夾擊你所需的敵人數量加一，另外隊伍的遠程精準提升。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5097</ID>
+      <DefaultText>當包紮小能手跟隨隊伍時，你獲得額外護甲值，另外隊伍獲得持續治療。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5098</ID>
+      <DefaultText>當鵝膏菌跟隨隊伍時，你在攻擊時有一定機率魅惑敵人，另外隊伍可造成額外腐蝕傷害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5099</ID>
+      <DefaultText>泰恩的混亂飛彈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5100</ID>
+      <DefaultText>使用者手中產生由純粹混亂構成的小球。投擲出去時，小球在敵人之間彈跳，造成傷害並施加各種減益狀態，這些狀態包括踉蹌、噁心、蹣跚、煩亂、困惑和動搖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5101</ID>
+      <DefaultText>重擔之劍是名副其實的巨劍，需要很高的力量值才能揮舞自如。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5104</ID>
+      <DefaultText>抗拒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5105</ID>
+      <DefaultText>哀悼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5106</ID>
+      <DefaultText>愧疚</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5107</ID>
+      <DefaultText>隊友的死在很大程度上影響使用者，使其能更輕鬆的揮舞重擔之劍。每次一名隊友被打倒時，使用者獲得力量加成，直到戰鬥結束。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5108</ID>
+      <DefaultText>[內疚]——每次有隊友被打倒時，增益狀態的持續時間延長，直到戰鬥結束。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5109</ID>
+      <DefaultText>[抗拒]——每次有隊友被打倒時，負面效果的持續時間縮短，直到戰鬥結束。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5110</ID>
+      <DefaultText>郎歌世的守護圖騰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5111</ID>
+      <DefaultText>使用者在地面上放置一個圖騰，該圖騰可產生一道小型護盾覆蓋周圍區域。所有以使用者為目標的負面法術在靠近圖騰時都會被反射。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5112</ID>
+      <DefaultText>昴拉的貪婪觸手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5113</ID>
+      <DefaultText>召喚一根無法移動的巨型觸手。該觸手能對附近角色造成腐蝕傷害，還能抓起基斯敵人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5114</ID>
+      <DefaultText>腐蝕光環</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5116</ID>
+      <DefaultText>一道天界能量彈在隊友之間彈射，為其隨機提供以下增益狀態中的一種：強硬、健壯、靈巧、機敏、聰慧、堅決。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5117</ID>
+      <DefaultText>群星之僕</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5118</ID>
+      <DefaultText>使用者釋放星鐵中的靈魂。有靈魂被擊殺時，使用者隨機獲得以下增益狀態中的一種：強力、健康、快速、敏銳、聰明、堅定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5119</ID>
+      <DefaultText>驚呆</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5120</ID>
+      <DefaultText>呼叫援助</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5121</ID>
+      <DefaultText>妖精液體精粹</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5122</ID>
+      <DefaultText>腐臭的液體從小瓶中噴出，濺在範圍內所有角色身上。被濺到的角色會被週期性震懾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5123</ID>
+      <DefaultText>新星</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5125</ID>
+      <DefaultText>失控</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5126</ID>
+      <DefaultText>小睡</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5127</ID>
+      <DefaultText>深度睡眠</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5128</ID>
+      <DefaultText>提神的噩夢</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5129</ID>
+      <DefaultText>神魂顛倒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5130</ID>
+      <DefaultText>煽動火焰</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5131</ID>
+      <DefaultText>屍體復生</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5132</ID>
+      <DefaultText>活化骨骸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5133</ID>
+      <DefaultText>博拉斯跟隨小隊時，你的歷史和玄學技能提升，另外隊伍的法術精準提升。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5135</ID>
+      <DefaultText>大師</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5136</ID>
+      <DefaultText>血腥贈禮</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5137</ID>
+      <DefaultText>古老智慧</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5138</ID>
+      <DefaultText>免疫：安保系統</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5164</ID>
+      <DefaultText>當盧塞洛跟隨隊伍時，你獲得對敏捷減益狀態的抗性，另外隊伍在快速使用物品後的先手權降低。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5169</ID>
+      <DefaultText>無上忠誠</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5171</ID>
+      <DefaultText>克己</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

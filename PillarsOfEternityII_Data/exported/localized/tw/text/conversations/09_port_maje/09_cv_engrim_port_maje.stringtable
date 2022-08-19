@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_cv_engrim_port_maje</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「是你嗎，[Player Name]？」
+
+老英格利姆看起來情況不錯，不過他的防水夾克都已經完全濕透了。雖然困得睜不開眼睛，但他還是認出你來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我們現在可以回船上去了嗎？」
+
+維拉翻了個跟頭，看著你們倆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「好消息，船長。我找到了一些補給。一定是從海裡衝上岸來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「嗯。這主意不錯，你睡了這麼久，可以好好伸展一下筋骨。」
+
+英格利姆的眼睛再次抽動起來，然後又閉著眼睛點點頭，似乎對自己的機智相當滿足。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「情況怎麼樣，船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我的運氣比較好，找到了一些靈體。我說的是很平凡的那種。不需要用到你的天賦的，靈視者。」
+
+他的雙眼抽動，閃爍著興奮的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「艾莉娜的情況不錯。我檢查了她的腿。瑪珈嵐保佑，只要休息幾天，她就可以恢復正常了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我現在棒得很，不過周圍的東西一直在轉。看來得喝一杯……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你見到有其他倖存者嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「北方的洞穴附近有一個。可能是那個老古板，波多爾。我大聲叫喚他，但是風聲太大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「最好去船上看一看。瑪珈嵐保佑，肯定有人挺過了撞船，而且沒有掉進海裡。」
+
+他從自己的棉外套下擺處誇張地擠出海水來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「我們現在該怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「別傻站在這裡。四處查看一下。這是一場瑪珈嵐的試煉，可能有人大難不死。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「現在只剩下我們了，船長。你最好到鎮上去，看能否找到補給和零件。我會留在這裡守著船的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「一個都沒有。這次事故傷亡慘重，船長。不過我們幸運地活了下來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你瞭解這座島嶼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「住在這裡的是基斯。只知道這麼多。這意味著我們最好離開這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「因為，這裡肯定是海盜的地盤。他們離這裡只有幾里遠。如果北邊的洞穴是其中之一，我會很驚訝的。甚至在我們說話時，他們都可能埋伏起來等我們。」
+
+他的眼睛閃著光，掩藏著不祥的預感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我來煮一些水。然後檢查一下你的腿。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你該看到我是怎麼對付那水桶的，英格利姆。我把它制得服服帖帖的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「早該知道，你這死老頭子可以毫髮無損地活下來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「我寧願死也不願意讓你們喝光船上最後一杯麥芽酒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「嗯。瑪珈嵐給我們當中某些人的考驗似乎更輕鬆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「幹得好，小妹。讓篝火燒得旺一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「看吶，瑪珈嵐！我的火焰還旺著呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「現在該去打一隻野豬來，免得等下餓肚子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「野豬很凶的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「對，小妹，不過我餓起來管它凶不凶呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你的酒還沒醒吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「維拉，我不在的時候，別什麼都聽英格利姆的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「你醒得真及時，正好趕上好玩的。先是打退了一隊狗日的海盜，然後又困在這冰冷刺骨的鬼地方。」
+
+英格利姆的眼睛發光，咧嘴笑了一下，掉光牙齒的口腔格外刺眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「不修理一下，船是開不了的了。看來走那邊通往內陸的路是最佳選擇。」
+
+「在走之前最好去檢查一下那些屍體。踢兩腳，看有沒有沒斷氣的。要想出海的話得有一隊船員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「你不來幫我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「哦，我&lt;i&gt;有&lt;/i&gt;幫忙呀，船長。我祈禱再給我們一次機會，對面對那些海盜。下次我們絕不會讓他們活著離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我現在醒得不能再醒了，靈視者。」
+
+他的鬍子擋住了笑容，但他的雙眼在調皮地眨著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「這話可不厚道。是你自己要把這個小毛孩從艾爾·格蘭芬瑟荒野中帶出來的。要怪就怪你那個石頭總管帶著這個毛絨絨的小妹妹吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「英格利姆叔叔，你答應過要給我麥芽酒的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「親愛的，以後會有的。英格利姆叔叔也很渴。」
+
+他心不在焉地拍著胸口部位，從他的牧師外套下面發出某種金屬梆梆聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「我該從何處著手？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我聽到反抗者號那邊傳來喊叫聲。值得過去瞧瞧，說不定還有船員困在沙灘上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我去看看能否找到其他倖存者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我會在營火那裡等你，船長。瑪珈嵐的火焰溫暖著我的靈魂，可這身老骨頭需要實質點的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「艾莉娜已經在那裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「波多爾已經在那裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「艾莉娜和波多爾就在營火那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「好。我會生一堆火。」
+
+他興奮地點點頭，眼睛抽搐著。
+
+「用一堆&lt;i&gt;旺盛&lt;/i&gt;的營火來感謝瑪珈嵐為我們準備的試煉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「好，好。我會看看有沒有其他倖存者，靈視者，你也留意一下。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「好。好。我們三個會守在海灘上。」
+
+「我敢打賭，那邊的道路很有希望。有路就有人。有人就有補給。我認為值得過去碰碰運氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你先去整個營地。你是唯一的倖存者了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我明白了。真是遺憾。每個人都注定要接受瑪珈嵐的考驗。祝願那些可憐的死鬼們在下一個輪迴中運氣好一點。」
+
+他熟練地從常用的外套口袋中掏出一個酒瓶，舉起來做了一個祝酒的動作，然後喝了一大口。他閉上疲憊的雙眼，低下頭靜靜地禱告。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「是啊，瑪珈嵐認為給我們這群可憐的傢伙一點小小的刺激，對心臟有好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「呃……當然不是說你不厚道，船長。」
+
+他笑了幾聲，並朝你點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>英格利姆激動地點點頭，眨巴著雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「時候一到，火焰就會給我們啟示的，兄弟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「上一個跟我同行的瑪珈嵐信徒應付不了女神的挑戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「上一個跟我同行的瑪珈嵐信徒因為他女神的試煉，差點給整瘋掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我今天不想再搞什麼試煉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「就算是眾神也不能讓我屈服，英格利姆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「是啊，可憐的杜蘭斯。但願這個瘋子在下一個輪迴中能活得好一點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「對，但是&lt;i&gt;差點&lt;/i&gt;瘋掉不是完全瘋掉。啊，老杜蘭斯。在我們有生之年，女神再也不會鑄出他那樣的人啦，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「你這話可能會被某些人當成褻瀆神明。但要是被瑪珈嵐聽到，船長，她會認為你心中充滿了生命之火！」
+
+他興奮地睜大雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「怎麼？有事嗎？別盯著我看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「對不起，波多爾。我本來應該跟著你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「為什麼？你妒忌我這樣一瘸一拐嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「奇圖帕已經在那裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「其他人已經在那裡等著了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「好。好。我們四個會守在海灘上。」
+
+「我敢打賭，那邊的道路很有希望。有路就有人。有人就有補給。我認為值得過去碰碰運氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我在那裡等你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「北邊有個洞穴。我們的一些同伴可能在那裡尋求庇護。如果你們只發現了冰冷的屍體，我們可以為他們死去的靈魂祈禱，把他們從凡人的軀體中超度出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「北邊也有洞穴。即使裡面沒有藏著倖存者，也可能是避難所。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_shrine_rest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你注意到了路旁的一尊飽經風霜的巨大石像。似乎是一尊胡亞納神龕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[褻瀆神龕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[繼續旅程。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>雕像的外形是一隻絢麗的天堂之鳥。飛鳥長長的身體環抱著一隻圓形的蛋。幾處顏料還突兀地黏著在石料上。
+
+雕像描繪的是亞彌拉-胡亞納版本的海麗婭。
+
+神龕底座上刻著一條銘文-"信徒們永遠在抗爭，如信天翁般迅捷，如魚鷹般矯健。"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>雕像的工藝巧奪天工，但是時間已經磨損了一切。
+
+你無法辨識出這尊雕像的原形。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你跪在了神龕前對著冰冷的石像低語著你的祈禱。
+
+它沒有給你任何回應，但是當你站起來準備紮營的時候感覺自己平靜了許多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>雕像的外形是一個長著怪魚頭的裸體女人。
+
+雕像描繪的是恩加蒂-胡亞納版本的昂德拉。
+
+神龕底座上面寫著一條銘文。「海浪打磨岩石但是也會將它們粉碎成沙礫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>雕像上纏繞著一對石鰻。每一條鰻魚嘴裡都貼著另一條的尾巴，兩條石鰻形成了一個無法打破的循環。
+
+雕像描繪的是理庫胡-胡亞納版本的貝拉斯。
+
+雕像底座上寫著一條銘文。「有些人跑。有些人戰。理庫胡吞噬一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>雕像上滿是灰屑，底座上面雜草叢生。這個神龕已經好久沒人打理了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[休息之前向神龕祈禱。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>被腐蝕嚴重的古老雕像在你的摧殘下變得粉碎，雕像的碎片散落一地。在仔細蹂躪了神龕一番之後，你將它鏟翻了。
+
+神龕現在只剩下了石質底座與一堆礫石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[靠近檢查。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[繼續旅程。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「要我說一切都是船長給的，應該感激才對。」泰克胡拍了拍手，笑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「浪費時間，"你祈禱的時候帕蕾吉娜大聲抱怨著。她怒氣沖沖地走到了旁邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「遵命，船長。給幫了你的老夥計還人情這種事情沒什麼好猶豫的。」
+
+塞拉芬笑了笑跪在了你旁邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我知道當恩加蒂擊沉你的海船的時候誰能活下來。」泰克胡雙手抱胸做了個鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「如果打倒海麗婭能跟弄倒這個神龕一樣輕鬆就好了。」
+
+帕蕾吉娜觀察著你的傑作，她金色的雙眼中洋溢著滿意之情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「正在處理與當權者的矛盾嗎？」亞洛斯帶著一絲揶揄的表情觀察著你的傑作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[冥想休息。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你原地坐了下去，控制住自己的呼吸節奏的同時放鬆肌肉。
+
+你整理著自己的思緒。
+
+當你站起來的時候，你感覺一切都變得不那麼危險或者說更加容易實現了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>結束之後，你繼續踏上了旅途。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[調查週遭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>神龕週遭空無一物，說不定這裡是個休息的好地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[紮營休息。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>休息的時候什麼事情也沒有發生，你醒來之後繼續踏上了旅途。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>裘荻將一隻手放在了不規則的神龕上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>雕像描繪的生物與獅尾虎是同類，但是它的右肩上長著一隻蜘蛛頭，左肩上還長著一隻長牙野豬的頭顱。
+
+雕像描繪的是胡亞納版本的伽拉溫。
+
+神龕底座上寫著一句銘文。「跟蹤。屠戮。生存。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「這是獻給岡恩的神龕。我感覺得出來，靈視者。我的天神在用他的鐮刀在我的脊樑上雕刻。」
+
+她顫抖著，瞳孔放到了最大。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>神龕週遭空無一物，說不定這裡是個休息的好地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>雕像上滿是灰屑，底座上面雜草叢生。這個神龕已經好久沒人打理了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

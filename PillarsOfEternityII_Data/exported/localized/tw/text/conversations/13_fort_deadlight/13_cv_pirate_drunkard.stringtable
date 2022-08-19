@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_fort_deadlight\13_cv_pirate_drunkard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「喂，等等！你得小心點，這裡的石頭可有點滑。」
+
+這個海盜轉身的時候腳滑了一下，他一隻手拍在桌子上，讓自己不至於摔倒。他拍桌子的時候把一個酒杯碰到了地上，滿是泡沫的酒灑了一地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你是來和我們喝一杯的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「小點聲，你這個酒鬼！否則石心就又要來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「她說，你們給我小點聲。我說，去她媽的吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我跟你賭二十個金幣，我能把你喝到桌子底下去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「石心翁格斯為什麼這麼不高興？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你們是在慶祝什麼才喝得這麼厲害？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「保重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你盡可以試試。咱們一起干了它，看看誰先趴在地上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「她討厭亂七八糟的地方，尤其是一群人吵吵嚷嚷的樣子。我們要是鬧得太歡了，你就看著吧，她肯定會衝到這裡，朝我們大喊大叫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「說得沒錯！我們的水手長弄到了一張藏寶圖。我們以後就要發財了，我們正慶祝呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「來吧，我們這裡有不少酒呢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「這一回合，我們一口氣把它干了吧，怎麼樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「第一回合，先來一杯聚鹿蜜酒！」一個比較清醒的海盜倒了兩品脫濃稠的甜酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[喝下蜜酒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「現在還是算了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你舉起大酒杯，咕嘟地喝了一大口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你是怕輸嗎？算了，反正不關我事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你咕嘟咕嘟地喝著酒，很快杯子就空了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>酒實在是太黏了，卡在了你的喉嚨裡。你嗆了一口，半口酒吐在了桌子上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「開頭開得不錯，真的不錯。」他朝你點點頭表示敬意，之後把自己的酒也一口喝光了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「下個回合，海盜烈酒！提醒你一下，這可不是普通的烈酒，這東西是用火藥釀出來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[喝下海盜烈酒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你舉起杯，沒有在意杯底浮上來的黑色粉末，咕嘟咕嘟把一大杯酒全都喝了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>海盜烈酒在你的喉嚨裡像是燒了起來，但你還是把它全都嚥了下去。然後，你以勝利的姿勢把空酒杯砸在了桌子上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「能一口氣喝下一大杯火藥海盜烈酒的人可不算太多。」他揚起眉毛，露出了驚訝與欽佩的神情。他也舉起酒杯，努力喝光了他自己的酒，朝你露出了一個狡黠的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「最後的好戲要上場了，是時候來點劊子手血酒了！如果這東西都幹不倒你，那恐怕沒什麼能把你灌醉了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[喝下烈酒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>這杯酒乍看之下散發著啤酒的柔順光澤，但酒氣沖天。你轉了一下酒杯，幾塊泡爛了的水果浮了上來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>每喝一口，你都感覺膽汁都快湧上來了。這種酒像是在你肚子上燒出了一個洞，讓你感覺口乾舌燥，但到了最後，你還是把這杯酒吞下了肚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>和你一起喝酒的海盜一開始只是盯著你看。之後他緊張地舔著嘴唇，雙手顫抖著，拿起了他自己那杯爛乎乎的烈酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我要是在這裡服軟了，還不如把我剝了喂烏鴉呢！」
+
+他鼓起勇氣，咕嘟咕嘟地喝起了自己的酒。他的胸膛不斷上下起伏，當他終於喝完之後，一抹驕傲的笑容慢慢地爬上了他的嘴角。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「咱們喝吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「敬咱們自己一杯！願眾神賜予我們好運與金子，有多少給多少。」
+
+他把酒杯高高地舉過了頭頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「要不是因為石心翁格斯這麼能攪局，我們也不會鬧得這麼厲害。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[拿著空酒杯假裝喝一口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[拿著空酒杯假裝喝一口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「這並不是針對你，夥計，輸掉二十個金幣不是什麼大事！」
+
+那個醉漢一邊笑著，一邊去和他的同伴吹噓起來，早就忘記了向你討要他贏來的錢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[拿著空酒杯假裝喝一口。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「劊子手血酒用什麼釀的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「據說這東西喝死過人，至少是把人喝過去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>他的笑容僵在了臉上，臉上的肌肉痛苦地抽搐在了一團，慢慢地朝後倒了下去。
+
+他倒在地上，失去了知覺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「是本維斯的守衛，就在樓梯上面。她就像是個煩人的癤子一樣，怎麼弄都弄不掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「你是說我們是怎麼把它做出來的嗎？加點這個，加點那個，把所有的東西都混在醃過的果肉裡就行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「等等……你是說，你不知道阿本的船員嗎……？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「你在說什麼呢，你喝多了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「我敢肯定，如果見到她的話，我就能認出來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「是啊，我們剛才都說什麼呢？呃，算了吧，再給我拿一杯來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我覺得你應該去見石心一面，和她解釋一下你究竟是誰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>他打算用手敲敲下巴，結果絆了一下，差點摔倒在地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「翁格斯，快下來！趕緊的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「沒了本的人，這裡實在是太安靜了，我不喜歡這個樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我聽說有人教訓了本一頓，他都嚇得尿褲子了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

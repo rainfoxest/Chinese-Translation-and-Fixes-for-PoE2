@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\17_dunnage\17_cv_backer_npc_geirvard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你看見了一名將自己褐色長髮系成一個簡單髮髻的年輕男子。他穿的很少但是衣服的做工非常精良，他身旁的一艘銀藍色雙軌帆船拋光的一塵不染。
+
+他慵懶地斜靠著，一隻白淨的手搭在了自己的船上，他歎了一口氣，年輕男子看上去是無聊了。看見你的時候他的眼睛突然一亮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你好哇！來聊聊天吧？我沒有惡意，我保證。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「啊，又是你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「回來了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你回來了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「說說你自己吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「樂意之至，我的朋友，我很高興你提起這事情！」他誇張地揮舞了一下自己的雙手並清了清嗓子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「你能教我你在冒險中學到的知識嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「我恐怕已經沒有可以教你的了。」他無力地笑了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「哦，在下&lt;i&gt;榮幸之至&lt;/i&gt;。當然，錢還是要付的。三千銅幣如何？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>他從背包裡抽出了一系列小地圖並開始與你講述島嶼的情況，那些島上住了誰，住了多久，島上的樹林裡面徘徊著何種野獸之類的情報。
+
+之後她拿出了自己的魔典並分享了自己在旅行中學習到的一些罕見魔法知識。最後他收起地圖，砰的一聲合上了自己的魔典並向你道別。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[離開] 「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「再見！」他點了點頭，你離開的時候他的臉上掛著一個大大的微笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「說實話，我認為這是一種優勢而不是什麼懲罰。盡享奢華但是又不用背負責任的重擔！這有什麼不好的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「你在亡焰列島做什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「旅人們不遠萬里來亡焰列島是為了什麼？當然是冒險了！我從小就很喜歡英雄們的傳說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「於是我就來這裡啦！雖然說我的肌肉不是很發達，我&lt;i&gt;還是&lt;/i&gt;會一點魔法的而且我畫地圖有一手，我一直在為亡焰裡面的大型海島繪製地圖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「好！「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「有一天在我父親的宅邸裡面閒逛的時候我突然想到「基亞沃德，你是不是也&lt;i&gt;該&lt;/i&gt;去闖蕩點名聲出來了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我是一個貴族家庭裡面最小的兒子。不要大驚小怪哦！你肯定有在想「可憐的瘋傻瓜」之類的事情。不要莫名其妙地就先同情起我！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「不，不行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「好吧。」他微笑著將銅幣收走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「但是說實話，我的夢想就是像激勵了我的那些古老傳說一樣去激勵像我這樣的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「好了，我已經說太多了。你肯定也有其他的事情要做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「聽上去你過的生活很危險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[傾聽。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「是有點，但是想想以後我能給其他人說的故事，這一切就都值了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「好吧，如果改變主意可以回來找我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[強化歷史與秘法]「給你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

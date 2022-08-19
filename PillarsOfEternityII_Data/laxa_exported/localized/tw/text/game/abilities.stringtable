@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4700</ID>
+      <DefaultText>沃艾珥之風</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4701</ID>
+      <DefaultText>福爾喬拉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4702</ID>
+      <DefaultText>薩科酒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4703</ID>
+      <DefaultText>麥普</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4704</ID>
+      <DefaultText>白琴酒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4705</ID>
+      <DefaultText>奧薩雙調</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

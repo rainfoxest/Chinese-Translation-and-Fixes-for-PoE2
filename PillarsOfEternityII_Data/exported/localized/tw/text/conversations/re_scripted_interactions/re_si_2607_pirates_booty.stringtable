@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_2607_pirates_booty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>75</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>從島嶼中心的山脈間流出的深河在這裡與大海相遇，形成了一個廣闊的三角洲。蔚藍的海水緩緩流向東方，如此的平靜安詳。
+
+海鷗在淺灘上空盤旋，偶爾飛到水面上來捕食。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「瞧瞧那個，」塞拉芬邊望著水面邊說。「跟藍寶石一樣的顏色，卻更細膩柔滑。」
+
+他咧開嘴，笑著望向泰克胡。「有沒有凝視過這裡的海岸，夥計？在這裡活了大半輩子了，沒錯吧？在跟隨船長之前有沒有見過這麼多美麗的島嶼[Player Name]？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我到過許多美麗的地方。自從我加入這個隊伍，也見過可怕的地方。
+
+「這個嘛，應該是死之前一段美好的回憶吧。」
+
+泰克胡對你笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>塞拉芬咯咯地笑。「我開始覺得亡焰列島只不過是一間被灰塵覆蓋的超大地下室。」
+
+絨精停下來，皺起了眉頭。「喂，船長。你覺得這是怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>一艘風化的小船停在岸邊，而一艘帆船停在離海岸一英里的地方。沙灘上一串新的腳印，沿著河流的一側延伸向內陸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[跟著腳印。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你順著內陸的小道往前走。跟大海不同，那條河的水是從山上流下來的。遠處河流的對岸，矗立著一座殘破的古塔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>在岸邊，你看到一隊基斯，還有一個食人魔和一隻妖精，都穿著海盜的衣服。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[靠近他們。]「喂喂！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[不警告就發起攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[藏在林下植物中。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你沿著河流回到海邊，不去打擾那群海盜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你回到科羅河邊，順流而上向內陸尋找它源頭的那個瀑布。在湖岸邊你一個人都沒有看到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[尋找埋藏的箱子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你搜索了岸邊，發現一處鬆散的沙石明顯有被動過的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你搜索了岸邊，不過似乎海盜沒有留下任何東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你搜索了一陣，[Specified 0]指出一處剛被移動過的沙石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>儘管努力了一個小時，[Specified 0]發現海盜什麼也沒留下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你搜索了岸邊，發現一處鬆散的沙石明顯有被動過的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你搜索了一陣，[Specified 0]指出一處剛被移動過的沙石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>你把箱子挖了出來，上面掛著一枚做工精細的銅鎖。蓋子上刻著一段文字，在拋光過的木質箱體上尤其顯眼：
+
+&lt;i&gt;我們將它藏起來了——希望再也不要再造成傷害。打開後果自負。&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你待在這裡也沒有什麼意義，順著河流走了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「不管箱子裡裝的是什麼，都被魔法改造過，」亞洛斯說完，停頓了一下。
+
+「而且我不確定這是不是......那種讓人愉悅的改造。」他皺起鼻孔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>在箱子裡你找到了一把用黃色和綠色布條包裹著的短劍。
+
+拿到了獎品，你順著河流走了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[撬開鎖，打開箱子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[撬開箱子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[用手雷炸開箱子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[把箱子埋了然後離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>那個鎖還挺難開，不過並不是無懈可擊。你擺弄了一陣，隨著卡噠一聲響，箱子打開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>儘管你使出了渾身解數，依然無法打開箱子上的鎖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你將箱子放回地面，順著河流走了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你將撬棍塞進箱蓋和箱體之間的細縫中。你用盡全身氣力把撬棍往下壓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 0]將撬棍塞在箱蓋下方。哼了一聲，你的隨行者緊緊拉住了撬棍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你謹慎地設置好手雷，把它塞進地裡，引導爆炸的力量直接衝進箱子裡。
+
+然後你找好了掩體。土壤和木塊一下爆裂開來，箱子也被炸開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你設置好手雷，將它固定在箱子底部，然後向後退了一步。
+
+爆炸把你震倒在地。痛苦讓你的面容扭曲，你掙扎著坐了起來，發現雙側肋骨下有淤血。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>隨著一陣響亮的斷裂聲，那個箱子突然打開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>箱子堅定地抗拒著這股想要打開它的力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0]笑嘻嘻的去開鎖。幾分鐘後，隨著卡噠一聲響，箱子打開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>對著鎖擺弄了一陣，[Specified 0]站起來歎了口氣。「沒有用，[Player Name]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Specified 0]設置好手雷，在箱子底部的手雷旁邊封上了一圈泥土。
+
+你們一起找掩護。土壤和木塊一下爆裂開來，箱子也被炸開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Specified 0]在給箱底的手雷封泥土的時候，手雷卻突然爆炸了。泥土和金屬如雨點一般掉落下來，你的隨行者被炸飛了出去，落進泥土裡流血不止。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>你躲在一塊岩石後面，這岩石旁薄霧瀰漫，苔蘚濃密。瀑佈雷霆般的聲響夾雜著海盜們的低語聲不斷從遠處傳來。.
+
+你似乎已經逃離了他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你躲在一塊岩石的背後，一腳踢開一塊礙事的石頭。它從山上掉了下來，而海盜們抬起頭看見了你。
+
+「岩石後面藏了個人！」那個妖精一邊尖叫一邊瘋狂的指向你。「是我先看到的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>儘管你靈巧地滑到那塊岩石的背後，[SkillCheck 0]還是磕到一塊小碎石，讓它從山上掉落下去了。海盜們突然安靜了下來，一齊抬頭望著你。
+
+「有人藏在岩石背後！」那個妖精一邊尖叫一邊指向[SkillCheck 0]。「是我先看到的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>海盜們望著你迅速衝向水邊，急忙從劍鞘中抽出武器......</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>當你走近時，海盜們轉身面對你，你的突然出現顯然讓他們感到困惑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「送他們去見希若洛，夥計們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>其中一個衣著光鮮的年輕基斯走上前來，擺出了一副隨時要拔劍的架勢......</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[偷偷靠近觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[進行伏擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[悄悄溜走。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你拔出武器慢慢向前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>你在岩石中小心翼翼的前行，直到佔據一個有利的位置。他們都圍著一個沉重的寶箱，那個箱子半埋在一堆沙石之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[靜觀其變。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>那隊人馬顯然不太著急。你藏在石碓中幾個小時，瀑布周圍的水霧慢慢染濕你的衣衫。
+
+終於——終於——他們挖好了坑，將寶藏放了進去，又花了不少時間將那個坑填上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[繼續觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>幾個小時之後，他們完成了任務。寶藏深埋地下，而海盜們不住地擦拭額頭上的汗珠。
+
+其中一個海盜，大概是他們的首領吧，說道：「這事結束之後我們得好好喝上一杯。打開海盜烈酒，大塊頭伯克納。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[繼續觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>最後他們喝光了所有的酒，唱遍了所有歌詞裡帶酒的水手之歌，開始收拾工具。他們跌跌撞撞地沿河而下，從你身邊走過卻渾然不知。
+
+你聽著他們離去的聲音，直到一切歸於沉寂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[把箱子挖出來]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>你輕而易舉的找到你埋箱子的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[把它挖出來。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>一個巨大的湖泊——這條河流的源頭——在你面前徐徐展開，湖泊的周圍幾乎都有嶙峋的巨石峭壁環繞。瀑布的水從這個島嶼的海角流入，源源不斷的灌入湖泊之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>你從他們的談話中獲取了足夠的訊息，知道他們在爭論誰該第一個換班用鏟子。
+
+他們想要把箱子埋了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>那個食人魔從附近的石頭上拿起一個巨大的酒桶將它放在沙地上。那群海盜歡呼雀躍眉開眼笑，紛紛從皮帶上解下酒杯。
+
+隨著海盜烈酒越來越少，他們離清醒也越來越遠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>你沿著河流向海岸走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>你將撬棍塞進箱蓋和箱體之間的細縫中。你用盡全身氣力把撬棍往下壓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Specified 0]將撬棍塞在箱蓋下方。哼了一聲，你的隨行者緊緊拉住了撬棍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>箱子上還有火星未滅，蓋子已經打開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「有人藏在岩石後面！」那個妖精一邊尖叫一邊瘋狂的指向你。「是我先看到的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[解鎖箱子。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

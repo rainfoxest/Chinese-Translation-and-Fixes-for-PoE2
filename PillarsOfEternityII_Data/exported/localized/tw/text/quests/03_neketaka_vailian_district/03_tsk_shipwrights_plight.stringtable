@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_neketaka_vailian_district\03_tsk_shipwrights_plight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>船工困境</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到拉多魯船長。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>找到搶劫了拉多魯的海盜惡棍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>與小巷惡棍們對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>回女王港碼頭找薩馬爾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>回女王港碼頭找薩馬爾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>拉多魯船長欠了船工薩馬爾的錢。薩馬爾的債務讓他無法拒絕一個本地海盜幫派，他想要有人幫助他擺脫這一問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>薩馬爾的一名客人沒有如期交付貨款。薩馬爾要求我去女王港的野牝別館尋找拉多魯船長並要回自己應得的錢財。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>盜賊們埋伏了拉多魯船長並且偷走了屬於薩馬爾的錢。盜賊們在女王港北邊的小巷裡偷襲了她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我發現了讓薩馬爾陷入困境的罪魁禍首。他們一直徘徊於女王港的小巷中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>海盜惡棍已經被解決，他們應該不會再困擾薩馬爾了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>海盜們答應我如果能說服薩馬爾接受他們的條件，他們將分一部分的利潤給我。現在的問題在於薩馬爾會不會妥協。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>海盜幫派的老大身邊帶著一頭寵物狼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>如果拉多魯不能支付佣金，薩馬爾將會允許我購買那份物資。昂德拉都知道我的船需要一切能找到的優勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>科塔宣稱他身上沒有拉多魯的錢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>惡棍們在白天睡覺，晚上他們會在小巷裡面做壞事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>拉多魯船長死了。如果真的有一個海盜幫派，我只能自己去尋找了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>拉多魯船長死了，她現在應該沒有辦法支付佣金了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>對完成此任務至關重要的角色已被擊殺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我為薩爾馬擺平了皇族海盜惡棍，作為回報薩爾馬給我提供了折扣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我說服薩馬爾接受了皇族海盜的條件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我決定給薩馬爾提供他沒從拉多魯船長那收到的資金。現在沒有那麼大壓力的薩馬爾可以繼續工作了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

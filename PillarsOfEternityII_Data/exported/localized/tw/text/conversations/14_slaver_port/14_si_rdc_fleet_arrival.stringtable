@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_slaver_port\14_si_rdc_fleet_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>鉤刺島是你身後的銀色陸地，你能看到有艦隊在靠近。
+
+它們是努瓦泰的戰艦，上面豎立著大炮，高速行駛著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>領頭的船上的船長在他的船靠近你的船時，鞠了一躬。
+
+「晴空萬里啊，[Player Name]，做得好。我們會注意港口的防禦的。」
+
+努瓦泰的士兵在甲板上集合，穿著重重的甲衫，帶著兩面都閃閃發光的刀子。他們看起來已經做好了一切準備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「阿蘇拉沒有提及任何努瓦泰船隻。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「風平浪靜。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>他把他的前臂交叉在胸前，看著他的船駛離。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我們是魯奎帕。我們是蘭迦努伊最厲害的勇士。」
+
+站在他身後的部隊交叉著雙臂，動作一致。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>他看起來不舒服。
+
+「我不會無端猜測阿蘇拉努伊的生意。我的命令是保護港口免受海盜和奴隸販子的襲擊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>他們靠近你了，一個熟悉的身影脫下他的帽子，提高他的聲音表達問候。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「靈視者！真的是你嗎？」
+
+卡納露瓦向你露出毫不掩飾的開心笑容，越過旁邊困惑的船長，倚在船欄杆上想要看清你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「卡納！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你跑哪兒去了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「哦，不會又是你吧……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「喂，懶鬼！我和你說過別再出現在這了吧？」
+
+麥婭衝他笑笑。伊希薩倚在欄杆上發出一聲愉悅的嘯叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「姐姐！你要當心點那傢伙！他總是喜歡捉弄人！」卡納向你眨眨眼。</DefaultText>
+      <FemaleText>「姐姐！你要當心點那傢伙！她總是喜歡捉弄人！」卡納向你眨眨眼。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我早該想到你會在這。但凡是值得看看的地方，我就知道你會出現。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我知道，我不戴帽子看起來就是個陌生人。」
+
+卡納又把帽子扣回腦袋上擺正位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「我得走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「見到你真好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「還有我姐姐！」
+
+「你很享受&lt;i&gt;冒險&lt;/i&gt;生活嗎，麥婭？你媽媽會怎麼說？」卡納搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「她肯定會說我們之間相隔太遠啦！你在這幹什麼，給部隊唱搖籃曲嗎？」
+
+麥婭衝他笑笑。伊希薩倚在欄杆上發出一聲愉悅的嘯叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我真的很想念你。還有我們冒險的日子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「真的嗎？」卡納的話音聽起來有點感動。
+
+「我知道咱倆完全不是一類人，但我真的還是很想念你。你總能讓事情變得&lt;i&gt;激動人心&lt;/i&gt;。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「沒錯，我們倆肩上都有各自的責任。你能相信嗎？我也擔負起責任來了。」卡納悄悄自顧自地笑笑。
+
+「好了，船長都等著急了。你要好好保重，朋友！我們會為你寫一首水手號子的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「一定要好好照顧他，麥婭！記得你可是要擔負責任的人！」卡納擺動著一根手指。</DefaultText>
+      <FemaleText>「一定要好好照顧她，麥婭！記得你可是要擔負責任的人！」卡納擺動著一根手指。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「嗯，總得有人把&lt;i&gt;光榮的征服&lt;/i&gt;譜寫成曲。鑒於我把自己看成是個不停&lt;i&gt;奮鬥&lt;/i&gt;的學者，我覺得自己已經做出了明確的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「還有呢？就是記錄所有發生的事情。他們對我來這不怎麼感冒，但我有點大驚小怪了，唉，有誰會和帝王最喜歡的詠者說他不能參戰了呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我會讓他離開闊水域遠點的，你這個大慫蛋省點心吧。」
+
+麥婭朝卡納笑笑。</DefaultText>
+      <FemaleText>「我會讓她離開闊水域遠點的，你這個大慫蛋省點心吧。」
+
+麥婭朝卡納笑笑。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「還是和往常一樣的壞脾氣啊！嗯，我們都是一樣愛你的。我親愛的發牢騷的朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「所以我知道你沒死。努亞堡的大人讓人殺了？簡直是胡說！」</DefaultText>
+      <FemaleText>「所以我知道你沒死。努亞堡的夫人讓人殺了？簡直是胡說！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「什麼後來，從那處崩塌冰洞裡逃出來？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「打敗了不止一頭，而是足足&lt;i&gt;三頭&lt;/i&gt;巨龍！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「擊敗了在魂珀中挖出的一頭巨龍！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「和&lt;i&gt;眾神&lt;/i&gt;對著幹！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「擊垮灰鑰社之後？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「擊垮灰鑰社！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「卡納！我滿世界的跑就是不想聽你嘮叨。」
+
+麥婭舉手指著他，警告似的挑起眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「揭開遠古失落語言的面紗！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「就是讓你被一隻巨足踩扁？真荒唐。故事可不是這麼寫的。」卡納叉起雙臂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「博學園肯定會驚於再次聽到你的名字吧！」卡納露齒而笑。
+
+「他們說這叫做作，但其實生活有時候就是這麼奇怪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「你再這樣下去怕是努瓦泰人的羊皮紙都要不夠用了。簡潔一點！」
+
+麥婭用手捂著嘴笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「就像小羊羔一樣。全副武裝的危險而惡臭的小羊羔。」卡納向伊希薩揮揮手，擺動著手指。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我不清楚，弟弟——船長在附近的時候我還是挺莽的。」
+
+麥婭向你眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>船長總算到了欄杆旁邊，僵硬地彎下腰。
+
+「晴空萬里啊，[Player Name]，做得好。我們會注意港口的防禦的。」
+
+努瓦泰的士兵在甲板上集合，穿著重重的甲衫，帶著兩面都閃閃發光的刀子。他們看起來已經做好了一切準備。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>卡納過了幾秒也有樣學樣，羞怯地扮著鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

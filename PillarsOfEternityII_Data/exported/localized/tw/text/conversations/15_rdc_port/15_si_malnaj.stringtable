@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\15_rdc_port\15_si_malnaj</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你差不多把梨繪港口清理乾淨時，左舷船首方向出現一艘帆船它吃水不深，速度很快，不過它一邊靠近陸地一邊與你保持著距離。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>痛苦之悅號慢慢開到你船的一側，瑪娜吉站在欄杆上，用一隻長著灰毛的手緊緊握著麻繩。她深鞠一躬，脫帽致意，然後把帽子丟給了一名水手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>塞拉芬透過舷窗一臉嚴肅地看著那艘船經過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>那艘船掉轉方向開始追擊你，你認出了該船是瑪娜吉的痛苦之悅號。船上火炮似乎並未裝火藥準備開炮，船也並非徑直撞向你的船，而是打算與你的船並排行駛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「船長，看來海上惡魔女王想跟你談談。不知這是福是禍，但至少這意味著她人不在梨繪。」
+
+塞拉芬微微耷拉下耳朵，揉了揉鼻樑。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

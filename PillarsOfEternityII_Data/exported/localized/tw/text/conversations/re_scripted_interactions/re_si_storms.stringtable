@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_storms</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>225</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>遠處的雲朵匯聚起來，眼看著就要下雨了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>遠處的烏雲一朵接一朵地堆積起來，彷彿在互相爭奪主動權。刺目的光芒劃破海平面與天空，隨即降下一陣震耳欲聾的雷聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>沒有船員來操作桅桿與方向了，你現在只得聽命於昂德拉……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Specified 0]凝視著風暴。「一場小風暴而已。直接開過去吧，沒什麼威脅。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Specified 0]看了看風暴，吐了口口水。「真希望這艘船有水手長啊，船長。在風暴裡，沒有誰比您更讓人放心了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你的船員們看著你。「請下令吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>沒有船員來操作桅桿與方向了，你現在只得聽命於昂德拉……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 0]看了看風暴，吐了口口水。「真希望這艘船有水手長啊，船長。在風暴裡，沒有誰比您更讓人放心了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 0]嚥了口口水。「諸神啊，船長，您惹了昂德拉嗎？除非是她親自發怒，不然您告訴我這是什麼？」水手長從甲板上放眼望去。
+
+「沒人想待在那樣的風暴裡——隨便來次大浪就能把整艘船掀了，大家都得死。希望能逃得掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Specified 0]看著漸漸龐大的風暴皺起眉頭。「可以肯定的是：不是什麼微風。這風力可能會比較煩人。不能讓波浪打到船的側面，並且要關上艙門。如有需要，得齊心克服困難。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[分配船員責任。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[尋求一名夥伴的援助。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「我們準備得不能更充分了。進去吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「麥婭，你跟伊希薩能不能測出風暴的範圍？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>你尋找一名同伴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>船員們等待你的指示。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「泰克胡，拿著這根繩子，去桅桿那裡，要小心。可不能在這樣的風暴裡掉出去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「裘荻，你想安慰他們的話，可以去佈個道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「臭羽毛，你們知道該怎麼做。」
+
+麥婭送走手臂上的鳥。伊希薩趁著風勢展翅翱翔，漸漸化為遠方的斑點。
+
+麥婭用手擋住陽光，仔細觀察他的飛行線路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「當然了，船長。」
+
+泰克胡把自己的手腕綁住，恰好留夠了空間，接著便做出了複雜的動作。
+
+你周圍的波浪立刻對他做出了回應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你要我向死神禱告？」裘荻饒有興致地噘起嘴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「所有人去低層甲板&lt;link="glossary://GlossaryEntry_Action_SecureCargo"&gt;保護貨物&lt;/link&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「所有人去舵盤！我們得&lt;link="glossary://GlossaryEntry_Action_Reefing_Sails"&gt;收帆&lt;/link&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「把&lt;link="glossary://GlossaryEntry_Action_RainBarrels"&gt;雨水桶&lt;/link&gt;搬上來。看看能不能把水弄出去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「[Specified 1]，拿著繩子趕緊去舵輪那裡。我不想你掉海裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「[Specified 3]，把燒熟了的食物拿出來，然後熄掉廚房裡的火。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[指派水手職責。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「大伙都進下層甲板，把艙門封上！我們要&lt;link="glossary://GlossaryEntry_Action_LieAhull"&gt;卷帆&lt;/link&gt;了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「所有人各就各位！我們&lt;link="glossary://GlossaryEntry_Action_HoldCourse"&gt;保持航線&lt;/link&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你頭頂的雲朵主宰了整片天空，彷彿籠罩在海面上的灰色穹頂。雨點狠狠地砸在甲板上。
+
+汗水從[Specified 1]的眉毛淌過。風暴越來越近了。「這回可跑不掉啦，船長！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你考慮著如何好好利用手下……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Specified 1]扮了個鬼臉接過繩索，開始把它穿過舵輪和自己的腰帶纏起來……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 3]示意。「遵命，船長。這一切都過去以後，大伙肯定會喜歡一頓美餐的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>船員們齊聲回應，然後消失在甲板下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>船員們升到索具處，拉開繩索並收帆，減低後者所受的風力，然後返回甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>水手們從船艙把空桶拖上來，把它們固定在圍欄上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>海水翻騰著，攪得船左右搖晃[Player Ship]。狂風咆哮著，把大雨砸在甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>風平靜下來，但雨還是傾盆而下，彷彿[Player Ship]被埋葬在水簾下一般。雨水潑濺在甲板和圍欄上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>呼號聲就像末日號角一般響起：
+
+「著火了！」
+
+你衝入船艙，看到火蛇從船樑一路躥到庫房……以及火藥艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>船沒完沒了地顛個不停，船員們很快就在嘔吐桶前面噴得人仰馬翻。
+
+嘔吐出來的酒味充斥著空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我們&lt;link="glossary://GlossaryEntry_Action_Heave_To"&gt;滯航&lt;/link&gt;了！舵盤向船帆打滿，然後到下層甲板去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我們&lt;link="glossary://GlossaryEntry_Action_BarePoles"&gt;空桅&lt;/link&gt;了，[Specified 1]！其他人都下去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>海水翻騰著，攪得船左右搖晃[Player Ship]。狂風咆哮著，把大雨砸在甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>風平靜下來，但雨還是傾盆而下，彷彿[Player Ship]被埋葬在水簾下一般。雨水潑濺在甲板和圍欄上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>水灌進船艙裡，已經齊膝深了。[Player Ship]在水裡踱步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>一陣劇烈的抖動之後，船整個側翻了……並且沒有自己翻回來。你頭頂下不完的傾盆大雨，掙扎著抵抗兇猛的波濤。
+
+在一次失手抓空後，你沉入海中。
+
+你的肺劇烈地起伏著尋找空氣，但徒勞無果。黑暗把你帶走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「把艙底的水抽出來滅火！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「把水從庫存裡搬出來滅火！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[用水魔法滅火。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>魔法水浪沖破火勢，整個船艙頓時蒸汽繚繞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>奮戰數小時後，船員們總算滅掉了火。然而[Specified 4]的燒傷太嚴重，還是在當晚犧牲了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>數小時後，一身大汗與炭灰的船員們互相拍背以示鼓勵——火總算滅乾淨了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>數小時後，一身大汗與炭灰的船員們互相拍背以示鼓勵——火總算滅乾淨了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>火苗竄進貨艙裡，接著蔓延到甲板上。你料想不到在這樣的風暴裡還能有東西燒起來，但索具與船帆給了你當頭一棒。
+
+火苗在[Player Ship]肆意亂竄，脫離了你的掌控。
+
+船完全失控了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「大伙都進下層甲板，把艙門封上！我們要&lt;link="glossary://GlossaryEntry_Action_LieAhull"&gt;卷帆&lt;/link&gt;了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「所有人各就各位！我們&lt;link="glossary://GlossaryEntry_Action_HoldCourse"&gt;保持航線&lt;/link&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「我們&lt;link="glossary://GlossaryEntry_Action_Heave_To"&gt;滯航&lt;/link&gt;了！舵盤向船帆打滿，然後到下層甲板去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「我們&lt;link="glossary://GlossaryEntry_Action_BarePoles"&gt;空桅&lt;/link&gt;了，[Specified 1]！其他人都下去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>雲層像是力竭一般消停下來，像黑幕似的懸在天空中。海浪也停止顫抖，[Player Ship]終於能順暢地航行了。
+
+船員們靠在桅桿與圍欄上，面容憔悴但又透著一絲釋懷。
+
+看來風暴是過去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「打開炮艙。能看到海平面會好受些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「[Specified 0]，我希望你能利用我們現有的一切醫療資源來最大化施展你的魔法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「大家都上甲板。呼吸點新鮮空氣有好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[從心靈上減低他們的暈船症狀。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>你的心靈深入船員們的思緒，將船隻的搖晃感趕出去。噁心感不翼而飛，彷彿惡夢散去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>[Specified 5]雙眼緊閉，將精力轉向船員們。很快，水手們又能挺直腰桿站起來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>船員們嘟囔著爬到風雨中，但暫時不會嘔吐了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Specified 0]點了點頭。「遵命。我恰好知道怎麼才能讓大夥兒不會在雨裡難受。」
+
+醫生在船員間來回踱步，向大家傳遞信心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>船員們打開炮艙，既為了透透氣也為了遠離嘔吐桶裡的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>船員們從甲板上疾跑著進入船殼內部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>波浪狠狠地砸向船體，水如瀑布一般傾斜在甲板上。你頂風前進，水手們互相傳遞著口令並拽緊桅桿來保命。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>你在船舵周圍綁上繩索，[Specified 0]向水手們下達命令。在船隻終於做好了無人親手操控航行的準備之後，你進入下層甲板去尋找大家。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>[Specified 1]麻利地握住舵盤，其餘船員收好帆便匆匆進入下層甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>狂風重重地打在桅桿上驅趕著[Player Ship]向前撲，它在風暴中一路疾行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
+
+在陰暗的下層甲板上，船員們抓著能找到的打物品——基斯和箱子一同被重力拋來拋去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>船員們彎腰關上每一扇可能漏水的艙門。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>船員們頂著瓢潑大雨指引[Player Ship]渡過災難。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>海水沒過甲板，順著艙門流進來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>你在船舵周圍綁上繩索，[Specified 0]向水手們下達命令。在船隻終於做好了無人親手操控航行的準備之後，你進入下層甲板去尋找大家。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>水灌進船艙裡，已經齊膝深了。[Player Ship]在水裡踱步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Specified 1]麻利地握住舵盤，其餘船員收好帆便匆匆進入下層甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>狂風重重地打在桅桿上驅趕著[Player Ship]向前撲，它在風暴中一路疾行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
+
+在陰暗的下層甲板上，船員們抓著能找到的打物品——基斯和箱子一同被重力拋來拋去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>一陣劇烈的抖動之後，船整個側翻了……並且沒有自己翻回來。你頭頂下不完的傾盆大雨，掙扎著抵抗兇猛的波濤。
+
+在一次失手抓空後，你沉入海中。
+
+你的肺劇烈地起伏著尋找空氣，但徒勞無果。黑暗把你帶走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「去找水泵！把水抽出去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「我們得減重！把不需要的東西全都丟掉！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「別管水了，先修裂縫！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[凍住水流。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>寒冷的魔法掃過水流，把它凍成冰塊，暫時止住了漏水之勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>船員們奔走著麻利地修補裂縫與漏洞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>儘管水平專業，進度卻不樂觀，因為跌落的工具與浸透的補給妨礙了他們的行動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>船員們把補給與彈藥搬到甲板上來，把最重的壓艙物丟到海裡去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>船員們輪流工作，保持出水速度略略快過進水速度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>水手們用力壓泵，保持出水速度跟上進水速度。到當天結束時，[Specified 2]已經完全浸透了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>刺耳的吱嘎聲穿透甲板，它標誌著桅桿撐不住了。桅桿像撞槌一樣帶著帆重重地砸到左舷船殼裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>一道暗流改變了風向，雨水蹊蹺地扭轉自己的形態。你看到從周邊空間匯聚的精粹中顯現的魂怪填滿了甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>從海面上刮來的風暴壓彎了桅桿和繩索，還捲起巨浪拍打甲板。風勢之大，讓暴雨幾乎橫著錘在船上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「大伙都進下層甲板，把艙門封上！我們要&lt;link="glossary://GlossaryEntry_Action_LieAhull"&gt;卷帆&lt;/link&gt;了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「所有人各就各位！我們&lt;link="glossary://GlossaryEntry_Action_HoldCourse"&gt;保持航線&lt;/link&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「我們&lt;link="glossary://GlossaryEntry_Action_Heave_To"&gt;滯航&lt;/link&gt;了！舵盤向船帆打滿，然後到下層甲板去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「我們&lt;link="glossary://GlossaryEntry_Action_BarePoles"&gt;空桅&lt;/link&gt;了，[Specified 1]！其他人都下去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>波浪狠狠地砸向船體，水如瀑布一般傾斜在甲板上。你頂風前進，水手們互相傳遞著口令並拽緊桅桿來保命。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>船隻在波濤中扭來扭去，船員們在黑暗裡擠作一團。[Player Ship]望著暴怒的海洋擔憂地吱吱叫。
+
+
+好像有什麼東西裂開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>一道波浪劈在甲板上，把尖叫著的[Specified 1]從舵盤捲入海中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>「有人落水！去拿繩索來營救！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>「昂德拉，請照料這位海員的靈魂，我們將它交給您冰冷的懷抱。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>[召喚觸手營救[Specified 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>「裘荻，請指引[Specified 4]的靈魂前去岡恩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>[Specified 2]把繩索綁在手腕上，躍過圍欄消失在水中。
+
+幾分鐘後，這位水手重新出現，緊緊抱著口吐飛沫的[Specified 1]。
+
+你幫忙把水手們拉回甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>[Specified 2]拽著繩索躍過圍欄。
+
+你頂著風雨等待他們的消息。最後你把繩子拉回來，沒有感受到阻力。
+
+[Specified 2]和[Specified 4]都失蹤了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>你沒有再得到水手的消息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>你用吟唱呼喚奧術深淵的精粹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>[Specified 5]吟唱時，令人作嘔的鹹腥味充斥著空氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>長長的蜿蜒觸手從暴躁的深淵突上來。它盛著猛吐水的水手並將其拽回傾斜的甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>觸手在湧動的水流中搜尋著，但並沒有抓到失蹤的海員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>晨星點點頭，對著狂風舉起燈籠來收割逝去的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「暫時就這樣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>你背對船員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>塞拉芬猶疑不決。「你腦子壞掉了嗎，船長？在這樣的海浪裡，你自己淹死的機率比救人的要大！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>「你聽見我怎麼說的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>醫生皺起眉頭。「我很樂意，船長，但庫存不足了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>雲層與海浪一起翻滾著，它們之間的一切都消失在狂風暴雨中。
+
+[Specified 0]抓著圍欄吼道：「諸神啊，船長！昂德拉&lt;i&gt;發怒啦&lt;/i&gt;！」
+
+你腳下的甲板嘎吱響，暴風雨搖晃著[Player Ship]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>遠處的水面陡然升起，龐大的波浪把整個海面都壓成了半球體。它兇猛地向你襲來……
+
+「諸神啊……」一名水手嘟囔著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>塞拉芬衝著風暴嗥叫。「要是不管那一大塊硬木頭，它會在舷側鑿個口子出來！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>「不去管它。我們不能冒險去索具那裡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>桅桿一遍遍地狠狠敲打船側，力道彷彿來自發怒了的食人魔。船隻在暴行下哀嚎著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>「到甲板上去把桅桿切了，別讓它鑿穿船殼！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>塞拉芬握著手斧幫忙切斷繩索，讓桅桿墜入深淵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>水手們爬上索具劈砍繩索，直到桅桿徹底滑落至波濤之下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>水手們爬上索具劈砍繩索，直到桅桿徹底滑落至波濤之下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>船突然傾斜起來，一道巨浪直接打在甲板上。一聲絕望的尖叫之後，[Specified 4]滑到圍欄下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>船突然傾斜起來，一道巨浪直接打在甲板上。一聲絕望的尖叫之後，[Specified 4]滑到圍欄下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>「進下層甲板，把艙門封上！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>[攻擊]「準備武器！我們要保護這艘船！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>雨水拍打在你臉上，浸透了你的衣物，你面前的景象彷彿是憤怒能量轉化為實體……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>你在下層甲板蜷縮著，但能聽到上面魂怪的動靜。聽上去就像在尖叫。電流在船殼裡辟辟啪啪作響，留下焦黑的軌跡，水從艙門的縫隙流入。
+
+接著，風暴將這些實體一掃而空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>返回甲板後，你發現[Specified 1]的遺體仍然緊緊地握著舵盤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>[Specifed 0]驚恐地呼喊：「火藥要爆了！」船員們急忙四處尋找掩體。
+
+火藥承載著瑪珈嵐之怒爆炸了，船殼上下頓時傷痕纍纍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>刺耳的吱嘎聲穿透甲板，它標誌著桅桿撐不住了。桅桿像撞槌一樣帶著帆重重地砸到左舷船殼裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>水灌進船艙裡，已經齊膝深了。[Player Ship]在水裡踱步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
+
+在下層甲板，受保護的貨艙完好無損，沒有危及已經手忙腳亂的船員們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>你在船舵周圍綁上繩索，[Specified 0]向水手們下達命令。在船隻終於做好了無人親手操控航行的準備之後，你進入下層甲板去尋找大家。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>[Specified 1]麻利地握住舵盤，其餘船員收好帆便匆匆進入下層甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>狂風重重地打在桅桿上驅趕著[Player Ship]向前撲，它在風暴中一路疾行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
+
+在陰暗的下層甲板上，船員們抓著能找到的打物品——基斯和箱子一同被重力拋來拋去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
+
+在下層甲板，受保護的貨艙完好無損，沒有危及已經手忙腳亂的船員們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>「大伙都進下層甲板，把艙門封上！我們要&lt;link="glossary://GlossaryEntry_Action_LieAhull"&gt;卷帆&lt;/link&gt;了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>「向前開！我們可以直接衝過去的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>「要對準角度！別讓它把我們頂翻了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>[待在波谷裡。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>[用魔法衝破波浪。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>塞拉芬猶疑不決。「你腦子壞掉了嗎，船長？在這樣的海浪裡，你自己淹死的機率比救人的要大！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>船隻在波濤中扭來扭去，船員們在黑暗裡擠作一團。[Player Ship]望著暴怒的海洋擔憂地吱吱叫。
+
+
+好像有什麼東西裂開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>「你聽見我怎麼說的了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>你掉轉船頭，想讓它垂直對準波浪。它向左側襲來，甲板陡然右傾。它向左側襲來，甲板陡然右傾。
+
+你絕望地貼住舵輪，波浪傾倒在你身上，凌冽地刮擦你的皮膚，彷彿要把你吃痛的手指撬開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>你抱著船首吟唱，盯著正在升起的水面，呼喚著身邊的精粹並賦予其形態。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>[Specified 5]倚住船首伸出雙臂來吟唱，法術匯聚力量，散發出微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>法術向前衝去，整個甲板都為之晃動；它剪斷了前索具。它劃破巨浪，切出一條液體峽谷來。[Player Ship]穿過其中，身後的水流咆哮著閉合。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>[Specified 1]的船首斜桅筆直地衝入波浪。甲板整個向上升起來，水流沖刷著船的兩側。[Player Ship]向波浪的遠端下墜，此間你感受到短暫的失重。
+
+舵手呼號起來——但你不確定是因為興奮還是恐懼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>甲板瘋狂地向天空傾斜，你感到一陣眩暈；[Player Ship]從波峰升起，然後狠狠地砸在波浪後頭。
+
+抱緊了圍欄的船員們紛紛絕望地驚叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>[Specified 1]緊張地攥著舵輪，小心地指引[Player Ship]穿過巨大的洪流。
+
+從波峰成功降落時，舵手興奮地大叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>船員們盡力了，波濤還是從船的一面升起。甲板向水平角度更進一步……
+
+船能不能駛過波浪已經不重要了，最後，成千上萬加侖的水砸在船殼上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>「大伙都進下層甲板，把艙門封上！我們要&lt;link="glossary://GlossaryEntry_Action_LieAhull"&gt;卷帆&lt;/link&gt;了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>「我們&lt;link="glossary://GlossaryEntry_Action_Heave_To"&gt;滯航&lt;/link&gt;了！舵盤向船帆打滿，然後到下層甲板去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>「所有人各就各位！我們&lt;link="glossary://GlossaryEntry_Action_HoldCourse"&gt;保持航線&lt;/link&gt;！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>「我們&lt;link="glossary://GlossaryEntry_Action_BarePoles"&gt;空桅&lt;/link&gt;了，[Specified 1]！其他人都下去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>船隻在波濤中扭來扭去，船員們在黑暗裡擠作一團。[Player Ship]望著暴怒的海洋擔憂地吱吱叫。
+
+
+好像有什麼東西裂開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>你在船舵周圍綁上繩索，[Specified 0]向水手們下達命令。在船隻終於做好了無人親手操控航行的準備之後，你進入下層甲板去尋找大家。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>狂風重重地打在桅桿上驅趕著[Player Ship]向前撲，它在風暴中一路疾行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>波浪狠狠地砸向船體，水如瀑布一般傾斜在甲板上。你頂風前進，水手們互相傳遞著口令並拽緊桅桿來保命。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>波浪狠狠地砸向船體，水如瀑布一般傾斜在甲板上。你頂風前進，水手們互相傳遞著口令並拽緊桅桿來保命。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>風暴一直兇猛地刮著，沒有減弱的跡象……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>帕蕾吉娜在水手間穿行，用藥膏配以教會訓練的辦法緩和他們的傷勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
+
+在下層甲板，受保護的貨艙完好無損，沒有危及已經手忙腳亂的船員們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>帕蕾吉娜在水手間穿行，用藥膏配以教會訓練的辦法緩和他們的傷勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
+
+在陰暗的下層甲板上，船員們抓著能找到的打物品——基斯和箱子一同被重力拋來拋去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>[Specified 1]麻利地握住舵盤，其餘船員收好帆便匆匆進入下層甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>只有被保護住的貨物免遭戕害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>帕蕾吉娜在水手間穿行，用藥膏配以教會訓練的辦法緩和他們的傷勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>儘管水平專業，進度卻不樂觀，因為跌落的工具與浸透的補給妨礙了他們的行動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>儘管水平專業，進度卻不樂觀，因為跌落的工具與浸透的補給妨礙了他們的行動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>[Player Ship]沿著風暴的方向破浪而行，下層甲板的船員們並不好受。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>[Player Ship]沿著風暴的方向破浪而行，下層甲板的船員們並不好受。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>在下層甲板上，貨物被緊緊地捆住，繼而免受損傷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>殘破的風帆從桅桿上垂下來，不比破布強到哪裡去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>殘破的風帆從桅桿上垂下來，不比破布強到哪裡去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>殘破的風帆從桅桿上垂下來，不比破布強到哪裡去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>你可以關上艙門等待魂怪消散，但它們可能損壞索具和船殼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>殘破的風帆從桅桿上垂下來，不比破布強到哪裡去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>[Specified 1]扮了個鬼臉接過繩索，開始把它穿過舵輪和自己的腰帶纏起來……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>[重新思考你的選擇……]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>你考慮另一種方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>「一場風暴而已。花一天時間就可以繞過去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>「這風暴威力可大了，但它暫時沒動靜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>「船長，不妙啊。花一周時間躲開吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>「塞拉芬，我這裡需要你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>絨精咧嘴笑。「沒問題，船長。要是出什麼岔子，我就來通知你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>帕蕾吉娜在水手間穿行，用藥膏配以教會訓練的辦法緩和他們的傷勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>……而[Specified 1]綁在舵上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>塞拉芬對著奔流大吼。「必須衝到浪上頭去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>依靠拍打在風帆上的狂風，[Player Ship]在風暴中勇猛地向前開進。
+
+在下層甲板，受保護的貨艙完好無損，沒有危及已經手忙腳亂的船員們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>帕蕾吉娜在水手間穿行，用藥膏配以教會訓練的辦法緩和他們的傷勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>殘破的風帆從桅桿上垂下來，不比破布強到哪裡去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>風暴彷彿力竭一般減弱了……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>從海面上刮來的風暴壓彎了桅桿和繩索，還捲起巨浪拍打甲板。風勢之大，讓暴雨幾乎橫著錘在船上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>伊希薩停在麥婭的手臂上，親暱地輕啄她的臉頰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>「假如我們所有人都已時日無多，那我應該可以祈求我們的靈魂安全通過地獄。」
+
+她點點頭，然後低下頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>「至高無上的俄撒斯啊，您有無數化身，其中最偉大的乃是岡恩。我懷著感恩和無盡的崇拜之情，謙卑地向您禱告。神啊，請聆聽我的話語，憐憫您處於水深火熱中的信徒吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>「我們穿越死亡的黑暗風暴時，並不畏懼即將到來的收割。因為您的燈籠會給我們指明方向。您已為我們鋪好了穿越地獄的道路，而我們也不會跌跌撞撞或偏離路線。我們欣然接受生命的終結，並剝去腐爛的軀殼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>「然後，我們會經由您之手獲得重生。」
+
+「直到永遠，正如滾滾的貝拉斯之輪，」
+
+「阿門。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>[將達林領主的長斧指向天空。「向著風暴前進。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>船員們面面相覷，然後開始執行你的命令。[Player Ship]的船頭轉向了風暴，駛入雨中，彷彿穿越一道帷幕，要在飽受煎熬的天空下心神不寧地休息一樣。
+
+雲層裡閃電湧動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>閃電命中了武器，電流沿著武器流向你。你四肢火花四濺，周圍變得一片雪白，之後眼冒金星，紫色的爆炸充斥視野。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>你爬上索具，一隻手緊緊抓住繩索，另一隻手將長斧指向天空。刺眼的藍紫色電弧似乎近在咫尺。
+
+[Player Ship]製造出的湧浪將你朝電閃雷鳴的天空推進，而天空也屈尊與你見面。一把破舊的能量之叉像劊子手的斧頭一樣從雲端落下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>你的視覺恢復時，海面風平浪靜。天上的雲就像一層灰色的毛毯。你感覺長斧變沉了，彷彿承載了風暴的重量。
+
+你從索具上下來，回到了甲板上歡呼雀躍的船員們身邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

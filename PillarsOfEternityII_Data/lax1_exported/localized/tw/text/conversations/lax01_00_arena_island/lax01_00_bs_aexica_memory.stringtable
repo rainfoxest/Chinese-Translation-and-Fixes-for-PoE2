@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax01_00_arena_island\lax01_00_bs_aexica_memory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「這座島屬於我的帝國！一切都要在我的指揮下進行建造。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「別擔心，大人。我們向卡茲瓦里派出了艾歐拉大陸有史以來最出色的建築大師，這裡一定會變成一座奇跡之城，千秋萬載。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「這件事沒什麼好談的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我相信，我們一定能找到折衷方案。如果你們打算遣散我，我會立刻通知我的上級。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「在這裡埋好銅線——還有這裡。一定要埋得很深才行。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「無論你想怎麼樣，我都能把它造好。只是……如果被他們發現的話，我們就再也得不到他們的信任了。到時候，我們在烏凱佐的任務就肯定完蛋了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「如果不能在這裡證明我們的理論，那烏凱佐就沒有任何價值了！你在乎的是建築，而我在乎的是胡亞納人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「這裡的建築必須由胡亞納人來建造，否則就乾脆不要建了。別的話我不想再聽了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「地板是肯定會受到損傷的。到時候，我們可不希望管線都露在外面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「萬一我們在建造的時候，胡亞納的工人去那邊看了一眼呢？萬一有人——」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

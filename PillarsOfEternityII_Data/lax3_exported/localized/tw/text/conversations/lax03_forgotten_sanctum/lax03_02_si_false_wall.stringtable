@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\lax03_forgotten_sanctum\lax03_02_si_false_wall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>牆壁的這一部分似乎比其他地方更薄弱一些，磚頭十分老舊，水泥漿也幾近脫落崩碎。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[檢查牆壁。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[把牆推倒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[使用撬棍把牆拽倒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[不去管它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>將牆壁徹底檢查一遍之後，你發現了一些建築薄弱點。如果有好用工具的話也許能進一步破壞障礙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>將牆壁徹底檢查一遍之後，你毫無所獲。
+
+也許筆記上說的是真的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你用盡全身力氣將牆壁推倒，整堵牆在一片煙塵中倒塌了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你用盡全身力氣將牆壁推倒，整堵牆在一片煙塵中倒在你身下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Specified 0]用盡全身力氣將一側肩膀抵在牆上。牆壁在你同伴的努力下轟然倒下，而你的同伴尖叫一聲消失在牆壁另一側的黑暗中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>這堵牆很明顯沒辦法隨便推倒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[放置內爆炸藥。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[利用錘子和鑿子進一步破壞牆壁。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你從行李中掏出炸藥時不小心掉到了地上。
+
+時間在這一刻似乎停止了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你趕緊找好掩護等著這個完美放置的炸藥被引爆。隨著一聲巨響，牆壁應聲而倒，瓦礫碎了一地，也為你面前開出了一條路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Specified 0]從行李中掏出炸藥時不小心掉到了地上。
+
+時間在這一刻似乎停止了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>經過幾個小時的努力後，你清理掉了石間的不少泥漿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>糊在古代石頭的一張褪色便箋上寫著英格維仙的傳說「這堵牆與其他牆壁並沒有什麼不同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你用盡全身力氣將牆壁推倒，整堵牆在一片煙塵中倒在你身下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0]用盡全身力氣將一側肩膀抵在牆上。牆壁在你同伴的努力下轟然倒下，而你的同伴尖叫一聲消失在牆壁另一側的黑暗中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你將撬棍塞入某個薄弱點然後上下撬動使其更加深入。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你用盡全身力氣抵在牆上，扭傷了肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Specified 0]用一側肩膀抵住牆壁，結果只是痛苦地喘著粗氣。你的同伴抱著一條胳膊走開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你一聽到炸彈引爆的巨響就拚命往後跳。你感覺到自己仍然被拽了回去，天花板上掉下的碎屑砸在你的後背和肩膀上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>但你還是活了下來。你拍拍身上的塵土，開始檢查牆壁。你只找到了一個向黑暗中不斷延伸的大洞。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

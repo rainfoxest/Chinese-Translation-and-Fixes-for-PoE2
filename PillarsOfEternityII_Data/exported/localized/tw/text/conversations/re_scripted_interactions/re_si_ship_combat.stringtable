@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_ship_combat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>180</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[ShipDuel_OpponentShip]的船員分散到甲板各處行動起來。有的跑去上桅桿、收放船帆，有的拉開長長的繩索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[進入戰鬥]「前進！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[嘗試撤退]「後退！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0]轉接你的命令，船員們立刻展開行動。[ShipDuel_PlayerShip]全力搶風航行。
+
+你的船速度更快，而你的船員準備也更充分，[ShipDuel_OpponentShip]的船員還沒來得及調整標尺就被你搶了先。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你下令船員全力開進。
+
+敵方艦船在追趕不及，漸漸消失在海平面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt;「撞擊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Half_Sail"&gt;&lt;sprite="Inline" name="action_half_sail" tint=1&gt;&lt;/link&gt;「半速前進！」（[ShipDuel_PlayerHalfSailDist]）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;「開前炮！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>船員們迅速扭轉主帆，不再操心這場不速之戰。
+
+張開船帆後，[ShipDuel_PlayerShip]緩緩地轉入順風向；她趁著疾風鼓滿船帆，加速撤退。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你單獨又回到廣袤的公海上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[ShipDuel_PlayerShip]趁著疾風鼓滿船帆，破開海浪沖向敵方艦船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Jibe"&gt;&lt;sprite="Inline" name="action_reverse" tint=1&gt;&lt;/link&gt;「掉轉船頭！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你的大炮擊穿敵船的船帆，後者現在是一塊破布了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你的大炮砸開了敵船的甲板，後者現在一片狼藉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>船員撐起桅桿來，展開剩下的船帆。船隻在新動力的驅使下向前衝。你的船員抱緊護欄準備挨撞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你的船在海面上劃開一道口子，踩著身後的波浪向前衝。浪花浸透了主甲板。
+
+隨著一聲巨響，[ShipDuel_PlayerShip]與[ShipDuel_OpponentShip]撞到了一起，一時間碎木橫飛，敵方水手也被震上了天。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Dive"&gt;&lt;sprite="Inline" name="action_dive" tint=1&gt;&lt;/link&gt;「準備潛水！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>所有隔間都報告說他們已準備潛水。
+
+[Specified 0]警告鈴響後，潛水艇沉入水下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[ShipDuel_OpponentShip]調轉方向向你襲來，炮口直指[Player Ship]。
+
+雷鳴般的炮火聲在海面上迴盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[ShipDuel_OpponentShip]展開船帆，趁著疾風全速前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[ShipDuel_OpponentShip]慌張地後撤，船員們心急火燎地把剩餘的船帆撐開好給它增加動力。這艘船很快就化為海平面上的一顆黑點了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[ShipDuel_OpponentShip]張開船帆來借助風勢。它乘風破浪，旗幟如風中的長鞭一般獵獵作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>你的炮彈什麼都沒碰到，直接越過敵船沉入水中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>你的炮彈撕碎了敵船船帆的大部分，並鑿到了船殼內的深處。敵方水手驚恐的哭喊聲飛入你耳中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>海水汩汩流入[ShipDuel_OpponentShip]的船殼。不久後，船就半沉了。
+
+艙裡傳出一聲爆炸，船解體了。一朵黑雲霧飄上天空，它的氣味被風吹到你面前。火藥</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>敵船的舷側隨著一陣爆炸而化為木屑。敵方炮彈的刺鼻氣味橫跨海面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>你的船帆被敵方炮彈命中，變成了一張蛛網。
+
+繩索也斷了。掙脫了束縛的繩子掃到了幾個沒有防備的船員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>敵人的炮彈撕裂了甲板，船員們驚愕地呼號起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>敵方船長命令火炮手們趁勢開火。炮彈在空中劃過一道拋物線，什麼都沒碰到就落進了船後面的水裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>敵艦的炮彈鑿穿你的船殼，把它打成了篩子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>敵人的大炮咆哮著吐出新一波齊射。炮火穿透船殼的巨響此起彼伏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Specified 0]集結船員準備戰鬥。「傾囊發射！準備瞄準！」
+
+炮手把大炮對準敵船。
+
+「開火！」
+
+震耳欲聾的爆破聲從炮口噴薄而出。炮火連天，襲向[ShipDuel_OpponentShip]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Specified 0]向船員們傳達命令。「下次舉手時開火！」
+
+船隻翻過浪尖之後，你的炮手們向敵船狠狠地齊射炮彈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>&lt;sprite="Inline" name="action_full_sail" tint=1&gt;「滿帆！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Full_Sail"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt;「全速前進！」（[ShipDuel_PlayerFullSailDist]）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>你的炮彈撕碎了敵船船帆的大部分，毀掉了甲板，並鑿到了船殼內的深處。敵方水手的尖叫與哭喊聲飛入你耳中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>你的炮彈完全撕碎了敵船船帆。它砸在甲板上，把它變成了破木片。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>你炮彈砸在甲板上，把它變成了破木片。它們穿透船殼並繼續深入，留下一片廢墟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>炮彈呼嘯著砸到船上，撕裂船帆，僅剩的破布在風中搖搖欲墜。
+
+炮彈砸到甲板上，摧毀了桅桿與繩索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>炮彈鑿穿了船殼，一頭扎進甲板，摧毀了索具與桅桿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>炮彈撕裂船帆、鑿穿船殼，損壞的貨箱與火炮暴露在空氣當中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>選擇行動方案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Specified 0]和[Specified 1]登上主桅桿展開剩餘的船帆。
+
+它迎風揚起。[ShipDuel_PlayerShip]向前推進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>你身後的疾風咆哮著。
+
+你的船乘風破浪沖向前方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>你的甲板水手展開剩餘的船帆，[ShipDuel_PlayerShip]向前加速。船員們抱緊護欄準備挨撞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>水手長[Specified 0]快步躍過甲板，向甲板水手下令。
+
+[ShipDuel_PlayerShip]乘風破浪向前進。你的船加速航向敵艦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[ShipDuel_PlayerShip]利用自己的優勢向敵艦穩穩地推進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>敵方船員等不及要開戰了，但你卻不著急。你們依照自己的節奏向對方開進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>你的炮彈洞穿敵艦，撕裂了船殼與船帆。還沒來得及慶祝，敵艦突然發出一聲&lt;i&gt;巨響&lt;/i&gt;爆炸了。
+
+你的炮彈一定打中了他們的火藥庫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「幹掉船長、俘虜船員！到嘴邊的肥肉可別丟了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「本維斯的賞金和船上的東西都很值錢！今天我們走運啦！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「機靈著點兒！別讓這些混蛋靠太近！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「你們嚇不到我的！我膽子可大了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>&lt;i&gt;Chhhrr - krek - kek - isss&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「船長，我的飛彈急不可耐了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「天雷做鼓音，烏海起翻騰。豪傑七舟子，登船辭岸去！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「吾友，只消獲勝，我們就狂歡慶祝到末日！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「連卡摩亞勇士都不如我們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「我們像昂德拉之潮一樣崛起。前進</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「哎，多美的船！我把它奪過來怎樣？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「風吹滿了我的帆，願它漏過你們的帆！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「你感覺到蒼白騎士在你脖子上吹氣了嗎？你聽到引魂人在你耳邊邀請了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「你能成為漂亮的戰利品！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「轉舵順風走！可不能讓他們佔得先機！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「讓死亡的寒風來得猛烈些吧！黑色暗潮，請你升起！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「穩住甲板，我看到他們了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「讓我看看你們能有多聰明。我可不想失望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「你的恐懼讓我激靈！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「我錢包的份量預示著你的戰敗！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「我對這片水域瞭如指掌。你們躲不了的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「速速受死，我還趕著回去滿足你媽呢！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「很好！總算有配得上的對手了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「你播種，我收割！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「活捉船長者酒配給量加倍！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「我的船員會把你們的四肢一根根拆了，而且毫不憐憫你們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「瑪珈嵐的鑄爐渴望著燃料！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「我們要把你們的船碾碎！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「你們不過是以卵擊石！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>船隻靠近了，上面的船員打開炮艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>隨著一聲怒吼，你們的船員扔出抓鉤，在兩艘船之間架起木板。
+
+他們湧上對面的甲板，掏出武器。驚呆了的敵艦船員集結起來對付你的水手，兩方展開搏鬥，開火聲與刀劍聲此起彼伏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>船員撐起桅桿來，展開剩下的船帆。船隻在額外風勢的幫助下向前突進。
+
+靠近敵船時，勢頭減緩了。身後的風消失了，你的船尷尬地停在了敵方火炮的射程內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>火焰吞噬了敵船。刺鼻的黑煙盤旋著衝上天。
+
+海水淹沒了船艙，冒火的船身很快就消失在浪濤下，彷彿它從來沒存在過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>一眨眼的工夫，船殼就消失在浪濤下了。剩下的只有主桅桿和破碎的船帆，不過它們很快也被大海吞沒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>很快，你能透過炮火聲聽到的聲音就只有[ShipDuel_PlayerShip]的破裂與船員們的哀嚎了。你的船員死透了。
+
+你的船在身後傾斜著滑入深海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>[Specified 0]向船員們傳達你的命令。「各就各位！準備撞擊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[Specified 0]傳達了你的命令，船隻乘風破浪，加速前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Specified 0]的聲音蓋過了潛艇。「調整為無聲運行！標準速度。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>船隻保持距離，像餓虎狩獵般潛伏在你周圍。
+
+它暫時不想驚動你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[進入戰鬥]「探囊取物！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>[撤退]「放他們一馬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>敵船張開船帆來借助風勢。它乘風破浪，旗幟如風中的長鞭一般獵獵作響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>敵船展開船帆，趁著疾風全速前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>你遠遠聽見敵船的水手長下令手下就位。
+
+水手們如蜘蛛般順著桅桿往上爬，然後鬆開船帆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>對方船隻調轉方向向你襲來，炮口直指[Player Ship]。
+
+雷鳴般的炮火聲在海面上迴盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>敵船的船員迅速尋找炮台就位。
+
+水手長一聲令下，炮火聲越過海面傳來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>敵船掉過頭去順風逃離。這艘船很快就化為海平面上的一顆黑點了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>敵艦船長下令撤退，船員們手忙腳亂地準備揚帆。敵艦加速掉頭，順著風疾速前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[ShipDuel_OpponentShip]的船員奔走著進入自己的崗位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>敵艦船員跑步進入操作崗位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[ShipDuel_PlayerShip]全力搶風航行。
+
+你的船速度更快，而你的船員準備也更充分，[ShipDuel_OpponentShip]的船員還沒來得及調整標尺就被你搶了先。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[ShipDuel_PlayerShip]一系列快速機動後，[ShipDuel_OpponentShip]的船員還沒來得及調整標尺就被搶了先。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>海水沒入[ShipDuel_OpponentShip]船殼上的洞。沒過多久，這艘船就半沉了。她的水手們一個個地跳入海中。他們瞪大憤怒的雙眼，尋找一切能夠得著的漂浮物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>船隻翻過浪尖之後，你的炮手們向敵船狠狠地齊射炮彈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>[Specified 0]指了指海平面上遠方的一個黑點。
+
+「船長，有一艘船在靠近。」
+
+你瞇眼看海平面，在微風中瞥見一道不熟悉的顏色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>敵艦船員跑步進入操作崗位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Hold"&gt;&lt;sprite="Inline" name="action_hold" tint=1&gt;&lt;/link&gt;「原地不動！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Port"&gt;&lt;sprite="Inline" name="action_left" tint=1&gt;&lt;/link&gt;左轉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Turn_Starboard"&gt;&lt;sprite="Inline" name="action_right" tint=1&gt;&lt;/link&gt;右轉</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>船員們迅速收帆，現在船幾乎靜止不動了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>舵手向左轉舵，船員們把帆收起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>舵手向右轉舵，船員們把帆收起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>敵船的帆完全收了起來，它停下來了。風停了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>敵艦船長讓[ShipDuel_OpponentShip]轉向左側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>敵艦船長讓[ShipDuel_OpponentShip]轉向右側。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>敵船掉過頭來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>敵船船員四散開來並遵照船長的命令就位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[ShipDuel_PlayerShip]開到[ShipDuel_OpponentShip]的前頭，對準自己的炮口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>船員們調整主帆的角度，[ShipDuel_PlayerShip]掉頭航行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;「發射船尾大炮！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;「發射左舷大炮！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_fire" tint=1&gt;&lt;/link&gt;「發射右舷大炮！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_FireCannons"&gt;&lt;sprite="Inline" name="action_report" tint=1&gt;&lt;/link&gt;「匯報給……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>船員們急匆匆衝過甲板就位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>[錯誤]AI執行了未經辨認的艦船戰鬥行動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Ram"&gt;&lt;sprite="Inline" name="action_full_sail" tint=1&gt;&lt;/link&gt;「撞擊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Board"&gt;&lt;sprite="Inline" name="action_board" tint=1&gt;&lt;/link&gt;「準備登船！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>你瞇眼看海平面，在微風中瞥見一道不熟悉的顏色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>船隻靠近了，上面的船員打開炮艙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>[進入戰鬥]「交戰！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[撤退]「犯不著打這一場！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>敵方船隻攔在了你們撤退的航線中間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>火焰燒到你的主桅桿上，一路爬上了船帆。著火的船帆碎屑灑落在甲板上，現在後者也被點著了。火勢已經止不住了，你的船完蛋了。那些沒被活活燒死的船員都跟著船的殘骸一起被埋葬在海中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>火焰燒到敵船的主桅桿上，一路爬上了船帆。著火的船帆碎屑灑落在甲板上，現在後者也被點著了。火勢已經止不住了，這艘船完蛋了。那些沒被活活燒死的船員都跟著船的殘骸一起被埋葬在海中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>敵方艦船在追趕不及，漸漸消失在海平面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>海水淹沒了[ShipDuel_PlayerShip]的船艙。你的船在身後傾斜著滑入深海。
+
+黑暗席捲而來，陽光的灼燒化為炫目的返照。你在波濤底下嚥了氣。你的旅途結束了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>海水淹沒了船艙，冒火的船身很快就消失在浪濤下，彷彿它從來沒存在過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>[ShipDuel_PlayerShip]的船員迅速收起船帆。你的船慢慢停下來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>[ShipDuel_PlayerShip]執行了一次平緩的左轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>[ShipDuel_PlayerShip]執行了一次平緩的右轉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>[ShipDuel_OpponentShip]的船員在船長的鞭策聲下站上了新崗位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>隨著敵方船長的鞭策聲，[ShipDuel_OpponentShip]的船員奔走著進入自己的崗位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>[ShipDuel_OpponentShip]借助風勢掉了個頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>敵方艦船順著風勢掉轉船頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>[ShipDuel_OpponentShip]向左轉來利用風向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>[ShipDuel_OpponentShip]向右轉來利用風向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>[ShipDuel_OpponentShip]錯誤地估計了風向。隨著船員們執行機動操作，船帆迅速地從主桅桿上鬆開。船停了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>敵船突然停在了水面上。風不見了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>黑暗席捲而來，陽光的灼燒化為炫目的返照。你在波濤底下嚥了氣。你的旅途結束了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>你下令船員全力開進。
+
+敵方艦船在追趕不及，漸漸消失在海平面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>[靠近以登艦]「格殺勿論！衝鋒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>但你的船並非毫髮無損。海水沒入[ShipDiel_PlayerShip]船殼上的洞。沒過多久，你的船就半沉了。你的一些水手們從甲板跳入海中。他們瞪大憤怒的雙眼，尋找一切能夠得著的漂浮物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>敵方船員伴隨刺耳的歡呼聲突襲了你的甲板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>[ShipDuel_OpponentShip]朝你疾馳而來。伴隨著對方船員刺耳的歡呼聲，敵船猛撞上了你的船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_BraceForImpact"&gt;&lt;sprite="Inline" name="action_brace" tint=1&gt;&lt;/link&gt;「準備抵禦衝擊！」（[ShipDuel_BraceChance]避免受傷）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>你的船員迅速站穩抓牢，準備迎接撞擊。水手們緊緊握住主甲板上的欄杆，來不及從索具上下來的水手將自己捆綁在桅桿上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>[ShipDuel_OpponentShip]船員不顧一切地跑向主甲板上的欄杆，索具上的水手將自己捆綁在桅桿上。
+
+「準備抵禦衝擊！」他們的水手長喊道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>儘管你的船員動作並不慢，但[ShipDuel_PlayerShip]還是花了一點時間才恢復移動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>[錯誤]玩家想要繼續進行不支援的行動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>你對手的船以最快速度接近。儘管對方船員腳步不慢，但他們還是花了一點時間才將[ShipDuel_OpponentShip]這麼大的船調轉方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>[錯誤]對方想要繼續進行不支援的行動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt;[投降。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>[ShipDuel_Opponent]針對你的投降提出了條件：
+[ShipDuel_SurrenderCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>[接受。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>[拒絕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>你豎起白旗示意自己投降。[ShipDuel_Opponent]派了幾名水手過來接收戰利品。
+
+[ShipDuel_Opponent]的船員之中爆發出一陣吵鬧的歡呼聲。[ShipDuel_OpponentShip]揚長而去，將你獨自留在大海之上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>選擇行動方案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>你已經沒有足夠的船員維持船隻運作，因此你只得投降。
+
+[ShipDuel_Opponent]將取走：
+[ShipDuel_SurrenderCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[接受。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>[拒絕。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>船員們對你下達衝鋒的指令有些微詞。[ShipDuel_PlayerShip]將暴露在側翼炮火之下，並可能導致傷亡：
+
+[ShipDuel_CloseToBoardCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>[繼續前行。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>「轉念一想……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Board"&gt;&lt;sprite="Inline" name="action_board" tint=1&gt;&lt;/link&gt;「毫不留情！衝鋒！「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>船員們對你下達衝鋒的指令有些微詞。[ShipDuel_PlayerShip]將暴露在側翼炮火之下：
+
+[ShipDuel_CloseToBoardCost]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>「衝鋒！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>「轉念一想……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>&lt;link="glossary://GlossaryEntry_Action_Flee"&gt;&lt;sprite="Inline" name="action_flee" tint=1&gt;&lt;/link&gt;」撤退！「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>你下令船員全力開進。
+
+敵方艦船在追趕不及，漸漸消失在海平面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>你的船員們錯估了風向，結果沒能達到足夠速度逃離。船帆迅速地從主桅桿上鬆開。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

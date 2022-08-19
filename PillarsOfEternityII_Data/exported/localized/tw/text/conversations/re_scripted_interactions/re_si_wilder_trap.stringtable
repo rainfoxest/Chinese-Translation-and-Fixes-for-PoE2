@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_wilder_trap</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>146</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你面前的道路上滿是奇怪的痕跡，靠近你這一面的小路上長著的稀疏植被好像被粗魯對待過。
+
+這裡有可能發生過一場爭鬥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>兩邊的腳步聲吸引了你的注意力，是蜥人，它們手裡都拿著簡易長矛。
+
+長著黃色眼睛和老化鱗片的蜥人站在了最前面，它指了指陷阱之後朝你憤怒地叫喊著。其他蜥人也嘶叫著露出了它們坑坑窪窪的尖牙。
+
+蜥人衝鋒了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[拆除陷阱。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>儘管陷阱看上去很簡單，你還是小心翼翼地拆除了它並且拿走了其中的零部件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[潛行穿過該區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你準備繼續自己的旅程，但是絆到了你腳下的一根籐蔓。隨著附近傳來的一陣辟啪聲，你周圍瞬間溢滿了綠色的辛辣氣體。接觸到皮膚的氣體產生了一種灼燒感，因為突如起來的痛苦你不得不閉上了被刺激到而滿是淚水的雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你準備自己的旅程但[Slot 0]毫無防備地絆到了你面前的一根籐蔓。你聽見附近傳來了一陣辟啪聲，一團綠色的濃霧突然出現，籠罩在了[Slot 0]周圍。[Slot 0]閉上了雙眼彎著腰不停咳嗽著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>儘管陷阱看上去非常簡單，你嘗試拆除的時候還是不小心手滑啟動了裝置。隨著一聲尖銳的辟啪聲，空氣裡面突然出現了一大團綠色的濃霧……幸好綠霧離你有好幾米遠。在安全距離之外的濃霧開始漸漸消散。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[繞過陷阱。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你離開了經常走的主道，轉而在荒原中開闢道路，眼睛四處尋找著可能存在的額外陷阱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>一個四肢修長的巨大身影揮舞著四肢衝向了你，它圓球般的眼睛裡面滿是食慾……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[調查情況。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[無視這一切繼續前行。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>你花了好一會兒才理解了眼前的混亂之景。沒有血跡說明這裡沒有發生過戰鬥，你辨認出了蜥人的爪形印記。痕跡看上去還很新。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>你不理解道路上的狼藉到底是怎麼回事。有很多痕跡，但是你認不出是什麼東西造成的痕跡，而且看上去痕跡就像是舞者一樣互相環繞著。
+
+能確定的只有一件事情-不管痕跡屬於誰那些東西已經不在道路上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>道路上橫拉著一條乾燥的繩狀籐蔓，籐蔓被很不專業地藏在了泥土裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>兩邊的腳步聲吸引了你的注意力，是蜥人，它們手裡都拿著簡易長矛。
+
+長著黃色眼睛和老化鱗片的蜥人站在了最前面，它指了指陷阱之後朝你憤怒地叫喊著。其他蜥人也嘶叫著露出了它們坑坑窪窪的尖牙。
+
+蜥人衝鋒了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>面前彎曲的道路有什麼不對勁的地方讓你不禁駐足觀察。這裡視野受阻，你認為這裡是個埋伏的好地方。
+
+但是你也沒有聽見任何不正常的聲音。你其實什麼聲音也聽不到……沒有昆蟲的嗡鳴聲也沒有動物發出的窸窣聲。就連空氣也靜滯住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>走在道路上的時候你注意到空中有一種奇怪的迴響聲。你環顧著四周，無法確定聲音來自何處，你甚至也沒辦法確定你已經聽見這聲音多長時間了。空氣感覺很粘稠，裡面蘊含著某種看不見的能量。
+
+前面看上去一路順暢，但是你以前不是沒有被外表欺騙過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[小心翼翼地繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>你聽見了急促的深呼吸發出的聲音但是沒有意識到那並不是你自己發出的聲音，你低頭看見肋骨上中了一根羽毛飛鏢。當你將投射物從身上拔出來扔掉的時候你的視線輕微模糊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>一陣急促的深呼吸聲之後傳來了輕輕的打擊聲，你望向聲音來源發現[Specified 0]的身上插著一根羽毛飛鏢。你的同伴看著飛鏢眨了眨眼之後將它扯了出來扔到一旁。
+
+[Specified 0]踉蹌地走到一旁，指了指你身後的方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>你聽見了急促的深呼吸發出的聲音但是沒有意識到那並不是你自己發出的聲音，你低頭看見肋骨上中了一根羽毛飛鏢。當你將投射物從身上拔出來扔掉的時候你的視線輕微模糊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[調查週遭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>你在小心翼翼地向前移動的過程中發現了草叢中穿行著的一隻巨大魚人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[調查週遭。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[小心翼翼地繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>你一定是神經緊張過頭了。看上去一切正常。甚至風給人的感覺也很爽快。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>路上坐著一塊巨石，你靠近它的時候意識模糊了起來。你看見石頭後面擺放著不尋常的骨頭與樹枝，一個小型的魔物圖騰閃爍著不詳的光芒，圖騰的力量正在干擾它周圍的精粹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>迴響聲越來越響了，但是你沒有辦法辨認出聲音的來源。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>一隻巨大的蛇妖滑行了過來，它嘶叫著，舌頭在長長的尖牙間吐息著，一隻尖爪手指指向了你。
+
+幾隻蛇妖一齊嘶叫著向你靠近了，它們握緊了手裡的原始武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>隨著你前進嗡鳴叫聲也變得愈來愈大。周圍的世界似乎在隨著聲音顫抖，你眨著眼睛，面前的一切似乎也變得愈來愈暗。
+
+你聽見附近有一陣窸窣聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[摧毀圖騰。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>藉著幾次凶狠地打擊，圖騰化成了廢墟。空氣瞬間就清澈了起來，你之前聽見的嗡鳴聲也變成了附近的窸窣聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>你決定不要冒險於是掉頭返回。也許你能找到另一條路通向你目的地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>你開始走上破路的時候[Player Animal Companion]突然緊張了起來。它毛髮倒豎地走在你前面想要保護你。它的耳朵抽動了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>道路上橫拉著一條乾燥的繩狀籐蔓，籐蔓被很不專業地藏在了泥土裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[搜尋其他意識的存在。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>開始前進的時候你在與[Player Animal Companion]的情感聯繫中感覺到了一股恐懼的情緒。你還沒有反應過來的時候它就直接用牙齒咬住了你的裝備想要把你拉回去。
+
+突然出現的羽毛飛鏢以毫米之差錯過了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>你在小心翼翼地向前移動的過程中發現了草叢中穿行著的一隻巨大魚人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>你將意識擴張到了週遭環境之中尋找著。
+
+你明確地感知到了附近有一種惡毒的敵意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[與靈體交流。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>你將意識擴張到了周圍世界的靈魂共鳴中。
+
+道路像是消失了一般，迴響聲化成了將你從道路上引開的不安的低語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>路上坐著一塊巨石，你靠近它的時候意識模糊了起來。你看見石頭後面擺放著不尋常的骨頭與樹枝，一個小型的魔物圖騰閃爍著不詳的光芒，圖騰的力量正在干擾它周圍的精粹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[小心翼翼地繼續前進。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[搜尋蜥人的跡象。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>你將注意力集中在了道路上繼續前行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>你聽見前方傳來了一連串安靜的啾啾聲與低吼，草叢裡面有一群小東西在移動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[偷偷靠近觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>你挪進了一點，為了看得更清楚撥開了草叢。
+
+幾隻蜥人正在互相嘶叫，它們手裡的長矛捏在覆滿鱗片的拳頭裡面搖晃著。看上去它們正因為腳邊的東西爭吵著，看上去是一小堆從其他旅行者身上偷來的戰利品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[派[Player Animal Companion]去干擾它們。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[使用魔法驅散它們。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[進行伏擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>你拔出武器慢慢向前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[激化它們的怒火。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>輕輕地蹭了一下你之後[Player Animal Companion]衝了出去。很快蜥人就因為遠離它們的地方發出的聲響停止了爭鬥。
+
+雖然它們循著聲跑走了，但是你確信你的同伴能夠輕鬆擺脫它們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>你將自己的意識延伸了出去衝擊著魔物簡單而又混亂的意識。你就像是在吹起餘燼一般鼓勵著它們的怒火。嘶吼開始變得愈加激烈，它們開始互相推擠起來。
+
+最後有兩隻躍向了另外一隻，第三隻嚇得落荒而逃跑進了草叢中。所有蜥人都直接跟了上去想要抓住它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>你安靜地詠唱著，等到自己收集到了足夠精粹之後對著蜥人發出了一道魔力衝擊波。它們尖叫嘶吼著逃離了突如其來的魔法力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>蜥人已經離開，你現在能夠收集它們丟下來的東西了。
+
+你發現了少數硬幣，一塊破破爛爛的斗篷和一柄老舊尖刀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[Specified 0]安靜地詠唱著，等到自己收集到了足夠精粹之後對著蜥人發出了一道魔力衝擊波。它們尖叫嘶吼著逃離了突如其來的魔法力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「去吧，塞拉芬。畢竟水手優先。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「船長，您先請。我最適合在後方。」
+
+塞拉芬笑著說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「該死。真是些狡猾的小畜生。」裘荻對著向你們衝過來的蜥人皺了皺眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[喊叫]「我沒有躲起來！想抓我的話就來啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[悄悄靠近充滿惡意的目標。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>魚人看上去……還沒有發現你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>你們兩個一眨不眨地嚴肅對望了一眼。
+
+伴隨著一聲尖叫，魔物直接躍向你準備攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>你拔出武器慢慢向前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[進行伏擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[使用電流攻擊它。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[召喚一頭亞龍。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「面對我，渾身鱗片的狗雜種，我就是死神！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[潛行穿過該區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>你將注意力集中在了道路上繼續前行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>你聽見了急促的深呼吸發出的聲音但是沒有意識到那並不是你自己發出的聲音，你低頭看見肋骨上中了一根羽毛飛鏢。當你將投射物從身上拔出來扔掉的時候你的視線輕微模糊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>你盡可能不發出任何聲響地偷偷遠離了它們……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>明晃晃的雷電奔湧而出命中了魚人。閃電在魚人牙齒間躍動的時候它長蹼的手指上蹦出了火星。
+
+冒著煙滋滋作響的魚人跑進了原野之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>你的詠唱激醒了此地的靈體，當你呼喚亞龍的時候它回應了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「去吧，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「隊長，讓我來給這些喝臭水的魚臉上上課。」
+
+塞拉芬舔了舔自己的嘴唇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>魚人後退了幾步之後突然甩開自己的蹼腳落荒而逃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>[Specified 3]的詠唱驚動了靈體，靈體回應了召喚亞龍的咒語。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>你的上方劃過了一個巨大的陰影，亞龍揮舞著皮革質地的雙翼向下俯衝，它用嘴噴吐著可怕的烈焰。
+
+魚人咕嘰尖叫著拍打著自己，為了逃離燒黑自己血肉的烈焰狂奔離去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>魚人後退了幾步之後突然甩開自己的蹼腳落荒而逃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>魚人手裡拿著武器小心翼翼靠近著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>魔物冷酷的小眼睛轉向了你……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>絨精從掩體裡面一躍而出，一邊揮舞著手裡的武器一邊叫喊著一連串把魚人嚇得一愣一愣的污言穢語。
+
+他帶著一名老練海盜的自信向前跨了一步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>魚人落下了一些魚肉，幾根劇毒尖刺和一根做工精良的大棒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[與圖騰交流。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「我沒有感知到常規基斯魔法的跡象。我建議大家小心行事。」亞洛斯翻動著魔法書，他的眼睛掃視著周圍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>你恭敬地跪在了圖騰前，圖騰周圍的精粹將你包裹在了最深的黑暗之中。迴響聲化成了低語，說不定是無數遊蕩著的靈魂們發出的幽咽。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>當你睜開眼睛的時候你發現視線已經恢復正常，一隻巨大的蛇妖在你面前徘徊著。它的頭頂上裝飾著一頂頭盔，繫在它的脖子上的皮帶掛著各種骸骨與珊瑚碎片。它看著你的時候不停吐息著自己分叉的舌頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>[向它鞠躬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>「我們只是想安全穿越這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「這個圖騰到底是什麼東西？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>[離開]「我走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>你聽見蛇妖輕輕滑動的聲音，你感覺到它的手掌放在了你的後腦袋上。你抬起頭看見它朝你鞠了一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>它伸手從自己的眾多項鏈中扯出一條遞給了你。它將項鏈放在了你的手裡，然後後退了一段示意你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>蛇妖冷冷地盯著你。它什麼話也沒有說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>你起身的時候周圍的低語再次變得喧鬧刺耳起來，你的視線又一次被黑暗籠罩了。你聽見蛇妖嘶吼著發起了攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>「是不是不喜歡說話？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>[繼續旅行。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>蛇妖冷冷地盯著你。它什麼話也沒有說。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>你起身的時候周圍的低語再次變得喧鬧刺耳起來，你的視線又一次被黑暗籠罩了。你聽見蛇妖嘶吼著發起了攻擊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>[偷偷靠近觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>魔物一陣咕叫，冰冷圓凸的眼睛打量著你的時候眾多手臂不停擺動。它放下了武器，小心翼翼地向你接近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>一隻巨大的魚人走了出來，冰冷圓凸的眼睛打量著你的時候眾多手臂不停擺動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>[等待。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>[逃離野獸。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>魚人沒有阻止你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>它從自己粗糙的皮帶上拿出了一根掛著幾條黏糊死魚的繩子放在了你面前的地上。它低著頭後退了幾步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[嘗試理解它的動機。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>[收下魚。]「謝謝你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>[離開]「其實我正好要走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>魚人看上去很感激。也許它認識你從胡亞納人手中救下的小魚人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>你無法理解魚人為什麼要給你魚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>[Specified 5] 皺眉打量魔物.
+
+「它……看上去很感激我？」
+
+也許它認識你從胡亞納手中救下的小魚人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>它咕叫了一聲之後又向你鞠了一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>[繼續旅行。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>[搜尋留下圖騰的對象。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>你拔出武器慢慢向前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>絨精將食指放在兩側太陽穴上的同時閉上了自己黃綠色的雙眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「遵命，船長。那裡有東西在，但是不知道具體是什麼。」
+
+塞拉芬皺了皺眉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>蒼白精靈的深紅色眼睛翻起來閉上了。有好一會，她一動不動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「我感知到前面有一股冰冷的意識。十分狂野，但也很強大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>過了一會，[Specified 0]點點頭，指向前方道路的某處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>就算蹲下後，魔物在周圍的熱帶矮樹叢中仍然十分顯眼，頭骨還有明顯褪色的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>就算蹲下後，魔物在周圍的熱帶矮樹叢中仍然十分顯眼，頭骨還有明顯褪色的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>就算蹲下後，魔物在周圍的熱帶矮樹叢中仍然十分顯眼，頭骨還有明顯褪色的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>[Specified 0]皺起眉頭，對眼前的混亂有些摸不著頭腦。不過地上留有痕跡，像舞者一般彼此纏繞循環。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>[Specified 0]悄悄解除了陷阱並將其組件收集起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>[Specified 0]在嘗試時不小心手滑了。隨著一聲尖銳的辟啪聲，空氣裡面突然出現了一大團綠色的濃霧……幸好綠霧離你有好幾米遠。在安全距離之外的濃霧開始漸漸消散。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>[Specified 0]片刻便理清了眼前的混亂局面。沒有血跡說明這裡沒有發生過戰鬥，你的同伴也輕鬆辨認出了蜥人的爪痕。痕跡看上去還很新。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>[搜索這片區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>魚人看上去很感激。也許它認識你從胡亞納人手中救下的小魚人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>再往前，一群穿著長袍的人蜷縮在河流拐彎處。每個人都被定在原地，顏色灰白，就像用煤煙子製作的雕像。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>再往前，一群穿著長袍的人蜷縮在河流拐彎處。每個人都被定在原地，顏色灰白，就像用煤煙子製作的雕像。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

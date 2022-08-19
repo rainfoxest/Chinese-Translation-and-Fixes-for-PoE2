@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_supply_wagon_trap</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你發現遠處停著一輛樸素的馬車。這輛車歪斜地停在路邊，車兩邊一高一低，說明其已經損壞或無法使用。從你的位置都能看到馬車周圍的基斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[檢視馬車]「我來看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[威脅]「交出所有值錢的東西，否則我馬上送你們去見俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>幾名晨星相互看看，有個人嚥了口唾沫。他交給你一個小袋子。一名年輕的母親用身體堅定地護住自己的孩子。
+
+「我們並不是有錢的旅行者，但我們僅有的這些東西你拿去便是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>有一名朝聖者注意到你。她的後退引起了其他人的注意，一名身穿老舊軟鎧的男人走上前。他愁容滿面。
+
+「你也是得到夢的指引才來此處的嗎？」
+
+其他朝聖者看向你，眼神中既有恐懼也有希望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「我們應該幫助他們。畢竟他們是我的同胞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[大搖大擺靠近。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[離開]「我沒時間聽你說這些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>簡單查看之後你發現馬車並未受損，只是輪子深陷進了淤泥裡。
+
+「我們有木材。」老者說道，同時指了指馬車後部。「如果我們能把輪子抬起來，就能把木頭墊在下面。」
+
+你發現馬車裡有幾塊木板。邊上有一小盒貴重物品。
+
+一名年輕的晨星成員睜大眼睛看著你。「能幫忙抬一下嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[試圖抬起馬車的一角。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[試圖偷取保險盒。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>你在馬車的一角紮穩馬步，一聲悶哼，把輪子從淤泥裡抬了起來。
+
+一位年輕的晨星成員一時間目瞪口呆，但及時反應了過來，並把一塊厚木板迅速墊在了車輪下。為了避免馬車再次陷入淤泥，你們又花了大半個小時為馬車鋪了一條安全路線。
+
+你和與你一起幹活的晨星成員們大汗淋漓，但他們一邊幹活一邊歡笑並為俄撒斯高唱讚歌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>你在馬車的一角紮穩馬步，向下伸手準備抬起車輪。車輪晃晃悠悠地從泥裡被抬起，一名年輕的晨星成員迅速往下面墊了一塊木板。
+
+與此同時，你用盡了氣力，堅持不住了。馬車的一角從你手中滑落，車輪猛地壓向還未完全放好的木板以及那位年輕人的手，發出了可怕的骨頭斷裂聲。他疼得一聲哀嚎，與此同時，車輪從木板上滑落，又陷入泥中，且比之前陷得更深。
+
+「老天啊！」老者跪下照顧受傷的男孩，然後又看向你。「我以為你是來幫我們的，結果越幫越忙！」
+
+數名晨星成員怒視著你，互相嘀咕著什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>你跳上馬車，花了點時間檢視木板，然後調整了它們的位置。你抓住機會靈巧地將小盒子順手塞進了你的背包裡。
+
+你跳下馬車，一臉若有所思的神情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「旅行者請求你的幫助，而你卻藉機搶劫？」全副武裝的朝聖者搖搖頭，拔出了劍。「願救贖者赦免你的靈魂！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[攻擊]「很遺憾這還不夠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>你看到遠處有一輛馬車。似乎它已經被遺棄了，不過天上還有幾隻禿鷲在盤旋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「循環在繼續。儘管身體會因此消散，靈魂卻會尋得新的開始。」
+
+裘荻低下了頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「真希望你種下的因不會引來結出的果，船長。」
+
+塞拉芬盯著路面，耳朵不停抖動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「還好他們得到了照看，就算對方不是俄撒斯。很感謝你這麼做。」艾德爾衝你點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[大搖大擺靠近。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[原路返回。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>兩隻禿鷲棲息在馬車的一側，另一隻則落在地上，喙中不時迸出鮮紅的血肉。
+
+馬車周圍散落著各種形狀的屍體，側邊上還插滿了箭矢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[搜索馬車。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[掩埋屍體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[焚燒屍體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[繼續旅行。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>你挽起袖子開始幹活，但聽到周圍傳來靴子走動的聲音後為時已晚。
+
+一群裝備精良全副武裝的盜匪將馬車團團圍住。一人笑著走上前來。
+
+「小的們快看這有啥。一條大魚啊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[偷偷靠近觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[遠離道路，完全避開馬車。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>當你靠近車廂時，你發現了一群身穿粗布棉衫的瑞德賽朝聖者。一匹馱馬不耐煩地用蹄子敲著地面，兩名朝聖者正在右輪前爭吵不休，而右輪看起來已陷入泥中，令人無計可施。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>當你靠近車廂時，你發現了一群身穿粗布棉衫的瑞德賽朝聖者。一匹馱馬不耐煩地用蹄子敲著地面，兩名朝聖者正在右輪前爭吵不休，而右輪看起來已陷入泥中，令人無計可施。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>你遠遠躲開了道路在糙地上前進，保持低姿態穿行在掩體之間。你輕鬆避開了馬車，幾小時後又回到了道路上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>你遠遠躲開了道路在糙地上前進，並聽到了叫喊的聲音。你看向馬車時發現有個基斯正向你揮手吶喊尋求援助。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[進行伏擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>你拔出武器慢慢向前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>朝聖者張大眼睛看你拔出了武器。年輕的母親一聲尖叫，帶著孩子跑進了森林。她的親屬則擺好架勢保護自己……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[進行祝福。]「同胞們，你們目睹了我主的到來。我們一同祈禱，感謝上天給了我們這個考驗與證明我們信仰的機會。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>朝聖者們被你的虔誠表現所激勵，紛紛低下頭並低聲禱詞作為回應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>你假裝對木板感興趣，同時將裝著貴重品的盒子塞向你的背包。你生硬的動作將盒子從馬車的邊緣滑落到了地上的淤泥裡，發出了偷東西的人最不想聽到的碰撞聲。
+
+晨星成員一時沒反應過來，只是呆呆地看著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[離開]「恐怕我沒什麼能幫助你們的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>朝聖者失望地點點頭，但還是感謝了你抽出時間，並低頭致意目送你離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>他們的領隊微笑著將一小袋錢塞進你的手中。「謝謝你出手相助。要不是你，我們還不知要在這裡耽擱多久。」
+
+他們開始準備馬車，而你也繼續趕路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>一名年輕的晨星姑娘跑向你。「感謝你幫助並祝福我們。」她在別人幹活時收集了一籃子黑果，並將其交給你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[偷偷靠近觀察。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>[遠離道路，完全避開馬車。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>你悄悄離開道路，弓著身子小心謹慎地一步步前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>當馬車到了你的邊緣附近時，你發現前面有一群全副武裝的盜匪蹲在你面前注視著馬車。
+
+他們並沒有注意到你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>你繞了幾處掩體後一下子撞進了一群全副武裝的盜匪之中。他們嚇了一大跳，立刻拔出了武器。
+
+其中一人大叫著將武器對準你。「該死！小的們！把這些傢伙砍了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[向其大叫。]「你們好啊。在找我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>[進行伏擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[放任他們不管，繼續向前。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>你拔出武器慢慢向前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>盜匪團伙紛紛跳將起來，從鞘中拔出武器將你團團圍住。
+
+其中一人目瞪口呆地眨了眨眼。「開什麼玩笑？你悄悄接近我們然後打了個招呼？你在玩什麼把戲？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>[調查屍體。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>許多海裔屍體被利刃分屍或萬箭穿身，馬車周圍的地面簡直狼藉一片。你找到了三名成年人與兩名少年。
+
+大概是一家人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「我感覺不太好，船長。」
+
+塞拉芬皺眉盯著這片屠殺現場，手握在武器上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>男人笑了起來，略微挺直身子。他的嘴唇因為舌頭舔舐著上排牙齒而突起。
+
+「那就八千個銅板吧。隨便你拿什麼等價物都可以。」他的眼睛審視著你。
+
+「看你的樣子應該付得起吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>前方男人的嘴唇抽搐著，但他沒有回頭看其他盜匪。他更加握緊了利刃。
+
+「那我就更得保證你們死透了對吧？殺光他們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>盜匪頭子盯著你，他的兩個手下從你手上拿走了錢箱。
+
+「交易愉快。我們走吧兄弟們。這傢伙買了自己一條命。」
+
+盜匪們盯著你慢慢離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「聽見了嗎？打架對誰都沒好處！」盜匪們聽著首領的話大笑起來。他的眼神對上你的目光。「活人無需拯救。殺光他們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「不如這樣，我掏點買路錢，大家各走各路。這裡沒必要再成為誰的墳墓了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>「你們想搶劫皇族海盜的盟友[Player Name]？你們該知道有什麼下場吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「轉過身趕緊走，不然我就把你開膛破肚後再撕碎你的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「我們之間打架對誰都沒好處。大家還是各走各路吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>[攻擊]「你們把這些人都殺了！你們配不上我的憐憫！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>[拔出武器攻擊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>「看我不把你們砍個稀巴爛。」
+
+塞拉芬拔出武器盯著盜匪團。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>「等我們走後這些人渣肯定會將更多的旅行者當作目標。他們不配得到安葬，更不配&lt;i&gt;憐憫&lt;/i&gt;。」
+
+帕蕾吉娜咬緊牙關，你看到她的指間已經飛舞起烈焰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>「你想給這種傢伙送錢？他們才應該為自己的所作所為買單。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「成交。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>「五千。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[攻擊]「麥婭？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>[攻擊]「抱歉，你的性命對我來說不值那麼多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>聽到你吐出的字眼，男人的頭微微偏向一側，隨後立刻爆成一團血霧。片刻過後才傳來麥婭手中震耳欲聾的槍響聲。
+
+就算首領的死震懾到了盜匪，他們也沒有表現出來。他們揮舞著刀劍向前衝鋒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>男人笑了起來。
+
+「小的們聽見沒？看來我們至少能有五千銅板入賬啦。殺光他們！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[大搖大擺靠近。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[Specified 2]跳上馬車查看木板，過了一會又爬出來點點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>[Specified 2]跳上馬車檢視木板，並趁機將裝著貴重品的盒子塞進自己的背包。不幸的是，此人沒能把事情辦好。盒子從馬車的邊緣滑落到了地上的淤泥裡，發出了偷東西的人最不想聽到的碰撞聲。
+
+晨星成員一時沒反應過來，只是呆呆地看著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「車輪卡死了，一動不動。我們這些人力氣不夠大，沒法抬起那個角落並往下面墊東西。我們試過幾個人一起抬，但只會互相妨礙。」
+
+其他朝聖者點點頭並舒展身體，好像突然想起了他們曾累得腰酸背痛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>你在馬車的一角紮穩馬步，一聲悶哼，把輪子從淤泥裡抬了起來。
+
+一位年輕的晨星成員一時間目瞪口呆，但及時反應了過來，並把一塊厚木板迅速墊在了車輪下。為了避免馬車再次陷入淤泥，你們又花了大半個小時為馬車鋪了一條安全路線。
+
+你和與你一起幹活的晨星成員們大汗淋漓，但他們一邊幹活一邊歡笑並為俄撒斯高唱讚歌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>「夢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>[撒謊]「當然了！不然呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[聳聳肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「我正在追蹤俄撒斯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「我們是瑞德賽拉斯來的殖民地種田的農民。我們都是俄撒斯的信徒。」
+
+其他朝聖者贊同地不住點頭。抱著微笑嬰兒的女人將舉起嬰兒的手揮了幾下。
+
+「我們一直做著一個夢。三顆星星從天而降，刺破了黑壓壓的風暴雲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「肯定是俄撒斯在呼喚我們。因此我們來到夢中看見的地方，也就是這裡。」
+
+朝聖者們四處張望，將夢中看到的景象與現實做對比。
+
+「我們看到了巨人經過此地，他額頭上有三顆星星，可……」他歎了口氣，指了指陷在淤泥裡的馬車。「只可惜我們沒法跟上他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>年長朝聖者驚訝地張大了嘴。你聽到另一個人倒吸一口涼氣。他們看了看彼此，眼神中流露出興奮。
+
+「讚美上蒼！」老者高呼道，「我們並不孤單！我們也做了那個夢！我們看到三顆星星從天而降，刺破了黑壓壓的風暴雲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>[拿走他們的貨物並離開。]「好吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>朝聖者們目光低垂，將貨物交給你，你離開時，他們沮喪地在馬車旁圍成一圈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>有一名朝聖者注意到你。她的後退引起了其他人的注意，一名身穿老舊軟鎧的男人走上前。他愁容滿面。
+
+「你也是得到夢的指引才來此處的嗎？你還帶來了一位收割者。」他說著，指了指裘荻。「肯定是因為夢吧。」
+
+其他朝聖者看向你，眼神中既有恐懼又有希望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>你沒走幾步，就聽到身後傳來老者的呼喊聲。
+
+「旅行者，保重身體與靈魂。不管你是不是來找俄撒斯的，我們心裡都知道他會來找上我們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>[Specified 3]在馬車的一角紮穩馬步，一聲悶哼，把輪子從淤泥裡抬了起來。
+
+一位年輕的晨星成員一時間目瞪口呆，但及時反應了過來，並把一塊厚木板迅速墊在了車輪下。為了避免馬車再次陷入淤泥，你們又花了大半個小時為馬車鋪了一條安全路線。
+
+晨星成員們忙得大汗淋漓，但他們一邊幹活一邊歡笑並為俄撒斯高唱讚歌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>[Specified 3]在馬車的一角紮穩馬步，一聲悶哼開始用力。車輪晃晃悠悠地從泥裡被抬起，一名年輕的晨星成員迅速往下面墊了一塊木板。
+
+與此同時，[Specified 3]用盡了氣力，堅持不住了。馬車的一角從其手中滑落，車輪猛地壓向還未完全放好的木板以及那位年輕人的手，發出了可怕的骨頭斷裂聲。他疼得一聲哀嚎，與此同時，車輪從木板上滑落，又陷入泥中，且比之前陷得更深。
+
+「老天啊！」老者跪下照顧受傷的男孩，然後又看向你。「我以為你是來幫我們的，結果越幫越忙！」
+
+數名晨星成員怒視著你，互相嘀咕著什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

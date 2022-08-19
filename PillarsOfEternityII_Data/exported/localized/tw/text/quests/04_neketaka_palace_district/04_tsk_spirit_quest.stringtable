@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_neketaka_palace_district\04_tsk_spirit_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>她最後的請求</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>搜索穆海的莊園。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與穆海交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>火葬穆海。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在巨蛇王冠的一座宅邸裡面發現了穆海的靈魂。她一個人孤獨地死在了那裡並且拒絕前往貝拉斯之輪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>穆海說她屈服於疾病的屍體就在附近。她想要我找到屍體，這樣她就能安息了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我在穆海的床上找到了她的屍體，她肯定在那裡呆了好多天了。看上去甚至沒有人意識到她已經死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>穆海請求我將她的屍體帶到聖梯區裡面的瑪珈嵐神廟。我必須在那裡火化她的身體，這樣她的靈魂才會返回貝拉斯之輪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我火化了穆海。心滿意足的穆海離開了我去面對自己的命運。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我將穆海的屍體交給了瑪珈嵐牧師們，他們將把屍體埋葬在其他地方。穆海的靈魂看上去不太開心。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

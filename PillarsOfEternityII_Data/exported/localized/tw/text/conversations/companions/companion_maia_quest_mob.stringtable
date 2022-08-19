@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_maia_quest_mob</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>人群之中，那位肩膀寬闊的海裔人警惕地向後退了一步。他的目光始終盯著圍著他的部落民，他的手也始終沒有從武器上離開過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你們都弄錯了，我在等從老家那邊運來的一船帆布。這有什麼問題嗎？」吐出這句隱隱的威脅之後，他的表情變得冷酷無情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「那這又是怎麼回事？！這是你的密信吧？還是說，我是個傻絨精？」人群中有人把一堆信件丟在了哈拉瑪的腳下。聚在一起的部落民嘟嘟囔囔地表示贊同。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「該死，他馬上就要跟別人打起來了，我得幫他的忙。」麥婭揚起了眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我跟你一起去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我們最好靜觀其變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我可不是來這裡看熱鬧的，靈視者。」麥婭惱怒地朝你的方向看了一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>她清了清嗓子，把所有人的注意力都轉移到了你們的身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「一個打一群可不怎麼公平，你們沒聽說過公平決鬥這個詞嗎？」麥婭捏捏拳頭，晃了晃肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>哈拉瑪面無表情地看著你和麥婭，流露出了一點點感激之意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「這裡發生了什麼事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「這個人在我們的村子裡搞陰謀動作，就像鯊魚肯定會圍著鮮血打轉一樣，肯定不會錯！」一個村民走了出來，指著哈拉瑪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我們在他的房間裡找到了加過密的信件，他卻說了一堆謊話想要糊弄我們，這個外來的傢伙是個間諜！」村民們聚集在一起，吵嚷聲越來越大。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「這封信是我寫的，我是他的堂兄。這隻是我開的玩笑而已。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「你為什麼會覺得，他在搞陰謀動作呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[攻擊] 「我不喜歡暴民，尤其是群情激奮的暴民。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你不能這麼做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我可不是在徵求你的同意。」她帶著鄙夷的養身看了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你得照顧好麥婭，你聽到了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「該死！我……我沒來得及！」麥婭看著天空，深深地吸了口氣，閉上了眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「這麼說沒問題，你也可以說，我們其實是——」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「……忠於故鄉的僕人，對你來說已經足夠了。」麥婭摸摸眉毛，搖了搖頭，臉上隱藏著笑意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我這次恐怕並不是來走親訪友的，這是上面讓我帶給你的東西。」她把一卷羊皮紙交給了他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>當他打開信件的一瞬間，他的舉止立刻變得僵硬了起來。哈拉瑪舔了一下牙齒，拿起羊皮紙，在光源下看了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我知道了，阿蘇拉又在玩這套把戲了。謝謝你，麥婭，我一直在等著這些東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「阿蘇拉給你寫了些什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「麥婭，他為什麼會問……」哈拉瑪斜眼看著你，猶豫著是否還要說些什麼。</DefaultText>
+      <FemaleText>「麥婭，他為什麼會問……」哈拉瑪斜眼看著你，猶豫著是否還要說些什麼。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「船長……以後再說。我答應你，這件事我們可以以後再說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「我們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「看來已經沒有別的事情了。感覺有點，嗯，有點像以前的日子，以前的好日子。」麥婭笑了起來，把手放在腰後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我可不想扯上關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「別以為我會束手待斃。」哈拉瑪攥緊了拳頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我們要讓那些商行看看，我們是怎麼對付努瓦泰間諜的！兄弟們，姐妹們，上啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「哈！那些商行的戰船把我們的木船炸成了碎片，你卻說我們不公平決鬥？你們這些外來的畜生都是一個樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>人群帶著不確定的態度，把注意力轉向了你們。哈拉瑪朝你們點了點頭，幾乎讓人無法察覺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「你居然為他說話，你是什麼人？還有你這個叛徒朋友，她的話就好像她不是我們的族人一樣，她又是誰？」人群中充滿了嘲笑聲和粗魯的手勢，絕大部分都是衝著麥婭去的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我是貝拉斯的使者，我要在你們身上降下貝拉斯的怒火。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我曾經幫助過你們的族人，不知道你們還能不能記住我的長相。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[攻擊] 「你注意到有什麼東西不見了嗎？沒錯，是我最後的一點耐心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我的天啊……莫非是帶著一群士兵去了涅克塔卡的那個靈視者？」焦慮的低語聲</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「哈拉瑪，我們會盯著你的，別惹麻煩。」領頭人指著自己的眼睛，又指指哈拉瑪的眼睛，之後示意所有人離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我們就不能像文明人一樣談一談嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「他根本不說實話！我們這裡不歡迎外來的騙子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「你們隨便看別人的信件，我們暫且不談在這方面的意見。」麥婭抱著胳膊，看著人群。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「說得沒錯，船長，我感覺這裡沒什麼文明可言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「我是你們的朋友，你們的鄰人，你們的兄弟。」</DefaultText>
+      <FemaleText>「我是你們的朋友，你們的鄰人，你們的姐妹。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「麥婭，介意解釋一下嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>幾個要動手的人努力迴響著在哪裡見過你的樣子，人群中傳來了竊竊私語的聲音。你聽到人群達成了某種無聲的共識，他們的懷疑被壓下來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「一群島民在我這裡爭論想讓誰先來送死，但我還有更要緊的事去做。」麥婭掏出了武器，開始靠近人群。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>人群被麥婭嚇得步步後退，領頭人舉起了一隻手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「因為努瓦泰人渴望得到這些群島，他們就像躲在高草後面的老虎一樣，連口水都要流出來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「如果你們這群人真的這麼蠢，連老虎都想招惹。那無論發生了什麼事情，你們都是活該。」麥婭挺直了身子，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「那是小伊希薩嗎？快過來，你這個老混球！」哈拉瑪張開了胳膊，麥婭的鳥歡快地飛了過去，啄著哈拉瑪的小腿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「我真的很感謝你，陌生人。」身材高大的努瓦泰人放鬆地站在那裡，打量著你，讚許地對你點著頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「你本不想引人注意，但總是有人逼你動手。」哈拉瑪看著屠戮過後的場面，搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「現在，我們可以暢所欲言了。」他轉過頭看著麥婭，臉上露出了笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「伊希，快下來，你可不知道他都去過什麼地方。」麥婭揚起眉毛，笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「可以替我介紹一下嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「船長，這位是哈拉瑪，我們以前在飛墩號上共事過。」她朝他點點頭，眼神在他身上多停留了一會兒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我本想邀請你們去附近的酒館喝上一杯，好好聊聊。但這樣的話，我可能就要變成電燈泡了。」他看著你，臉上帶著神秘的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「啊……不是你想的那樣，真的不是。」麥婭顯得有些緊張，一會看看哈拉瑪，一會看看你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「尤其是還能看到你像這樣來來去去。等這一切結束之後，或許我們可以……」他重心換到另一隻腳上，聲音越來越低。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「我……啊。」麥婭撓著後腦勺，用遲疑的眼神看著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「沒問題，伊希真是想死你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>他帶著驚訝的神色睜大了眼睛，之後朝你們笑了起來，彷彿在恭喜你們兩個。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「不多說了，祝你的旅途順利，其它的……冒險也一帆風順。伊希薩，你可別把羽毛弄髒了。」他朝麥婭敬了個禮，眨眨眼，退了回去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「他……海麗婭在上啊。我在海軍服役的時候，他曾是我的戰友。我們是睡過同一張吊床的夥伴，也弄壞過幾張吊床。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「你需要自己待一會兒嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「我很遺憾。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「不，這……這種事情確實會發生，他是不會希望我沉湎在悲傷裡的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「謝了，船長，這種時候很容易讓人感到孤獨，不過幸好還有你陪著我。」她拍了拍你的肩膀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「我們走吧，我要離開這個地方了。」麥婭不知對著什麼，做了個輕蔑的手勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「什麼時候會死，或者死在什麼地方，這種事情我們沒得選，是吧？有時候，人就是會死在一群偏執的暴民手上，死得毫無意義。」她深深地歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「我是不會置之不理的。」麥婭點點頭，擺好了大殺一場的架勢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「這聽起來……可不怎麼樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「沒時間閒聊了，朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「那個胡亞納人為努瓦泰的間諜說話，她就是部落的敵人。她和她的……鳥，都會落得和他一樣的下場。」他用手指著麥婭和哈拉瑪，攥緊了拳頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我把話放在這兒，我有百分之百的把握能從這裡活著出去。你們有多少把握？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[攻擊] 「我不准任何人威脅那隻鳥，我不准。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「你這是自尋死路，我警告你們，趕緊離遠點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>領頭的人深吸了一口氣，觀察著鄰居們和部落裡其他人的臉色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「我想也是。」麥婭抱著胳膊，臉上帶著勝利的笑容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「你們都離我遠點！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「這件事和我們有什麼關係？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>麥婭揚起眉毛，無視了你，把注意力轉向了人群。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

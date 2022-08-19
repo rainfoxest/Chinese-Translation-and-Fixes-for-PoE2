@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\20_splintered_reef\20_cv_undead_townie</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你好啊！」
+
+這個女人帶著熱情的微笑向你打招呼，只不過她已經爛掉的半張臉把氣氛給毀了。她鎮定地擦了擦杯子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你剛來沒多久吧。」
+
+她說話之際，你看到她額頭上有個怪異的標誌，可能是某種符號或符文。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你是說你……不想吃我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「對，我剛到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「這個地方……你們都是禽獸！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「什麼？甜心，你在尋我開心吧？」
+
+「好吧，我們這裡對各種各樣的人都敞開大門。這是一座安寧的小鎮，我們沒理由和任何人過不去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「我們向來歡迎新來者。這裡前不著村後不著店，很少有人願意冒險遠航來我們這裡。」
+
+「你來得很及時，魚獲很快就要到了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你冷靜一下，甜心。我想你應該是在海上呆太久了。或許中暑了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「你休息一下，喝點提神飲品後或許會變得有禮貌一些。那時候再來吧。」
+
+她搖了搖頭，轉過身去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「等待期間可以喝點麥芽酒。祖爾卡應該很快就會帶著今天的魚獲來這裡了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「很高興再次見到你。打算多呆一會兒嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「喝一杯吧，親愛的，放鬆一下緊張的神經。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你額頭上的標誌是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「什麼？我額頭上有……」
+
+她轉過杯子，對著自己的倒影皺了皺眉。她沒看到什麼異樣，於是啼笑皆非地看了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「看來鎮上來新客人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

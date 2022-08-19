@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_neketaka_artisans_district\05_tsk_arkemyr_invite</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>熱情的邀請</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>與&lt;b&gt;亞柯彌&lt;/b&gt;交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>&lt;b&gt;亞柯彌&lt;/b&gt;邀請我去他的宅&lt;b&gt;邸&lt;/b&gt;做客。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;亞柯彌&lt;/b&gt;希望和我見面。前往&lt;b&gt;佩瑞琪之望&lt;/b&gt;中的&lt;b&gt;亞柯彌莊園&lt;/b&gt;並找到&lt;b&gt;書房&lt;/b&gt;中的亞柯彌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我按照&lt;b&gt;亞柯彌&lt;/b&gt;的請求與他在&lt;b&gt;莊園&lt;/b&gt;進行了一次會面。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

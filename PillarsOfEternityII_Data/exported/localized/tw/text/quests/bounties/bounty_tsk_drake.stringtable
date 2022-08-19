@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\bounties\bounty_tsk_drake</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸賞：普拉卡烏</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺死&lt;b&gt;普拉卡烏&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回去找&lt;b&gt;阿波科&lt;/b&gt;。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一頭叫做&lt;b&gt;普拉卡烏&lt;/b&gt;的亞龍在&lt;b&gt;國王島&lt;/b&gt;東北面的一處綠洲中住了下來，去那裡尋找水源與歇腳點的旅行者們飽受它的折磨。當地人將為任何砍下普拉卡烏頭顱之人提供一份巨大的獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>&lt;b&gt;普拉卡烏&lt;/b&gt;就在&lt;b&gt;國王島&lt;/b&gt;東北面的綠洲附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經準備好去拿取針對普拉卡烏的賞金了。女王港&lt;b&gt;野牝別館&lt;/b&gt;裡的&lt;b&gt;阿波科&lt;/b&gt;會很樂意看見亞龍的死亡證明。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我殺死了亞龍普拉卡烏並且從阿波科處獲取了賞金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

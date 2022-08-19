@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_serafen_quest_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>145</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你好啊，船長。老實說，弗蘭特多少以為我們會淹死在舷窗堡壘的海水裡。不過你很幸運，我就是有這種喜歡克服萬難的壞習慣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「過一會兒吧，沒問題，沒問題。沒必要急急忙忙地去找閒暇先生號。」他晃了晃左耳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我們已經有計劃了，就這麼做吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「關於舷窗堡壘，有什麼可以告訴我的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你之前說過，你在堡壘裡有幾個熟人。他們能幫我們的忙嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你有沒有什麼計劃，能讓我們進入要塞？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「這座要塞最開始是瓦利亞人造的。這堆石頭幾個世紀以前就搭起來了，但漁民和他們一直都不對付，後來它就被扔在這裡了。當時它連從廁所裡爬出來的蟲子都擋不住。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我可沒說有『幾個』熟人，是吧？」
+
+塞拉芬抓著後腦勺，樣子就像是突然對自己的鞋感興趣了一樣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「過一會兒再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「哎喲，我這個藍毛屁股好像還真想出了個計劃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「如果僅僅是一個念頭，也能讓你更有信心的話……」他搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「他們說，在那之後，就再也沒人敢從她手底下跑掉了。雖然對我來說有點殘忍，不過我得承認，我還挺欣賞她取名字的品味的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你對艾戴斯瞭解多少？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「關於這座要塞的防禦工事，你瞭解多少？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「過一會再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「那個傢伙，她尖得跟那什麼似的，嘴巴、耳朵和頭腦都很尖。她以前是從鹿林或者聚鹿出來的，很清楚怎麼航海，也知道怎麼控制手下人，讓他們不敢造反。雖然她是新來的，但她的話在整個皇族海盜裡都很有份量，比你想像得更有份量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你的意思是說，你這個『熟人』其實是你的前女友？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「這有一部分原因是因為她非常支援自由——支援大家不受奴隸制約束，不受帝國約束，甚至不受胡亞納種姓制度的約束。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「難道皇族海盜不應該對艾戴斯做些什麼嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「不過，不少老船長都已經慢慢死光了，新來的傢伙……就沒那麼在乎這些了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你為什麼不喜歡那群老傢伙？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「他們都是一群狗屎。請你喝上幾杯酒，緊接著就想讓你摩挲摩挲他的那話兒。」
+
+他笑了起來，拇指勾著腰帶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「它既然能叫堡壘，就說明它並不是船。這就意味著，大炮和炮彈的數量肯定是非常非常夠用了。在你來得及登陸之前，他們的大炮就能把你的船打得像篩子一樣。」
+
+他歎了口氣，躲了一下地板。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「堡壘裡面可能到處都是醉醺醺的白癡，這對我們很有利。但艾戴斯派在城牆上的守衛，一個個都非常警覺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「你在問我有什麼計劃嗎？老實說，我本來挺想看看，名滿天下的努亞堡靈視者打算怎麼突破這道無法突破的城牆。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「雖然不知道她是怎麼看待我的，但她和本維斯之間已經一點愛意都不剩了，這一點是毋庸置疑的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「在我看來，我們有兩個方案，其中一個方案非常危險，另一個方案基本相當於自殺。所以，和我說說吧，船長，你打算怎麼解決這個沒法解決的問題？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「就算你把牆轟塌了，到時候還有衛兵要應付。更別提還有一大群喝多了酒，使勁撒瘋的海盜了，而且這些人大概還拿著武器。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「想要找到一個可以不被發現的位置偷偷登陸，必須要靠海麗婭的千里眼……或者有望遠鏡也行。我猜你應該有望遠鏡吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「砸場子的要點在於，你得先給自己弄到一份邀請函，之後好好打扮一番，混進去。」
+
+他挺起胸膛，拇指指著自己襯衫的優質面料。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「這麼說吧，皇族海盜是不會為了幾個金幣就把海盜旗拱手讓人的。」
+
+他歪著腦袋，抓著屁股。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我更喜歡鼓起勇氣正面突破。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我喜歡偷偷摸摸地溜進去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我可以靠計策騙過敵人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我想聊點別的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我聽著呢，船長。」他的大耳朵扇了兩下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我有望遠鏡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「我沒有望遠鏡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「你就沒有望遠鏡嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「太棒了！等你準備好之後，我們就把船開到舷窗堡壘，然後想辦法溜進去吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「那就讓我介紹一下你需要的東西吧，船長。好望遠鏡就像個好情人一樣，能讓你看到你平時看不到的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「當然，我以前有。後來我犯了個錯誤，把它借給了弗蘭特，他顯然是忘了那東西不是他的。」
+
+他一邊嘟囔著，一邊低吼了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我給他看了望遠鏡上刻著的『塞』字，結果他告訴我說，這個字代表的意思是『要塞的東西』。這件事讓我學到了一個教訓：一旦你把什麼東西帶到了海上，你就得好好盯緊它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「舷窗堡壘確實是塊硬骨頭。但如果不啃的話，要怎麼吃到骨髓呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我們再討論討論別的計劃吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我們從正面突破吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我們可以想辦法溜進去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「我覺得這種情況需要更聰明的計劃。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「轉念一想，我覺得現在的計劃很不錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我並不是想對你指手畫腳，船長，但如果我們不前往舷窗堡壘，等本維斯修好了船，可就找不到他了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「我們看看該怎麼進入舷窗堡壘吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「遵命，船長。到時候就看你的了。」
+
+他搓了搓手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「買個海盜旗能有多難？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「既然如此，我們就襲擊皇族海盜船，把他們的海盜旗搶過來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「和我的皇族海盜朋友大打出手，這並不是我最喜歡的主意。不過如果一定要這樣的話，就這樣吧，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你好啊，船長。我有些事情想解釋一下，現在或許是個適合談話的時候。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「怎麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我喜歡沒那麼多秘密的塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「你覺得現在適合談話？真的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「好吧，我懂了。我們馬上就要闖進一座要塞，裡面全都是亡命徒，見到我們就恨不得動刀子。但我還是想說說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「雖然我也很痛恨本維斯，但我跟你來這裡的主要原因，是為了找一個叫雷馬洛的男人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「雷馬洛是誰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「你覺得他在舷窗堡壘嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你自己有空再找他吧，我們是來找本維斯的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「這個故事說來可話長了。簡單地說，這個雷馬洛有麻煩了，皇族海盜派人來追殺他，我得搶先一步找到他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我沒看到他的船，所以有可能……不過，或許我們應該多留意一下線索，看看能不能找到他的下落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「沒問題，我們就多留意留意線索吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「好吧，好吧，靈視者船長。」
+
+塞拉芬朝你敬了個禮，瞇著眼睛，不再說話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「我很抱歉，船長，我應該提前跟你說清楚才對。對我來說，雷馬洛就像我的家人一樣，而我當時對你一無所知。不過，我現在倒是有點瞭解你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「你之前為什麼沒和我說過雷馬洛的事情？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「沒什麼需要道歉的。家人的事情確實很重要，我們一起來找雷馬洛吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「謝了，船長，我真的很感謝你。」
+
+他笑了起來，一隻拳頭放在胸口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「看看這是什麼東西？我敢肯定我見過這該死的箱子。」他跪在箱子前，把手搭在了上面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「有什麼線索嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「動作快點，塞拉芬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>他打開了箱子，裡面空空如也，但塞拉芬並沒有露出失望的表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「親愛的小塞——這說的肯定是我！我知道你一定能找到我，請不要再尋找我的線索了。這一切苦果都是我自己釀成的，我不希望再把你也牽扯進來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「魔法水域指的是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[洞察] 「信上似乎還有些別的內容。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「你知道烏黛恩是誰嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「沒錯，可能是還有一些內容，不過對咱們沒什麼價值。」
+
+他折起了信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「沒有，船長，就這些東西了。我已經得到我想要的東西了，非常感謝。」
+
+塞拉芬快速折起了信，把它塞進了很深的口袋裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[拿走信件。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「你沒必要都告訴我，這是你和雷馬洛之間的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>你從塞拉芬手裡拿走了信件。一開始，他的臉上露出了震驚與憤怒的表情。但他隨即便撅起嘴，深吸一口氣，背過了身。
+
+信的結尾寫著：
+
+&lt;i&gt;祝你的一生幸福長壽。你已經學會了我能交給你的一切。這些本事如果交給別人，最後可能只會給我帶來恥辱。但我知道，你並不是這樣的人。
+
+你親愛的，雷&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>塞拉芬微笑著點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「不過現在，我們要準備燒殺擄掠一番了，沒錯吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「幾年前，這地方被艾戴斯佔領了。當時，這座要塞從頭到尾都臭烘烘的。為了把地板上的各種屎尿清理乾淨，她派她的手下刷了好幾個月的地板。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「有一部分人可能覺得應該換個地方混，他們就在夜裡偷偷逃跑了。沒過多久，艾戴斯就追上了他們，把他們的腦袋砍了下來，當做燈籠掛在堡壘的前門了。她管這叫舷窗堡壘的的死人燈。」
+
+他的鼻翼扇了一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「我倒不是想說，我支援她不尊重皇族海盜的傳統。不過，她和弗蘭特那群老傢伙有諸多不和，我也不是不能理解。」
+
+他毛茸茸的手掌撫摸著胡辮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「皇族海盜並不是什麼艦隊，更像是一群兇惡的船長各自為戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「雖然不少人都恨不得把對方剝了皮喂鯊魚，喂海怪，但我們依然由於傳統而維繫在一起。就算是那些不怎麼遵守傳統的人，也會齊心協力對抗外敵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「當然，我是靠著一直以來的哄騙伎倆化險為夷的。知道哄騙的時候，最重要的一點是什麼嗎？那就是要有可靠的計劃！嗯，還有，千萬別把命丟了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「我們可能，呃，幾個月之前滾過床單。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「或許確實有辦法能溜進去。不過我們必須在夜幕的掩護下，把船停到一個不顯眼的地方，然後盡可能快地從牆上翻過去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「涅克塔卡的黑市。如果你想買皇族海盜旗的話，就去那裡找吧。為了避開皇家守衛，黑市經常會換地方，我們只要找到它現在的地方就行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「真打起來的話，想不弄壞海盜旗，或者別不小心把船擊沉，恐怕不太容易。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「如果你發現自己身處險境的話，去魔法水域找烏黛恩吧，她可以幫助你。」
+
+塞拉芬靜了下來，凝視著紙頁。你聽到了他呼吸聲。他抬起頭，面無表情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「但既然你問了，讓我想想……」
+
+塞拉芬停下來，一邊捻著胡辮，一邊思考。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「至於剩下的人嘛，她的左右手。你要是敢幹出格的事，弗蘭特就會把你船上的所有人抓起來拿鞭子抽。不過艾戴斯嘛，她……呃，這麼說吧。她能吸引像本維斯這種小慫蛋子，這並不是沒有原因的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「就連你，船長，就連你都有可能會支援她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「就這麼說吧，我認為在無政府主義和暴政之間，應該有某個恰到好處的位置才對。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「確切地說，是熟人，只有一個，是個叫賽麗的姑娘。她在她那個圈子裡已經混了很多年了，跟大家熟的不能再熟了。我們雖然算不上什麼家人，但也不是什麼敵人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「你的『熟人』只是你隨隨便便的某個情人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「隨隨便便？你把我當什麼人了，船長？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「傻瓜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「整個亡焰列島最能惹麻煩的傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「能力比外表更勝一籌的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「算了吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「你這句話可真讓我扎心了，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「好吧……你這麼說倒也沒錯……」他露出而笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「你能這麼說這是太感謝了，船長，尤其是我的外表已經這麼優秀了。」塞拉芬眨了眨眼，拇指按在肚子上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「沒問題，先生。」</DefaultText>
+      <FemaleText>「沒問題，女士。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「這就是我剛剛說的那個，基本相當於自殺的方案。我猜我大概沒辦法說服你，讓你別這麼去做吧……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「沒錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「好吧，你說了算吧，船長。」他做了個鬼臉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「如果你真的打算硬衝的話，得給你的炮裝滿火藥和炮彈。順便祈禱在你的船被擊沉之前，先把舷窗堡壘的牆壁轟塌。另外，我希望你已經練習過游泳了，明白了吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「既然你這麼渴望挑戰，要不咱們直接用投石器把你從牆上扔過去吧。還省得再修一次船了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「這其實算不上我這幾分鐘裡聽到的最差勁的主意，船長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「我猜我大概是沒有……呃，望遠鏡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「所以說，我們也得混進去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「舷窗堡壘會發邀請函給別人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「你的意思是？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「不，船長，他們不歡迎外人。」他撓了撓鼻樑，歎了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「沒錯，船長，正是如此。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「我們得找些東西來，讓他們把我們當成皇族海盜。」
+
+他抖了一下左耳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「要是被別人看到你掛著這面旗子，到時候有變得多危險，應該不用我來告訴你吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「又一個前女友？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「不是，船長，不過你的思路我蠻喜歡的。」
+
+他輕輕地笑了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>塞拉芬低下了頭，抓了抓鼻子旁邊的傷疤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「昂德拉在上啊，雷馬洛拖著這個箱子穿過了整個亡焰列島！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>他把手伸進箱子，摸索起來。過了一會兒，箱子裡發出了一聲清脆的卡噠聲。箱底的暗層伸了出來，裡面放著一卷被疊起來的羊皮紙。
+
+塞拉芬把紙拿了出來，湊到鼻子旁邊，深深地吸了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「上面寫了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「啊，沒錯，海盜信件發霉的味道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>塞拉芬打開了信，大大的黃眼睛上下掃視著。他清了清嗓子，讀起了信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「這種箱子裡面的味道更難聞，船長，我不騙你。」
+
+他打開了新，清了清嗓子，開始讀了起來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>塞拉芬呲起牙齒，怒吼一聲，靈巧地躲開了。他把信折了起來，放進了褲袋裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「雖然不知道這個烏黛恩是誰，但魔法水域對我來說，就像我的名字一樣清楚。當我還是個小屁孩，剛剛上巫師號的時候，雷馬洛會請我去涅克塔卡的流明澡堂裡泡澡。」
+
+他笑了起來，朝雷馬洛的箱子輕輕靠了過去，一隻手摸索著拋過光的木質表面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「澡堂裡的水閃著光，就像海面上的朝霞一樣。當時我還年輕，腦子裡充滿了幻想，我就管它叫魔法水域。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「我知道你沒必要非這麼做不可，船長。不過如果我們找到那家澡堂的話，我不介意你也一起來……當然，如果你不想來，就算了。」
+
+他眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「雖然我並不討厭泡個澡，但信裡的其它事情真的很糟。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「我倒不是想說，我支援她不尊重皇族海盜的傳統。不過，她和弗蘭特那群老傢伙有諸多不和，我也不是不能理解。」
+
+他毛茸茸的手掌撫摸著胡辮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「只要他們一吹起號角，整個舷窗堡壘就會像聚鹿的瑪珈嵐信徒一樣嚴陣以待。在所有陌生的船隻都被打成篩子之前，他們是不會放鬆警惕的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「當然，我以前有。後來我犯了個錯誤，把它借給了弗蘭特，他顯然是忘了那東西不是他的。」
+
+他一邊嘟囔著，一邊低吼了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「砸場子的要點在於，你得先給自己弄到一份邀請函，之後好好打扮一番，混進去。」
+
+他挺起胸膛，拇指指著自己襯衫的優質面料。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

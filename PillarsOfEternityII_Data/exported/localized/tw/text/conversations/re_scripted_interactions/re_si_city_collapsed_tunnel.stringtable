@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_city_collapsed_tunnel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>沿途有一個隧道坍塌了，一塊無法撼動的巨石擋在了洞口。工人們圍著這裡亂轉，並沒有做什麼實際工作。
+
+也許你可以在城裡找到另一條路，但是繞道可能要花掉幾個小時。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[派人去把路上的石板推開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[用錘子和鑿將石板砸成兩半。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[找到一條路繞過崩塌區域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你引導你的夥伴繞過石頭。隨著一陣低吼和關節與肌肉的清脆爆響，你的隊員將石頭推到路邊，打開了前路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你穿過那些工人。最大的一塊石頭倒在一邊，看起來你可以輕易撬動它。
+
+在石堆中尋找孔和縫隙，你不斷拓寬隧道入口，直到可以委身通過。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「黑暗之家是我們的新家園！」隧道裡有只妖精撕心裂肺的叫道，原來裡面還有許許多多的妖精。「離開這裡！」
+
+他們成群結隊向前，可怕的洞穴蝙蝠也倉皇從他們身邊逃開......向你飛來。
+
+胡亞納驚慌失措的逃開了，只留你一人獨自面對群獸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>在隊員的幫助下，你很快就將最大的石頭移開......也許這速度有些太快了。
+
+一塊山崖從上方掉落下來，砸中了你的背部和肩膀然後碎裂開來。
+
+「恩加蒂在下面。」工頭退縮了。「想把上面的土擦掉嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Specified 0]組織工作不過不充當抬重物的主力軍。很快，那個巨石發出巨大響聲，將下方的小碎石盡數碾碎，發出讓人滿意的咯吱聲。當風再次吹進隧道入口的時候，發出溫柔的呼號聲。
+
+一個工人歡呼起來，不過工頭扇了一下他的頭頂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Specified 0]組織工作需要一些時間，與此同時你的隊員設法清理周圍的碎屑。
+
+當你還在欣賞自己的傑作時，一塊懸崖剝落下來砸中了[Specified 0]的頭，讓你的假工頭四肢伸開躺在地上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[將石板推到路邊。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你讓工人們去應付那些苦差事。
+
+這街道就像海怪的觸手般扭曲，不過你已經穿越了涅克塔卡區域很多次，對地形十分瞭解。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你覺得繞過隧道應該跟穿過隧道一樣簡單，不過涅克塔卡證明你錯了。
+
+你遇到了幾個幫不上忙的當地人，又走了幾條死胡同，再花了幾個小時，終於繞過了隧道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>一股散發著臭味的風從你的臉龐呼嘯而過，隨著風而來的除了一股類似海上的惡臭之外，也從黑暗中帶來一些喧鬧聲——一陣嘰嘰喳喳的吵鬧聲，愚蠢又刺耳。
+
+突然，你覺得自己聽到了打響指的聲音......</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[跟工人交談。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>羅帕魯在他們之中喃喃自語，當你走上前去，他立刻閉上了嘴避開了他們的眼神。
+
+那個庫亞魯工頭透過指縫瞥了一眼然後舉起了手。「你好，尊貴的靈視者。我們的工作是修復這個隧道，不過這個通道暫時關閉了。」他低頭鞠躬。「涅克塔卡的僕人會為任何障礙或是延遲道歉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「發生了什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「照這個速度下去就別想打開通道了！讓這些人去工作！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「請記住，昂德拉只用了時間和水就重塑了整個大陸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我想我能幫上忙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>其中一個羅帕魯搖了搖頭。「你肯定感覺到了！一條巨龍剛剛飛過了這個島！它讓整個城市為之震顫！」
+
+庫亞魯皺著眉頭看著說話的那個人然後向海裔揮了揮手。「你安靜點。」
+
+他轉過頭將注意力回到你身上。「他們應該少說點話，這是為了他們好。涅克塔卡的僕從會為任何不友好和冒犯而道歉。」
+
+他又鞠了一躬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>庫亞魯睜大了眼睛。「等一等靈視者！整個城市將這個任務託付給了&lt;i&gt;我們&lt;/i&gt;！我們一直在工作！您不需要動一根手指！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>工頭睜大了眼睛，幾個工人從你的身邊退了一步。他們的老大轉過身，扇了其中一人的後腦勺。
+「人們需要穿過那個隧道！我們來打開它！現在就行動！」
+
+工人們嘟囔著，其中一個說要打通隧道需要花上好幾天的時間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>工頭點了點頭。「靈視者說的沒錯。」
+
+其中一個工人撓了撓她的頭。「為什麼？」
+
+「只要海水還沒有乾涸，我們就一定要清理乾淨這條路！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>胡亞納對你眨眼。他們似乎不明白你想說什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>工頭皺著眉頭，叉著雙臂。「我們能理解你的沮喪，不過憤怒可不能推動石頭。我們會一直工作，直到道路被清理乾淨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>然而，當你那可怕的面容盯著他們看時，他們的工作效率更高了。幾個小時之後，汗流浹背的羅帕魯鑿穿了障礙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[重新思考你的選擇……]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你退了一步，讓工人鬆了一口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>羅帕魯互相點了點頭，受到你的鼓舞，他們重新振作起來回去工作。幾個小時之後，汗流浹背的羅帕魯成功打開了隧道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你向前走了一步，將雙手貼著那塊石頭。你展示出不可思議的力量，將石頭推到了路邊，掃清了前路。
+
+你後退一步，拍了拍手上的灰塵，那群懶散的工人就在旁邊看著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>無論你如何用力推，巨石未動分毫。
+
+工人們在一旁竊笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你面前的黑影毫無規律的分散扭曲，重聚後再分散，最後又聚成了一堆堅韌的飛行生物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>最終你回到了寬闊好走的大路上，從這裡你再次向目的地進發。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你將障礙拋在了身後，依靠[Specified 1]的指引穿過了涅克塔卡那條曲曲折折的小道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 1]保證附近有一條近道，然後你就讓那些工人忙活去了。
+
+不幸的是，涅克塔卡錯綜複雜的隧道、街道和巷道對[Specified 1]和你來說都太難辨認，你浪費了大量的時間在這個城市裡瞎轉悠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>他從容的指引著你，以他對城市的瞭解，讓繞路的過程非常短。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>她從容的指引著你，以她對城市的瞭解，讓繞路的過程非常短。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「是這樣，船長。我們會以你為榜樣。」
+
+泰克胡自豪的說道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>工頭點了點頭。「靈視者說的沒錯。」
+
+其中一個工人撓了撓她的頭。「為什麼？」
+
+「只要海水還沒有乾涸，我們就一定要清理乾淨這條路！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>黃銅堡和峽谷之間有著錯綜複雜的天然隧道和基斯開鑿的隧道。
+
+大部分較大的通道都是交通繁忙，為大家所熟悉。但是大通道的狹窄分支就通向一堆扭曲的大廳或者乾脆是死胡同。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「是這樣。船長，我們不應去幹工人幹的活兒髒了我們的手。」
+
+泰克胡略略傾著頭引導你向前。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\xx_principi_faction_questline\fct_qst_principi_slavers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>狡猾的提議</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>解決鉤刺島上的奴隸販子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>與艾戴斯船長交談</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>回去找襯艙城裡的弗蘭特船長</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>前往鉤刺島的奴隸販子港口</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>與艾戴斯船長交談</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>弗蘭特船長認識的一個富人與鉤刺島上的奴隸販子們有著生意往來。最近這段時間原住民們已經影響到了他們的貿易航線。
+
+作為幫助奴隸販子的交換，這名聯絡人願意給弗蘭特提供政治上的幫助。但是販奴在皇族海盜中是犯罪行為，因此弗蘭特要求我盡可能以不動神色的方式代替他處理掉這個問題。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已經停靠在奴隸販子碼頭並且開始評估這次的形勢。我感覺這個地方遠沒有看上去地那麼簡單。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>我已經按照&lt;b&gt;艾戴斯&lt;/b&gt;的吩咐，打擊了鉤刺島上奴隸販子們的非法勾當。我應該去&lt;b&gt;舷窗堡壘&lt;/b&gt;告知她這一進展。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>我應該去告訴弗蘭特我已經解決了鉤刺島上的奴隸販子問題。他們的生意很快就能恢復正常，這樣他的位高權重的聯絡人就會滿意了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>弗蘭特要求我前往鉤刺島與島上的奴隸販子領袖庫瓦大師交談。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>我違背了弗蘭特的意願並解決了鉤刺島上的奴隸販子。也許艾戴斯會喜歡這件事的反轉。我應該去舷窗堡壘找她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我說服瓦哈奇奴隸們逃離了鉤刺島。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>庫瓦大師的艦船正遭受瓦哈奇人的襲擊，這已經開始影響到他的生意。他要求我前往奧里奧柯基並殺死那裡的酋長。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>艾戴斯寄來了一封信並請求我去舷窗堡壘找她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>艾戴斯在鉤刺島上有一名線人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>艾戴斯的間諜斯弗爾希望我使用一切方法去干擾鉤刺島上的販奴行動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>似乎奴隸販子的要塞最底層有一道能夠自由進出的地下海道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>按照斯弗爾的說法，鉤刺島上的奴隸販子交易亡焰列島原住民的行為已經破壞了當地法律。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我在鉤刺島城堡地下的地牢裡面發現了一群瓦哈奇奴隸。他們似乎想要暴動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>奴隸牢房的鑰匙在鉤刺島地牢中的食人魔監工手上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>拍賣商瑪卡已經允許我進入鉤刺島上的要塞去找庫瓦大師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>庫瓦大師不再會對亡焰列島的人民構成威脅了，但是他的俘虜們仍然被鎖在了鉤刺島的地牢裡面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>鉤刺島上的奴隸囚籠已經空了。看起來，奴隸們已經被賣掉了，或者遭到了更可怕的命運。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>你殺死了此任務中至關重要的角色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我釋放了被困在島上的奴隸並將奴隸販子的船交給了他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我釋放了被困在島上的奴隸並將奴隸販子的船交給了他們。我說服他們去找舷窗堡壘的艾戴斯船長商談加入皇族海盜一事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我幫助奴隸販子解決了他們的瓦哈奇問題。現在他們的生意能夠恢復正常了，弗蘭特船長肯定會很滿意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我幫助奴隸販子解決了他們的瓦哈奇問題。現在他們的生意能夠恢復正常了，卡斯托爾主管肯定會很滿意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>我幫助奴隸販子解決了他們的瓦哈奇問題，庫瓦大師給予了我豐厚的獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>我解決了奴隸販子的首領庫瓦大師，鉤刺島上的販奴行動因此被終結了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>卡斯托爾主管僱傭了弗蘭特船長去處理鉤刺島上影響自己生意利益的問題。在我去襯艙城與弗蘭特交談後，他給了我一份工作提議，完成後我將能夠從皇族海盜那裡獲得豐厚的獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>一名皇族海盜間諜告訴我說鉤刺島上可能有人正在走私非法奴隸。如果我釋放那些奴隸，間諜的船長將會給我豐厚的獎勵。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

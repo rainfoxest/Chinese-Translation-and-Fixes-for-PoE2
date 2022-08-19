@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\22_huana_ruins\22_cv_soul_vision_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這個靈魂在倉促、驚慌的爆發中飛馳而過。帶著期望走近你，痛苦也緩解許多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[讀取靈魂。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>沒有人相信胡亞納會偽造像金輪那樣的裝置，但你一言不發。英格維仙建造的東西不止很美，而且有更多的功能，這就是藝術。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>他們曾嘲笑你費心研究胡亞納的古文字，但現在你正閱讀金銘文，而他們只能乾瞪眼。
+
+你在回涅克塔卡的旅途中忍不住自誇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你全神貫注地旋轉控制盤和按面板，以至失誤按錯的組合。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>圓盤裂開一條縫隙，放出一陣讓你跪地咳嗽不停的煙氣，在痛苦中你依稀看到某個被咳嗽聲招來的生物身影。
+
+吹牛還是等之後再說吧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[不要執著於回憶。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>隨著一陣如釋重負的感覺，精粹被吸入了裘荻的燈籠。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

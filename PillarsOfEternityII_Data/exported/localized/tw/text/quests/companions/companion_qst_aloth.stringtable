@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_aloth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>塗鴉面具人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>等待亞洛斯的解釋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>尋找「塗鴉面具人」的蹤跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>前往奧里奧柯基。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>在奧里奧柯基尋找灰鑰社的痕跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>告訴亞洛斯你在若賽爾看見了什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>前往奧里奧柯基。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>過去五年間，亞洛斯一直在努力將灰鑰社改造為正義之師，但是事實證明這項任務異常艱巨。
+
+他希望我幫他在亡焰列島中找出灰鑰社分部，那將為給他提供非常重要的訊息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>亞洛斯提到他自己正在追蹤灰鑰社。他保證在自己有時間查看筆記之後將告訴我更多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>亞洛斯告訴我：該地區有個被稱為「塗鴉面具人」的古代灰鑰社集團。
+
+他說那裡沒人知道這個名字，因此我們最好時刻注意灰鑰社的跡象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我找到了瓦哈奇襲擊商船的證據。亞洛斯仍然認為帆上的標記是與灰鑰社有關聯的證據。
+
+也許我們可以在奧里奧柯基瞭解一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我抵達了奧里奧柯基，這裡瓦哈奇的面具般的臉上的奇特記號表明可能有灰鑰社存在。
+
+也許我該四處查看，多瞭解一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我找到了若賽爾很久以前身為瓦哈奇酋長時的回憶。看來撒奧斯是想要恐嚇她的人民去放棄英格維仙遺跡。
+
+但是反而是她處決了撒奧斯，只不過他們之間的事加重了瓦哈奇對於外來者的疑心。因此，部落無意之中一直為灰鑰社效力了近兩千年。
+
+亞洛斯對此會感興趣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>亞洛斯對「塗鴉面具人」的描述讓我想起了胡亞納的一個部落「瓦哈奇」。
+
+我們也許能去他們的發源島奧里奧柯基瞭解更多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我們途徑一艘浮船。上面的船員都死了，但亞洛斯認為他們可能與灰鑰社有牽連。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我決定不調查這艘船。亞洛斯很失望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我讀取了已故船員的靈魂。他們只是商人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我們無法肯定兇手是誰，不過可能就在附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我們在&lt;b&gt;莫塔勒奧柯茲&lt;/b&gt;遇到了一群&lt;b&gt;瓦哈奇人&lt;/b&gt;他們的臉上塗著彩繪，不過我們沒法從他們身上得知更多事情。我們得去別的地方尋找答案了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>亞洛斯對撒奧斯犯錯的故事表示愧疚。他考慮了自己是否有可能被對灰鑰社的追尋而沖昏了頭腦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>亞洛斯受到撒奧斯不太靠譜的勝利故事鼓舞。他似乎很想知道自己對灰鑰社的追尋進度幾何。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>亞洛斯花了整整五年來嘗試瓦解灰鑰社，但此事比他預計的複雜。
+
+他想讓我幫忙在亡焰列島尋找灰鑰社集團的線索。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

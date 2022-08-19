@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\09_port_maje\09_si_principi_boss_encounter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>反抗者號漸漸離開了國王港，你注意到有許多其它的船隻來來往往，絕大多數都是商船和漁船。但有一艘船引起了你的注意……
+一艘載滿了大炮的大帆船，挑釁似地出現在反抗者號右舷的方向。船上高高地掛起了旗子，代表著想要商談的來意。但大帆船的速度快得像是要打仗一樣，它恐怕不會輕易掉頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[正面面對追過來的船]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你向逆時針方向調轉船舵。船以極快的速度轉向，驚起了一隻在桅桿上休息的海鷗。海鷗在甲板上留下了點點白色排泄物，以示不滿。
+
+你轉過了船，直面追過來的大帆船。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[嘗試甩掉大帆船]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>你示意船員升起船尾帆，轉到船的下風側，讓船加速。反抗者號速度不斷加快，有人興致勃勃地「嗨！」了一聲。
+
+儘管你的航海技術非常高超，但大帆船還是在不斷接近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>幾個全副武裝的船員走過了登船板，緊緊地盯著船上的一切動向。人群中分出了一條通道，他們的船長，一個穿著得體的高個子男人走了過來。他看了你一眼，揚了揚精心修剪過的眉毛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>跟在船長身後的是一隻亂蓬蓬的絨精，兩者形成了鮮明對比。絨精的腰間掛著一對手槍，他的食指漫不經心地把玩著一顆圓乎乎的槍彈。
+
+他朝你得意地笑了起來。他亂蓬蓬的臉上長滿了藍色的毛髮，還編著粗獷的藍色絡腮鬍子，這使得他的笑容看起來充滿了惡意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[什麼都不做]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>兩艘船的距離快速接近，用不了多久，那艘大船就要在你的挑戰者號旁邊咆哮了。很快，帆船上的船員把登船板拋到了你的船上，他們叫嚷著，說他們的船長馬上就會登船。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

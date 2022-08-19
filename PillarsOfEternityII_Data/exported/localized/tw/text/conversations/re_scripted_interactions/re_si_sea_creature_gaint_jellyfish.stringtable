@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\re_scripted_interactions\re_si_sea_creature_gaint_jellyfish</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>亡焰列島的水面透明得就像一塊彩色玻璃，和緩的風向引導著[Player Ship]。五香燉湯的香氣從甲板下方飄上來。
+
+[Specified 0] 和 [Specified 1] 跨在舷緣上，腿和釣魚桿在水上方晃蕩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「準備發射火炮！所有人準備戰鬥！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我們快調轉船頭離開這！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>在一陣可怕的寂靜過後，翻騰的水面上浮現出紅色的泡沫。一隻可怕的殘破屍體浮上來，然後緩緩沉入深淵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>幸運的是，你的帆順風，把你拖出了怪物的攻擊範圍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>在下面，你的炮手鬆了口氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>怪物扑打著，[Specified 0]扔了一條繩索給[Specified 3]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[在船上設置防禦結界。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>那野獸快速接近，蜿蜒圓滑，但你非常瞭解深水動物，識別這種生物的特點是它的脊柱不怎麼露出水面。
+
+它是刺鯊，聲名遠揚的巨型鯊魚，擅長撞翻、撞沉船隻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>雙腳分開，雙臂伸展，你提高聲音詠唱，為整個船身編織一道防禦魔法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>突然，[Specified 0]變得僵硬。
+
+[Specified 1]拍了拍[Specified 0]的背。「別緊張，只是個玩笑。」
+
+但[Specified 0]聳聳肩把手滑開。「以昂德拉之名，那究竟是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你看。一個黑影在水下移動。它幾乎是在地平線的邊緣，但它迅速接近。
+
+[Specified 0] 站起來。「伽拉溫的一個幼體。它正朝我們而來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>甲板發出轟隆聲，你的船員衝向下面的崗位。
+
+[Specified 2]旋轉船舵，把船的左舷調整到面對怪物，此時一股水柱從海中升起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>露出水面的野獸大約三十英尺高，全身佈滿鱗片、脊柱和筋肉。它看起來像是一頭巨鯊，不同的是它邪惡的脊柱沿著它的身體分佈。每條脊柱看起來十分鋒利，足以把一個人切成兩半。
+
+或刺穿船身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>那野獸向你撞來。你的船顫抖起來，把[Specified 1]拋進桅桿。水手滑到甲板上，不動了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>露出水面的野獸大約三十英尺高，全身佈滿鱗片、脊柱和筋肉。它看起來像是一頭巨鯊，不同的是它邪惡的脊柱沿著它的身體分佈。每條脊柱看起來十分鋒利，足以把一個人切成兩半。
+
+或刺穿船身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你的帆順風，但不夠快，不能把你的船拉出怪物的攻擊範圍。
+
+那野獸向你撞來。你的船顫抖起來，把[Specified 1]拋進桅桿。水手滑到甲板上，不動了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>甲板發出轟隆聲，你的船員衝去調整帆。
+
+[Specified 2]旋轉船舵，把船轉離怪物，此時一縷水從海中升起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>如同半空中一聲炸雷，你腳下的甲板開始分崩離析。你周圍的世界彷彿天旋地轉了許久，隨後你便落入了水中。
+
+你意識不清地漂在水面上，旁邊四散著破碎的木板和鋼鐵。你重新調整自己在水面上的姿勢，開始游泳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我敢肯定[Specified 0]某一天會中大獎。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「別嘮叨了，你們兩個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[什麼都不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「前幾天我自己真正中了一次獎，」 [Specified 0]說。「雖然脫鉤了。」
+
+「我就告訴你說要用個大些的鉤。」[Specified 1]咯咯笑道。「好像想起來了，在女王港那個黑色眼睛的酒吧招待員你最終也沒勾搭上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Specified 0]大笑起來。「感謝信任票，船長。」
+
+「我所說的是，如果那傻瓜不買更好的釣具，就釣不到魚，」[Specified 1]說。
+
+但[Specified 0]僵住了。「看到沒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「好勒，船長。」[Specified 1]伸出一隻手來行禮，用另一隻手抓緊旗桿。
+
+總算有了片刻寧靜。
+
+[Specified 0]打破了它。「哎，船長……看看這個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[仔細辨別。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 5]盯著外觀查看。「我……我覺得是頭刺鯊。」
+
+刺鯊。聲名遠揚的巨型鯊魚，擅長撞翻、撞沉船隻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>鯊魚回來繞著你游……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你的炮手們跺腳歡呼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>塞拉芬盯著外觀查看。「是刺鯊沒錯了，船長！」老大了！快得像風，咬合力驚人！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「是刺鯊……恩加蒂的深海刺客。母神給了我們一場嚴峻的考驗。」
+
+泰克胡把手從眼前拿開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你看不清衝向你的存在。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>那野獸快速接近，蜿蜒圓滑，但你非常瞭解深水動物，識別這種生物的特點是它的脊柱不怎麼露出水面。
+
+它是刺鯊，聲名遠揚的巨型鯊魚，擅長撞翻、撞沉船隻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「不知道。」[Specified 5]說道。「不過它要過來了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 5]張開雙臂吟唱起來，為船殼施加魔法防禦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>露出水面的野獸大約三十英尺高，全身佈滿鱗片、脊柱和筋肉。它看起來像是一頭巨鯊，不同的是它邪惡的脊柱沿著它的身體分佈。每條脊柱看起來十分鋒利，足以把一個人切成兩半。
+
+或刺穿船身。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>野獸游入射程時，你的船員立刻發射了一輪炮彈。打到位置時，水面沸騰了，而野獸也隨之消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「開進射程裡！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[投擲手雷。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[召喚風來吹帆。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「保持航線！全速前進！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>船隻加快速度，野獸落在了後頭，漸漸化為視野裡的一顆黑點。
+
+[Specified 2]規劃了一條能繞開野獸領地的路線來躲避它們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「再來一輪齊射！這次別再射歪了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「走啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>炮手們向野獸發射了一輪炮彈。血霧籠罩海面，野獸消失在波濤下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>在一陣可怕的寂靜過後，翻騰的水面上浮現出紅色的泡沫。一隻可怕的殘破屍體浮上來……然後緩緩沉入深淵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>那野獸向你撞來。你的船顫抖起來，把[Specified 1]拋進桅桿。水手滑到甲板上，不動了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「發射火炮！「殺了那個混蛋！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>鯊魚重新露出水面——手雷直接飛進了它的嘴裡。
+
+它的腦袋像中了屍爆一樣被炸成了碎塊。腦花和面部肌肉的碎屑像下雨一樣落在甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>鯊魚再次浮上來——手雷晃晃悠悠地朝它嘴巴飛去，遠遠地偏到水裡，最後只留下撲通的一聲。
+
+野獸衝向船殼側面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>風醞釀一段時間後滿滿地吹來，船帆被鼓成了半圓。[Player Ship]向前開進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 2]握住船舵，使勁地逆時針旋轉。下層甲板裡面迴盪著命令的吼聲，大炮已經準備就緒。
+
+鯊魚重新浮出水面，猛衝船殼側面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Specified 0]握著魚叉奔向扶手。鯊魚重新浮出水面時，水手奮力一戳，把桿子深深地插入它的眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>甲板陡然傾斜，[Specified 3]發出恐懼的尖叫，從甲板上被甩了出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Specified 2]握住船舵，使勁地順時針旋轉。甲板上迴盪著命令的吼聲，索具工四處奔波著。
+
+鯊魚重新浮出水面，猛衝船殼側面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>鯊魚像幽靈一般在你面前出現。它快得不可思議，嘴巴大得彷彿不屬於這個世界，裡面的牙齒密密麻麻。
+
+這就是你生前所見到的最後景象了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「開炮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「有人落水！救救[Specified 3]！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[召喚風來吹帆。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「保持航線！全速前進！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[投擲手雷。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>鯊魚重新露出水面——手雷直接飛進了它的嘴裡。
+
+它的腦袋像中了屍爆一樣被炸成了碎塊。腦花和面部肌肉的碎屑像下雨一樣落在甲板上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>風醞釀一段時間後滿滿地吹來，船帆被鼓成了半圓。[Player Ship]向前開進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>船員們大口喘氣。有些下層甲板的人大笑起來。索具發出嘎吱聲。
+
+結束了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Specified 0]衝向側面，向船外投出一條繩索。緊接著，濕透了的[Specified 3]爬回欄杆處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我們沒有炮彈了，船長！」[Specified 0]大喊道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「我們沒有炮彈了，船長！」[Specified 0]大喊道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「可不是嘛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「我們沒有炮彈了，船長！」[Specified 0]大喊道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>船隻加快速度，野獸落在了後頭，漸漸化為視野裡的一顆黑點。
+
+[Specified 2]規劃了一條能繞開野獸領地的路線來躲避它們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>鯊魚回來繞著你游……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「我們沒有炮彈了，船長！」[Specified 0]大喊道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「開炮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「我們沒有炮彈了，船長！」[Specified 0]大喊道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「可不是嘛。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「走啊！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>鯊魚就像巨浪沖刷海灘一般撞擊船隻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>如同半空中一聲炸雷，你腳下的甲板開始分崩離析。你周圍的世界彷彿天旋地轉了許久，隨後你便落入了水中。
+
+你意識不清地漂在水面上，旁邊四散著破碎的木板和鋼鐵。你重新調整自己在水面上的姿勢，開始游泳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[扔個船員喂鯊魚，趁機逃離。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你迅速清點了自己的選項……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[把[Specified 0]丟出去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[把[Specified 1]丟出去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[把[Specified 3]丟出去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[重新思考你的選擇……]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>水手瞪大了眼睛，不敢相信自己就是被丟出去的倒霉鬼。
+
+你下令全速撤退，身後的海水漸漸浸紅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>你決定不犧牲自己的船員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[扔個船員喂鯊魚，趁機逃離。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>你迅速清點了自己的選項……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[把[Specified 0]丟出去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>水手瞪大了眼睛，不敢相信自己就是被丟出去的倒霉鬼。
+
+你下令全速撤退，身後的海水漸漸浸紅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[把[Specified 1]丟出去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[把[Specified 3]丟出去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[重新思考你的選擇……]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>你決定不犧牲自己的船員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>你沒有看到血、殘肢等等能證明船員命中的跡象。
+
+他們屏住呼吸……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>雷科直勾勾地盯著你。過了一會之後，他張大眼睛，又慢慢搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
