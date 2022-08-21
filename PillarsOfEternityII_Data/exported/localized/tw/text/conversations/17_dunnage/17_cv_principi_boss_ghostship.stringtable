@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「你拿到那把劍了。太好了！」</DefaultText>
+      <DefaultText>「你拿到那把劍了。Belfetto!」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,8 +31,8 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「這不是猶豫的時候，朋友。」</DefaultText>
-      <FemaleText>「這不是猶豫的時候，朋友。」</FemaleText>
+      <DefaultText>「這不是猶豫的時候，aimico。」</DefaultText>
+      <FemaleText>「這不是猶豫的時候，aimica。」</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -83,14 +83,14 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「打擾了，但我不明白不死族的存在對我的理想之國有什麼好處。或許這個選擇我們可以在新 &lt;g&gt;瓦利亞&lt;/g&gt;建立並穩定後再討論。
+      <DefaultText>「Eccosi，但我不明白不死族的存在對我的理想之國有什麼好處。或許這個選擇我們可以在新 &lt;g&gt;瓦利亞&lt;/g&gt;建立並穩定後再討論。
 
 「到那時……」他聳了聳肩。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「船長。」他點點頭。</DefaultText>
+      <DefaultText>「Casità.」他點點頭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>「很好！由你坐鎮，就不會出什麼錯了。我等著你成功的消息，船長。」</DefaultText>
+      <DefaultText>「Gellarde！由你坐鎮，就不會出什麼錯了。我等著你成功的消息，船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,8 +248,8 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「當務之急是，我們要確保有一種方法來解決掉 &lt;g&gt;烏凱佐&lt;/g&gt;的問題。因此，我們需要利文的 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;，朋友。」</DefaultText>
-      <FemaleText>「當務之急是，我們要確保有一種方法來解決點 &lt;g&gt;烏凱佐&lt;/g&gt;的問題。因此，我們需要利文的 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;，朋友。」</FemaleText>
+      <DefaultText>「當務之急是，我們要確保有一種方法來解決掉 &lt;g&gt;烏凱佐&lt;/g&gt;的問題。因此，我們需要利文的 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;，aimico。」</DefaultText>
+      <FemaleText>「當務之急是，我們要確保有一種方法來解決點 &lt;g&gt;烏凱佐&lt;/g&gt;的問題。因此，我們需要利文的 &lt;g&gt;漂浮吊死鬼號&lt;/g&gt;，aimica。」</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

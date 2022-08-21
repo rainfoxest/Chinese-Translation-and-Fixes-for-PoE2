@@ -6,14 +6,14 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>[Specified 0]發現你在船艙中。
+      <DefaultText>[Specified 0]在你的船艙找到了你。
 
-「船長，快來！有人剛從我們撿來的板條箱裡跳出來。」</DefaultText>
+「船長，快來！有人剛從我們搬來的板條箱裡跳出來。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>你還沒有反駁，[Specified 0]就把你領到了甲板上。</DefaultText>
+      <DefaultText>你還沒來得及回應，[Specified 0]就把你領到了甲板上。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -280,7 +280,7 @@
     <Entry>
       <ID>4974</ID>
       <DefaultText>&lt;b&gt;加成&lt;/b&gt;
-灌注法術效果的 &lt;g&gt;精準&lt;/g&gt;根據 秘法 技能提高。
+灌注法術效果的 &lt;g&gt;精準&lt;/g&gt;根據 秘法 技能提高
 
 威力等級 1 時，獲得&lt;link="gamedata://710a9a69-d47b-45e7-9134-432d13e2bcc0"&gt;灌注：飛彈&lt;/link&gt;
 
@@ -293,9 +293,9 @@
 威力等級 9 時，獲得&lt;link="gamedata://e8b4e221-e29b-4758-91c7-6d8f121d7c8b"&gt;灌注：死亡&lt;/link&gt;
 
 &lt;b&gt;懲罰&lt;/b&gt;
-不擁有以下特質的攻擊遭受精準懲罰：灌注、元素、火焰、寒霜、酸液、電擊和法術。
+不擁有以下特質的攻擊遭受精準懲罰：灌注、元素、火焰、寒霜、酸液、電擊和法術
 
-生命值 上限降低。</DefaultText>
+&lt;g&gt;生命值&lt;/g&gt;上限降低</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -515,12 +515,12 @@
       <DefaultText>&lt;b&gt;加成&lt;/b&gt;
 獲得 &lt;link="gamedata://9d3e2b8d-1fdd-496f-acc1-51d6d3836e59"&gt;血祭&lt;/link&gt;戰技
 
-獲得被動 生命值 再生
+獲得被動 &lt;g&gt;生命值&lt;/g&gt;再生
 
 &lt;b&gt;懲罰&lt;/b&gt;
 無法使用 強效
 
-所有對 &lt;g&gt;重傷&lt;/g&gt;攻擊者的 防禦屬性 降低</DefaultText>
+所有對 &lt;g&gt;重傷&lt;/g&gt;攻擊者的 &lt;g&gt;防禦屬性&lt;/g&gt;降低</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

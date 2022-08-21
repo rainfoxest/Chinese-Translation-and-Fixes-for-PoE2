@@ -581,7 +581,7 @@
 		</Entry>
 		<Entry>
 			<ID>117</ID>
-			<DefaultText>{0:value:percent} {0:damagetype} 傷害作為持續性的 &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>{0:value:percent} &lt;g&gt;{0:damagetype}&lt;/g&gt;傷害作為持續性的 &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2007,7 +2007,7 @@
 		</Entry>
 		<Entry>
 			<ID>424</ID>
-			<DefaultText>被火系攻擊 &lt;g&gt;暴擊&lt;/g&gt;時會被 打斷，{0:extravalue:duration}內 &lt;g&gt;意志&lt;/g&gt;也會降低{0:value}。</DefaultText>
+			<DefaultText>被火焰攻擊 &lt;g&gt;暴擊&lt;/g&gt;時會被 打斷，&lt;g&gt;意志&lt;/g&gt;也會{0:value}，持續{0:extravalue:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2032,7 +2032,7 @@
 		</Entry>
 		<Entry>
 			<ID>429</ID>
-			<DefaultText>{0:value:percent} 傷害造成量會轉化為治療效果</DefaultText>
+			<DefaultText>{0:value:percent} &lt;g&gt;傷害&lt;/g&gt;造成量會轉化為治療效果</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2047,7 +2047,7 @@
 		</Entry>
 		<Entry>
 			<ID>432</ID>
-			<DefaultText>{0:value:percent} 傷害所受量反彈給攻擊者</DefaultText>
+			<DefaultText>{0:value:percent} &lt;g&gt;傷害&lt;/g&gt;所受量反彈給攻擊者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2092,7 +2092,7 @@
 		</Entry>
 		<Entry>
 			<ID>443</ID>
-			<DefaultText>{0:value:percent} 傷害造成量轉化為 集中值</DefaultText>
+			<DefaultText>{0:value:percent} &lt;g&gt;傷害&lt;/g&gt;造成量轉化為 集中值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2157,7 +2157,7 @@
 		</Entry>
 		<Entry>
 			<ID>457</ID>
-			<DefaultText>{0:value}秒千刀萬剮的效果</DefaultText>
+			<DefaultText>{0:value}秒千刀萬剮效果的持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2512,7 +2512,7 @@
 		</Entry>
 		<Entry>
 			<ID>549</ID>
-			<DefaultText>移除腐蝕之刃</DefaultText>
+			<DefaultText>移除鏽蝕劍身</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>

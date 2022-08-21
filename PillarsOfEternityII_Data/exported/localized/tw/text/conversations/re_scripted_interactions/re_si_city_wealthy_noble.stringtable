@@ -156,26 +156,26 @@
       <ID>29</ID>
       <DefaultText>兩人對你的突然出現嚇了一跳。
 
-「老天，船長！」[Specified 1] 小聲說道。「你要把我們嚇死？我心跳都快停止了。」
+「老天，船長！」[Specified 1]小聲說道。「你要把我們嚇死？我心跳都快停止了。」
 
-皺著眉頭，[Specified 0] 環視角落，然後回到你身邊。「這裡沒什麼情況，船長。」</DefaultText>
+皺著眉頭，[Specified 0]環視角落，然後回到你身邊。「我們沒幹什麼事，船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>你轉向一條側街，留下那兩人。
+      <DefaultText>你轉到一條側街，讓那兩人自己動手。
 
-後來他們爭鬥帶了些割傷和擦傷，但他們看起來很高興，因為他們分享了一瓶上等琴酒。</DefaultText>
+回來時他們身上多了一些傷口和瘀傷，但他們看起來很高興，因為他們能喝上一瓶上等琴酒。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「嗚—呃……」</DefaultText>
+      <DefaultText>「嗯哼。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「坦白吧，蠢貨。」</DefaultText>
+      <DefaultText>「從實招來，蠢貨。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,75 +190,75 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[Specified 1]歎了口氣。「呃，告訴他，[Specified 0]。」</DefaultText>
-      <FemaleText>[Specified 1] 歎息道。「呃，告訴她，[Specified 0]。」</FemaleText>
+      <DefaultText>[Specified 1]歎了口氣。「告訴他吧，[Specified 0]。」</DefaultText>
+      <FemaleText>[Specified 1]歎了口氣。「告訴她吧，[Specified 0]。」</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[Specified 0]的眼睛轉了轉。「我們自己發現了不少硬幣，船長，我們想揣進自己的腰包。</DefaultText>
+      <DefaultText>[Specified 0]的眼睛轉了轉。「我們找到個賺點外快的機會，船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>環視角落發現一名草原民族老者，穿著奢華似 &lt;g&gt;鹿林&lt;/g&gt;貴族，他手指上戴著的戒指和瘦瘦的脖子上掛著的鏈子閃閃發光。
+      <DefaultText>在拐角處看了一眼，你看到一名上了年紀的草原人，穿著奢華的 &lt;g&gt;鹿林&lt;/g&gt;貴族衣裝，他手指上戴著的戒指和細長脖子上掛著的鏈子閃閃發光。
 
-「靠！你們這些弱智，我就跟你們說不是這條街！說的話含糊不清，好像那人的舌頭太大。
+「該死！你們這些弱智，我就跟你們說不是這條街！」說的話含糊不清，好像那人的舌頭太大。
 
-好幾個男人和女人陪伴著那人，他們穿著重盔甲，對這天氣來說穿得太多了。「對不起，主人。要是我們-」
+好幾個男女陪伴著那人，他們穿著重盔甲，對這天氣來說穿得太多了。「對不起，主人。要是我們-」
 
-「閉嘴，蠢貨！老天，&lt;i&gt;總是&lt;/i&gt;這麼熱嗎?我願意支付一千金幣再喝點。」</DefaultText>
+「閉嘴，蠢貨！&lt;g&gt;瑪珈嵐&lt;/g&gt;的火焰在上，這兒&lt;i&gt;總是&lt;/i&gt;這麼熱嗎？能再喝上一杯要我再多付 1000 &lt;g&gt;金爵&lt;/g&gt;也願意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>環視角落發現一名草原民族老者，穿著奢華似 &lt;g&gt;鹿林&lt;/g&gt;貴族，他手指上戴著的戒指和瘦瘦的脖子上掛著的鏈子閃閃發光。
+      <DefaultText>在拐角處看了一眼，你看到一名上了年紀的草原人，穿著奢華的 &lt;g&gt;鹿林&lt;/g&gt;貴族衣裝，他手指上戴著的戒指和細長脖子上掛著的鏈子閃閃發光。
 
-「靠！你們這些弱智，我就跟你們說不是這條街！說的話含糊不清，好像那人的舌頭太大。
+「該死！你們這些弱智，我就跟你們說不是這條街！」說的話含糊不清，好像那人的舌頭太大。
 
 好幾個男人和女人陪伴著那人，他們穿著重盔甲，對這天氣來說穿得太多了。「對不起，主人。要是我們-」
 
-「閉嘴，蠢貨！老天，&lt;i&gt;總是&lt;/i&gt;這麼熱嗎?我願意支付一千金幣再喝點。」</DefaultText>
+「閉嘴，蠢貨！&lt;g&gt;瑪珈嵐&lt;/g&gt;的火焰在上，這兒&lt;i&gt;總是&lt;/i&gt;這麼熱嗎？能再喝上一杯要我再多付 1000 &lt;g&gt;金爵&lt;/g&gt;也願意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「滾回[Player Ship]去，否則我親自將你變成侍衛！」</DefaultText>
+      <DefaultText>「滾回[Player Ship]去，否則我親自把你交給城市守衛！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「前進。要是你們船長落得這個下場，記得把他放下來。」</DefaultText>
+      <DefaultText>「去吧。記住要分一杯羹給你的船長。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>「我會處理這個。你倆開船。」</DefaultText>
+      <DefaultText>「這個我親自來，你倆退下。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「很棒的發現。讓我們去拿酬金吧。」</DefaultText>
+      <DefaultText>「幹得好，我們去發大財吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>[Specified 1]敬禮。「遵命，船長。」
 
-[Specified 0]傻笑著。</DefaultText>
+[Specified 0]冷笑著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>[Specified 1]敬禮。「遵命，船長。」
 
-[Specified 0]傻笑著。</DefaultText>
+[Specified 0]冷笑著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[Specified 0]吐了一口濃痰沿著牆上慢慢滴下，[Specified 1] 趕緊退避。
+      <DefaultText>[Specified 0]吐了一口濃痰沿著牆上慢慢滴下，[Specified 1]趕緊退避。
 
-「老天……是，船長。我們將回船上去。」兩人溜走。</DefaultText>
+「老天……是，船長。我們這就回到船上去。」兩人溜走。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,7 +292,7 @@
       <ID>53</ID>
       <DefaultText>[Specified 4]給那個人以及他的侍衛清晰的回到女王港的指示。
 
-「真誠感激你。」他深深鞠躬，給你一小袋金幣。就當你的辛苦費吧。」</DefaultText>
+「真誠感激你。」他深深鞠躬，給你一小袋金幣。「就當你的辛苦費吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,14 +304,14 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>他哼了一聲。「只有傻瓜才會沒拿到貨就付錢！「你認為我是傻瓜？</DefaultText>
+      <DefaultText>他哼了一聲。「只有傻瓜才會沒拿到貨就付錢！你認為我是傻瓜？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>那人眨了眨眼，咧嘴而笑。
 
-「太好了！「你賣些什麼？我願意多付些錢！」</DefaultText>
+「太好了！你賣些什麼？我願意多付些錢！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,8 +371,8 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>那人咧嘴而笑。「啊！「有修養的紳士！我很榮幸，先生！」他低下頭。</DefaultText>
-      <FemaleText>那人咧嘴而笑。「啊！有修養的淑女！而且還是個美人！我很榮幸，夫人！」他深深鞠躬。</FemaleText>
+      <DefaultText>那人咧嘴而笑。「啊！你也是有文化的人！我很榮幸，先生！」他深深鞠躬。</DefaultText>
+      <FemaleText>那人咧嘴而笑。「啊！你也是有文化的人！而且還是個美人！我很榮幸，夫人！」他深深鞠躬。</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -423,7 +423,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>他略微後退，伸出手掌擋住了酒桶。「不！「讓那個煩人的雜碎從我眼前消失！」</DefaultText>
+      <DefaultText>他略微後退，伸出手掌擋住了酒桶。「不！讓那個煩人的雜碎從我眼前消失！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -467,7 +467,7 @@
       <ID>85</ID>
       <DefaultText>[Specified 4]給那個人以及他的侍衛清晰的回到女王港的指示。
 
-「真誠感激你。」他深深鞠躬，給你一小袋金幣。就當你的辛苦費吧。」</DefaultText>
+「真誠感激你。」他深深鞠躬，給你一小袋金幣。「就當你的辛苦費吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -520,7 +520,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>「轉念一想……</DefaultText>
+      <DefaultText>「我再想了想……」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -532,7 +532,7 @@
       <ID>97</ID>
       <DefaultText>當你接近時，一個侍衛將戴著長手套的一隻手搭在那人肩上，但他從下面扭身離開了。
 
-「終於！有人腦海中閃過一個念頭！」</DefaultText>
+「終於！終於有一位有腦袋的人！」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

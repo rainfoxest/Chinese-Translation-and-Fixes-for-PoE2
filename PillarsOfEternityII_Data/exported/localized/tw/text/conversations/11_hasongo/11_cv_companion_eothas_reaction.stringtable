@@ -6,29 +6,29 @@
   <Entries>
     <Entry>
       <ID>4</ID>
-      <DefaultText>「我還記得上一次跟神明對話時的情形。喔，等等，&lt;i&gt;這種事情不會發生在每個人身上啊。&lt;/i&gt;
+      <DefaultText>「我還記得我上一次跟神明對話時的情形。喔，等等，&lt;i&gt;這種事情不會發生在每個人身上啊。&lt;/i&gt;
 
 「嗯？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>「船長，我無意打斷你的沉思，但我並非每天都能看到有人跟光魂珀交融，對嗎？」</DefaultText>
+      <DefaultText>「船長，我無意打斷你的沉思，但我並非每天都能看到有人跟光魂珀交融，ekera？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>「儘管我喜歡裝作什麼都沒發生的樣子，但也許我們應該聊聊你關於魂珀的經歷……」他斜眼瞥了你一下。</DefaultText>
+      <DefaultText>「儘管我想裝作什麼都沒發生的樣子，但也許我們應該聊聊你關於魂珀的經歷……」他斜眼瞥了你一下。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>「又開始了，是不是？準備分享一下細節嗎，還是說我們得猜一遍？」</DefaultText>
+      <DefaultText>「你又和他聊上了，是不是？想要分享一下細節嗎，還是說我們得猜一遍？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「&lt;g&gt;瓦利亞&lt;/g&gt;鑄魂學 挖掘出了光魂珀的許多奇異屬性，但看樣子靈視者可以教他們一點招數。你在那裡看到了什麼？」</DefaultText>
+      <DefaultText>「瓦利亞 鑄魂學 挖掘出了光魂珀的許多奇異屬性，但看樣子靈視者可以教他們一點招數。你在那裡看到了什麼？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>「我知道神父會因香太多而發瘋，但與神明的對話並未給你留下深深的傷疤。」
+      <DefaultText>「我知道牧師會因香太多而發瘋，但與神明的對話並未給你留下深深的傷疤。」
 
 泰克胡伸長了脖子端詳你。</DefaultText>
       <FemaleText />
@@ -72,7 +72,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「你這次似乎不會生病了。所以我可以把它當作一個好跡象了……？」</DefaultText>
+      <DefaultText>「你這次似乎沒有感到不適。所以我想這是一個好跡象……？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[聳肩]「我會活著的。」</DefaultText>
+      <DefaultText>[聳肩]「我會沒事的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,7 +117,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「所以你想說的是&lt;i&gt;我們&lt;/i&gt;正在前往 &lt;g&gt;瑪珈嵐&lt;/g&gt;之牙。對吧？」她撓了撓自己的下巴，陷入沉思。</DefaultText>
+      <DefaultText>「所以你想說的是&lt;i&gt;我們&lt;/i&gt;要前往 &lt;g&gt;瑪珈嵐&lt;/g&gt;之牙吧？」她撓了撓自己的下巴，陷入沉思。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,12 +166,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>「船長要當心，我們不能把船開得太近。瑪珈嵐 之牙很鋒利，這條大魚可是喜歡享用大餐的。」</DefaultText>
+      <DefaultText>「船長要當心，我們不能把船開得太近。&lt;g&gt;瑪珈嵐&lt;/g&gt;之牙很鋒利，而這條大魚可是是美味得很。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>「好吧，&lt;g&gt;瑪珈嵐&lt;/g&gt;之牙聽起來像是那種高聳入雲的地方。我們要繼續嗎？」</DefaultText>
+      <DefaultText>「好吧，&lt;g&gt;瑪珈嵐&lt;/g&gt;之牙聽起來像是那種高聳入雲的地方。我們繼續前進吧？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「我們能從影中陽全身而退。我們戰勝了撒奧斯。這個也不在話下。」</DefaultText>
+      <DefaultText>「我們能從影中陽全身而退。我們戰勝了 撒奧斯。這個也不在話下。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「那好吧。讓我們開干吧。」裘荻已迫不及待，捏得指關節嘎嘎作響。</DefaultText>
+      <DefaultText>「那好吧。讓我們開幹吧。」裘荻已迫不及待，捏得指關節嘎嘎作響。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,12 +206,12 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>「我要找到 &lt;g&gt;俄撒斯&lt;/g&gt;的決心更勝以往。」</DefaultText>
+      <DefaultText>「好得很。我想要找到 &lt;g&gt;俄撒斯&lt;/g&gt;的決心更勝以往。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;不是我想要找的。」</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;不是我想的那樣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>「確實。眾神都應該給出一些解釋。他首當其衝。」</DefaultText>
+      <DefaultText>「Di verus。眾神都應該給出一些解釋。他首當其衝。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

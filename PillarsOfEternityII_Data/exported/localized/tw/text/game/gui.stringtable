@@ -2312,7 +2312,7 @@
 		</Entry>
 		<Entry>
 			<ID>469</ID>
-			<DefaultText>決心 有助於縮短負面效果持續時間，以及提升 &lt;g&gt;意志&lt;/g&gt;和 格擋 防禦屬性。它反映角色的內在動力、決心 和英勇。
+			<DefaultText>決心有助於縮短負面效果持續時間，以及提升 &lt;g&gt;意志&lt;/g&gt;和 格擋 防禦屬性。它反映角色的內在動力、決心和英勇。
 
 5 - 膽小
 10 - 普通
@@ -3328,7 +3328,7 @@
 		</Entry>
 		<Entry>
 			<ID>723</ID>
-			<DefaultText>掌管輪迴、門扉和生死的神祇，聚鹿 人稱呼衪為「貝拉斯」，而 &lt;g&gt;瓦利亞&lt;/g&gt;人稱呼他為「希若洛」。人們通常會把貝拉斯的雕像或形象刻在門扉、窗戶或者通往另一處地點的「傳送門」處。貝拉斯的神職相對較小，這可能是因為他不常與信徒溝通的緣故。然而，貝拉斯擁有許許多多的請願者和臨時信徒。</DefaultText>
+			<DefaultText>掌管輪迴、門扉和生死的神祇，&lt;g&gt;聚鹿&lt;/g&gt;人稱呼衪為「貝拉斯」，而 &lt;g&gt;瓦利亞&lt;/g&gt;人稱呼他為「希若洛」。人們通常會把貝拉斯的雕像或形象刻在門扉、窗戶或者通往另一處地點的「傳送門」處。貝拉斯的神職相對較小，這可能是因為他不常與信徒溝通的緣故。然而，貝拉斯擁有許許多多的請願者和臨時信徒。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5588,7 +5588,7 @@
 		</Entry>
 		<Entry>
 			<ID>1258</ID>
-			<DefaultText>{0} 集中值 獲取量</DefaultText>
+			<DefaultText>{0} &lt;g&gt;集中值&lt;/g&gt;獲取量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5613,7 +5613,7 @@
 		</Entry>
 		<Entry>
 			<ID>1266</ID>
-			<DefaultText>{0} {1} 傷害 轉化為 生命值</DefaultText>
+			<DefaultText>{0} {1} &lt;g&gt;傷害&lt;/g&gt;轉化為 生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -5658,7 +5658,7 @@
 		</Entry>
 		<Entry>
 			<ID>1276</ID>
-			<DefaultText>{0} 所受 傷害 轉為持續治療</DefaultText>
+			<DefaultText>{0} 所受 &lt;g&gt;傷害&lt;/g&gt;轉為持續治療</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -6214,7 +6214,7 @@
 		<Entry>
 			<ID>1397</ID>
 			<DefaultText>冒險是一項很累人的工作。除了無處不在的敵人，冒險者還要翻山越嶺、風餐露宿。
-每次遭遇 一次，帶有 體能 的角色可以使用「重振雄風」來恢復損失的 生命值。體能越高，重振雄風的效果越強。
+每次遭遇 一次，帶有體能的角色可以使用「重振雄風」來恢復損失的 生命值。體能越高，重振雄風的效果越強。
 在對話和劇情互動時，體能用來實現各種運動技巧，比如攀爬、游泳和跳躍。</DefaultText>
 			<FemaleText/>
 		</Entry>
@@ -6225,7 +6225,7 @@
 		</Entry>
 		<Entry>
 			<ID>1399</ID>
-			<DefaultText>即便是對於最有經驗的冒險者，陷阱 和鎖具也是令人頭痛的東西，因為它們會消耗冒險者的資源，弄傷甚至害死那些不小心觸發隱藏機關的人。器械 技能可以讓角色更加輕鬆地開鎖和解除陷阱。此外，角色也可以使用 器械 技能來佈置自己的陷阱。器械 技能越高，陷阱的 &lt;g&gt;精準&lt;/g&gt;度也越高。在對話和劇情互動中，器械 可用來啟動或解除各種各樣的機器。</DefaultText>
+			<DefaultText>即便是對於最有經驗的冒險者，&lt;g&gt;陷阱&lt;/g&gt;和鎖具也是令人頭痛的東西，因為它們會消耗冒險者的資源，弄傷甚至害死那些不小心觸發隱藏機關的人。器械 技能可以讓角色更加輕鬆地開鎖和解除陷阱。此外，角色也可以使用器械技能來佈置自己的陷阱。器械技能越高，陷阱的 &lt;g&gt;精準&lt;/g&gt;度也越高。在對話和劇情互動中，器械可用來啟動或解除各種各樣的機器。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13543,9 +13543,9 @@
 		<Entry>
 			<ID>2852</ID>
 			<DefaultText>&lt;b&gt;加成&lt;/b&gt;
-習得「&lt;xg&gt;亞柯彌&lt;/xg&gt;的炫光術」
+習得「亞柯彌的炫光術」
 
-在新 威力等級 時可自動選擇幻術系法師法術（法術使用「狡詐」）
+在新 威力等級 時可自動選擇幻術系法師法術（法術使用 狡詐）
 
 &lt;b&gt;懲罰&lt;/b&gt;
 偷襲造成的傷害大幅降低</DefaultText>
@@ -13903,12 +13903,12 @@
 		</Entry>
 		<Entry>
 			<ID>2914</ID>
-			<DefaultText>秘法涵蓋了所有不屬於玄學範疇的魔法事物的知識。在戰鬥中，它可以用來增加 卷軸 的 威力等級。</DefaultText>
+			<DefaultText>秘法涵蓋了所有不屬於玄學範疇的魔法事物的知識。在戰鬥中，它可以用來增加 &lt;g&gt;卷軸&lt;/g&gt;的 威力等級。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2915</ID>
-			<DefaultText>爆破提升 炸彈、喧嘩者和類似裝置的的 精準、傷害 和效力。</DefaultText>
+			<DefaultText>爆破提升 炸彈、喧嘩者和類似裝置的的 精準、&lt;g&gt;傷害&lt;/g&gt;和效力。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13923,7 +13923,7 @@
 		</Entry>
 		<Entry>
 			<ID>2918</ID>
-			<DefaultText>煉金術研究的是植物、寶石和人體部位的自然和超自然特性。它影響所有 藥物、毒藥 和 解藥 和使用。</DefaultText>
+			<DefaultText>煉金術研究的是植物、寶石和人體部位的自然和超自然特性。它影響所有 藥物、&lt;g&gt;毒藥&lt;/g&gt;和 &lt;g&gt;解藥&lt;/g&gt;的使用。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -13993,7 +13993,7 @@
 		</Entry>
 		<Entry>
 			<ID>2932</ID>
-			<DefaultText>阿雷莫的莊園</DefaultText>
+			<DefaultText>亞萊莫的莊園</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -14018,17 +14018,17 @@
 		</Entry>
 		<Entry>
 			<ID>2937</ID>
-			<DefaultText>打斷 ！</DefaultText>
+			<DefaultText>打斷！</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2938</ID>
-			<DefaultText>{0}被殺。</DefaultText>
+			<DefaultText>{0}被殺了。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2939</ID>
-			<DefaultText>{0}被摧毀。</DefaultText>
+			<DefaultText>{0}被摧毀了。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15433,7 +15433,7 @@
 		</Entry>
 		<Entry>
 			<ID>3242</ID>
-			<DefaultText>梨繪</DefaultText>
+			<DefaultText>紗尤卡</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -20004,17 +20004,17 @@
 		</Entry>
 		<Entry>
 			<ID>4324</ID>
-			<DefaultText>&lt;g&gt;穿透&lt;/g&gt;加成</DefaultText>
+			<DefaultText>&lt;g&gt;穿透&lt;/g&gt;加值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4325</ID>
-			<DefaultText>&lt;g&gt;精準&lt;/g&gt;加成</DefaultText>
+			<DefaultText>&lt;g&gt;精準&lt;/g&gt;加值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4326</ID>
-			<DefaultText>&lt;g&gt;傷害&lt;/g&gt;加成</DefaultText>
+			<DefaultText>&lt;g&gt;傷害&lt;/g&gt;加值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -21251,7 +21251,7 @@
 		</Entry>
 		<Entry>
 			<ID>4595</ID>
-			<DefaultText>梨繪</DefaultText>
+			<DefaultText>紗尤卡</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>

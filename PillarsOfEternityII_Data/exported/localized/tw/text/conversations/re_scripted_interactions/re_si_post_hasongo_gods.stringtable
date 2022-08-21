@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>你猛地發現自己站在齊膝的高草中，草原無邊無際，天色漸晚。</DefaultText>
+      <DefaultText>你眨眼間發現自己站在齊膝的高草中，草原無邊無際，天色漸晚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>「你已經又和光明之子談過了。」蒼白騎士說道。</DefaultText>
+      <DefaultText>「你已經又和光明之子談過了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>「我們來了。」眾多聲音同時發聲。</DefaultText>
+      <DefaultText>「我們來了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>「這可真是這麼多年來發聲的第一件有趣的事情，而且，我們都很喜歡猜謎。」人影臉上帶著海裔的微笑，無數聲音響了起來。</DefaultText>
+      <DefaultText>「這可真是這麼多年來第一件有趣的事情，而且我們都很喜歡猜謎。」人影臉上帶著海裔的微笑，無數聲音響了起來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>一個男人昂首闊步地走進了 &lt;g&gt;貝拉斯&lt;/g&gt;的領域。跟在他身後的，是一群伸著舌頭的野狼。還有一群叢林豹，它們每走一步，長長的尾巴就會搖擺一下。」</DefaultText>
+      <DefaultText>一個男人昂首闊步地走進了 &lt;g&gt;貝拉斯&lt;/g&gt;的領域。跟在他身後的，是一群伸著舌頭的野狼。還有一群叢林豹，它們每走一步，長長的尾巴就會搖擺一下。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;確實是個足智多謀的傢伙，我欣賞他的勇氣。」伽拉溫 說道。</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;確實是個足智多謀的傢伙，我欣賞他的勇氣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>「亞拜登 的話很有見地。」昂德拉 說道。</DefaultText>
+      <DefaultText>「&lt;g&gt;亞拜登&lt;/g&gt;的話很有見地。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>「被他破壞的並不是他們的領地，而是&lt;i&gt;我的&lt;/i&gt;。從他踩在我脊柱上的每一腳中，我都能感覺到他的迫切。」昂德拉 說道。</DefaultText>
+      <DefaultText>「被他破壞的並不是他們的領地，而是&lt;i&gt;我的&lt;/i&gt;。從他踩在我脊柱上的每一腳中，我都能感覺到他的迫切。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>「千萬人的死，或許能拯救億萬人的生命。」昂德拉 說道。</DefaultText>
+      <DefaultText>「千萬人的死，或許能拯救億萬人的生命。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>「世間萬物都必將迎來我的終結。」睿姆岡 說道。</DefaultText>
+      <DefaultText>「世間萬物都必將迎來我的終結。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,17 +211,17 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;想要把一切都徹底清除。」睿姆岡 說道。</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;想要把一切都徹底清除。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>「為了燦爛的黎明，他播下了混亂的種子。」昂德拉 說道。</DefaultText>
+      <DefaultText>「為了燦爛的黎明，他播下了混亂的種子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>「我們不能再坐視不管了。」蒼白騎士說道。</DefaultText>
+      <DefaultText>「我們不能再坐視不管了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>「我的耐心並非無窮無盡，而你的靈魂也不過是我狂風中的一縷微塵而已。」蒼白騎士說道。</DefaultText>
+      <DefaultText>「我的耐心並非無窮無盡，而你的靈魂也不過是我狂風中的一縷微塵而已。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>「哪怕是最可憐的野獸，也會在飢渴的絕望之下，做出充滿勇氣的行為。」伽拉溫 說道。</DefaultText>
+      <DefaultText>「哪怕是最可憐的野獸，也會在飢渴的絕望之下，做出充滿勇氣的行為。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,7 +333,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>「我相信，你這次的態度會比上一次更加合作。」蒼白騎士說道。</DefaultText>
+      <DefaultText>「我相信，你這次的態度會比上一次更加合作。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -368,12 +368,12 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>「不擔心，他是一頭被獸群遺棄已久的野獸。失去了我們的力量，他很弱小。」伽拉溫 說道。</DefaultText>
+      <DefaultText>「不擔心，他是一頭被獸群遺棄已久的野獸。失去了我們的力量，他很弱小。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>「&lt;i&gt;我&lt;/i&gt;什麼時候會死，可不是光明之子能說了算的。」瑪珈嵐 用燃燒著的手指摸了摸巨劍的劍鋒。</DefaultText>
+      <DefaultText>「&lt;i&gt;我&lt;/i&gt;什麼時候會死，可不是光明之子能說了算的。」&lt;g&gt;瑪珈嵐&lt;/g&gt;用燃燒著的手指摸了摸巨劍的劍鋒。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -388,7 +388,7 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>「以前，我們的足跡曾遍佈艾歐拉的各個角落，只有最致命的攻擊才會對我們的身體造成傷害。」瑪珈嵐 說道。</DefaultText>
+      <DefaultText>「以前，我們的足跡曾遍佈艾歐拉的各個角落，只有最致命的攻擊才會對我們的身體造成傷害。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -418,7 +418,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>沃艾珥 緊閉住了無數眼睛； &lt;g&gt;昂德拉&lt;/g&gt;躲回了波浪之下； &lt;g&gt;瑪珈嵐&lt;/g&gt;的身形在一陣霧氣中消散了； 伽拉溫 的胸口劇烈地喘息著；</DefaultText>
+      <DefaultText>&lt;g&gt;沃艾珥&lt;/g&gt;緊閉住了無數眼睛；&lt;g&gt;昂德拉&lt;/g&gt;躲回了波浪之下；&lt;g&gt;瑪珈嵐&lt;/g&gt;的身形在一陣霧氣中消散了；&lt;g&gt;伽拉溫&lt;/g&gt;的胸口劇烈地喘息著；</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -433,12 +433,12 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>「當我冰冷的寒風帶著我最後的審判降臨在你的頭上時，恐怕你就沒那麼樂於慶祝世界末日了。」睿姆岡 說道。他發出了深沉的笑聲，你腳下的地面都在搖晃。</DefaultText>
+      <DefaultText>「當我冰冷的寒風帶著我最後的審判降臨在你的頭上時，恐怕你就沒那麼樂於慶祝世界末日了。」他發出了深沉的笑聲，你腳下的地面都在搖晃。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>貝拉斯 領域所有的門被同時撞開了，</DefaultText>
+      <DefaultText>&lt;g&gt;貝拉斯&lt;/g&gt;領域所有的門被同時撞開了，</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -458,7 +458,7 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;回來，不是為了與&lt;i&gt;我們&lt;/i&gt;相見的。他回來是為了執行某種宏大的計劃，我們必須阻止他。」昂德拉 的音調就像海潮一樣升了起來，充滿了不安。</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;回來，不是為了與&lt;i&gt;我們&lt;/i&gt;相見的。他回來是為了執行某種宏大的計劃，我們必須阻止他。」&lt;g&gt;昂德拉&lt;/g&gt;的音調就像海潮一樣升了起來，充滿了不安。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,7 +468,7 @@
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>「我們應該摧毀 俄撒斯，這樣一來，我們或許可以把他鍛造成某種新的東西，某種更加強大的東西。」亞拜登 說道。</DefaultText>
+      <DefaultText>「我們應該摧毀 俄撒斯，這樣一來，我們或許可以把他鍛造成某種新的東西，某種更加強大的東西。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -478,12 +478,12 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>「亞拜登 的話就像童言一樣幼稚。」昂德拉 說道。</DefaultText>
+      <DefaultText>「&lt;g&gt;亞拜登&lt;/g&gt;的話就像童言一樣幼稚。」&lt;g&gt;昂德拉&lt;/g&gt;說道。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>你猛地發現自己站在齊膝的高草中，草原無邊無際，天色漸晚。</DefaultText>
+      <DefaultText>你眨眼間發現自己站在齊膝的高草中，草原無邊無際，天色漸晚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -508,7 +508,7 @@
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>「說吧，否則我就要強迫你開口了。」蒼白騎士說道。</DefaultText>
+      <DefaultText>「開口說，否則我就強迫你開口。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -548,7 +548,7 @@
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>換生靈 伽拉溫 走了過來，充滿狂野，如艾歐拉蠻荒之地的危險一般。</DefaultText>
+      <DefaultText>換生靈 &lt;g&gt;伽拉溫&lt;/g&gt;走了過來，充滿狂野，如艾歐拉蠻荒之地的危險一般。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -603,7 +603,7 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>瑪珈嵐 回來了。</DefaultText>
+      <DefaultText>&lt;g&gt;瑪珈嵐&lt;/g&gt;回來了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -613,7 +613,7 @@
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>昂德拉 的眼中流下了黑色的淚珠。</DefaultText>
+      <DefaultText>&lt;g&gt;昂德拉&lt;/g&gt;的眼中流下了黑色的淚珠。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -683,37 +683,37 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;確實是個足智多謀的傢伙，我欣賞他的勇氣。」伽拉溫 說道。</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;確實是個足智多謀的傢伙，我欣賞他的勇氣。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;回來，不是為了與&lt;i&gt;我們&lt;/i&gt;相見的。他回來是為了執行某種宏大的計劃，我們必須阻止他。」昂德拉 的音調就像海潮一樣升了起來，充滿了不安。</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;回來，不是為了與&lt;i&gt;我們&lt;/i&gt;相見的。他回來是為了執行某種宏大的計劃，我們必須阻止他。」&lt;g&gt;昂德拉&lt;/g&gt;的音調就像海潮一樣升了起來，充滿了不安。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>「亞拜登 的話就像童言一樣幼稚。」昂德拉 說道。</DefaultText>
+      <DefaultText>「&lt;g&gt;亞拜登&lt;/g&gt;的話就像童言一樣幼稚。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>「亞拜登 的話很有見地。」昂德拉 說道。</DefaultText>
+      <DefaultText>「&lt;g&gt;亞拜登&lt;/g&gt;的話很有見地。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>「世間萬物都必將迎來我的終結。」睿姆岡 說道。</DefaultText>
+      <DefaultText>「世間萬物都必將迎來我的終結。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>「為了燦爛的黎明，他播下了混亂的種子。」昂德拉 說道。</DefaultText>
+      <DefaultText>「為了燦爛的黎明，他播下了混亂的種子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>「&lt;i&gt;我&lt;/i&gt;什麼時候會死，可不是光明之子能說了算的。」瑪珈嵐 用燃燒著的手指摸了摸巨劍的劍鋒。</DefaultText>
+      <DefaultText>「&lt;i&gt;我&lt;/i&gt;什麼時候會死，可不是光明之子能說了算的。」&lt;g&gt;瑪珈嵐&lt;/g&gt;用燃燒著的手指摸了摸巨劍的劍鋒。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -723,7 +723,7 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>「以前，我們的足跡曾遍佈艾歐拉的各個角落，只有最致命的攻擊才會對我們的身體造成傷害。」瑪珈嵐 說道。</DefaultText>
+      <DefaultText>「以前，我們的足跡曾遍佈艾歐拉的各個角落，只有最致命的攻擊才會對我們的身體造成傷害。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -738,7 +738,7 @@
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>「我們不能再坐視不管了。」蒼白騎士說道。</DefaultText>
+      <DefaultText>「我們不能再坐視不管了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -748,8 +748,8 @@
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>「我的巡禮者給我帶來了大部分 &lt;g&gt;基斯&lt;/g&gt;想要遺忘之物。在他們的記憶裡我與 &lt;g&gt;沃艾珥&lt;/g&gt;看見了同樣的東西，你所到之處皆是混亂，」昂德拉 說著。</DefaultText>
-      <FemaleText>「我的巡禮者給我帶來了大部分 &lt;g&gt;基斯&lt;/g&gt;想要遺忘之物。在他們的記憶裡我與 &lt;g&gt;沃艾珥&lt;/g&gt;看見了同樣的東西，你所到之處皆是混亂，」昂德拉 說著。</FemaleText>
+      <DefaultText>「我的巡禮者給我帶來了大部分 &lt;g&gt;基斯&lt;/g&gt;想要遺忘之物。在他們的記憶裡我與 &lt;g&gt;沃艾珥&lt;/g&gt;看見了同樣的東西，你所到之處皆是混亂。」</DefaultText>
+      <FemaleText>「我的巡禮者給我帶來了大部分 &lt;g&gt;基斯&lt;/g&gt;想要遺忘之物。在他們的記憶裡我與 &lt;g&gt;沃艾珥&lt;/g&gt;看見了同樣的東西，你所到之處皆是混亂。」</FemaleText>
     </Entry>
     <Entry>
       <ID>233</ID>
@@ -758,21 +758,21 @@
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>「你與 &lt;g&gt;俄撒斯&lt;/g&gt;一樣反覆無常。」昂德拉 黑暗的眼睛不再注視著你。</DefaultText>
+      <DefaultText>「你與 &lt;g&gt;俄撒斯&lt;/g&gt;一樣反覆無常。」&lt;g&gt;昂德拉&lt;/g&gt;黑暗的眼睛不再注視著你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>「有些東西先得失去才能尋回。你以前知道這個道理，那時你把我的卷軸埋在了黑色草原的土裡。」
+      <DefaultText>「有些東西先得失去才能尋回。你以前知道這個道理，那時你把我的卷軸埋在了黑草甸的土裡。」
 
 「但似乎你已經把這件事忘了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>啊，靈視者，你真的很害怕失去。」
+      <DefaultText>「啊，靈視者，你真的很害怕失去。」
 
-「我曾要求你把我的卷軸埋在黑色草原的地下，但你為了葛琳達而出賣了我，你還記得嗎？」</DefaultText>
+「我曾要求你把我的卷軸埋在黑草甸的地下，但你為了葛琳達而出賣了我，你還記得嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -784,7 +784,7 @@
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>「萬物終有一死。」蒼白騎士露出冰冷的淺笑。
+      <DefaultText>「萬物終有一死。」
 
 「還是說你已經忘記了大德魯伊睿斯汀和高階祭司艾羅娜的事？你按照我的吩咐殺死了睿斯汀，並勸服艾羅娜自殺，而除你之外，我在艾歐拉還有別的使者。」</DefaultText>
       <FemaleText />
@@ -798,17 +798,17 @@
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>一陣小小的海浪緊隨著 伽拉溫 出現了。海水流出了平台邊緣，像瀑布一樣流入了在靈界之中。</DefaultText>
+      <DefaultText>一陣小小的海浪緊隨著 &lt;g&gt;伽拉溫&lt;/g&gt;出現了。海水流出了平台邊緣，像瀑布一樣流入了在靈界之中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>換生靈 伽拉溫 走了過來，充滿狂野，如艾歐拉蠻荒之地的危險一般。</DefaultText>
+      <DefaultText>換生靈 &lt;g&gt;伽拉溫&lt;/g&gt;走了過來，充滿狂野，如艾歐拉蠻荒之地的危險一般。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>貝拉斯 領域所有的門被同時撞開了，</DefaultText>
+      <DefaultText>&lt;g&gt;貝拉斯&lt;/g&gt;領域所有的門被同時撞開了，</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -828,12 +828,12 @@
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>瑪珈嵐 回來了。</DefaultText>
+      <DefaultText>&lt;g&gt;瑪珈嵐&lt;/g&gt;回來了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>「千萬人的死，或許能拯救億萬人的生命。」昂德拉 說道。</DefaultText>
+      <DefaultText>「千萬人的死，或許能拯救億萬人的生命。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -843,7 +843,7 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>沃艾珥 緊閉住了無數眼睛； &lt;g&gt;昂德拉&lt;/g&gt;躲回了波浪之下； &lt;g&gt;瑪珈嵐&lt;/g&gt;的身形在一陣霧氣中消散了； 伽拉溫 的胸口劇烈地喘息著；</DefaultText>
+      <DefaultText>&lt;g&gt;沃艾珥&lt;/g&gt;緊閉住了無數眼睛；&lt;g&gt;昂德拉&lt;/g&gt;躲回了波浪之下；&lt;g&gt;瑪珈嵐&lt;/g&gt;的身形在一陣霧氣中消散了；&lt;g&gt;伽拉溫&lt;/g&gt;的胸口劇烈地喘息著。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -868,7 +868,7 @@
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>貝拉斯 身邊的空間中出現了一隻眼睛，緊接著，又出現了好幾隻眼睛。</DefaultText>
+      <DefaultText>&lt;g&gt;貝拉斯&lt;/g&gt;身邊的空間中出現了一隻眼睛，緊接著，又出現了好幾隻眼睛。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

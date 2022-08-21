@@ -114,7 +114,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>你轉過街角，遇到了一群騷動的人們。一座漂亮的住宅燃起了熊熊大火，在你眼前崩塌。大多數 &lt;g&gt;胡亞納&lt;/g&gt;人被大火驚呆了，只是站在那裡。有幾個人尖叫著，跑去找消防隊了。</DefaultText>
+      <DefaultText>你轉過街角，遇到了一群騷動的人們。一座大屋在你面前燃起了熊熊大火，完全被燒燬。大多數 &lt;g&gt;胡亞納&lt;/g&gt;人被大火驚呆了，只是站在那裡。只有幾個人尖叫著，或者跑去找消防隊。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,12 +124,12 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[進入住宅]</DefaultText>
+      <DefaultText>[進入屋子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[檢查住宅]</DefaultText>
+      <DefaultText>[檢查屋子]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,7 +313,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>女人點了點頭。「謝謝你，我們的外國朋友，我們還是感謝你的援助。雖然沒什麼東西，不過這是我們的祝福，收下它吧。」
+      <DefaultText>女人點了點頭。「謝謝你，我們的外來的朋友，我們還是感謝你的援助。雖然沒什麼東西，不過這是我們的祝福，收下它吧。」
 
 她把一個包裹按在你手中。</DefaultText>
       <FemaleText />

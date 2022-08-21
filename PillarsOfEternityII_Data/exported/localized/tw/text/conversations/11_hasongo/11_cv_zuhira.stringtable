@@ -11,9 +11,9 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>一個海裔女子向你急行而來，她的眼睛又大又狂野。她的軍服很凌亂，像是連續穿了好幾天的緣故，她的呼吸夾雜著急促的喘息。
+      <DefaultText>一個海裔女人向你急行而來，她的眼睛又大又狂野。她的軍服很凌亂，仿佛已經穿了好幾天，她的呼吸夾雜著急促的喘息。
 
-和她在一起的是一些受傷的士兵和一群穿著髒兮兮的農服的平民。</DefaultText>
+和她在一起的是幾名受傷的士兵和一群穿著髒兮兮的農服的平民。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,12 +33,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「在堡壘的西面。它是一個真正的奇跡— &lt;g&gt;努瓦泰&lt;/g&gt;工程史上的一座豐碑。」</DefaultText>
+      <DefaultText>「在堡壘的西面。那可真是個奇觀—&lt;g&gt;努瓦泰&lt;/g&gt;工程史上的一座豐碑。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「別出去了！你在這裡很安全。等援軍來吧。」她嚥唾沫時喉嚨裡發出了很幹的卡噠聲。</DefaultText>
+      <DefaultText>「別出去了！你在這裡很安全。等援軍來吧。」她嚥唾沫時喉嚨發出了乾涸的卡噠聲。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,9 +48,9 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>「看我們的燈塔。就連巨人都無法摧毀它。
+      <DefaultText>「看我們的燈塔。就連巨像都無法摧毀它。
 
-「那些蛇現在也不怎麼強硬了，不是嗎？」
+「那些臭蛇也不是那麼厲害嘛，是不是？」
 
 她抬頭望著燈塔，輕鬆地調侃道。</DefaultText>
       <FemaleText />
@@ -148,7 +148,7 @@
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>「祖希拉，我跟你說過了。神錘搶劫了他們的神明，現在神明來報復了。」
+      <DefaultText>「祖希拉，我跟你說過了。神錘炸死了他們的神，而現在衪來報仇了。」
 
 士兵明顯在望著擠作一團的農夫們。
 
@@ -164,7 +164,7 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>「這是一座堡壘。你們自然有一些辦法對付蛇妖。」</DefaultText>
+      <DefaultText>「這是一座堡壘。你們總有一些辦法對付蛇妖吧。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,12 +281,12 @@
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>「艦隊的指揮官高雇他們種地，為大陸供應糧食。但他們的舉止和期望，都越來越怪異。」</DefaultText>
+      <DefaultText>「艦隊的指揮官阿郭雇他們種地，為大陸供應糧食。但他們的舉止開始變得奇怪，夢見奇怪的事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>「其中一個農民，叫雷薩恩，他為此與艦隊指揮官大吵了一架。在巨人出現前的一刻氣憤地離開了。」
+      <DefaultText>「其中一個農民，叫雷薩恩，他為此與艦隊指揮官大吵了一架。在巨像出現前的一刻氣憤地離開了。」
 
 祖希拉和士兵們盯著那些農夫，好像這已經說明了一切問題。</DefaultText>
       <FemaleText />
@@ -335,12 +335,12 @@
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>「你是說盼著什麼事情發生。」</DefaultText>
+      <DefaultText>「你是說夢見將要發生的事。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>「在吐我們的神明嗎？你該替自己的靈魂擔憂一下未來了。」</DefaultText>
+      <DefaultText>「在吐我們的神嗎？你該替自己的靈魂擔憂一下未來了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,12 +365,12 @@
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>「我們瞭解到了他的暴行。」</DefaultText>
+      <DefaultText>「我們瞭解到了衪的暴行。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>「那是他最後一次說&lt;i&gt;我倆&lt;/i&gt;不靠譜。」</DefaultText>
+      <DefaultText>「那是他最後一次說&lt;i&gt;我倆&lt;/i&gt;不負責任。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -498,7 +498,7 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>「第一件事就是巨人。它出現了……幾天前？還是一周前？我不太確定了。」</DefaultText>
+      <DefaultText>「第一件事就是那巨像。它的出現是在……幾天前？還是一周前？我不太確定了。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -532,7 +532,7 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>「那個巨人是衝我們來的。艦隊指揮官高命令鷹射手和炮手就位。
+      <DefaultText>「那個巨像是衝我們來的。艦隊指揮官阿郭命令鷹射手和炮手就位。
 
 「我們—」
 
@@ -685,7 +685,7 @@
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>「同時重築高牆，這樣就&lt;i&gt;沒有東西&lt;/i&gt;能闖進來了。還要加倍建造大炮。這樣當巨人再回來時，我們就可以消滅它了。」</DefaultText>
+      <DefaultText>「同時重築高牆，這樣就&lt;i&gt;沒有東西&lt;/i&gt;能闖進來了，還要加倍建造大炮。這樣當那巨像再回來時，我們就可以消滅它。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -695,7 +695,7 @@
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>「經過這裡的巨人是 俄撒斯。」</DefaultText>
+      <DefaultText>「經過這裡的巨像是 俄撒斯。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -710,12 +710,12 @@
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>「那麼！這場毀滅是 &lt;g&gt;瓦利亞&lt;/g&gt;人幹的好事？還是 &lt;g&gt;胡亞納&lt;/g&gt;女王的惡作劇？」</DefaultText>
+      <DefaultText>「所以！這場大破壞是 &lt;g&gt;瓦利亞&lt;/g&gt;人幹的好事？還是 &lt;g&gt;胡亞納&lt;/g&gt;女王的巫術？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>「就像奧涅卡莎會讓巨蛇和神明在外來者的土地上氾濫似的！」
+      <DefaultText>「就像奧涅卡莎可以召出蛇人和神明到外來者的土地上氾濫似的！」
 
 泰克胡搖搖頭，皺起了眉。</DefaultText>
       <FemaleText />
@@ -727,7 +727,7 @@
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>「沒有一個人是清醒的嗎？！」</DefaultText>
+      <DefaultText>「沒有『一個人』是清醒的嗎？！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,7 +756,7 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>「我們是&lt;i&gt;壕胞&lt;/i&gt;！努瓦泰 兒女。我們可以戰勝一切困難。」
+      <DefaultText>「我們是&lt;i&gt;壕胞&lt;/i&gt;！&lt;g&gt;努瓦泰&lt;/g&gt;兒女。我們可以戰勝一切困難。」
 
 她怒目而視，攥緊拳頭旋即鬆開。再度讓自己燃起了無畏的—或無謂的—勇氣。</DefaultText>
       <FemaleText />
@@ -820,7 +820,7 @@
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>「我們開港迎客，為什麼還叫我們『部落』？」恩加蒂 不接待不識好歹的客人。」</DefaultText>
+      <DefaultText>「我們開港迎客，為什麼還叫我們『部落』？&lt;g&gt;恩加蒂&lt;/g&gt;不接待不識好歹的客人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,7 +846,7 @@
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>「但不是用於射石炮的。艦隊指揮官高把它們全發射在了巨人身上。只剩下鐵彈，它們確實太小了。」他士氣低落，沮喪之情油然而生。</DefaultText>
+      <DefaultText>「但不是用於射石炮的。艦隊指揮官阿郭把它們全發射在了巨人身上。只剩下鐵彈，它們確實太小了。」他士氣低落，沮喪之情油然而生。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -953,7 +953,7 @@
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>「當然了，壕胞！」但這是屬於所有 &lt;g&gt;努瓦泰&lt;/g&gt;人的勝利。」</DefaultText>
+      <DefaultText>「當然了，壕胞！但這是屬於所有 &lt;g&gt;努瓦泰&lt;/g&gt;人的勝利。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -972,7 +972,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>「哈扎努伊 一定想親自感謝你的幫助。
+      <DefaultText>「&lt;g&gt;哈扎努伊&lt;/g&gt;一定想親自感謝你的幫助。
 
 「她也應該知道我們要對抗的是什麼。」
 
@@ -1030,12 +1030,12 @@
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>她笑了。「你說話真像個壕胞！」</DefaultText>
+      <DefaultText>她笑了。「你說話真像個 壕胞！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>她笑了。「這話聽起來像是個壕胞說的！」</DefaultText>
+      <DefaultText>她笑了。「這話聽起來像是個 &lt;g&gt;壕胞&lt;/g&gt;說的！」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

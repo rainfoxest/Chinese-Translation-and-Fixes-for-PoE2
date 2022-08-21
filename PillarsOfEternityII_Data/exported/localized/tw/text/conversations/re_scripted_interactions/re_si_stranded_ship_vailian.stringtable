@@ -25,9 +25,9 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>你率領一支小隊登上了大帆船。大部分貨物與船員都不見了蹤影，不過你還是找到了幾桶淡水與一些干米和樸素的食物。
+      <DefaultText>你率領一支小隊登上了大帆船。大部分貨物都早已不見了，而且一位船員也沒有，不過你還是找到了幾桶淡水和幾袋乾米粗糧。
 
-你幹活十分麻利，很快就將這裡清理一空。你返回了自己的船，令[Specified 0]再度起航。</DefaultText>
+你幹活十分麻利，很快就將物資清理一空。你回到自己的船上，命令[Specified 0]再度起航。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Specified 2]湊近過來。「他們會拿走所有黃金，不過也許會留下點補給。」
+      <DefaultText>[Specified 2]湊近過來。「他們應該早就拿走所有值錢的，不過也許會留下一些補給物資。」
 
 [Specified 1]的眉毛上掛著汗珠。「我們不該在這裡逗留。如果 &lt;g&gt;瓦利亞&lt;/g&gt;看到我們在掠奪他們的船，我們可沒機會解釋了。」</DefaultText>
       <FemaleText />
@@ -97,7 +97,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[Specified 2]搖搖頭歎了口氣。「或者我們可以把東西擊沉到海裡去。」
+      <DefaultText>[Specified 2]搖搖頭歎了口氣。「或者我們可以把東西都擊沉到海裡去。」
 
 [Specified 1]點點頭。「遵命，船長。」
 

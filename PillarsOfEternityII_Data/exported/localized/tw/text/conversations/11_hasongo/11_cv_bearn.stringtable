@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>「你是 晨星之子 嗎？你也許認識我朋友正在尋找的人。」</DefaultText>
+      <DefaultText>「你是 &lt;g&gt;晨星之子&lt;/g&gt;嗎？你也許認識我朋友正在尋找的人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>「沒關係。只要跟我講點實情就行。你爸爸—你記得他嗎？」</DefaultText>
+      <DefaultText>「沒關係。跟我說點事吧。你爸爸—你記得他嗎？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,7 +123,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>「在大肅清時我們失去了他，因此逃到了這裡。」</DefaultText>
+      <DefaultText>「在 &lt;g&gt;大肅清&lt;/g&gt;時我們失去了他，因此逃到了這裡。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +147,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>「你母親在哪兒？還有好些未竟之事待她完成哩。」</DefaultText>
+      <DefaultText>「你母親在哪兒？我想跟她好好聚舊。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -194,7 +194,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>「是的，他再一次走進了我們，招募忠誠的士兵。我堅信她追隨了他。」</DefaultText>
+      <DefaultText>「是的，他再一次與我們同行，招募忠誠的士兵。我相信她就在他的身旁。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>「他似乎確實是獨自生活。」</DefaultText>
+      <DefaultText>「他看起來的確是獨自一人。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,7 +263,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>「我沒騙人。」她就葬在山的那邊。」
+      <DefaultText>「我沒騙人。她就葬在山的那邊。」
 
 他指向北方。</DefaultText>
       <FemaleText />
@@ -292,12 +292,12 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;已經兩次走向我們。就連湮沒都無法減緩他進軍的腳步。」</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;已經兩次向我們顯靈。就連湮沒都無法減緩他進軍的腳步。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>「他初次駕臨時我們便不該反抗。他本想將我們招至麾下。」</DefaultText>
+      <DefaultText>「他初次降臨時我們便不該反抗。他本想將我們招至麾下。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -307,7 +307,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>「鹿林 的回應太倉促了，這點我同意。」</DefaultText>
+      <DefaultText>「&lt;g&gt;鹿林&lt;/g&gt;的回應太倉促了，這點我同意。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,7 +322,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;只是迫使每個人表明自己的立場，非友即敵。僅此而已。」</DefaultText>
+      <DefaultText>「&lt;g&gt;俄撒斯&lt;/g&gt;只是迫使每個人表明自己是友是敵。僅此而已。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>「她怎麼能死了呢……怎麼能？」</DefaultText>
+      <DefaultText>「她怎可能已經死了？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -574,7 +574,7 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>「對、對。艾拉法的朋友。"
+      <DefaultText>「對、對。艾拉法的朋友。」
 
 男孩的臉上沒流露出一絲情感。</DefaultText>
       <FemaleText />

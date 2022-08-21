@@ -18,7 +18,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>「你初次和我對話的嘗試十分勇敢。第二次嘗試，是出於絕望還是什麼？為何你不斷追蹤我，努亞堡 的靈視者？」</DefaultText>
+      <DefaultText>「你初次和我對話的嘗試十分勇敢。第二次嘗試，是出於絕望還是什麼？為何你不斷追蹤我，&lt;g&gt;努亞堡&lt;/g&gt;的靈視者？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>「你毀了我的城堡，吃了我的靈魂，混蛋。」</DefaultText>
+      <DefaultText>「你毀了我的城堡，還吃下了我的靈魂，混蛋。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,7 +83,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>「這條件太過嚴酷，你成了神的棋子。」</DefaultText>
+      <DefaultText>「這真是殘酷的條件，被迫成為神的棋子。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +128,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>「這勉強算是個解釋，並不是你為自己開脫的藉口。」</DefaultText>
+      <DefaultText>「這不是一個解釋，甚至連藉口也算不上。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,7 +138,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>「你最後一次出現時，取走了數以千計的性命。」</DefaultText>
+      <DefaultText>「你上一次出現時，取走了數以千計的性命。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,7 +153,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>「即使是神也需要汲取力量。這幅身軀所需要的力量……比凡人所需要的多得多。如果沒有 &lt;g&gt;努亞堡&lt;/g&gt;的那些靈魂，我永遠無法得到自由。」</DefaultText>
+      <DefaultText>「即使是神也需要汲取力量。這副身軀所需要的力量……比凡人 &lt;g&gt;基斯&lt;/g&gt;所需要的多得多。如果沒有 &lt;g&gt;努亞堡&lt;/g&gt;的那些靈魂，我永遠無法得到自由。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>「怎麼？你還在等什麼？眾神們想要答案。」</DefaultText>
+      <DefaultText>「那你還在等什麼？眾神們想要答案。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,7 +428,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>「確實如此。貝拉斯 與 &lt;g&gt;娥狄卡&lt;/g&gt;威脅巨輪懲罰和毀滅凡人。我希望眾神更注重它賜予新生與希望的力量。」</DefaultText>
+      <DefaultText>「確實如此。&lt;g&gt;貝拉斯&lt;/g&gt;與 &lt;g&gt;娥狄卡&lt;/g&gt;威脅巨輪懲罰和毀滅凡人。我希望眾神更注重它賜予新生與希望的力量。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,7 +468,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>「事實上，我覺得棒極了。貝拉斯 甚至還賜予了我特別的力量。」</DefaultText>
+      <DefaultText>「事實上，還不錯的。&lt;g&gt;貝拉斯&lt;/g&gt;甚至還賜予了我特別的力量。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,7 +488,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>「當心，靈視者。她贈予的禮物往往都出於危險的目的。我無意傷害你，但蒼白騎士將你置於巨大的危險之中。」</DefaultText>
+      <DefaultText>「當心，靈視者。她的賜福往往都出於危險的目的。我無意傷害你，但蒼白騎士將你置於巨大的危險之中。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -542,7 +542,7 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>「我的愛沒有附加條件。」</DefaultText>
+      <DefaultText>「我的愛是無條件的。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -582,12 +582,12 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>「而且我們這裡結束後，我確定他們會隨時隨地使喚你，難道不是嗎，靈視者？」</DefaultText>
+      <DefaultText>「而且我們這裡結束後，我肯定他們會找個時間召喚你，難道不是嗎，靈視者？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>「我會回答你的問題，但不是現在。離燈塔越遠，我這具身體與那裡的聯繫就越微弱，我已經拖延了太久。」</DefaultText>
+      <DefaultText>「我會回答你的問題，但不是現在。離燈塔越遠，我這副身軀與那裡的聯繫就越微弱，我已經拖延了太久。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -632,12 +632,12 @@
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>「我們現在沒有時間來研究這個問題，靈視者。」</DefaultText>
+      <DefaultText>「這個問題，靈視者，需要進行更多哲學考察，而我們沒有那個時間。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>「不是弱點，而是一個可怕而嚴重的限制。我在選擇這幅身軀前就已經知道。」</DefaultText>
+      <DefaultText>「不是弱點，而是一個可怕而嚴重的限制。我在選擇這副身軀前就已經知道。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -649,7 +649,7 @@
       <ID>140</ID>
       <DefaultText>&lt;g&gt;俄撒斯&lt;/g&gt;巨大身軀的邊緣開始變得模糊，逐漸溶解。他碩大的人形從你面前消失了。隨著他的移動，你們之間的聯繫開始迅速解開。
 
- &lt;g&gt;俄撒斯&lt;/g&gt;說話時，他破碎不清的聲音從遠處傳來。</DefaultText>
+俄撒斯說話時，他破碎不清的聲音從遠處傳來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -735,9 +735,9 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>「我的行為並無敵意。一切只是巧合，時間，地點……還有需求。」
+      <DefaultText>「我的行為並無敵意。一切只是巧合，時間、地點……還有需求。」
 
-俄撒斯 說話的聲音越來越微弱。</DefaultText>
+&lt;g&gt;俄撒斯&lt;/g&gt;說話的聲音越來越微弱。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -752,7 +752,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>「是的。你從 國王港 聯絡我時，我不得不斷開了與光魂珀的聯繫。失去這聯繫後，我無力前往哈桑戈。」</DefaultText>
+      <DefaultText>「是的。你從 &lt;g&gt;國王港&lt;/g&gt;聯絡我時，我不得不斷開了與光魂珀的聯繫。失去這聯繫後，我無力前往哈桑戈。」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

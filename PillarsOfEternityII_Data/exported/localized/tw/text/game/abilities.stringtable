@@ -831,7 +831,7 @@
 		</Entry>
 		<Entry>
 			<ID>269</ID>
-			<DefaultText>製造分身鏡像迷惑敵人，賦予施法者大量 格擋 加成，格擋 加成將隨受到的每一次打擊漸漸削弱</DefaultText>
+			<DefaultText>製造分身鏡像迷惑敵人，賦予施法者大量 &lt;g&gt;格擋&lt;/g&gt;加成，格擋加成將隨受到的每一次打擊漸漸削弱</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1911,7 +1911,7 @@
 		</Entry>
 		<Entry>
 			<ID>552</ID>
-			<DefaultText>德魯伊引導風暴的可怖力量，自身生成一塊電能領域，對周圍所有目標造成 &lt;g&gt;電擊&lt;/g&gt;傷害，並使其 恐懼</DefaultText>
+			<DefaultText>德魯伊引導風暴的可怖力量，自身生成一塊電能領域，對周圍所有目標造成 &lt;g&gt;電擊&lt;/g&gt;傷害，並使其 驚慌</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7546,7 +7546,7 @@
 		</Entry>
 		<Entry>
 			<ID>2430</ID>
-			<DefaultText>匕首 - &lt;link="gamedata://8c37d2f5-2aa5-4906-a2b1-5bca96a0dce2"&gt; 格擋 之刃&lt;/link&gt;</DefaultText>
+			<DefaultText>匕首 - &lt;link="gamedata://8c37d2f5-2aa5-4906-a2b1-5bca96a0dce2"&gt;格擋之刃&lt;/link&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7561,7 +7561,7 @@
 		</Entry>
 		<Entry>
 			<ID>2433</ID>
-			<DefaultText>巨劍 - &lt;link="gamedata://0b5fe616-3d6d-460d-a02d-28a1b4217796"&gt;劈砸&lt;/link&gt;</DefaultText>
+			<DefaultText>巨劍 - &lt;link="gamedata://0b5fe616-3d6d-460d-a02d-28a1b4217796"&gt;野蠻之擊&lt;/link&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7581,7 +7581,7 @@
 		</Entry>
 		<Entry>
 			<ID>2437</ID>
-			<DefaultText>釘頭槌 - &lt;link="gamedata://854256bc-c96e-4d07-af01-5032239b9375"&gt;肉體打擊&lt;/link&gt;</DefaultText>
+			<DefaultText>釘頭槌 - &lt;link="gamedata://854256bc-c96e-4d07-af01-5032239b9375"&gt;軀體打擊&lt;/link&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7591,7 +7591,7 @@
 		</Entry>
 		<Entry>
 			<ID>2439</ID>
-			<DefaultText>手槍 - &lt;link="gamedata://edfd0b09-c2f9-489f-97d4-4e2a62fed1fe"&gt;快速射擊&lt;/link&gt;</DefaultText>
+			<DefaultText>手槍 - &lt;link="gamedata://edfd0b09-c2f9-489f-97d4-4e2a62fed1fe"&gt;倉促裝填&lt;/link&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7636,7 +7636,7 @@
 		</Entry>
 		<Entry>
 			<ID>2448</ID>
-			<DefaultText>劍 - &lt;link="gamedata://e56c9809-5046-48a8-9334-491b053c79a7"&gt;半手劍&lt;/link&gt;</DefaultText>
+			<DefaultText>劍 - &lt;link="gamedata://e56c9809-5046-48a8-9334-491b053c79a7"&gt;手半劍&lt;/link&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -7896,7 +7896,7 @@
 		</Entry>
 		<Entry>
 			<ID>2502</ID>
-			<DefaultText>半手劍</DefaultText>
+			<DefaultText>手半劍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -9457,7 +9457,7 @@
 		</Entry>
 		<Entry>
 			<ID>2827</ID>
-			<DefaultText>遊俠會訓練動物夥伴，利用機動性與迅捷度在戰鬥中靠計謀勝過對手。當敵人對遊俠動物夥伴的近戰攻擊 &lt;g&gt;失手&lt;/g&gt;時，該敵人將遭受 格擋 懲罰</DefaultText>
+			<DefaultText>遊俠訓練其動物夥伴，利用機動性與迅捷度在戰鬥中靠計謀勝過對手。當敵人對遊俠動物夥伴的近戰攻擊 &lt;g&gt;失手&lt;/g&gt;時，該敵人將遭受 格擋 懲罰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -11433,12 +11433,12 @@
 		</Entry>
 		<Entry>
 			<ID>3344</ID>
-			<DefaultText>伽蘭之息</DefaultText>
+			<DefaultText>葛蘭之息</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3345</ID>
-			<DefaultText>召喚寒冰巨怪伽蘭之息。攻擊錐狀區域內的敵人，造成 冰寒 傷害，將其凍於寒冰內並 石化</DefaultText>
+			<DefaultText>召喚寒冰巨怪葛蘭之息。攻擊錐狀區域內的敵人，造成 冰寒 傷害，將其凍於寒冰內並 石化</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15012,22 +15012,22 @@
 		</Entry>
 		<Entry>
 			<ID>4277</ID>
-			<DefaultText>華麗宿醉</DefaultText>
+			<DefaultText>醉翻天</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4278</ID>
-			<DefaultText>嘔吐錐混雜了無數次狂飲後的宿醉。全部賦予給持有者。持有嘔吐錐時，宿醉會導致嚴重後果，例如 噁心 與 嘔吐</DefaultText>
+			<DefaultText>嘔吐錐混雜了無數次狂飲後的宿醉。全部賦予給持有者。持有嘔吐錐時，宿醉會導致嚴重後果，造成反胃與嘔吐</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4279</ID>
-			<DefaultText>華麗宿醉</DefaultText>
+			<DefaultText>醉翻天</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4280</ID>
-			<DefaultText>一飲而盡</DefaultText>
+			<DefaultText>乾杯</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -15897,7 +15897,7 @@
 		</Entry>
 		<Entry>
 			<ID>4467</ID>
-			<DefaultText>一飲而盡</DefaultText>
+			<DefaultText>乾杯</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
