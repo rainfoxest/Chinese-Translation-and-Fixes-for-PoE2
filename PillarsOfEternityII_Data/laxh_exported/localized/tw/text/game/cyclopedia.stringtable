@@ -21,22 +21,22 @@
    </Entry>
    <Entry>
      <ID>1096</ID>
-     <DefaultText>在回合制模式下，先手權 決定各角色輪流行動的順序。先手權 數值較低的角色將先於其他角色行動，且能更快完成施法。</DefaultText>
+     <DefaultText>在回合制模式下，先手權​決定各角色輪流行動的順序。先手權​數值較低的角色將先於其他角色行動，且能更快完成施法。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>1099</ID>
-     <DefaultText>行動速度較高的角色能更早完成施展行動，且將擁有較低的 先手權</DefaultText>
+     <DefaultText>行動速度較高的角色能更早完成施展行動，且將擁有較低的​先手權</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>1103</ID>
-     <DefaultText>感知熬煎。目盲角色遭受 -5 感知、被認定為受 夾擊、+50% 先手權、-10 精準、所有遠程攻擊的距離減半。處於目盲狀態的角色無法使用凝視攻擊，也不受該攻擊影響</DefaultText>
+     <DefaultText>感知熬煎。目盲角色遭受 -5​感知、被認定為受​夾擊、+50%​先手權​、-10​精準、所有遠程攻擊的距離減半。處於目盲狀態的角色無法使用凝視攻擊，也不受該攻擊影響</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>1104</ID>
-     <DefaultText>感知熬煎。迷離角色 感知 -5、被認定為受 夾擊，其行動後的 &lt;g&gt;先手權&lt;/g&gt;+50%</DefaultText>
+     <DefaultText>感知熬煎。迷離角色​感知​-5、被認定為受​夾擊，其行動後的​先手權​+50%</DefaultText>
      <FemaleText />
    </Entry>
  </Entries>

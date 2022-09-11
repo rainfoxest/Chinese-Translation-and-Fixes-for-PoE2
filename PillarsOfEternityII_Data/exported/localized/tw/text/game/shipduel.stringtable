@@ -26,47 +26,47 @@
 		</Entry>
 		<Entry>
 			<ID>4</ID>
-			<DefaultText>（{1}）{0}</DefaultText>
+			<DefaultText>（{1}​）{0}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>5</ID>
-			<DefaultText>{0:Value:Straight}船體傷害</DefaultText>
+			<DefaultText>{0:Value:Straight}​船體傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>6</ID>
-			<DefaultText>{0:Value:Straight}船帆傷害</DefaultText>
+			<DefaultText>{0:Value:Straight}​船帆傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>7</ID>
-			<DefaultText>{0:Value:Straight}船員傷害</DefaultText>
+			<DefaultText>{0:Value:Straight}​船員傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>8</ID>
-			<DefaultText>{0:Value:Straight}上甲板船員傷害</DefaultText>
+			<DefaultText>{0:Value:Straight}​上甲板船員傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>9</ID>
-			<DefaultText>{0:Value:Straight}下甲板船員傷害</DefaultText>
+			<DefaultText>{0:Value:Straight}​下甲板船員傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>10</ID>
-			<DefaultText>{0:Value:Straight}回合內沉沒</DefaultText>
+			<DefaultText>{0:Value:Straight}​回合內沉沒</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>11</ID>
-			<DefaultText>失去{0:Value:Percent}份同種隨機資源</DefaultText>
+			<DefaultText>失去{0:Value:Percent}​份同種隨機資源</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>12</ID>
-			<DefaultText>{0:Value:PercentBonus}戰鬥速度</DefaultText>
+			<DefaultText>{0:Value:PercentBonus}​戰鬥速度</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -116,7 +116,7 @@
 		</Entry>
 		<Entry>
 			<ID>22</ID>
-			<DefaultText>損失 {0:Value:Straight} 修理補給</DefaultText>
+			<DefaultText>損失​{0:Value:Straight}​修理補給</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -126,7 +126,7 @@
 		</Entry>
 		<Entry>
 			<ID>24</ID>
-			<DefaultText>{0:OverboardCrewMember}將在{0:Value:Straight}會合後或船隻移動時死亡</DefaultText>
+			<DefaultText>{0:OverboardCrewMember}​將在{0:Value:Straight}​會合後或船隻移動時死亡</DefaultText>
 			<FemaleText/>
 		</Entry>
 	</Entries>

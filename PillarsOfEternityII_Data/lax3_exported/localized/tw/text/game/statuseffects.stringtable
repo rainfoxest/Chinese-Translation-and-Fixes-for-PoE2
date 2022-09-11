@@ -6,102 +6,102 @@
  <Entries>
    <Entry>
      <ID>277</ID>
-     <DefaultText>每有一名隊員被打倒，力量 與 &lt;g&gt;決心&lt;/g&gt;提升{0:triggervalue:straight}直至戰鬥結束（&lt;g&gt;疊加&lt;/g&gt;最高{0:value:straight}次）</DefaultText>
+     <DefaultText>每有一名隊員被打倒，力量​與​決心​提升{0:triggervalue:straight}​直至戰鬥結束（​疊加​最高{0:value:straight}​次）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>370</ID>
-     <DefaultText>施展法術後，{0:value:bonuspercentbonus}命中 變為 &lt;g&gt;暴擊&lt;/g&gt;的機率，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>施展法術後，{0:value:bonuspercentbonus}​命中​變為​暴擊​的機率，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>567</ID>
-     <DefaultText>暴擊 時對附近隊友施加 堅定，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>暴擊​時對附近隊友施加​堅定，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>602</ID>
-     <DefaultText>力量 低於{0:value}時{0:extravalue:straight} 穿透</DefaultText>
+     <DefaultText>力量​低於{0:value}​時{0:extravalue:straight}​穿透</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>603</ID>
-     <DefaultText>力量 高於{0:value:percent}時，命中 時有{0:extravalue:straight}機率使目標 倒地</DefaultText>
+     <DefaultText>力量​高於{0:value:percent}​時，命中​時有{0:extravalue:straight}​機率使目標​倒地</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>609</ID>
-     <DefaultText>每當有隊伍成員 昏迷 時，{0:value}力量，直到戰鬥結束（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+     <DefaultText>每當有隊伍成員​昏迷​時，{0:value}​力量，直到戰鬥結束（​疊加​最高{0:triggercount}​次）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>617</ID>
-     <DefaultText>近戰武器 &lt;g&gt;暴擊&lt;/g&gt;時有{0:value:percent}機率施加 恐懼，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>近戰武器​暴擊​時有{0:value:percent}機率施加​恐懼，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>618</ID>
-     <DefaultText>擊殺時有{0:value:percent}機率獲得 聰慧，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>擊殺時有{0:value:percent}機率獲得​聰慧，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>619</ID>
-     <DefaultText>每{0:interval}{0:triggervalue}意志（當前懲罰：{0:value}）</DefaultText>
+     <DefaultText>每{0:interval}​{0:triggervalue}​意志（當前懲罰：{0:value}）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>620</ID>
-     <DefaultText>暴擊 時有{0:value:percent}機率使敵人 格擋 降低{0:triggervalue}，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>暴擊​時有{0:value:percent}機率使敵人​格擋​降低{0:triggervalue}，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>621</ID>
-     <DefaultText>暴擊 時有{0:value:percent}機率使敵人 格擋 降低{0:triggervalue}，持續{0:extravalue:duration}（隨 {0:skill} 技能增強）</DefaultText>
+     <DefaultText>暴擊​時有{0:value:percent}機率使敵人​格擋​降低{0:triggervalue}，持續{0:extravalue:duration}​（隨​{0:skill}​技能增強）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>700</ID>
-     <DefaultText>暴擊 時有{0:value:percent}機率在短暫的延遲後對附近敵人造成 &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
+     <DefaultText>暴擊​時有{0:value:percent}機率在短暫的延遲後對附近敵人造成​真實​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>701</ID>
-     <DefaultText>受到 傷害 時，獲得{0:value}點抵禦該傷害類型的 護甲值，持續{0:extravalue:duration}（移除記憶材料的所有其他加成）</DefaultText>
+     <DefaultText>受到​傷害​時，獲得{0:value}​點抵禦該傷害類型的​護甲值，持續{0:extravalue:duration}​（移除記憶材料的所有其他加成）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>702</ID>
-     <DefaultText>使一個戰技 強效化 後，將敵方的一個指向目標的法術反射給施法者（總法術等級{0:value:straight}）</DefaultText>
+     <DefaultText>使一個戰技​強效化​後，將敵方的一個指向目標的法術反射給施法者（總法術等級{0:value:straight}​）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>703</ID>
-     <DefaultText>使一個譯靈使法術 強效化 後，獲得{0:value:bonuspercentbonus}向外施放的 熬煎 持續時間，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>使一個譯靈使法術​強效化​後，獲得{0:value:bonuspercentbonus}​向外施放的​熬煎​持續時間，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>704</ID>
-     <DefaultText>使一個戰技 強效化 後，附近隊友獲得 才智過人，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>使一個戰技​強效化​後，附近隊友獲得​才智過人，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>705</ID>
-     <DefaultText>暴擊 時有{0:value:percent}機率留下一道封印，對敵人造成 &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
+     <DefaultText>暴擊​時有{0:value:percent}機率留下一道封印，對敵人造成​真實​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>706</ID>
-     <DefaultText>使一個戰技 強效化 後，使用者的 &lt;g&gt;復原&lt;/g&gt;立刻刷新</DefaultText>
+     <DefaultText>使一個戰技​強效化​後，使用者的​復原​立刻刷新</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>707</ID>
-     <DefaultText>命中 時有{0:value:percent}機率對目標施加 困惑，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>命中​時有{0:value:percent}機率對目標施加​困惑，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>708</ID>
-     <DefaultText>使一個戰技 強效化 後，獲得 {0:value} 威力等級，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>使一個戰技​強效化​後，獲得​{0:value}​威力等級，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -111,27 +111,27 @@
    </Entry>
    <Entry>
      <ID>710</ID>
-     <DefaultText>使一段禱歌 強效化 後，詠者的樂節詠唱速度提升{0:value:percent}，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>使一段禱歌​強效化​後，詠者的樂節詠唱速度提升{0:value:percent}，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>711</ID>
-     <DefaultText>使一個戰技 強效化 後，獲得 {0:value} 格擋，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>使一個戰技​強效化​後，獲得​{0:value}​格擋，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>712</ID>
-     <DefaultText>使一個戰技 強效化 後，獲得 {0:value} 格擋，直至戰鬥結束</DefaultText>
+     <DefaultText>使一個戰技​強效化​後，獲得​{0:value}​格擋，直至戰鬥結束</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>713</ID>
-     <DefaultText>{0:value:percent}機率 魅惑 攻擊者【被武器 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+     <DefaultText>{0:value:percent}機率​魅惑​攻擊者【被武器​命中​時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>716</ID>
-     <DefaultText>發射3枚射彈，但 傷害 和 穿透 降低</DefaultText>
+     <DefaultText>發射3枚射彈，但​傷害​和​穿透​降低</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -141,32 +141,32 @@
    </Entry>
    <Entry>
      <ID>718</ID>
-     <DefaultText>{0:value} 力量 與 {0:extravalue:percentbonus} 有益效果持續時間，直至戰鬥結束【每當有隊伍成員失去意識時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+     <DefaultText>{0:value}​力量​與​{0:extravalue:percentbonus}​有益效果持續時間，直至戰鬥結束【每當有隊伍成員失去意識時】（​疊加​最高{0:triggercount}​次）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>719</ID>
-     <DefaultText>{0:value} 力量 與 {0:extravalue:percentbonus} 負面效果持續時間，直至戰鬥結束【每當有隊伍成員失去意識時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+     <DefaultText>{0:value}​力量​與​{0:extravalue:percentbonus}​負面效果持續時間，直至戰鬥結束【每當有隊伍成員失去意識時】（​疊加​最高{0:triggercount}​次）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>720</ID>
-     <DefaultText>每{0:interval} 震懾，持續{0:value:duration}</DefaultText>
+     <DefaultText>每{0:interval}​震懾，持續{0:value:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>721</ID>
-     <DefaultText>{0:value:percent}機率在用武器 &lt;g&gt;命中&lt;/g&gt;時隨機施加一種一階 熬煎，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>{0:value:percent}機率在用武器​命中​時隨機施加一種一階​熬煎，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>722</ID>
-     <DefaultText>{0:value:percent}機率在被武器 &lt;g&gt;命中&lt;/g&gt;時隨機獲得一種一階 啟迪，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>{0:value:percent}機率在被武器​命中​時隨機獲得一種一階​啟迪，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>750</ID>
-     <DefaultText>每{0:interval} 震懾，持續{0:extravalue:duration} </DefaultText>
+     <DefaultText>每{0:interval}​震懾，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
  </Entries>

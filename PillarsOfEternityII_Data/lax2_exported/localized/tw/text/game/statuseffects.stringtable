@@ -6,12 +6,12 @@
  <Entries>
    <Entry>
      <ID>277</ID>
-     <DefaultText>每有一名隊員被打倒，力量 與 &lt;g&gt;決心&lt;/g&gt;提升{0:triggervalue:straight}直至戰鬥結束（&lt;g&gt;疊加&lt;/g&gt;最高 {0:value:straight} 次）</DefaultText>
+     <DefaultText>每有一名隊員被打倒，力量​與​決心​提升{0:triggervalue:straight}​直至戰鬥結束（​疊加​最高​{0:value:straight}​次）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>321</ID>
-     <DefaultText>命中 時{0:value}所有 防禦屬性。每次 &lt;g&gt;命中&lt;/g&gt;時，施法者獲得{0:extravalue}全部防禦屬性（&lt;g&gt;疊加&lt;/g&gt;最高 {0:triggervalue:straight} 次）</DefaultText>
+     <DefaultText>命中​時{0:value}​所有​防禦屬性。每次​命中​時，施法者獲得{0:extravalue}​全部防禦屬性（​疊加​最高​{0:triggervalue:straight}​次）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -21,152 +21,152 @@
    </Entry>
    <Entry>
      <ID>439</ID>
-     <DefaultText>每{0:interval}獲得{0:value:percent} &lt;g&gt;命中&lt;/g&gt;轉化為 &lt;g&gt;暴擊&lt;/g&gt;（造成 &lt;g&gt;暴擊&lt;/g&gt;後重置）</DefaultText>
+     <DefaultText>每{0:interval}​獲得{0:value:percent}​命中​轉化為​暴擊​（造成​暴擊​後重置）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>441</ID>
-     <DefaultText>（當前加成：{0:value:percent}）每{0:interval}獲得{0:extravalue:percent} &lt;g&gt;命中&lt;/g&gt;轉化為 &lt;g&gt;暴擊&lt;/g&gt;（造成 &lt;g&gt;暴擊&lt;/g&gt;後重置）</DefaultText>
+     <DefaultText>（當前加成：{0:value:percent}​）每{0:interval}​獲得{0:extravalue:percent}​命中​轉化為​暴擊​（造成​暴擊​後重置）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>448</ID>
-     <DefaultText>生命值損失時提高 行動速度（最高{0:value:percentbonus}行動速度）</DefaultText>
+     <DefaultText>生命值損失時提高​行動速度（最高{0:value:percentbonus}​行動速度）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>461</ID>
-     <DefaultText>行走會留下小範圍傷害使敵人 蹣跚</DefaultText>
+     <DefaultText>行走會留下小範圍傷害使敵人​蹣跚</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>465</ID>
-     <DefaultText>被攻擊 &lt;g&gt;命中&lt;/g&gt;或 &lt;g&gt;暴擊&lt;/g&gt;時，持有者的下次成功武器攻擊將造成{0:value:bonuspercentbonus}冰寒 傷害</DefaultText>
+     <DefaultText>被攻擊​命中​或​暴擊​時，持有者的下次成功武器攻擊將造成{0:value:bonuspercentbonus}​冰寒​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>466</ID>
-     <DefaultText>持有者的下次成功武器攻擊將造成{0:value:bonuspercentbonus}冰寒 傷害</DefaultText>
+     <DefaultText>持有者的下次成功武器攻擊將造成{0:value:bonuspercentbonus}​冰寒​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>554</ID>
-     <DefaultText>對奈瑞思賽拉絲造成{0:value:percentbonus}傷害</DefaultText>
+     <DefaultText>對奈瑞思賽拉絲造成{0:value:percentbonus}​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>556</ID>
-     <DefaultText>受到 冰寒 傷害後獲得{0:value} 穿透（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+     <DefaultText>受到​冰寒​傷害後獲得{0:value}​穿透（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>557</ID>
-     <DefaultText>武器攻擊造成 鈍擊 / 冰寒 類型中更高的 傷害</DefaultText>
+     <DefaultText>武器攻擊造成​鈍擊/冰寒​類型中更高的​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>558</ID>
-     <DefaultText>被 熬煎 &lt;g&gt;命中&lt;/g&gt;後，{0:value:percent}機率對附近1名敵人釋放1階隨機熬煎</DefaultText>
+     <DefaultText>被​熬煎​命中​後，{0:value:percent}機率對附近1名敵人釋放1階隨機熬煎</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>559</ID>
-     <DefaultText>擊殺後，對附近敵人的負面效果獲得{0:value:percentbonus}持續時間</DefaultText>
+     <DefaultText>擊殺後，對附近敵人的負面效果獲得{0:value:percentbonus}​持續時間</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>560</ID>
-     <DefaultText>暴擊 時有{0:value:percent}機率凍結敵人，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>{0:value:percent}機率凍結敵人，持續{0:extravalue:duration}【暴擊​時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>561</ID>
-     <DefaultText>暴擊 時，有{0:value:percent}機率對目標周圍敵人造成 冰寒/&lt;g&gt;穿刺&lt;/g&gt;傷害</DefaultText>
+     <DefaultText>暴擊​時，有{0:value:percent}機率對目標周圍敵人造成​冰寒/​穿刺​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>562</ID>
-     <DefaultText>大盾武器熟練現在會在敵人近戰攻擊 &lt;g&gt;失手&lt;/g&gt;時賦予{0:value:percent}機率造成 &lt;g&gt;冰寒&lt;/g&gt;傷害</DefaultText>
+     <DefaultText>大盾武器熟練現在會在敵人近戰攻擊​失手​時賦予{0:value:percent}機率造成​冰寒​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>563</ID>
-     <DefaultText>持有者每次被 &lt;g&gt;失手&lt;/g&gt;時獲得{0:statuseffects}（&lt;g&gt;疊加&lt;/g&gt;最高 {0:value:straight} 次）</DefaultText>
+     <DefaultText>持有者每次被​失手​時獲得{0:statuseffects}​（​疊加​最高​{0:value:straight}​次）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>583</ID>
-     <DefaultText>需要雙手持握，但造成逐漸提升的 傷害</DefaultText>
+     <DefaultText>需要雙手持握，但造成逐漸提升的​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>584</ID>
-     <DefaultText>暴擊 時將使目標每{0:interval}受到{0:value:straight}真實 傷害，持續{0:extravalue:duration}（目標受到傷害時提升持續時間）</DefaultText>
+     <DefaultText>暴擊​時將使目標每{0:interval}​受到{0:value:straight}​真實​傷害，持續{0:extravalue:duration}​（目標受到傷害時提升持續時間）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>585</ID>
-     <DefaultText>正義天秤效果擊殺時會對附近敵人造成 {0:value:straight} &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
+     <DefaultText>正義天秤效果擊殺時會對附近敵人造成​{0:value:straight}​真實​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>586</ID>
-     <DefaultText>正義天秤效果擊殺時會治療附近友軍 {0:value:straight} 生命值</DefaultText>
+     <DefaultText>正義天秤效果擊殺時會治療附近友軍​{0:value:straight}​生命值</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>590</ID>
-     <DefaultText>{0:value:percent}機率每{0:interval}造成 {0:extravalue:straight} &lt;g&gt;腐蝕&lt;/g&gt;傷害，持續{0:triggervalue:duration}【武器 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+     <DefaultText>{0:value:percent}機率每{0:interval}​造成​{0:extravalue:straight}​腐蝕​傷害，持續{0:triggervalue:duration}【武器​命中​時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>591</ID>
-     <DefaultText>{0:value:bonuspercentbonus}機率 &lt;g&gt;命中&lt;/g&gt;轉化為 暴擊【武器攻擊時】（隨 {0:skill} 技能增強）</DefaultText>
+     <DefaultText>{0:value:bonuspercentbonus}​機率​命中​轉化為​暴擊【武器攻擊時】（隨​{0:skill}​技能增強）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>592</ID>
-     <DefaultText>{0:value:straight} &lt;g&gt;生命值&lt;/g&gt;給附近友軍【擊殺時】 （隨 {0:skill} 技能增強）</DefaultText>
+     <DefaultText>{0:value:straight}​生命值給附近友軍【擊殺時】 （隨​{0:skill}​技能增強）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>594</ID>
-     <DefaultText>{0:value:percent}機率發動一次打斷 鈍擊 範圍傷害【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+     <DefaultText>{0:value:percent}機率發動一次打斷​鈍擊​範圍傷害【暴擊​時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>595</ID>
-     <DefaultText>{0:value:percent}機率發動一次 打斷 與 定身 的 鈍擊 範圍傷害【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+     <DefaultText>{0:value:percent}機率發動一次​打斷​與​定身​的​鈍擊​範圍傷害【暴擊​時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>598</ID>
-     <DefaultText>{0:value:percent}機率使目標武器 穿透 降低{0:extravalue}，持續{0:triggervalue:duration}【近戰武器 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+     <DefaultText>{0:value:percent}機率使目標武器​穿透​降低{0:extravalue}，持續{0:triggervalue:duration}【近戰武器​暴擊​時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>599</ID>
-     <DefaultText>穿戴者陷入 昏迷 時，會對附近敵人造成大量 &lt;g&gt;灼燒&lt;/g&gt;傷害</DefaultText>
+     <DefaultText>穿戴者陷入​昏迷​時，會對附近敵人造成大量​灼燒​傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>600</ID>
-     <DefaultText>穿戴者用脫戰攻擊 &lt;g&gt;命中&lt;/g&gt;時，附近敵人{0:value:percentbonus} 步幅，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>穿戴者用脫戰攻擊​命中​時，附近敵人{0:value:percentbonus}​步幅，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>601</ID>
-     <DefaultText>穿戴者隨著 生命值 降低而獲得額外 交戰（最高{0:value}交戰）</DefaultText>
+     <DefaultText>穿戴者隨著​生命值​降低而獲得額外​交戰（最高{0:value}​交戰）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>610</ID>
-     <DefaultText>{0:value:percent}機率將敵人的非護罩穿刺攻擊 &lt;g&gt;暴擊&lt;/g&gt;變為 命中</DefaultText>
+     <DefaultText>{0:value:percent}機率將敵人的非護罩穿刺攻擊​暴擊​變為​命中</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>611</ID>
-     <DefaultText>{0:value:percentbonus}承受的非護罩穿刺攻擊傷害</DefaultText>
+     <DefaultText>{0:value:percentbonus}​承受的非護罩穿刺攻擊傷害</DefaultText>
      <FemaleText />
    </Entry>
  </Entries>

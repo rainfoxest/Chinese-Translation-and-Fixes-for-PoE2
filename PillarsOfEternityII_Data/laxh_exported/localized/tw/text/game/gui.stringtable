@@ -126,32 +126,32 @@
    </Entry>
    <Entry>
      <ID>5229</ID>
-     <DefaultText>{0:Value:PercentBonus} 先手權</DefaultText>
+     <DefaultText>{0:Value:PercentBonus}​先手權</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5230</ID>
-     <DefaultText>{0:Value:PercentBonus} 遠程武器 先手權</DefaultText>
+     <DefaultText>{0:Value:PercentBonus}​遠程武器​先手權</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5231</ID>
-     <DefaultText>{0:Value:InvertPercentBonus} 遠程 先手權【移動時】</DefaultText>
+     <DefaultText>{0:Value:InvertPercentBonus}​遠程​先手權​【移動時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5232</ID>
-     <DefaultText>{0:Value:PercentBonus} 物品 先手權</DefaultText>
+     <DefaultText>{0:Value:PercentBonus}​物品​先手權</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5233</ID>
-     <DefaultText>{0:Value:PercentBonus} 雙持武器 先手權</DefaultText>
+     <DefaultText>{0:Value:PercentBonus}​雙持武器​先手權</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5234</ID>
-     <DefaultText>{0}裝填 先手權</DefaultText>
+     <DefaultText>{0}​裝填​先手權</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -172,13 +172,13 @@
    <Entry>
      <ID>5239</ID>
      <DefaultText>‧&lt;indent=2.5em&gt;角色只有在輪到自己時才能行動。&lt;/indent&gt;
-‧&lt;indent=2.5em&gt;復原 時間變為「先手權」—先手權較低者可在一回合中優先行動。&lt;/indent&gt;
-‧&lt;indent=2.5em&gt;裝填時間影響「先手權」，這些武器將在回合之間裝填。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;復原​時間變為「先手權​」—​先手權​較低者可在一回合中優先行動。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;裝填時間影響「先手權​」，這些武器將在回合之間裝填。&lt;/indent&gt;
 ‧&lt;indent=2.5em&gt;施展時間較長的法術將按回合順序在晚些時候完成施展。&lt;/indent&gt;
-‧&lt;indent=2.5em&gt;雙持自動攻擊現在變為 全武器攻擊，且不再影響 &lt;g&gt;復原&lt;/g&gt;時間。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;雙持自動攻擊現在變為​全武器攻擊，且不再影響​復原​時間。&lt;/indent&gt;
 ‧&lt;indent=2.5em&gt;持續回合變為持續的「回合」數。&lt;/indent&gt;
 ‧&lt;indent=2.5em&gt;每隔一段時間生效一次的效果的效力已得到調整，以與每回合數值相一致。&lt;/indent&gt;
-‧&lt;indent=2.5em&gt;瑪珈嵐 的挑戰不再限制暫停次數，而是給每回合加上了時間限制。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;瑪珈嵐​的挑戰不再限制暫停次數，而是給每回合加上了時間限制。&lt;/indent&gt;
 ‧&lt;indent=2.5em&gt;禁用隊友AI和重新瞄準。&lt;/indent&gt;</DefaultText>
      <FemaleText />
    </Entry>
@@ -186,7 +186,7 @@
      <ID>5240</ID>
      <DefaultText>‧&lt;indent=2.5em&gt;所有角色可同時行動。&lt;/indent&gt;
 ‧&lt;indent=2.5em&gt;可使用暫停以獲得更多時間做出困難的決定。&lt;/indent&gt;
-‧&lt;indent=2.5em&gt;復原 時間機制決定角色可執行行動的頻率。&lt;/indent&gt;
+‧&lt;indent=2.5em&gt;復原​時間機制決定角色可執行行動的頻率。&lt;/indent&gt;
 ‧&lt;indent=2.5em&gt;效果的持續回合實時倒數計時。&lt;/indent&gt;
 ‧&lt;indent=2.5em&gt;可使用隊友AI幫助自動角色行動。&lt;/indent&gt;
 ‧&lt;indent=2.5em&gt;法術或戰技開始後，可使用重新瞄準選項變更其目標位置。&lt;/indent&gt;</DefaultText>
@@ -199,7 +199,7 @@
    </Entry>
    <Entry>
      <ID>5243</ID>
-     <DefaultText>{0} • {1} 先手權</DefaultText>
+     <DefaultText>{0}​•​{1}​先手權</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -219,7 +219,7 @@
    </Entry>
    <Entry>
      <ID>5247</ID>
-     <DefaultText>清空下一先手權</DefaultText>
+     <DefaultText>清空下一​先手權</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -241,110 +241,110 @@
    <Entry>
      <ID>5251</ID>
      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
-街鬥士受 夾擊 或 &lt;g&gt;重傷&lt;/g&gt;時，偷襲更加致命，先手權 減少
+街鬥士受​夾擊​或​重傷​時，偷襲更加致命，先手權​減少
 
-街鬥士同時受夾擊和重傷時，武器 &lt;g&gt;暴擊&lt;/g&gt;傷害增加
+街鬥士同時受夾擊和重傷時，武器​暴擊​傷害增加
 
 &lt;b&gt;懲罰&lt;/b&gt;
-當街鬥士既未受夾擊亦未重傷之時先手權增加</DefaultText>
+當街鬥士既未受夾擊亦未重傷之時​先手權​增加</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5252</ID>
      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
-攻擊4米以外的目標時，「&lt;g&gt;命中&lt;/g&gt;轉為 暴擊」機率增加
+攻擊4米以外的目標時，「命中​轉為​暴擊」機率增加
 
-攻擊4米以內的目標時，獲得額外 穿透
+攻擊4米以內的目標時，獲得額外​穿透
 
 &lt;b&gt;懲罰&lt;/b&gt;
-&lt;g&gt;先手權&lt;/g&gt;受到懲罰
+​先手權​受到懲罰
 
-&lt;g&gt;格擋&lt;/g&gt;較低</DefaultText>
+​格擋​較低</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5253</ID>
      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
-增加咒法系法術的 威力等級
+增加咒法系法術的​威力等級​
 
 獲得「召喚魔寵」法術：召喚一個生物來協助法師。魔寵不擅長戰鬥，但可以為主人提供被動加成
 
 &lt;b&gt;懲罰&lt;/b&gt;
 無法使用塑能系學派和幻術系學派法術
 
-非咒法系學派的法師法術 &lt;g&gt;先手權&lt;/g&gt;增加</DefaultText>
+非咒法系學派的法師法術​先手權​增加</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5254</ID>
      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
-增加附魔系法術的 威力等級
+增加附魔系法術的​威力等級​
 
-獲得「解放行動」被動效果：每次遭遇 一次，當法師受 敏捷熬煎 影響時，他們會清除該 熬煎 並短暫對該狀態免疫
+獲得「解放行動」被動效果：每次遭遇​一次，當法師受​敏捷熬煎​影響時，他們會清除該​熬煎​並短暫對該狀態免疫
 
 &lt;b&gt;懲罰&lt;/b&gt;
 無法使用幻術系學派和變化系學派法術
 
-非附魔系學派的法師法術 &lt;g&gt;先手權&lt;/g&gt;增加</DefaultText>
+非附魔系學派的法師法術​先手權​增加</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5255</ID>
      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
-增加塑能系法術的 威力等級
+增加塑能系法術的​威力等級​
 
 塑能系法術有小機率產生「雙重施法」，即立即對目標再次施加法術的傷害和效果
 
 &lt;b&gt;懲罰&lt;/b&gt;
 無法使用變化系學派學派和咒法系學派法術
 
-非塑能系學派的法師法術 &lt;g&gt;先手權&lt;/g&gt;增加</DefaultText>
+非塑能系學派的法師法術​先手權​增加</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5256</ID>
      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
-增加幻術系法術的 威力等級
+增加幻術系法術的​威力等級​
 
-獲得「反射鏡面」被動技能：每次遭遇 一次，首次被攻擊時，自動獲得「鏡影術」效果
+獲得「反射鏡面」被動技能：每次遭遇​一次，首次被攻擊時，自動獲得「鏡影術」效果
 
 &lt;b&gt;懲罰&lt;/b&gt;
 無法使用咒法系學派和附魔系學派法術
 
-非幻術系學派的法師法術 &lt;g&gt;先手權&lt;/g&gt;增加</DefaultText>
+非幻術系學派的法師法術​先手權​增加</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5257</ID>
      <DefaultText>&lt;b&gt;加成&lt;/b&gt;
-增加變化系法術的 威力等級
+增加變化系法術的​威力等級​
 
 獲得「狂暴化身」法術：法師變身為巨魔。變身後，無法使用法術，但各項肉體能力屬性增加
 
 &lt;b&gt;懲罰&lt;/b&gt;
 無法使用附魔系學派和塑能系學派法術
 
-非變化系學派的法師法術 &lt;g&gt;先手權&lt;/g&gt;增加</DefaultText>
+非變化系學派的法師法術​先手權​增加</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5267</ID>
-     <DefaultText>{0:Value:DurationBonusTurnBased} 負面效果持續回合</DefaultText>
+     <DefaultText>{0:Value:DurationBonusTurnBased}​負面效果持續回合</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5268</ID>
-     <DefaultText>{0:Value:DurationBonusTurnBased} 有益效果持續回合</DefaultText>
+     <DefaultText>{0:Value:DurationBonusTurnBased}​有益效果持續回合</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5269</ID>
-     <DefaultText>{0:Value:DurationBonusTurnBased} {0:AfflictionType}熬煎 持續回合</DefaultText>
+     <DefaultText>{0:Value:DurationBonusTurnBased}​{0:AfflictionType}​熬煎​持續回合</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5280</ID>
-     <DefaultText>在回合制模式下，隊伍回合在{0}之後自動結束。</DefaultText>
+     <DefaultText>在回合制模式下，隊伍回合在{0}​之後自動結束。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>

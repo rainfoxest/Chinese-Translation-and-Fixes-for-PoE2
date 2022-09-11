@@ -6,97 +6,97 @@
 	<Entries>
 		<Entry>
 			<ID>0</ID>
-			<DefaultText>{0:value:percent}機率對目標造成攻擊造成 動搖【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標造成攻擊造成​動搖【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>1</ID>
-			<DefaultText>{0:value} 遠程 精準（隨 秘法 技能增強）</DefaultText>
+			<DefaultText>{0:value}​遠程​精準（隨​秘法​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>2</ID>
-			<DefaultText>{0:value:percent}機率 暈眩 目標，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​暈眩​目標，持續{0:extravalue:duration}【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>3</ID>
-			<DefaultText>{0:value:percent}機率 暈眩 目標，持續{0:extravalue:duration}【若使用者為矮人且 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​暈眩​目標，持續{0:extravalue:duration}【若使用者為矮人且​命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>4</ID>
-			<DefaultText>{0:value:percent}機率在造成錐狀 冰寒 傷害【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率在造成錐狀​冰寒​傷害【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>5</ID>
-			<DefaultText>{0:value:percent}機率 麻痺（凍結）目標，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​麻痺（凍結）目標，持續{0:extravalue:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>6</ID>
-			<DefaultText>每{0:extravalue:duration}獲得 {0:value:straight} 專注（為0時）【與同伴相距4米或更以上時】</DefaultText>
+			<DefaultText>每{0:extravalue:duration}​獲得​{0:value:straight}​專注（為0時）【與同伴相距4米或更以上時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>7</ID>
-			<DefaultText>{0:value:percent}機率 魅惑 目標【法術 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​魅惑​目標【法術​命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>8</ID>
-			<DefaultText>{0:value:percent}機率對目標釋放&lt;link="gamedata://ed93377c-66b3-4817-898c-833ff562ba70"&gt;變豬術&lt;/link&gt;【使用這把武器 &lt;g&gt;命中&lt;/g&gt;目標時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標釋放&lt;link="gamedata://ed93377c-66b3-4817-898c-833ff562ba70"&gt;變豬術&lt;/link&gt;【使用這把武器​命中​目標時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>9</ID>
-			<DefaultText>{0:value:percent}機率發動 鈍擊 反擊【遭受近戰 &lt;g&gt;失手&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率發動​鈍擊​反擊【遭受近戰​失手​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>10</ID>
-			<DefaultText>動搖 攻擊，只對 &lt;g&gt;基斯&lt;/g&gt;或者魔物生效【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>動搖​攻擊，只對​基斯​或者魔物生效【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>11</ID>
-			<DefaultText>造成 &lt;g&gt;真實&lt;/g&gt;傷害並且比標準劍刃更快速攻擊</DefaultText>
+			<DefaultText>造成​真實​傷害​並且比標準劍刃更快速攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>12</ID>
-			<DefaultText>{0:value:percentbonus} 目標的 行動速度，持續{0:extravalue:duration}（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount} 次）【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percentbonus}目標的​行動速度，持續{0:extravalue:duration}​（​疊加​最高{0:triggercount}​次）【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>13</ID>
-			<DefaultText>{0:value:percent}機率 噁心 目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​噁心​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>14</ID>
-			<DefaultText>&lt;g&gt;命中&lt;/g&gt;對目標造成 {0:value:straight} &lt;g&gt;疊加&lt;/g&gt;的 護甲值</DefaultText>
+			<DefaultText>命中​對目標造成​{0:value:straight}​疊加​的​護甲值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>15</ID>
-			<DefaultText>武器 精準、傷害 與 穿透 隨持有者等級提升</DefaultText>
+			<DefaultText>武器​精準、傷害​與​穿透​隨持有者等級提升</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>16</ID>
-			<DefaultText>{0:value:percentbonus} 行動速度（隨 &lt;g&gt;玄學&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​行動速度（隨​玄學​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>17</ID>
-			<DefaultText>承受 {0:extravalue:straight} 攻擊後消散</DefaultText>
+			<DefaultText>承受​{0:extravalue:straight}​攻擊後消散</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>18</ID>
-			<DefaultText>{0:extravalue:percentbonus} 傷害</DefaultText>
+			<DefaultText>{0:extravalue:percentbonus}​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -106,37 +106,37 @@
 		</Entry>
 		<Entry>
 			<ID>20</ID>
-			<DefaultText>{0:value:percent}機率對目標施加可疊加的詛咒，這將增加他們承受的 傷害</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標施加可疊加的詛咒，這將增加他們承受的​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>21</ID>
-			<DefaultText>{0:value:percentbonus} 法杖 傷害（隨 &lt;g&gt;玄學&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​法杖​傷害（隨​玄學​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>22</ID>
-			<DefaultText>{0:value:percent}機率使用者受到 {0:extravalue:straight} &lt;g&gt;灼燒&lt;/g&gt;傷害【攻擊時】</DefaultText>
+			<DefaultText>{0:value:percent}機率使用者受到​{0:extravalue:straight}​灼燒​傷害​【攻擊時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>23</ID>
-			<DefaultText>{0:value} 穿透【與同伴攻擊同一目標時】</DefaultText>
+			<DefaultText>{0:value}​穿透【與同伴攻擊同一目標時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>24</ID>
-			<DefaultText>命中 &lt;g&gt;瀕死&lt;/g&gt;目標時會同時傷害周遭敵人</DefaultText>
+			<DefaultText>命中​瀕死​目標時會同時傷害周遭敵人</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>25</ID>
-			<DefaultText>&lt;g&gt;暴擊&lt;/g&gt;時獲得 {0:triggervalue} &lt;g&gt;精準&lt;/g&gt;與{0:extravalue:percent} 行動速度（&lt;g&gt;疊加&lt;/g&gt;最高 {0:value:straight} 次）</DefaultText>
+			<DefaultText>暴擊​時獲得​{0:triggervalue}​精準​與{0:extravalue:percent}​行動速度（​疊加​最高​{0:value:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>26</ID>
-			<DefaultText>激怒，獲得 靈巧 與 強硬</DefaultText>
+			<DefaultText>激怒，獲得​靈巧​與​強硬</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -161,182 +161,182 @@
 		</Entry>
 		<Entry>
 			<ID>31</ID>
-			<DefaultText>{0:value:percentbonus} 近戰傷害【裝備盾牌時】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​近戰​傷害【裝備盾牌時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>32</ID>
-			<DefaultText>{0:value} 格擋【裝備盾牌時】</DefaultText>
+			<DefaultText>{0:value}​格擋【裝備盾牌時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>33</ID>
-			<DefaultText>{0:value} 格擋【對非護罩穿刺攻擊】</DefaultText>
+			<DefaultText>{0:value}​格擋【對非護罩穿刺攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>34</ID>
-			<DefaultText>{0:value:percentbonus} &lt;g&gt;冰寒&lt;/g&gt;傷害，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​冰寒​傷害，持續{0:extravalue:duration}【命中​時】（​疊加​最高{0:triggercount}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>35</ID>
-			<DefaultText>基礎攻擊在小範圍內造成 穿刺 或 揮砍 傷害 較高者</DefaultText>
+			<DefaultText>基礎攻擊在小範圍內造成​穿刺​或​揮砍​傷害​較高者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>36</ID>
-			<DefaultText>{0:value:percentbonus} &lt;g&gt;腐蝕&lt;/g&gt;傷害，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​腐蝕​傷害，持續{0:extravalue:duration}【命中​時】（​疊加​最高{0:triggercount}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>37</ID>
-			<DefaultText>{0:value:percentbonus} 近戰傷害【對 &lt;g&gt;交戰&lt;/g&gt;中的目標】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​近戰​傷害【對​交戰​中的目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>38</ID>
-			<DefaultText>{0:value:percent}機率 暈眩【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​暈眩【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>39</ID>
-			<DefaultText>恐懼 &lt;g&gt;基斯&lt;/g&gt;目標【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>恐懼​基斯​目標【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>40</ID>
-			<DefaultText>施放樹膚術【使用者首次 &lt;g&gt;重傷&lt;/g&gt;時】</DefaultText>
+			<DefaultText>施放樹膚術【使用者首次​重傷​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>41</ID>
-			<DefaultText>{0:value} &lt;g&gt;火焰&lt;/g&gt;戰技的 威力等級</DefaultText>
+			<DefaultText>{0:value}​火焰​戰技的​威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>42</ID>
-			<DefaultText>&lt;g&gt;隱匿&lt;/g&gt;攻擊會使目標流血，造成 &lt;g&gt;真實&lt;/g&gt;傷害直至戰鬥結束。</DefaultText>
+			<DefaultText>隱匿​攻擊會使目標流血，造成​真實​傷害​直至戰鬥結束。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>43</ID>
-			<DefaultText>每{0:triggervalue:duration}造成{0:value:straight} &lt;g&gt;真實&lt;/g&gt;傷害，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>每{0:triggervalue:duration}​造成{0:value:straight}​真實​傷害，持續{0:extravalue:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>44</ID>
-			<DefaultText>生命值 越低，所受武器 傷害 越低（最高{0:value:percentbonus}傷害減免）</DefaultText>
+			<DefaultText>生命值​越低，所受武器​傷害​越低（最高{0:value:percentbonus}​傷害減免）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>45</ID>
-			<DefaultText>（當前加成：{0:value}）{0:extravalue} 精準</DefaultText>
+			<DefaultText>（當前加成：{0:value}）{0:extravalue}​精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>46</ID>
-			<DefaultText>每{0:value:duration}{0:triggercount} &lt;g&gt;真實&lt;/g&gt;傷害，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;被 &lt;g&gt;夾擊&lt;/g&gt;的目標時】</DefaultText>
+			<DefaultText>每{0:value:duration}{0:triggercount}​真實​傷害，持續{0:extravalue:duration}【命中​被​夾擊​的目標時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>47</ID>
-			<DefaultText>{0:value:percent}機率造成目標 倒地，並使其 &lt;g&gt;防禦屬性&lt;/g&gt;降低{0:triggercount}，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率造成目標​倒地，並使其​防禦屬性​降低{0:triggercount}，持續{0:extravalue:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>48</ID>
-			<DefaultText>每{0:value:duration}{0:triggercount} &lt;g&gt;腐蝕&lt;/g&gt;傷害，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>每{0:value:duration}{0:triggercount}​腐蝕​傷害，持續{0:extravalue:duration}【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>49</ID>
-			<DefaultText>強效化 禱歌將返還3 樂節。</DefaultText>
+			<DefaultText>強效化​禱歌​將返還3​樂節。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>51</ID>
-			<DefaultText>{0:value:percent}機率消除下次 復原【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率消除下次​復原【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>52</ID>
-			<DefaultText>{0:value:percent} 近戰武器 &lt;g&gt;復原&lt;/g&gt;時間【&lt;g&gt;命中&lt;/g&gt;時】（可 疊加）</DefaultText>
+			<DefaultText>{0:value:percent}​近戰武器​復原​時間【命中​時】（可​疊加）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>53</ID>
-			<DefaultText>有機率造成目標 暈眩 與 倒地【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>有機率造成目標​暈眩​與​倒地【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>54</ID>
-			<DefaultText>{0:value:percent}機率擊退目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率擊退目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>55</ID>
-			<DefaultText>{0:value:percentbonus} 傷害（隨 &lt;g&gt;生存&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​傷害（隨​生存​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>56</ID>
-			<DefaultText>{0:value:percent} 傷害量的持續傷害【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}​傷害​量的持續傷害【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>57</ID>
-			<DefaultText>{0:value:percent} 傷害造成量【對受 夾擊 目標】（傷害隨 &lt;g&gt;隱匿&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value:percent}​傷害​造成量【對受​夾擊​目標】（傷害隨​隱匿​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>58</ID>
-			<DefaultText>有機率 煩亂 目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>有機率​煩亂​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>59</ID>
-			<DefaultText>免疫 酒精造成的宿醉【使用者飲酒時】</DefaultText>
+			<DefaultText>免疫​酒精造成的宿醉【使用者飲酒時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>60</ID>
-			<DefaultText>{0:value} 目標 格擋，持續{0:triggervalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>{0:value}​目標​格擋，持續{0:triggervalue:duration}【暴擊​時】（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>61</ID>
-			<DefaultText>{0:value:percentbonus} 近戰 傷害（隨 &lt;g&gt;生存&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​近戰​傷害（隨​生存​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>62</ID>
-			<DefaultText>降低有益及負面效果持續時間【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>降低有益及負面效果持續時間【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>63</ID>
-			<DefaultText>{0:value:percent}機率 煩亂 目標，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​煩亂​目標，持續{0:extravalue:duration}【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>64</ID>
-			<DefaultText>攻擊兩次，但 傷害 較低（烈日增加{0:value:percent} &lt;g&gt;灼燒&lt;/g&gt;傷害）（暗月增加{0:value:percent} &lt;g&gt;冰寒&lt;/g&gt;傷害）</DefaultText>
+			<DefaultText>攻擊兩次，但​傷害​較低（烈日增加{0:value:percent}​灼燒​傷害​）（暗月增加{0:value:percent}​冰寒​傷害）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>65</ID>
-			<DefaultText>基礎攻擊會造成小量 &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>基礎攻擊會造成小量​真實​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>66</ID>
-			<DefaultText>{0:extravalue:percent}機率對目標施放隨機幻術系法術【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:extravalue:percent}機率對目標施放隨機幻術系法術【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>67</ID>
-			<DefaultText>{0:value:percent}機率隱形，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率隱形，持續{0:extravalue:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -346,17 +346,17 @@
 		</Entry>
 		<Entry>
 			<ID>69</ID>
-			<DefaultText>{0:value:percent} 造成及所受 傷害，持續至休息【擊殺時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>{0:value:percent}​造成及所受​傷害，持續至休息【擊殺時】（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>70</ID>
-			<DefaultText>{0:value} 目標 意志，持續{0:extravalue:duration} 【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+			<DefaultText>{0:value}​目標​意志，持續{0:extravalue:duration}【命中​時】（​疊加​最高{0:triggercount}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>71</ID>
-			<DefaultText>基礎 傷害 降低</DefaultText>
+			<DefaultText>基礎​傷害​降低</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -366,92 +366,92 @@
 		</Entry>
 		<Entry>
 			<ID>73</ID>
-			<DefaultText>使用者將承受{0:value:percent}傷害量的 &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>使用者將承受{0:value:percent}​傷害量的​真實​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>74</ID>
-			<DefaultText>使用者將承受{0:value:percent}傷害量的 &lt;g&gt;腐蝕&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>使用者將承受{0:value:percent}​傷害量的​腐蝕​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>75</ID>
-			<DefaultText>{0:value:percent}機率對目標施放 死靈之槍【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標施放​死靈之槍【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>76</ID>
-			<DefaultText>{0:value:percent}機率對自己或附近同伴造成 穿刺 傷害【攻擊時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對自己或附近同伴造成​穿刺​傷害【攻擊時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>77</ID>
-			<DefaultText>有機率對目標造成持續{0:extravalue:duration}的 蹣跚、倒地 與 &lt;g&gt;真實&lt;/g&gt;傷害或者 -25% 目標 行動速度【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>有機率對目標造成持續{0:extravalue:duration}​的​蹣跚、倒地​與​真實​傷害​或者 -25%​目標​行動速度【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>78</ID>
-			<DefaultText>{0:value:percentbonus} 恢復與增益類戰技效應範圍（隨 宗教 技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​恢復與增益類戰技效應範圍（隨​宗教​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>79</ID>
-			<DefaultText>{0:value:percentbonus} 鐮刀 傷害 直至戰鬥結束【擊殺時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）（隨 宗教 技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​鐮刀​傷害​直至戰鬥結束【擊殺時】（​疊加​最高{0:triggercount}​次）（隨​宗教​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>80</ID>
-			<DefaultText>{0:value:percentbonus} 行動速度</DefaultText>
+			<DefaultText>{0:value:percentbonus}​行動速度</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>81</ID>
-			<DefaultText>{0:value} 格擋（隨 恐嚇 技能增強）</DefaultText>
+			<DefaultText>{0:value}​格擋（隨​恐嚇​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>82</ID>
-			<DefaultText>{0:extravalue:percentbonus} 傷害 所受量（隨使用者 生命值 減少而增強）</DefaultText>
+			<DefaultText>{0:extravalue:percentbonus}​傷害​所受量（隨使用者​生命值​減少而增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>83</ID>
-			<DefaultText>{0:value:percent}機率 震懾 攻擊者，持續{0:extravalue:duration}【被近戰武器 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​震懾​攻擊者，持續{0:extravalue:duration}【被近戰武器​命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>84</ID>
-			<DefaultText>{0:value:percentbonus} 近戰 行動速度（隨 交戰 者數增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​近戰​行動速度（隨​交戰​者數增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>85</ID>
-			<DefaultText>若 生命值 高於{0:triggervalue:percent}，{0:extravalue:percent}機率受到遠程武器攻擊時只受到 {0:value:percent} 傷害</DefaultText>
+			<DefaultText>若​生命值​高於{0:triggervalue:percent}，{0:extravalue:percent}機率受到遠程武器攻擊時只受到​{0:value:percent}​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>86</ID>
-			<DefaultText>震懾 目標【隱匿狀態下攻擊】</DefaultText>
+			<DefaultText>震懾​目標【隱匿狀態下攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>87</ID>
-			<DefaultText>{0:value} 精準【隱匿狀態下武器攻擊】</DefaultText>
+			<DefaultText>{0:value}​精準【隱匿狀態下武器攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>88</ID>
-			<DefaultText>{0:value:percentbonus} 傷害【隱匿狀態下武器攻擊】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​傷害【隱匿狀態下武器攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>89</ID>
-			<DefaultText>當佩戴者被雷電攻擊 &lt;g&gt;命中&lt;/g&gt;時解鎖技能</DefaultText>
+			<DefaultText>當佩戴者被雷電攻擊​命中​時解鎖技能</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>90</ID>
-			<DefaultText>{0:value:percent}機率對目標造成 &lt;g&gt;電擊&lt;/g&gt;傷害攻擊【近戰武器 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標造成​電擊​傷害​攻擊【近戰武器​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -461,262 +461,262 @@
 		</Entry>
 		<Entry>
 			<ID>92</ID>
-			<DefaultText>若受到 &lt;g&gt;電擊&lt;/g&gt;傷害，使用者短時間內的攻擊都會造成額外的電擊傷害</DefaultText>
+			<DefaultText>若受到​電擊​傷害，使用者短時間內的攻擊都會造成額外的電擊傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>93</ID>
-			<DefaultText>免疫 服用酒精後帶來的例如宿醉之類的懲罰</DefaultText>
+			<DefaultText>免疫​服用酒精後帶來的例如宿醉之類的懲罰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>94</ID>
-			<DefaultText>{0:extravalue} 所有 防禦屬性【&lt;g&gt;交戰&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+			<DefaultText>{0:extravalue}​所有​防禦屬性【交戰​時】（​疊加​最高{0:triggercount}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>95</ID>
-			<DefaultText>{0:extravalue:percent} 暴擊傷害與 {0:value:percent} &lt;g&gt;命中&lt;/g&gt;轉為 暴擊【使用匕首、細劍、彎刀、錐刺以及劍】</DefaultText>
+			<DefaultText>{0:extravalue:percent}​暴擊​傷害​與​{0:value:percent}​命中​轉為​暴擊【使用匕首、細劍、彎刀、錐刺以及劍】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>96</ID>
-			<DefaultText>{0:value:percentbonus} &lt;g&gt;暴擊&lt;/g&gt;傷害 與</DefaultText>
+			<DefaultText>{0:value:percentbonus}​暴擊​傷害​與</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>97</ID>
-			<DefaultText>{0:value:percent}機率 對目標施放擊倒攻擊【近戰 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標施放擊倒攻擊【近戰​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>98</ID>
-			<DefaultText>所有酸液與毒素類攻擊都有{0:extravalue:percent}機率轉為{0:value:percent} 生命值 給使用者</DefaultText>
+			<DefaultText>所有酸液與毒素類攻擊都有​{0:extravalue:percent}機率轉為​{0:value:percent}​生命值​給使用者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>99</ID>
-			<DefaultText>{0:value:percent}機率立即摧毀 生命值 低於100的 &lt;g&gt;基斯&lt;/g&gt;或野獸【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率立即摧毀​生命值​低於100的​基斯​或野獸【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>100</ID>
-			<DefaultText>{0:value:percent}機率將關鍵詞中含有火焰的攻擊的{0:extravalue:percent} 傷害 轉化為 生命值</DefaultText>
+			<DefaultText>{0:value:percent}機率將關鍵詞中含有火焰的攻擊的{0:extravalue:percent}​傷害​轉化為​生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>101</ID>
-			<DefaultText>只承受{0:value:percent} 傷害【被 夾擊 或者承受 肉體熬煎 時】</DefaultText>
+			<DefaultText>只承受{0:value:percent}​傷害【被​夾擊​或者承受 肉體熬煎​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>102</ID>
-			<DefaultText>{0:value:percent}機率將關鍵詞中含有水的攻擊的{0:extravalue:percent} 傷害 轉化為 生命值</DefaultText>
+			<DefaultText>{0:value:percent}機率將關鍵詞中含有水的攻擊的{0:extravalue:percent}​傷害​轉化為​生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>103</ID>
-			<DefaultText>發動技能。【&lt;g&gt;重傷&lt;/g&gt;時】</DefaultText>
+			<DefaultText>發動技能。【重傷​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>104</ID>
-			<DefaultText>{0:value:percentbonus} 行動速度【使用匕首、細劍、錐刺時】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​行動速度【使用​匕首、細劍、錐刺​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>105</ID>
-			<DefaultText>獲得技能。【&lt;g&gt;瀕死&lt;/g&gt;時】</DefaultText>
+			<DefaultText>獲得技能。【瀕死​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>106</ID>
-			<DefaultText>電擊 範圍傷害【失去意識時】</DefaultText>
+			<DefaultText>電擊​範圍傷害【失去意識時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>108</ID>
-			<DefaultText>{0:value} 所有關鍵詞含有 毒素 的戰技 威力等級</DefaultText>
+			<DefaultText>{0:value}​所有關鍵詞含有​毒素​的戰技​威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>109</ID>
-			<DefaultText>隱匿狀態下近戰武器攻擊會對目標造成 真實 持續傷害</DefaultText>
+			<DefaultText>隱匿狀態下近戰武器攻擊會對目標造成​真實​持續傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>110</ID>
-			<DefaultText>{0:value:percent}機率施放帶有 打斷 效果的範圍 鈍擊 傷害【被近戰 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率施放帶有​打斷​效果的範圍​鈍擊​傷害【被近戰​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>111</ID>
-			<DefaultText>真實 傷害反擊攻擊【被近戰 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>真實​傷害反擊攻擊【被近戰​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>112</ID>
-			<DefaultText>將{0:value:percent} &lt;g&gt;灼燒&lt;/g&gt;傷害轉化為 生命值。</DefaultText>
+			<DefaultText>將{0:value:percent}​灼燒​傷害​轉化為​生命值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>113</ID>
-			<DefaultText>{0:value:percent}機率施放法術時被 打斷</DefaultText>
+			<DefaultText>{0:value:percent}機率施放法術時被​打斷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>114</ID>
-			<DefaultText>每{0:interval}造成{0:extravalue:percent}武器傷害</DefaultText>
+			<DefaultText>每{0:interval}​造成{0:extravalue:percent}​武器​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>115</ID>
-			<DefaultText>{0:value:percent}機率為佩戴者與附近隊友施放 {0:value:percent}樹膚術&lt;link="gamedata://92842e97-8224-43ad-aa73-926328040a2a"&gt;【佩戴者被 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率為佩戴者與附近隊友施放​{0:value:percent}​樹膚術&lt;link="gamedata://92842e97-8224-43ad-aa73-926328040a2a"&gt;【佩戴者被​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>116</ID>
-			<DefaultText>{0:value:percent}機率對敵人施放 &lt;link="gamedata://e7d863cd-cb26-4f61-8776-28c4d6f67e04"&gt;熱浪術&lt;/link&gt;【佩戴者被近戰 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對敵人施放 &lt;link="gamedata://e7d863cd-cb26-4f61-8776-28c4d6f67e04"&gt;熱浪術&lt;/link&gt;【佩戴者被近戰​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>117</ID>
-			<DefaultText>{0:value:percent} &lt;g&gt;{0:damagetype}&lt;/g&gt;傷害作為持續性的 &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>{0:value:percent}​{0:damagetype}​傷害作為持續性的​真實​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>118</ID>
-			<DefaultText>{0:value:percentbonus} 步幅（隨 生存 技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​步幅（隨​生存​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>119</ID>
-			<DefaultText>&lt;g&gt;精準&lt;/g&gt;與 行動速度 加成【被 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>精準​與​行動速度​加成【被​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>120</ID>
-			<DefaultText>獲得抗 冰寒 攻擊的 護甲值，隨佩戴者 生命值 減少而增加（最多{0:value}點）</DefaultText>
+			<DefaultText>獲得抗​冰寒​攻擊的​護甲值，隨佩戴者​生命值​減少而增加（最多{0:value}​點）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>121</ID>
-			<DefaultText>{0:value} &lt;g&gt;精準&lt;/g&gt;與 {0:extravalue:percentbonus} 傷害【對受 夾擊 目標】</DefaultText>
+			<DefaultText>{0:value}​精準​與​{0:extravalue:percentbonus}​傷害【對受​夾擊​目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>123</ID>
-			<DefaultText>賦予技能【佩戴者 &lt;g&gt;瀕死&lt;/g&gt;時】</DefaultText>
+			<DefaultText>賦予技能【佩戴者​瀕死​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>124</ID>
-			<DefaultText>召喚一瓶隨機 &lt;g&gt;藥水&lt;/g&gt;至一處空置快速物品欄</DefaultText>
+			<DefaultText>召喚一瓶隨機​藥水至一處空置快速物品欄</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>125</ID>
-			<DefaultText>{0:value} 格擋 除外的所有 防禦屬性（隨 歷史 技能增強）</DefaultText>
+			<DefaultText>{0:value}​格擋​除外的所有​防禦屬性（隨​歷史​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>126</ID>
-			<DefaultText>{0:value:percent}機率取消佩戴者的下次 復原【當被近戰 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率取消佩戴者的下次​復原【當被近戰​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>127</ID>
-			<DefaultText>當站立不動時，使用近戰武器 &lt;g&gt;命中&lt;/g&gt;敵人時，會獲得{0:value:percent}近戰 行動速度 加成（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>當站立不動時，使用近戰武器​命中​敵人時，會獲得{0:value:percent}​近戰​行動速度​加成（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>128</ID>
-			<DefaultText>當站立不動時，被近戰武器 &lt;g&gt;命中&lt;/g&gt;時，會獲得{0:value:percent}近戰 傷害 加成（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>當站立不動時，被近戰武器​命中​時，會獲得{0:value:percent}​近戰​傷害​加成（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>129</ID>
-			<DefaultText>技能發動【佩戴者 &lt;g&gt;瀕死&lt;/g&gt;時】</DefaultText>
+			<DefaultText>技能發動【佩戴者​瀕死​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>130</ID>
-			<DefaultText>技能發動【佩戴者 &lt;g&gt;重傷&lt;/g&gt;時】</DefaultText>
+			<DefaultText>技能發動【佩戴者​重傷​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>131</ID>
-			<DefaultText>技能發動【佩戴者 &lt;g&gt;生命值&lt;/g&gt;降至{0:value:percent}時】</DefaultText>
+			<DefaultText>技能發動【佩戴者​生命值​降至{0:value:percent}​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>132</ID>
-			<DefaultText>{0:extravalue:percent} 疊加 &lt;g&gt;行動速度&lt;/g&gt;加成【每擁有一個詠者 樂節】</DefaultText>
+			<DefaultText>{0:extravalue:percent}​疊加​行動速度​加成【每擁有一個詠者​樂節】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>133</ID>
-			<DefaultText>&lt;g&gt;免疫&lt;/g&gt;推動與拉動效果</DefaultText>
+			<DefaultText>免疫​推動與拉動效果</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>134</ID>
-			<DefaultText>&lt;g&gt;重傷&lt;/g&gt;或 &lt;g&gt;瀕死&lt;/g&gt;時，佩戴者 免疫 &lt;g&gt;腐蝕&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>重傷​或​瀕死​時，佩戴者​免疫​腐蝕​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>135</ID>
-			<DefaultText>{0:value:percent}機率對目標施放 &lt;link="gamedata://0fb344d6-f83f-41e7-9f86-1ab91974ef99"&gt;死靈之槍&lt;/link&gt;【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標施放 &lt;link="gamedata://0fb344d6-f83f-41e7-9f86-1ab91974ef99"&gt;死靈之槍&lt;/link&gt;【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>136</ID>
-			<DefaultText>使用者對自身造成{0:value:percent}傷害量的 &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>使用者對自身造成{0:value:percent}​傷害量的​真實​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>137</ID>
-			<DefaultText>技能發動【佩戴者 &lt;g&gt;重傷&lt;/g&gt;時】</DefaultText>
+			<DefaultText>技能發動【佩戴者​重傷​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>138</ID>
-			<DefaultText>{0:extravalue} 灼燒 護甲值，隨佩戴者 &lt;g&gt;生命值&lt;/g&gt;減少而增加（最高{0:value}點}）</DefaultText>
+			<DefaultText>{0:extravalue}​灼燒​護甲值，隨佩戴者​生命值減少而增加（最高{0:value}​點}​）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>139</ID>
-			<DefaultText>{0:value:percentbonus} 來自武器的 傷害，隨佩戴者 生命值 減少而增加。</DefaultText>
+			<DefaultText>{0:value:percentbonus}​來自武器的​傷害，隨佩戴者​生命值​減少而增加。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>140</ID>
-			<DefaultText>{0:extravalue:percent} 護甲 &lt;g&gt;復原&lt;/g&gt;懲罰</DefaultText>
+			<DefaultText>{0:extravalue:percent}​護甲​復原​懲罰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>141</ID>
-			<DefaultText>在戰鬥開始時召喚一份隨機 &lt;g&gt;藥水&lt;/g&gt;至空置快速物品欄。戰鬥結束後藥水消失。</DefaultText>
+			<DefaultText>在戰鬥開始時召喚一份隨機​藥水​至空置快速物品欄。戰鬥結束後藥水消失。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>142</ID>
-			<DefaultText>負面狀態消散後暫時性造成{0:value:percentbonus}武器傷害</DefaultText>
+			<DefaultText>負面狀態消散後暫時性造成{0:value:percentbonus}​武器傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>143</ID>
-			<DefaultText>{0:value:percentbonus} 攻擊者 &lt;g&gt;行動速度&lt;/g&gt;與 傷害，持續{0:extravalue:duration}【持有者被近戰 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​攻擊者​行動速度​與​傷害，持續{0:extravalue:duration}【持有者被近戰​命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>144</ID>
-			<DefaultText>擊退目標【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>擊退目標【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>145</ID>
-			<DefaultText>有機率造成目標 倒地【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>有機率造成目標​倒地【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -726,7 +726,7 @@
 		</Entry>
 		<Entry>
 			<ID>147</ID>
-			<DefaultText>有機率造成目標停滯並嘔吐【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>有機率造成目標停滯並嘔吐【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -736,203 +736,203 @@
 		</Entry>
 		<Entry>
 			<ID>149</ID>
-			<DefaultText>有機率 動搖 目標【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>有機率​動搖​目標【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>150</ID>
-			<DefaultText>有機率 動搖 目標與附近敵人【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>有機率​動搖​目標與附近敵人【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>151</ID>
-			<DefaultText>{0:value:percentbonus} 目標 行動速度，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+			<DefaultText>{0:value:percentbonus}目標​行動速度，持續{0:extravalue:duration}【命中​時】（​疊加​最高{0:triggercount}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>152</ID>
-			<DefaultText>{0:value} 目標 格擋，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+			<DefaultText>{0:value}​目標​格擋，持續{0:extravalue:duration}【命中​時】（​疊加​最高{0:triggercount}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>153</ID>
-			<DefaultText>使用者獲得{0:value} 生命值【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>使用者獲得{0:value}​生命值【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>154</ID>
-			<DefaultText>對目標造成{0:value} &lt;g&gt;電擊&lt;/g&gt;傷害【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>對目標造成{0:value}​電擊​傷害​【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>155</ID>
-			<DefaultText>疊加 {0:value:percentbonus} &lt;g&gt;暴擊&lt;/g&gt;率【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue}次，暴擊後重置）</DefaultText>
+			<DefaultText>疊加​{0:value:percentbonus}​暴擊​率【命中​時】（​疊加​最高{0:extravalue}​次，暴擊後重置）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>156</ID>
-			<DefaultText>給予目標 隨機 熬煎，持續{0:value:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>給予目標隨機​熬煎，持續{0:value:duration}【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>157</ID>
-			<DefaultText>{0:value:percent}機率 暈眩 目標與附近敵人【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​暈眩​目標與附近敵人【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>158</ID>
-			<DefaultText>造成 鈍擊 或 揮砍 傷害之較高者</DefaultText>
+			<DefaultText>造成​鈍擊​或​揮砍​傷害之較高者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>159</ID>
-			<DefaultText>{0:value:percent}機率對目標施放 &lt;g&gt;鈍擊&lt;/g&gt;傷害水流衝擊【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標施放​鈍擊​傷害水流衝擊【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>160</ID>
-			<DefaultText>使用這把武器 &lt;g&gt;命中&lt;/g&gt;時，有{0:value:percent}機率對目標釋放 &lt;link="gamedata://1bdb4d61-9c7f-4324-b287-62a4ba329f93"&gt;亞柯彌的炫光術&lt;/link&gt;</DefaultText>
+			<DefaultText>使用這把武器​命中​時，有{0:value:percent}機率對目標釋放 &lt;link="gamedata://1bdb4d61-9c7f-4324-b287-62a4ba329f93"&gt;亞柯彌的炫光術&lt;/link&gt;</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>161</ID>
-			<DefaultText>{0:value:percent}機率 暈眩 目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​暈眩​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>162</ID>
-			<DefaultText>{0:value:percent}機率 暈眩 目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​暈眩​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>163</ID>
-			<DefaultText>{0:triggervalue} &lt;g&gt;精準&lt;/g&gt;與 {0:extravalue:percentbonus} 武器 傷害【&lt;g&gt;生命值&lt;/g&gt;低於50%時】</DefaultText>
+			<DefaultText>{0:triggervalue}​精準​與​{0:extravalue:percentbonus}​武器​傷害【生命值​低於50%時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>164</ID>
-			<DefaultText>{0:value:percent}機率發動 鈍擊/&lt;g&gt;揮砍&lt;/g&gt;反擊【所受近戰 &lt;g&gt;失手&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率發動​鈍擊/​揮砍​反擊【所受近戰​失手​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>165</ID>
-			<DefaultText>&lt;g&gt;驚慌&lt;/g&gt;攻擊 &lt;g&gt;基斯&lt;/g&gt;或 魔物【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>驚慌​攻擊​基斯​或​魔物【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>166</ID>
-			<DefaultText>{0:value:percent}機率 &lt;g&gt;打斷&lt;/g&gt;目標並使其 倒地【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​打斷​目標並使其​倒地【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>167</ID>
-			<DefaultText>{0:value:percent}機率 &lt;g&gt;打斷&lt;/g&gt;目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​打斷​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>168</ID>
-			<DefaultText>{0:value:percent}機率立即 復原【被近戰 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率立即​復原【被近戰​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>169</ID>
-			<DefaultText>擊倒目標【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>擊倒目標【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>170</ID>
-			<DefaultText>{0:value:percent}機率對目標施加一種隨機物理 熬煎，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標施加一種隨機物理​熬煎，持續{0:extravalue:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>171</ID>
-			<DefaultText>{0:value:percent}機率使目標 噁心 {0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率使目標​噁心​{0:extravalue:duration}【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>172</ID>
-			<DefaultText>給予使用者 健壯 啟迪，持續{0:value:duration}【同伴 昏迷 時】</DefaultText>
+			<DefaultText>給予使用者​健壯​啟迪，持續{0:value:duration}【同伴​昏迷​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>173</ID>
-			<DefaultText>每{0:interval} {0:value} 生命值【生命值低於{0:extravalue:percent}時】</DefaultText>
+			<DefaultText>每{0:interval}​{0:value}​生命值【生命值低於{0:extravalue:percent}​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>174</ID>
-			<DefaultText>疊加 -0.25 目標 護甲值【&lt;g&gt;命中&lt;/g&gt;時】（最高至-3）</DefaultText>
+			<DefaultText>疊加​-0.25 目標​護甲值【命中​時】（最高至-3）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>175</ID>
-			<DefaultText>疊加 -0.5 目標 護甲值【&lt;g&gt;命中&lt;/g&gt;時】（最高至-4）</DefaultText>
+			<DefaultText>疊加​-0.5 目標​護甲值【命中​時】（最高至-4）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>176</ID>
-			<DefaultText>對 &lt;g&gt;生命值&lt;/g&gt;高於50%的目標疊加 -5% 行動速度【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高 5 次）</DefaultText>
+			<DefaultText>對​生命值​高於50%的目標疊加​-5%​行動速度【命中​時】（​疊加​最高 5 次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>177</ID>
-			<DefaultText>{0:value:percent} 傷害 減免，持續{0:triggervalue:duration}【被 &lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）（隨 &lt;g&gt;玄學&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value:percent}​傷害​減免，持續{0:triggervalue:duration}【被​命中​時】（​疊加​最高{0:extravalue:straight}​次）（隨​玄學​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>178</ID>
-			<DefaultText>發動造成 &lt;g&gt;真實&lt;/g&gt;傷害範圍攻擊【連續 &lt;g&gt;命中&lt;/g&gt;目標{0:value:straight}次後】</DefaultText>
+			<DefaultText>發動造成​真實​傷害​範圍攻擊【連續​命中​目標{0:value:straight}​次後】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>179</ID>
-			<DefaultText>欲戰之刃 &lt;g&gt;暴擊&lt;/g&gt;時，有一定機率治療持有者或者目標（或兩者同時）</DefaultText>
+			<DefaultText>欲戰之刃​暴擊​時，有一定機率治療持有者或者目標（或兩者同時）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>180</ID>
-			<DefaultText>{0:value:percent}機率立即 復原【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率立即​復原【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>181</ID>
-			<DefaultText>{0:value:percent}機率對目標發動 暈眩 攻擊【所受近戰 &lt;g&gt;失手&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標發動​暈眩​攻擊【所受近戰​失手​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>182</ID>
-			<DefaultText>施放 &lt;link="gamedata://46d4d7c5-0af5-4f6e-93b0-483b04184951"&gt;幽刃術&lt;/link&gt; 並根據造成的 &lt;g&gt;傷害&lt;/g&gt;恢復 生命值【擊殺時】</DefaultText>
+			<DefaultText>施放 &lt;link="gamedata://46d4d7c5-0af5-4f6e-93b0-483b04184951"&gt;幽刃術&lt;/link&gt; 並根據造成的​傷害​恢復​生命值【擊殺時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>183</ID>
-			<DefaultText>擊殺時：+2 力量。目標 生命值 低於25%時有 25% &lt;g&gt;命中&lt;/g&gt;轉為 暴擊。+15% 行動速度，效果持續45.0秒。效果可 疊加。抑制噬魂
+			<DefaultText>擊殺時：+2​力量。目標​生命值​低於25%時有25%​命中​轉為​暴擊。+15%​行動速度，效果持續45.0秒。效果可​疊加。抑制噬魂
 </DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>184</ID>
-			<DefaultText>擊殺時：+6 力量。目標 生命值 低於50%時有 35% &lt;g&gt;命中&lt;/g&gt;轉為 暴擊。+30% 行動速度，效果持續45.0秒。效果可 疊加。抑制噬魂</DefaultText>
+			<DefaultText>擊殺時：+6​力量。目標​生命值​低於50%時有35%​命中​轉為​暴擊。+30%​行動速度，效果持續45.0秒。效果可​疊加。抑制噬魂</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>185</ID>
-			<DefaultText>擊殺時：+3 力量。目標 生命值 低於50%時有 25% &lt;g&gt;命中&lt;/g&gt;轉為 暴擊。+20% 行動速度，效果持續45.0秒。效果可 疊加。抑制噬魂</DefaultText>
+			<DefaultText>擊殺時：+3​力量。目標​生命值​低於50%時有25%​命中​轉為​暴擊。+20%​行動速度，效果持續45.0秒。效果可​疊加。抑制噬魂</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>186</ID>
-			<DefaultText>噬魂：-2 體質。30% &lt;g&gt;暴擊&lt;/g&gt;轉為 命中。-10 精準</DefaultText>
+			<DefaultText>噬魂：-2​體質。30%​暴擊​轉為​命中。-10​精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>187</ID>
-			<DefaultText>貪婪噬魂：-4 體質。50% &lt;g&gt;暴擊&lt;/g&gt;轉為 命中。-15 精準</DefaultText>
+			<DefaultText>貪婪噬魂：-4​體質。50%​暴擊​轉為​命中。-15​精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>188</ID>
-			<DefaultText>弱化噬魂：-1 體質。20% &lt;g&gt;暴擊&lt;/g&gt;轉為 命中。-5 精準</DefaultText>
+			<DefaultText>弱化噬魂：-1​體質。20%​暴擊​轉為​命中。-5​精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -942,17 +942,17 @@
 		</Entry>
 		<Entry>
 			<ID>194</ID>
-			<DefaultText>冰寒/揮砍 區域傷害於目標所在處【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>冰寒/揮砍 區域傷害於目標所在處【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>195</ID>
-			<DefaultText>當霜凍鋒刃 &lt;g&gt;疊加&lt;/g&gt;至{0:value:straight}層後，&lt;g&gt;麻痺&lt;/g&gt;目標，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>當霜凍鋒刃​疊加​至{0:value:straight}​層後，麻痺​目標，持續{0:extravalue:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>196</ID>
-			<DefaultText>獲得 +3% &lt;g&gt;冰寒&lt;/g&gt;傷害【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高 20 次）</DefaultText>
+			<DefaultText>獲得 +3%​冰寒​傷害【命中​時】（​疊加​最高 20 次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -977,37 +977,37 @@
 		</Entry>
 		<Entry>
 			<ID>201</ID>
-			<DefaultText>獲得 +3% &lt;g&gt;腐蝕&lt;/g&gt;傷害【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高 20 次）</DefaultText>
+			<DefaultText>獲得 +3%​腐蝕​傷害【命中​時】（​疊加​最高20次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>202</ID>
-			<DefaultText>當污穢之刃疊加至{0:triggercount}層後，噁心 目標【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>當污穢之刃疊加至{0:triggercount}​層後，噁心​目標【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>203</ID>
-			<DefaultText>{0:value:percent} 目標 行動速度，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高 {0:triggervalue:straight} 次）</DefaultText>
+			<DefaultText>{0:value:percent}​目標​行動速度，持續{0:extravalue:duration}【暴擊​時】（​疊加​最高​{0:triggervalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>204</ID>
-			<DefaultText>{0:extravalue:percent} 近戰 傷害【每名 &lt;g&gt;交戰&lt;/g&gt;目標】</DefaultText>
+			<DefaultText>{0:extravalue:percent}​近戰​傷害【每名​交戰​目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>205</ID>
-			<DefaultText>{0:extravalue} 近戰 精準【每名 &lt;g&gt;交戰&lt;/g&gt;目標】</DefaultText>
+			<DefaultText>{0:extravalue}​近戰​精準【每名​交戰​目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>206</ID>
-			<DefaultText>{0:extravalue:percent} 行動速度【每名 &lt;g&gt;交戰&lt;/g&gt;目標】</DefaultText>
+			<DefaultText>{0:extravalue:percent}​行動速度【每名​交戰​目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>207</ID>
-			<DefaultText>{0:extravalue:percent} 近戰 傷害【每名 &lt;g&gt;交戰&lt;/g&gt;目標】</DefaultText>
+			<DefaultText>{0:extravalue:percent}​近戰​傷害【每名​交戰​目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1017,7 +1017,7 @@
 		</Entry>
 		<Entry>
 			<ID>209</ID>
-			<DefaultText>{0:value} &lt;g&gt;格擋&lt;/g&gt;除外所有 防禦屬性 致附近同伴，持續{0:extravalue:duration}【使用解鑰者擊殺時】</DefaultText>
+			<DefaultText>{0:value}​格擋​除外所有​防禦屬性​致附近同伴，持續{0:extravalue:duration}【使用解鑰者擊殺時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1027,42 +1027,42 @@
 		</Entry>
 		<Entry>
 			<ID>211</ID>
-			<DefaultText>使用瑪珈嵐之惠擊殺時，會對附近的敵人造成 &lt;g&gt;灼燒&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>使用瑪珈嵐之惠擊殺時，會對附近的敵人造成​灼燒​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>212</ID>
-			<DefaultText>每{0:extravalue:duration}造成{0:triggercount} &lt;g&gt;灼燒&lt;/g&gt;傷害，持續{0:value:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>每{0:extravalue:duration}​造成{0:triggercount}​灼燒​傷害，持續{0:value:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>213</ID>
-			<DefaultText>{0:value:percent} 瑪珈嵐之惠所造成的 &lt;g&gt;灼燒&lt;/g&gt;傷害會轉化為使用者的 生命值</DefaultText>
+			<DefaultText>{0:value:percent}​瑪珈嵐之惠所造成的​灼燒​傷害​會轉化為使用者的​生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>214</ID>
-			<DefaultText>使用瑪珈嵐之惠擊殺時，賦予 {0:value:percent} 傷害量的 &lt;g&gt;灼燒&lt;/g&gt;傷害與 {0:extravalue:percent} 行動速度（&lt;g&gt;疊加&lt;/g&gt;最高 {0:triggervalue:straight} 次）</DefaultText>
+			<DefaultText>使用瑪珈嵐之惠擊殺時，賦予​{0:value:percent}​傷害量的​灼燒​傷害​與​{0:extravalue:percent}​行動速度（​疊加​最高​{0:triggervalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>215</ID>
-			<DefaultText>{0:value} 穿透（隨 生存 技能增強）</DefaultText>
+			<DefaultText>{0:value}​穿透（隨​生存​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>216</ID>
-			<DefaultText>對目標發動錐狀 迷離 攻擊【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>對目標發動錐狀​迷離​攻擊【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>217</ID>
-			<DefaultText>{0:value:percentbonus} 傷害【對可破壞物】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​傷害【對可破壞物】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>218</ID>
-			<DefaultText>{0:value:percentbonus} 敲鐘的 傷害</DefaultText>
+			<DefaultText>{0:value:percentbonus}敲鐘的​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1072,222 +1072,222 @@
 		</Entry>
 		<Entry>
 			<ID>220</ID>
-			<DefaultText>中量持續性 &lt;g&gt;真實&lt;/g&gt;傷害對受 夾擊 目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>中量持續性​真實​傷害​對受​夾擊​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>221</ID>
-			<DefaultText>{0:value:percent} 被 夾擊 的目標 行動速度【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>{0:value:percent}被​夾擊​的目標​行動速度【命中​時】（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>222</ID>
-			<DefaultText>{0:value:percentbonus} 傷害【對受 放倒 影響目標】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​傷害【對受放倒影響目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>223</ID>
-			<DefaultText>{0:value:percent}機率立即 復原【所受近戰武器攻擊 &lt;g&gt;失手&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率立即​復原【所受近戰武器攻擊​失手​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>224</ID>
-			<DefaultText>暴擊 時，每{0:value:duration}造成{0:triggercount}點 真實流血傷害，持續{0:extravalue:duration}</DefaultText>
+			<DefaultText>每{0:value:duration}​造成{0:triggercount}​點​真實​流血傷害，持續{0:extravalue:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>225</ID>
-			<DefaultText>每{0:value:duration}造成{0:triggercount}點 &lt;g&gt;腐蝕&lt;/g&gt;傷害，持續{0:triggervalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】（每一跳有{0:extravalue:percent}機率擊殺 &lt;g&gt;瀕死&lt;/g&gt;目標）</DefaultText>
+			<DefaultText>每{0:value:duration}​造成{0:triggercount}​點​腐蝕​傷害，持續{0:triggervalue:duration}【命中​時】（每跳有​{0:extravalue:percent}機率擊殺​瀕死​目標）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>226</ID>
-			<DefaultText>每{0:value:duration}造成{0:triggercount}點 &lt;g&gt;腐蝕&lt;/g&gt;傷害，持續{0:triggervalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】（每一跳有{0:extravalue:percent}機率 麻痺 目標）</DefaultText>
+			<DefaultText>每{0:value:duration}​造成{0:triggercount}​點​腐蝕​傷害，持續{0:triggervalue:duration}【命中​時】（每跳有​{0:extravalue:percent}機率​麻痺​目標）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>227</ID>
-			<DefaultText>強效化 禱歌將返還{0:value:straight}詠者 樂節。</DefaultText>
+			<DefaultText>強效化​禱歌​將返還{0:value:straight}​詠者的​樂節。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>228</ID>
-			<DefaultText>強效化 禱歌將完全填充詠者的 樂節 數</DefaultText>
+			<DefaultText>強效化​禱歌​將完全填充詠者的​樂節​數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>229</ID>
-			<DefaultText>強效化 禱歌將返還{0:value:straight}詠者 樂節，並有{0:extravalue:percent}的機率返還一點 &lt;g&gt;強效&lt;/g&gt;點數。</DefaultText>
+			<DefaultText>強效化​禱歌​將返還{0:value:straight}​詠者的​樂節，並有{0:extravalue:percent}​的機率返還一點強效點數。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>230</ID>
-			<DefaultText>{0:extravalue:percent} 傷害量的 &lt;g&gt;電擊&lt;/g&gt;傷害【每擁有一個詠者 樂節】</DefaultText>
+			<DefaultText>{0:extravalue:percent}​傷害​量的​電擊​傷害​【每擁有一個詠者​樂節】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>231</ID>
-			<DefaultText>{0:value:percent}機率立即 復原【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率立即​復原【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>232</ID>
-			<DefaultText>{0:value} 遠程武器 精準，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+			<DefaultText>{0:value}​遠程武器​精準，持續{0:extravalue:duration}【命中​時】（​疊加​最高{0:triggercount}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>233</ID>
-			<DefaultText>{0:value} 所有武器 精準，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次）</DefaultText>
+			<DefaultText>{0:value}​所有武器​精準，持續{0:extravalue:duration}【命中​時】（​疊加​最高{0:triggercount}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>234</ID>
-			<DefaultText>{0:value} 可 疊加 遠程攻擊 精準</DefaultText>
+			<DefaultText>{0:value}​可​疊加​遠程攻擊​精準</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>235</ID>
-			<DefaultText>{0:value:percent}機率 立即 復原【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率立即​復原【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>236</ID>
-			<DefaultText>0:value:percent}機率忽略 復原，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>0:value:percent}機率忽略​復原，持續{0:extravalue:duration}【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>237</ID>
-			<DefaultText>使用這把武器 &lt;g&gt;命中&lt;/g&gt;時，獲得 {0:value:percentbonus} 近戰武器 &lt;g&gt;復原&lt;/g&gt;時間，持續{0:extravalue:duration}</DefaultText>
+			<DefaultText>使用這把武器​命中​時，獲得​{0:value:percentbonus}​近戰武器​復原​時間，持續{0:extravalue:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>238</ID>
-			<DefaultText>使用這把武器 &lt;g&gt;命中&lt;/g&gt;時，獲得 {0:value:percentbonus} &lt;g&gt;復原&lt;/g&gt;時間，持續{0:extravalue:duration}</DefaultText>
+			<DefaultText>使用這把武器​命中​時，獲得​{0:value:percentbonus}​復原​時間，持續{0:extravalue:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>239</ID>
-			<DefaultText>-25% 近戰武器 &lt;g&gt;復原&lt;/g&gt;時間，持續30.0秒【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>-25%​近戰武器​復原​時間，持續30.0秒【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>240</ID>
-			<DefaultText>反彈火焰攻擊的 20% &lt;g&gt;灼燒&lt;/g&gt;傷害至攻擊者</DefaultText>
+			<DefaultText>反彈火焰攻擊的20%​灼燒​傷害​至攻擊者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>241</ID>
-			<DefaultText>50%機率 目盲 攻擊者，持續10.0秒【凝視攻擊 &lt;g&gt;失手&lt;/g&gt;時】</DefaultText>
+			<DefaultText>50%機率​目盲​攻擊者，持續10.0秒【凝視攻擊​失手​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>242</ID>
-			<DefaultText>{0:extravalue:percent}機率 暈眩 目標{0:value:duration}與倒地【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:extravalue:percent}機率​暈眩​目標{0:value:duration}​與倒地【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>243</ID>
-			<DefaultText>強效化 武器戰技將對無傷勢目標施加 傷勢</DefaultText>
+			<DefaultText>強效化​武器戰技將對無傷勢目標施加​傷勢</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>244</ID>
-			<DefaultText>{0:value} 最大 生命值，持續至戰鬥結束【使用武器擊殺時】</DefaultText>
+			<DefaultText>{0:value}​最大​生命值，持續至戰鬥結束【使用武器擊殺時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>245</ID>
-			<DefaultText>{0:value:percent}機率擊退並 暈眩 目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率擊退並​暈眩​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>246</ID>
-			<DefaultText>{0:value:percent}機率 定身 目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​定身​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>247</ID>
-			<DefaultText>{0:value:percent}機率對目標施放 &lt;link="gamedata://d8c72c57-398e-4d66-818e-11124fe01494"&gt;靡奧塔的小型飛彈術&lt;/link&gt;【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標施放 &lt;link="gamedata://d8c72c57-398e-4d66-818e-11124fe01494"&gt;靡奧塔的小型飛彈術&lt;/link&gt;【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>248</ID>
-			<DefaultText>無法被 夾擊</DefaultText>
+			<DefaultText>無法被​夾擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>249</ID>
-			<DefaultText>{0:value:percent}機率立刻 復原【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率立刻​復原【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>250</ID>
-			<DefaultText>{0:value:percentbonus} 傷害（隨 生存 技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​傷害（隨​生存​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>251</ID>
-			<DefaultText>為周圍同伴恢復{0:value} 生命值【擊殺 時】（隨 宗教 技能增強）</DefaultText>
+			<DefaultText>為周圍同伴恢復{0:value}​生命值【擊殺時】（隨​宗教​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>252</ID>
-			<DefaultText>{0:value:percent}機率 蹣跚 目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​蹣跚​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>253</ID>
-			<DefaultText>使用這把武器 &lt;g&gt;命中&lt;/g&gt;時，造成{0:value:percent}持續性 &lt;g&gt;真實&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>使用這把武器​命中​時，造成{0:value:percent}​持續性​真實​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>254</ID>
-			<DefaultText>{0:value:percent}機率立刻 復原【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率立刻​復原【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>255</ID>
-			<DefaultText>{0:value:percentbonus} 傷害【對被 夾擊 目標】（隨 隱匿 技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​傷害【對被​夾擊​目標】（隨​隱匿​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>256</ID>
-			<DefaultText>{0:value:percent}機率造成目標 困惑，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率造成目標​困惑，持續{0:extravalue:duration}【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>257</ID>
-			<DefaultText>若目標 煩亂 就造成 倒地【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>若目標​煩亂​就造成​倒地【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>258</ID>
-			<DefaultText>{0:value:percent} 武器的 &lt;g&gt;灼燒&lt;/g&gt;傷害作為 生命值 返還</DefaultText>
+			<DefaultText>{0:value:percent}​武器的​灼燒​傷害​作為​生命值​返還</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>259</ID>
-			<DefaultText>武器的 冰寒 傷害可以降低目標的最大 生命值，數值為傷害量的{0:extravalue:percent}</DefaultText>
+			<DefaultText>武器的​冰寒​傷害​可以降低目標的最大​生命值，數值為傷害量的{0:extravalue:percent}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>260</ID>
-			<DefaultText>{0:extravalue:percent}機率分裂射擊，發射{0:value:straight}枚投射物</DefaultText>
+			<DefaultText>{0:extravalue:percent}機率分裂射擊，發射{0:value:straight}​枚投射物</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>261</ID>
-			<DefaultText>注魔彈藥在 &lt;g&gt;命中&lt;/g&gt;時，{0:value:percent}機率對目標造成持續 &lt;g&gt;灼燒&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>注魔彈藥在​命中​時，{0:value:percent}機率對目標造成持續​灼燒​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>262</ID>
-			<DefaultText>注魔彈藥在 &lt;g&gt;命中&lt;/g&gt;時，{0:value:percent}機率將目標 石化</DefaultText>
+			<DefaultText>注魔彈藥在​命中​時，{0:value:percent}機率將目標​石化</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>263</ID>
-			<DefaultText>注魔彈藥在 &lt;g&gt;命中&lt;/g&gt;時，{0:value:percent}機率擊退並 打斷 目標</DefaultText>
+			<DefaultText>注魔彈藥在​命中​時，{0:value:percent}機率擊退並​打斷​目標</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1297,127 +1297,127 @@
 		</Entry>
 		<Entry>
 			<ID>265</ID>
-			<DefaultText>{0:value:percent}機率對目標施放隨機 熬煎【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標施放隨機​熬煎【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>266</ID>
-			<DefaultText>擊退4米範圍內的目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>擊退4米範圍內的目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>267</ID>
-			<DefaultText>第二次連續 &lt;g&gt;命中&lt;/g&gt;後摧毀低等級魂軀</DefaultText>
+			<DefaultText>第二次連續​命中​後摧毀低等級魂軀</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>268</ID>
-			<DefaultText>+3% 傷害造成量，持續至休息【擊殺時】（&lt;g&gt;疊加&lt;/g&gt;最高 20 次）</DefaultText>
+			<DefaultText>+3%​傷害​造成量，持續至休息【擊殺時】（​疊加​最高20次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>269</ID>
-			<DefaultText>{0:value:percent} 傷害，持續到休息【擊殺時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>{0:value:percent}​傷害，持續到休息【擊殺時】（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>270</ID>
-			<DefaultText>{0:value:percent}機率 打斷 承受 決心熬煎 的目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​打斷​承受​決心熬煎​的目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>271</ID>
-			<DefaultText>每{0:triggercount}對承受 決心熬煎 的目標造成{0:extravalue:duration}點 &lt;g&gt;真實&lt;/g&gt;傷害，持續{0:value:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>每{0:triggercount}​對承受​決心熬煎​的目標造成{0:extravalue:duration}​點​真實​傷害，持續{0:value:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>272</ID>
-			<DefaultText>對目標持續性流血 &lt;g&gt;真實&lt;/g&gt;傷害，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>對目標持續性流血​真實​傷害，持續{0:extravalue:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>273</ID>
-			<DefaultText>{0:value:percent}機率 打斷 目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​打斷​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>274</ID>
-			<DefaultText>&lt;g&gt;麻痺&lt;/g&gt;目標，持續{0:value:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>麻痺​目標，持續{0:value:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>275</ID>
-			<DefaultText>{0:value} 精準【目標裝備盾牌、中甲或重甲時】</DefaultText>
+			<DefaultText>{0:value}​精準【目標裝備盾牌、中甲或重甲時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>278</ID>
-			<DefaultText>{0:value:percent}機率立刻 復原【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率立刻​復原【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>279</ID>
-			<DefaultText>{0:value:percentbonus} 近戰 傷害對植物目標與擁有植物狀態效果目標</DefaultText>
+			<DefaultText>{0:value:percentbonus}​近戰​傷害對植物目標與擁有植物狀態效果目標</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>280</ID>
-			<DefaultText>{0:value} 對應 敏捷熬煎 的所有 防禦屬性【&lt;g&gt;生命值&lt;/g&gt;高於75%時】</DefaultText>
+			<DefaultText>{0:value}​對應​敏捷熬煎​的所有​防禦屬性【生命值​高於75%時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>281</ID>
-			<DefaultText>{0:value} 對應 毒素 攻擊的所有 防禦屬性【&lt;g&gt;生命值&lt;/g&gt;高於75%時】</DefaultText>
+			<DefaultText>{0:value}​對應​毒素​攻擊的所有​防禦屬性【生命值​高於75%時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>282</ID>
-			<DefaultText>暴擊 時，{0:value:percent}機率瞬間摧毀低等級原生物</DefaultText>
+			<DefaultText>暴擊​時，{0:value:percent}機率瞬間摧毀低等級原生物</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>283</ID>
-			<DefaultText>恢復{0:value}點 生命值【以武器擊殺時】</DefaultText>
+			<DefaultText>恢復{0:value}​點​生命值【以武器擊殺時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>284</ID>
-			<DefaultText>患病，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】（可被 強韌 抵抗）</DefaultText>
+			<DefaultText>患病，持續{0:extravalue:duration}【暴擊​時】（可被​強韌​抵抗）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>285</ID>
-			<DefaultText>{0:value:percent}機率對目標施放效應範圍的水流 鈍擊 傷害【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標施放效應範圍的水流​鈍擊​傷害【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>286</ID>
-			<DefaultText>{0:value:percent}機率召喚戰犬【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率召喚戰犬【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>287</ID>
-			<DefaultText>+10% 近戰傷害與 +5 格擋【&lt;g&gt;交戰&lt;/g&gt;時】。可 疊加 3 次</DefaultText>
+			<DefaultText>+10%​近戰傷害與 +5​格擋【交戰​時】。可​疊加​3次</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>288</ID>
-			<DefaultText>{0:value:percentbonus} 治療效果（隨 宗教 技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​治療效果（隨​宗教​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>289</ID>
-			<DefaultText>{0:value:percent}機率抵抗來襲法術（隨 宗教 技能增強）</DefaultText>
+			<DefaultText>{0:value:percent}機率抵抗來襲法術（隨​宗教​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>290</ID>
-			<DefaultText>持續性 &lt;g&gt;真實&lt;/g&gt;傷害，持續18.0秒【對 生命值 低於25%的目標，&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>持續性​真實​傷害，持續18.0秒【對​生命值​低於25%的目標，命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>291</ID>
-			<DefaultText>{0:value:percentbonus} 行動速度，持續{0:extravalue:duration}【在死亡敵人附近時】（隨 宗教 技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​行動速度，持續{0:extravalue:duration}【在死亡敵人附近時】（隨​宗教​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1427,12 +1427,12 @@
 		</Entry>
 		<Entry>
 			<ID>293</ID>
-			<DefaultText>{0:value:percentbonus} 所受近戰傷害，持續{0:extravalue:duration}【攻擊時】</DefaultText>
+			<DefaultText>{0:value:percentbonus}所受近戰​傷害，持續{0:extravalue:duration}【攻擊時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>294</ID>
-			<DefaultText>發動攻擊後{0:value:duration}內，{0:extravalue:percent}來襲近戰攻擊傷害將作為 &lt;g&gt;真實&lt;/g&gt;傷害返還給攻擊者</DefaultText>
+			<DefaultText>發動攻擊後{0:value:duration}​內，{0:extravalue:percent}​來襲近戰攻擊傷害將作為​真實​傷害​返還給攻擊者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1442,7 +1442,7 @@
 		</Entry>
 		<Entry>
 			<ID>296</ID>
-			<DefaultText>{0:value:percentbonus} 行動速度【受近戰 &lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:triggercount}次，移動時清除）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​行動速度【受近戰​命中​時】（​疊加​最高{0:triggercount}​次，移動時清除）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1462,47 +1462,47 @@
 		</Entry>
 		<Entry>
 			<ID>300</ID>
-			<DefaultText>{0:extravalue:percent}機率毒素、腐爛 或疾病攻擊不造成傷害，而是恢復{0:value:percent} 生命值</DefaultText>
+			<DefaultText>{0:extravalue:percent}機率​毒素、腐爛​或疾病攻擊不造成傷害，而是恢復{0:value:percent}​生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>301</ID>
-			<DefaultText>有{0:value:percent}機率對攻擊者造成 揮砍 傷害【受到近戰揮砍傷害時】</DefaultText>
+			<DefaultText>有{0:value:percent}機率對攻擊者造成​揮砍​傷害【受到近戰揮砍傷害時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>302</ID>
-			<DefaultText>{0:extravalue} 意志，隨損失 生命值 增強（最高{0:value}意志）</DefaultText>
+			<DefaultText>{0:extravalue}​意志，隨損失​生命值​增強（最高{0:value}​意志）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>303</ID>
-			<DefaultText>每{0:interval}承受灼燒之脈攻擊</DefaultText>
+			<DefaultText>每{0:interval}​承受灼燒之脈攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>304</ID>
-			<DefaultText>被近戰 &lt;g&gt;暴擊&lt;/g&gt;時，{0:value:percent}機率對敵人發動隨機 熬煎 攻擊，持續{0:extravalue:duration}</DefaultText>
+			<DefaultText>被近戰​暴擊​時，{0:value:percent}機率對敵人發動隨機​熬煎​攻擊，持續{0:extravalue:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>305</ID>
-			<DefaultText>敵對效應範圍 &lt;g&gt;真實&lt;/g&gt;傷害【昏迷 時】</DefaultText>
+			<DefaultText>敵對效應範圍​真實​傷害​【昏迷​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>306</ID>
-			<DefaultText>被 &lt;g&gt;命中&lt;/g&gt;後獲得{0:value} 格擋 與{0:extravalue} 反射 直至戰鬥結束（&lt;g&gt;疊加&lt;/g&gt;最高 {0:triggervalue:straight} 次）</DefaultText>
+			<DefaultText>被​命中​後獲得{0:value}​格擋​與{0:extravalue}​反射​直至戰鬥結束（​疊加​最高​{0:triggervalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>307</ID>
-			<DefaultText>如果關係為正面，亞洛斯+1 護甲值</DefaultText>
+			<DefaultText>如果關係為正面，亞洛斯+1​護甲值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>308</ID>
-			<DefaultText>如果關係為非常正面，亞洛斯+3 護甲值</DefaultText>
+			<DefaultText>如果關係為非常正面，亞洛斯+3​護甲值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1512,7 +1512,7 @@
 		</Entry>
 		<Entry>
 			<ID>310</ID>
-			<DefaultText>{0:value:percentbonus} 因脫戰攻擊與 夾擊 攻擊所受到的傷害</DefaultText>
+			<DefaultText>{0:value:percentbonus}​因脫戰攻擊與​夾擊​攻擊所受到的​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1522,92 +1522,92 @@
 		</Entry>
 		<Entry>
 			<ID>312</ID>
-			<DefaultText>{0:value} 格擋【對遠程武器】（隨 隱匿 技能增強）</DefaultText>
+			<DefaultText>{0:value}​格擋【對遠程武器】（隨​隱匿​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>313</ID>
-			<DefaultText>遭受的遠程武器攻擊 &lt;g&gt;失手&lt;/g&gt;後{0:value:percent}的遠程武器 &lt;g&gt;命中&lt;/g&gt;轉為 暴擊，持續{0:extravalue:duration}</DefaultText>
+			<DefaultText>遭受的遠程武器攻擊​失手​後{0:value:percent}​的遠程武器​命中​轉為​暴擊，持續{0:extravalue:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>314</ID>
-			<DefaultText>{0:value} 格擋【被 夾擊 時】</DefaultText>
+			<DefaultText>{0:value}​格擋【被​夾擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>315</ID>
-			<DefaultText>{0:extravalue} 所有 防禦屬性（隨佩戴者 生命值 減少而降低）</DefaultText>
+			<DefaultText>{0:extravalue}​所有​防禦屬性（隨佩戴者​生命值​減少而降低）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>316</ID>
-			<DefaultText>被 &lt;g&gt;暴擊&lt;/g&gt;時每{0:triggervalue:duration} {0:value} 生命值，持續{0:extravalue:duration}（治療量隨佩戴者 生命值 減少而增加）</DefaultText>
+			<DefaultText>被​暴擊​時每{0:triggervalue:duration}​{0:value}​生命值，持續{0:extravalue:duration}​（治療量隨佩戴者​生命值​減少而增加）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>317</ID>
-			<DefaultText>+3 精準。隨佩戴者 生命值 減少而增加</DefaultText>
+			<DefaultText>+3​精準。隨佩戴者​生命值​減少而增加</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>318</ID>
-			<DefaultText>護甲值 隨佩戴者 生命值 減少而增加（最高{0:extravalue}護甲值}）</DefaultText>
+			<DefaultText>護甲值​隨佩戴者​生命值​減少而增加（最高{0:extravalue}​護甲值}​）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>319</ID>
-			<DefaultText>近戰武器 傷害 隨佩戴者 生命值 減少而增加（最高{0:extravalue:percent}傷害）</DefaultText>
+			<DefaultText>近戰武器​傷害​隨佩戴者​生命值​減少而增加（最高{0:extravalue:percent}​傷害）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>320</ID>
-			<DefaultText>{0:value:percentbonus} 近戰所受傷害【被 夾擊 時】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​近戰所受​傷害【被​夾擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>322</ID>
-			<DefaultText>單手每{0:interval}獲得{0:value:straight}{0:damagetype}傷害，持續{0:extravalue:duration}</DefaultText>
+			<DefaultText>單手每{0:interval}​獲得{0:value:straight}​{0:damagetype}​傷害，持續{0:extravalue:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>323</ID>
-			<DefaultText>雙手獲得 踉蹌 效果，持續{0:extravalue:duration}</DefaultText>
+			<DefaultText>雙手獲得​踉蹌​效果，持續{0:extravalue:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>324</ID>
-			<DefaultText>遠程獲得{0:value} 穿透</DefaultText>
+			<DefaultText>遠程獲得{0:value}​穿透</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>325</ID>
-			<DefaultText>雙手獲得 暈眩，持續{0:extravalue:duration}</DefaultText>
+			<DefaultText>雙手獲得​暈眩，持續{0:extravalue:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>326</ID>
-			<DefaultText>遠程獲得{0:value} &lt;g&gt;穿透&lt;/g&gt;與 {0:extravalue:percentbonus} 額外傷害</DefaultText>
+			<DefaultText>遠程獲得{0:value}​穿透與​{0:extravalue:percentbonus}​額外傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>327</ID>
-			<DefaultText>每{0:interval} {0:value} 生命值【生命值低於{0:extravalue:percent}時】</DefaultText>
+			<DefaultText>每{0:interval}​{0:value}​生命值【生命值低於{0:extravalue:percent}​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>328</ID>
-			<DefaultText>{0:value} 所有植物戰技 威力等級</DefaultText>
+			<DefaultText>{0:value}​所有植物戰技​威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>329</ID>
-			<DefaultText>{0:value:percentbonus}所造成的 熬煎 持續時間</DefaultText>
+			<DefaultText>{0:value:percentbonus}​所造成的​熬煎​持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>330</ID>
-			<DefaultText>每{0:interval}造成的 傷害 的{0:value:percent}將會重新施加，持續{0:extravalue:duration}</DefaultText>
+			<DefaultText>每{0:interval}​造成的​傷害​的{0:value:percent}​將會重新施加，持續{0:extravalue:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1617,7 +1617,7 @@
 		</Entry>
 		<Entry>
 			<ID>332</ID>
-			<DefaultText>造成的傷害的{0:value:percent}作為 &lt;g&gt;真實&lt;/g&gt;傷害施加給自身</DefaultText>
+			<DefaultText>造成的傷害的{0:value:percent}​作為​真實​傷害​施加給自身</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1627,12 +1627,12 @@
 		</Entry>
 		<Entry>
 			<ID>334</ID>
-			<DefaultText>&lt;g&gt;集中值&lt;/g&gt;全滿</DefaultText>
+			<DefaultText>集中值​全滿</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>335</ID>
-			<DefaultText>失去所有 集中值</DefaultText>
+			<DefaultText>失去所有​集中值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1642,62 +1642,62 @@
 		</Entry>
 		<Entry>
 			<ID>337</ID>
-			<DefaultText>武器 穿透 與使用者等級一起提升</DefaultText>
+			<DefaultText>武器​穿透​與使用者等級一起提升</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>338</ID>
-			<DefaultText>治療使用者並對目標施加 &lt;g&gt;真實&lt;/g&gt;傷害【被 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>治療使用者並對目標施加​真實​傷害​【被​命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>339</ID>
-			<DefaultText>{0:value:percent} 所受傷害量轉為 集中值 返還</DefaultText>
+			<DefaultText>{0:value:percent}​所受傷害量轉為​集中值​返還</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>340</ID>
-			<DefaultText>+10%轉壞為 &lt;g&gt;腐蝕&lt;/g&gt;的傷害，效果持續至戰鬥結束為止【&lt;g&gt;暴擊&lt;/g&gt;時】。最高 疊加 10次</DefaultText>
+			<DefaultText>+10%轉壞為​腐蝕​的傷害，效果持續至戰鬥結束為止【暴擊​時】。最高​疊加​10次</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>341</ID>
-			<DefaultText>施放「法術擾亂」【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>施放「法術擾亂」【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>342</ID>
-			<DefaultText>&lt;g&gt;暴擊&lt;/g&gt;會對週遭所有敵人造成傷害</DefaultText>
+			<DefaultText>暴擊​會對週遭所有敵人造成傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>343</ID>
-			<DefaultText>{0:value:percentbonus} &lt;g&gt;苦痛&lt;/g&gt;臨界值</DefaultText>
+			<DefaultText>{0:value:percentbonus}​苦痛​臨界值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>344</ID>
-			<DefaultText>{0:value} 最大 &lt;g&gt;苦痛&lt;/g&gt;數</DefaultText>
+			<DefaultText>{0:value}​最大​苦痛​數</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>345</ID>
-			<DefaultText>1階 熬煎（目標），1階 啟迪（自身）</DefaultText>
+			<DefaultText>1階​熬煎（目標），1階​啟迪（自身）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>346</ID>
-			<DefaultText>每{0:interval}，{0:value}近戰精準，效果持續到戰鬥結束（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>每{0:interval}，{0:value}​近戰精準，效果持續到戰鬥結束（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>347</ID>
-			<DefaultText>被 &lt;g&gt;暴擊&lt;/g&gt;時額外 {0:value} &lt;g&gt;意志&lt;/g&gt;直到戰鬥結束（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>被​暴擊​時額外​{0:value}​意志​直到戰鬥結束（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>348</ID>
-			<DefaultText>{0:value} 體質【&lt;g&gt;暴擊&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>{0:value}​體質【暴擊​時】（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1707,17 +1707,17 @@
 		</Entry>
 		<Entry>
 			<ID>350</ID>
-			<DefaultText>{0:value:percentbonus} &lt;g&gt;復原&lt;/g&gt;時間（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​復原​時間（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>351</ID>
-			<DefaultText>{0:value} 格擋【對近戰武器】</DefaultText>
+			<DefaultText>{0:value}​格擋【對近戰武器】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>352</ID>
-			<DefaultText>反擊敵人【敵人近戰 &lt;g&gt;失手&lt;/g&gt;時】（對目標造成 暈眩）</DefaultText>
+			<DefaultText>反擊敵人【敵人近戰​失手​時】（對目標造成​暈眩）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1727,7 +1727,7 @@
 		</Entry>
 		<Entry>
 			<ID>354</ID>
-			<DefaultText>受傷會造成 打斷</DefaultText>
+			<DefaultText>受傷會造成​打斷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1737,17 +1737,17 @@
 		</Entry>
 		<Entry>
 			<ID>357</ID>
-			<DefaultText>免疫 專注</DefaultText>
+			<DefaultText>免疫​專注</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>358</ID>
-			<DefaultText>{0:value} 名敵人才會被 夾擊</DefaultText>
+			<DefaultText>{0:value}​名敵人才會被​夾擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>359</ID>
-			<DefaultText>{0:value:percentbonus} 傷害【對易受偷襲攻擊的目標】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​傷害【對易受偷襲攻擊的目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1757,62 +1757,62 @@
 		</Entry>
 		<Entry>
 			<ID>361</ID>
-			<DefaultText>{0:value} 精準【對被標記目標】</DefaultText>
+			<DefaultText>{0:value}​精準【對被標記目標】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>362</ID>
-			<DefaultText>{0:value:percent}的基礎武器傷害作用於區域【武器 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}​的基礎武器傷害作用於區域【武器​命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>363</ID>
-			<DefaultText>增加隊伍手槍、火繩槍與火銃的傷害 {0}%</DefaultText>
+			<DefaultText>增加隊伍手槍、火繩槍與火銃的傷害​{0}​%</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>364</ID>
-			<DefaultText>取消 &lt;g&gt;樂節&lt;/g&gt;餘音</DefaultText>
+			<DefaultText>取消​樂節​餘音</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>372</ID>
-			<DefaultText>{0:value:percentbonus} 熬煎 和 啟迪 持續時間【&lt;g&gt;強效化&lt;/g&gt;攻擊時】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​熬煎​和​啟迪​持續時間【強效化​攻擊時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>375</ID>
-			<DefaultText>（當前加成：{0:value}）{0:extravalue} 力量【每點 &lt;g&gt;苦痛&lt;/g&gt;】</DefaultText>
+			<DefaultText>（當前加成：{0:value}）{0:extravalue}​力量【每點​苦痛​】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>376</ID>
-			<DefaultText>（當前加成：{0:value:percentbonus}）{0:extravalue:bonuspercentbonus} 所有所受傷害【每點 &lt;g&gt;苦痛&lt;/g&gt;】</DefaultText>
+			<DefaultText>（當前加成：{0:value:percentbonus}​）{0:extravalue:bonuspercentbonus}​所有所受傷害【每點​苦痛​】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>377</ID>
-			<DefaultText>{0:value}對應植物攻擊的所有 防禦屬性【&lt;g&gt;生命值&lt;/g&gt;高於{0:extravalue:percent}時】</DefaultText>
+			<DefaultText>{0:value}​對應植物攻擊的所有​防禦屬性【生命值​高於{0:extravalue:percent}​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>378</ID>
-			<DefaultText>{0:value}對應植物攻擊的所有 防禦屬性【&lt;g&gt;生命值&lt;/g&gt;高於{0:extravalue:percent}時】</DefaultText>
+			<DefaultText>{0:value}​對應植物攻擊的所有​防禦屬性【生命值​高於{0:extravalue:percent}​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>379</ID>
-			<DefaultText>{0:value:percent}機率 震懾 目標{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​震懾​目標{0:extravalue:duration}【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>380</ID>
-			<DefaultText>{0:value:percent}機率 震懾 目標{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;且使用者為矮人時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​震懾​目標{0:extravalue:duration}【命中​且使用者為矮人時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>381</ID>
-			<DefaultText>{0:value:percent}機率對目標施放隨機 心智熬煎，持續{0:extravalue:duration}【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對目標施放隨機 心智熬煎，持續{0:extravalue:duration}【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1827,27 +1827,27 @@
 		</Entry>
 		<Entry>
 			<ID>384</ID>
-			<DefaultText>{0:value:percent}所受傷害量作為 &lt;g&gt;真實&lt;/g&gt;傷害再次施加</DefaultText>
+			<DefaultText>{0:value:percent}​所受傷害量作為​真實​傷害​再次施加</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>388</ID>
-			<DefaultText>{0:value:percent}事故機率</DefaultText>
+			<DefaultText>{0:value:percent}​事故機率</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>389</ID>
-			<DefaultText>{0:value} 威力等級（僅食屍徒有效）</DefaultText>
+			<DefaultText>{0:value}​威力等級​（僅食屍徒有效）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>390</ID>
-			<DefaultText>{0:value} 水系 與 冰霜 系戰技 威力等級</DefaultText>
+			<DefaultText>{0:value}​水系 與 冰霜 系戰技​威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>391</ID>
-			<DefaultText>造成 穿刺/揮砍 傷害</DefaultText>
+			<DefaultText>造成​穿刺/揮砍​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1857,7 +1857,7 @@
 		</Entry>
 		<Entry>
 			<ID>393</ID>
-			<DefaultText>{0:value:percent}機率造成區域 &lt;g&gt;灼燒&lt;/g&gt;傷害【瑪阿曼匕首 &lt;g&gt;命中&lt;/g&gt;敵人時】</DefaultText>
+			<DefaultText>{0:value:percent}機率造成區域​灼燒​傷害​【瑪阿曼匕首​命中​敵人時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1867,7 +1867,7 @@
 		</Entry>
 		<Entry>
 			<ID>396</ID>
-			<DefaultText>0:extravalue:percentbonus} 武器 傷害【每名 交戰 敵人】</DefaultText>
+			<DefaultText>0:extravalue:percentbonus}​武器​傷害【每名​交戰​敵人】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1877,22 +1877,22 @@
 		</Entry>
 		<Entry>
 			<ID>398</ID>
-			<DefaultText>暴擊 時，會讓 沉默 等級較低的敵人5秒，使其無法使用主動戰技</DefaultText>
+			<DefaultText>暴擊​時，會讓 沉默 等級較低的敵人5秒，使其無法使用主動戰技</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>399</ID>
-			<DefaultText>暴擊 時，會造成 蹣跚 或 噁心 的 熬煎，持續{0:extravalue:duration}。</DefaultText>
+			<DefaultText>暴擊​時，會造成​蹣跚​或​噁心​的​熬煎，持續{0:extravalue:duration}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>400</ID>
-			<DefaultText>昏迷 時，給予區域內所有同伴 堅定 效果，持續{0:extravalue:duration}，並對區域內所有敵人進行 全武器攻擊。</DefaultText>
+			<DefaultText>昏迷​時，給予區域內所有同伴​堅定 效果，持續{0:extravalue:duration}，並對區域內所有敵人進行​全武器攻擊。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>401</ID>
-			<DefaultText>獲得 決心熬煎 免疫【當 生命值 低於{0:extravalue:percent}時】</DefaultText>
+			<DefaultText>獲得​決心熬煎​免疫【當​生命值​低於{0:extravalue:percent}​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1902,27 +1902,27 @@
 		</Entry>
 		<Entry>
 			<ID>403</ID>
-			<DefaultText>（當前增益：{0:value:percentbonus}）每有一位 交戰中 的目標，所受 傷害 {0:extravalue:percentbonus}</DefaultText>
+			<DefaultText>（當前增益：{0:value:percentbonus}​）每有一位​交戰中 的目標，所受​傷害​{0:extravalue:percentbonus}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>404</ID>
-			<DefaultText>（當前增益：{0:value:percentbonus}）每有一位威脅中的目標，復原 {0:extravalue:percentbonus}</DefaultText>
+			<DefaultText>（當前增益：{0:value:percentbonus}​）每有一位威脅中的目標，復原​{0:extravalue:percentbonus}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>405</ID>
-			<DefaultText>使用 &lt;g&gt;暴擊&lt;/g&gt;擊殺時，造成範圍 &lt;g&gt;灼燒&lt;/g&gt;傷害</DefaultText>
+			<DefaultText>使用​暴擊​擊殺時，造成範圍​灼燒​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>406</ID>
-			<DefaultText>{0:value:percent}機率在小範圍內造成 &lt;g&gt;灼燒&lt;/g&gt;傷害【命中 或 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率在小範圍內造成​灼燒​傷害​【命中​或​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>407</ID>
-			<DefaultText>{0:value:percent}機率清除下一次 復原【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率清除下一次​復原【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -1932,67 +1932,67 @@
 		</Entry>
 		<Entry>
 			<ID>409</ID>
-			<DefaultText>每{0:extravalue:duration}都有{0:value:percent}機率嘔吐【宿醉 時】</DefaultText>
+			<DefaultText>每{0:extravalue:duration}​都有{0:value:percent}機率嘔吐【宿醉 時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>410</ID>
-			<DefaultText>{0:value} 所有 威力等級【宿醉 時】</DefaultText>
+			<DefaultText>{0:value}​所有​威力等級​【宿醉 時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>411</ID>
-			<DefaultText>生命值 越低，格擋 加成越高。當生命值為0%時，最高格擋加成為{0:value}</DefaultText>
+			<DefaultText>生命值​越低，格擋​加成越高。當生命值為0%時，最高格擋加成為{0:value}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>412</ID>
-			<DefaultText>生命值 處於25%以下時無法移動</DefaultText>
+			<DefaultText>生命值​處於25%以下時無法移動</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>413</ID>
-			<DefaultText>在戰鬥中，首次被敵人 交戰 時，自身獲得 聰明 啟迪，並使敵人陷入 困惑 熬煎，持續{0:value:duration}。</DefaultText>
+			<DefaultText>在戰鬥中，首次被敵人​交戰​時，自身獲得​聰明​啟迪，並使敵人陷入​困惑​熬煎，持續{0:value:duration}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>414</ID>
-			<DefaultText>生命值 處於25%以下時，每{0:interval}獲得{0:extravalue} 護甲值 與{0:value}生命值</DefaultText>
+			<DefaultText>生命值​處於25%以下時，每{0:interval}​獲得{0:extravalue}​護甲值​與{0:value}​生命值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>415</ID>
-			<DefaultText>在戰鬥中，與敵人首次 交戰 時可 打斷 目標。</DefaultText>
+			<DefaultText>在戰鬥中，與敵人首次​交戰​時可​打斷​目標。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>416</ID>
-			<DefaultText>在戰鬥中，首次被敵人 交戰 時獲得 聰明 啟迪，持續{0:value:duration}。</DefaultText>
+			<DefaultText>在戰鬥中，首次被敵人​交戰​時獲得​聰明​啟迪，持續{0:value:duration}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>417</ID>
-			<DefaultText>當關係為負面時，亞洛斯的 護甲值 {0:value}</DefaultText>
+			<DefaultText>當關係為負面時，亞洛斯的​護甲值​{0:value}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>418</ID>
-			<DefaultText>當關係為非常負面時，亞洛斯的 護甲值 {0:value}</DefaultText>
+			<DefaultText>當關係為非常負面時，亞洛斯的​護甲值​{0:value}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>419</ID>
-			<DefaultText>當關係為負面時，艾德爾的 護甲值 {0:value}</DefaultText>
+			<DefaultText>當關係為負面時，艾德爾的​護甲值​{0:value}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>420</ID>
-			<DefaultText>當關係為負面時，艾德爾的 護甲值 {0:value}</DefaultText>
+			<DefaultText>當關係為負面時，艾德爾的​護甲值​{0:value}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>421</ID>
-			<DefaultText>{0:value:percent} 傷害所受量轉化為治療</DefaultText>
+			<DefaultText>{0:value:percent}​傷害所受量轉化為治療</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2007,77 +2007,77 @@
 		</Entry>
 		<Entry>
 			<ID>424</ID>
-			<DefaultText>被火焰攻擊 &lt;g&gt;暴擊&lt;/g&gt;時會被 打斷，&lt;g&gt;意志&lt;/g&gt;也會{0:value}，持續{0:extravalue:duration}</DefaultText>
+			<DefaultText>被火焰攻擊​暴擊​時會被​打斷，意志​也會{0:value}，持續{0:extravalue:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>425</ID>
-			<DefaultText>根據使用者的職業獲得一項戰技和 {0:value} 屬性。</DefaultText>
+			<DefaultText>根據使用者的職業獲得一項戰技和​{0:value}​屬性。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>426</ID>
-			<DefaultText>使用這把劍擊殺 &lt;g&gt;基斯&lt;/g&gt;敵人時，會產生一個陰影，持續{0:extravalue:duration}。</DefaultText>
+			<DefaultText>使用這把劍擊殺​基斯​敵人時，會產生一個陰影，持續{0:extravalue:duration}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>427</ID>
-			<DefaultText>{0:extravalue:percentbonus} &lt;g&gt;命中&lt;/g&gt;轉為 暴擊【每點 狡詐】</DefaultText>
+			<DefaultText>{0:extravalue:percentbonus}​命中​轉為​暴擊【每點​狡詐】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>428</ID>
-			<DefaultText>{0:extravalue:percentbonus} &lt;g&gt;暴擊&lt;/g&gt;傷害【每點 狡詐】</DefaultText>
+			<DefaultText>{0:extravalue:percentbonus}​暴擊​傷害【每點​狡詐】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>429</ID>
-			<DefaultText>{0:value:percent} &lt;g&gt;傷害&lt;/g&gt;造成量會轉化為治療效果</DefaultText>
+			<DefaultText>{0:value:percent}​傷害​造成量會轉化為治療效果</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>430</ID>
-			<DefaultText>{0:value:percent}機率立刻再次發動攻擊【使用近戰武器 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率立刻再次發動攻擊【使用近戰武器​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>431</ID>
-			<DefaultText>（當前加成：{0:value}）{0:extravalue} 精準【每點 苦痛】</DefaultText>
+			<DefaultText>（當前加成：{0:value}）{0:extravalue}​精準【每點​苦痛】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>432</ID>
-			<DefaultText>{0:value:percent} &lt;g&gt;傷害&lt;/g&gt;所受量反彈給攻擊者</DefaultText>
+			<DefaultText>{0:value:percent}​傷害​所受量反彈給攻擊者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>433</ID>
-			<DefaultText>（當前加成：{0:value:percentbonus}）每有一點 集中值，區域攻擊範圍{0:extravalue:percentbonus}</DefaultText>
+			<DefaultText>（當前加成：{0:value:percentbonus}​）每有一點​集中值，區域攻擊範圍{0:extravalue:percentbonus}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>434</ID>
-			<DefaultText>（當前加成：{0:value}）當站立不動時，每{0:interval} 護甲值 {0:extravalue}</DefaultText>
+			<DefaultText>（當前加成：{0:value}）當站立不動時，每{0:interval}​護甲值​{0:extravalue}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>435</ID>
-			<DefaultText>（當前加成：{0:value}）{0:extravalue} 體質【每點 苦痛】</DefaultText>
+			<DefaultText>（當前加成：{0:value}）{0:extravalue}​體質【每點​苦痛】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>436</ID>
-			<DefaultText>（當前加成：{0:value}）{0:extravalue} 智力【每點 苦痛】</DefaultText>
+			<DefaultText>（當前加成：{0:value}）{0:extravalue}​智力【每點​苦痛】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>437</ID>
-			<DefaultText>（當前加成：{0:value:bonuspercentbonus}）{0:extravalue:percentbonus} &lt;g&gt;{0:damagetype}&lt;/g&gt;傷害【每點 苦痛】</DefaultText>
+			<DefaultText>（當前加成：{0:value:bonuspercentbonus}​）{0:extravalue:percentbonus}​{0:damagetype}​傷害【每點​苦痛】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>438</ID>
-			<DefaultText>（當前加成：{0:value}）{0:extravalue} 護甲值【每點 苦痛】</DefaultText>
+			<DefaultText>（當前加成：{0:value}）{0:extravalue}​護甲值【每點​苦痛】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2087,32 +2087,32 @@
 		</Entry>
 		<Entry>
 			<ID>442</ID>
-			<DefaultText>{0:value:percent}機率 打斷 目標【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​打斷​目標【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>443</ID>
-			<DefaultText>{0:value:percent} &lt;g&gt;傷害&lt;/g&gt;造成量轉化為 集中值</DefaultText>
+			<DefaultText>{0:value:percent}​傷害​造成量轉化為​集中值</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>444</ID>
-			<DefaultText>在戰鬥中第一次受到 熬煎 時，隨機獲得上述 啟迪 之一。</DefaultText>
+			<DefaultText>在戰鬥中第一次受到​熬煎​時，隨機獲得上述​啟迪​之一。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>445</ID>
-			<DefaultText>使用武器時，對等級較低的 &lt;g&gt;基斯&lt;/g&gt;敵人的最後一擊必為 暴擊</DefaultText>
+			<DefaultText>使用武器時，對等級較低的​基斯​敵人的最後一擊必為​暴擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>446</ID>
-			<DefaultText>被近戰攻擊 &lt;g&gt;暴擊&lt;/g&gt;時，有{0:value:percent}機率使攻擊者陷入 困惑 狀態（升級後，暴擊也會造成 魅惑）</DefaultText>
+			<DefaultText>被近戰攻擊​暴擊​時，有{0:value:percent}機率使攻擊者陷入​困惑​狀態（升級後，暴擊也會造成​魅惑）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>447</ID>
-			<DefaultText>使用這把武器 &lt;g&gt;命中&lt;/g&gt;目標時，{0:value:percent}機率清除目標的 專注。</DefaultText>
+			<DefaultText>使用這把武器​命中​目標時，{0:value:percent}機率清除目標的​專注。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2122,12 +2122,12 @@
 		</Entry>
 		<Entry>
 			<ID>450</ID>
-			<DefaultText>{0:value:percentbonus}行動速度（生命值損失時，效果會提高）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​行動速度（生命值損失時，效果會提高）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>451</ID>
-			<DefaultText>攻擊時，有{0:value:percent}機率以自身為中心，在錐狀區域內造成 &lt;g&gt;腐蝕&lt;/g&gt;傷害，並使目標陷入 蹣跚 狀態</DefaultText>
+			<DefaultText>攻擊時，有{0:value:percent}機率以自身為中心，在錐狀區域內造成​腐蝕​傷害，並使目標陷入​蹣跚​狀態</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2137,57 +2137,57 @@
 		</Entry>
 		<Entry>
 			<ID>453</ID>
-			<DefaultText>使用武器擊殺目標後，附近的敵人會陷入 煩亂 狀態中，持續{0:value:duration}。</DefaultText>
+			<DefaultText>使用武器擊殺目標後，附近的敵人會陷入​煩亂​狀態中，持續{0:value:duration}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>454</ID>
-			<DefaultText>{0:value:percent}機率觸發 奔雷勁【武器 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率觸發 奔雷勁【武器​命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>455</ID>
-			<DefaultText>&lt;g&gt;命中&lt;/g&gt;時，為目標疊加一層狀態效果。&lt;g&gt;暴擊&lt;/g&gt;時，區域內所有敵人失去全部疊加裝填。敵人每有一層疊加狀態，就會受到{0:extravalue} &lt;g&gt;電擊&lt;/g&gt;傷害。</DefaultText>
+			<DefaultText>命中​時，為目標疊加一層狀態效果。暴擊​時，區域內所有敵人失去全部疊加裝填。敵人每有一層疊加狀態，就會受到{0:extravalue}​電擊​傷害。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>456</ID>
-			<DefaultText>被近戰武器 &lt;g&gt;命中&lt;/g&gt;時，有{0:value:percent}機率 震懾 攻擊者8.0秒。</DefaultText>
+			<DefaultText>被近戰武器​命中​時，有{0:value:percent}機率​震懾​攻擊者8.0秒。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>457</ID>
-			<DefaultText>{0:value}秒千刀萬剮效果的持續時間</DefaultText>
+			<DefaultText>{0:value}​秒千刀萬剮效果的持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>458</ID>
-			<DefaultText>所有區域內的敵人都會陷入 迷離 狀態，持續{0:extravalue:duration}。</DefaultText>
+			<DefaultText>所有區域內的敵人都會陷入​迷離​狀態，持續{0:extravalue:duration}。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>459</ID>
-			<DefaultText>+{0:value:percent} 傷害量的 &lt;g&gt;灼燒&lt;/g&gt;傷害【&lt;g&gt;生命值&lt;/g&gt;高於{0:extravalue:percent}時】。+{0:value:percent} 傷害量的 &lt;g&gt;冰寒&lt;/g&gt;傷害【生命值低於{0:extravalue:percent}時】。</DefaultText>
+			<DefaultText>+{0:value:percent}​傷害量的​灼燒​傷害​【生命值​高於{0:extravalue:percent}​時】。+{0:value:percent}​傷害量的​冰寒​傷害【生命值低於{0:extravalue:percent}​時】。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>460</ID>
-			<DefaultText>當關係為負面時，{0:value} 護甲值。當關係為非常負面時，{0:extravalue} 護甲值。</DefaultText>
+			<DefaultText>當關係為負面時，{0:value}​護甲值。當關係為非常負面時，{0:extravalue}​護甲值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>462</ID>
-			<DefaultText>當關係為正面時，{0:value} 護甲值。當關係為非常正面時，{0:extravalue} 護甲值。</DefaultText>
+			<DefaultText>當關係為正面時，{0:value}​護甲值。當關係為非常正面時，{0:extravalue}​護甲值。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>463</ID>
-			<DefaultText>當關係為正面時，{0:value}全部 防禦屬性（格擋 除外）。當關係為非常正面時，{0:extravalue}全部 防禦屬性（格擋 除外）。</DefaultText>
+			<DefaultText>當關係為正面時，{0:value}​全部​防禦屬性（格擋​除外）。當關係為非常正面時，{0:extravalue}​全部​防禦屬性（格擋​除外）。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>464</ID>
-			<DefaultText>當關係為負面時，{0:value:percentbonus} 傷害。當關係為非常負面時，{0:extravalue:percentbonus} 傷害。</DefaultText>
+			<DefaultText>當關係為負面時，{0:value:percentbonus}​傷害。當關係為非常負面時，{0:extravalue:percentbonus}​傷害。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2197,27 +2197,27 @@
 		</Entry>
 		<Entry>
 			<ID>469</ID>
-			<DefaultText>當與敵人進行 交戰 時，在短暫時間內隨機獲得{0:value} 護甲值、{0:value} 額外 穿透 或 {0:extravalue:percentbonus} &lt;g&gt;復原&lt;/g&gt;時間。</DefaultText>
+			<DefaultText>當與敵人進行​交戰​時，在短暫時間內隨機獲得{0:value}​護甲值、{0:value}​額外​穿透​或​{0:extravalue:percentbonus}​復原​時間。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>470</ID>
-			<DefaultText>{0:value} 目標 格擋，持續45.0秒【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高 5 次）</DefaultText>
+			<DefaultText>{0:value}​目標​格擋，持續45.0秒【命中​時】（​疊加​最高 5 次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>471</ID>
-			<DefaultText>{0:value:percentbonus} 目標 &lt;g&gt;復原&lt;/g&gt;時間【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高 5 次）</DefaultText>
+			<DefaultText>{0:value:percentbonus}目標​復原​時間【命中​時】（​疊加​最高 5 次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>472</ID>
-			<DefaultText>{0:value:percentbonus} 行動速度，持續至戰鬥結束【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​行動速度，持續至戰鬥結束【命中​時】（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>473</ID>
-			<DefaultText>施放一個隨機風暴類法術，每次遭遇 一次【&lt;g&gt;生命值&lt;/g&gt;低於{0:value:percent}時】</DefaultText>
+			<DefaultText>施放一個隨機風暴類法術，每次遭遇​一次【生命值​低於{0:value:percent}​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2227,12 +2227,12 @@
 		</Entry>
 		<Entry>
 			<ID>475</ID>
-			<DefaultText>{0:value:percent}機率為敵人恢復20點 生命值【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率為敵人恢復20點​生命值【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>476</ID>
-			<DefaultText>{0:value:percent}機率為自己恢復30點 生命值【&lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率為自己恢復30點​生命值【暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2242,62 +2242,62 @@
 		</Entry>
 		<Entry>
 			<ID>478</ID>
-			<DefaultText>{0:value} 格擋（隨 &lt;g&gt;體能&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value}​格擋（隨​體能​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>479</ID>
-			<DefaultText>{0:value} 所有 防禦屬性（隨 &lt;g&gt;玄學&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value}​所有​防禦屬性（隨​玄學​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>480</ID>
-			<DefaultText>{0:value:percentbonus} 所受法術 傷害（隨 &lt;g&gt;玄學&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​所受法術​傷害（隨​玄學​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>481</ID>
-			<DefaultText>{0:value:percentbonus} 所有所受 傷害（隨 &lt;g&gt;玄學&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​所有所受​傷害（隨​玄學​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>482</ID>
-			<DefaultText>{0:value:percentbonus} 所受武器 傷害</DefaultText>
+			<DefaultText>{0:value:percentbonus}​所受武器​傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>483</ID>
-			<DefaultText>{0:value} 護甲值。被 &lt;g&gt;命中&lt;/g&gt;時失去護甲值，但會恢復</DefaultText>
+			<DefaultText>{0:value}​護甲值。被​命中​時失去護甲值，但會恢復</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>484</ID>
-			<DefaultText>{0:value:percent} 所受 &lt;g&gt;命中&lt;/g&gt;轉為 擦傷【附近沒有同伴時】</DefaultText>
+			<DefaultText>{0:value:percent}​所受​命中​轉為​擦傷【附近沒有同伴時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>485</ID>
-			<DefaultText>{0:extravalue:percent}機率抵抗 揮砍 傷害攻擊</DefaultText>
+			<DefaultText>{0:extravalue:percent}機率抵抗​揮砍​傷害攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>486</ID>
-			<DefaultText>{0:extravalue:percent}機率抵抗 鈍擊 傷害攻擊</DefaultText>
+			<DefaultText>{0:extravalue:percent}機率抵抗​鈍擊​傷害攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>487</ID>
-			<DefaultText>{0:extravalue:percent}機率抵抗 穿刺 傷害攻擊</DefaultText>
+			<DefaultText>{0:extravalue:percent}機率抵抗​穿刺​傷害攻擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>488</ID>
-			<DefaultText>{0:value:percent}機率使目標&lt;g&gt;驚慌&lt;/g&gt;，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;擦傷&lt;/g&gt;除外）</DefaultText>
+			<DefaultText>{0:value:percent}機率使目標​驚慌，持續{0:extravalue:duration}【命中​時】（​擦傷​除外）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>489</ID>
-			<DefaultText>{0:value:percent}機率使目標&lt;g&gt;恐懼&lt;/g&gt;，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】（&lt;g&gt;擦傷&lt;/g&gt;除外）</DefaultText>
+			<DefaultText>{0:value:percent}機率使目標​恐懼，持續{0:extravalue:duration}【命中​時】（​擦傷​除外）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2307,32 +2307,32 @@
 		</Entry>
 		<Entry>
 			<ID>491</ID>
-			<DefaultText>{0:value:percentbonus} 攻擊者的 &lt;g&gt;復原&lt;/g&gt;時間（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>{0:value:percentbonus}​攻擊者的​復原​時間（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>494</ID>
-			<DefaultText>技能發動【&lt;g&gt;瀕死&lt;/g&gt;時】</DefaultText>
+			<DefaultText>技能發動【瀕死​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>495</ID>
-			<DefaultText>降低 護甲值 造成的 &lt;g&gt;復原&lt;/g&gt;懲罰（取決於護甲種類）</DefaultText>
+			<DefaultText>降低​護甲值​造成的​復原​懲罰（取決於護甲種類）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>496</ID>
-			<DefaultText>{0:value:percentbonus} 傷害【戰鬥中的首次攻擊】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​傷害【戰鬥中的首次攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>497</ID>
-			<DefaultText>{0:value} 精準【戰鬥中的首次攻擊】</DefaultText>
+			<DefaultText>{0:value}​精準【戰鬥中的首次攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>498</ID>
-			<DefaultText>戰鬥開始時，等級較低的 &lt;g&gt;基斯&lt;/g&gt;敵人可能會陷入 恐懼 狀態</DefaultText>
+			<DefaultText>戰鬥開始時，等級較低的​基斯​敵人可能會陷入​恐懼​狀態</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2347,47 +2347,47 @@
 		</Entry>
 		<Entry>
 			<ID>501</ID>
-			<DefaultText>每{0:interval:duration}【&lt;g&gt;生命值&lt;/g&gt;低於{0:extravalue:percent}時】</DefaultText>
+			<DefaultText>每{0:interval:duration}【生命值​低於{0:extravalue:percent}​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>502</ID>
-			<DefaultText>{0:value:percent}機率對自身施加 &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;狂暴&lt;/link&gt;【對女性目標 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對自身施加 &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;狂暴&lt;/link&gt;【對女性目標​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>503</ID>
-			<DefaultText>{0:value:percent}機率對自身施加 &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;狂暴&lt;/link&gt;【對男性目標 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率對自身施加 &lt;link="gamedata://dc8da24a-58d7-46c9-afae-90abea279b4f"&gt;狂暴&lt;/link&gt;【對男性目標​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>504</ID>
-			<DefaultText>{0:value} 格擋【對 &lt;g&gt;夾擊&lt;/g&gt;攻擊】</DefaultText>
+			<DefaultText>{0:value}​格擋【對​夾擊​攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>505</ID>
-			<DefaultText>獲得 體質熬煎 抗性【&lt;g&gt;生命值&lt;/g&gt;高於{0:extravalue:percent}時】</DefaultText>
+			<DefaultText>獲得​體質熬煎​抗性【生命值​高於{0:extravalue:percent}​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>506</ID>
-			<DefaultText>獲得 體質熬煎 免疫【&lt;g&gt;生命值&lt;/g&gt;高於{0:value:percent}時】</DefaultText>
+			<DefaultText>獲得​體質熬煎​免疫【生命值​高於{0:value:percent}​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>507</ID>
-			<DefaultText>{0:value:percent}機率 &lt;g&gt;震懾&lt;/g&gt;目標，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​震懾​目標，持續{0:extravalue:duration}【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>508</ID>
-			<DefaultText>{0:value:percent}機率 &lt;g&gt;震懾&lt;/g&gt;目標，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;且使用者為矮人時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​震懾​目標，持續{0:extravalue:duration}【命中​且使用者為矮人時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>509</ID>
-			<DefaultText>{0:value} 生命值（隨 外交 技能增強）</DefaultText>
+			<DefaultText>{0:value}​生命值（隨 外交 技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2397,17 +2397,17 @@
 		</Entry>
 		<Entry>
 			<ID>512</ID>
-			<DefaultText>{0:value:percent}機率使自己獲得 健朗，持續{0:extravalue:duration}【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率使自己獲得​健朗，持續{0:extravalue:duration}【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>513</ID>
-			<DefaultText>當附近有{0:triggercount}名敵人時，{0:value} 交戰</DefaultText>
+			<DefaultText>當附近有{0:triggercount}​名敵人時，{0:value}​交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>514</ID>
-			<DefaultText>當附近至少有{0:value}名同伴時，免疫 交戰</DefaultText>
+			<DefaultText>當附近至少有{0:value}​名同伴時，免疫​交戰</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2417,97 +2417,97 @@
 		</Entry>
 		<Entry>
 			<ID>520</ID>
-			<DefaultText>獲得抗 &lt;g&gt;電擊&lt;/g&gt;攻擊的 護甲值，隨佩戴者 生命值 減少而增加（最多{0:value}點）</DefaultText>
+			<DefaultText>獲得抗​電擊​攻擊的​護甲值，隨佩戴者​生命值​減少而增加（最多{0:value}​點）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>521</ID>
-			<DefaultText>獲得抗 水系 攻擊的 護甲值，隨佩戴者 生命值 減少而增加（最多{0:value}點）</DefaultText>
+			<DefaultText>獲得抗 水系 攻擊的​護甲值，隨佩戴者​生命值​減少而增加（最多{0:value}​點）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>523</ID>
-			<DefaultText>{0:value} 召喚物的 力量</DefaultText>
+			<DefaultText>{0:value}​召喚物的​力量</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>524</ID>
-			<DefaultText>{0:value} 召喚物的 穿透</DefaultText>
+			<DefaultText>{0:value}​召喚物的​穿透</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>525</ID>
-			<DefaultText>{0:value:percentbonus} 傷害【使用火器時】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​傷害【使用火器時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>530</ID>
-			<DefaultText>{0:value:percent}機率 打斷 目標【使用火繩槍、手炮與手槍攻擊時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​打斷​目標【使用火繩槍、手炮與手槍攻擊時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>531</ID>
-			<DefaultText>{0:value:percent}機率 打斷 目標【使用火銃攻擊時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​打斷​目標【使用火銃攻擊時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>533</ID>
-			<DefaultText>{0:value:percent}機率獲得 專注，持續{0:extravalue:duration}【被 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率獲得​專注，持續{0:extravalue:duration}【被​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>534</ID>
-			<DefaultText>{0:value:duration} 切換魔典冷卻</DefaultText>
+			<DefaultText>{0:value:duration}​切換魔典冷卻</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>535</ID>
-			<DefaultText>{0:value:percentbonus} 敵對 敏捷熬煎 持續時間</DefaultText>
+			<DefaultText>{0:value:percentbonus}​敵對​敏捷熬煎​持續時間</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>536</ID>
-			<DefaultText>{0:value} 強韌【站立不動時】</DefaultText>
+			<DefaultText>{0:value}​強韌【站立不動時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>537</ID>
-			<DefaultText>{0:value} 所有關鍵字為火系的 威力等級</DefaultText>
+			<DefaultText>{0:value}​所有關鍵字為火系的​威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>538</ID>
-			<DefaultText>{0:value} 武器 精準【近戰武器攻擊 &lt;g&gt;失手&lt;/g&gt;後】</DefaultText>
+			<DefaultText>{0:value}​武器​精準【近戰武器攻擊​失手​後】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>543</ID>
-			<DefaultText>{0:extravalue:percentbonus} 武器造成的 傷害（隨佩戴者 生命值 減少而增加）</DefaultText>
+			<DefaultText>{0:extravalue:percentbonus}​武器造成的​傷害（隨佩戴者​生命值​減少而增加）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>544</ID>
-			<DefaultText>{0:value} 格擋【靠近隊友時】</DefaultText>
+			<DefaultText>{0:value}​格擋【靠近隊友時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>545</ID>
-			<DefaultText>{0:value:percentbonus} &lt;g&gt;復原&lt;/g&gt;時間【使用雙手近戰武器時】</DefaultText>
+			<DefaultText>{0:value:percentbonus}​復原​時間【使用雙手近戰武器時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>546</ID>
-			<DefaultText>移除所有 傷勢</DefaultText>
+			<DefaultText>移除所有​傷勢</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>547</ID>
-			<DefaultText>返回神輪的靈魂（{0:value:straight}/{0:triggercount}）</DefaultText>
+			<DefaultText>返回神輪的靈魂（{0:value:straight}​/{0:triggercount}​）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>548</ID>
-			<DefaultText>{0:value:percent} 法術抗性（不分敵我）</DefaultText>
+			<DefaultText>{0:value:percent}​法術抗性（不分敵我）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2517,17 +2517,17 @@
 		</Entry>
 		<Entry>
 			<ID>550</ID>
-			<DefaultText>近戰武器 &lt;g&gt;暴擊&lt;/g&gt;目標有{0:value:percent}機率額外攻擊一次</DefaultText>
+			<DefaultText>近戰武器​暴擊​目標有{0:value:percent}機率額外攻擊一次</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>551</ID>
-			<DefaultText>20%的機率造成額外 &lt;g&gt;灼燒&lt;/g&gt;傷害【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>20%的機率造成額外​灼燒​傷害​【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>552</ID>
-			<DefaultText>20%的機率造成額外範圍 &lt;g&gt;灼燒&lt;/g&gt;傷害【&lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>20%的機率造成額外範圍​灼燒​傷害​【命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2542,27 +2542,27 @@
 		</Entry>
 		<Entry>
 			<ID>570</ID>
-			<DefaultText>{0:extravalue} 格擋【每層 苦痛】</DefaultText>
+			<DefaultText>{0:extravalue}​格擋【每層​苦痛】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>571</ID>
-			<DefaultText>{0:extravalue} 反射【每層 苦痛】</DefaultText>
+			<DefaultText>{0:extravalue}​反射【每層​苦痛】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>572</ID>
-			<DefaultText>{0:value:percent}機率在承受近戰武器傷害時獲得{0:extravalue:straight} 苦痛</DefaultText>
+			<DefaultText>{0:value:percent}機率在承受近戰武器傷害時獲得{0:extravalue:straight}​苦痛</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>573</ID>
-			<DefaultText>{0:value:percent}機率在來襲的近戰攻擊 &lt;g&gt;失手&lt;/g&gt;時立刻反擊</DefaultText>
+			<DefaultText>{0:value:percent}機率在來襲的近戰攻擊​失手​時立刻反擊</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>574</ID>
-			<DefaultText>{0:value:percent}機率在近戰 &lt;g&gt;暴擊&lt;/g&gt;時 打斷</DefaultText>
+			<DefaultText>{0:value:percent}機率在近戰​暴擊​時​打斷</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2572,12 +2572,12 @@
 		</Entry>
 		<Entry>
 			<ID>576</ID>
-			<DefaultText>每{0:interval 灼燒 效應範圍</DefaultText>
+			<DefaultText>每{0:interval​灼燒​效應範圍</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>577</ID>
-			<DefaultText>{0:value:percent}機率獲得{0:extravalue} 紀律【被 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率獲得{0:extravalue}​紀律【被​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2587,37 +2587,37 @@
 		</Entry>
 		<Entry>
 			<ID>579</ID>
-			<DefaultText>{0:value:percent}機率獲得{0:extravalue} 怒氣【擊殺時】</DefaultText>
+			<DefaultText>{0:value:percent}機率獲得{0:extravalue}​怒氣【擊殺時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>580</ID>
-			<DefaultText>{0:value:percent}此武器造成的傷害量轉成治療持有者</DefaultText>
+			<DefaultText>{0:value:percent}​此武器造成的傷害量轉成治療持有者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>581</ID>
-			<DefaultText>{0:value:percent}機率在近戰武器 &lt;g&gt;暴擊&lt;/g&gt;時獲得{0:extravalue} 樂節</DefaultText>
+			<DefaultText>{0:value:percent}機率在近戰武器​暴擊​時獲得{0:extravalue}​樂節</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>587</ID>
-			<DefaultText>{0:value:percent}機率減少敵人有益效果 {0:extravalue:duration}【被近戰 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率減少敵人有益效果​{0:extravalue:duration}【被近戰​命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>588</ID>
-			<DefaultText>當附近隊友完成最終擊殺時獲得 機敏 啟迪 {0:value:duration}</DefaultText>
+			<DefaultText>當附近隊友完成最終擊殺時獲得​機敏​啟迪​{0:value:duration}</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>589</ID>
-			<DefaultText>{0:value:percent}機率 打斷【瑪珈嵐的聖盾攻擊 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率​打斷【瑪珈嵐的聖盾攻擊​命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>596</ID>
-			<DefaultText>{0:value:percent}機率獲得{0:extravalue} 熱誠【擊殺時】</DefaultText>
+			<DefaultText>{0:value:percent}機率獲得{0:extravalue}​熱誠【擊殺時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2627,27 +2627,27 @@
 		</Entry>
 		<Entry>
 			<ID>612</ID>
-			<DefaultText>造成 穿刺/電擊 較高者</DefaultText>
+			<DefaultText>造成​穿刺/電擊 較高者</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>613</ID>
-			<DefaultText>{0:value:bonuspercentbonus} 傷害量的 {0:damagetype} 傷害（隨 &lt;g&gt;玄學&lt;/g&gt;技能增強）</DefaultText>
+			<DefaultText>{0:value:bonuspercentbonus}​傷害量的​{0:damagetype}​傷害（隨​玄學​技能增強）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>614</ID>
-			<DefaultText>用此武器 暴擊，將實驗靈魂能量傳入目標體內，當目標死亡時，將其變為智慧生物</DefaultText>
+			<DefaultText>用此武器​暴擊，將實驗靈魂能量傳入目標體內，當目標死亡時，將其變為智慧生物</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>615</ID>
-			<DefaultText>用此武器 暴擊，將實驗靈魂能量傳入目標體內，當目標死亡時，將其變為智慧生物（現在起生物永久是同伴）</DefaultText>
+			<DefaultText>用此武器​暴擊，將實驗靈魂能量傳入目標體內，當目標死亡時，將其變為智慧生物（現在起生物永久是同伴）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>616</ID>
-			<DefaultText>用此武器 暴擊，將實驗靈魂能量傳入目標體內，當目標死亡時，將其變為智慧生物（現在生物壽命是原來的二倍）</DefaultText>
+			<DefaultText>用此武器​暴擊，將實驗靈魂能量傳入目標體內，當目標死亡時，將其變為智慧生物（現在生物壽命是原來的二倍）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2672,52 +2672,52 @@
 		</Entry>
 		<Entry>
 			<ID>634</ID>
-			<DefaultText>如果持有者的 力量 不低於{0:value:straight}，此武器的暴擊將在持有者周圍造成{0:extravalue:percent}基礎武器傷害</DefaultText>
+			<DefaultText>如果持有者的​力量​不低於{0:value:straight}，此武器的暴擊將在持有者周圍造成{0:extravalue:percent}​基礎武器傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>635</ID>
-			<DefaultText>如果持有者的 力量 不低於{0:value:straight}，此武器的暴擊將在持有者周圍造成{0:extravalue:percent}基礎武器傷害（低於{0:triggervalue:straight}生命值的敵人將立刻被斬殺）</DefaultText>
+			<DefaultText>如果持有者的​力量​不低於{0:value:straight}，此武器的暴擊將在持有者周圍造成{0:extravalue:percent}​基礎武器傷害（低於{0:triggervalue:straight}​生命值的敵人將立刻被斬殺）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>636</ID>
-			<DefaultText>使用此武器擊殺將獲得{0:value:percent} &lt;g&gt;暴擊&lt;/g&gt;傷害（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>使用此武器擊殺將獲得{0:value:percent}​暴擊​傷害（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>637</ID>
-			<DefaultText>每有一名隊友倒下時，此武器將獲得{0:value:percent} &lt;g&gt;暴擊&lt;/g&gt;傷害（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>每有一名隊友倒下時，此武器將獲得{0:value:percent}​暴擊​傷害（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>638</ID>
-			<DefaultText>此武器 &lt;g&gt;暴擊&lt;/g&gt;時有{0:value:percent}機率向目標發動一次錐形範圍傷害</DefaultText>
+			<DefaultText>此武器​暴擊​時有{0:value:percent}機率向目標發動一次錐形範圍傷害</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>639</ID>
-			<DefaultText>此武器 &lt;g&gt;暴擊&lt;/g&gt;時有{0:value:percent}機率向目標發動一次錐形範圍傷害（同時使敵人 患病）</DefaultText>
+			<DefaultText>此武器​暴擊​時有{0:value:percent}機率向目標發動一次錐形範圍傷害（同時使敵人 患病）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>640</ID>
-			<DefaultText>此武器暴擊 時有{0:value:percent}機率向目標發動一次錐形範圍傷害（同時降低敵人 防禦屬性）</DefaultText>
+			<DefaultText>此武器暴擊​時有{0:value:percent}機率向目標發動一次錐形範圍傷害（同時降低敵人​防禦屬性）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>641</ID>
-			<DefaultText>{0:value:percent}機率賦予附近隊友 堅定【受到傷害時】</DefaultText>
+			<DefaultText>{0:value:percent}機率賦予附近隊友​堅定【受到傷害時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>642</ID>
-			<DefaultText>{0:value:percent}機率賦予附近隊友 堅定、堅決 或 勇往直前【受到傷害時】</DefaultText>
+			<DefaultText>{0:value:percent}機率賦予附近隊友​堅定、堅決​或​勇往直前【受到傷害時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>643</ID>
-			<DefaultText>{0:value} 所有 藥物 威力等級</DefaultText>
+			<DefaultText>{0:value}​所有​藥物​威力等級</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2737,27 +2737,27 @@
 		</Entry>
 		<Entry>
 			<ID>667</ID>
-			<DefaultText>{0:value:percent}機率獲得 才智過人 啟迪【受到傷害時】</DefaultText>
+			<DefaultText>{0:value:percent}機率獲得​才智過人​啟迪【受到傷害時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>669</ID>
-			<DefaultText>灼燒 傷害反擊【被近戰 &lt;g&gt;命中&lt;/g&gt;時】</DefaultText>
+			<DefaultText>灼燒​傷害反擊【被近戰​命中​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>674</ID>
-			<DefaultText>對目標種族{0:value} 精準（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>對目標種族{0:value}​精準（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>675</ID>
-			<DefaultText>對目標種族{0:value} &lt;g&gt;精準&lt;/g&gt;和{0:triggervalue}防禦（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>對目標種族{0:value}​精準​和{0:triggervalue}​防禦（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>676</ID>
-			<DefaultText>對目標種族{0:value} &lt;g&gt;精準&lt;/g&gt;和{0:triggervalue:percent}傷害（&lt;g&gt;疊加&lt;/g&gt;最高{0:extravalue:straight}次）</DefaultText>
+			<DefaultText>對目標種族{0:value}​精準​和{0:triggervalue:percent}​傷害（​疊加​最高{0:extravalue:straight}​次）</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2767,7 +2767,7 @@
 		</Entry>
 		<Entry>
 			<ID>697</ID>
-			<DefaultText>{0:value:percent}機率對擁有者施放 &lt;link="gamedata://179fdaea-68b2-4323-bde7-4193bc8d9ba7"&gt;免難術&lt;/link&gt;或&lt;link="gamedata://5432fc17-3a73-42cc-9a64-fa09949ec031"&gt;痛苦迴響&lt;/link&gt;【&lt;g&gt;瀕死&lt;/g&gt;時被攻擊】</DefaultText>
+			<DefaultText>{0:value:percent}機率對擁有者施放 &lt;link="gamedata://179fdaea-68b2-4323-bde7-4193bc8d9ba7"&gt;免難術&lt;/link&gt;或&lt;link="gamedata://5432fc17-3a73-42cc-9a64-fa09949ec031"&gt;痛苦迴響&lt;/link&gt;【瀕死​時被攻擊】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -2787,12 +2787,12 @@
 		</Entry>
 		<Entry>
 			<ID>751</ID>
-			<DefaultText>{0:value:percent}機率使佩戴者的下一次 &lt;g&gt;先手權&lt;/g&gt;為零【被近戰 &lt;g&gt;暴擊&lt;/g&gt;時】</DefaultText>
+			<DefaultText>{0:value:percent}機率使佩戴者的下一次​先手權​為零【被近戰​暴擊​時】</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>752</ID>
-			<DefaultText>{0:ExtraValue:PercentBonus} &lt;g&gt;樂節&lt;/g&gt;積累</DefaultText>
+			<DefaultText>{0:ExtraValue:PercentBonus}​樂節​積累</DefaultText>
 			<FemaleText/>
 		</Entry>
 	</Entries>

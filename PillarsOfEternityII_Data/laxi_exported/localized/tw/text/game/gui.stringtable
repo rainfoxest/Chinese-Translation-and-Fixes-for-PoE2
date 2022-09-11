@@ -21,37 +21,37 @@
    </Entry>
    <Entry>
      <ID>5260</ID>
-     <DefaultText>&lt;sprite="Inline" name="action_parley" tint=1&gt; {0}. 交渉</DefaultText>
+     <DefaultText>&lt;sprite="Inline" name="action_parley" tint=1&gt;​{0}​. 交渉</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5261</ID>
-     <DefaultText>&lt;sprite="Inline" name="action_board" tint=1&gt; {0}. 登船</DefaultText>
+     <DefaultText>&lt;sprite="Inline" name="action_board" tint=1&gt;​{0}​. 登船</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5262</ID>
-     <DefaultText>&lt;sprite="Inline" name="action_fire" tint=1&gt; {0}. 海戰</DefaultText>
+     <DefaultText>&lt;sprite="Inline" name="action_fire" tint=1&gt;​{0}​. 海戰</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5263</ID>
-     <DefaultText>&lt;sprite="Inline" name="action_intimidate" tint=1&gt; {0}. 恐嚇</DefaultText>
+     <DefaultText>&lt;sprite="Inline" name="action_intimidate" tint=1&gt;​{0}​. 恐嚇</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5264</ID>
-     <DefaultText>&lt;sprite="Inline" name="action_leave" tint=1&gt; {0}. 離開</DefaultText>
+     <DefaultText>&lt;sprite="Inline" name="action_leave" tint=1&gt;​{0}​. 離開</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5265</ID>
-     <DefaultText>&lt;sprite="Inline" name="action_flee" tint=1&gt; {0}. 試圖逃跑</DefaultText>
+     <DefaultText>&lt;sprite="Inline" name="action_flee" tint=1&gt;​{0}​. 試圖逃跑</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5266</ID>
-     <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt; {0}. 投降</DefaultText>
+     <DefaultText>&lt;sprite="Inline" name="ic_ship_surrender" tint=1&gt;​{0}​. 投降</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -86,7 +86,7 @@
    </Entry>
    <Entry>
      <ID>5276</ID>
-     <DefaultText>成功 = +&lt;sprite="Inline" name="icon_ship_currency" tint=1&gt;{0}  +&lt;sprite="Inline" name="icon_ship_food" tint=1&gt;{1}   +&lt;sprite="Inline" name="icon_ship_water" tint=1&gt;{2}        失敗 = &lt;sprite="Inline" name="action_board" tint=1&gt;登船</DefaultText>
+     <DefaultText>成功 = +&lt;sprite="Inline" name="icon_ship_currency" tint=1&gt;{0}​ +&lt;sprite="Inline" name="icon_ship_food" tint=1&gt;{1}​  +&lt;sprite="Inline" name="icon_ship_water" tint=1&gt;{2}​       失敗 = &lt;sprite="Inline" name="action_board" tint=1&gt;登船</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -101,12 +101,12 @@
    </Entry>
    <Entry>
      <ID>5279</ID>
-      <DefaultText>敵人允許你離開，但要付出代價。  -&lt;sprite="Inline" name="icon_ship_currency" tint=1&gt;{0}  -&lt;sprite="Inline" name="icon_ship_food" tint=1&gt;{1}   -&lt;sprite="Inline" name="icon_ship_water" tint=1&gt;{2}</DefaultText>
+      <DefaultText>敵人允許你離開，但要付出代價。  -&lt;sprite="Inline" name="icon_ship_currency" tint=1&gt;{0}​ -&lt;sprite="Inline" name="icon_ship_food" tint=1&gt;{1}​  -&lt;sprite="Inline" name="icon_ship_water" tint=1&gt;{2}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5281</ID>
-     <DefaultText>{0}機率</DefaultText>
+     <DefaultText>{0}​機率</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -121,7 +121,7 @@
    </Entry>
    <Entry>
      <ID>5288</ID>
-     <DefaultText>{0}投降</DefaultText>
+     <DefaultText>{0}​投降</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>

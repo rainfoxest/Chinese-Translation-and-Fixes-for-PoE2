@@ -16,12 +16,12 @@
    </Entry>
    <Entry>
      <ID>517</ID>
-     <DefaultText>被持有者攻擊的敵人需要一名額外友軍才能進行 夾擊</DefaultText>
+     <DefaultText>被持有者攻擊的敵人需要一名額外友軍才能進行​夾擊</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>519</ID>
-     <DefaultText>有敵人對穿戴者施放 智力熬煎 時，對該敵人施加 困惑</DefaultText>
+     <DefaultText>有敵人對穿戴者施放​智力熬煎​時，對該敵人施加​困惑</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -31,22 +31,22 @@
    </Entry>
    <Entry>
      <ID>526</ID>
-     <DefaultText>敵人造成 {0:value:percentbonus} 傷害【穿戴者 &lt;g&gt;生命值&lt;/g&gt;高於50%時】</DefaultText>
+     <DefaultText>敵人造成​{0:value:percentbonus}​傷害【穿戴者​生命值高於50%時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>527</ID>
-     <DefaultText>造成 {0:value:percentbonus} 傷害【對 &lt;g&gt;生命值&lt;/g&gt;高於50%的敵人】</DefaultText>
+     <DefaultText>造成​{0:value:percentbonus}​傷害【對​生命值高於50%的敵人】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>529</ID>
-     <DefaultText>造成敵對 灼燒/鈍擊 範圍傷害【&lt;g&gt;昏迷&lt;/g&gt;時】</DefaultText>
+     <DefaultText>造成敵對​灼燒/鈍擊​範圍傷害【昏迷​時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>532</ID>
-     <DefaultText>{0:value:percent}機率在近戰武器 &lt;g&gt;命中&lt;/g&gt;時對敵人或持有者造成持續 &lt;g&gt;真實&lt;/g&gt;流血傷害</DefaultText>
+     <DefaultText>{0:value:percent}機率在近戰武器​命中​時對敵人或持有者造成持續​真實​流血傷害</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>

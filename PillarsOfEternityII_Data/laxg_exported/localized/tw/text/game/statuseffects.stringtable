@@ -11,77 +11,77 @@
    </Entry>
    <Entry>
      <ID>680</ID>
-     <DefaultText>{0:value} 穿透【目標沒有受到其他隊友攻擊時】</DefaultText>
+     <DefaultText>{0:value}​穿透【目標沒有受到其他隊友攻擊時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>681</ID>
-     <DefaultText>{0:value:percent} 傷害所受量轉化為治療</DefaultText>
+     <DefaultText>{0:value:percent}​傷害​所受量轉化為治療</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>682</ID>
-     <DefaultText>{0:value:percent} 命中 轉為 暴擊【對被 魅惑 目標】</DefaultText>
+     <DefaultText>{0:value:percent}​命中​轉為​暴擊【對被​魅惑​目標】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>683</ID>
-     <DefaultText>若等級不低於{0:value:straight}，還施加一種隨機{0:extravalue:straight}階 肉體啟迪</DefaultText>
+     <DefaultText>若等級不低於{0:value:straight}，還施加一種隨機{0:extravalue:straight}​階​肉體啟迪</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>684</ID>
-     <DefaultText>{0:value:percent} 傷害所受量轉化為治療【對受 熬煎 目標】</DefaultText>
+     <DefaultText>{0:value:percent}​傷害​所受量轉化為治療【對受​熬煎​目標】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>686</ID>
-     <DefaultText>灌注法術效果獲得 {0:value} 精準（隨 &lt;g&gt;秘法&lt;/g&gt;技能增強）</DefaultText>
+     <DefaultText>灌注法術效果獲得​{0:value}​精準（隨​秘法​技能增強）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>687</ID>
-     <DefaultText>{0:value} 精準【非灌注/元素/火焰/寒霜/酸液/電擊/法術攻擊】</DefaultText>
+     <DefaultText>{0:value}​精準【非灌注/元素/火焰/寒霜/酸液/電擊/法術攻擊】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>691</ID>
-     <DefaultText>{0:value} 苦痛【負面效果消失時】</DefaultText>
+     <DefaultText>{0:value}​苦痛【負面效果消失時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>692</ID>
-     <DefaultText>{0:value} 生命值【負面效果消失時】</DefaultText>
+     <DefaultText>{0:value}​生命值【負面效果消失時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>693</ID>
-     <DefaultText>禱歌消除所有 樂節</DefaultText>
+     <DefaultText>禱歌​消除所有​樂節</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>694</ID>
-     <DefaultText>禱歌根據消耗的樂節賦予 威力等級，持續{0:extravalue:duration}</DefaultText>
+     <DefaultText>禱歌​根據消耗的​樂節​賦予​威力等級，持續{0:extravalue:duration}</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>695</ID>
-     <DefaultText>無法 強效</DefaultText>
+     <DefaultText>無法​強效</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>696</ID>
-     <DefaultText>對自身造成不定量 &lt;g&gt;真實&lt;/g&gt;傷害以恢復一定比例的法師法術資源</DefaultText>
+     <DefaultText>對自身造成不定量​真實​傷害​以恢復一定比例的法師法術資源</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>698</ID>
-     <DefaultText>{0:value:percent} &lt;g&gt;命中&lt;/g&gt;轉為 擦傷【沒受到 &lt;g&gt;熬煎&lt;/g&gt;時】</DefaultText>
+     <DefaultText>{0:value:percent}​命中​轉為​擦傷【沒受到​熬煎​時】</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>699</ID>
-     <DefaultText>{0:value} 精準【目標沒有受到其他隊友攻擊時】</DefaultText>
+     <DefaultText>{0:value}​精準【目標沒有受到其他隊友攻擊時】</DefaultText>
      <FemaleText />
    </Entry>
  </Entries>

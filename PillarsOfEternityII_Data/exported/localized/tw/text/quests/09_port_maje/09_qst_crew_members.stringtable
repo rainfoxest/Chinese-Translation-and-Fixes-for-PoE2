@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>好幫手</DefaultText>
+      <DefaultText>伸出援手</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>&lt;b&gt;反抗者號&lt;/b&gt;已經擱淺，上面的船員要麼死了要麼已經逃離。有可能還能找到更多&lt;b&gt;生還者&lt;/b&gt;。</DefaultText>
+      <DefaultText>&lt;b&gt;反抗者號&lt;/b&gt;擱淺了，船員要麼死了要麼逃生了。也許還能夠找到更多&lt;b&gt;倖存者&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>有人看見一名&lt;b&gt;倖存者&lt;/b&gt;往北面的一處洞穴去了。</DefaultText>
+      <DefaultText>有人看見一名&lt;b&gt;倖存者&lt;/b&gt;往附近&lt;b&gt;北面的一處洞穴&lt;/b&gt;去了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>&lt;b&gt;波多爾&lt;/b&gt;走進了陷阱之中。他需要我來幫助他走出來。</DefaultText>
+      <DefaultText>&lt;b&gt;波多爾&lt;/b&gt;誤入了陷阱。他需要我來幫助他走出來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>我在通往東方的路上找到了&lt;b&gt;老英格利姆&lt;/b&gt;。他看上去一個人過的很好。</DefaultText>
+      <DefaultText>我在通往東方的路上找到了&lt;b&gt;老英格利姆&lt;/b&gt;。他看上去一個人過得很好。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>20008</ID>
-      <DefaultText>我將&lt;b&gt;波多爾&lt;/b&gt;解救了出來。</DefaultText>
+      <DefaultText>我解救了&lt;b&gt;波多爾&lt;/b&gt;。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>20010</ID>
-      <DefaultText>&lt;b&gt;奇圖帕&lt;/b&gt;成功從反抗者號上倖存了下來。</DefaultText>
+      <DefaultText>&lt;b&gt;奇圖帕&lt;/b&gt;在反抗者號的船難中倖存了下來。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>我的老船員們都死光了。靠我自己有可能會很難操縱這艘船，但是最起碼有人幫我。</DefaultText>
+      <DefaultText>我的舊船員們都死光了。獨自操縱這艘船雖然可以挺困難，但是至少我的船員比舊的好。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>我不能再浪費時間去找我的老船員們了。我將他們留在了島上。</DefaultText>
+      <DefaultText>我不能再浪費時間去找我的舊船員們。我留他們在島上了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>我們在船難中損失了大量人手，但是我成功找到了幾個舊船員。</DefaultText>
+      <DefaultText>我們在船難中損失了大量人手，但我幾經辛苦找到了幾位舊船員。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>&lt;g&gt;娥狄卡&lt;/g&gt;的雕像手裡拿著一把精緻的戰槌。戰槌中的意識接觸你的思想—就是那個當你進入遺跡時接觸到的意識。</DefaultText>
+      <DefaultText>娥狄卡​的雕像手裡拿著一把精緻的硬頭錘。硬頭錘中的意識接觸你的思想—就是那個當你進入遺蹟時接觸到的意識。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,47 +16,47 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[讓戰槌繼續]</DefaultText>
+      <DefaultText>[讓硬頭錘繼續]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[放開戰槌]</DefaultText>
+      <DefaultText>[放開硬頭錘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>你擺脫戰槌。它意識的觸手從你腦海中消散。</DefaultText>
+      <DefaultText>你擺脫硬頭錘。它意識的觸手從你腦海中消散。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>你集中所有注意力來阻擋戰槌，不讓它進入你的腦海中。</DefaultText>
+      <DefaultText>你集中所有注意力來阻擋硬頭錘，不讓它進入你的腦海中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>你感覺到戰槌希望你留下來保護它。</DefaultText>
+      <DefaultText>你感覺到硬頭錘希望你留下來保護它。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>儘管它希望你留下來保護它，但它無法強迫你留在遺跡中。你將它從雕像上撿起來，並沒有產生不良後果。</DefaultText>
+      <DefaultText>儘管它希望你留下來保護它，但它無法強迫你留在遺蹟中。你將它從雕像上撿起來，並沒有產生不良後果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>你發現摸到的戰槌很冷。它裡頭的意識探索你的思想邊緣，尋找你的心靈防禦缺陷。</DefaultText>
+      <DefaultText>你發現摸到的硬頭錘很冷。它裡頭的意識探索你的思想邊緣，尋找你的心靈防禦缺陷。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[檢查戰槌]</DefaultText>
+      <DefaultText>[檢查硬頭錘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[抓住戰槌]</DefaultText>
+      <DefaultText>[抓住硬頭錘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>戰槌的皮革握柄很奇怪地沒有受到歲月的侵蝕。它的頭部由黑色金屬製成，散發著殘酷而刺骨的寒氣。</DefaultText>
+      <DefaultText>硬頭錘的皮革握柄很奇怪地沒有受到歲月的侵蝕。它的頭部由黑色金屬製成，散發著殘酷而刺骨的寒氣。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,69 +91,69 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>你試圖用自身力量來抵抗戰槌中的意識，但卻沒有嚇到它。它像水蛭一樣呆在你的腦海裡。
+      <DefaultText>你試圖用自身力量來抵抗硬頭錘中的意識，但卻沒有嚇到它。它像水蛭一樣呆在你的腦海裡。
 
-戰槌讓你想要靠近並保護雕像……即使你付出生命的代價。</DefaultText>
+硬頭錘讓你想要靠近並保護雕像……即使你付出生命的代價。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[拿著戰槌]</DefaultText>
+      <DefaultText>[拿著硬頭錘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>你伸手去拿戰槌。一股強大的力量迫使你離開它所在之地。你無力抵抗這股強大的力量。</DefaultText>
+      <DefaultText>你伸手去拿硬頭錘。一股強大的力量迫使你離開它所在之地。你無力抵抗這股強大的力量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[拿著戰槌]</DefaultText>
+      <DefaultText>[拿著硬頭錘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>你感覺到因為你之前和 &lt;g&gt;娥狄卡&lt;/g&gt;交過手，戰槌中的意識在你身邊會並沒有反感。如果你試圖將它從廢墟中拿走，它也不會抵抗。</DefaultText>
+      <DefaultText>你感覺到因為你之前和​娥狄卡​交過手，硬頭錘中的意識在你身邊會並沒有反感。如果你試圖將它從廢墟中拿走，它也不會抵抗。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>[拿著戰槌]</DefaultText>
+      <DefaultText>[拿著硬頭錘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[放開戰槌]</DefaultText>
+      <DefaultText>[放開硬頭錘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>你鬆開戰槌，遠離 &lt;g&gt;娥狄卡&lt;/g&gt;的雕像。意識的觸手從你的腦海中退出，只留下無形的、無法治癒的悲哀。</DefaultText>
+      <DefaultText>你鬆開硬頭錘，遠離​娥狄卡​的雕像。意識的觸手從你的腦海中退出，只留下無形的、無法治癒的悲哀。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>當你抓住戰槌時，你感到很高興。它匯聚在你的胸膛裡，像燈籠一樣閃閃發光，溫暖你的心靈。</DefaultText>
+      <DefaultText>當你抓住硬頭錘時，你感到很高興。它匯聚在你的胸膛裡，像燈籠一樣閃閃發光，溫暖你的心靈。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>戰槌覺察到你帶它離開這個廢墟和驚慌之地。你有一種想要把它丟在雕像附近然後逃離廢墟的衝動。</DefaultText>
+      <DefaultText>硬頭錘覺察到你帶它離開這個廢墟和驚慌之地。你有一種想要把它丟在雕像附近然後逃離廢墟的衝動。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[拿著戰槌]</DefaultText>
+      <DefaultText>[拿著硬頭錘]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>你將戰槌僅存的意志都粉碎了，並將它從雕像中提起來。最後，絕望，從戰槌轉移到你身上。</DefaultText>
+      <DefaultText>你將硬頭錘僅存的意志都粉碎了，並將它從雕像中提起來。最後，絕望，從硬頭錘轉移到你身上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>雖然你已經阻止戰槌控制你的想法，但是你沒能粉碎它的意志。戰槌突然爆發一股強大的力量，迫使你離開它呆的地方。你無力抵抗這股強大的力量。</DefaultText>
+      <DefaultText>雖然你已經阻止硬頭錘控制你的想法，但是你沒能粉碎它的意志。硬頭錘突然爆發一股強大的力量，迫使你離開它呆的地方。你無力抵抗這股強大的力量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,7 +190,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>「啊！睿姆岡 這個混蛋！」
+      <DefaultText>「啊！睿姆岡​這個混蛋！」
 
 它聲音低沉，像是吃了什麼東西。</DefaultText>
       <FemaleText />

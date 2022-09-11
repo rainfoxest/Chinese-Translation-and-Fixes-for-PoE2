@@ -141,7 +141,7 @@
    </Entry>
    <Entry>
      <ID>4850</ID>
-     <DefaultText>穿戴者在戰鬥開始時獲得大量 意志，但意志會隨時間持續下降。</DefaultText>
+     <DefaultText>穿戴者在戰鬥開始時獲得大量​意志，但意志會隨時間持續下降。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -341,7 +341,7 @@
    </Entry>
    <Entry>
      <ID>5071</ID>
-     <DefaultText>使用者過度集中精神，擴大盾牌的半徑並給附近隊友提供 格擋 加成。</DefaultText>
+     <DefaultText>使用者過度集中精神，擴大盾牌的半徑並給附近隊友提供​格擋​加成。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -351,7 +351,7 @@
    </Entry>
    <Entry>
      <ID>5073</ID>
-     <DefaultText>（全面盾牌擴展）—現在隊友獲得全防禦加成，而非僅獲得 格擋 加成。</DefaultText>
+     <DefaultText>（全面盾牌擴展）—現在隊友獲得全防禦加成，而非僅獲得​格擋​加成。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -361,7 +361,7 @@
    </Entry>
    <Entry>
      <ID>5075</ID>
-     <DefaultText>（強化盾牌擴展）—給隊友提供的 格擋 加成提升。</DefaultText>
+     <DefaultText>（強化盾牌擴展）—給隊友提供的​格擋​加成提升。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -411,7 +411,7 @@
    </Entry>
    <Entry>
      <ID>5087</ID>
-     <DefaultText>每次遭遇穿戴者被 &lt;g&gt;暴擊&lt;/g&gt;時有機率進入狂暴狀態。穿戴者獲得 強力 和 健朗 啟迪 以及 行動速度 加成。處於狂暴狀態下的穿戴者將受到 格擋 懲罰。</DefaultText>
+     <DefaultText>每次遭遇穿戴者被​暴擊​時有機率進入狂暴狀態。穿戴者獲得​強力​和​健朗​啟迪​以及​行動速度​加成。處於狂暴狀態下的穿戴者將受到​格擋​懲罰。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -426,7 +426,7 @@
    </Entry>
    <Entry>
      <ID>5090</ID>
-     <DefaultText>當穿戴者處於深紅全罩甲的狂暴狀態下時，獲得護盾效果，可吸收部分承受的 傷害（吸收量隨 生存 技能增強）</DefaultText>
+     <DefaultText>當穿戴者處於深紅全罩甲的狂暴狀態下時，獲得護盾效果，可吸收部分承受的​傷害（吸收量隨​生存​技能增強）</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -436,37 +436,37 @@
    </Entry>
    <Entry>
      <ID>5092</ID>
-     <DefaultText>當奧布里特跟隨隊伍時，你獲得的所有有益效果持續時間延長，另外隊伍的脫戰 防禦屬性 提升。</DefaultText>
+     <DefaultText>當奧布里特跟隨隊伍時，你獲得的所有有益效果持續時間延長，另外隊伍的脫戰​防禦屬性​提升。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5093</ID>
-     <DefaultText>當苗條阿吉跟隨隊伍時，你的區域效果攻擊和法術可造成額外傷害，另外隊伍對區域效果攻擊和法術的防禦力提升。</DefaultText>
+     <DefaultText>當苗條阿吉跟隨隊伍時，你的區域效果攻擊和法術可造成額外​傷害，另外隊伍對區域效果攻擊和法術的​防禦屬性​提升。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5094</ID>
-     <DefaultText>當盧塞洛跟隨隊伍時，你獲得對 敏捷熬煎 的 抗性，另外隊伍在快速使用物品後的 &lt;g&gt;復原&lt;/g&gt;時間縮短。</DefaultText>
+     <DefaultText>當盧塞洛跟隨隊伍時，你獲得對​敏捷熬煎​的​抗性，另外隊伍在快速使用物品後的​復原​時間縮短。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5095</ID>
-     <DefaultText>當小眨巴跟隨隊伍時，你獲得對 感知熬煎 的 抗性，另外隊伍的近戰精準提升。</DefaultText>
+     <DefaultText>當小眨巴跟隨隊伍時，你獲得對​感知熬煎​的​抗性，另外隊伍的近戰​精準​提升。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5096</ID>
-     <DefaultText>當雷迪納跟隨隊伍時，夾擊 你所需的敵人數量加一，另外隊伍的遠程 &lt;g&gt;精準&lt;/g&gt;提升。</DefaultText>
+     <DefaultText>當雷迪納跟隨隊伍時，夾擊​你所需的敵人數量加一，另外隊伍的遠程​精準​提升。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5097</ID>
-     <DefaultText>當包紮小能手跟隨隊伍時，你獲得額外 護甲值，另外隊伍獲得持續治療。</DefaultText>
+     <DefaultText>當包紮小能手跟隨隊伍時，你獲得額外​護甲值，另外隊伍獲得持續治療。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5098</ID>
-     <DefaultText>當鵝膏菌跟隨隊伍時，你在攻擊時有一定機率 魅惑 敵人，另外隊伍可造成額外 &lt;g&gt;腐蝕&lt;/g&gt;傷害。</DefaultText>
+     <DefaultText>當鵝膏菌跟隨隊伍時，你在攻擊時有一定機率​魅惑​敵人，另外隊伍可造成額外​腐蝕​傷害。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -476,12 +476,12 @@
    </Entry>
    <Entry>
      <ID>5100</ID>
-     <DefaultText>使用者手中產生由純粹混亂構成的小球。投擲出去時，小球在敵人之間彈跳，造成傷害並施加各種 熬煎，這些狀態包括 踉蹌、噁心、蹣跚、煩亂、困惑 和 動搖。</DefaultText>
+     <DefaultText>使用者手中產生由純粹混亂構成的小球。投擲出去時，小球在敵人之間彈跳，造成傷害並施加各種​熬煎，這些狀態包括​踉蹌、噁心、蹣跚、煩亂、困惑​和​動搖。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
      <ID>5101</ID>
-     <DefaultText>重擔之劍是名副其實的巨劍，需要很高的 力量 才能揮舞自如。</DefaultText>
+     <DefaultText>重擔之劍是名副其實的巨劍，需要很高的​力量​才能揮舞自如。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -501,7 +501,7 @@
    </Entry>
    <Entry>
      <ID>5107</ID>
-     <DefaultText>隊友的死在很大程度上影響使用者，使其能更輕鬆的揮舞重擔之劍。每次一名隊友被打倒時，使用者獲得 力量 加成，直到戰鬥結束。</DefaultText>
+     <DefaultText>隊友的死在很大程度上影響使用者，使其能更輕鬆的揮舞重擔之劍。每次一名隊友被打倒時，使用者獲得​力量​加成，直到戰鬥結束。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -531,7 +531,7 @@
    </Entry>
    <Entry>
      <ID>5113</ID>
-     <DefaultText>召喚一根無法移動的巨型觸手。該觸手能對附近角色造成 &lt;g&gt;腐蝕&lt;/g&gt;傷害，還能抓起 &lt;g&gt;基斯&lt;/g&gt;敵人。</DefaultText>
+     <DefaultText>召喚一根無法移動的巨型觸手。該觸手能對附近角色造成​腐蝕​傷害，還能抓起​基斯​敵人。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -541,7 +541,7 @@
    </Entry>
    <Entry>
      <ID>5116</ID>
-     <DefaultText>一道天界能量彈在隊友之間彈射，為其隨機提供以下 啟迪 中的一種：強硬、健壯、靈巧、機敏、聰慧、堅決。</DefaultText>
+     <DefaultText>一道天界能量彈在隊友之間彈射，為其隨機提供以下​啟迪​中的一種：強硬、健壯、靈巧、機敏、聰慧、堅決。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -551,7 +551,7 @@
    </Entry>
    <Entry>
      <ID>5118</ID>
-     <DefaultText>使用者釋放星鐵中的靈魂，擊殺其中的靈魂時，使用者隨機獲得以下 啟迪 中的一種：強力、健朗、快速、敏銳、聰明、堅定。</DefaultText>
+     <DefaultText>使用者釋放星鐵中的靈魂，擊殺其中的靈魂時，使用者隨機獲得以下​啟迪​中的一種：強力、健朗、快速、敏銳、聰明、堅定。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -571,7 +571,7 @@
    </Entry>
    <Entry>
      <ID>5122</ID>
-     <DefaultText>腐臭的液體從小瓶中噴出，濺在範圍內所有角色身上。被濺到的角色會被週期性 震懾。</DefaultText>
+     <DefaultText>腐臭的液體從小瓶中噴出，濺在範圍內所有角色身上。被濺到的角色會被週期性​震懾。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -621,7 +621,7 @@
    </Entry>
    <Entry>
      <ID>5133</ID>
-     <DefaultText>博拉斯跟隨小隊時，你的 歷史 和 &lt;g&gt;玄學&lt;/g&gt;技能提升，另外隊伍的法術 &lt;g&gt;精準&lt;/g&gt;提升。</DefaultText>
+     <DefaultText>博拉斯跟隨小隊時，你的​歷史​和​玄學​技能提升，另外隊伍的法術​精準​提升。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>
@@ -646,7 +646,7 @@
    </Entry>
    <Entry>
      <ID>5164</ID>
-     <DefaultText>當盧塞洛跟隨隊伍時，你獲得對 敏捷熬煎 的 抗性，另外隊伍在快速使用物品後的 &lt;g&gt;先手權&lt;/g&gt;降低。</DefaultText>
+     <DefaultText>當盧塞洛跟隨隊伍時，你獲得對​敏捷熬煎​的​抗性，另外隊伍在快速使用物品後的​先手權​降低。</DefaultText>
      <FemaleText />
    </Entry>
    <Entry>

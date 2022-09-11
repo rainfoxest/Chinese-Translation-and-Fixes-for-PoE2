@@ -138,7 +138,7 @@
 			<ID>24</ID>
 			<DefaultText>攻擊骰為1至100之間的隨機數，並計算該次攻擊精準&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;與目標防禦&lt;sprite="Inline" name="cs_deflection" tint=1&gt; &lt;sprite="Inline" name="cs_fortitude" tint=1&gt;差值。&lt;sprite="Inline" name="cs_reflex" tint=1&gt; &lt;sprite="Inline" name="cs_will" tint=1&gt;。如果精準低於防禦，則該次攻擊骰將遭受懲罰。如果精準高於防禦，則該次攻擊骰將獲得加成。
 
-攻擊骰最終越高越好。[Miss Max Roll]或更少 = 失手，[Graze Min Roll]-[Graze Max Roll] = 擦傷，[Hit Min Roll]-[Hit Max Roll] = 命中，[Crit Min Roll]+ = 暴擊。</DefaultText>
+攻擊骰最終越高越好。[Miss Max Roll]或更少 =​失手，[Graze Min Roll]-[Graze Max Roll] =​擦傷，[Hit Min Roll]-[Hit Max Roll] =​命中，[Crit Min Roll]+ =​暴擊。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -158,7 +158,7 @@
 		</Entry>
 		<Entry>
 			<ID>28</ID>
-			<DefaultText>藥水、卷軸、炸彈、陷阱 與魔法雕像等物品都會裝備在角色的快速使用物品欄中。可在戰鬥中選擇角色熱鍵欄中的&lt;sprite="Inline" name="quickitems_s" tint=1&gt;使用這些物品。</DefaultText>
+			<DefaultText>藥水、卷軸、炸彈、陷阱​與魔法雕像等物品都會裝備在角色的快速使用物品欄中。可在戰鬥中選擇角色熱鍵欄中的&lt;sprite="Inline" name="quickitems_s" tint=1&gt;使用這些物品。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -468,9 +468,9 @@
 		</Entry>
 		<Entry>
 			<ID>85</ID>
-			<DefaultText>你的船員們在冒險時會消耗食物與飲料。其享用的食物與飲料類型會改變其鬥志。更昂貴的補給品會使其更愉悅。廉價的吃喝會隨時間逐漸降低其鬥志。
+			<DefaultText>你的船員們在冒險時會消耗食物與飲料。其享用的食物與飲料類型會改變其​鬥志。更昂貴的補給品會使其更愉悅。廉價的吃喝會隨時間逐漸降低其鬥志。
 
-儘管如此，船員們的鬥志在斷糧時會大大降低。鬥志低下的飢餓船員可能會發生暴動。如果被忽視太久，有些人甚至會死去。</DefaultText>
+儘管如此，船員們的​鬥志​在斷糧時會大大降低。鬥志​低下的飢餓船員可能會發生暴動。如果被忽視太久，有些人甚至會死去。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -537,12 +537,12 @@
 		</Entry>
 		<Entry>
 			<ID>96</ID>
-			<DefaultText>低鬥志</DefaultText>
+			<DefaultText>低​鬥志</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
 			<ID>97</ID>
-			<DefaultText>如果船員的鬥志過低，可能最終會導致發生暴亂。你可以通過補充較昂貴的補給品、擊敗敵人船隻與分享戰利品等方式提升船員鬥志。</DefaultText>
+			<DefaultText>如果船員的​鬥志​過低，可能最終會導致發生暴亂。你可以通過補充較昂貴的補給品、擊敗敵人船隻與分享戰利品等方式提升船員​鬥志。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
@@ -566,7 +566,7 @@
 			<ID>101</ID>
 			<DefaultText>當兩艘船距離足夠接近時，就可以選擇登船或撞擊。登船會將兩艘船鎖定在一起，並轉變為兩隊船員之間的甲板戰。撞擊會對兩艘船的船身均造成損傷。如果兩艘船均未沉沒，那麼也將轉變為甲板戰。
 
-如果你成功擊沉其他船隻或在甲板戰中取得勝利，就可以隨意處置戰利品。戰利品一般包括船隻資源和財寶，偶爾還會有代表敵方船長的唯一旗幟。搶奪來的錢財可以分享給船員提升其鬥志，而旗幟則會始終飄揚在船隻的桅桿上。</DefaultText>
+如果你成功擊沉其他船隻或在甲板戰中取得勝利，就可以隨意處置戰利品。戰利品一般包括船隻資源和財寶，偶爾還會有代表敵方船長的唯一旗幟。搶奪來的錢財可以分享給船員提升其​鬥志，而旗幟則會始終飄揚在船隻的桅桿上。</DefaultText>
 			<FemaleText/>
 		</Entry>
 		<Entry>
